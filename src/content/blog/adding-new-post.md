@@ -1,6 +1,7 @@
 ---
 author: Sat Naing
 title: Altered - Adding new posts in AstroPaper theme
+pubDatetime: 2024-01-24T12:00:00Z
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
@@ -9,7 +10,7 @@ tags:
 description: Some rules & recommendations for creating or adding new posts using
   AstroPaper theme.
 ---
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+Adding text here! Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
 ## Table of contents
 
