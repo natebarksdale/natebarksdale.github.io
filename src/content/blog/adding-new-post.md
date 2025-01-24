@@ -1,7 +1,9 @@
 ---
 author: Sat Naing
+pubDatetime: 2025-01-24
+modDatetime: 2025-01-21
 title: Altered - Adding new posts in AstroPaper theme
-pubDatetime: 2024-01-24T12:00:00Z
+ogImage: Altered - Adding new posts in AstroPaper theme
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
