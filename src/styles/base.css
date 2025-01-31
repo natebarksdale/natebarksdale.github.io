@@ -21,7 +21,7 @@ p:not(:last-child)::after {
   .font-serif {
     font-synthesis: none; /* Prevent synthetic bold & italic */
     font-weight: normal; /* Ensure no artificial bolding */
-    letter-spacing: var(--tracking-normal)
+    letter-spacing: 0.01rem;
   }
   .font-serif i,
   .font-serif em {
