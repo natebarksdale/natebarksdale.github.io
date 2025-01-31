@@ -25,7 +25,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     <section id="hero">
       <h1>What Comes Next_</h1>
       <p>
-        This functions as a portfolio and commonplacebook my recent work, observations, and experiments.
+        A portfolio and commonplacebook my recent work, observations, and experiments.
       </p>
       {
         // only display if at least one social link is enabled
@@ -118,9 +118,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   #recent-posts {
     @apply pb-6 pt-12 text-2xl;
   }
+  #featured h1,
+  #recent-posts h1 {
+    @apply text-3xl;
+  }
   #featured h2,
   #recent-posts h2 {
-    @apply text-3xl font-semibold tracking-wide;
+    @apply text-2xl;
   }
   .all-posts-btn-wrapper {
     @apply my-8 text-center;
