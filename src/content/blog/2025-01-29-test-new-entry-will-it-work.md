@@ -11,4 +11,12 @@ tags:
   - blue
 description: desc
 ---
-Body body body
+<style>
+h1 {
+  font-family: 'DovesType-Text', serif;
+}
+</style>
+
+<H1>This is a styled H1</H1>
+<H2>This is a H2</H2>
+This is text.
