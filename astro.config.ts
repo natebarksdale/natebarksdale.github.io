@@ -17,6 +17,7 @@ export default defineConfig({
     sitemap(),
   ],
   markdown: {
+     smartypants: true,
     remarkPlugins: [
       remarkToc,
       [
