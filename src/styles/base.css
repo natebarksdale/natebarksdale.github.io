@@ -11,6 +11,15 @@
 }
 
 @layer base {
+  .font-serif {
+    font-synthesis: none; /* Prevent synthetic bold & italic */
+    font-weight: normal; /* Ensure no artificial bolding */
+  }
+  .font-serif i,
+  .font-serif em {
+    font-style: normal; /* Remove italics */
+    text-transform: uppercase; /* Convert to all-caps */
+  }
   :root,
   html[data-theme="light"] {
     --color-fill: 251, 254, 251;
