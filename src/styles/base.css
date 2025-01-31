@@ -29,12 +29,14 @@ p:not(:last-child)::after {
     text-transform: uppercase; /* Convert to all-caps */
   }
   
-  h1, h2, h3, h4, h5 {text-transform:uppercase;}
+  h2, h3, h4, h5 {text-transform:uppercase;}
   h1, h1 a { @apply text-3xl; }
 
   .prose code {font-size:90%;}
   .prose code {@apply bg-white}
   code .copy-code {display:hidden;}
+
+  table {@apply text-xl;}
   
 /*   html {
     font-size: 2em;
@@ -98,7 +100,7 @@ p:not(:last-child)::after {
 
     
     prose-code:rounded prose-code:bg-skin-card 
-    prose-code:bg-opacity-75 prose-code:p-1 
+    prose-code:p-1 
     prose-code:before:!content-none prose-code:after:!content-none
     prose-code:text-xs
     prose-ol:!text-skin-base 
