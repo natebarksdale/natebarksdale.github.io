@@ -13,7 +13,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
-    className: "text-xl3 font-medium decoration-solid hover:underline",
+    className: "text-xl8 color-gray-100 font-medium decoration-solid hover:underline",
   };
 
   return (
