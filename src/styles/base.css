@@ -29,10 +29,10 @@ p:not(:last-child)::after {
     text-transform: uppercase; /* Convert to all-caps */
   }
 /*   html {
-    font-size: 2em; /* Adjust root font size */
+    font-size: 2em;
   }
   body {
-    @apply text-base; /* Ensures it follows the Tailwind base size */
+    @apply text-base;
   } */
   :root,
   html[data-theme="light"] {
