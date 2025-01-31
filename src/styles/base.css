@@ -9,12 +9,6 @@
   font-style: normal;
   font-display: swap;
 }
-  
-body {
-  font-family: 'DovesType-Text', serif;
-  font-weight: normal;
-  font-synthesis: none; /* Prevents synthetic bold and italics */
-}
 
 @layer base {
   :root,
