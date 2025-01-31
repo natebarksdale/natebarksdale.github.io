@@ -34,6 +34,7 @@ p:not(:last-child)::after {
 
   .prose code {font-size:90%;}
   .prose code {@apply bg-white}
+  code .copy-code {display:hidden;}
   
 /*   html {
     font-size: 2em;
