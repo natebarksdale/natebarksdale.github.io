@@ -124,6 +124,15 @@ p:not(:last-child)::after {
     @apply outline-2 outline-offset-1 outline-skin-fill 
     focus-visible:no-underline focus-visible:outline-dashed;
   }
+
+  .underline {
+    z-index: 1;
+    background-color: -webkit-linear-gradient(top, transparent 62%, #ffd3c4 0) 50%/0 75% no-repeat;
+    background-color: linear-gradient(180deg, transparent 62%, #ffd3c4 0) 50%/0 75% no-repeat;
+    background-size: 100% 100%;
+    -webkit-transition: background-size .4s ease;
+    transition: background-size .4s ease;
+  }
   svg {
     @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
   }
