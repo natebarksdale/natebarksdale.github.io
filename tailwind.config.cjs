@@ -55,7 +55,7 @@ module.exports = {
       },
       fontFamily: {
         serif: ['DovesType-Text', 'serif'],
-        mono: ["IBM Plex Mono", "monospace"],
+        mono: ['IBM Plex Mono', 'monospace'],
         sans: ['Faune', 'sans-serif'],
       },
 
