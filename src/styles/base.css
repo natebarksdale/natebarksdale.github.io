@@ -220,28 +220,24 @@ p:not(:last-child)::after {
   }
 }
 
-@layer utilities {
+@@layer utilities {
   .underline-highlight {
     @apply relative cursor-pointer;
     z-index: 1;
 
-    /* The gradient for the highlight */
+    /* Define the gradient with matching stop positions */
     background: linear-gradient(
       180deg,
       transparent 62%,
-      rgb(var(--color-accent)) 0
+      rgb(var(--color-accent)) 62%
     ) 50%/0 75% no-repeat;
-
-    /* Start with a background-size of 0% (so it’s “invisible”) */
-    background-size: 0 100%;
-
-    /* Smooth transition */
+    
     transition: background-size 0.4s ease;
   }
 
-  /* On hover, fill the underline (100% width) */
   .underline-highlight:hover {
-    background-size: 100% 100%;
+    background-size: 100% 75%;
   }
 }
+
 
