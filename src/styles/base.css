@@ -121,7 +121,7 @@ p:not(:last-child)::after {
     @apply mx-auto max-w-3xl px-4;
   }
   a {
-    @apply outline-2 outline-offset-1 outline-skin-fill 
+    @apply outline-2 outline-offset-1 outline-skin-fill underline-highlight
     focus-visible:no-underline focus-visible:outline-dashed;
   }
 
@@ -228,3 +228,29 @@ p:not(:last-child)::after {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
 }
+
+@layer utilities {
+  .underline-highlight {
+    @apply relative cursor-pointer;
+    z-index: 1;
+
+    /* The gradient for the highlight */
+    background: linear-gradient(
+      180deg,
+      transparent 62%,
+      rgb(var(--color-accent)) 0
+    ) 50%/0 75% no-repeat;
+
+    /* Start with a background-size of 0% (so it’s “invisible”) */
+    background-size: 0 100%;
+
+    /* Smooth transition */
+    transition: background-size 0.4s ease;
+  }
+
+  /* On hover, fill the underline (100% width) */
+  .underline-highlight:hover {
+    background-size: 100% 100%;
+  }
+}
+
