@@ -24,8 +24,6 @@ const {
   pubDatetime,
   modDatetime,
   tags,
-  emoji,
-  haiku,
 } = post.data;
 
 const { Content } = await post.render();
@@ -46,8 +44,6 @@ const layoutProps = {
   ogImage: ogUrl,
   scrollSmooth: true,
   tags,
-  emoji,
-  haiku,
 };
 ---
 
