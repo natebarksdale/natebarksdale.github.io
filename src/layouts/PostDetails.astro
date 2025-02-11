@@ -24,6 +24,8 @@ const {
   pubDatetime,
   modDatetime,
   tags,
+  emoji,
+  haiku,
 } = post.data;
 
 const { Content } = await post.render();
@@ -43,6 +45,9 @@ const layoutProps = {
   canonicalURL,
   ogImage: ogUrl,
   scrollSmooth: true,
+  tags,
+  emoji,
+  haiku,
 };
 ---
 
@@ -78,7 +83,7 @@ const layoutProps = {
     </article>
 
     <ul class="my-8">
-      {tags.map(tag => <Tag tag={slugifyStr(tag)} />)}
+      {tags.map(tag => <Tag tag />)} // tag={slugifyStr(tag)}
     </ul>
 
     <div
