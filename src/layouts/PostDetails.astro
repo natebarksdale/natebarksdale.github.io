@@ -83,7 +83,7 @@ const layoutProps = {
     </article>
 
     <ul class="my-8">
-      {tags.map(tag => <Tag tag />)} // tag={slugifyStr(tag)}
+      {tags.map(tag => <Tag tag={slugifyStr(tag)} />)} // tag={slugifyStr(tag)}
     </ul>
 
     <div
