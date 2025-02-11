@@ -20,12 +20,13 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
     <li className="mb-6">
       <a
         href={href}
+        title={haiku}
         className="inline-block text-xl font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
       >
         {secHeading ? (
-          <h2 {...headerProps}>{title}</h2>
+          <h2 {...headerProps}>{emoji} {title}</h2>
         ) : (
-          <h3 {...headerProps}>{title}</h3>
+          <h3 {...headerProps}>{emoji} {title}</h3>
         )}
       </a>
 {/*       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} /> */}
