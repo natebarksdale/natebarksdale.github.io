@@ -80,13 +80,12 @@ p:not(:last-child)::after {
   code .copy-code {display:hidden;}
 
   h2 .emoji:first-child {
-      position: absolute;
-      left: -1.5em; /* Adjust the distance from the h2 text */
-      top: 50%;
-      transform: translateY(-50%); /* Centers vertically */
-      font-size: 1.5em; /* Adjust emoji size */
+      float: left;
+      margin-left: -1.5em; /* Moves it into the margin */
+      margin-right: 0.5em; /* Prevents overlap with text */
   }
-  .emoji {font-family: 'Noto Sans'}
+  
+  .emoji {font-family: 'Noto Sans' !important; text-decoration:none;}
 
   table {@apply text-xl;}
   
