@@ -79,6 +79,15 @@ p:not(:last-child)::after {
   .prose code {@apply bg-white}
   code .copy-code {display:hidden;}
 
+  h2 .emoji:first-child {
+      position: absolute;
+      left: -1.5em; /* Adjust the distance from the h2 text */
+      top: 50%;
+      transform: translateY(-50%); /* Centers vertically */
+      font-size: 1.5em; /* Adjust emoji size */
+  }
+  .emoji {font-family: 'Noto Sans'}
+
   table {@apply text-xl;}
   
 /*   html {
