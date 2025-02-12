@@ -24,9 +24,9 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         className="inline-block text-xl font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
       >
         {secHeading ? (
-          <h2 {...headerProps}>{emoji} {title}</h2>
+          <div class='emoji'>{emoji}</div><h2 {...headerProps}>{title}</h2>
         ) : (
-          <h3 {...headerProps}>{emoji} {title}</h3>
+          <div class='emoji'>{emoji}</div><h3 {...headerProps}>{title}</h3>
         )}
       </a>
 {/*       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} /> */}
