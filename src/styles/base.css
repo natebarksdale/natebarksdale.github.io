@@ -85,7 +85,7 @@ p:not(:last-child)::after {
       margin-right: 0.5em; /* Prevents overlap with text */
   }
   
-  .emoji {font-family: 'Noto Sans' !important; text-decoration:none;}
+  .emoji {font-family: 'Noto Emoji' !important; text-decoration:none;}
 
   table {@apply text-xl;}
   
