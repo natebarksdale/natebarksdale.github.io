@@ -17,6 +17,12 @@
 }
 
 @font-face {
+  font-family: 'EB Garamond';
+  src: url('https://fonts.gstatic.com/s/ebgaramond/v12/xyz.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
     font-family: 'Faune';
     src:    url('/fonts/Faune-Display_Black.woff') format('woff');
     font-weight: 900;
