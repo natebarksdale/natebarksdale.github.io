@@ -74,8 +74,12 @@ p:not(:last-child)::after {
   }
   .font-serif i,
   .font-serif em {
-    font-style: normal; /* Remove italics */
-    text-transform: uppercase; /* Convert to all-caps */
+    font-family: "EB Garamond";
+    font-style: italic;
+  }
+  .font-serif b, .font-serif strong {
+    font-family: "Faune";
+    font-weight:600;
   }
   
   h2, h3, h4, h5 {text-transform:uppercase;}
