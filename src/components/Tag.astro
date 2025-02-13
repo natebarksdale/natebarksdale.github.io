@@ -4,7 +4,7 @@ export interface Props {
   size?: "sm" | "lg";
 }
 
-const { tag, size = "sm" } = Astro.props;
+const { tag, tagName, size = "sm" } = Astro.props;
 ---
 
 <li
@@ -14,10 +14,10 @@ const { tag, size = "sm" } = Astro.props;
 >
   <a
     href={`/tags/${tag}/`}
-    transition:name={tag}
+    transition:name={tagName}
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
   >
-    <span>{tagName}</span>
+    <span>{tag}</span>
   </a>
 </li>
 

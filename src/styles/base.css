@@ -132,7 +132,7 @@ p:not(:last-child)::after {
     display: block;
   }
   body {
-    @apply flex min-h-[100svh] flex-col bg-skin-fill font-sans text-skin-base 
+    @apply flex min-h-[100svh] flex-col bg-skin-fill font-sanssl text-skin-base 
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
   }
   section,
@@ -239,7 +239,7 @@ p:not(:last-child)::after {
   }
 }
 
-@@layer utilities {
+@layer utilities {
   .underline-highlight {
     @apply relative cursor-pointer;
     z-index: 1;
