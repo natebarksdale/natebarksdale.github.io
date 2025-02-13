@@ -6,7 +6,7 @@ export const SITE: Site = {
   desc: "Nate Barksdale Writing + Design",
   title: "Nate Barksdale Writing + Design",
   ogImage: "natebarksdale-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerPage: 50,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
