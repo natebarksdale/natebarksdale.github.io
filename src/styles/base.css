@@ -87,11 +87,16 @@ p:not(:last-child)::after {
 
   h2 .emoji:first-child {
       float: left;
-      margin-left: -1.5em; /* Moves it into the margin */
-      margin-right: 0.5em; /* Prevents overlap with text */
+      margin-left: -1.75em; /* Moves it into the margin */
+      margin-right: -0.5em; /* Prevents overlap with text */
+      color: rgba(0,0,0,0.2);
   }
   
-  .emoji {font-family: 'Noto Emoji' !important; text-decoration:none;}
+  .emoji {
+          font-family: 'Noto Emoji'; 
+          text-decoration:none; 
+          font-weight:400;
+  }
 
   table {@apply text-xl;}
   
