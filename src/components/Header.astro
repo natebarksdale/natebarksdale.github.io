@@ -167,26 +167,7 @@ const { activeNav } = Astro.props;
   .menu-icon.is-active .close {
     @apply opacity-100;
   }
-  
-  @layer utilities {
-    .underline-highlight {
-      @apply relative cursor-pointer;
-      z-index: 1;
-  
-      /* Define the gradient with matching stop positions */
-      background: linear-gradient(
-        180deg,
-        transparent 62%,
-        rgb(var(--color-accent)) 62%
-      ) 50%/0 75% no-repeat;
-      
-      transition: background-size 0.4s ease;
-    }
-  
-    .underline-highlight:hover {
-      background-size: 100% 75%;
-    }
-  }
+
 
   
 </style>
