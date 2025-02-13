@@ -54,9 +54,9 @@ module.exports = {
         transparent: "transparent",
       },
       fontFamily: {
-        serif: ['DovesType-Text', 'serif'],
-        mono: ['IBM Plex Mono', 'monospace'],
-        sans: ['Faune', 'sans-serif'],
+        serif: ['DovesType-Text', 'serif', 'Noto Emoji'],
+        mono: ['IBM Plex Mono', 'monospace', 'Noto Emoji'],
+        sans: ['Faune', 'sans-serif', 'Noto Emoji'],
       },
 
       typography: {
