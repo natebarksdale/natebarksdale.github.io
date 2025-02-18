@@ -58,7 +58,7 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
       - name: Check if Mapbox Token is available in build
-        run: echo 'Mapbox Token: $PUBLIC_MAPBOX_ACCESS_TOKEN'
+        run: echo "Mapbox Token: ${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN }}"
       - name: Build with Astro
         run: |
           echo "PUBLIC_MAPBOX_ACCESS_TOKEN=$PUBLIC_MAPBOX_ACCESS_TOKEN" >> $GITHUB_ENV
