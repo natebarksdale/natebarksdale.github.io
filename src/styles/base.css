@@ -95,7 +95,7 @@ p:not(:last-child)::after {
   .prose code {@apply bg-white}
   code .copy-code {display:hidden;}
 
-  h2 .emoji:first-child {
+  h2 .emoji:first-child, h3 .emoji:first-child {
       float: left;
       margin-left: -1.75em; /* Moves it into the margin */
       margin-right: -0.5em; /* Prevents overlap with text */
