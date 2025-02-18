@@ -66,6 +66,8 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
+      - name: Debug SECRET Mapbox Token
+        run: echo "PUBLIC_MAPBOX_ACCESS_TOKEN is set: ${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN != '' }}"
       - name: Setup Mapbox Token
         run: echo "PUBLIC_MAPBOX_ACCESS_TOKEN=${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN }}" >> $GITHUB_ENV
       - name: Build with Astro
