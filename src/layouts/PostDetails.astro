@@ -73,7 +73,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 {post.data.coordinates && (
     <div class="map-container">
 <img 
-      src={`https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v11/static/${post.data.coordinates[1]},${post.data.coordinates[0]},5,0,0/800x400?access_token=${mapboxToken}&layers=settlement-label,place-label`} 
+      src={`https://api.mapbox.com/styles/nblinks/cm7auyc09000m01s26o2b76ov/static/${post.data.coordinates[1]},${post.data.coordinates[0]},5,0,0/800x400?access_token=${mapboxToken}&layers=settlement-label,place-label`} 
       alt="Monochrome Light Map Without Labels or Pin" 
       class="map-image" 
     />
