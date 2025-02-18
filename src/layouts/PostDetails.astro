@@ -126,8 +126,8 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
   
 .map-container {
     width: 100%;
-    height: 20%;
-    max-width: 900px;
+    height: 30%;  /* Increase height to make the map larger */
+    max-width: 1200px; /* Increase the max-width for a larger map */
     margin: 30px auto;
     border-radius: 0px;
     overflow: hidden;
@@ -139,12 +139,12 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     height: 100%;
     display: block;
     filter: brightness(90%);
-    transition: transform 1s ease-in-out;
+    transition: transform 0.3s ease-in-out;
     object-fit: cover;
   }
   
   .map-image:hover {
-    transform: scale(2.0);
+    transform: scale(0.9);  /* Zoom out on hover */
   }
   
   .map-container::before {
