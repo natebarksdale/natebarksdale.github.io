@@ -1,11 +1,12 @@
 import { defineConfig } from "astro/config";
-import dotenv from "dotenv";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
+
+const MAPBOX_ACCESS_TOKEN = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN
 
 // https://astro.build/config
 export default defineConfig({
@@ -36,9 +37,6 @@ export default defineConfig({
   vite: {
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
-    },
-    define: {
-      "import.meta.env.MAPBOX_ACCESS_TOKEN": JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
     },
   },
   scopedStyleStrategy: "where",
