@@ -124,29 +124,28 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     @apply text-2xl font-semibold text-skin-accent;
   }
   
-.map-container {
-    width: 100%;
-    height: 30%; /* Increase the height for a larger map */
-    max-width: 1200px; /* Increase the max-width for a larger map */
-    margin: 30px auto;
-    border-radius: 0px;
-    overflow: hidden;
-    position: relative;
-    box-shadow: inset 0 0 200px rgba(255, 255, 255, 1); /* Fade edges to white */
-  }
-  
-  .map-image {
-    width: 100%;
-    height: 100%;
-    display: block;
-    filter: brightness(90%);
-    transition: transform 0.3s ease-in-out;
-    object-fit: cover;
-  }
-  
-  .map-image:hover {
-    transform: scale(0.9); /* Zoom out on hover */
-  }
+.ma.map-container {
+  width: 100%;
+  height: 60%; /* Increase the height for a larger map view */
+  max-width: 1200px; /* Increase max-width for a larger map */
+  margin: 30px auto;
+  border-radius: 0px;
+  overflow: hidden; /* Crop the map at the container's edges */
+  position: relative;
+}
+
+.map-image {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover; /* Ensure the map image fully covers the container */
+  filter: brightness(90%);
+  transition: transform 0.5s ease-in-out;
+}
+
+.map-image:hover {
+  transform: scale(1.2); /* Zoom out for broader view without showing edges */
+}
   
 </style>
 
