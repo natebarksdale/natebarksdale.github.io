@@ -37,16 +37,9 @@ export default defineConfig({
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
-  },
-  scopedStyleStrategy: "where",
-});
-
-dotenv.config();
-
-export default defineConfig({
-  vite: {
     define: {
       "import.meta.env.MAPBOX_ACCESS_TOKEN": JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
     },
   },
+  scopedStyleStrategy: "where",
 });
