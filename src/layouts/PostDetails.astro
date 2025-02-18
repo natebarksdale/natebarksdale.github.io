@@ -72,10 +72,10 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
   <main id="main-content">
 {post.data.coordinates && (
     <div class="map-container">
-      <img src={`https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+ff0000(33.9734,28.5418)/33.9734,28.5418,14,0,0/800x400?access_token=${mapboxToken}`} alt="Custom Styled Map" class="map-image" />
-        alt="Custom Styled Map"
-        class="map-image"
-      />
+      <img 
+        src={`https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+ff0000(${post.data.coordinates[1]},${post.data.coordinates[0]})/${post.data.coordinates[1]},${post.data.coordinates[0]},14,0,0/800x400?access_token=${mapboxToken}`} 
+        alt="Custom Styled Map" 
+        class="map-image"/>
     </div>
   )}
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>

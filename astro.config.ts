@@ -7,6 +7,7 @@ import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
 
 const MAPBOX_ACCESS_TOKEN = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN
+const mapImageUrl = `https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+ff0000(33.9734,28.5418)/33.9734,28.5418,14,0,0/800x400?access_token=${MAPBOX_ACCESS_TOKEN}`;
 
 // https://astro.build/config
 export default defineConfig({
