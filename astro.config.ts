@@ -1,4 +1,5 @@
 import { defineConfig } from "astro/config";
+import dotenv from "dotenv";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
 import remarkToc from "remark-toc";
@@ -38,4 +39,14 @@ export default defineConfig({
     },
   },
   scopedStyleStrategy: "where",
+});
+
+dotenv.config();
+
+export default defineConfig({
+  vite: {
+    define: {
+      "import.meta.env.MAPBOX_ACCESS_TOKEN": JSON.stringify(process.env.MAPBOX_ACCESS_TOKEN),
+    },
+  },
 });

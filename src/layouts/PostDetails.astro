@@ -67,6 +67,15 @@ const layoutProps = {
     </button>
   </div>
   <main id="main-content">
+{post.data.coordinates && (
+    <div class="map-container">
+      <img
+        src={`https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+ff0000(${post.data.coordinates[1]},${post.data.coordinates[0]})/${post.data.coordinates[1]},${post.data.coordinates[0]},14,0,0/800x400?access_token=${import.meta.env.MAPBOX_ACCESS_TOKEN}`}
+        alt="Custom Styled Map"
+        class="map-image"
+      />
+    </div>
+  )}
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
     <Datetime
       pubDatetime={pubDatetime}
@@ -110,6 +119,26 @@ const layoutProps = {
   .post-title {
     @apply text-2xl font-semibold text-skin-accent;
   }
+  
+.map-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+  .map-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: brightness(90%);
+    transition: transform 0.2s ease-in-out;
+  }
+  .map-image:hover {
+    transform: scale(1.02);
+  }
+  
 </style>
 
 <script is:inline>
