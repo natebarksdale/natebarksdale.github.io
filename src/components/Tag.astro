@@ -5,19 +5,22 @@ export interface Props {
 }
 
 function splitEmojiTag(tagName) {
+  if (!tagName || typeof tagName !== "string") return { emoji: "", text: "" };
+
   const emojiRegex = /(\p{Extended_Pictographic}+)/u;
   const match = tagName.match(emojiRegex);
   
   if (match) {
     return {
       emoji: match[0],
-      text: tagName.slice(match[0].length),
+      text: tagName.slice(match[0].length).trim(),
     };
   }
   return { emoji: "", text: tagName };
 }
 
 const { tag, tagName, size = "sm" } = Astro.props;
+const displayTag = tagName ?? tag ?? "";
 const { emoji, text } = splitEmojiTag(tagName);
 ---
 
