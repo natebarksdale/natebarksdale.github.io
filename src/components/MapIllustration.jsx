@@ -6,8 +6,8 @@ const MapIllustration = ({
   mapboxToken,
   width = 800,
   height = 200,
-  mwidth = 850
-  mheight = 250
+  mwidth = 850,
+  mheight = 250,
   zoom = 5,
   bearing = 0,
   pitch = 0
