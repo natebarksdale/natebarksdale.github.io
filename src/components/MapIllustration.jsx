@@ -19,6 +19,10 @@ const MapIllustration = ({
 	  mapboxToken: mapboxToken ? '[PRESENT]' : '[MISSING]'
 	});
   }, []);
+  
+  useEffect(() => {
+	console.log('React Hydration Check: MapIllustration Mounted');
+  }, []);
 
   // Validate required props
   if (!title || !coordinates || !mapboxToken) {
