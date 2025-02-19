@@ -5,7 +5,7 @@ const MapIllustration = ({
   coordinates,
   mapboxToken,
   width = 800,
-  height = 400,
+  height = 200,
   zoom = 5,
   bearing = 0,
   pitch = 0
