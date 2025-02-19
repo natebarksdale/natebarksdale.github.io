@@ -1,4 +1,3 @@
-// src/components/MapIllustration.jsx
 import React, { useMemo, useEffect } from 'react';
 
 const MapIllustration = ({ 
@@ -12,19 +11,13 @@ const MapIllustration = ({
   pitch = 0
 }) => {
   useEffect(() => {
-	// Debug log to verify component mounting and props
 	console.log('MapIllustration mounted with props:', {
 	  title,
 	  coordinates,
 	  mapboxToken: mapboxToken ? '[PRESENT]' : '[MISSING]'
 	});
   }, []);
-  
-  useEffect(() => {
-	console.log('React Hydration Check: MapIllustration Mounted');
-  }, []);
 
-  // Validate required props
   if (!title || !coordinates || !mapboxToken) {
 	console.error('Missing required props:', { title, coordinates, mapboxToken });
 	return (
@@ -34,52 +27,54 @@ const MapIllustration = ({
 	);
   }
 
-  // Generate random positions for letters while avoiding edges
-  const letterPositions = useMemo(() => {
-	try {
-	  const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
-	  const positions = [];
-	  
-	  for (let i = 0; i < letters.length; i++) {
-		const marginX = width * 0.2;
-		const marginY = height * 0.2;
-		
-		positions.push({
-		  letter: letters[i],
-		  x: marginX + Math.random() * (width - 2 * marginX),
-		  y: marginY + Math.random() * (height - 2 * marginY),
-		  rotation: Math.random() * 360,
-		  color: getRandomColor(),
-		  scale: 1 + Math.random() * 0.5
-		});
-	  }
-	  return positions;
-	} catch (error) {
-	  console.error('Error generating letter positions:', error);
-	  return [];
-	}
-  }, [title, width, height]);
+  // Function to restrict rotation to 0, 90, 180, 270 degrees
+  function getRandomRotation() {
+	const angles = [0, 90, 180, 270];
+	return angles[Math.floor(Math.random() * angles.length)];
+  }
 
+  // Updated color palette for mid-century modern style
   function getRandomColor() {
 	const colors = [
-	  'rgba(255, 99, 132, 0.3)',
-	  'rgba(54, 162, 235, 0.3)',
-	  'rgba(255, 206, 86, 0.3)',
-	  'rgba(75, 192, 192, 0.3)',
-	  'rgba(153, 102, 255, 0.3)',
+	  '#E63946', // Coral Red
+	  '#F4A261', // Warm Orange
+	  '#2A9D8F', // Teal
+	  '#264653', // Deep Navy
+	  '#E9C46A', // Golden Yellow
 	];
 	return colors[Math.floor(Math.random() * colors.length)];
   }
 
+  // Generate positions and attributes for letters
+  const letterPositions = useMemo(() => {
+	const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
+	const positions = [];
+
+	for (let i = 0; i < letters.length; i++) {
+	  const marginX = width * 0.1;
+	  const marginY = height * 0.1;
+
+	  positions.push({
+		letter: letters[i],
+		x: marginX + Math.random() * (width - 2 * marginX),
+		y: marginY + Math.random() * (height - 2 * marginY),
+		rotation: getRandomRotation(), // Use only 0, 90, 180, 270
+		color: getRandomColor(),
+		scale: 1.5 + Math.random(), // Increase letter size
+	  });
+	}
+	return positions;
+  }, [title, width, height]);
+
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${width}x${height}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
 
   return (
-	<div className="relative w-full h-full" data-debug="illustration-mounted">
+	<div className="relative w-full h-full">
 	  <div className="absolute inset-0">
 		<img 
 		  src={mapUrl}
-		  alt="Monochrome Light Map Without Labels or Pin" 
-		  className="w-full h-full object-cover filter brightness-70 grayscale contrast-90"
+		  alt="Map Illustration" 
+		  className="w-full h-full object-cover filter brightness-80 contrast-90"
 		  onError={(e) => {
 			console.error('Error loading map image:', e);
 			e.target.style.display = 'none';
@@ -98,10 +93,11 @@ const MapIllustration = ({
 			transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation})`}
 		  >
 			<text
-			  className="font-bold"
 			  style={{
 				fill: pos.color,
-				fontSize: `${200 * pos.scale}px`,
+				fontSize: `${220 * pos.scale}px`, // Bigger letters
+				fontWeight: 'bold',
+				fontFamily: 'Futura, sans-serif', // Mid-century typography
 				transformOrigin: 'center',
 			  }}
 			  textAnchor="middle"
