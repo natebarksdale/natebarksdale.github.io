@@ -27,7 +27,7 @@ const MapIllustration = ({
   if (!title || !coordinates || !mapboxToken) {
 	console.error('Missing required props:', { title, coordinates, mapboxToken });
 	return (
-	  <div className="relative w-full h-1/2 bg-gray-100 flex items-center justify-center">
+	  <div className="relative w-full h-full bg-gray-100 flex items-center justify-center">
 		<p className="text-red-500">Error: Missing required props</p>
 	  </div>
 	);
@@ -70,12 +70,12 @@ const MapIllustration = ({
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
 
   return (
-	<div className="relative w-full h-1/2" data-debug="illustration-mounted">
+	<div className="relative w-full h-full" data-debug="illustration-mounted">
 	  <div className="absolute inset-0">
 		<img 
 		  src={mapUrl}
 		  alt="Monochrome Light Map Without Labels or Pin" 
-		  className="w-full h-1/2 object-cover filter brightness-70 grayscale contrast-90"
+		  className="w-full h-full object-cover filter brightness-70 grayscale contrast-90"
 		  onError={(e) => {
 			console.error('Error loading map image:', e);
 			e.target.style.display = 'none';
@@ -84,7 +84,7 @@ const MapIllustration = ({
 	  </div>
 
 	  <svg 
-		className="absolute inset-0 w-full h-1/2 pointer-events-none"
+		className="absolute inset-0 w-full h-full pointer-events-none"
 		viewBox={`0 0 ${width} ${height}`}
 		preserveAspectRatio="none"
 	  >
