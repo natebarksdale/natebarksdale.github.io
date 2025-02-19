@@ -4,7 +4,21 @@ export interface Props {
   size?: "sm" | "lg";
 }
 
+function splitEmojiTag(tagName) {
+  const emojiRegex = /(\p{Extended_Pictographic}+)/u;
+  const match = tagName.match(emojiRegex);
+  
+  if (match) {
+    return {
+      emoji: match[0],
+      text: tagName.slice(match[0].length),
+    };
+  }
+  return { emoji: "", text: tagName };
+}
+
 const { tag, tagName, size = "sm" } = Astro.props;
+const { emoji, text } = splitEmojiTag(tagName);
 ---
 
 <li
@@ -17,7 +31,8 @@ const { tag, tagName, size = "sm" } = Astro.props;
     transition:name={tag}
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
   >
-    <span>{tagName || tag}</span>
+    {emoji && <span class="emoji">{emoji}</span>}
+    <span class="tag-text">{text}</span>
   </a>
 </li>
 
