@@ -70,7 +70,7 @@ const MapIllustration = ({
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
 
   return (
-	<div className="relative w-fullh-[200px] md:h-[200px] overflow-hidden" data-debug="illustration-mounted">
+	<div className="relative w-full h-[200px] md:h-[200px] overflow-hidden" data-debug="illustration-mounted">
 	  <div className="absolute inset-0">
 		<img 
 		  src={mapUrl}
