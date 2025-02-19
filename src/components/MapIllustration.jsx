@@ -33,7 +33,7 @@ const MapIllustration = ({
 
   const letterPositions = useMemo(() => {
 	try {
-	  const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
+	  const letters = title.replace(/\s+/g, '').slice(0, 10).toUpperCase();
 	  const positions = [];
 	  
 	  for (let i = 0; i < letters.length; i++) {
@@ -58,11 +58,11 @@ const MapIllustration = ({
 
   function getMidCenturyColor() {
 	const colors = [
-	  'rgba(239, 71, 111, 0.5)', // Warm red
-	  'rgba(255, 209, 102, 0.5)', // Golden yellow
-	  'rgba(6, 214, 160, 0.5)', // Soft teal
-	  'rgba(17, 138, 178, 0.5)', // Deep blue
-	  'rgba(7, 59, 76, 0.5)', // Dark navy
+	  'rgba(239, 71, 111, 0.8)', // Warm red
+	  'rgba(255, 209, 102, 0.8)', // Golden yellow
+	  'rgba(6, 214, 160, 0.8)', // Soft teal
+	  'rgba(17, 138, 178, 0.8)', // Deep blue
+	  'rgba(7, 59, 76, 0.8)', // Dark navy
 	];
 	return colors[Math.floor(Math.random() * colors.length)];
   }
@@ -97,9 +97,9 @@ const MapIllustration = ({
 			  className="font-bold"
 			  style={{
 				fill: pos.color,
-				fontSize: `${220 * pos.scale}px`,
+				fontSize: `${500 * pos.scale}px`,
 				fontFamily: 'Faune, sans-serif',
-				opacity: 0.6,
+				opacity: 1,
 				transformOrigin: 'center',
 			  }}
 			  textAnchor="middle"
