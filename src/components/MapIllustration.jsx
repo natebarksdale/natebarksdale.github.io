@@ -17,6 +17,10 @@ const MapIllustration = ({
 	  mapboxToken: mapboxToken ? '[PRESENT]' : '[MISSING]'
 	});
   }, []);
+  
+  useEffect(() => {
+	console.log('React Hydration Check: MapIllustration Mounted');
+  }, []);
 
   if (!title || !coordinates || !mapboxToken) {
 	console.error('Missing required props:', { title, coordinates, mapboxToken });
@@ -27,54 +31,51 @@ const MapIllustration = ({
 	);
   }
 
-  // Function to restrict rotation to 0, 90, 180, 270 degrees
-  function getRandomRotation() {
-	const angles = [0, 90, 180, 270];
-	return angles[Math.floor(Math.random() * angles.length)];
-  }
+  const letterPositions = useMemo(() => {
+	try {
+	  const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
+	  const positions = [];
+	  
+	  for (let i = 0; i < letters.length; i++) {
+		const marginX = width * 0.2;
+		const marginY = height * 0.2;
+		
+		positions.push({
+		  letter: letters[i],
+		  x: marginX + Math.random() * (width - 2 * marginX),
+		  y: marginY + Math.random() * (height - 2 * marginY),
+		  rotation: [0, 90, 180, 270][Math.floor(Math.random() * 4)],
+		  color: getMidCenturyColor(),
+		  scale: 1.5 + Math.random() * 0.8
+		});
+	  }
+	  return positions;
+	} catch (error) {
+	  console.error('Error generating letter positions:', error);
+	  return [];
+	}
+  }, [title, width, height]);
 
-  // Updated color palette for mid-century modern style
-  function getRandomColor() {
+  function getMidCenturyColor() {
 	const colors = [
-	  '#E63946', // Coral Red
-	  '#F4A261', // Warm Orange
-	  '#2A9D8F', // Teal
-	  '#264653', // Deep Navy
-	  '#E9C46A', // Golden Yellow
+	  'rgba(239, 71, 111, 0.5)', // Warm red
+	  'rgba(255, 209, 102, 0.5)', // Golden yellow
+	  'rgba(6, 214, 160, 0.5)', // Soft teal
+	  'rgba(17, 138, 178, 0.5)', // Deep blue
+	  'rgba(7, 59, 76, 0.5)', // Dark navy
 	];
 	return colors[Math.floor(Math.random() * colors.length)];
   }
 
-  // Generate positions and attributes for letters
-  const letterPositions = useMemo(() => {
-	const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
-	const positions = [];
-
-	for (let i = 0; i < letters.length; i++) {
-	  const marginX = width * 0.1;
-	  const marginY = height * 0.1;
-
-	  positions.push({
-		letter: letters[i],
-		x: marginX + Math.random() * (width - 2 * marginX),
-		y: marginY + Math.random() * (height - 2 * marginY),
-		rotation: getRandomRotation(), // Use only 0, 90, 180, 270
-		color: getRandomColor(),
-		scale: 1.5 + Math.random(), // Increase letter size
-	  });
-	}
-	return positions;
-  }, [title, width, height]);
-
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${width}x${height}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
 
   return (
-	<div className="relative w-full h-full">
+	<div className="relative w-full h-full" data-debug="illustration-mounted">
 	  <div className="absolute inset-0">
 		<img 
 		  src={mapUrl}
-		  alt="Map Illustration" 
-		  className="w-full h-full object-cover filter brightness-80 contrast-90"
+		  alt="Monochrome Light Map Without Labels or Pin" 
+		  className="w-full h-full object-cover filter brightness-70 grayscale contrast-90"
 		  onError={(e) => {
 			console.error('Error loading map image:', e);
 			e.target.style.display = 'none';
@@ -93,11 +94,12 @@ const MapIllustration = ({
 			transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation})`}
 		  >
 			<text
+			  className="font-bold"
 			  style={{
 				fill: pos.color,
-				fontSize: `${220 * pos.scale}px`, // Bigger letters
-				fontWeight: 'bold',
-				fontFamily: 'Futura, sans-serif', // Mid-century typography
+				fontSize: `${220 * pos.scale}px`,
+				fontFamily: 'Faune, sans-serif',
+				opacity: 0.6,
 				transformOrigin: 'center',
 			  }}
 			  textAnchor="middle"
