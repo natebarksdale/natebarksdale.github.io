@@ -58,16 +58,14 @@ const MapIllustration = ({
 
   function getMidCenturyColor() {
 	const colors = [
-	  'rgba(239, 71, 111, 0.8)', // Warm red
-	  'rgba(255, 209, 102, 0.8)', // Golden yellow
-	  'rgba(6, 214, 160, 0.8)', // Soft teal
-	  'rgba(17, 138, 178, 0.8)', // Deep blue
-	  'rgba(7, 59, 76, 0.8)', // Dark navy
+	  'rgba(230, 0, 0, 0.8)', // Warm red
+	  'rgba(0, 0, 0, 0.8)', // White
+	  'rgba(255, 255, 255, 0.8)', // Soft teal
 	];
 	return colors[Math.floor(Math.random() * colors.length)];
   }
 
-  const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${width}x${height}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
+  const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${width * 1.1}x${height * 1.1}?access_token=${mapboxToken}&layers=settlement-label,place-label`;
 
   return (
 	<div className="relative w-full h-full" data-debug="illustration-mounted">
