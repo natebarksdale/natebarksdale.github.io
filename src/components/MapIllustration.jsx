@@ -83,11 +83,19 @@ const MapIllustration = ({
 		/>
 	  </div>
 
-	  <svg 
+<svg 
 		className="absolute inset-0 w-full h-full pointer-events-none"
 		viewBox={`0 0 ${width} ${height}`}
-		preserveAspectRatio="none"
+		preserveAspectRatio="xMidYMid slice"
 	  >
+		<defs>
+		  {/* Add a filter for rough ink texture */}
+		  <filter id="grungeFilter">
+			<feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" result="noise"/>
+			<feDisplacementMap in="SourceGraphic" in2="noise" scale="4"/>
+		  </filter>
+		</defs>
+	  
 		{letterPositions.map((pos, index) => (
 		  <g 
 			key={index} 
@@ -99,8 +107,11 @@ const MapIllustration = ({
 				fill: pos.color,
 				fontSize: `${350 * pos.scale}px`,
 				fontFamily: 'Faune, sans-serif',
-				opacity: 1,
-				transformOrigin: 'center',
+				opacity: 0.6, // More faded ink effect
+				filter: "url(#grungeFilter)", // Apply the rough edges
+				mixBlendMode: "multiply", // Makes ink overlays richer
+				textRendering: "optimizeSpeed", // Creates a slightly rougher look
+				letterSpacing: "-0.02em", // Slight misalignment effect
 			  }}
 			  textAnchor="middle"
 			  dominantBaseline="middle"
@@ -110,6 +121,7 @@ const MapIllustration = ({
 		  </g>
 		))}
 	  </svg>
+
 	</div>
   );
 };
