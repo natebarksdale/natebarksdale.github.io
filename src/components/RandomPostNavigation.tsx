@@ -32,7 +32,7 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
             onClick={() => window.location.href = `/posts/${prevPostSlug}`}
             className="flex-1 flex items-center gap-2 px-4 py-2 hover:opacity-75 transition-opacity text-left"
           >
-            <span className="text-xl">⬅️</span>
+            <span className="text-xl font-['Noto Emoji']">⬅️</span>
             <div>
               <div className="text-sm text-skin-accent">Previous Post</div>
               <div className="text-skin-base font-medium truncate max-w-[200px]">
@@ -46,9 +46,9 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
         
         <button 
           onClick={handleRandomPost}
-          className="px-6 py-2 bg-skin-accent text-white rounded hover:opacity-90 transition-opacity flex items-center gap-2"
+          className="w-12 h-12 bg-skin-accent text-white rounded-full hover:opacity-90 transition-opacity flex items-center justify-center flex-shrink-0"
         >
-          <span className="text-xl">🎲</span>
+          <span className="text-xl font-['Noto Emoji']">🎲</span>
           <span className="sr-only">Random Post</span>
         </button>
 
@@ -63,7 +63,7 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
                 {nextPostTitle}
               </div>
             </div>
-            <span className="text-xl">➡️</span>
+            <span className="text-xl font-['Noto Emoji']">➡️</span>
           </button>
         ) : (
           <div className="flex-1"></div>
