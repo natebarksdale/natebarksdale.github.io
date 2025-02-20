@@ -11,6 +11,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
+import PostNavigation from "@components/RandomPostNavigation";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -50,7 +51,12 @@ const layoutProps = {
 };
 
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
-const otherPosts = allPosts.filter(p => p.slug !== post.slug);
+const sortedPosts = allPosts.sort((a, b) => 
+  new Date(b.data.pubDatetime).getTime() - new Date(a.data.pubDatetime).getTime()
+);
+
+const currentIndex = sortedPosts.findIndex(p => p.slug === post.slug);
+const nextPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
@@ -123,11 +129,13 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
       <Content />
     </article>
 
-    <RandomPostNavigation 
-    client:load 
-    currentSlug={post.slug}
-    availableSlugs={otherPosts.map(p => p.slug)}
-  />
+    <PostNavigation 
+      client:load 
+      currentSlug={post.slug}
+      availableSlugs={sortedPosts.map(p => p.slug)}
+      nextPostSlug={nextPost?.slug}
+      nextPostTitle={nextPost?.data.title}
+    />
 
   </main>
   <Footer />
