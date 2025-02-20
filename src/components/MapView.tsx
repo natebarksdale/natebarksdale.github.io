@@ -43,14 +43,14 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
           data: geojson,
         });
 
-        // Add circles for post locations
+        // Add circles for post locations with direct color value
         map.current.addLayer({
           id: "posts-circles",
           type: "circle",
           source: "posts",
           paint: {
             "circle-radius": 8,
-            "circle-color": "var(--color-accent)",
+            "circle-color": "#de1d8d", // Your theme color
             "circle-opacity": 0.8,
             "circle-stroke-width": 2,
             "circle-stroke-color": "#ffffff",
