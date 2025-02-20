@@ -27,16 +27,13 @@ const geojson = {
   features: geotaggedPosts,
 };
 
-// Get the token from astro.site
-const MAPBOX_TOKEN = Astro.site
-  ? process.env.PUBLIC_MAPBOX_TOKEN
-  : import.meta.env.PUBLIC_MAPBOX_TOKEN;
+// Updated variable name to match what's in the environment
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
-// Debug log
-console.log("Map page token status:", {
-  hasToken: !!MAPBOX_TOKEN,
-  siteExists: !!Astro.site,
-  envKeys: Object.keys(process.env),
+console.log("Server-side token check:", {
+  token: mapboxToken,
+  hasToken: !!mapboxToken,
+  envKeys: Object.keys(import.meta.env),
 });
 ---
 
@@ -56,7 +53,7 @@ console.log("Map page token status:", {
       <MapView
         client:only="react"
         geojson={geojson}
-        mapboxToken={MAPBOX_TOKEN}
+        mapboxToken={mapboxToken}
       />
     </div>
   </main>

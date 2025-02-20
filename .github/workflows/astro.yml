@@ -17,7 +17,7 @@ concurrency:
 
 env:
   BUILD_PATH: "."
-  PUBLIC_MAPBOX_ACCESS_TOKEN: ${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN }}  # Correct token setting
+  PUBLIC_MAPBOX_ACCESS_TOKEN: ${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN }}
 
 jobs:
   build:
