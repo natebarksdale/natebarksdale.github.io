@@ -11,7 +11,21 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
   const popup = useRef<mapboxgl.Popup | null>(null);
 
   useEffect(() => {
-    if (!mapContainer.current) return;
+    console.log(
+      "MapView mounting with token:",
+      import.meta.env.PUBLIC_MAPBOX_TOKEN
+    );
+    console.log("GeoJSON data:", geojson);
+
+    if (!mapContainer.current) {
+      console.error("Map container not found");
+      return;
+    }
+
+    if (!import.meta.env.PUBLIC_MAPBOX_TOKEN) {
+      console.error("Mapbox token not found");
+      return;
+    }
 
     mapboxgl.accessToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 
@@ -95,7 +109,13 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
     };
   }, [geojson]);
 
-  return <div ref={mapContainer} className="w-full h-full" />;
+  return (
+    <div
+      ref={mapContainer}
+      className="w-full h-full"
+      style={{ background: "#f0f0f0" }} // Add a background color to see the container
+    />
+  );
 };
 
 export default MapView;
