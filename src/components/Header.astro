@@ -4,10 +4,30 @@ import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "posts" | "tags" | "about" | "search" | "map";
 }
 
 const { activeNav } = Astro.props;
+
+// Add "map" to your nav items
+const navItems = [
+  {
+    name: "Posts",
+    path: "/posts",
+  },
+  {
+    name: "Tags",
+    path: "/tags",
+  },
+  {
+    name: "Map",
+    path: "/map",
+  },
+  {
+    name: "About",
+    path: "/about",
+  },
+];
 ---
 
 <header>
