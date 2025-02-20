@@ -253,6 +253,10 @@ p:not(:last-child)::after {
   pre > code {
     white-space: pre;
   }
+
+  blockquote:before, blockquote:after, q:before, q:after {
+    content: none;
+  }
 }
 
 @layer components {
