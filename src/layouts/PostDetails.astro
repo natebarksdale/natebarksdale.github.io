@@ -114,6 +114,21 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
       <ShareLinks />
     </div>
+    <article id="article" role="article" class="prose mx-auto mt-8 text-xl max-w-3xl">
+      <Content />
+    </article>
+
+    <RandomPostNavigation 
+  client:load 
+  currentSlug={post.slug}
+  onRandomPost={() => {
+    const posts = await getCollection("blog", ({ data }) => !data.draft);
+    const otherPosts = posts.filter(p => p.slug !== post.slug);
+    const randomPost = otherPosts[Math.floor(Math.random() * otherPosts.length)];
+    window.location.href = `/posts/${randomPost.slug}`;
+  }}
+/>
+
   </main>
   <Footer />
 </Layout>
