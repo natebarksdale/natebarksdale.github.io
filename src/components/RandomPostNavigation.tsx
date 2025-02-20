@@ -48,7 +48,7 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
             </div>
           </button>
         ) : (
-          <div /> {/* Empty div to maintain spacing when there's no next post */}
+          <div></div>
         )}
         
         <button 
