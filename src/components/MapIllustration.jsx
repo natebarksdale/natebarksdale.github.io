@@ -27,7 +27,7 @@ const MapIllustration = ({
 
   // Generate irregular polygon clips for each layer
   const generateClipPath = () => {
-    const jitter = 20; // Amount of randomness in pixels
+    const jitter = 5; // Amount of randomness in pixels
     return `polygon(
       ${Math.random() * jitter}% ${Math.random() * jitter}%, 
       ${100 - Math.random() * jitter}% ${Math.random() * jitter}%, 
