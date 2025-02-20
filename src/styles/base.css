@@ -185,8 +185,7 @@ p:not(:last-child)::after {
     prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
     prose-figcaption:!text-skin-base prose-figcaption:opacity-70
     prose-strong:!text-skin-base
-
-    
+    prose-blockquote:before:content-none prose-blockquote:after:content-none;
     prose-code:rounded prose-code:bg-skin-card 
     prose-code:p-1 
     prose-code:before:!content-none prose-code:after:!content-none
