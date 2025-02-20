@@ -6,9 +6,9 @@ const MapIllustration = ({
   coordinates,
   mapboxToken,
   width = 800,
-  height = 200,
+  height = 400,
   mwidth = 850,
-  mheight = 250,
+  mheight = 450,
   zoom = 5,
   bearing = 0,
   pitch = 0
@@ -17,11 +17,11 @@ const MapIllustration = ({
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start end', 'end start'] });
   
   // Create different parallax rates for each layer
-  const mapParallax = useTransform(scrollYProgress, [0, 1], [0, -20]);
+  const mapParallax = useTransform(scrollYProgress, [0, 1], [0, -50]);
   const letterParallax = useMemo(() => {
     const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
     return letters.split('').map(() => 
-      useTransform(scrollYProgress, [0, 1], [0, -30 - Math.random() * 20])
+      useTransform(scrollYProgress, [0, 1], [0, -80 - Math.random() * 40])
     );
   }, [scrollYProgress, title]);
 
@@ -41,8 +41,8 @@ const MapIllustration = ({
     return letters.split('').map(letter => ({
       letter,
       x: Math.random() * width * 0.9 + width * 0.05,
-      y: Math.random() * height * 0.9 + height * 0.05,
-      rotation: Math.random() * 45 - 22.5, // More subtle rotation
+      y: Math.random() * height * 1.2 - height * 0.1,
+      rotation: Math.random() * 45 - 22.5,
       color: getMidCenturyColor(),
       scale: 1.5 + Math.random() * 0.8,
       clipPath: generateClipPath()
@@ -52,7 +52,7 @@ const MapIllustration = ({
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
   return (
-    <div ref={ref} className="relative w-full h-[200px] overflow-visible">
+    <div ref={ref} className="relative w-full h-[400px] overflow-visible">
       <motion.div 
         className="absolute inset-0" 
         style={{ 

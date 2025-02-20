@@ -3,20 +3,25 @@ import { motion, useAnimation, useMotionValue, useTransform } from 'framer-motio
 
 interface RandomPostNavigationProps {
   currentSlug: string;
-  onRandomPost: () => void;
+  availableSlugs: string[];
 }
 
-const RandomPostNavigation: React.FC<RandomPostNavigationProps> = ({ currentSlug, onRandomPost }) => {
+const RandomPostNavigation: React.FC<RandomPostNavigationProps> = ({ currentSlug, availableSlugs }) => {
   const controls = useAnimation();
   const containerRef = useRef<HTMLDivElement>(null);
   const x = useMotionValue(0);
   const opacity = useTransform(x, [-100, 0, 100], [0.5, 1, 0.5]);
   
+  const handleRandomPost = () => {
+    const randomSlug = availableSlugs[Math.floor(Math.random() * availableSlugs.length)];
+    window.location.href = `/posts/${randomSlug}`;
+  };
+
   const handleDragEnd = async (event: any, info: any) => {
     const offset = info.offset.x;
     if (Math.abs(offset) > 100) {
       await controls.start({ x: offset < 0 ? -300 : 300, opacity: 0 });
-      onRandomPost();
+      handleRandomPost();
     } else {
       controls.start({ x: 0, opacity: 1 });
     }
@@ -37,7 +42,7 @@ const RandomPostNavigation: React.FC<RandomPostNavigationProps> = ({ currentSlug
         <div className="flex items-center gap-2">
           <span className="md:hidden">← Swipe for a random post →</span>
           <button 
-            onClick={onRandomPost}
+            onClick={handleRandomPost}
             className="hidden md:block px-4 py-2 bg-skin-accent text-white rounded hover:opacity-90 transition-opacity"
           >
             Read Another Post

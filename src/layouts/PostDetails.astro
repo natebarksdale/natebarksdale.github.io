@@ -5,6 +5,7 @@ import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
 import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
+import { getCollection } from 'astro:content';
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
@@ -46,6 +47,9 @@ const layoutProps = {
   scrollSmooth: true,
   tags,
 };
+
+const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+const otherPosts = allPosts.filter(p => p.slug !== post.slug);
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
@@ -119,15 +123,10 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     </article>
 
     <RandomPostNavigation 
-  client:load 
-  currentSlug={post.slug}
-  onRandomPost={() => {
-    const posts = await getCollection("blog", ({ data }) => !data.draft);
-    const otherPosts = posts.filter(p => p.slug !== post.slug);
-    const randomPost = otherPosts[Math.floor(Math.random() * otherPosts.length)];
-    window.location.href = `/posts/${randomPost.slug}`;
-  }}
-/>
+    client:load 
+    currentSlug={post.slug}
+    availableSlugs={otherPosts.map(p => p.slug)}
+  />
 
   </main>
   <Footer />
