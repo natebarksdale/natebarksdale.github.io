@@ -44,7 +44,13 @@ const socialImageURL = new URL(
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
-
+    <link 
+    rel="preload" 
+    href="https://fonts.gstatic.com/s/notoemoji/v23/xyz.woff2" 
+    as="font" 
+    type="font/woff2" 
+    crossorigin="anonymous"
+  />
     <!-- General Meta Tags -->
     <title>{title}</title>
     <meta name="title" content={title} />
