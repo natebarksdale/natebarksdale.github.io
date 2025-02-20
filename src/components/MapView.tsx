@@ -3,9 +3,10 @@ import mapboxgl from "mapbox-gl";
 
 interface MapViewProps {
   geojson: any;
+  mapboxToken: string;
 }
 
-const MapView: React.FC<MapViewProps> = ({ geojson }) => {
+const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const popup = useRef<mapboxgl.Popup | null>(null);
@@ -16,21 +17,17 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
       return;
     }
 
-    // Get token from window environment
-    const token =
-      process.env.PUBLIC_MAPBOX_TOKEN || import.meta.env.PUBLIC_MAPBOX_TOKEN;
-
     console.log(
       "Attempting to initialize map with token:",
-      token ? "Token exists" : "No token"
+      mapboxToken ? "Token exists" : "No token"
     );
 
-    if (!token) {
+    if (!mapboxToken) {
       console.error("Mapbox token not found");
       return;
     }
 
-    mapboxgl.accessToken = token;
+    mapboxgl.accessToken = mapboxToken;
 
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
@@ -110,7 +107,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
         map.current.remove();
       }
     };
-  }, [geojson]);
+  }, [geojson, mapboxToken]);
 
   return (
     <div

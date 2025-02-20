@@ -25,19 +25,16 @@ const geojson = {
   type: "FeatureCollection",
   features: geotaggedPosts,
 };
+
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 ---
 
 <Layout title="Post Map">
-  <link
-    href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css"
-    rel="stylesheet"
-  />
-
   <Header activeNav="map" />
   <main>
     <h1 class="text-2xl font-semibold mb-6">Posts Around the World</h1>
     <div class="w-full h-[600px] rounded-lg overflow-hidden shadow-lg">
-      <MapView client:load geojson={geojson} />
+      <MapView client:load geojson={geojson} mapboxToken={mapboxToken} />
     </div>
   </main>
   <Footer />
