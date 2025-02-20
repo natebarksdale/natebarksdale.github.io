@@ -1,3 +1,4 @@
+---
 import { getCollection } from "astro:content";
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
@@ -11,19 +12,20 @@ const geotaggedPosts = posts
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: [post.data.coordinates[1], post.data.coordinates[0]] // [lng, lat]
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]], // [lng, lat]
     },
     properties: {
       title: post.data.title,
       slug: post.slug,
-      description: post.data.description
-    }
+      description: post.data.description,
+    },
   }));
 
 const geojson = {
   type: "FeatureCollection",
-  features: geotaggedPosts
+  features: geotaggedPosts,
 };
+---
 
 <Layout title="Post Map">
   <Header activeNav="map" />
@@ -40,4 +42,5 @@ const geojson = {
   main {
     @apply mx-auto w-full max-w-3xl px-4 pb-12;
   }
-</style> 
+</style>
+
