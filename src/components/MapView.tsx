@@ -1,6 +1,5 @@
-import React, { useEffect, useRef } from 'react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import React, { useEffect, useRef } from "react";
+import mapboxgl from "mapbox-gl";
 
 interface MapViewProps {
   geojson: any;
@@ -15,72 +14,74 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
     if (!mapContainer.current) return;
 
     mapboxgl.accessToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
-    
+
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/light-v11',
+      style: "mapbox://styles/mapbox/light-v11",
       center: [0, 20], // Center on world view
-      zoom: 1.5
+      zoom: 1.5,
     });
 
-    map.current.on('load', () => {
+    map.current.on("load", () => {
       if (!map.current) return;
 
       // Add post locations as a source
-      map.current.addSource('posts', {
-        type: 'geojson',
-        data: geojson
+      map.current.addSource("posts", {
+        type: "geojson",
+        data: geojson,
       });
 
       // Add circles for post locations
       map.current.addLayer({
-        id: 'posts-circles',
-        type: 'circle',
-        source: 'posts',
+        id: "posts-circles",
+        type: "circle",
+        source: "posts",
         paint: {
-          'circle-radius': 8,
-          'circle-color': 'var(--color-accent)',
-          'circle-opacity': 0.8,
-          'circle-stroke-width': 2,
-          'circle-stroke-color': '#ffffff'
-        }
+          "circle-radius": 8,
+          "circle-color": "var(--color-accent)",
+          "circle-opacity": 0.8,
+          "circle-stroke-width": 2,
+          "circle-stroke-color": "#ffffff",
+        },
       });
 
       // Create popup but don't add to map yet
       popup.current = new mapboxgl.Popup({
         closeButton: false,
-        closeOnClick: false
+        closeOnClick: false,
       });
 
       // Show popup on hover
-      map.current.on('mouseenter', 'posts-circles', (e) => {
+      map.current.on("mouseenter", "posts-circles", e => {
         if (!map.current || !popup.current || !e.features?.[0]) return;
 
         const coordinates = e.features[0].geometry.coordinates.slice();
         const { title, description } = e.features[0].properties;
 
         // Change the cursor style
-        map.current.getCanvas().style.cursor = 'pointer';
+        map.current.getCanvas().style.cursor = "pointer";
 
         // Populate the popup and set its coordinates
         popup.current
           .setLngLat(coordinates)
-          .setHTML(`
+          .setHTML(
+            `
             <h3 class="font-semibold">${title}</h3>
             <p class="text-sm">${description}</p>
-          `)
+          `
+          )
           .addTo(map.current);
       });
 
       // Hide popup when mouse leaves feature
-      map.current.on('mouseleave', 'posts-circles', () => {
+      map.current.on("mouseleave", "posts-circles", () => {
         if (!map.current || !popup.current) return;
-        map.current.getCanvas().style.cursor = '';
+        map.current.getCanvas().style.cursor = "";
         popup.current.remove();
       });
 
       // Navigate to post on click
-      map.current.on('click', 'posts-circles', (e) => {
+      map.current.on("click", "posts-circles", e => {
         if (!e.features?.[0]) return;
         const { slug } = e.features[0].properties;
         window.location.href = `/posts/${slug}`;
@@ -97,4 +98,4 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
   return <div ref={mapContainer} className="w-full h-full" />;
 };
 
-export default MapView; 
+export default MapView;
