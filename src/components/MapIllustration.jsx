@@ -5,10 +5,10 @@ const MapIllustration = ({
   title,
   coordinates,
   mapboxToken,
-  width = 800,
-  height = 400,
-  mwidth = 850,
-  mheight = 450,
+  width = 900,
+  height = 300,
+  mwidth = 950,
+  mheight = 350,
   zoom = 5,
   bearing = 0,
   pitch = 0
@@ -36,13 +36,24 @@ const MapIllustration = ({
     )`;
   };
 
+  function getMidCenturyColor() {
+    const colors = [
+      'rgba(230, 30, 30, 0.85)', // Red matching theme
+      'rgba(30, 100, 230, 0.85)', // Blue
+      'rgba(230, 180, 30, 0.85)', // Yellow
+    ];
+    return colors[Math.floor(Math.random() * colors.length)];
+  }
+
   const letterPositions = useMemo(() => {
     const letters = title.replace(/\s+/g, '').slice(0, 5).toUpperCase();
     return letters.split('').map(letter => ({
       letter,
       x: Math.random() * width * 0.9 + width * 0.05,
       y: Math.random() * height * 1.2 - height * 0.1,
-      rotation: Math.random() * 45 - 22.5,
+      rotation: Math.random() < 0.5 
+        ? -2 + Math.random() * 4 // Between -2 and +2
+        : 88 + Math.random() * 4, // Between 88 and 92
       color: getMidCenturyColor(),
       scale: 1.5 + Math.random() * 0.8,
       clipPath: generateClipPath()
@@ -52,7 +63,7 @@ const MapIllustration = ({
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
   return (
-    <div ref={ref} className="relative w-full h-[400px] overflow-visible">
+    <div ref={ref} className="relative w-full aspect-[3/1] overflow-visible">
       <motion.div 
         className="absolute inset-0" 
         style={{ 
@@ -61,12 +72,13 @@ const MapIllustration = ({
           zIndex: 1
         }}
       >
+        <div className="absolute inset-0 bg-[#f5e6d3] opacity-90"></div>
         <motion.img 
           src={mapUrl} 
           alt="Map"
-          className="w-full h-full object-cover filter grayscale contrast-90" 
+          className="w-full h-full object-cover filter grayscale contrast-90 opacity-30 mix-blend-multiply" 
           initial={{ opacity: 0 }} 
-          animate={{ opacity: 1 }}
+          animate={{ opacity: 0.3 }}
           transition={{ duration: 1.5 }}
         />
       </motion.div>
@@ -84,7 +96,7 @@ const MapIllustration = ({
           <motion.svg 
             className="absolute inset-0 w-full h-full pointer-events-none" 
             viewBox={`0 0 ${width} ${height}`} 
-            preserveAspectRatio="none"
+            preserveAspectRatio="xMidYMid meet"
           >
             <motion.g transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation})`}>
               <motion.text
@@ -110,10 +122,5 @@ const MapIllustration = ({
     </div>
   );
 };
-
-function getMidCenturyColor() {
-  const colors = ['rgba(230, 0, 0, 0.6)', 'rgba(0, 0, 0, 0.6)', 'rgba(255, 255, 255, 0.6)'];
-  return colors[Math.floor(Math.random() * colors.length)];
-}
 
 export default MapIllustration;
