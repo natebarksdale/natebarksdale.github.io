@@ -27,4 +27,17 @@ console.log('MapIllustrationWrapper props:', {
 	margin: 30px auto;
 	overflow:visible;
   }
+#image-overlay,
+.image-overlay-line,
+.image-overlay-text {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+img:hover + #image-overlay,
+img:hover ~ .image-overlay-line,
+img:hover ~ .image-overlay-text {
+  opacity: 1;
+}
+
 </style>
