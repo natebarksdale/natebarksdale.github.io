@@ -26,8 +26,24 @@ const geojson = {
   features: geotaggedPosts,
 };
 
+// Get token and log it
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
+console.log(
+  "Server-side token check:",
+  mapboxToken ? "Token exists" : "No token"
+);
+
+// If you have a working token from MapIllustration, you could hardcode it temporarily
+// const mapboxToken = "your-working-token-from-mapillustration";
 ---
+
+<script>
+  // Log client-side environment variables
+  console.log("Client-side env check:", {
+    hasToken: !!import.meta.env.PUBLIC_MAPBOX_TOKEN,
+    envKeys: Object.keys(import.meta.env),
+  });
+</script>
 
 <Layout title="Post Map">
   <Header activeNav="map" />
