@@ -55,24 +55,11 @@ const navItems = [
           aria-expanded="false"
           aria-controls="menu-items"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            stroke-width="1.5"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="menu-icon"
-          >
-            <line x1="7" y1="12" x2="21" y2="12" class="line"></line>
-            <line x1="3" y1="6" x2="21" y2="6" class="line"></line>
-            <line x1="12" y1="18" x2="21" y2="18" class="line"></line>
-            <line x1="18" y1="6" x2="6" y2="18" class="close"></line>
-            <line x1="6" y1="6" x2="18" y2="18" class="close"></line>
-          </svg>
+          <div class="icon-container flex">
+            <div id="first-line"></div>
+            <div id="second-line"></div>
+            <div id="third-line"></div>
+          </div>
         </button>
         <ul id="menu-items" class="display-none sm:flex">
           <li>
@@ -84,6 +71,9 @@ const navItems = [
             <a href="/tags/" class={activeNav === "tags" ? "active" : ""}>
               Tags
             </a>
+          </li>
+          <li>
+            <a href="/map" class={activeNav === "map" ? "active" : ""}> Map </a>
           </li>
           <li>
             <a href="/about/" class={activeNav === "about" ? "active" : ""}>
@@ -175,44 +165,49 @@ const navItems = [
     @apply scale-125 hover:rotate-12 sm:scale-100;
   }
 
-  .menu-icon line {
-    @apply transition-opacity duration-75 ease-in-out;
+  .icon-container {
+    @apply h-5 w-6 flex-col items-end justify-between;
   }
-  .menu-icon .close {
-    opacity: 0;
+  .icon-container div {
+    @apply h-0.5 bg-skin-inverted transition-all;
   }
-  .menu-icon.is-active .line {
-    @apply opacity-0;
+  #first-line {
+    @apply w-full;
   }
-  .menu-icon.is-active .close {
-    @apply opacity-100;
+  #second-line {
+    @apply w-3/4;
   }
-
-
-  
+  #third-line {
+    @apply w-1/2;
+  }
 </style>
 
 <script>
-  function toggleNav() {
-    // Toggle menu
-    const menuBtn = document.querySelector(".hamburger-menu");
-    const menuIcon = document.querySelector(".menu-icon");
-    const menuItems = document.querySelector("#menu-items");
+  // Toggle menu
+  const menuBtn = document.querySelector(".hamburger-menu");
+  const menuItems = document.querySelector("#menu-items")?.classList;
 
-    menuBtn?.addEventListener("click", () => {
-      const menuExpanded = menuBtn.getAttribute("aria-expanded") === "true";
-      menuIcon?.classList.toggle("is-active");
-      menuBtn.setAttribute("aria-expanded", menuExpanded ? "false" : "true");
-      menuBtn.setAttribute(
-        "aria-label",
-        menuExpanded ? "Open Menu" : "Close Menu"
-      );
-      menuItems?.classList.toggle("display-none");
-    });
-  }
+  const iconContainer = document.querySelector(".icon-container")?.classList;
+  const firstLine = document.querySelector("#first-line")?.classList;
+  const secondLine = document.querySelector("#second-line ")?.classList;
+  const thirdLine = document.querySelector("#third-line")?.classList;
 
-  toggleNav();
-
-  // Runs on view transitions navigation
-  document.addEventListener("astro:after-swap", toggleNav);
+  menuBtn?.addEventListener("click", function () {
+    const menuExpanded = menuBtn?.getAttribute("aria-expanded");
+    if (menuExpanded === "false") {
+      menuBtn?.setAttribute("aria-expanded", "true");
+      menuItems?.remove("display-none");
+      iconContainer?.add("gap-0.5");
+      firstLine?.add("rotate-45", "translate-y-1.5");
+      secondLine?.add("opacity-0");
+      thirdLine?.add("-rotate-45", "-translate-y-1.5");
+    } else {
+      menuBtn?.setAttribute("aria-expanded", "false");
+      menuItems?.add("display-none");
+      iconContainer?.remove("gap-0.5");
+      firstLine?.remove("rotate-45", "translate-y-1.5");
+      secondLine?.remove("opacity-0");
+      thirdLine?.remove("-rotate-45", "-translate-y-1.5");
+    }
+  });
 </script>
