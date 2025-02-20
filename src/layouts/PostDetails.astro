@@ -16,7 +16,6 @@ const MapIllustration = ({
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start end', 'end start'] });
   const parallax = useTransform(scrollYProgress, [0, 1], [0, -30]);
-
   useEffect(() => {
     console.log('MapIllustration mounted with props:', { title, coordinates, mapboxToken: mapboxToken ? '[PRESENT]' : '[MISSING]' });
   }, []);
