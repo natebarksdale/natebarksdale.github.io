@@ -5,9 +5,7 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import MapView from "@components/MapView";
 
-// Get the token the same way as in astro.config.ts
-const MAPBOX_ACCESS_TOKEN = process.env.PUBLIC_MAPBOX_TOKEN;
-
+// Get posts data
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 const geotaggedPosts = posts
   .filter(post => post.data.coordinates)
@@ -15,7 +13,7 @@ const geotaggedPosts = posts
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: [post.data.coordinates[1], post.data.coordinates[0]], // [lng, lat]
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]],
     },
     properties: {
       title: post.data.title,
@@ -29,10 +27,17 @@ const geojson = {
   features: geotaggedPosts,
 };
 
-console.log(
-  "Server-side token check:",
-  MAPBOX_ACCESS_TOKEN ? "Token exists" : "No token"
-);
+// Get the token from astro.site
+const MAPBOX_TOKEN = Astro.site
+  ? process.env.PUBLIC_MAPBOX_TOKEN
+  : import.meta.env.PUBLIC_MAPBOX_TOKEN;
+
+// Debug log
+console.log("Map page token status:", {
+  hasToken: !!MAPBOX_TOKEN,
+  siteExists: !!Astro.site,
+  envKeys: Object.keys(process.env),
+});
 ---
 
 <script>
@@ -49,9 +54,9 @@ console.log(
     <h1 class="text-2xl font-semibold mb-6">Posts Around the World</h1>
     <div class="w-full h-[600px] rounded-lg overflow-hidden shadow-lg">
       <MapView
-        client:load
+        client:only="react"
         geojson={geojson}
-        mapboxToken={MAPBOX_ACCESS_TOKEN}
+        mapboxToken={MAPBOX_TOKEN}
       />
     </div>
   </main>
