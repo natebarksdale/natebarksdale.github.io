@@ -5,6 +5,9 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import MapView from "@components/MapView";
 
+// Get the token the same way as in astro.config.ts
+const MAPBOX_ACCESS_TOKEN = process.env.PUBLIC_MAPBOX_TOKEN;
+
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 const geotaggedPosts = posts
   .filter(post => post.data.coordinates)
@@ -26,15 +29,10 @@ const geojson = {
   features: geotaggedPosts,
 };
 
-// Get token and log it
-const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 console.log(
   "Server-side token check:",
-  mapboxToken ? "Token exists" : "No token"
+  MAPBOX_ACCESS_TOKEN ? "Token exists" : "No token"
 );
-
-// If you have a working token from MapIllustration, you could hardcode it temporarily
-// const mapboxToken = "your-working-token-from-mapillustration";
 ---
 
 <script>
@@ -50,7 +48,11 @@ console.log(
   <main>
     <h1 class="text-2xl font-semibold mb-6">Posts Around the World</h1>
     <div class="w-full h-[600px] rounded-lg overflow-hidden shadow-lg">
-      <MapView client:load geojson={geojson} mapboxToken={mapboxToken} />
+      <MapView
+        client:load
+        geojson={geojson}
+        mapboxToken={MAPBOX_ACCESS_TOKEN}
+      />
     </div>
   </main>
   <Footer />
