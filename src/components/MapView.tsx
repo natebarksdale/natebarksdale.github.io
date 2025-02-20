@@ -11,23 +11,26 @@ const MapView: React.FC<MapViewProps> = ({ geojson }) => {
   const popup = useRef<mapboxgl.Popup | null>(null);
 
   useEffect(() => {
-    console.log(
-      "MapView mounting with token:",
-      import.meta.env.PUBLIC_MAPBOX_TOKEN
-    );
-    console.log("GeoJSON data:", geojson);
-
     if (!mapContainer.current) {
       console.error("Map container not found");
       return;
     }
 
-    if (!import.meta.env.PUBLIC_MAPBOX_TOKEN) {
+    // Get token from window environment
+    const token =
+      process.env.PUBLIC_MAPBOX_TOKEN || import.meta.env.PUBLIC_MAPBOX_TOKEN;
+
+    console.log(
+      "Attempting to initialize map with token:",
+      token ? "Token exists" : "No token"
+    );
+
+    if (!token) {
       console.error("Mapbox token not found");
       return;
     }
 
-    mapboxgl.accessToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
+    mapboxgl.accessToken = token;
 
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
