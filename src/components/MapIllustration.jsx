@@ -46,6 +46,8 @@ const MapIllustration = ({
       "rgba(230, 30, 30, 0.85)", // Red matching theme
       "rgba(30, 100, 230, 0.85)", // Blue
       "rgba(230, 180, 30, 0.85)", // Yellow
+      "rgba(100, 230, 30, 0.85)", // Green
+      "rgba(180, 30, 230, 0.85)", // Purple
     ];
     return colors[Math.floor(Math.random() * colors.length)];
   }
@@ -77,13 +79,13 @@ const MapIllustration = ({
           zIndex: 1,
         }}
       >
-        <div className="absolute inset-0 bg-[#f5e6d3] opacity-90"></div>
+        <div className="absolute inset-0 bg-[#f5e6d3] opacity-60"></div>
         <motion.img
           src={mapUrl}
           alt="Map"
           className="w-full h-full object-cover filter grayscale contrast-90 opacity-30 mix-blend-multiply"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.3 }}
+          animate={{ opacity: 0.5 }}
           transition={{ duration: 1.5 }}
         />
       </motion.div>
@@ -113,7 +115,7 @@ const MapIllustration = ({
                   fontFamily: "Faune",
                   fontWeight: "bold",
                   fontStyle: "italic",
-                  opacity: 0.8,
+                  opacity: 0.6,
                   transformOrigin: "center",
                 }}
                 textAnchor="middle"
