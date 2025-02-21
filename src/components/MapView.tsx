@@ -35,12 +35,13 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
     map.current.setProjection(projection);
     setCurrentProjection(projection);
 
-    // Adjust zoom level based on projection type
+    // Adjust zoom level and rotation based on projection type
     const isGlobe = projection === "globe";
     const newZoom = isGlobe ? 1.5 : 0.8;
 
     map.current.easeTo({
       zoom: newZoom,
+      bearing: projection === "albers" ? 45 : 0,
       duration: 1500,
     });
   };
