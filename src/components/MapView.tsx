@@ -41,7 +41,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
     map.current.easeTo({
       zoom: newZoom,
-      bearing: projection === "albers" ? -45 : 0,
+      bearing: projection === "albers" ? -60 : 0,
       duration: 1500,
     });
   };
