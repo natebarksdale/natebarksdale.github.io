@@ -10,7 +10,7 @@ const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
   { id: "albers", name: "Albers", value: "albers" },
-  { id: "orthographic", name: "Orthographic", value: "orthographic" },
+  { id: "miller", name: "Miller", value: "miller" },
   { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
@@ -36,9 +36,8 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
     setCurrentProjection(projection);
 
     // Adjust zoom level based on projection type
-    const isGlobeOrOrtho =
-      projection === "globe" || projection === "orthographic";
-    const newZoom = isGlobeOrOrtho ? 1.5 : 0.8;
+    const isGlobe = projection === "globe";
+    const newZoom = isGlobe ? 1.5 : 0.8;
 
     map.current.easeTo({
       zoom: newZoom,
@@ -214,14 +213,21 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             <button
               key={proj.id}
               onClick={() => changeProjection(proj.value)}
-              className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
-                ${
-                  currentProjection === proj.value
-                    ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
-                    : "text-skin-base"
-                }`}
+              className="px-2 py-1 text-sm relative group"
             >
-              {proj.name}
+              <span
+                className={`relative transition-colors hover:text-skin-accent
+                ${currentProjection === proj.value ? "text-skin-accent" : "text-skin-base"}
+              `}
+              >
+                {proj.name}
+                {currentProjection === proj.value && (
+                  <span
+                    className="absolute bottom-0 left-0 w-full h-0.5 bg-skin-accent"
+                    style={{ bottom: "-4px" }}
+                  />
+                )}
+              </span>
             </button>
           ))}
         </div>

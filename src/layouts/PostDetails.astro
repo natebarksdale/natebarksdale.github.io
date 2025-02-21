@@ -15,9 +15,12 @@ import ShareModal from "@components/ShareModal";
 
 export interface Props {
   post: CollectionEntry<"blog">;
+  nextPost: CollectionEntry<"blog"> | null;
+  prevPost: CollectionEntry<"blog"> | null;
+  sortedPosts: CollectionEntry<"blog">[];
 }
 
-const { post } = Astro.props;
+const { post, nextPost, prevPost, sortedPosts } = Astro.props;
 
 const {
   title,
