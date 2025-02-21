@@ -141,16 +141,16 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             : "No haiku available";
 
           // Create popup content with styled title and formatted haiku
-          const popupContent = `
+          const popupHTML = `
             <div class="popup-content cursor-pointer">
               <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
-              <p class="text-sm italic leading-relaxed font-serif">${formattedHaiku}</p>
+              <p class="text-sm italic leading-relaxed font-doves">${formattedHaiku}</p>
             </div>
           `;
 
           popup.current
             .setLngLat(coordinates)
-            .setHTML(popupContent)
+            .setHTML(popupHTML)
             .addTo(map.current);
 
           // Add click event listener to the popup content
