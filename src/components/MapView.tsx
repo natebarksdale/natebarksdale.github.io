@@ -194,9 +194,9 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   }, [geojson, mapboxToken]);
 
   return (
-    <div className="flex flex-col gap-4">
-      <div ref={mapContainer} className="w-full h-full" />
-      <div className="flex flex-wrap gap-2 justify-center">
+    <>
+      <div ref={mapContainer} className="w-full h-[600px]" />
+      <div className="flex flex-wrap gap-2 justify-center mt-4">
         {projections.map(proj => (
           <button
             key={proj.id}
@@ -212,7 +212,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
           </button>
         ))}
       </div>
-    </div>
+    </>
   );
 };
 
