@@ -74,7 +74,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          marginTop: "2rem",
+          marginTop: "15rem",
           zIndex: 1,
         }}
       >
@@ -96,8 +96,7 @@ const MapIllustration = ({
           style={{
             y: letterParallax[index],
             zIndex: index + 2,
-            clipPath: pos.clipPath,
-            marginTop: `${4 + Math.random() * 10}rem`,
+            marginTop: `${20 + Math.random() * 10}rem`,
           }}
         >
           <motion.svg
@@ -105,13 +104,24 @@ const MapIllustration = ({
             viewBox={`0 0 ${width} ${height}`}
             preserveAspectRatio="xMidYMid meet"
           >
+            <defs>
+              <clipPath id={`clip-${index}`}>
+                <path
+                  d={`M${Math.random() * 5},${Math.random() * 5} 
+                         L${100 - Math.random() * 5},${Math.random() * 5} 
+                         L${100 - Math.random() * 5},${100 - Math.random() * 5} 
+                         L${Math.random() * 5},${100 - Math.random() * 5} Z`}
+                />
+              </clipPath>
+            </defs>
             <motion.g
-              transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation})`}
+              transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation}) scale(${pos.scale})`}
+              clipPath={`url(#clip-${index})`}
             >
               <motion.text
                 style={{
                   fill: pos.color,
-                  fontSize: `${350 * pos.scale}px`,
+                  fontSize: `350px`,
                   fontFamily: "Faune",
                   fontWeight: "bold",
                   fontStyle: "italic",
