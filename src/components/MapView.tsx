@@ -259,7 +259,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                 input[type="range"] {
                   -webkit-appearance: none;
                   height: 2px;
-                  background: rgb(var(--color-base) / 0.2);
+                  background: rgb(var(--color-base) / 0.6);
                   border-radius: 1px;
                 }
                 
@@ -285,13 +285,13 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                 }
 
                 input[type="range"]::-webkit-slider-runnable-track {
-                  background: rgb(var(--color-base) / 0.2);
+                  background: rgb(var(--color-base) / 0.6);
                   height: 2px;
                   border-radius: 1px;
                 }
 
                 input[type="range"]::-moz-range-track {
-                  background: rgb(var(--color-base) / 0.2);
+                  background: rgb(var(--color-base) / 0.6);
                   height: 2px;
                   border-radius: 1px;
                 }
