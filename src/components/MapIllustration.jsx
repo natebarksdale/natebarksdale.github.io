@@ -32,12 +32,27 @@ const MapIllustration = ({
 
   // Generate irregular polygon clips for each layer
   const generateClipPath = () => {
-    const jitter = 20; // Increased randomness
+    const jitter = 5; // Smaller jitter for more subtle edge variation
     return `polygon(
       ${jitter}% ${jitter}%, 
       ${100 - jitter}% ${jitter}%, 
       ${100 - jitter}% ${100 - jitter}%, 
       ${jitter}% ${100 - jitter}%
+    )`;
+  };
+
+  const generateLetterClip = () => {
+    // Create large, dramatic diagonal clips
+    const x1 = Math.random() * 30;
+    const x2 = 70 + Math.random() * 30;
+    const y1 = Math.random() * 30;
+    const y2 = 70 + Math.random() * 30;
+
+    return `polygon(
+      ${x1}% ${y1}%,
+      ${x2}% ${y1}%,
+      ${x2}% ${y2}%,
+      ${x1}% ${y2}%
     )`;
   };
 
@@ -61,7 +76,7 @@ const MapIllustration = ({
         Math.random() < 0.5 ? -2 + Math.random() * 4 : 88 + Math.random() * 4,
       color: getMidCenturyColor(),
       scale: 3 + Math.random() * 2.5,
-      clipPath: generateClipPath(),
+      clipPath: generateLetterClip(), // Use new clipping function
     }));
   }, [title, width, height]);
 
@@ -97,6 +112,7 @@ const MapIllustration = ({
             y: letterParallax[index],
             zIndex: index + 2,
             marginTop: `${20 + Math.random() * 10}rem`,
+            clipPath: pos.clipPath, // Apply clip path directly to the container
           }}
         >
           <motion.svg
@@ -104,20 +120,8 @@ const MapIllustration = ({
             viewBox={`0 0 ${width} ${height}`}
             preserveAspectRatio="xMidYMid meet"
           >
-            <defs>
-              <clipPath id={`clip-${index}`}>
-                <path
-                  d={`M${width * 0.1},${height * 0.1} 
-                     L${width * 0.9},${height * 0.1} 
-                     L${width * 0.9},${height * 0.9} 
-                     L${width * 0.1},${height * 0.9} Z`}
-                />
-              </clipPath>
-            </defs>
-
             <motion.g
               transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation}) scale(${pos.scale})`}
-              clipPath={`url(#clip-${index})`}
             >
               <motion.text
                 style={{
