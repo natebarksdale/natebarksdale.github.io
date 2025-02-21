@@ -89,7 +89,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          marginTop: "15rem",
+          marginTop: "0rem",
           zIndex: 1,
         }}
       >
@@ -111,7 +111,7 @@ const MapIllustration = ({
           style={{
             y: letterParallax[index],
             zIndex: index + 2,
-            marginTop: `${20 + Math.random() * 10}rem`,
+            marginTop: `${0 + Math.random() * 10}rem`,
             clipPath: pos.clipPath, // Apply clip path directly to the container
           }}
         >
