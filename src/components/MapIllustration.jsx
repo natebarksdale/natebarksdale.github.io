@@ -32,12 +32,12 @@ const MapIllustration = ({
 
   // Generate irregular polygon clips for each layer
   const generateClipPath = () => {
-    const jitter = 5; // Amount of randomness in pixels
+    const jitter = 20; // Increased randomness
     return `polygon(
-      ${Math.random() * jitter}% ${Math.random() * jitter}%, 
-      ${100 - Math.random() * jitter}% ${Math.random() * jitter}%, 
-      ${100 - Math.random() * jitter}% ${100 - Math.random() * jitter}%, 
-      ${Math.random() * jitter}% ${100 - Math.random() * jitter}%
+      ${jitter}% ${jitter}%, 
+      ${100 - jitter}% ${jitter}%, 
+      ${100 - jitter}% ${100 - jitter}%, 
+      ${jitter}% ${100 - jitter}%
     )`;
   };
 
@@ -106,23 +106,14 @@ const MapIllustration = ({
           >
             <defs>
               <clipPath id={`clip-${index}`}>
-                <rect
-                  x={width * 0.2}
-                  y={height * 0.2}
-                  width={width * 0.6}
-                  height={height * 0.6}
+                <path
+                  d={`M${width * 0.1},${height * 0.1} 
+                     L${width * 0.9},${height * 0.1} 
+                     L${width * 0.9},${height * 0.9} 
+                     L${width * 0.1},${height * 0.9} Z`}
                 />
               </clipPath>
             </defs>
-
-            <rect
-              x="0"
-              y="0"
-              width={width}
-              height={height}
-              fill="rgba(255,0,0,0.1)"
-              clipPath={`url(#clip-${index})`}
-            />
 
             <motion.g
               transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation}) scale(${pos.scale})`}
@@ -140,9 +131,6 @@ const MapIllustration = ({
                 }}
                 textAnchor="middle"
                 dominantBaseline="middle"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 1, delay: index * 0.2 }}
               >
                 {pos.letter}
               </motion.text>
