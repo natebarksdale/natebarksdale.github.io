@@ -258,9 +258,25 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
               {`
                 input[type="range"] {
                   -webkit-appearance: none;
-                  height: 2px;
-                  background: rgb(var(--color-base) / 0.6);
-                  border-radius: 1px;
+                  height: 4px;
+                  background: transparent;
+                  border-radius: 2px;
+                }
+                
+                input[type="range"]::-webkit-slider-runnable-track {
+                  width: 100%;
+                  height: 4px;
+                  background: var(--color-card);
+                  border: 1px solid rgb(var(--color-base) / 0.3);
+                  border-radius: 2px;
+                }
+                
+                input[type="range"]::-moz-range-track {
+                  width: 100%;
+                  height: 4px;
+                  background: var(--color-card);
+                  border: 1px solid rgb(var(--color-base) / 0.3);
+                  border-radius: 2px;
                 }
                 
                 input[type="range"]::-webkit-slider-thumb {
@@ -272,6 +288,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                   cursor: pointer;
                   border: none;
                   box-shadow: 0 0 0 2px var(--color-fill);
+                  margin-top: -6px;
                 }
                 
                 input[type="range"]::-moz-range-thumb {
@@ -282,18 +299,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                   cursor: pointer;
                   border: none;
                   box-shadow: 0 0 0 2px var(--color-fill);
-                }
-
-                input[type="range"]::-webkit-slider-runnable-track {
-                  background: rgb(var(--color-base) / 0.6);
-                  height: 2px;
-                  border-radius: 1px;
-                }
-
-                input[type="range"]::-moz-range-track {
-                  background: rgb(var(--color-base) / 0.6);
-                  height: 2px;
-                  border-radius: 1px;
+                  margin-top: -6px;
                 }
               `}
             </style>
