@@ -88,6 +88,20 @@ p:not(:last-child)::after {
     font-family: "Faune";
     font-weight:600;
   }
+
+  /* Add this to your existing global styles */
+.fancy-underline {
+  background: linear-gradient(0deg, var(--color-accent-50) 0%, var(--color-accent-50) 100%);
+  background-position: 0 85%;
+  background-repeat: no-repeat;
+  background-size: 100% 0.4em;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill);
+}
+
   
   h2, h3, h4, h5 {@apply uppercase font-serif;}
   h1, h1 a { @apply text-3xl font-serif; }
@@ -169,19 +183,6 @@ p:not(:last-child)::after {
     
     transition: background-size 0.4s ease;
   }
-
-/* Add this to your existing global styles */
-.fancy-underline {
-  background: linear-gradient(0deg, var(--color-accent-50) 0%, var(--color-accent-50) 100%);
-  background-position: 0 85%;
-  background-repeat: no-repeat;
-  background-size: 100% 0.4em;
-  text-shadow: 
-    0.1em 0 var(--color-fill),
-    -0.1em 0 var(--color-fill),
-    0 0.1em var(--color-fill),
-    0 -0.1em var(--color-fill);
-}
 
 
   svg {
