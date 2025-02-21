@@ -55,13 +55,13 @@ const MapIllustration = ({
     return letters.split("").map((letter, index) => ({
       letter,
       x: Math.random() * width * 0.9 + width * 0.05,
-      y: Math.random() * height * 0.8 + height * 0.4, // Moved down by adding 0.4 * height
+      y: height * 0.45 + (Math.random() * height * 0.1 - height * 0.05),
       rotation:
         Math.random() < 0.5
           ? -2 + Math.random() * 4 // Between -2 and +2
           : 88 + Math.random() * 4, // Between 88 and 92
       color: getMidCenturyColor(),
-      scale: 1.5 + Math.random() * 2.5, // Increased max scale to 4x
+      scale: 1.5 + Math.random() * 2.5,
       clipPath: generateClipPath(),
     }));
   }, [title, width, height]);
@@ -75,6 +75,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
+          transform: "translateY(55%)",
           zIndex: 1,
         }}
       >
