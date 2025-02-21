@@ -10,7 +10,7 @@ const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
   { id: "albers", name: "Albers", value: "albers" },
-  { id: "naturalEarth", name: "Natural Earth", value: "naturalEarth" },
+  { id: "miller", name: "Miller", value: "miller" },
   { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
@@ -28,11 +28,23 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   const popup = useRef<mapboxgl.Popup | null>(null);
   const [currentProjection, setCurrentProjection] =
     useState<ProjectionType>("globe");
+  const [center, setCenter] = useState(30); // Default center parallel
+  const [parallel1, setParallel1] = useState(20); // Default first standard parallel
+  const [parallel2, setParallel2] = useState(40); // Default second standard parallel
 
   const changeProjection = (projection: ProjectionType) => {
     if (!map.current) return;
 
-    map.current.setProjection(projection);
+    if (projection === "lambertConformalConic") {
+      map.current.setProjection({
+        name: projection,
+        center: [0, center],
+        parallels: [parallel1, parallel2],
+      });
+    } else {
+      map.current.setProjection(projection);
+    }
+
     setCurrentProjection(projection);
 
     // Adjust zoom level and rotation based on projection type
@@ -41,10 +53,24 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
     map.current.easeTo({
       zoom: newZoom,
-      bearing: projection === "albers" ? -60 : 0,
+      bearing: projection === "albers" ? 45 : 0,
       duration: 1500,
     });
   };
+
+  const updateLambertProjection = () => {
+    if (!map.current || currentProjection !== "lambertConformalConic") return;
+
+    map.current.setProjection({
+      name: "lambertConformalConic",
+      center: [0, center],
+      parallels: [parallel1, parallel2],
+    });
+  };
+
+  useEffect(() => {
+    updateLambertProjection();
+  }, [center, parallel1, parallel2]);
 
   useEffect(() => {
     if (!mapContainer.current || !mapboxToken) return;
@@ -214,24 +240,61 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             <button
               key={proj.id}
               onClick={() => changeProjection(proj.value)}
-              className="px-2 py-1 text-sm relative group"
+              className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
+                ${
+                  currentProjection === proj.value
+                    ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
+                    : "text-skin-base"
+                }`}
             >
-              <span
-                className={`relative transition-colors hover:text-skin-accent
-                ${currentProjection === proj.value ? "text-skin-accent" : "text-skin-base"}
-              `}
-              >
-                {proj.name}
-                {currentProjection === proj.value && (
-                  <span
-                    className="absolute bottom-0 left-0 w-full h-0.5 bg-skin-accent"
-                    style={{ bottom: "-4px" }}
-                  />
-                )}
-              </span>
+              {proj.name}
             </button>
           ))}
         </div>
+
+        {currentProjection === "lambertConformalConic" && (
+          <div className="mt-6 max-w-xl mx-auto px-4">
+            <div className="mb-4">
+              <label className="block text-sm mb-2">
+                Center Parallel: {center}°
+              </label>
+              <input
+                type="range"
+                min="-80"
+                max="80"
+                value={center}
+                onChange={e => setCenter(Number(e.target.value))}
+                className="w-full accent-skin-accent"
+              />
+            </div>
+            <div className="mb-4">
+              <label className="block text-sm mb-2">
+                First Standard Parallel: {parallel1}°
+              </label>
+              <input
+                type="range"
+                min="-80"
+                max="80"
+                value={parallel1}
+                onChange={e => setParallel1(Number(e.target.value))}
+                className="w-full accent-skin-accent"
+              />
+            </div>
+            <div className="mb-4">
+              <label className="block text-sm mb-2">
+                Second Standard Parallel: {parallel2}°
+              </label>
+              <input
+                type="range"
+                min="-80"
+                max="80"
+                value={parallel2}
+                onChange={e => setParallel2(Number(e.target.value))}
+                className="w-full accent-skin-accent"
+              />
+            </div>
+          </div>
+        )}
       </div>
     </>
   );
