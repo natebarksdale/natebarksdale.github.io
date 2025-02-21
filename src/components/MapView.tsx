@@ -23,7 +23,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
         center: [0, 20],
         zoom: 1.5,
         renderWorldCopies: true,
-        projection: "mercator",
+        projection: "globe",
         attributionControl: false,
       });
 
@@ -81,8 +81,8 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
         // Create popup but don't add to map yet
         popup.current = new mapboxgl.Popup({
-          closeButton: true,
-          closeOnClick: false, // Don't close when clicking inside popup
+          closeButton: false,
+          closeOnClick: false,
           maxWidth: "300px",
         });
 
@@ -102,10 +102,9 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
           // Create popup content with styled title and haiku
           const popupContent = `
-            <div class="popup-content">
+            <div class="popup-content cursor-pointer">
               <h3 class="text-lg font-semibold uppercase tracking-wide mb-2">${title}</h3>
               <p class="text-sm italic">${haiku || "No haiku available"}</p>
-              <button class="mt-3 text-sm text-skin-accent hover:underline">Read more →</button>
             </div>
           `;
 
@@ -114,13 +113,32 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             .setHTML(popupContent)
             .addTo(map.current);
 
-          // Add click event listener to the "Read more" button
+          // Add click event listener to the popup content
           const popupElement = popup.current.getElement();
-          const readMoreButton = popupElement.querySelector("button");
-          if (readMoreButton) {
-            readMoreButton.addEventListener("click", () => {
-              window.location.href = `/posts/${slug}`;
+          const popupContentElement =
+            popupElement.querySelector(".popup-content");
+          if (popupContentElement) {
+            popupContentElement.addEventListener("click", () => {
+              // Use client-side navigation
+              const link = document.createElement("a");
+              link.href = `/posts/${slug}`;
+              link.click();
             });
+          }
+        });
+
+        // Close popup when clicking outside of it
+        map.current.on("click", e => {
+          if (!map.current || !popup.current) return;
+
+          // Check if the click was on a marker
+          const features = map.current.queryRenderedFeatures(e.point, {
+            layers: ["posts-circles"],
+          });
+
+          // If no features were clicked (i.e., clicked outside markers and popup)
+          if (features.length === 0) {
+            popup.current.remove();
           }
         });
 
