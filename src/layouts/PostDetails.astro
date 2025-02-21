@@ -151,7 +151,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
       prevPostTitle={prevPost?.data.title}
     />
   </main>
-  <Footer />
+  <Footer showPrevNext={!!nextPost || !!prevPost} />
 </Layout>
 
 <style>
