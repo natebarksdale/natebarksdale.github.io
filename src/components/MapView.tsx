@@ -254,55 +254,6 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
         {currentProjection === "lambertConformalConic" && (
           <div className="mt-6 max-w-xl mx-auto px-4">
-            <style>
-              {`
-                input[type="range"] {
-                  -webkit-appearance: none;
-                  height: 4px;
-                  background: transparent;
-                  border-radius: 2px;
-                }
-                
-                input[type="range"]::-webkit-slider-runnable-track {
-                  width: 100%;
-                  height: 4px;
-                  background: var(--color-card);
-                  border: 1px solid rgb(var(--color-base) / 0.3);
-                  border-radius: 2px;
-                }
-                
-                input[type="range"]::-moz-range-track {
-                  width: 100%;
-                  height: 4px;
-                  background: var(--color-card);
-                  border: 1px solid rgb(var(--color-base) / 0.3);
-                  border-radius: 2px;
-                }
-                
-                input[type="range"]::-webkit-slider-thumb {
-                  -webkit-appearance: none;
-                  width: 16px;
-                  height: 16px;
-                  border-radius: 50%;
-                  background: rgb(var(--color-accent));
-                  cursor: pointer;
-                  border: none;
-                  box-shadow: 0 0 0 2px var(--color-fill);
-                  margin-top: -6px;
-                }
-                
-                input[type="range"]::-moz-range-thumb {
-                  width: 16px;
-                  height: 16px;
-                  border-radius: 50%;
-                  background: rgb(var(--color-accent));
-                  cursor: pointer;
-                  border: none;
-                  box-shadow: 0 0 0 2px var(--color-fill);
-                  margin-top: -6px;
-                }
-              `}
-            </style>
             <div className="mb-4">
               <label className="block text-sm mb-2">
                 Center Parallel: {center}°
