@@ -100,11 +100,16 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
           }
 
-          // Create popup content with styled title and haiku
+          // Format haiku with line breaks
+          const formattedHaiku = haiku
+            ? haiku.replace(/\n/g, "<br>")
+            : "No haiku available";
+
+          // Create popup content with styled title and formatted haiku
           const popupContent = `
             <div class="popup-content cursor-pointer">
-              <h3 class="text-lg font-semibold uppercase tracking-wide mb-2">${title}</h3>
-              <p class="text-sm italic">${haiku || "No haiku available"}</p>
+              <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
+              <p class="text-sm italic leading-relaxed font-doves">${formattedHaiku}</p>
             </div>
           `;
 

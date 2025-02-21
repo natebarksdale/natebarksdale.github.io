@@ -13,7 +13,7 @@ const geotaggedPosts = posts
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: post.data.coordinates,
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]],
     },
     properties: {
       title: post.data.title,
