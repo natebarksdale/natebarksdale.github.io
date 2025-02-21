@@ -74,7 +74,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          marginTop: "4rem",
+          marginTop: "2rem",
           zIndex: 1,
         }}
       >
@@ -97,7 +97,7 @@ const MapIllustration = ({
             y: letterParallax[index],
             zIndex: index + 2,
             clipPath: pos.clipPath,
-            marginTop: `${20 + Math.random() * 5}rem`,
+            marginTop: `${2 + Math.random() * 10}rem`,
           }}
         >
           <motion.svg
