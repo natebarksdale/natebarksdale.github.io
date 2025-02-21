@@ -42,17 +42,21 @@ const MapIllustration = ({
   };
 
   const generateLetterClip = () => {
-    // Create large, dramatic diagonal clips
-    const x1 = Math.random() * 30;
-    const x2 = 70 + Math.random() * 30;
-    const y1 = Math.random() * 30;
-    const y2 = 70 + Math.random() * 30;
+    // Create irregular quadrilateral by varying each point independently
+    const x1 = Math.random() * 20; // Top left
+    const y1 = Math.random() * 20;
+    const x2 = 80 + Math.random() * 20; // Top right
+    const y2 = Math.random() * 20;
+    const x3 = 80 + Math.random() * 20; // Bottom right
+    const y3 = 80 + Math.random() * 20;
+    const x4 = Math.random() * 20; // Bottom left
+    const y4 = 80 + Math.random() * 20;
 
     return `polygon(
       ${x1}% ${y1}%,
-      ${x2}% ${y1}%,
       ${x2}% ${y2}%,
-      ${x1}% ${y2}%
+      ${x3}% ${y3}%,
+      ${x4}% ${y4}%
     )`;
   };
 
@@ -76,7 +80,7 @@ const MapIllustration = ({
         Math.random() < 0.5 ? -2 + Math.random() * 4 : 88 + Math.random() * 4,
       color: getMidCenturyColor(),
       scale: 3 + Math.random() * 2.5,
-      clipPath: generateLetterClip(), // Use new clipping function
+      clipPath: generateLetterClip(),
     }));
   }, [title, width, height]);
 
