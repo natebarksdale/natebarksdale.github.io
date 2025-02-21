@@ -107,10 +107,10 @@ const MapIllustration = ({
             <defs>
               <clipPath id={`clip-${index}`}>
                 <path
-                  d={`M${Math.random() * 100},${Math.random() * 100} 
-                         L${300 - Math.random() * 100},${Math.random() * 100} 
-                         L${300 - Math.random() * 100},${300 - Math.random() * 100} 
-                         L${Math.random() * 100},${300 - Math.random() * 100} Z`}
+                  d={`M${Math.random() * width * 0.3},${Math.random() * height * 0.3} 
+                     L${width - Math.random() * width * 0.3},${Math.random() * height * 0.3} 
+                     L${width - Math.random() * width * 0.3},${height - Math.random() * height * 0.3} 
+                     L${Math.random() * width * 0.3},${height - Math.random() * height * 0.3} Z`}
                 />
               </clipPath>
             </defs>
