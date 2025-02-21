@@ -97,7 +97,7 @@ const MapIllustration = ({
             y: letterParallax[index],
             zIndex: index + 2,
             clipPath: pos.clipPath,
-            marginTop: `${2 + Math.random() * 10}rem`,
+            marginTop: `${4 + Math.random() * 10}rem`,
           }}
         >
           <motion.svg
