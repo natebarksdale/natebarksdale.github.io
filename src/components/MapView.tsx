@@ -10,7 +10,7 @@ const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
   { id: "albers", name: "Albers", value: "albers" },
-  { id: "miller", name: "Miller", value: "miller" },
+  { id: "equalEarth", name: "Equal Earth", value: "equalEarth" },
   { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
