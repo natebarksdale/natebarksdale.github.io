@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import mapboxgl from "mapbox-gl";
 
 interface MapViewProps {
@@ -6,10 +6,34 @@ interface MapViewProps {
   mapboxToken: string;
 }
 
+const projections = [
+  { id: "globe", name: "Globe", value: "globe" },
+  { id: "mercator", name: "Mercator", value: "mercator" },
+  { id: "naturalEarth", name: "Natural Earth", value: "naturalEarth" },
+  { id: "equalEarth", name: "Equal Earth", value: "equalEarth" },
+  { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
+  {
+    id: "lambertConformalConic",
+    name: "Lambert",
+    value: "lambertConformalConic",
+  },
+] as const;
+
+type ProjectionType = (typeof projections)[number]["value"];
+
 const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<mapboxgl.Map | null>(null);
   const popup = useRef<mapboxgl.Popup | null>(null);
+  const [currentProjection, setCurrentProjection] =
+    useState<ProjectionType>("globe");
+
+  const changeProjection = (projection: ProjectionType) => {
+    if (!map.current) return;
+
+    map.current.setProjection(projection);
+    setCurrentProjection(projection);
+  };
 
   useEffect(() => {
     if (!mapContainer.current || !mapboxToken) return;
@@ -109,7 +133,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
           const popupContent = `
             <div class="popup-content cursor-pointer">
               <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
-              <p class="text-sm italic leading-relaxed font-doves">${formattedHaiku}</p>
+              <p class="text-sm italic leading-relaxed font-serif">${formattedHaiku}</p>
             </div>
           `;
 
@@ -169,7 +193,27 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
     };
   }, [geojson, mapboxToken]);
 
-  return <div ref={mapContainer} className="w-full h-full" />;
+  return (
+    <div className="flex flex-col gap-4">
+      <div ref={mapContainer} className="w-full h-full" />
+      <div className="flex flex-wrap gap-2 justify-center">
+        {projections.map(proj => (
+          <button
+            key={proj.id}
+            onClick={() => changeProjection(proj.value)}
+            className={`px-3 py-1.5 text-sm rounded-lg border transition-colors
+              ${
+                currentProjection === proj.value
+                  ? "bg-skin-accent text-skin-inverted border-skin-accent"
+                  : "border-skin-line hover:bg-skin-accent hover:text-skin-inverted hover:border-skin-accent"
+              }`}
+          >
+            {proj.name}
+          </button>
+        ))}
+      </div>
+    </div>
+  );
 };
 
 export default MapView;
