@@ -152,7 +152,7 @@ p:not(:last-child)::after {
     @apply mx-auto max-w-3xl px-4;
   }
   a {
-    @apply outline-2 outline-offset-1 outline-skin-fill underline-highlight
+    @apply outline-2 outline-offset-1 outline-skin-fill fancy-underline
     focus-visible:no-underline focus-visible:outline-dashed;
   }
   
@@ -170,6 +170,20 @@ p:not(:last-child)::after {
     transition: background-size 0.4s ease;
   }
 
+/* Add this to your existing global styles */
+.fancy-underline {
+  background: linear-gradient(0deg, var(--color-accent-50) 0%, var(--color-accent-50) 100%);
+  background-position: 0 85%;
+  background-repeat: no-repeat;
+  background-size: 100% 0.4em;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill);
+}
+
+
   svg {
     @apply inline-block h-6 w-6 fill-skin-base group-hover:fill-skin-accent;
   }
@@ -181,7 +195,7 @@ p:not(:last-child)::after {
   .prose {
     @apply prose-headings:!mb-3 prose-headings:!text-skin-base 
     prose-h3:italic prose-p:!text-skin-base 
-    prose-a:!text-skin-base prose-a:!decoration-dashed prose-a:underline-offset-8
+    prose-a:!text-skin-base prose-a:!decoration-dashed prose-a:fancy-underline-offset-8
     hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent
     prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
     prose-figcaption:!text-skin-base prose-figcaption:opacity-70
@@ -267,5 +281,4 @@ p:not(:last-child)::after {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
 }
-
 
