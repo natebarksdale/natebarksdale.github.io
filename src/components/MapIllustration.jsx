@@ -107,10 +107,10 @@ const MapIllustration = ({
             <defs>
               <clipPath id={`clip-${index}`}>
                 <path
-                  d={`M${Math.random() * 5},${Math.random() * 5} 
-                         L${100 - Math.random() * 5},${Math.random() * 5} 
-                         L${100 - Math.random() * 5},${100 - Math.random() * 5} 
-                         L${Math.random() * 5},${100 - Math.random() * 5} Z`}
+                  d={`M${Math.random() * 100},${Math.random() * 100} 
+                         L${300 - Math.random() * 100},${Math.random() * 100} 
+                         L${300 - Math.random() * 100},${300 - Math.random() * 100} 
+                         L${Math.random() * 100},${300 - Math.random() * 100} Z`}
                 />
               </clipPath>
             </defs>
@@ -121,7 +121,7 @@ const MapIllustration = ({
               <motion.text
                 style={{
                   fill: pos.color,
-                  fontSize: `350px`,
+                  fontSize: `700px`,
                   fontFamily: "Faune",
                   fontWeight: "bold",
                   fontStyle: "italic",
