@@ -55,11 +55,9 @@ const MapIllustration = ({
     return letters.split("").map((letter, index) => ({
       letter,
       x: Math.random() * width * 0.9 + width * 0.05,
-      y: height * 0.45 + (Math.random() * height * 0.1 - height * 0.05),
+      y: height * 0.3 + Math.random() * height * 0.4,
       rotation:
-        Math.random() < 0.5
-          ? -2 + Math.random() * 4 // Between -2 and +2
-          : 88 + Math.random() * 4, // Between 88 and 92
+        Math.random() < 0.5 ? -2 + Math.random() * 4 : 88 + Math.random() * 4,
       color: getMidCenturyColor(),
       scale: 1.5 + Math.random() * 2.5,
       clipPath: generateClipPath(),
@@ -75,7 +73,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          transform: "translateY(55%)",
+          transform: "translateY(70%)",
           zIndex: 1,
         }}
       >
