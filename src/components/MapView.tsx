@@ -10,7 +10,7 @@ const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
   { id: "albers", name: "Albers", value: "albers" },
-  { id: "miller", name: "Miller", value: "miller" },
+  { id: "naturalEarth", name: "Natural Earth", value: "naturalEarth" },
   { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
@@ -41,7 +41,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
     map.current.easeTo({
       zoom: newZoom,
-      bearing: projection === "albers" ? 45 : 0,
+      bearing: projection === "albers" ? -45 : 0,
       duration: 1500,
     });
   };
