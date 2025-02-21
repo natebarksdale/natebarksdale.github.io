@@ -74,8 +74,8 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          transform: "translateY(70%)",
-          zIndex: 10,
+          marginTop: "15rem",
+          zIndex: 1,
         }}
       >
         <div className="absolute inset-0 bg-[#f5e6d3] opacity-90"></div>
@@ -95,8 +95,9 @@ const MapIllustration = ({
           className="absolute inset-0"
           style={{
             y: letterParallax[index],
-            zIndex: 1,
+            zIndex: index + 2,
             clipPath: pos.clipPath,
+            marginTop: `${20 + Math.random() * 10}rem`,
           }}
         >
           <motion.svg
