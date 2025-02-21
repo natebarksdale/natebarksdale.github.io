@@ -9,7 +9,7 @@ function splitEmojiTag(tagName) {
 
   const emojiRegex = /(\p{Extended_Pictographic}+)/u;
   const match = tagName.match(emojiRegex);
-  
+
   if (match) {
     return {
       emoji: match[0],
@@ -24,11 +24,7 @@ const displayTag = tagName ?? tag ?? "";
 const { emoji, text } = splitEmojiTag(tagName);
 ---
 
-<li
-  class={`inline-block ${
-    size === "sm" ? "my-1 underline-offset-4" : "my-3 mx-1 underline-offset-8"
-  }`}
->
+<li class={`inline-block ${size === "sm" ? "my-1 " : "my-3 mx-1"}`}>
   <a
     href={`/tags/${tag}/`}
     transition:name={tag}

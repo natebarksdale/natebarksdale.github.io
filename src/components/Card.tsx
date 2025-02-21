@@ -9,11 +9,12 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, modDatetime, description, emoji, haiku } = frontmatter;
+  const { title, pubDatetime, modDatetime, description, emoji, haiku } =
+    frontmatter;
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
-    className: "font-medium decoration-solid hover:underline",
+    className: "font-medium decoration-solid hover:fancyunderline",
   };
 
   return (
@@ -21,15 +22,21 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
       <a
         href={href}
         title={haiku}
-        className="inline-block text-xl font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
+        className="inline-block text-xl font-medium text-skin-accent fancy-underline focus-visible:no-underline focus-visible:underline-offset-0"
       >
         {secHeading ? (
-          <h2 {...headerProps}><span class='emoji'>{emoji}</span>{title}</h2>
+          <h2 {...headerProps}>
+            <span class="emoji">{emoji}</span>
+            {title}
+          </h2>
         ) : (
-          <h3 {...headerProps}><span class='emoji'>{emoji}</span>{title}</h3>
+          <h3 {...headerProps}>
+            <span class="emoji">{emoji}</span>
+            {title}
+          </h3>
         )}
       </a>
-{/*       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} /> */}
+      {/*       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} /> */}
       <p>{description}</p>
     </li>
   );
