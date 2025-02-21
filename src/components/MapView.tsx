@@ -10,7 +10,7 @@ const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
   { id: "albers", name: "Albers", value: "albers" },
-  { id: "stereographic", name: "Stereographic", value: "stereographic" },
+  { id: "orthographic", name: "Orthographic", value: "orthographic" },
   { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
@@ -34,6 +34,16 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
     map.current.setProjection(projection);
     setCurrentProjection(projection);
+
+    // Adjust zoom level based on projection type
+    const isGlobeOrOrtho =
+      projection === "globe" || projection === "orthographic";
+    const newZoom = isGlobeOrOrtho ? 1.5 : 0.8;
+
+    map.current.easeTo({
+      zoom: newZoom,
+      duration: 1500,
+    });
   };
 
   useEffect(() => {
@@ -197,21 +207,24 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   return (
     <>
       <div ref={mapContainer} className="w-full h-[600px]" />
-      <div className="flex flex-wrap gap-4 justify-center mt-4">
-        {projections.map(proj => (
-          <button
-            key={proj.id}
-            onClick={() => changeProjection(proj.value)}
-            className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
-              ${
-                currentProjection === proj.value
-                  ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
-                  : "text-skin-base"
-              }`}
-          >
-            {proj.name}
-          </button>
-        ))}
+      <div className="mt-8 text-center">
+        <h2 className="text-lg font-semibold mb-3">Map Projections</h2>
+        <div className="flex flex-wrap gap-4 justify-center">
+          {projections.map(proj => (
+            <button
+              key={proj.id}
+              onClick={() => changeProjection(proj.value)}
+              className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
+                ${
+                  currentProjection === proj.value
+                    ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
+                    : "text-skin-base"
+                }`}
+            >
+              {proj.name}
+            </button>
+          ))}
+        </div>
       </div>
     </>
   );
