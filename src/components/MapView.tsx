@@ -254,6 +254,35 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
         {currentProjection === "lambertConformalConic" && (
           <div className="mt-6 max-w-xl mx-auto px-4">
+            <style>
+              {`
+                input[type="range"] {
+                  -webkit-appearance: none;
+                  height: 2px;
+                  background: rgb(var(--color-accent) / 0.2);
+                  border-radius: 1px;
+                }
+                
+                input[type="range"]::-webkit-slider-thumb {
+                  -webkit-appearance: none;
+                  width: 16px;
+                  height: 16px;
+                  border-radius: 50%;
+                  background: rgb(var(--color-accent));
+                  cursor: pointer;
+                  border: none;
+                }
+                
+                input[type="range"]::-moz-range-thumb {
+                  width: 16px;
+                  height: 16px;
+                  border-radius: 50%;
+                  background: rgb(var(--color-accent));
+                  cursor: pointer;
+                  border: none;
+                }
+              `}
+            </style>
             <div className="mb-4">
               <label className="block text-sm mb-2">
                 Center Parallel: {center}°
@@ -264,7 +293,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                 max="80"
                 value={center}
                 onChange={e => setCenter(Number(e.target.value))}
-                className="w-full accent-skin-accent"
+                className="w-full"
               />
             </div>
             <div className="mb-4">
@@ -277,7 +306,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                 max="80"
                 value={parallel1}
                 onChange={e => setParallel1(Number(e.target.value))}
-                className="w-full accent-skin-accent"
+                className="w-full"
               />
             </div>
             <div className="mb-4">
@@ -290,7 +319,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
                 max="80"
                 value={parallel2}
                 onChange={e => setParallel2(Number(e.target.value))}
-                className="w-full accent-skin-accent"
+                className="w-full"
               />
             </div>
           </div>
