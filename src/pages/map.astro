@@ -13,7 +13,7 @@ const geotaggedPosts = posts
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: post.data.coordinates,
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]],
     },
     properties: {
       title: post.data.title,
@@ -42,6 +42,8 @@ console.log(
   geojson.features.map(f => ({
     title: f.properties.title,
     coordinates: f.geometry.coordinates,
+    originalCoords: posts.find(p => p.data.title === f.properties.title)?.data
+      .coordinates,
   }))
 );
 ---
