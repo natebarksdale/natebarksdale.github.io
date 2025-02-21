@@ -46,8 +46,7 @@ const MapIllustration = ({
       "rgba(230, 30, 30, 0.85)", // Red matching theme
       "rgba(30, 100, 230, 0.85)", // Blue
       "rgba(230, 180, 30, 0.85)", // Yellow
-      "rgba(100, 230, 30, 0.85)", // Green
-      "rgba(180, 30, 230, 0.85)", // Purple
+      "rgba(255, 255, 255, 0.85)", // White
     ];
     return colors[Math.floor(Math.random() * colors.length)];
   }
@@ -57,7 +56,7 @@ const MapIllustration = ({
     return letters.split("").map((letter, index) => ({
       letter,
       x: Math.random() * width * 0.9 + width * 0.05,
-      y: height * 0.3 + Math.random() * height * 0.4,
+      y: height * 0.85 + (Math.random() * height * 0.4 - height * 0.2),
       rotation:
         Math.random() < 0.5 ? -2 + Math.random() * 4 : 88 + Math.random() * 4,
       color: getMidCenturyColor(),
@@ -76,16 +75,16 @@ const MapIllustration = ({
           y: mapParallax,
           clipPath: generateClipPath(),
           transform: "translateY(70%)",
-          zIndex: 1,
+          zIndex: 10,
         }}
       >
-        <div className="absolute inset-0 bg-[#f5e6d3] opacity-60"></div>
+        <div className="absolute inset-0 bg-[#f5e6d3] opacity-90"></div>
         <motion.img
           src={mapUrl}
           alt="Map"
           className="w-full h-full object-cover filter grayscale contrast-90 opacity-30 mix-blend-multiply"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.5 }}
+          animate={{ opacity: 0.3 }}
           transition={{ duration: 1.5 }}
         />
       </motion.div>
@@ -96,7 +95,7 @@ const MapIllustration = ({
           className="absolute inset-0"
           style={{
             y: letterParallax[index],
-            zIndex: index + 2,
+            zIndex: 1,
             clipPath: pos.clipPath,
           }}
         >
@@ -115,7 +114,7 @@ const MapIllustration = ({
                   fontFamily: "Faune",
                   fontWeight: "bold",
                   fontStyle: "italic",
-                  opacity: 0.6,
+                  opacity: 0.8,
                   transformOrigin: "center",
                 }}
                 textAnchor="middle"
