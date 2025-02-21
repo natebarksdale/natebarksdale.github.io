@@ -60,7 +60,7 @@ const MapIllustration = ({
       rotation:
         Math.random() < 0.5 ? -2 + Math.random() * 4 : 88 + Math.random() * 4,
       color: getMidCenturyColor(),
-      scale: 1.5 + Math.random() * 2.5,
+      scale: 3 + Math.random() * 2.5,
       clipPath: generateClipPath(),
     }));
   }, [title, width, height]);
