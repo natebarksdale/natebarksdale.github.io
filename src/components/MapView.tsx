@@ -9,8 +9,9 @@ interface MapViewProps {
 const projections = [
   { id: "globe", name: "Globe", value: "globe" },
   { id: "mercator", name: "Mercator", value: "mercator" },
-  { id: "naturalEarth", name: "Natural Earth", value: "naturalEarth" },
-  { id: "equalEarth", name: "Equal Earth", value: "equalEarth" },
+  { id: "albers", name: "Albers", value: "albers" },
+  { id: "stereographic", name: "Stereographic", value: "stereographic" },
+  { id: "equirectangular", name: "Equirectangular", value: "equirectangular" },
   { id: "winkelTripel", name: "Winkel Tripel", value: "winkelTripel" },
   {
     id: "lambertConformalConic",
@@ -196,16 +197,16 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   return (
     <>
       <div ref={mapContainer} className="w-full h-[600px]" />
-      <div className="flex flex-wrap gap-2 justify-center mt-4">
+      <div className="flex flex-wrap gap-4 justify-center mt-4">
         {projections.map(proj => (
           <button
             key={proj.id}
             onClick={() => changeProjection(proj.value)}
-            className={`px-3 py-1.5 text-sm rounded-lg border transition-colors
+            className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
               ${
                 currentProjection === proj.value
-                  ? "bg-skin-accent text-skin-inverted border-skin-accent"
-                  : "border-skin-line hover:bg-skin-accent hover:text-skin-inverted hover:border-skin-accent"
+                  ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
+                  : "text-skin-base"
               }`}
           >
             {proj.name}
