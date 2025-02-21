@@ -12,17 +12,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   const popup = useRef<mapboxgl.Popup | null>(null);
 
   useEffect(() => {
-    console.log("MapView mounting, token status:", !!mapboxToken);
-
-    if (!mapContainer.current) {
-      console.error("Map container not found");
-      return;
-    }
-
-    if (!mapboxToken) {
-      console.error("Mapbox token not found");
-      return;
-    }
+    if (!mapContainer.current || !mapboxToken) return;
 
     try {
       mapboxgl.accessToken = mapboxToken;
@@ -30,110 +20,48 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
       map.current = new mapboxgl.Map({
         container: mapContainer.current,
         style: "mapbox://styles/mapbox/light-v11",
-        center: [0, 20], // Center on world view
+        center: [0, 20],
         zoom: 1.5,
+        renderWorldCopies: true,
+        projection: "mercator",
+        attributionControl: false,
       });
 
       map.current.on("load", () => {
         if (!map.current) return;
 
-        // Add post locations as a source with clustering
+        map.current.setPaintProperty(
+          "background",
+          "background-color",
+          "#faf8f3"
+        );
+
         map.current.addSource("posts", {
           type: "geojson",
           data: geojson,
-          cluster: true,
-          clusterMaxZoom: 14,
-          clusterRadius: 50,
         });
 
-        // Add clusters
         map.current.addLayer({
-          id: "clusters",
+          id: "posts-circles",
           type: "circle",
           source: "posts",
-          filter: ["has", "point_count"],
           paint: {
-            "circle-color": [
-              "step",
-              ["get", "point_count"],
-              "#de1d8d",
+            "circle-radius": [
+              "interpolate",
+              ["linear"],
+              ["zoom"],
+              0,
+              3,
+              4,
+              5,
+              8,
+              8,
+              12,
               10,
-              "#c31c7e",
-              30,
-              "#a61a6e",
-            ],
-            // Dynamic cluster size based on zoom
-            "circle-radius": [
-              "interpolate",
-              ["linear"],
-              ["zoom"],
-              // zoom level, size
-              0,
-              ["step", ["get", "point_count"], 15, 10, 25, 30, 35],
-              4,
-              ["step", ["get", "point_count"], 18, 10, 28, 30, 38],
-              8,
-              ["step", ["get", "point_count"], 22, 10, 32, 30, 42],
-              12,
-              ["step", ["get", "point_count"], 25, 10, 35, 30, 45],
-            ],
-          },
-        });
-
-        // Add cluster count labels with dynamic size
-        map.current.addLayer({
-          id: "cluster-count",
-          type: "symbol",
-          source: "posts",
-          filter: ["has", "point_count"],
-          layout: {
-            "text-field": "{point_count_abbreviated}",
-            "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
-            "text-size": [
-              "interpolate",
-              ["linear"],
-              ["zoom"],
-              0,
-              12,
-              4,
-              14,
-              8,
               16,
               12,
-              18,
             ],
-          },
-          paint: {
-            "text-color": "#ffffff",
-          },
-        });
-
-        // Add unclustered points with dynamic size
-        map.current.addLayer({
-          id: "unclustered-point",
-          type: "circle",
-          source: "posts",
-          filter: ["!", ["has", "point_count"]],
-          paint: {
             "circle-color": "#de1d8d",
-            // Dynamic point size based on zoom level
-            "circle-radius": [
-              "interpolate",
-              ["linear"],
-              ["zoom"],
-              // zoom level, size
-              0,
-              3, // Far out: very small
-              4,
-              5, // Medium zoom: slightly larger
-              8,
-              8, // Closer: medium size
-              12,
-              10, // Very close: largest
-              16,
-              12, // Maximum size
-            ],
-            // Dynamic stroke width based on zoom
             "circle-stroke-width": [
               "interpolate",
               ["linear"],
@@ -151,58 +79,60 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
           },
         });
 
-        // Handle clicks on clusters
-        map.current.on("click", "clusters", e => {
-          if (!map.current || !e.features?.[0]) return;
-
-          const features = map.current.queryRenderedFeatures(e.point, {
-            layers: ["clusters"],
-          });
-          const clusterId = features[0].properties.cluster_id;
-
-          map.current
-            .getSource("posts")
-            .getClusterExpansionZoom(clusterId, (err, zoom) => {
-              if (err || !map.current) return;
-
-              map.current.easeTo({
-                center: (features[0].geometry as any).coordinates,
-                zoom: zoom,
-              });
-            });
+        // Create popup but don't add to map yet
+        popup.current = new mapboxgl.Popup({
+          closeButton: true,
+          closeOnClick: false, // Don't close when clicking inside popup
+          maxWidth: "300px",
         });
 
-        // Show popup for individual points
-        map.current.on("mouseenter", "unclustered-point", e => {
+        // Show popup on click
+        map.current.on("click", "posts-circles", e => {
           if (!map.current || !popup.current || !e.features?.[0]) return;
 
           const coordinates = e.features[0].geometry.coordinates.slice();
-          const { title, description } = e.features[0].properties;
+          const { title, slug, haiku } = e.features[0].properties;
 
-          map.current.getCanvas().style.cursor = "pointer";
+          // Ensure that if the map is zoomed out such that multiple
+          // copies of the feature are visible, the popup appears
+          // over the copy being pointed to.
+          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+          }
+
+          // Create popup content with styled title and haiku
+          const popupContent = `
+            <div class="popup-content">
+              <h3 class="text-lg font-semibold uppercase tracking-wide mb-2">${title}</h3>
+              <p class="text-sm italic">${haiku || "No haiku available"}</p>
+              <button class="mt-3 text-sm text-skin-accent hover:underline">Read more →</button>
+            </div>
+          `;
 
           popup.current
             .setLngLat(coordinates)
-            .setHTML(
-              `
-              <h3 class="font-semibold">${title}</h3>
-              <p class="text-sm">${description}</p>
-            `
-            )
+            .setHTML(popupContent)
             .addTo(map.current);
+
+          // Add click event listener to the "Read more" button
+          const popupElement = popup.current.getElement();
+          const readMoreButton = popupElement.querySelector("button");
+          if (readMoreButton) {
+            readMoreButton.addEventListener("click", () => {
+              window.location.href = `/posts/${slug}`;
+            });
+          }
         });
 
-        map.current.on("mouseleave", "unclustered-point", () => {
-          if (!map.current || !popup.current) return;
+        // Change cursor to pointer when hovering over a point
+        map.current.on("mouseenter", "posts-circles", () => {
+          if (!map.current) return;
+          map.current.getCanvas().style.cursor = "pointer";
+        });
+
+        map.current.on("mouseleave", "posts-circles", () => {
+          if (!map.current) return;
           map.current.getCanvas().style.cursor = "";
-          popup.current.remove();
-        });
-
-        // Navigate to post on click
-        map.current.on("click", "unclustered-point", e => {
-          if (!e.features?.[0]) return;
-          const { slug } = e.features[0].properties;
-          window.location.href = `/posts/${slug}`;
         });
       });
     } catch (error) {
@@ -216,13 +146,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
     };
   }, [geojson, mapboxToken]);
 
-  return (
-    <div
-      ref={mapContainer}
-      className="w-full h-full"
-      style={{ background: "#f0f0f0" }} // Add a background color to see the container
-    />
-  );
+  return <div ref={mapContainer} className="w-full h-full" />;
 };
 
 export default MapView;

@@ -13,12 +13,12 @@ const geotaggedPosts = posts
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: [post.data.coordinates[1], post.data.coordinates[0]],
+      coordinates: post.data.coordinates,
     },
     properties: {
       title: post.data.title,
       slug: post.slug,
-      description: post.data.description,
+      haiku: post.data.haiku,
     },
   }));
 
@@ -60,7 +60,7 @@ console.log(
   <Header activeNav="map" />
   <main>
     <h1 class="text-2xl font-semibold mb-6">Posts Around the World</h1>
-    <div class="w-full h-[600px] rounded-lg overflow-hidden shadow-lg">
+    <div class="w-full h-[600px] rounded-lg overflow-hidden bg-skin-fill">
       <MapView
         client:only="react"
         geojson={geojson}
