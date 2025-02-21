@@ -56,9 +56,6 @@ const layoutProps = {
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 
 const currentIndex = sortedPosts.findIndex(p => p.slug === post.slug);
-const nextPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
-const prevPost =
-  currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
