@@ -74,7 +74,7 @@ const MapIllustration = ({
         style={{
           y: mapParallax,
           clipPath: generateClipPath(),
-          marginTop: "2rem",
+          marginTop: "15rem",
           zIndex: 1,
         }}
       >
@@ -96,7 +96,7 @@ const MapIllustration = ({
           style={{
             y: letterParallax[index],
             zIndex: index + 2,
-            marginTop: `${4 + Math.random() * 10}rem`,
+            marginTop: `${20 + Math.random() * 10}rem`,
           }}
         >
           <motion.svg
@@ -106,14 +106,24 @@ const MapIllustration = ({
           >
             <defs>
               <clipPath id={`clip-${index}`}>
-                <path
-                  d={`M${Math.random() * width * 0.3},${Math.random() * height * 0.3} 
-                     L${width - Math.random() * width * 0.3},${Math.random() * height * 0.3} 
-                     L${width - Math.random() * width * 0.3},${height - Math.random() * height * 0.3} 
-                     L${Math.random() * width * 0.3},${height - Math.random() * height * 0.3} Z`}
+                <rect
+                  x={width * 0.2}
+                  y={height * 0.2}
+                  width={width * 0.6}
+                  height={height * 0.6}
                 />
               </clipPath>
             </defs>
+
+            <rect
+              x="0"
+              y="0"
+              width={width}
+              height={height}
+              fill="rgba(255,0,0,0.1)"
+              clipPath={`url(#clip-${index})`}
+            />
+
             <motion.g
               transform={`translate(${pos.x},${pos.y}) rotate(${pos.rotation}) scale(${pos.scale})`}
               clipPath={`url(#clip-${index})`}
