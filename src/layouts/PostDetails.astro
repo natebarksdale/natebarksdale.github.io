@@ -84,7 +84,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
   <main id="main-content">
     {
       post.data.coordinates && (
-        <div class="relative w-full h-[400px]">
+        <div class="relative w-full">
           <MapIllustrationWrapper
             title={title}
             coordinates={post.data.coordinates}
@@ -94,7 +94,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
       )
     }
 
-    <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+    <h1 transition:name={slugifyStr(title)} class="post-title mt-4">{title}</h1>
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}

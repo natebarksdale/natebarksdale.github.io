@@ -23,11 +23,12 @@ console.log("MapIllustrationWrapper props:", {
 
 <style>
   .map-container {
-    /* Change these values */
-    margin: 1rem auto; /* Reduce to 1rem top/bottom */
+    position: relative;
+    width: 100%;
     max-width: 900px;
-    /* You may also need to add */
-    padding-top: 1rem; /* Add space after the "Go Back" link */
+    margin: 0.5rem auto; /* Reduced top/bottom margin */
+    overflow: visible;
+    height: auto; /* Let the component determine its height */
   }
 
   #image-overlay,

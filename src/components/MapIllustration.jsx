@@ -39,89 +39,47 @@ const MapIllustration = ({
   };
 
   // Generate irregular quadrilateral clip paths
-  // Now with more variety for encroaching on different edges
+  // Now with more variety and extreme encroachment
   const generateClipPath = (index, total) => {
     // Each layer will have a different edge emphasis
     const edgeEmphasis = index % 4; // 0: top, 1: right, 2: bottom, 3: left
 
-    // Base variation
-    const baseVar = 5;
+    // Increased encroachment
+    const overlap = 15 + Math.random() * 10; // More dramatic overlap (15-25%)
 
     // Create points with emphasis on different edges
     let topLeft, topRight, bottomRight, bottomLeft;
 
     switch (edgeEmphasis) {
       case 0: // Emphasis on top edge
-        topLeft = {
-          x: baseVar + Math.random() * 5,
-          y: -10 - Math.random() * 10,
-        };
+        topLeft = { x: 5 + Math.random() * 10, y: -overlap };
         topRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: -5 - Math.random() * 10,
+          x: 90 - Math.random() * 10,
+          y: -overlap + Math.random() * 5,
         };
-        bottomRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: 90 + Math.random() * 5,
-        };
-        bottomLeft = {
-          x: baseVar + Math.random() * 5,
-          y: 95 + Math.random() * 5,
-        };
+        bottomRight = { x: 95 - Math.random() * 10, y: 90 + Math.random() * 5 };
+        bottomLeft = { x: 5 + Math.random() * 10, y: 90 + Math.random() * 5 };
         break;
       case 1: // Emphasis on right edge
-        topLeft = {
-          x: baseVar + Math.random() * 5,
-          y: baseVar + Math.random() * 5,
-        };
-        topRight = {
-          x: 105 + Math.random() * 10,
-          y: baseVar + Math.random() * 5,
-        };
-        bottomRight = {
-          x: 110 + Math.random() * 10,
-          y: 100 - baseVar - Math.random() * 5,
-        };
-        bottomLeft = {
-          x: baseVar + Math.random() * 5,
-          y: 100 - baseVar - Math.random() * 5,
-        };
+        topLeft = { x: 10 + Math.random() * 10, y: 5 + Math.random() * 10 };
+        topRight = { x: 100 + overlap, y: 5 + Math.random() * 10 };
+        bottomRight = { x: 100 + overlap, y: 90 - Math.random() * 10 };
+        bottomLeft = { x: 10 + Math.random() * 10, y: 95 - Math.random() * 10 };
         break;
       case 2: // Emphasis on bottom edge
-        topLeft = {
-          x: baseVar + Math.random() * 5,
-          y: baseVar + Math.random() * 5,
-        };
-        topRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: baseVar + Math.random() * 5,
-        };
-        bottomRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: 110 + Math.random() * 10,
-        };
-        bottomLeft = {
-          x: baseVar + Math.random() * 5,
-          y: 105 + Math.random() * 10,
-        };
+        topLeft = { x: 5 + Math.random() * 10, y: 10 + Math.random() * 10 };
+        topRight = { x: 95 - Math.random() * 10, y: 5 + Math.random() * 10 };
+        bottomRight = { x: 90 - Math.random() * 10, y: 100 + overlap };
+        bottomLeft = { x: 10 + Math.random() * 10, y: 100 + overlap };
         break;
       case 3: // Emphasis on left edge
-        topLeft = {
-          x: -10 - Math.random() * 10,
-          y: baseVar + Math.random() * 5,
-        };
-        topRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: baseVar + Math.random() * 5,
-        };
+        topLeft = { x: -overlap, y: 5 + Math.random() * 10 };
+        topRight = { x: 90 - Math.random() * 10, y: 10 + Math.random() * 10 };
         bottomRight = {
-          x: 100 - baseVar - Math.random() * 5,
-          y: 100 - baseVar - Math.random() * 5,
+          x: 95 - Math.random() * 10,
+          y: 90 - Math.random() * 10,
         };
-        bottomLeft = {
-          x: -5 - Math.random() * 10,
-          y: 100 - baseVar - Math.random() * 5,
-        };
+        bottomLeft = { x: -overlap, y: 90 - Math.random() * 10 };
         break;
     }
 
@@ -157,14 +115,9 @@ const MapIllustration = ({
         ? 0.75 + Math.random() * 0.45 // 75-120% for readable
         : 2 + Math.random() * 2; // 200-400% for abstract
 
-      // Positioning based on readability
-      const x = makeReadable
-        ? width * (0.25 + index * 0.15 + Math.random() * 0.1) // More controlled positioning for readable
-        : width * (0.2 + Math.random() * 0.6); // More random for abstract
-
-      const y = makeReadable
-        ? height * 0.5 + (Math.random() * 0.2 - 0.1) * height // Near center for readable
-        : height * (0.3 + Math.random() * 0.4); // More varied for abstract
+      // More varied positioning across the whole canvas
+      const x = width * (0.2 + Math.random() * 0.6);
+      const y = height * (0.3 + Math.random() * 0.4);
 
       return {
         char,
@@ -186,19 +139,13 @@ const MapIllustration = ({
   // Create the static map URL
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
-  // Base layer clip path is slightly less aggressive
+  // Base layer clip path
   const baseClipPath = useMemo(() => {
-    const variation = 3;
-    const topLeft = { x: variation, y: variation };
-    const topRight = { x: 100 - variation, y: variation };
-    const bottomRight = { x: 100 - variation, y: 100 - variation };
-    const bottomLeft = { x: variation, y: 100 - variation };
-
     return `polygon(
-      ${topLeft.x}% ${topLeft.y}%, 
-      ${topRight.x}% ${topRight.y}%, 
-      ${bottomRight.x}% ${bottomRight.y}%, 
-      ${bottomLeft.x}% ${bottomLeft.y}%
+      3% 3%, 
+      97% 3%, 
+      97% 97%, 
+      3% 97%
     )`;
   }, []);
 
@@ -208,7 +155,7 @@ const MapIllustration = ({
       className="relative w-full"
       style={{
         aspectRatio: "4/1",
-        margin: "0.5em 0", // Reduced margin for better placement
+        margin: "0", // Remove margin completely
       }}
     >
       {/* Base map layer */}
