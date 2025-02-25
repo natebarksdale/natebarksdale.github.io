@@ -21,7 +21,6 @@ const MapIllustration = ({
 
   // Create different parallax rates for each layer
   const createParallaxValue = (index, total) => {
-    // Base parallax value increases for each layer (higher layers move faster)
     const baseSpeed = -50;
     const speedFactor = 1 + (index / total) * 1.5;
     return useTransform(scrollYProgress, [0, 1], [0, baseSpeed * speedFactor]);
@@ -40,27 +39,91 @@ const MapIllustration = ({
   };
 
   // Generate irregular quadrilateral clip paths
+  // Now with more variety for encroaching on different edges
   const generateClipPath = (index, total) => {
-    // Make each layer's clip path slightly different
-    const variation = 5 + index * 2;
+    // Each layer will have a different edge emphasis
+    const edgeEmphasis = index % 4; // 0: top, 1: right, 2: bottom, 3: left
 
-    // Create irregular quadrilateral by varying each point
-    const topLeft = {
-      x: variation + Math.random() * 5,
-      y: variation + Math.random() * 5,
-    };
-    const topRight = {
-      x: 100 - variation - Math.random() * 5,
-      y: variation + Math.random() * 5,
-    };
-    const bottomRight = {
-      x: 100 - variation - Math.random() * 5,
-      y: 100 - variation - Math.random() * 5,
-    };
-    const bottomLeft = {
-      x: variation + Math.random() * 5,
-      y: 100 - variation - Math.random() * 5,
-    };
+    // Base variation
+    const baseVar = 5;
+
+    // Create points with emphasis on different edges
+    let topLeft, topRight, bottomRight, bottomLeft;
+
+    switch (edgeEmphasis) {
+      case 0: // Emphasis on top edge
+        topLeft = {
+          x: baseVar + Math.random() * 5,
+          y: -10 - Math.random() * 10,
+        };
+        topRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: -5 - Math.random() * 10,
+        };
+        bottomRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: 90 + Math.random() * 5,
+        };
+        bottomLeft = {
+          x: baseVar + Math.random() * 5,
+          y: 95 + Math.random() * 5,
+        };
+        break;
+      case 1: // Emphasis on right edge
+        topLeft = {
+          x: baseVar + Math.random() * 5,
+          y: baseVar + Math.random() * 5,
+        };
+        topRight = {
+          x: 105 + Math.random() * 10,
+          y: baseVar + Math.random() * 5,
+        };
+        bottomRight = {
+          x: 110 + Math.random() * 10,
+          y: 100 - baseVar - Math.random() * 5,
+        };
+        bottomLeft = {
+          x: baseVar + Math.random() * 5,
+          y: 100 - baseVar - Math.random() * 5,
+        };
+        break;
+      case 2: // Emphasis on bottom edge
+        topLeft = {
+          x: baseVar + Math.random() * 5,
+          y: baseVar + Math.random() * 5,
+        };
+        topRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: baseVar + Math.random() * 5,
+        };
+        bottomRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: 110 + Math.random() * 10,
+        };
+        bottomLeft = {
+          x: baseVar + Math.random() * 5,
+          y: 105 + Math.random() * 10,
+        };
+        break;
+      case 3: // Emphasis on left edge
+        topLeft = {
+          x: -10 - Math.random() * 10,
+          y: baseVar + Math.random() * 5,
+        };
+        topRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: baseVar + Math.random() * 5,
+        };
+        bottomRight = {
+          x: 100 - baseVar - Math.random() * 5,
+          y: 100 - baseVar - Math.random() * 5,
+        };
+        bottomLeft = {
+          x: -5 - Math.random() * 10,
+          y: 100 - baseVar - Math.random() * 5,
+        };
+        break;
+    }
 
     // Create clip path
     return `polygon(
@@ -84,30 +147,69 @@ const MapIllustration = ({
     // Get up to 5 characters from the title for our layers
     const chars = title.replace(/\s+/g, "").slice(0, 5).toUpperCase().split("");
 
-    return chars.map((char, index) => ({
-      char,
-      clipPath: generateClipPath(index + 1, totalLayers),
-      color: getMidCenturyColor(),
-      scale: 1.5 + index * 0.5 + Math.random() * 2, // Range from 1.5 to ~6x
-      rotation:
-        Math.random() < 0.5 ? Math.random() * 5 : 90 + Math.random() * 5,
-      x: width * (0.2 + Math.random() * 0.6), // Position throughout middle 60% of width
-      y: height * (0.3 + Math.random() * 0.4), // Position throughout middle 40% of height
-      delay: 0.2 + index * 0.15, // Staggered animation delay
-    }));
+    return chars.map((char, index) => {
+      // Determine if this letter should be more readable or abstract
+      const makeReadable = index % 2 === 0; // Alternate between readable and abstract
+
+      // For readable letters: 75-120% of composition height
+      // For abstract letters: 200-400% of composition height
+      const scale = makeReadable
+        ? 0.75 + Math.random() * 0.45 // 75-120% for readable
+        : 2 + Math.random() * 2; // 200-400% for abstract
+
+      // Positioning based on readability
+      const x = makeReadable
+        ? width * (0.25 + index * 0.15 + Math.random() * 0.1) // More controlled positioning for readable
+        : width * (0.2 + Math.random() * 0.6); // More random for abstract
+
+      const y = makeReadable
+        ? height * 0.5 + (Math.random() * 0.2 - 0.1) * height // Near center for readable
+        : height * (0.3 + Math.random() * 0.4); // More varied for abstract
+
+      return {
+        char,
+        clipPath: generateClipPath(index + 1, totalLayers),
+        color: getMidCenturyColor(),
+        scale,
+        rotation: makeReadable
+          ? Math.random() * 5 - 2.5 // Slight rotation for readable (-2.5 to 2.5 degrees)
+          : Math.random() < 0.5
+            ? Math.random() * 5
+            : 90 + Math.random() * 5, // More random for abstract
+        x,
+        y,
+        delay: 0.2 + index * 0.15, // Staggered animation delay
+      };
+    });
   }, [title, width, height]);
 
   // Create the static map URL
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
-  // Base layer clip path is slightly larger than the others
-  const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
+  // Base layer clip path is slightly less aggressive
+  const baseClipPath = useMemo(() => {
+    const variation = 3;
+    const topLeft = { x: variation, y: variation };
+    const topRight = { x: 100 - variation, y: variation };
+    const bottomRight = { x: 100 - variation, y: 100 - variation };
+    const bottomLeft = { x: variation, y: 100 - variation };
+
+    return `polygon(
+      ${topLeft.x}% ${topLeft.y}%, 
+      ${topRight.x}% ${topRight.y}%, 
+      ${bottomRight.x}% ${bottomRight.y}%, 
+      ${bottomLeft.x}% ${bottomLeft.y}%
+    )`;
+  }, []);
 
   return (
     <div
       ref={ref}
       className="relative w-full"
-      style={{ aspectRatio: "4/1", margin: "1em 0" }}
+      style={{
+        aspectRatio: "4/1",
+        margin: "0.5em 0", // Reduced margin for better placement
+      }}
     >
       {/* Base map layer */}
       <motion.div

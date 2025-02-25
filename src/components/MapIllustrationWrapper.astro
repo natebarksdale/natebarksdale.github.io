@@ -1,43 +1,45 @@
 ---
 // src/components/MapIllustrationWrapper.astro
-import MapIllustration from './MapIllustration';
+import MapIllustration from "./MapIllustration";
 
 const { title, coordinates, mapboxToken } = Astro.props;
 
 // Add console log to verify props
-console.log('MapIllustrationWrapper props:', {
+console.log("MapIllustrationWrapper props:", {
   title,
   coordinates,
-  mapboxToken: mapboxToken ? '[PRESENT]' : '[MISSING]'
+  mapboxToken: mapboxToken ? "[PRESENT]" : "[MISSING]",
 });
 ---
 
-
 <div class="map-container" data-debug="wrapper-mounted">
-<MapIllustration client:only="react" title={title} coordinates={coordinates} mapboxToken={mapboxToken} />
-
+  <MapIllustration
+    client:only="react"
+    title={title}
+    coordinates={coordinates}
+    mapboxToken={mapboxToken}
+  />
 </div>
 
 <style>
-.map-container {
-  position: relative;
-  width: 100%;
-  height: 400px;
-  max-width: 900px;
-  margin: 30px auto;
-  overflow: visible;
-}
-#image-overlay,
-.image-overlay-line,
-.image-overlay-text {
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
+  .map-container {
+    /* Change these values */
+    margin: 1rem auto; /* Reduce to 1rem top/bottom */
+    max-width: 900px;
+    /* You may also need to add */
+    padding-top: 1rem; /* Add space after the "Go Back" link */
+  }
 
-img:hover + #image-overlay,
-img:hover ~ .image-overlay-line,
-img:hover ~ .image-overlay-text {
-  opacity: 1;
-}
+  #image-overlay,
+  .image-overlay-line,
+  .image-overlay-text {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
 
+  img:hover + #image-overlay,
+  img:hover ~ .image-overlay-line,
+  img:hover ~ .image-overlay-text {
+    opacity: 1;
+  }
 </style>
