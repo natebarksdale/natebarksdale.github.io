@@ -91,17 +91,21 @@ const MapIllustration = ({
     const lines = [];
     const numLines = 20; // Number of lines in the pattern
     const amplitude = height / 4; // Amplitude of the wave
-    const frequency = 5; // Frequency of the wave
+    const frequency = 10; // Increase frequency for more curves
 
     for (let i = 0; i < numLines; i++) {
-      const offset = (i / numLines) * width;
-      const pathData = Array.from({ length: frequency }, (_, j) => {
+      const offset = (i / numLines) * Math.PI * 2; // Offset for each line
+      const pathData = Array.from({ length: frequency + 1 }, (_, j) => {
         const x = (j / frequency) * width;
-        const y = amplitude * Math.sin((j / frequency) * Math.PI * 2 + offset);
+        const y =
+          amplitude * Math.sin((j / frequency) * Math.PI * 2 + offset) +
+          (i * height) / numLines;
         return `${x},${y}`;
       }).join(" L ");
 
-      lines.push(`M0,0 L ${pathData} L ${width},0`);
+      lines.push(
+        `M0,${(i * height) / numLines} L ${pathData} L ${width},${(i * height) / numLines}`
+      );
     }
 
     return lines;
