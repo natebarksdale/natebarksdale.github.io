@@ -1,5 +1,10 @@
-import React, { useEffect, useRef } from 'react';
-import { motion, useAnimation, useMotionValue, useTransform } from 'framer-motion';
+import React, { useEffect, useRef } from "react";
+import {
+  motion,
+  useAnimation,
+  useMotionValue,
+  useTransform,
+} from "framer-motion";
 
 interface PostNavigationProps {
   currentSlug: string;
@@ -10,17 +15,18 @@ interface PostNavigationProps {
   prevPostTitle?: string;
 }
 
-const PostNavigation: React.FC<PostNavigationProps> = ({ 
-  currentSlug, 
-  availableSlugs, 
+const PostNavigation: React.FC<PostNavigationProps> = ({
+  currentSlug,
+  availableSlugs,
   nextPostSlug,
   nextPostTitle,
   prevPostSlug,
-  prevPostTitle
+  prevPostTitle,
 }) => {
   const handleRandomPost = () => {
     const otherSlugs = availableSlugs.filter(slug => slug !== currentSlug);
-    const randomSlug = otherSlugs[Math.floor(Math.random() * otherSlugs.length)];
+    const randomSlug =
+      otherSlugs[Math.floor(Math.random() * otherSlugs.length)];
     window.location.href = `/posts/${randomSlug}`;
   };
 
@@ -28,11 +34,13 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
     <div className="fixed bottom-0 left-0 right-0 bg-skin-card bg-opacity-80 backdrop-blur-sm border-t border-b border-skin-line">
       <div className="max-w-3xl mx-auto px-4 py-3 flex justify-between items-center gap-2">
         {prevPostSlug ? (
-          <button 
-            onClick={() => window.location.href = `/posts/${prevPostSlug}`}
+          <button
+            onClick={() => (window.location.href = `/posts/${prevPostSlug}`)}
             className="flex-1 flex items-center gap-2 px-4 py-2 hover:opacity-75 transition-opacity text-left"
           >
-            <span style={{ fontFamily: '"Noto Emoji"' }} className="text-xl">⬅️</span>
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4">
+              <path d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"></path>
+            </svg>
             <div>
               <div className="text-sm text-skin-accent">Previous Post</div>
               <div className="text-skin-base font-medium truncate max-w-[200px]">
@@ -43,18 +51,20 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
         ) : (
           <div className="flex-1"></div>
         )}
-        
-        <button 
+
+        <button
           onClick={handleRandomPost}
           className="w-12 h-12 bg-skin-accent text-white rounded-full hover:opacity-90 transition-opacity flex items-center justify-center flex-shrink-0"
         >
-          <span style={{ fontFamily: '"Noto Emoji"' }} className="text-xl">🎲</span>
+          <span style={{ fontFamily: '"Noto Emoji"' }} className="text-xl">
+            🎲
+          </span>
           <span className="sr-only">Random Post</span>
         </button>
 
         {nextPostSlug ? (
-          <button 
-            onClick={() => window.location.href = `/posts/${nextPostSlug}`}
+          <button
+            onClick={() => (window.location.href = `/posts/${nextPostSlug}`)}
             className="flex-1 flex items-center gap-2 px-4 py-2 hover:opacity-75 transition-opacity text-right justify-end"
           >
             <div>
@@ -63,7 +73,9 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
                 {nextPostTitle}
               </div>
             </div>
-            <span style={{ fontFamily: '"Noto Emoji"' }} className="text-xl">➡️</span>
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4">
+              <path d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"></path>
+            </svg>
           </button>
         ) : (
           <div className="flex-1"></div>

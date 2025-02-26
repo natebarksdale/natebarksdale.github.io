@@ -65,6 +65,14 @@
     font-style: normal;
 }
 
+@media (max-width: 640px) {
+  .post-navigation button svg {
+    display: none; /* Hide arrows on mobile */
+  }
+  .post-navigation .text-skin-base {
+    max-width: 100px; /* Adjust max width for text truncation */
+  }
+}
 
 @layer base {
 /*   p {
