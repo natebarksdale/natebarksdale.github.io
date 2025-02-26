@@ -72,9 +72,6 @@
   .post-navigation .text-skin-base {
     max-width: 100px; /* Adjust max width for text truncation */
   }
-  .post-navigation .flex-1 {
-    flex: 1 1 0; /* Ensure equal space distribution */
-  }
 }
 
 @layer base {
@@ -293,5 +290,29 @@ p:not(:last-child)::after {
   .focus-outline {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
+}
+
+/* Apply Noto Emoji font to all elements where emojis might appear */
+body, .prose, .emoji {
+  font-family: 'Noto Emoji', sans-serif;
+}
+
+/* Specific class for emoji usage */
+.emoji {
+  font-family: 'Noto Emoji', sans-serif;
+}
+
+/* Ensure .prose class uses Noto Emoji for emojis */
+.prose {
+  font-family: inherit; /* Inherit from body or parent */
+}
+
+.prose p, .prose span, .prose li {
+  font-family: inherit; /* Inherit from body or parent */
+}
+
+/* Example of targeting specific elements */
+button span, .icon {
+  font-family: 'Noto Emoji', sans-serif;
 }
 
