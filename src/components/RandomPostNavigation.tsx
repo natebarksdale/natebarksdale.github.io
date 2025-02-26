@@ -1,10 +1,4 @@
-import React, { useEffect, useRef } from "react";
-import {
-  motion,
-  useAnimation,
-  useMotionValue,
-  useTransform,
-} from "framer-motion";
+import React from "react";
 
 interface PostNavigationProps {
   currentSlug: string;
@@ -45,12 +39,15 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
             >
               <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
             </svg>
-            <div>
+            <div className="hidden sm:block">
               <div className="text-sm text-skin-accent">Previous Post</div>
               <div className="text-skin-base font-medium truncate max-w-[200px]">
                 {prevPostTitle}
               </div>
             </div>
+            <span className="block sm:hidden text-skin-base">
+              Previous Post
+            </span>
           </button>
         ) : (
           <div className="flex-1"></div>
@@ -71,7 +68,8 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
             onClick={() => (window.location.href = `/posts/${nextPostSlug}`)}
             className="flex-1 flex items-center gap-2 px-4 py-2 hover:opacity-75 transition-opacity text-right justify-end"
           >
-            <div>
+            <span className="block sm:hidden text-skin-base">Next Post</span>
+            <div className="hidden sm:block">
               <div className="text-sm text-skin-accent">Next Post</div>
               <div className="text-skin-base font-medium truncate max-w-[200px]">
                 {nextPostTitle}

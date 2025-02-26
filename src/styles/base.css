@@ -72,6 +72,9 @@
   .post-navigation .text-skin-base {
     max-width: 100px; /* Adjust max width for text truncation */
   }
+  .post-navigation .flex-1 {
+    flex: 1 1 0; /* Ensure equal space distribution */
+  }
 }
 
 @layer base {
