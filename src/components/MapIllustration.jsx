@@ -89,16 +89,16 @@ const MapIllustration = ({
   // Function to generate parallel lines
   const generateParallelLines = () => {
     const pathType = Math.random() < 0.5 ? "straight" : "curved";
-    const lineSpacing = 0.5; // em
+    const lineSpacing = height / 4; // Adjust line spacing based on height
     const lines = [];
 
     for (let i = 0; i < 3; i++) {
       if (pathType === "straight") {
-        lines.push(`M0,${i * lineSpacing} L100,${i * lineSpacing}`);
+        lines.push(`M0,${i * lineSpacing} L${width},${i * lineSpacing}`);
       } else {
-        const controlPoint = Math.random() * 50;
+        const controlPoint = (Math.random() * width) / 2;
         lines.push(
-          `M0,${i * lineSpacing} Q${controlPoint},${i * lineSpacing + 0.5} 100,${i * lineSpacing}`
+          `M0,${i * lineSpacing} Q${controlPoint},${i * lineSpacing + lineSpacing / 2} ${width},${i * lineSpacing}`
         );
       }
     }
