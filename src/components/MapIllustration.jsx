@@ -21,12 +21,12 @@ const MapIllustration = ({
 
   // Create different parallax rates for each layer
   const createParallaxValue = (index, total) => {
-    const baseSpeed = -50;
+    const baseSpeed = -10; // Adjusted to reduce negative translateY
     const speedFactor = 1 + (index / total) * 1.5;
     return useTransform(scrollYProgress, [0, 1], [0, baseSpeed * speedFactor]);
   };
 
-  // Colors for our mid-century modern palette + test if this is a thing? still?
+  // Colors for our mid-century modern palette
   const getMidCenturyColor = () => {
     const colors = [
       "rgba(230, 30, 30, 0.75)", // Red
@@ -39,19 +39,14 @@ const MapIllustration = ({
   };
 
   // Generate irregular quadrilateral clip paths
-  // Now with more variety and extreme encroachment
   const generateClipPath = (index, total) => {
-    // Each layer will have a different edge emphasis
-    const edgeEmphasis = index % 4; // 0: top, 1: right, 2: bottom, 3: left
+    const edgeEmphasis = index % 4;
+    const overlap = 15 + Math.random() * 10;
 
-    // Increased encroachment
-    const overlap = 15 + Math.random() * 10; // More dramatic overlap (15-25%)
-
-    // Create points with emphasis on different edges
     let topLeft, topRight, bottomRight, bottomLeft;
 
     switch (edgeEmphasis) {
-      case 0: // Emphasis on top edge
+      case 0: // Top
         topLeft = { x: 5 + Math.random() * 10, y: -overlap };
         topRight = {
           x: 90 - Math.random() * 10,
@@ -60,19 +55,19 @@ const MapIllustration = ({
         bottomRight = { x: 95 - Math.random() * 10, y: 90 + Math.random() * 5 };
         bottomLeft = { x: 5 + Math.random() * 10, y: 90 + Math.random() * 5 };
         break;
-      case 1: // Emphasis on right edge
+      case 1: // Right
         topLeft = { x: 10 + Math.random() * 10, y: 5 + Math.random() * 10 };
         topRight = { x: 100 + overlap, y: 5 + Math.random() * 10 };
         bottomRight = { x: 100 + overlap, y: 90 - Math.random() * 10 };
         bottomLeft = { x: 10 + Math.random() * 10, y: 95 - Math.random() * 10 };
         break;
-      case 2: // Emphasis on bottom edge
+      case 2: // Bottom
         topLeft = { x: 5 + Math.random() * 10, y: 10 + Math.random() * 10 };
         topRight = { x: 95 - Math.random() * 10, y: 5 + Math.random() * 10 };
         bottomRight = { x: 90 - Math.random() * 10, y: 100 + overlap };
         bottomLeft = { x: 10 + Math.random() * 10, y: 100 + overlap };
         break;
-      case 3: // Emphasis on left edge
+      case 3: // Left
         topLeft = { x: -overlap, y: 5 + Math.random() * 10 };
         topRight = { x: 90 - Math.random() * 10, y: 10 + Math.random() * 10 };
         bottomRight = {
@@ -83,7 +78,6 @@ const MapIllustration = ({
         break;
     }
 
-    // Create clip path
     return `polygon(
       ${topLeft.x}% ${topLeft.y}%, 
       ${topRight.x}% ${topRight.y}%, 
@@ -102,20 +96,15 @@ const MapIllustration = ({
 
   // Get characters from the title for the letter layers
   const letterLayers = useMemo(() => {
-    // Get up to 5 characters from the title for our layers
     const chars = title.replace(/\s+/g, "").slice(0, 5).toUpperCase().split("");
 
     return chars.map((char, index) => {
-      // Determine if this letter should be more readable or abstract
-      const makeReadable = index % 2 === 0; // Alternate between readable and abstract
+      const makeReadable = index % 2 === 0;
 
-      // For readable letters: 75-120% of composition height
-      // For abstract letters: 200-400% of composition height
       const scale = makeReadable
-        ? 0.75 + Math.random() * 0.45 // 75-120% for readable
-        : 2 + Math.random() * 2; // 200-400% for abstract
+        ? 0.75 + Math.random() * 0.45
+        : 2 + Math.random() * 2;
 
-      // More varied positioning across the whole canvas
       const x = width * (0.2 + Math.random() * 0.6);
       const y = height * (0.3 + Math.random() * 0.4);
 
@@ -125,13 +114,13 @@ const MapIllustration = ({
         color: getMidCenturyColor(),
         scale,
         rotation: makeReadable
-          ? Math.random() * 5 - 2.5 // Slight rotation for readable (-2.5 to 2.5 degrees)
+          ? Math.random() * 5 - 2.5
           : Math.random() < 0.5
             ? Math.random() * 5
-            : 90 + Math.random() * 5, // More random for abstract
+            : 90 + Math.random() * 5,
         x,
         y,
-        delay: 0.2 + index * 0.15, // Staggered animation delay
+        delay: 0.2 + index * 0.15,
       };
     });
   }, [title, width, height]);
@@ -140,14 +129,7 @@ const MapIllustration = ({
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
   // Base layer clip path
-  const baseClipPath = useMemo(() => {
-    return `polygon(
-      3% 3%, 
-      97% 3%, 
-      97% 97%, 
-      3% 97%
-    )`;
-  }, []);
+  const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
 
   return (
     <div
