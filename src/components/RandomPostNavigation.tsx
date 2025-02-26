@@ -38,8 +38,12 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
             onClick={() => (window.location.href = `/posts/${prevPostSlug}`)}
             className="flex-1 flex items-center gap-2 px-4 py-2 hover:opacity-75 transition-opacity text-left"
           >
-            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4">
-              <path d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"></path>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-4 h-4"
+              viewBox="0 0 24 24"
+            >
+              <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
             </svg>
             <div>
               <div className="text-sm text-skin-accent">Previous Post</div>
@@ -73,8 +77,13 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
                 {nextPostTitle}
               </div>
             </div>
-            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4">
-              <path d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"></path>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-4 h-4"
+              viewBox="0 0 24 24"
+              style={{ transform: "rotate(180deg)" }}
+            >
+              <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
             </svg>
           </button>
         ) : (
