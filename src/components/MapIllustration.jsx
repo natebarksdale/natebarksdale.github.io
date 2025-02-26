@@ -111,7 +111,33 @@ const MapIllustration = ({
     return lines;
   };
 
-  // Set up the layers (1 base map layer + 5 letter layers + 1 guilloche pattern layer)
+  // Function to generate parallel lines
+  const generateParallelLines = () => {
+    const pathType = Math.random() < 0.7 ? "curved" : "straight"; // Favor curved lines
+    const lineSpacing = height / 10; // Closer spacing for five lines
+    const lines = [];
+
+    for (let i = 0; i < 5; i++) {
+      if (pathType === "straight") {
+        lines.push({
+          d: `M0,${i * lineSpacing} L${width},${i * lineSpacing}`,
+          color: "white",
+        });
+      } else {
+        // Enhance curvature by adjusting control points
+        const controlPoint1 = (Math.random() * width) / 4;
+        const controlPoint2 = (Math.random() * width) / 4 + width / 2;
+        lines.push({
+          d: `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`,
+          color: "black",
+        });
+      }
+    }
+
+    return lines;
+  };
+
+  // Set up the layers (1 base map layer + 5 letter layers + 1 guilloche pattern layer + 1 parallel lines layer)
   const totalLayers = 7;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
@@ -161,6 +187,10 @@ const MapIllustration = ({
 
   // Randomize the position of the guilloche pattern layer
   const guillochePatternLayerIndex =
+    Math.floor(Math.random() * (totalLayers - 1)) + 1;
+
+  // Randomize the position of the parallel lines layer
+  const parallelLinesLayerIndex =
     Math.floor(Math.random() * (totalLayers - 1)) + 1;
 
   return (
@@ -260,6 +290,37 @@ const MapIllustration = ({
               d={d}
               stroke="white"
               strokeWidth="1"
+              fill="none"
+              vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
+            />
+          ))}
+        </svg>
+      </motion.div>
+
+      {/* Parallel lines layer */}
+      <motion.div
+        className="absolute inset-0"
+        style={{
+          y: parallaxValues[parallelLinesLayerIndex],
+          clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers),
+          zIndex: parallelLinesLayerIndex + 2,
+          rotate: Math.random() * 360, // Random rotation for variety
+        }}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.8, delay: 0.2 }}
+      >
+        <svg
+          className="absolute inset-0 w-full h-full pointer-events-none"
+          viewBox={`0 0 ${width} ${height}`}
+          preserveAspectRatio="xMidYMid meet"
+        >
+          {generateParallelLines().map((line, i) => (
+            <path
+              key={i}
+              d={line.d}
+              stroke={line.color}
+              strokeWidth="2"
               fill="none"
               vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
             />
