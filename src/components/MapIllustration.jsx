@@ -124,11 +124,11 @@ const MapIllustration = ({
           color: "white",
         });
       } else {
-        // Enhance curvature by adjusting control points
-        const controlPoint1 = (Math.random() * width) / 4;
-        const controlPoint2 = (Math.random() * width) / 4 + width / 2;
+        // Increase amplitude for more pronounced waviness
+        const controlPoint1 = (Math.random() * width) / 2;
+        const controlPoint2 = (Math.random() * width) / 2 + width / 2;
         lines.push({
-          d: `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`,
+          d: `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`,
           color: "black",
         });
       }
@@ -302,7 +302,6 @@ const MapIllustration = ({
         className="absolute inset-0"
         style={{
           y: parallaxValues[parallelLinesLayerIndex],
-          clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers),
           zIndex: parallelLinesLayerIndex + 2,
           rotate: Math.random() * 360, // Random rotation for variety
         }}
@@ -314,6 +313,9 @@ const MapIllustration = ({
           className="absolute inset-0 w-full h-full pointer-events-none"
           viewBox={`0 0 ${width} ${height}`}
           preserveAspectRatio="xMidYMid meet"
+          style={{
+            clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers), // Apply clipPath here
+          }}
         >
           {generateParallelLines().map((line, i) => (
             <path
