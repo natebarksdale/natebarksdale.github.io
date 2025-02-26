@@ -86,8 +86,28 @@ const MapIllustration = ({
     )`;
   };
 
-  // Set up the layers (1 base map layer + 5 letter layers)
-  const totalLayers = 6;
+  // Function to generate parallel lines
+  const generateParallelLines = () => {
+    const pathType = Math.random() < 0.5 ? "straight" : "curved";
+    const lineSpacing = 0.5; // em
+    const lines = [];
+
+    for (let i = 0; i < 3; i++) {
+      if (pathType === "straight") {
+        lines.push(`M0,${i * lineSpacing} L100,${i * lineSpacing}`);
+      } else {
+        const controlPoint = Math.random() * 50;
+        lines.push(
+          `M0,${i * lineSpacing} Q${controlPoint},${i * lineSpacing + 0.5} 100,${i * lineSpacing}`
+        );
+      }
+    }
+
+    return lines;
+  };
+
+  // Set up the layers (1 base map layer + 5 letter layers + 1 parallel lines layer)
+  const totalLayers = 7;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
       createParallaxValue(i, totalLayers)
@@ -130,6 +150,10 @@ const MapIllustration = ({
 
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
+
+  // Randomize the position of the parallel lines layer
+  const parallelLinesLayerIndex =
+    Math.floor(Math.random() * (totalLayers - 1)) + 1;
 
   return (
     <div
@@ -204,6 +228,29 @@ const MapIllustration = ({
           </svg>
         </motion.div>
       ))}
+
+      {/* Parallel lines layer */}
+      <motion.div
+        className="absolute inset-0"
+        style={{
+          y: parallaxValues[parallelLinesLayerIndex],
+          clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers),
+          zIndex: parallelLinesLayerIndex + 2,
+        }}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.8, delay: 0.2 }}
+      >
+        <svg
+          className="absolute inset-0 w-full h-full pointer-events-none"
+          viewBox={`0 0 ${width} ${height}`}
+          preserveAspectRatio="xMidYMid meet"
+        >
+          {generateParallelLines().map((d, i) => (
+            <path key={i} d={d} stroke="white" strokeWidth="2" fill="none" />
+          ))}
+        </svg>
+      </motion.div>
     </div>
   );
 };
