@@ -22,6 +22,11 @@ breadcrumbList[0] === "tags" &&
       Number(breadcrumbList[2]) === 1 ? "" : "(page " + breadcrumbList[2] + ")"
     }`
   );
+
+// Filter out breadcrumbs that start with a hyphen
+const filteredBreadcrumbs = breadcrumbList.filter(
+  breadcrumb => !breadcrumb.startsWith("-")
+);
 ---
 
 <nav class="breadcrumb" aria-label="breadcrumb">
@@ -31,8 +36,8 @@ breadcrumbList[0] === "tags" &&
       <span aria-hidden="true">&mdash;</span>
     </li>
     {
-      breadcrumbList.map((breadcrumb, index) =>
-        index + 1 === breadcrumbList.length ? (
+      filteredBreadcrumbs.map((breadcrumb, index) =>
+        index + 1 === filteredBreadcrumbs.length ? (
           <li>
             <span
               class={`${index > 0 ? "lowercase" : "capitalize"}`}
