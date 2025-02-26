@@ -26,40 +26,6 @@ const MapIllustration = ({
     return useTransform(scrollYProgress, [0, 1], [0, baseSpeed * speedFactor]);
   };
 
-  // Get characters from the title for the letter layers
-  const letterLayers = useMemo(() => {
-    const chars = title.replace(/\s+/g, "").slice(0, 5).toUpperCase().split("");
-
-    // Randomly select one layer to display the full title
-    const fullTitleLayerIndex = Math.floor(Math.random() * chars.length);
-
-    return chars.map((char, index) => {
-      const makeReadable = index % 2 === 0;
-
-      const scale = makeReadable
-        ? 0.75 + Math.random() * 0.45
-        : 2 + Math.random() * 2;
-
-      const x = width * (0.2 + Math.random() * 0.6);
-      const y = height * (0.3 + Math.random() * 0.4);
-
-      return {
-        char: index === fullTitleLayerIndex ? title.toUpperCase() : char,
-        clipPath: generateClipPath(index + 1, totalLayers),
-        color: getMidCenturyColor(),
-        scale,
-        rotation: makeReadable
-          ? Math.random() * 5 - 2.5
-          : Math.random() < 0.5
-            ? Math.random() * 5
-            : 90 + Math.random() * 5,
-        x,
-        y,
-        delay: 0.2 + index * 0.15,
-      };
-    });
-  }, [title, width, height]);
-
   // Colors for our mid-century modern palette
   const getMidCenturyColor = () => {
     const colors = [
@@ -152,6 +118,9 @@ const MapIllustration = ({
   const letterLayers = useMemo(() => {
     const chars = title.replace(/\s+/g, "").slice(0, 5).toUpperCase().split("");
 
+    // Randomly select one layer to display the full title
+    const fullTitleLayerIndex = Math.floor(Math.random() * chars.length);
+
     return chars.map((char, index) => {
       const makeReadable = index % 2 === 0;
 
@@ -163,7 +132,7 @@ const MapIllustration = ({
       const y = height * (0.3 + Math.random() * 0.4);
 
       return {
-        char,
+        char: index === fullTitleLayerIndex ? title.toUpperCase() : char,
         clipPath: generateClipPath(index + 1, totalLayers),
         color: getMidCenturyColor(),
         scale,
