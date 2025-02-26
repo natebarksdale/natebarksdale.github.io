@@ -84,7 +84,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
   <main id="main-content">
     {
       post.data.coordinates && (
-        <div class="relative w-full">
+        <div class="relative w-full mt-4">
           <MapIllustrationWrapper
             title={title}
             coordinates={post.data.coordinates}
