@@ -95,14 +95,18 @@ const MapIllustration = ({
 
     for (let i = 0; i < 5; i++) {
       if (pathType === "straight") {
-        lines.push(`M0,${i * lineSpacing} L${width},${i * lineSpacing}`);
+        lines.push({
+          d: `M0,${i * lineSpacing} L${width},${i * lineSpacing}`,
+          color: "white",
+        });
       } else {
         // Enhance curvature by adjusting control points
         const controlPoint1 = (Math.random() * width) / 4;
         const controlPoint2 = (Math.random() * width) / 4 + width / 2;
-        lines.push(
-          `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`
-        );
+        lines.push({
+          d: `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`,
+          color: "black",
+        });
       }
     }
 
@@ -253,11 +257,11 @@ const MapIllustration = ({
           viewBox={`0 0 ${width} ${height}`}
           preserveAspectRatio="xMidYMid meet"
         >
-          {generateParallelLines().map((d, i) => (
+          {generateParallelLines().map((line, i) => (
             <path
               key={i}
-              d={d}
-              stroke="white"
+              d={line.d}
+              stroke={line.color}
               strokeWidth="2"
               fill="none"
               vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
