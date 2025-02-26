@@ -26,7 +26,7 @@ const MapIllustration = ({
     return useTransform(scrollYProgress, [0, 1], [0, baseSpeed * speedFactor]);
   };
 
-  // Colors for our mid-century modern palette + test if this is a thing?
+  // Colors for our mid-century modern palette + test if this is a thing? still?
   const getMidCenturyColor = () => {
     const colors = [
       "rgba(230, 30, 30, 0.75)", // Red
