@@ -86,34 +86,28 @@ const MapIllustration = ({
     )`;
   };
 
-  // Function to generate parallel lines
-  const generateParallelLines = () => {
-    // Increase the probability of selecting curved lines
-    const pathType = Math.random() < 0.7 ? "curved" : "straight";
-    const lineSpacing = height / 10; // Closer spacing for five lines
+  // Function to generate a guilloche pattern
+  const generateGuillochePattern = () => {
     const lines = [];
+    const numLines = 20; // Number of lines in the pattern
+    const amplitude = height / 4; // Amplitude of the wave
+    const frequency = 5; // Frequency of the wave
 
-    for (let i = 0; i < 5; i++) {
-      if (pathType === "straight") {
-        lines.push({
-          d: `M0,${i * lineSpacing} L${width},${i * lineSpacing}`,
-          color: "white",
-        });
-      } else {
-        // Enhance curvature by adjusting control points
-        const controlPoint1 = (Math.random() * width) / 4;
-        const controlPoint2 = (Math.random() * width) / 4 + width / 2;
-        lines.push({
-          d: `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`,
-          color: "black",
-        });
-      }
+    for (let i = 0; i < numLines; i++) {
+      const offset = (i / numLines) * width;
+      const pathData = Array.from({ length: frequency }, (_, j) => {
+        const x = (j / frequency) * width;
+        const y = amplitude * Math.sin((j / frequency) * Math.PI * 2 + offset);
+        return `${x},${y}`;
+      }).join(" L ");
+
+      lines.push(`M0,0 L ${pathData} L ${width},0`);
     }
 
     return lines;
   };
 
-  // Set up the layers (1 base map layer + 5 letter layers + 1 parallel lines layer)
+  // Set up the layers (1 base map layer + 5 letter layers + 1 guilloche pattern layer)
   const totalLayers = 7;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
@@ -161,8 +155,8 @@ const MapIllustration = ({
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
 
-  // Randomize the position of the parallel lines layer
-  const parallelLinesLayerIndex =
+  // Randomize the position of the guilloche pattern layer
+  const guillochePatternLayerIndex =
     Math.floor(Math.random() * (totalLayers - 1)) + 1;
 
   return (
@@ -239,17 +233,16 @@ const MapIllustration = ({
         </motion.div>
       ))}
 
-      {/* Parallel lines layer */}
+      {/* Guilloche pattern layer */}
       <motion.div
         className="absolute inset-0"
         style={{
-          y: parallaxValues[parallelLinesLayerIndex],
-          clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers),
-          zIndex: parallelLinesLayerIndex + 2,
-          rotate: Math.random() * 360, // Random rotation for variety
+          y: parallaxValues[guillochePatternLayerIndex],
+          clipPath: generateClipPath(guillochePatternLayerIndex, totalLayers),
+          zIndex: guillochePatternLayerIndex + 2,
         }}
         initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
+        animate={{ opacity: 0.5 }} // 50% opacity
         transition={{ duration: 0.8, delay: 0.2 }}
       >
         <svg
@@ -257,12 +250,12 @@ const MapIllustration = ({
           viewBox={`0 0 ${width} ${height}`}
           preserveAspectRatio="xMidYMid meet"
         >
-          {generateParallelLines().map((line, i) => (
+          {generateGuillochePattern().map((d, i) => (
             <path
               key={i}
-              d={line.d}
-              stroke={line.color}
-              strokeWidth="2"
+              d={d}
+              stroke="white"
+              strokeWidth="1"
               fill="none"
               vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
             />
