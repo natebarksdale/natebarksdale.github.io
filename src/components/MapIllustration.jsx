@@ -203,7 +203,7 @@ const MapIllustration = ({
         >
           <svg
             className="absolute inset-0 w-full h-full pointer-events-none"
-            viewBox={`0 0 ${width} ${height}`}
+            viewBox={`0 0 ${width} ${height}`} // now will this work?
             preserveAspectRatio="xMidYMid meet"
           >
             <g
