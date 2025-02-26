@@ -89,16 +89,17 @@ const MapIllustration = ({
   // Function to generate parallel lines
   const generateParallelLines = () => {
     const pathType = Math.random() < 0.5 ? "straight" : "curved";
-    const lineSpacing = height / 4; // Adjust line spacing based on height
+    const lineSpacing = height / 10; // Closer spacing for five lines
     const lines = [];
 
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < 5; i++) {
       if (pathType === "straight") {
         lines.push(`M0,${i * lineSpacing} L${width},${i * lineSpacing}`);
       } else {
-        const controlPoint = (Math.random() * width) / 2;
+        const controlPoint1 = (Math.random() * width) / 4;
+        const controlPoint2 = (Math.random() * width) / 4 + width / 2;
         lines.push(
-          `M0,${i * lineSpacing} Q${controlPoint},${i * lineSpacing + lineSpacing / 2} ${width},${i * lineSpacing}`
+          `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`
         );
       }
     }
@@ -239,6 +240,7 @@ const MapIllustration = ({
           y: parallaxValues[parallelLinesLayerIndex],
           clipPath: generateClipPath(parallelLinesLayerIndex, totalLayers),
           zIndex: parallelLinesLayerIndex + 2,
+          rotate: Math.random() * 360, // Random rotation for variety
         }}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -256,7 +258,7 @@ const MapIllustration = ({
               stroke="white"
               strokeWidth="2"
               fill="none"
-              vectorEffect="non-scaling-stroke"
+              vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
             />
           ))}
         </svg>
