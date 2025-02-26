@@ -86,35 +86,10 @@ const MapIllustration = ({
     )`;
   };
 
-  // Function to generate a guilloche pattern
-  const generateGuillochePattern = () => {
-    const lines = [];
-    const numLines = 20; // Number of lines in the pattern
-    const amplitude = height / 4; // Amplitude of the wave
-    const frequency = 10; // Increase frequency for more curves
-
-    for (let i = 0; i < numLines; i++) {
-      const offset = (i / numLines) * Math.PI * 2; // Offset for each line
-      const pathData = Array.from({ length: frequency + 1 }, (_, j) => {
-        const x = (j / frequency) * width;
-        const y =
-          amplitude * Math.sin((j / frequency) * Math.PI * 2 + offset) +
-          (i * height) / numLines;
-        return `${x},${y}`;
-      }).join(" L ");
-
-      lines.push(
-        `M0,${(i * height) / numLines} L ${pathData} L ${width},${(i * height) / numLines}`
-      );
-    }
-
-    return lines;
-  };
-
   // Function to generate parallel lines
   const generateParallelLines = () => {
     const pathType = Math.random() < 0.7 ? "curved" : "straight"; // Favor curved lines
-    const lineSpacing = height / 10; // Closer spacing for five lines
+    const lineSpacing = height / 20; // Closer spacing for five lines
     const lines = [];
 
     for (let i = 0; i < 5; i++) {
@@ -137,7 +112,7 @@ const MapIllustration = ({
     return lines;
   };
 
-  // Set up the layers (1 base map layer + 5 letter layers + 1 guilloche pattern layer + 1 parallel lines layer)
+  // Set up the layers (1 base map layer + 5 letter layers + 1 parallel lines layer)
   const totalLayers = 7;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
@@ -184,10 +159,6 @@ const MapIllustration = ({
 
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
-
-  // Randomize the position of the guilloche pattern layer
-  const guillochePatternLayerIndex =
-    Math.floor(Math.random() * (totalLayers - 1)) + 1;
 
   // Randomize the position of the parallel lines layer
   const parallelLinesLayerIndex =
@@ -267,36 +238,6 @@ const MapIllustration = ({
         </motion.div>
       ))}
 
-      {/* Guilloche pattern layer */}
-      <motion.div
-        className="absolute inset-0"
-        style={{
-          y: parallaxValues[guillochePatternLayerIndex],
-          clipPath: generateClipPath(guillochePatternLayerIndex, totalLayers),
-          zIndex: guillochePatternLayerIndex + 2,
-        }}
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 0.5 }} // 50% opacity
-        transition={{ duration: 0.8, delay: 0.2 }}
-      >
-        <svg
-          className="absolute inset-0 w-full h-full pointer-events-none"
-          viewBox={`0 0 ${width} ${height}`}
-          preserveAspectRatio="xMidYMid meet"
-        >
-          {generateGuillochePattern().map((d, i) => (
-            <path
-              key={i}
-              d={d}
-              stroke="white"
-              strokeWidth="1"
-              fill="none"
-              vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
-            />
-          ))}
-        </svg>
-      </motion.div>
-
       {/* Parallel lines layer */}
       <motion.div
         className="absolute inset-0"
@@ -322,8 +263,9 @@ const MapIllustration = ({
               key={i}
               d={line.d}
               stroke={line.color}
-              strokeWidth="2"
+              strokeWidth="4"
               fill="none"
+              opacity="0.5"
               vectorEffect="non-scaling-stroke" // Ensures lines scale with the SVG
             />
           ))}
