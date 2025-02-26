@@ -96,8 +96,8 @@ const MapIllustration = ({
       if (pathType === "straight") {
         lines.push(`M0,${i * lineSpacing} L${width},${i * lineSpacing}`);
       } else {
-        const controlPoint1 = (Math.random() * width) / 4;
-        const controlPoint2 = (Math.random() * width) / 4 + width / 2;
+        const controlPoint1 = (Math.random() * width) / 8; // Tighter curve
+        const controlPoint2 = (Math.random() * width) / 8 + width / 2;
         lines.push(
           `M0,${i * lineSpacing} Q${controlPoint1},${i * lineSpacing + lineSpacing / 2} ${width / 2},${i * lineSpacing} T${width},${i * lineSpacing}`
         );
