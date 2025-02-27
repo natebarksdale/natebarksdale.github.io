@@ -116,6 +116,7 @@ p:not(:last-child)::after {
   h1, h1 a { @apply text-3xl font-serif; }
 
   .prose code {font-size:70%;}
+  .prose code {background-color: rgb(250,250,250);}
   code .copy-code {display:hidden;}
 
   .prose strong {font-size:70%;}

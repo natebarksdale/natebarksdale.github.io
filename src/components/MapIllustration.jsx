@@ -29,11 +29,11 @@ const MapIllustration = ({
   // Colors for our mid-century modern palette
   const getMidCenturyColor = () => {
     const colors = [
-      "rgba(230, 30, 30, 0.75)", // Red
-      "rgba(30, 100, 230, 0.75)", // Blue
-      "rgba(230, 180, 30, 0.75)", // Yellow/Gold
-      "rgba(240, 100, 10, 0.75)", // Orange
-      "rgba(30, 150, 120, 0.75)", // Teal
+      "rgba(230, 30, 30, 0.50)", // Red
+      "rgba(30, 100, 230, 0.50)", // Blue
+      "rgba(230, 180, 30, 0.50)", // Yellow/Gold
+      "rgba(240, 100, 10, 0.50)", // Orange
+      "rgba(30, 150, 120, 0.50)", // Teal
     ];
     return colors[Math.floor(Math.random() * colors.length)];
   };
