@@ -17,12 +17,33 @@ export interface Props {
 }
 
 const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
+
+// Function to split emoji from tag name
+function splitEmojiTag(tagName) {
+  if (!tagName || typeof tagName !== "string") return { emoji: "", text: "" };
+
+  const emojiRegex = /(\p{Extended_Pictographic}+)/u;
+  const match = tagName.match(emojiRegex);
+
+  if (match) {
+    return {
+      emoji: match[0],
+      text: tagName.slice(match[0].length).trim(),
+    };
+  }
+  return { emoji: "", text: tagName };
+}
+
+const { emoji, text } = splitEmojiTag(tagName);
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
   <Header activeNav="tags" />
   <Main pageTitle={[`${tagName}`]} titleTransition={tag}>
-    <h1 slot="title" transition:name={tag}>{`${tagName}`}</h1>
+    <h1 slot="title" transition:name={tag}>
+      {emoji && <span class="emoji">{emoji}</span>}
+      {text}
+    </h1>
     <ul>
       {
         paginatedPosts.map(({ data, slug }) => (
