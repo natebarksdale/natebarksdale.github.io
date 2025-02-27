@@ -39,6 +39,14 @@ const pagination = getPagination({
   posts: postsByTag,
   page,
 });
+
+const currentPage = Number(Astro.params.page);
+const totalPages = Math.ceil(postsByTag.length / postsPerPage);
 ---
 
-<TagPosts {...pagination} {tag} {tagName} />
+<TagPosts
+  currentPage={currentPage}
+  totalPages={totalPages}
+  tag={tag}
+  entries={postsByTag}
+/>
