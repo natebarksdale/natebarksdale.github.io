@@ -19,20 +19,15 @@ export interface Props {
 const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
 
 // Improved function to split emoji from tag name
-function splitEmojiTag(tagName) {
-  if (!tagName || typeof tagName !== "string") return { emoji: "", text: "" };
-
-  // Updated regex to capture emojis more reliably
-  const emojiRegex = /(\p{Emoji_Presentation}|\p{Emoji}\uFE0F?)/gu;
-  const match = tagName.match(emojiRegex);
-
+function splitEmojiTag(tag: string) {
+  const emojiRegex = /(\p{Emoji})/gu; // Regex to match emojis
+  const match = tag.match(emojiRegex);
   if (match) {
-    return {
-      emoji: match[0],
-      text: tagName.slice(match[0].length).trim(),
-    };
+    const emoji = match[0];
+    const text = tag.replace(emoji, "").trim();
+    return `<span class="emoji">${emoji}</span> ${text}`; // Wrap emoji in span
   }
-  return { emoji: "", text: tagName };
+  return tag; // Return original tag if no emoji found
 }
 
 const { emoji, text } = splitEmojiTag(tagName);
