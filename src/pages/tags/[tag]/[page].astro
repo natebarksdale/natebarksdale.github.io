@@ -40,6 +40,8 @@ const pagination = getPagination({
   page,
 });
 
+const totalPages = Math.ceil(postsByTag.length / postsPerPage);
+
 const postsPerPage = 20; // Define how many posts to show per page
 
 const entries = await getCollection("posts", { tag }); // Fetch entries based on the tag
