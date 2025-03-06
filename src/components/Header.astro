@@ -130,7 +130,7 @@ const navItems = [
     @apply flex w-full flex-col items-center sm:ml-2 sm:flex-row sm:justify-end sm:space-x-4 sm:py-0;
   }
   nav ul {
-    @apply mt-4 grid w-44 grid-cols-2 grid-rows-4 gap-x-2 gap-y-2 sm:ml-0 sm:mt-0 sm:w-auto sm:gap-x-5 sm:gap-y-0;
+    @apply mt-4 grid w-44 grid-cols-2 grid-rows-5 gap-x-2 gap-y-2 sm:ml-0 sm:mt-0 sm:w-auto sm:grid-cols-4 sm:grid-rows-1 sm:gap-x-5 sm:gap-y-0;
   }
   nav ul li {
     @apply col-span-2 flex items-center justify-center;
@@ -138,12 +138,24 @@ const navItems = [
   nav ul li a {
     @apply w-full px-4 py-3 font-serif text-center font-medium hover:text-skin-accent sm:my-0 sm:px-2 sm:py-1;
   }
-  nav ul li:nth-last-child(2) a {
-    @apply w-auto;
+  /* For desktop view: keep normal layout */
+  @media (min-width: 640px) {
+    nav ul li:nth-last-child(1),
+    nav ul li:nth-last-child(2) {
+      @apply col-span-1;
+    }
+    nav ul li:nth-last-child(2) a {
+      @apply w-auto;
+    }
   }
-  nav ul li:nth-last-child(1),
-  nav ul li:nth-last-child(2) {
-    @apply col-span-1;
+  /* For mobile view: full width for all items */
+  @media (max-width: 639px) {
+    nav ul li {
+      @apply col-span-2;
+    }
+    nav ul li a {
+      @apply w-full;
+    }
   }
   nav a.active {
     @apply fancy-underline;
@@ -167,9 +179,11 @@ const navItems = [
 
   .icon-container {
     @apply h-5 w-6 flex-col items-end justify-between;
+    overflow: visible; /* Prevent cropping of animation */
   }
   .icon-container div {
     @apply h-0.5 bg-skin-inverted transition-all;
+    transform-origin: center;
   }
   #first-line {
     @apply w-full;
@@ -184,30 +198,46 @@ const navItems = [
 
 <script>
   // Toggle menu
-  const menuBtn = document.querySelector(".hamburger-menu");
-  const menuItems = document.querySelector("#menu-items")?.classList;
+  function setupMenu() {
+    const menuBtn = document.querySelector(".hamburger-menu");
+    const menuItems = document.querySelector("#menu-items")?.classList;
+    const iconContainer = document.querySelector(".icon-container")?.classList;
+    const firstLine = document.querySelector("#first-line")?.classList;
+    const secondLine = document.querySelector("#second-line")?.classList;
+    const thirdLine = document.querySelector("#third-line")?.classList;
 
-  const iconContainer = document.querySelector(".icon-container")?.classList;
-  const firstLine = document.querySelector("#first-line")?.classList;
-  const secondLine = document.querySelector("#second-line ")?.classList;
-  const thirdLine = document.querySelector("#third-line")?.classList;
+    // Remove any existing event listeners by cloning and replacing
+    if (menuBtn) {
+      const newMenuBtn = menuBtn.cloneNode(true);
+      menuBtn.parentNode.replaceChild(newMenuBtn, menuBtn);
 
-  menuBtn?.addEventListener("click", function () {
-    const menuExpanded = menuBtn?.getAttribute("aria-expanded");
-    if (menuExpanded === "false") {
-      menuBtn?.setAttribute("aria-expanded", "true");
-      menuItems?.remove("display-none");
-      iconContainer?.add("gap-0.5");
-      firstLine?.add("rotate-45", "translate-y-1.5");
-      secondLine?.add("opacity-0");
-      thirdLine?.add("-rotate-45", "-translate-y-1.5");
-    } else {
-      menuBtn?.setAttribute("aria-expanded", "false");
-      menuItems?.add("display-none");
-      iconContainer?.remove("gap-0.5");
-      firstLine?.remove("rotate-45", "translate-y-1.5");
-      secondLine?.remove("opacity-0");
-      thirdLine?.remove("-rotate-45", "-translate-y-1.5");
+      newMenuBtn.addEventListener("click", function () {
+        const menuExpanded = newMenuBtn.getAttribute("aria-expanded");
+        if (menuExpanded === "false") {
+          newMenuBtn.setAttribute("aria-expanded", "true");
+          menuItems?.remove("display-none");
+          iconContainer?.add("gap-0.5");
+          firstLine?.add("rotate-45", "translate-y-1.5");
+          secondLine?.add("opacity-0");
+          thirdLine?.add("-rotate-45", "-translate-y-1.5");
+        } else {
+          newMenuBtn.setAttribute("aria-expanded", "false");
+          menuItems?.add("display-none");
+          iconContainer?.remove("gap-0.5");
+          firstLine?.remove("rotate-45", "translate-y-1.5");
+          secondLine?.remove("opacity-0");
+          thirdLine?.remove("-rotate-45", "-translate-y-1.5");
+        }
+      });
     }
-  });
+  }
+
+  // Run on page load
+  document.addEventListener("DOMContentLoaded", setupMenu);
+
+  // Run when the page content updates without a full reload
+  document.addEventListener("astro:page-load", setupMenu);
+
+  // Ensure it works even if our script loads after the page
+  setupMenu();
 </script>

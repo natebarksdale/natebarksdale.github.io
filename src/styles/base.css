@@ -281,7 +281,11 @@ p:not(:last-child)::after {
   }
 
   blockquote:before, blockquote:after, q:before, q:after {
-    content: none;
+    content: none !important;
+  }
+  
+  blockquote {
+    quotes: none !important;
   }
 }
 

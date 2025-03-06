@@ -8,6 +8,7 @@ import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
 import getSortedPosts from "@utils/getSortedPosts";
+import getRandomArchivePosts from "@utils/getRandomArchivePosts";
 import { SOCIALS } from "@config";
 
 const posts = await getCollection("blog");
@@ -15,6 +16,12 @@ const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
+const archivePosts = getRandomArchivePosts(
+  posts,
+  featuredPosts,
+  recentPosts,
+  4
+);
 
 const socialCount = SOCIALS.filter(social => social.active).length;
 ---
@@ -25,7 +32,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     <section id="hero">
       <h1>What Comes Next_</h1>
       <p>
-        A portfolio and commonplacebook my recent work, observations, and experiments.
+        A portfolio and commonplacebook my recent work, observations, and
+        experiments.
       </p>
     </section>
 
@@ -71,10 +79,28 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       )
     }
 
+    {
+      archivePosts.length > 0 && (
+        <>
+          <Hr />
+          <section id="archive-posts">
+            <h2>From the Archive</h2>
+            <ul>
+              {archivePosts.map(({ data, slug }) => (
+                <Card
+                  href={`/posts/${slug}/`}
+                  frontmatter={data}
+                  secHeading={false}
+                />
+              ))}
+            </ul>
+          </section>
+        </>
+      )
+    }
+
     <div class="all-posts-btn-wrapper">
-      <LinkButton href="/posts/">
-        All Posts &gt;
-      </LinkButton>
+      <LinkButton href="/posts/"> All Posts &gt; </LinkButton>
     </div>
   </main>
 
@@ -99,21 +125,22 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
   }
 
-  /* ===== Featured & Recent Posts Sections ===== */
+  /* ===== Featured, Recent, & Archive Posts Sections ===== */
   #featured,
-  #recent-posts {
+  #recent-posts,
+  #archive-posts {
     @apply font-serif pb-6 pt-12 text-2xl flex flex-col sm:flex-row sm:items-start gap-4;
   }
   h2 {
-@apply font-serif sm:w-1/4 text-lg my-2;
-}
-ul {
-@apply font-serif sm:w-3/4 mt-2;
-}
+    @apply font-serif sm:w-1/4 text-lg my-2;
+  }
+  ul {
+    @apply font-serif sm:w-3/4 mt-2;
+  }
 
-li {
-@apply my-0;
-}
+  li {
+    @apply my-0;
+  }
   .all-posts-btn-wrapper {
     @apply my-8 text-center;
   }

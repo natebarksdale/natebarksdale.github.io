@@ -87,6 +87,15 @@ module.exports = {
       overrides: {
         css: {
           '--tw-prose-links': 'rgb(var(--color-accent))',
+          'blockquote': {
+            'quotes': 'none',
+            '&::before': {
+              content: 'none',
+            },
+            '&::after': {
+              content: 'none',
+            },
+          },
           'a': {
             'text-decoration': 'none',
             'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%)',
