@@ -3,61 +3,36 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
-import fs from "node:fs/promises";
-import path from "node:path";
-
 const fetchFonts = async () => {
   try {
-    // Load local TTF fonts - using the exact filenames you have available
-    const fauneRegularPath = path.resolve(
-      "./public/fonts/Faune-Display_Thin.ttf"
-    );
-    const fauneBoldPath = path.resolve(
-      "./public/fonts/Faune-Display_Black.ttf"
-    );
-    const fauneMonoPath = path.resolve(
-      "./public/fonts/Faune-Display_Bold_Italic.ttf"
-    );
+    // Load reliable Google Fonts with direct TTF links
+    const regularFont = await fetch(
+      "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.ttf"
+    ).then(res => res.arrayBuffer());
 
-    // Read font files
-    const fauneRegular = await fs.readFile(fauneRegularPath);
-    const fauneBold = await fs.readFile(fauneBoldPath);
-    const fauneMono = await fs.readFile(fauneMonoPath);
+    const boldFont = await fetch(
+      "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.ttf"
+    ).then(res => res.arrayBuffer());
 
-    return {
-      fauneRegular,
-      fauneBold,
-      fauneMono,
-    };
+    const monoFont = await fetch(
+      "https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4.ttf"
+    ).then(res => res.arrayBuffer());
+
+    console.log("Successfully loaded web fonts");
+    return { regularFont, boldFont, monoFont };
   } catch (error) {
-    console.error("Error loading local fonts:", error);
+    console.error("Error loading web fonts:", error);
 
-    // If local fonts fail, use a simple fallback
-    try {
-      // Try loading a reliable web font as fallback
-      const fallbackFont = await fetch(
-        "https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf"
-      ).then(res => res.arrayBuffer());
-
-      return {
-        fauneRegular: fallbackFont,
-        fauneBold: fallbackFont,
-        fauneMono: fallbackFont,
-      };
-    } catch (fallbackError) {
-      console.error("Fallback font failed too:", fallbackError);
-
-      // Empty buffers as last resort
-      return {
-        fauneRegular: new ArrayBuffer(0),
-        fauneBold: new ArrayBuffer(0),
-        fauneMono: new ArrayBuffer(0),
-      };
-    }
+    // Empty buffers as last resort
+    return {
+      regularFont: new ArrayBuffer(0),
+      boldFont: new ArrayBuffer(0),
+      monoFont: new ArrayBuffer(0),
+    };
   }
 };
 
-const { fauneRegular, fauneBold, fauneMono } = await fetchFonts();
+const { regularFont, boldFont, monoFont } = await fetchFonts();
 
 const options: SatoriOptions = {
   width: 1200,
@@ -65,20 +40,20 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Faune",
-      data: fauneRegular,
+      name: "Source Sans Pro",
+      data: regularFont,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Faune",
-      data: fauneBold,
+      name: "Source Sans Pro",
+      data: boldFont,
       weight: 700,
       style: "normal",
     },
     {
-      name: "FauneMono",
-      data: fauneMono,
+      name: "Roboto Mono",
+      data: monoFont,
       weight: 400,
       style: "normal",
     },

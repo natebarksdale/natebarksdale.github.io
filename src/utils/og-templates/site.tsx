@@ -10,96 +10,114 @@ export default () => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
+        position: "relative",
       }}
     >
+      {/* Main container */}
       <div
         style={{
-          position: "absolute",
-          top: "-1px",
-          right: "-1px",
-          border: "4px solid #000",
-          background: "#ecebeb",
-          opacity: "0.9",
-          borderRadius: "4px",
-          display: "flex",
-          justifyContent: "center",
-          margin: "2.5rem",
           width: "88%",
           height: "80%",
-        }}
-      />
-
-      <div
-        style={{
-          border: "4px solid #000",
-          background: "#fefbfb",
-          borderRadius: "4px",
+          position: "relative",
           display: "flex",
           justifyContent: "center",
+          alignItems: "center",
           margin: "2rem",
-          width: "88%",
-          height: "80%",
         }}
       >
+        {/* Shadow */}
         <div
           style={{
+            position: "absolute",
+            top: "-8px",
+            right: "-8px",
+            width: "100%",
+            height: "100%",
+            background: "#ecebeb",
+            borderRadius: "4px",
+            border: "4px solid #000",
+            zIndex: 1,
+          }}
+        />
+
+        {/* Content container */}
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            background: "#fefbfb",
+            borderRadius: "4px",
+            border: "4px solid #000",
+            position: "relative",
+            zIndex: 2,
             display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            margin: "20px",
-            width: "90%",
-            height: "90%",
+            justifyContent: "center",
+            alignItems: "center",
           }}
         >
+          {/* Content wrapper */}
           <div
             style={{
+              width: "90%",
+              height: "90%",
               display: "flex",
               flexDirection: "column",
-              justifyContent: "center",
-              alignItems: "center",
-              height: "90%",
-              maxHeight: "90%",
-              overflow: "hidden",
-              textAlign: "center",
+              justifyContent: "space-between",
             }}
           >
-            <p
+            {/* Site title and description */}
+            <div
               style={{
-                fontSize: 72,
-                fontWeight: 700,
-                fontFamily: "Faune, sans-serif",
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "center",
+                alignItems: "center",
+                height: "90%",
+                textAlign: "center",
               }}
             >
-              {SITE.title}
-            </p>
-            <p
-              style={{
-                fontSize: 28,
-                fontFamily: "Faune, sans-serif",
-              }}
-            >
-              {SITE.desc}
-            </p>
-          </div>
+              <p
+                style={{
+                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontSize: 72,
+                  fontWeight: 700,
+                  margin: 0,
+                  padding: 0,
+                }}
+              >
+                {SITE.title}
+              </p>
+              <p
+                style={{
+                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontSize: 28,
+                  marginTop: "1rem",
+                }}
+              >
+                {SITE.desc}
+              </p>
+            </div>
 
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "flex-end",
-              width: "100%",
-              marginBottom: "8px",
-              fontSize: 28,
-            }}
-          >
-            <span
+            {/* Footer */}
+            <div
               style={{
-                overflow: "hidden",
-                fontWeight: 700,
-                fontFamily: "Faune, sans-serif",
+                display: "flex",
+                justifyContent: "flex-end",
+                width: "100%",
+                marginBottom: "8px",
+                fontSize: 28,
               }}
             >
-              {new URL(SITE.website).hostname}
-            </span>
+              <span
+                style={{
+                  overflow: "hidden",
+                  fontWeight: 700,
+                  fontFamily: "Source Sans Pro, sans-serif",
+                }}
+              >
+                {new URL(SITE.website).hostname}
+              </span>
+            </div>
           </div>
         </div>
       </div>

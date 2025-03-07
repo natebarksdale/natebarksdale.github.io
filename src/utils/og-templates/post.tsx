@@ -20,31 +20,22 @@ export default (
         position: "relative",
       }}
     >
-      {/* Map background when coordinates are available */}
-      {useMapBackground && (
-        <div
-          style={{
-            position: "absolute",
-            top: 0,
-            left: 0,
-            width: "100%",
-            height: "100%",
-            zIndex: 0,
-            display: "flex",
-            flexDirection: "column",
-          }}
-        >
-          <img
-            src={mapBackground}
-            alt="Map background"
-            style={{
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-              filter: "grayscale(80%) contrast(120%) brightness(80%)",
-              mixBlendMode: "multiply",
-            }}
-          />
+      {/* Main content container - always rendered */}
+      <div
+        style={{
+          width: "88%",
+          height: "80%",
+          position: "relative",
+          borderRadius: "4px",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          margin: "2rem",
+          zIndex: 5,
+        }}
+      >
+        {/* Map background when coordinates are available */}
+        {useMapBackground && (
           <div
             style={{
               position: "absolute",
@@ -52,117 +43,122 @@ export default (
               left: 0,
               width: "100%",
               height: "100%",
-              background: "rgba(250, 245, 240, 0.75)",
-              mixBlendMode: "overlay",
+              zIndex: 0,
+              display: "flex",
             }}
-          />
-        </div>
-      )}
+          >
+            <img
+              src={mapBackground}
+              alt="Map background"
+              style={{
+                position: "absolute",
+                top: 0,
+                left: 0,
+                width: "100%",
+                height: "100%",
+                objectFit: "cover",
+                opacity: 0.3,
+                filter: "grayscale(80%) contrast(120%)",
+              }}
+            />
+          </div>
+        )}
 
-      {/* Shadow layer */}
-      <div
-        style={{
-          position: "absolute",
-          top: "-1px",
-          right: "-1px",
-          border: "4px solid #000",
-          background: "#ecebeb",
-          opacity: "0.9",
-          borderRadius: "4px",
-          display: "flex",
-          justifyContent: "center",
-          margin: "2.5rem",
-          width: "88%",
-          height: "80%",
-          zIndex: 1,
-        }}
-      />
-
-      {/* Main content container */}
-      <div
-        style={{
-          border: "4px solid #000",
-          background: useMapBackground
-            ? "rgba(250, 245, 240, 0.85)"
-            : "#fefbfb",
-          borderRadius: "4px",
-          display: "flex",
-          justifyContent: "center",
-          margin: "2rem",
-          width: "88%",
-          height: "80%",
-          position: "relative",
-          zIndex: 2,
-          backdropFilter: useMapBackground ? "blur(8px)" : "none",
-        }}
-      >
+        {/* Shadow card */}
         <div
           style={{
+            position: "absolute",
+            top: "-8px",
+            right: "-8px",
+            width: "100%",
+            height: "100%",
+            background: "#ecebeb",
+            borderRadius: "4px",
+            border: "4px solid #000",
+            zIndex: 1,
+          }}
+        />
+
+        {/* Content card */}
+        <div
+          style={{
+            width: "100%",
+            height: "100%",
+            background: useMapBackground
+              ? "rgba(250, 245, 240, 0.9)"
+              : "#fefbfb",
+            borderRadius: "4px",
+            border: "4px solid #000",
+            position: "relative",
+            zIndex: 2,
             display: "flex",
-            flexDirection: "column",
-            justifyContent: "space-between",
-            margin: "20px",
-            width: "90%",
-            height: "90%",
+            justifyContent: "center",
+            alignItems: "center",
           }}
         >
-          {/* Title */}
-          <p
-            style={{
-              fontFamily: "Faune, sans-serif",
-              fontSize: 72,
-              fontWeight: 700,
-              maxHeight: "84%",
-              overflow: "hidden",
-              marginBottom: "1rem",
-              color: "#111",
-            }}
-          >
-            {post.data.title}
-          </p>
-
-          {/* Footer with author and site title */}
+          {/* Content wrapper */}
           <div
             style={{
+              width: "90%",
+              height: "90%",
               display: "flex",
+              flexDirection: "column",
               justifyContent: "space-between",
-              width: "100%",
-              marginBottom: "8px",
-              fontSize: 28,
             }}
           >
-            <span>
-              by{" "}
-              <span
+            {/* Title */}
+            <div style={{ flexGrow: 1, display: "flex", alignItems: "center" }}>
+              <p
                 style={{
-                  color: "transparent",
+                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontSize: 72,
+                  fontWeight: 700,
+                  color: "#111",
+                  margin: 0,
+                  padding: 0,
                 }}
               >
-                "
+                {post.data.title}
+              </p>
+            </div>
+
+            {/* Footer with author and site title */}
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                width: "100%",
+                marginBottom: "8px",
+                fontSize: 28,
+              }}
+            >
+              <span style={{ display: "flex" }}>
+                by{" "}
+                <span
+                  style={{
+                    overflow: "hidden",
+                    fontFamily: "Source Sans Pro, sans-serif",
+                    fontWeight: 700,
+                    marginLeft: "0.5em",
+                  }}
+                >
+                  {post.data.author}
+                </span>
               </span>
+
               <span
                 style={{
                   overflow: "hidden",
-                  fontFamily: "Faune, sans-serif",
+                  fontFamily: "Source Sans Pro, sans-serif",
                   fontWeight: 700,
                 }}
               >
-                {post.data.author}
+                {SITE.title}
               </span>
-            </span>
-
-            <span
-              style={{
-                overflow: "hidden",
-                fontFamily: "Faune, sans-serif",
-                fontWeight: 700,
-              }}
-            >
-              {SITE.title}
-            </span>
+            </div>
           </div>
 
-          {/* Show coordinates badge if available */}
+          {/* Coordinates badge if available */}
           {post.data.coordinates && (
             <div
               style={{
@@ -174,7 +170,8 @@ export default (
                 padding: "4px 8px",
                 borderRadius: "4px",
                 fontSize: "14px",
-                fontFamily: "FauneMono, monospace",
+                fontFamily: "Roboto Mono, monospace",
+                display: "flex",
               }}
             >
               {post.data.coordinates[0].toFixed(3)}°,{" "}
