@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2015-01-15
-modDatetime: 2015-01-15
+modDatetime: 2025-03-07T22:32:55Z
 title: Articles | Lists, Questions and Culinary Delights
 slug: articles-lists-questions-and-culinary-delights
 featured: false
 draft: false
-description: Over the past few months, I've been diving into the fun facts and intriguing stories of history for the History Channel's website. Here are some highlights from my recent work:
-emoji: 📜  
+description: Over the past few months, I've been diving into the fun facts and intriguing stories of history for the History Channel's website.
+emoji: 📜
 tags:
-  - 📖 listicles  
-  - 🍴 culinary history  
-  - ❓ Q&A  
+  - 📖 listicles
+  - 🍴 culinary history
+  - ❓ Q&A
 haiku: |
-    History unveiled,  
-    Facts, food, and curious minds,  
-    Past whispers to us.  
-coordinates: [38.8833,-77.0167]
+  History unveiled,  
+  Facts, food, and curious minds,  
+  Past whispers to us.
+coordinates: [38.8833, -77.0167]
 ---
 
 [![The History Channel](https://www.natebarksdale.com/wp-content/uploads/2014/03/history-log.png)](http://www.history.com/topics)
