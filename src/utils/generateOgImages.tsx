@@ -5,29 +5,35 @@ import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
 
 const fetchFonts = async () => {
-  // Instead of local WOFF/WOFF2 files, use TTF files from Google Fonts or other CDNs
-  // These are specifically supported by Satori
+  try {
+    // Use Google Fonts direct TTF links that are definitely TTF format
+    const interRegular = await fetch(
+      "https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.ttf"
+    ).then(res => res.arrayBuffer());
 
-  // Serif font (instead of DovesType, which has compatibility issues)
-  const serifFontRegular = await fetch(
-    "https://fonts.cdnfonts.com/s/18783/LibreBaskerville-Regular.woff"
-  ).then(res => res.arrayBuffer());
+    const interBold = await fetch(
+      "https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7.ttf"
+    ).then(res => res.arrayBuffer());
 
-  // Bold font for headers
-  const serifFontBold = await fetch(
-    "https://fonts.cdnfonts.com/s/18783/LibreBaskerville-Bold.woff"
-  ).then(res => res.arrayBuffer());
+    const robotoMono = await fetch(
+      "https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4.ttf"
+    ).then(res => res.arrayBuffer());
 
-  // Monospace font (for coordinate display)
-  const monoFont = await fetch(
-    "https://www.1001fonts.com/download/font/ibm-plex-mono.regular.ttf"
-  ).then(res => res.arrayBuffer());
+    return {
+      serifFontRegular: interRegular,
+      serifFontBold: interBold,
+      monoFont: robotoMono,
+    };
+  } catch (error) {
+    console.error("Error loading fonts:", error);
 
-  return {
-    serifFontRegular,
-    serifFontBold,
-    monoFont,
-  };
+    // Fallback to system fonts
+    return {
+      serifFontRegular: new ArrayBuffer(0),
+      serifFontBold: new ArrayBuffer(0),
+      monoFont: new ArrayBuffer(0),
+    };
+  }
 };
 
 const { serifFontRegular, serifFontBold, monoFont } = await fetchFonts();
@@ -38,19 +44,19 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Libre Baskerville",
+      name: "Inter",
       data: serifFontRegular,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Libre Baskerville",
+      name: "Inter",
       data: serifFontBold,
       weight: 700,
       style: "normal",
     },
     {
-      name: "IBM Plex Mono",
+      name: "Roboto Mono",
       data: monoFont,
       weight: 400,
       style: "normal",

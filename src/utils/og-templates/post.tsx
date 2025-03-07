@@ -107,7 +107,7 @@ export default (
           {/* Title */}
           <p
             style={{
-              fontFamily: "Libre Baskerville, serif",
+              fontFamily: "Inter, sans-serif",
               fontSize: 72,
               fontWeight: 700,
               maxHeight: "84%",
@@ -141,7 +141,7 @@ export default (
               <span
                 style={{
                   overflow: "hidden",
-                  fontFamily: "Libre Baskerville, serif",
+                  fontFamily: "Inter, sans-serif",
                   fontWeight: 700,
                 }}
               >
@@ -152,7 +152,7 @@ export default (
             <span
               style={{
                 overflow: "hidden",
-                fontFamily: "Libre Baskerville, serif",
+                fontFamily: "Inter, sans-serif",
                 fontWeight: 700,
               }}
             >
@@ -172,7 +172,7 @@ export default (
                 padding: "4px 8px",
                 borderRadius: "4px",
                 fontSize: "14px",
-                fontFamily: "IBM Plex Mono, monospace",
+                fontFamily: "Roboto Mono, monospace",
               }}
             >
               {post.data.coordinates[0].toFixed(3)}°,{" "}
