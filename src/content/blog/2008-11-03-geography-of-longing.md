@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2008-11-03
+modDatetime: 2025-03-07T22:36:11Z
 title: Geography of longing
 slug: geography-of-longing
 featured: false
 draft: false
-description:
+description: Here's an alternative to the state-by-state maps we're being bombarded with in these latter electoral days
 emoji: 💔
 tags:
   - 📍 connections
