@@ -101,15 +101,14 @@ p:not(:last-child)::after {
   
 .fancy-underline {
   background: linear-gradient(0deg, rgba(var(--color-accent), 0.3) 0%, rgba(var(--color-accent), 0.3) 100%);
-  background-position: 0 85%;
+  background-position: 0 100%;
   background-repeat: no-repeat;
-  background-size: 100% 0.4em;
+  background-size: 100% 0.25em;
   text-shadow: 
     0.1em 0 var(--color-fill),
     -0.1em 0 var(--color-fill),
     0 0.1em var(--color-fill),
     0 -0.1em var(--color-fill);
-  color: rgb(var(--color-accent));
   text-decoration: none;
 }
 
@@ -180,7 +179,7 @@ p:not(:last-child)::after {
     @apply mx-auto max-w-3xl px-4;
   }
   a {
-    @apply outline-2 outline-offset-1 outline-skin-fill fancy-underline
+    @apply outline-2 outline-offset-1 outline-skin-fill
     focus-visible:no-underline focus-visible:outline-dashed;
   }
   
