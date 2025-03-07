@@ -4,6 +4,7 @@ import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import MapView from "@components/MapView";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
 
 // Get posts data
 const posts = await getCollection("blog", ({ data }) => !data.draft);
@@ -59,8 +60,11 @@ console.log(
 <Layout title="Post Map">
   <Header activeNav="map" />
   <main>
-    <h1 class="text-2xl font-semibold mb-6">Posts Around the World</h1>
-    <div class="w-full rounded-lg overflow-hidden bg-skin-fill">
+    <Breadcrumbs />
+    <h1 class="my-4 inline-block font-serif text-3xl sm:my-8 sm:text-5xl">
+      Posts Around the World
+    </h1>
+    <div class="w-full rounded-lg overflow-hidden bg-skin-fill mt-6">
       <MapView
         client:only="react"
         geojson={geojson}

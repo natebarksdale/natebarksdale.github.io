@@ -110,7 +110,7 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
       </button>
 
       {isOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
+        <div className="fixed inset-0 z-30 flex items-center justify-center bg-black bg-opacity-50">
           <div
             ref={modalRef}
             className="relative w-full max-w-sm bg-skin-fill p-6 rounded-sm"

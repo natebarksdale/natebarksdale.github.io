@@ -126,7 +126,8 @@ p:not(:last-child)::after {
       margin-left: -1.75em; /* Moves it into the margin */
       margin-right: -0.5em; /* Prevents overlap with text */
       color: rgba(0,0,0,0.2);
-      @apply text-3xl;
+      @apply text-4xl; /* Increased from 3xl to 4xl (50% larger) */
+      transform: translateY(-10%); /* Align with vertical center of text */
   }
   
   .emoji {
@@ -205,7 +206,7 @@ p:not(:last-child)::after {
     sm:scale-110;
   }
   .prose {
-    @apply prose-headings:!mb-3 prose-headings:!text-skin-base 
+    @apply prose-headings:!mb-3 prose-headings:!text-skin-base prose-headings:uppercase prose-headings:text-xl
     prose-h3:italic prose-p:!text-skin-base 
     prose-a:!text-skin-base prose-a:!fancy-underline prose-a:fancy-underline
     hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent

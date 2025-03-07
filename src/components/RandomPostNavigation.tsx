@@ -25,7 +25,7 @@ const PostNavigation: React.FC<PostNavigationProps> = ({
   };
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-skin-card bg-opacity-80 backdrop-blur-sm border-t border-b border-skin-line">
+    <div className="fixed bottom-0 left-0 right-0 bg-skin-card bg-opacity-80 backdrop-blur-sm border-t border-b border-skin-line z-40">
       <div className="max-w-3xl mx-auto px-4 py-3 flex justify-between items-center gap-2">
         {prevPostSlug ? (
           <button
