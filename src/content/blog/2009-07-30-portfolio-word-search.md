@@ -5,7 +5,7 @@ modDatetime: 2025-03-07T22:24:56Z
 title: Portfolio | Word Search
 slug: portfolio-word-search
 featured: false
-draft: false
+draft: true
 description: I enjoyed the creative challenge of designing a card centered around a letter grid, complete with a playable word search on the back.
 emoji: 🧩
 tags:

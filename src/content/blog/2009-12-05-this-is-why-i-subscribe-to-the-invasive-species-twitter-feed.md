@@ -1,26 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-05
-modDatetime: 2009-12-05
+modDatetime: 2025-03-07T22:27:57Z
 title: This Is Why I Subscribe to the Invasive Species Twitter Feed
 slug: this-is-why-i-subscribe-to-the-invasive-species-twitter-feed
 featured: false
 draft: false
-description: A fascinating insight into how trained dogs like Ofira can help combat invasive species, along with a reflection on the sensory experiences of labradors in our world.  
-> 
-> ##### The Cairns Post, Monday, November 30, 2009
-> 
-> OFIRA the labrador's keen sense of smell may help Far North Queensland win the war against electric ants
-emoji: 🐾  
+description: A fascinating insight into how trained dogs like Ofira can help combat invasive species, along with a reflection on the sensory experiences of labradors in our world.
+emoji: 🐾
 tags:
-  - 🐶 Dogs  
-  - 🐜 Ants  
-  - 🌍 Environment  
+  - 🐶 Dogs
+  - 🐜 Ants
+  - 🌍 Environment
 haiku: |
-    Sniffing out danger,  
-    Labrador on the hunt,  
-    Nature's allies rise.  
-coordinates: [-16.9203,145.7750]
+  Sniffing out danger,  
+  Labrador on the hunt,  
+  Nature's allies rise.
+coordinates: [-16.9203, 145.7750]
 ---
 
 > #### [Dog flies into action against ants](http://www.cairns.com.au/article/2009/11/30/79075_local-news.html)
