@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-02
-modDatetime: 2009-01-02
-title: Electronic Superhighway: Continental U.S., by Nam June Paik
+modDatetime: 2025-03-07T22:15:31Z
+title: Electronic Superhighway - Continental U.S., by Nam June Paik
 slug: electronic-superhighway-continental-us-by-nam-june-paik
 featured: false
 draft: false
 description: The Mississippi River shines with a nostalgic glow, reminiscent of a historic superhighway. "[Electronic Superhighway
-emoji: 🌉  
+emoji: 🌉
 tags:
-  - 🌊 rivers  
-  - 🎨 art  
-  - 🌐 technology  
+  - 🌊 rivers
+  - 🎨 art
+  - 🌐 technology
 haiku: |
-    Bright river's glow shines,  
-    A highway of the old world,  
-    Merging art and path.  
-coordinates: [38.6270,-90.1994]
+  Bright river's glow shines,  
+  A highway of the old world,  
+  Merging art and path.
+coordinates: [38.6270, -90.1994]
 ---
 
 I like how the Mississippi River seems to glow extra-brightly, a nod perhaps to a superhighway of a different era

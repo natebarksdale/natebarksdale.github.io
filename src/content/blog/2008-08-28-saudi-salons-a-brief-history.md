@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2008-08-28
-title: Saudi salons: a brief history
+modDatetime: 2025-03-07T22:15:31Z
+title: Saudi salons - a brief history
 slug: saudi-salons-a-brief-history
 featured: false
 draft: false
-description: Eman Al Nafjan explores the intriguing evolution of Saudi Arabian hair salons from tailor shops, highlighting cultural needs and changes over the decades. 
-emoji: ✂️  
+description: Eman Al Nafjan explores the intriguing evolution of Saudi Arabian hair salons from tailor shops, highlighting cultural needs and changes over the decades.
+emoji: ✂️
 tags:
-  - ✂️ salons  
-  - 👗 tailors  
-  - 🌍 culture  
+  - ✂️ salons
+  - 👗 tailors
+  - 🌍 culture
 haiku: |
-    From fabric to style,  
-    Women's hands weave beauty's thread,  
-    Tradition transformed.  
-coordinates: [24.7136,46.6753]
+  From fabric to style,  
+  Women's hands weave beauty's thread,  
+  Tradition transformed.
+coordinates: [24.7136, 46.6753]
 ---
 
 Here's a fascinating explanation of how various cultural needs and strictures shaped the development of Saudi Arabian hair salons—which are descended from (and still named for) tailor's shops
