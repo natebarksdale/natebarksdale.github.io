@@ -5,18 +5,74 @@ import Footer from "@components/Footer.astro";
 import Layout from "@layouts/Layout.astro";
 import Breadcrumbs from "@components/Breadcrumbs.astro";
 import Tag from "@components/Tag.astro";
+import TagsMap from "@components/TagsMap";
 import getUniqueTags from "@utils/getUniqueTags";
 import { SITE } from "@config";
 
 const posts = await getCollection("blog");
+const tags = getUniqueTags(posts);
 
-let tags = getUniqueTags(posts);
+// Generate GeoJSON data for each tag
+const tagGeoJsonMap: Record<string, { geojson: any; count: number }> = {};
+
+// Prepare map data for each tag
+for (const { tag, tagName } of tags) {
+  // Get posts with this tag that have coordinates
+  const taggedPosts = posts.filter(
+    post => post.data.tags?.includes(tagName) && post.data.coordinates
+  );
+
+  // Create GeoJSON features for these posts
+  const features = taggedPosts.map(post => ({
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]], // [longitude, latitude]
+    },
+    properties: {
+      title: post.data.title,
+      slug: post.slug,
+    },
+  }));
+
+  // Store data for this tag
+  tagGeoJsonMap[tagName] = {
+    geojson: {
+      type: "FeatureCollection",
+      features,
+    },
+    count: features.length,
+  };
+}
+
+// Get Mapbox token
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
+
+// Check if we have any posts with geo coordinates
+const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
+  data => data.count > 0
+);
 ---
 
 <Layout title={`Tags | ${SITE.title}`}>
   <Header activeNav="tags" />
   <Breadcrumbs />
   <main id="main-content">
+    {
+      hasGeotaggedPosts && (
+        <div class="my-6">
+          <TagsMap
+            client:load
+            allTagsGeoJson={tagGeoJsonMap}
+            mapboxToken={mapboxToken}
+          />
+          <p class="text-xs text-center mt-1 text-gray-500">
+            Hover over tags to see related locations
+          </p>
+        </div>
+      )
+    }
+
     <ul class="mt-8">
       {
         tags.map(({ tag, tagName }) => (
@@ -27,6 +83,28 @@ let tags = getUniqueTags(posts);
   </main>
   <Footer />
 </Layout>
+
+<script>
+  // Add interaction between the tag elements and the map
+  import initTagMapInteractions from "../components/TagsMapInteraction";
+
+  // Initialize the interaction between tag elements and the map
+  document.addEventListener("DOMContentLoaded", () => {
+    // Set up event listener on the map controls element
+    const mapControls = document.getElementById("tagsmap-controls");
+    if (mapControls) {
+      mapControls.addEventListener("setActiveTag", (e: any) => {
+        // This is how we communicate with the React component from outside
+        if (window.tagsMapSetActiveTag) {
+          window.tagsMapSetActiveTag(e.detail.tagName);
+        }
+      });
+    }
+
+    // Initialize hover interactions for tags
+    initTagMapInteractions();
+  });
+</script>
 
 <style>
   #main-content {

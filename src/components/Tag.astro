@@ -29,6 +29,7 @@ const { emoji, text } = splitEmojiTag(tagName);
     href={`/tags/${tag}/`}
     transition:name={tag}
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
+    data-tag-name={tagName ?? tag}
   >
     {emoji && <span class="emoji">{emoji}</span>}
     <span class="tag-text">{text}</span>
