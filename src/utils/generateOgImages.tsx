@@ -3,24 +3,25 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
-// Use Inter font which is bundled with Satori and more reliable
+
+// Use a completely reliable approach - load Inter from its official source
 const fetchFonts = async () => {
   try {
-    // Using WOFF directly from the Inter website - more reliable than Google Fonts
+    // Using static URLs from the Inter website - these are very reliable
     const regularFont = await fetch(
-      "./public/fonts/Faune-Text_Italic.ttf"
+      "https://rsms.me/inter/font-files/Inter-Regular.woff?v=3.19"
     ).then(res => res.arrayBuffer());
 
     const boldFont = await fetch(
-      "./public/fonts/Faune-Display_Bold_Italic.ttf"
+      "https://rsms.me/inter/font-files/Inter-Bold.woff?v=3.19"
     ).then(res => res.arrayBuffer());
 
-    console.log("Successfully loaded web fonts");
+    console.log("Successfully loaded Inter fonts");
     return { regularFont, boldFont };
   } catch (error) {
-    console.error("Error loading web fonts:", error);
+    console.error("Error loading fonts:", error);
 
-    // Empty buffers as last resort
+    // Fallback to system fonts
     return {
       regularFont: new ArrayBuffer(0),
       boldFont: new ArrayBuffer(0),
@@ -36,13 +37,13 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Faune",
+      name: "Inter",
       data: regularFont,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Faune",
+      name: "Inter",
       data: boldFont,
       weight: 700,
       style: "normal",
