@@ -100,7 +100,7 @@ p:not(:last-child)::after {
   /* Add this to your existing global styles */
   
 .fancy-underline {
-  background: linear-gradient(0deg, var(--color-accent-50) 0%, var(--color-accent-50) 100%);
+  background: linear-gradient(0deg, rgba(var(--color-accent), 0.3) 0%, rgba(var(--color-accent), 0.3) 100%);
   background-position: 0 85%;
   background-repeat: no-repeat;
   background-size: 100% 0.4em;
@@ -109,6 +109,8 @@ p:not(:last-child)::after {
     -0.1em 0 var(--color-fill),
     0 0.1em var(--color-fill),
     0 -0.1em var(--color-fill);
+  color: rgb(var(--color-accent));
+  text-decoration: none;
 }
 
   
