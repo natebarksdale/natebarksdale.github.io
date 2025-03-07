@@ -56,30 +56,60 @@ const emojiTagMap: Record<string, { emoji: string; text: string }> = {
 };
 
 // Get the tag info - either from our map or construct a default
-const tagInfo =
-  tag in emojiTagMap ? emojiTagMap[tag] : { emoji: null, text: tagName };
+// For server-side rendering, we'll pass the full tag name to the H1 element
+// The emoji processing will be done by client-side JavaScript after page load
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
   <Header activeNav="tags" />
   <Main>
-    <h1 class="text-2xl font-serif sm:text-3xl mt-1 mb-2" transition:name={tag}>
-      {
-        tagInfo.emoji ? (
-          <>
-            <span
-              class="emoji float-left"
-              style="margin-left: -1.75em; margin-right: -0.5em; color: rgba(0,0,0,0.2); font-size: 1.5em;"
-            >
-              {tagInfo.emoji}
-            </span>
-            {tagInfo.text}
-          </>
-        ) : (
-          tagName
-        )
-      }
+    <h1
+      class="text-2xl font-serif sm:text-3xl mt-1 mb-2"
+      transition:name={tag}
+      id="tag-title"
+    >
+      {tagName}
     </h1>
+
+    <script>
+      // Process emoji in tag title after the page loads
+      document.addEventListener("DOMContentLoaded", function () {
+        const processTagHeading = () => {
+          const titleElement = document.getElementById("tag-title");
+          if (!titleElement) return;
+
+          const titleText = titleElement.textContent || "";
+
+          // Regex to detect emoji at the start of the string
+          const emojiRegex = /^(\p{Emoji}+)/u;
+          const match = titleText.match(emojiRegex);
+
+          if (match && match[1]) {
+            const emoji = match[1];
+            const text = titleText.slice(emoji.length).trim();
+
+            // Clear current content
+            titleElement.innerHTML = "";
+
+            // Add the emoji in a styled span
+            const emojiSpan = document.createElement("span");
+            emojiSpan.className = "emoji";
+            emojiSpan.textContent = emoji;
+            emojiSpan.style.cssText =
+              "float: left; margin-left: -1.75em; margin-right: -0.5em; color: rgba(0,0,0,0.2); font-size: 1.5em;";
+
+            // Add the remaining text
+            titleElement.appendChild(emojiSpan);
+            titleElement.appendChild(document.createTextNode(text));
+
+            console.log("Processed tag title emoji:", emoji, "and text:", text);
+          }
+        };
+
+        // Give the page a moment to fully render
+        setTimeout(processTagHeading, 0);
+      });
+    </script>
 
     {/* Show the map only if we have posts with coordinates */}
     {
