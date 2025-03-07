@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2010-03-24
+modDatetime: 2025-03-07T22:31:50Z
 title: Portfolio | Eventide Funds
 slug: portfolio-eventide-funds
 featured: false
 draft: false
-description: "I'm excited to share my latest design work for Eventide Funds, an innovative company that aligns investment strategies with values."
+description: I'm excited to share my latest design work for Eventide Funds, an innovative company that aligns investment strategies with values.
 emoji: 📈
 tags:
   - 💰 Funds

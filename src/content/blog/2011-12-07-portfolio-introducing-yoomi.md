@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2011-12-07
+modDatetime: 2025-03-07T22:31:50Z
 title: Portfolio | Introducing yoomi
 slug: portfolio-introducing-yoomi
 featured: false
 draft: false
-description: "Excited to share my design projects for yoomi, especially their innovative self-warming baby bottle making waves in the US market."
+description: Excited to share my design projects for yoomi, especially their innovative self-warming baby bottle making waves in the US market.
 emoji: 🍼
 tags:
   - 🛒 Retailers

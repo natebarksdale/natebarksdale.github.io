@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-13
-modDatetime: 2014-03-13
+modDatetime: 2025-03-07T22:31:50Z
 title: Articles | American topics for History.com
 slug: articles-american-topics-for-historycom
 featured: false
 draft: false
-description: "My American coverage for History.com encompasses a fascinating array of significant events and influential figures."
+description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:
   - 🇺🇸 American History
