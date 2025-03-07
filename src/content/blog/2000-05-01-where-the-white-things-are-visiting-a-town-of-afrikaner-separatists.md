@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2000-05-01
-modDatetime: 2000-05-01
-title: Where the White things are: Visiting a town of Afrikaner separatists
+modDatetime: 2025-03-07T22:09:46Z
+title: Where the White things are - Visiting a town of Afrikaner separatists
 slug: where-the-white-things-are-visiting-a-town-of-afrikaner-separatists
 featured: false
 draft: false
-description: A reflective exploration of Orania, a town that embodies the legacy of apartheid ideologies while striving to carve out an Afrikaner identity in contemporary South Africa.  
-emoji: 🏞️  
+description: A reflective exploration of Orania, a town that embodies the legacy of apartheid ideologies while striving to carve out an Afrikaner identity in contemporary South Africa.
+emoji: 🏞️
 tags:
-  - 🏡 Towns  
-  - 🥛 Dairies  
-  - 🎖️ Statues  
+  - 🏡 Towns
+  - 🥛 Dairies
+  - 🎖️ Statues
 haiku: |
-    Land of the weary,  
-    Dreams of a past they cherish,  
-    Shadows of the past.  
-coordinates: [-30.1996,24.7855]
+  Land of the weary,  
+  Dreams of a past they cherish,  
+  Shadows of the past.
+coordinates: [-30.1996, 24.7855]
 ---
 
 ![](https://www.natebarksdale.com/wp-content/uploads/2000/05/ZA41.jpg)
