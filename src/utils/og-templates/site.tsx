@@ -63,8 +63,23 @@ export default () => {
               textAlign: "center",
             }}
           >
-            <p style={{ fontSize: 72, fontWeight: "bold" }}>{SITE.title}</p>
-            <p style={{ fontSize: 28 }}>{SITE.desc}</p>
+            <p
+              style={{
+                fontSize: 72,
+                fontWeight: 700,
+                fontFamily: "Libre Baskerville, serif",
+              }}
+            >
+              {SITE.title}
+            </p>
+            <p
+              style={{
+                fontSize: 28,
+                fontFamily: "Libre Baskerville, serif",
+              }}
+            >
+              {SITE.desc}
+            </p>
           </div>
 
           <div
@@ -76,7 +91,13 @@ export default () => {
               fontSize: 28,
             }}
           >
-            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+            <span
+              style={{
+                overflow: "hidden",
+                fontWeight: 700,
+                fontFamily: "Libre Baskerville, serif",
+              }}
+            >
               {new URL(SITE.website).hostname}
             </span>
           </div>

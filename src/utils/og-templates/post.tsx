@@ -107,9 +107,9 @@ export default (
           {/* Title */}
           <p
             style={{
-              fontFamily: "DovesType, serif",
+              fontFamily: "Libre Baskerville, serif",
               fontSize: 72,
-              fontWeight: "normal",
+              fontWeight: 700,
               maxHeight: "84%",
               overflow: "hidden",
               marginBottom: "1rem",
@@ -141,8 +141,8 @@ export default (
               <span
                 style={{
                   overflow: "hidden",
-                  fontFamily: "Faune, serif",
-                  fontWeight: "bold",
+                  fontFamily: "Libre Baskerville, serif",
+                  fontWeight: 700,
                 }}
               >
                 {post.data.author}
@@ -152,8 +152,8 @@ export default (
             <span
               style={{
                 overflow: "hidden",
-                fontFamily: "Faune, serif",
-                fontWeight: "bold",
+                fontFamily: "Libre Baskerville, serif",
+                fontWeight: 700,
               }}
             >
               {SITE.title}

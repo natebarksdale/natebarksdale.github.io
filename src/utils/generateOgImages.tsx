@@ -3,37 +3,34 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
-import fs from "node:fs/promises";
-import path from "node:path";
 
 const fetchFonts = async () => {
-  // DovesType Text Font - Load from local file system
-  const dovesTypeWoff2Path = path.resolve(
-    "./public/fonts/DovesType-Text.woff2"
-  );
-  const fauneDisplayBlackPath = path.resolve(
-    "./public/fonts/Faune-Display_Black.woff"
-  );
+  // Instead of local WOFF/WOFF2 files, use TTF files from Google Fonts or other CDNs
+  // These are specifically supported by Satori
 
-  // Read the font file contents
-  const dovesTypeFont = await fs.readFile(dovesTypeWoff2Path);
-  const fauneDisplayBlack = await fs.readFile(fauneDisplayBlackPath);
+  // Serif font (instead of DovesType, which has compatibility issues)
+  const serifFontRegular = await fetch(
+    "https://fonts.cdnfonts.com/s/18783/LibreBaskerville-Regular.woff"
+  ).then(res => res.arrayBuffer());
 
-  // We'll still need a fallback font for non-English characters
-  // Regular Font
-  const fontFileRegular = await fetch(
+  // Bold font for headers
+  const serifFontBold = await fetch(
+    "https://fonts.cdnfonts.com/s/18783/LibreBaskerville-Bold.woff"
+  ).then(res => res.arrayBuffer());
+
+  // Monospace font (for coordinate display)
+  const monoFont = await fetch(
     "https://www.1001fonts.com/download/font/ibm-plex-mono.regular.ttf"
-  );
-  const fontRegular: ArrayBuffer = await fontFileRegular.arrayBuffer();
+  ).then(res => res.arrayBuffer());
 
   return {
-    dovesTypeFont,
-    fauneDisplayBlack,
-    fontRegular,
+    serifFontRegular,
+    serifFontBold,
+    monoFont,
   };
 };
 
-const { dovesTypeFont, fauneDisplayBlack, fontRegular } = await fetchFonts();
+const { serifFontRegular, serifFontBold, monoFont } = await fetchFonts();
 
 const options: SatoriOptions = {
   width: 1200,
@@ -41,20 +38,20 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "DovesType",
-      data: dovesTypeFont,
+      name: "Libre Baskerville",
+      data: serifFontRegular,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Faune",
-      data: fauneDisplayBlack,
-      weight: 900,
+      name: "Libre Baskerville",
+      data: serifFontBold,
+      weight: 700,
       style: "normal",
     },
     {
       name: "IBM Plex Mono",
-      data: fontRegular,
+      data: monoFont,
       weight: 400,
       style: "normal",
     },
