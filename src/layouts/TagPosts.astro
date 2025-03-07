@@ -8,6 +8,7 @@ import Footer from "@components/Footer.astro";
 import Card from "@components/Card";
 import TagMap from "@components/TagMap";
 import Pagination from "@components/Pagination.astro";
+import EmojiHeading from "@components/EmojiHeading.astro";
 import { SITE } from "@config";
 
 export interface Props {
@@ -63,34 +64,13 @@ const emojiTagMap: Record<string, { emoji: string; text: string }> = {
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
   <Header activeNav="tags" />
   <Main>
-    {
-      // Check if the tag name appears in our emoji map
-      emojiTagMap[tag.toLowerCase()] ? (
-        <h1
-          class="text-2xl font-serif sm:text-3xl mt-1 mb-2"
-          transition:name={tag}
-          id="tag-title"
-        >
-          <span
-            class="emoji"
-            style="float: left; margin-left: -1.75em; margin-right: 0.25em; color: rgba(0,0,0,0.25); font-size: 1.5em;"
-          >
-            {emojiTagMap[tag.toLowerCase()].emoji}
-          </span>
-          {emojiTagMap[tag.toLowerCase()].text}
-        </h1>
-      ) : (
-        <h1
-          class="text-2xl font-serif sm:text-3xl mt-1 mb-2"
-          transition:name={tag}
-          id="tag-title"
-        >
-          {tagName}
-        </h1>
-      )
-    }
-
-    <!-- Added server-side emoji rendering for known tags -->
+    <EmojiHeading
+      text={tagName}
+      level={1}
+      class="text-2xl font-serif sm:text-3xl mt-1 mb-2"
+      id="tag-title"
+      transition={tag}
+    />
 
     {/* Show the map only if we have posts with coordinates */}
     {

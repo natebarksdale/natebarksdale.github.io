@@ -7,15 +7,23 @@ export interface Props {
 function splitEmojiTag(tagName) {
   if (!tagName || typeof tagName !== "string") return { emoji: "", text: "" };
 
-  const emojiRegex = /(\p{Extended_Pictographic}+)/u;
-  const match = tagName.match(emojiRegex);
+  // Try multiple regex patterns for better emoji detection
+  const patterns = [
+    /^(\p{Emoji}+)/u,
+    /^(\p{Extended_Pictographic}+)/u,
+    /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
+  ];
 
-  if (match) {
-    return {
-      emoji: match[0],
-      text: tagName.slice(match[0].length).trim(),
-    };
+  for (const pattern of patterns) {
+    const match = tagName.match(pattern);
+    if (match && match[1]) {
+      return {
+        emoji: match[1],
+        text: tagName.slice(match[1].length).trim(),
+      };
+    }
   }
+
   return { emoji: "", text: tagName };
 }
 
