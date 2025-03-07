@@ -1,72 +1,192 @@
-// Global Emoji Processor
+// Global Emoji Processor - Enhanced Debug Version
 // This script handles proper styling and rendering of emoji characters in headings and other elements
-document.addEventListener("DOMContentLoaded", function () {
-  // Process all heading elements that might contain emojis
-  function processEmojis() {
-    // First, let's handle specific tag page titles
-    const tagTitleElement = document.getElementById("tag-title");
-    if (tagTitleElement) {
-      processTagHeading(tagTitleElement);
+(function () {
+  // Create a debug logger that can be toggled
+  const DEBUG = true;
+  const log = (...args) => {
+    if (DEBUG) console.log("[EmojiProcessor]", ...args);
+  };
+
+  // Different emoji detection methods
+  const DETECTION_METHODS = {
+    // Unicode property escapes for emoji
+    unicodeProperty: /^(\p{Emoji}+)/u,
+    // Extended pictographic (more comprehensive)
+    extendedPictographic: /^(\p{Extended_Pictographic}+)/u,
+    // Specific emoji ranges
+    specificRanges: /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
+    // Fallback with common emojis
+    fallback: /^([🏺🌍📚🧠💭🔬🎓✍️📜🕰️📖]+)/,
+  };
+
+  function detectEmoji(text) {
+    log("Trying to detect emoji in:", text);
+
+    // Try each detection method
+    for (const [methodName, regex] of Object.entries(DETECTION_METHODS)) {
+      const match = text.match(regex);
+      if (match && match[1]) {
+        log(`Emoji detected using ${methodName}:`, match[1]);
+        return {
+          emoji: match[1],
+          text: text.slice(match[1].length).trim(),
+        };
+      }
     }
 
-    // Process all heading elements with emojis
-    const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
-    headings.forEach(heading => {
-      const text = heading.textContent || "";
-      // Regex to detect emoji at the start of the string
-      const emojiRegex = /^(\p{Emoji}+)/u;
-      const match = text.match(emojiRegex);
+    log("No emoji detected");
+    return null;
+  }
 
-      if (match && match[1]) {
-        wrapEmoji(heading, match[1], text.slice(match[1].length).trim());
+  function processElement(element) {
+    if (!element) {
+      log("No element provided to process");
+      return;
+    }
+
+    // Log the element for debugging
+    log(
+      "Processing element:",
+      element.tagName,
+      element.id ? `#${element.id}` : "",
+      element.textContent
+    );
+
+    // Get the content
+    const content = element.textContent || "";
+    // Skip if empty content
+    if (!content.trim()) {
+      log("Empty content, skipping");
+      return;
+    }
+
+    // Try to detect emoji
+    const result = detectEmoji(content);
+    if (!result) {
+      log("No emoji found in element content");
+      return;
+    }
+
+    // Log the detected emoji
+    log(`Found emoji: "${result.emoji}" followed by text: "${result.text}"`);
+
+    try {
+      // Store original attributes
+      const attribs = {};
+      Array.from(element.attributes).forEach(attr => {
+        attribs[attr.name] = attr.value;
+      });
+
+      // Create a new element to replace the old one to avoid transition scope issues
+      const newElement = document.createElement(element.tagName);
+
+      // Copy all attributes
+      Object.entries(attribs).forEach(([name, value]) => {
+        newElement.setAttribute(name, value);
+      });
+
+      // Create emoji span
+      const emojiSpan = document.createElement("span");
+      emojiSpan.className = "emoji";
+      emojiSpan.textContent = result.emoji;
+      log("Created emoji span with class 'emoji'");
+
+      // Apply styling directly to ensure it takes effect
+      emojiSpan.style.cssText = `
+        float: left;
+        margin-left: -1.75em; 
+        margin-right: 0.25em;
+        color: rgba(0,0,0,0.25);
+        font-size: 1.5em;
+        font-family: 'Noto Emoji', sans-serif;
+      `;
+
+      // Add the emoji span and remaining text
+      newElement.appendChild(emojiSpan);
+      newElement.appendChild(document.createTextNode(result.text));
+
+      // Replace the original element
+      if (element.parentNode) {
+        element.parentNode.replaceChild(newElement, element);
+        log("Successfully replaced element with emoji-wrapped version");
+      } else {
+        log("Element has no parent, cannot replace");
       }
+    } catch (error) {
+      log("Error during emoji processing:", error);
+    }
+  }
+
+  function processAllEmojis() {
+    log("Starting emoji processing");
+
+    // Process tag title specifically (high priority)
+    const tagTitle = document.getElementById("tag-title");
+    if (tagTitle) {
+      log("Found #tag-title element, processing with high priority");
+      processElement(tagTitle);
+    } else {
+      log("No #tag-title element found");
+    }
+
+    // Process all headings
+    const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+    log(`Found ${headings.length} heading elements to process`);
+
+    headings.forEach(heading => {
+      // Skip if it's the tag title (already processed)
+      if (heading.id === "tag-title") return;
+      processElement(heading);
     });
 
-    console.log("Global emoji processing complete");
+    log("Emoji processing complete");
   }
 
-  // Process a specific tag heading
-  function processTagHeading(element) {
-    if (!element) return;
-
-    const titleText = element.textContent || "";
-    const emojiRegex = /^(\p{Emoji}+)/u;
-    const match = titleText.match(emojiRegex);
-
-    if (match && match[1]) {
-      const emoji = match[1];
-      const text = titleText.slice(emoji.length).trim();
-      wrapEmoji(element, emoji, text);
-      console.log("Processed tag title emoji:", emoji, "and text:", text);
-    }
+  // Process on initial load
+  function init() {
+    log("Initializing emoji processor");
+    setTimeout(processAllEmojis, 300); // Increased delay for better reliability
   }
 
-  // Helper function to wrap emoji in a styled span
-  function wrapEmoji(element, emoji, text) {
-    // Clear current content
-    element.innerHTML = "";
-
-    // Add the emoji in a styled span
-    const emojiSpan = document.createElement("span");
-    emojiSpan.className = "emoji";
-    emojiSpan.textContent = emoji;
-
-    // Apply the styling only if it's an h1-h6 element
-    if (/^h[1-6]$/i.test(element.tagName)) {
-      emojiSpan.style.cssText =
-        "float: left; margin-left: -1.75em; margin-right: -0.5em; color: rgba(0,0,0,0.2); font-size: 1.5em;";
-    }
-
-    // Add the emoji and remaining text
-    element.appendChild(emojiSpan);
-    element.appendChild(document.createTextNode(text));
+  // Register events
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+    log("Registered DOMContentLoaded handler");
+  } else {
+    log("Document already loaded, initializing immediately");
+    init();
   }
 
-  // Run the processor after a slight delay to ensure the DOM is fully ready
-  setTimeout(processEmojis, 100);
-
-  // Also run the processor after ViewTransitions navigate
+  // Handle Astro view transitions
   document.addEventListener("astro:after-swap", function () {
-    setTimeout(processEmojis, 100);
+    log("View transition detected (astro:after-swap)");
+    setTimeout(processAllEmojis, 300);
   });
-});
+
+  // Also try on window load as a fallback
+  window.addEventListener("load", function () {
+    log("Window load event triggered");
+    setTimeout(processAllEmojis, 300);
+  });
+
+  // Expose the processor to the global scope for debugging
+  window.emojiProcessor = {
+    process: processAllEmojis,
+    debug: function () {
+      return {
+        tagTitle:
+          document.getElementById("tag-title")?.textContent || "Not found",
+        headings: Array.from(
+          document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+        ).map(el => ({
+          tagName: el.tagName,
+          id: el.id,
+          content: el.textContent,
+          hasEmoji: detectEmoji(el.textContent || "") !== null,
+        })),
+      };
+    },
+  };
+
+  log("Emoji processor setup complete");
+})();
