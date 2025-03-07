@@ -1,7 +1,13 @@
 import { SITE } from "@config";
 import type { CollectionEntry } from "astro:content";
 
-export default (post: CollectionEntry<"blog">) => {
+export default (
+  post: CollectionEntry<"blog">,
+  mapBackground: string | null = null
+) => {
+  // Define map-specific styling if a map background is provided
+  const useMapBackground = !!mapBackground;
+
   return (
     <div
       style={{
@@ -11,8 +17,47 @@ export default (post: CollectionEntry<"blog">) => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
+        position: "relative",
       }}
     >
+      {/* Map background when coordinates are available */}
+      {useMapBackground && (
+        <div
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%",
+            zIndex: 0,
+          }}
+        >
+          <img
+            src={mapBackground}
+            alt="Map background"
+            style={{
+              width: "100%",
+              height: "100%",
+              objectFit: "cover",
+              filter: "grayscale(80%) contrast(120%) brightness(80%)",
+              mixBlendMode: "multiply",
+            }}
+          />
+          <div
+            style={{
+              position: "absolute",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "100%",
+              background: "rgba(250, 245, 240, 0.75)",
+              mixBlendMode: "overlay",
+            }}
+          />
+        </div>
+      )}
+
+      {/* Shadow layer */}
       <div
         style={{
           position: "absolute",
@@ -27,19 +72,26 @@ export default (post: CollectionEntry<"blog">) => {
           margin: "2.5rem",
           width: "88%",
           height: "80%",
+          zIndex: 1,
         }}
       />
 
+      {/* Main content container */}
       <div
         style={{
           border: "4px solid #000",
-          background: "#fefbfb",
+          background: useMapBackground
+            ? "rgba(250, 245, 240, 0.85)"
+            : "#fefbfb",
           borderRadius: "4px",
           display: "flex",
           justifyContent: "center",
           margin: "2rem",
           width: "88%",
           height: "80%",
+          position: "relative",
+          zIndex: 2,
+          backdropFilter: useMapBackground ? "blur(8px)" : "none",
         }}
       >
         <div
@@ -52,16 +104,22 @@ export default (post: CollectionEntry<"blog">) => {
             height: "90%",
           }}
         >
+          {/* Title */}
           <p
             style={{
+              fontFamily: "DovesType, serif",
               fontSize: 72,
-              fontWeight: "bold",
+              fontWeight: "normal",
               maxHeight: "84%",
               overflow: "hidden",
+              marginBottom: "1rem",
+              color: "#111",
             }}
           >
             {post.data.title}
           </p>
+
+          {/* Footer with author and site title */}
           <div
             style={{
               display: "flex",
@@ -80,15 +138,47 @@ export default (post: CollectionEntry<"blog">) => {
               >
                 "
               </span>
-              <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+              <span
+                style={{
+                  overflow: "hidden",
+                  fontFamily: "Faune, serif",
+                  fontWeight: "bold",
+                }}
+              >
                 {post.data.author}
               </span>
             </span>
 
-            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+            <span
+              style={{
+                overflow: "hidden",
+                fontFamily: "Faune, serif",
+                fontWeight: "bold",
+              }}
+            >
               {SITE.title}
             </span>
           </div>
+
+          {/* Show coordinates badge if available */}
+          {post.data.coordinates && (
+            <div
+              style={{
+                position: "absolute",
+                top: "10px",
+                right: "10px",
+                background: "rgba(0,0,0,0.7)",
+                color: "white",
+                padding: "4px 8px",
+                borderRadius: "4px",
+                fontSize: "14px",
+                fontFamily: "IBM Plex Mono, monospace",
+              }}
+            >
+              {post.data.coordinates[0].toFixed(3)}°,{" "}
+              {post.data.coordinates[1].toFixed(3)}°
+            </div>
+          )}
         </div>
       </div>
     </div>
