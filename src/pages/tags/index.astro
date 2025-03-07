@@ -15,8 +15,8 @@ let tags = getUniqueTags(posts);
 
 <Layout title={`Tags | ${SITE.title}`}>
   <Header activeNav="tags" />
-  <div class="mx-auto w-full max-w-3xl px-4 pb-4">
-    <Breadcrumbs />
+  <Breadcrumbs />
+  <main id="main-content">
     <ul class="mt-8">
       {
         tags.map(({ tag, tagName }) => (
@@ -24,6 +24,12 @@ let tags = getUniqueTags(posts);
         ))
       }
     </ul>
-  </div>
+  </main>
   <Footer />
 </Layout>
+
+<style>
+  #main-content {
+    @apply mx-auto w-full max-w-3xl px-4 pb-4;
+  }
+</style>

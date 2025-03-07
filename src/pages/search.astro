@@ -23,11 +23,17 @@ const searchList = sortedPosts.map(({ data, slug }) => ({
 
 <Layout title={`Search | ${SITE.title}`}>
   <Header activeNav="search" />
-  <div class="mx-auto w-full max-w-3xl px-4 pb-4">
-    <Breadcrumbs />
+  <Breadcrumbs />
+  <main id="main-content">
     <div class="mt-8">
       <SearchBar client:load searchList={searchList} />
     </div>
-  </div>
+  </main>
   <Footer />
 </Layout>
+
+<style>
+  #main-content {
+    @apply mx-auto w-full max-w-3xl px-4 pb-4;
+  }
+</style>
