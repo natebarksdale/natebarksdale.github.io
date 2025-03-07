@@ -134,8 +134,8 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Bluesky",
-    href: "https://bsky.app/profile/natebarksdale.xyz",
-    linkTitle: `${SITE.title} on Bluesky`,
+    href: "https://bsky.app/profile/nblinks.bsky.social",
+    linkTitle: `nblinks.bsky.social on Bluesky`,
     active: true,
   },
 ];

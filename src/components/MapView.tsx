@@ -327,7 +327,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
               16,
               18, // Increased from 12
             ],
-            "circle-color": "#de1d8d",
+            "circle-color": "#e60000",
             "circle-stroke-width": [
               "interpolate",
               ["linear"],
