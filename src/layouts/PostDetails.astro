@@ -8,6 +8,7 @@ import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
+import wrapEmojis from "@utils/wrapEmojis";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
 import PostNavigation from "@components/RandomPostNavigation";
@@ -33,7 +34,83 @@ const {
   tags,
 } = post.data;
 
+// Process content to wrap emojis in spans for custom styling
 const { Content } = await post.render();
+
+// Create a transform function to process rendered HTML
+const processContentWithEmojiSpans = async () => {
+  // We need to add a client directive to process the content after rendering
+  return `<div id="emoji-processed-content" class="emoji-content"></div>
+  <script>
+    // A function to process emojis in HTML content
+    function wrapEmojisInHTML(container) {
+      // Walk through all text nodes
+      const treeWalker = document.createTreeWalker(
+        container,
+        NodeFilter.SHOW_TEXT,
+        null,
+        false
+      );
+      
+      const textNodes = [];
+      let currentNode;
+      
+      // Collect all text nodes
+      while ((currentNode = treeWalker.nextNode())) {
+        textNodes.push(currentNode);
+      }
+      
+      // Simpler emoji regex that works in browser JavaScript
+      const emojiRegex = /(\p{Emoji})/gu;
+      
+      // Process each text node
+      textNodes.forEach(textNode => {
+        const text = textNode.nodeValue;
+        const emojiMatches = [...text.matchAll(emojiRegex)];
+        
+        if (emojiMatches.length > 0) {
+          const fragment = document.createDocumentFragment();
+          let lastIndex = 0;
+          
+          emojiMatches.forEach(match => {
+            // Add text before emoji
+            if (match.index > lastIndex) {
+              fragment.appendChild(document.createTextNode(text.substring(lastIndex, match.index)));
+            }
+            
+            // Create wrapped emoji
+            const emojiSpan = document.createElement('span');
+            emojiSpan.className = 'emoji';
+            emojiSpan.textContent = match[0];
+            fragment.appendChild(emojiSpan);
+            
+            lastIndex = match.index + match[0].length;
+          });
+          
+          // Add any remaining text
+          if (lastIndex < text.length) {
+            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+          }
+          
+          // Replace original text node with our processed fragment
+          textNode.parentNode.replaceChild(fragment, textNode);
+        }
+      });
+    }
+
+    // Wait for content to load then process
+    document.addEventListener('DOMContentLoaded', function() {
+      // Copy the rendered content into our target
+      const content = document.querySelector('#article .astro-slot');
+      const target = document.querySelector('#emoji-processed-content');
+      if (content && target) {
+        target.innerHTML = content.innerHTML;
+        content.style.display = 'none';
+        wrapEmojisInHTML(target);
+      }
+    });
+  </script>`;
+};
 
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 const ogUrl = new URL(
@@ -107,6 +184,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
       class="prose mx-auto mt-8 text-xl max-w-3xl"
     >
       <Content />
+      <Fragment set:html={await processContentWithEmojiSpans()} />
     </article>
 
     <ul class="my-8">

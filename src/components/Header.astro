@@ -156,6 +156,12 @@ const navItems = [
     nav ul li a {
       @apply w-full;
     }
+    nav ul li:nth-last-child(1) {
+      @apply flex justify-center;
+    }
+    nav ul li:nth-last-child(1) a {
+      @apply mx-auto flex justify-center;
+    }
   }
   nav a.active {
     @apply fancy-underline;

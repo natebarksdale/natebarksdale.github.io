@@ -38,43 +38,39 @@ const MapIllustration = ({
     return colors[Math.floor(Math.random() * colors.length)];
   };
 
-  // Generate irregular quadrilateral clip paths
+  // Generate more rectangular clip paths with slight variations
   const generateClipPath = (index, total) => {
+    // Reduced randomness for more rectangular shapes
     const edgeEmphasis = index % 4;
-    const overlap = 15 + Math.random() * 10;
+    const overlap = 8 + Math.random() * 5; // Reduced overlap
+    const variation = 5; // Reduced variation for more rectangular shapes
 
     let topLeft, topRight, bottomRight, bottomLeft;
 
     switch (edgeEmphasis) {
-      case 0: // Top
-        topLeft = { x: 5 + Math.random() * 10, y: -overlap };
-        topRight = {
-          x: 90 - Math.random() * 10,
-          y: -overlap + Math.random() * 5,
-        };
-        bottomRight = { x: 95 - Math.random() * 10, y: 90 + Math.random() * 5 };
-        bottomLeft = { x: 5 + Math.random() * 10, y: 90 + Math.random() * 5 };
+      case 0: // Top - slightly irregular rectangle
+        topLeft = { x: 0, y: -overlap };
+        topRight = { x: 100, y: -overlap + Math.random() * variation };
+        bottomRight = { x: 100 - Math.random() * variation, y: 100 };
+        bottomLeft = { x: Math.random() * variation, y: 100 };
         break;
-      case 1: // Right
-        topLeft = { x: 10 + Math.random() * 10, y: 5 + Math.random() * 10 };
-        topRight = { x: 100 + overlap, y: 5 + Math.random() * 10 };
-        bottomRight = { x: 100 + overlap, y: 90 - Math.random() * 10 };
-        bottomLeft = { x: 10 + Math.random() * 10, y: 95 - Math.random() * 10 };
+      case 1: // Right - slightly irregular rectangle
+        topLeft = { x: 0, y: 0 };
+        topRight = { x: 100 + overlap, y: 0 };
+        bottomRight = { x: 100 + overlap, y: 100 };
+        bottomLeft = { x: 0, y: 100 - Math.random() * variation };
         break;
-      case 2: // Bottom
-        topLeft = { x: 5 + Math.random() * 10, y: 10 + Math.random() * 10 };
-        topRight = { x: 95 - Math.random() * 10, y: 5 + Math.random() * 10 };
-        bottomRight = { x: 90 - Math.random() * 10, y: 100 + overlap };
-        bottomLeft = { x: 10 + Math.random() * 10, y: 100 + overlap };
+      case 2: // Bottom - slightly irregular rectangle
+        topLeft = { x: Math.random() * variation, y: 0 };
+        topRight = { x: 100 - Math.random() * variation, y: 0 };
+        bottomRight = { x: 100, y: 100 + overlap };
+        bottomLeft = { x: 0, y: 100 + overlap };
         break;
-      case 3: // Left
-        topLeft = { x: -overlap, y: 5 + Math.random() * 10 };
-        topRight = { x: 90 - Math.random() * 10, y: 10 + Math.random() * 10 };
-        bottomRight = {
-          x: 95 - Math.random() * 10,
-          y: 90 - Math.random() * 10,
-        };
-        bottomLeft = { x: -overlap, y: 90 - Math.random() * 10 };
+      case 3: // Left - slightly irregular rectangle
+        topLeft = { x: -overlap, y: Math.random() * variation };
+        topRight = { x: 100, y: 0 };
+        bottomRight = { x: 100, y: 100 };
+        bottomLeft = { x: -overlap, y: 100 - Math.random() * variation };
         break;
     }
 
@@ -155,13 +151,13 @@ const MapIllustration = ({
         animate={{ opacity: 1 }}
         transition={{ duration: 1.2 }}
       >
-        <div className="absolute inset-0 bg-[#f5e6d3] opacity-90"></div>
+        <div className="absolute inset-0 bg-[#f5e6d3] opacity-75"></div>
         <motion.img
           src={mapUrl}
           alt="Map"
-          className="w-full h-full object-cover filter grayscale contrast-110 opacity-60 mix-blend-multiply"
+          className="w-full h-full object-cover filter grayscale contrast-110 opacity-80 mix-blend-multiply"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.6 }}
+          animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}
         />
       </motion.div>

@@ -20,14 +20,19 @@ const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
 
 // Improved function to split emoji from tag name
 function splitEmojiTag(tag: string) {
-  const emojiRegex = /(\p{Emoji})/gu; // Regex to match emojis
+  // This regex matches any emoji sequence at the start of the string
+  const emojiRegex =
+    /^(\p{Emoji_Presentation}|\p{Emoji}\uFE0F|\p{Emoji_Modifier_Base}\p{Emoji_Modifier}?)+/gu;
+
   const match = tag.match(emojiRegex);
-  if (match) {
+
+  if (match && match[0]) {
     const emoji = match[0];
     const text = tag.replace(emoji, "").trim();
-    return `<span class="emoji">${emoji}</span> ${text}`; // Wrap emoji in span
+    return { emoji, text };
   }
-  return tag; // Return original tag if no emoji found
+
+  return { emoji: null, text: tag }; // Return original tag if no emoji found
 }
 
 const { emoji, text } = splitEmojiTag(tagName);
@@ -35,8 +40,8 @@ const { emoji, text } = splitEmojiTag(tagName);
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
   <Header activeNav="tags" />
-  <Main pageTitle={[`${tagName}`]} titleTransition={tag}>
-    <h1 slot="title" transition:name={tag}>
+  <Main>
+    <h1 class="text-2xl font-serif sm:text-3xl mt-1 mb-2" transition:name={tag}>
       {emoji && <span class="emoji">{emoji}</span>}
       {text}
     </h1>
