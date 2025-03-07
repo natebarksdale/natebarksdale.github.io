@@ -18,32 +18,61 @@ export interface Props {
 
 const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
 
-// Improved function to split emoji from tag name
+// Manual emoji extraction function - more reliable for specific use case
 function splitEmojiTag(tag: string) {
-  // This regex matches any emoji sequence at the start of the string
-  const emojiRegex =
-    /^(\p{Emoji_Presentation}|\p{Emoji}\uFE0F|\p{Emoji_Modifier_Base}\p{Emoji_Modifier}?)+/gu;
+  console.log("Processing tag:", tag);
 
-  const match = tag.match(emojiRegex);
+  // Simple function to check if a character is likely an emoji
+  // This works for most common emojis which are in a specific Unicode range
+  const isEmoji = (char: string) => {
+    const cp = char.codePointAt(0);
+    return cp !== undefined && cp >= 0x1f000;
+  };
 
-  if (match && match[0]) {
-    const emoji = match[0];
-    const text = tag.replace(emoji, "").trim();
+  // If the tag starts with an emoji character
+  if (tag.length > 0 && isEmoji(tag[0])) {
+    // Get just the first character (the emoji)
+    const emoji = tag[0];
+
+    // Remove the emoji from the beginning of the tag
+    const text = tag.slice(1).trim();
+
+    console.log("Extracted emoji:", emoji, "and text:", text);
     return { emoji, text };
   }
 
-  return { emoji: null, text: tag }; // Return original tag if no emoji found
+  console.log("No emoji found in tag");
+  return { emoji: null, text: tag };
 }
 
+// Extract emoji if present
 const { emoji, text } = splitEmojiTag(tagName);
+
+// Log for debugging
+console.log(`Tag "${tagName}" parsed as emoji: "${emoji}" and text: "${text}"`);
+console.log("First character code point:", tagName.codePointAt(0));
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
   <Header activeNav="tags" />
   <Main>
     <h1 class="text-2xl font-serif sm:text-3xl mt-1 mb-2" transition:name={tag}>
-      {emoji && <span class="emoji">{emoji}</span>}
-      {text}
+      {/* Force emoji rendering with server-side check */}
+      {
+        tagName.codePointAt(0) && tagName.codePointAt(0)! >= 0x1f000 ? (
+          <>
+            <span
+              class="emoji float-left"
+              style="margin-left: -1.75em; margin-right: -0.5em; color: rgba(0,0,0,0.2); font-size: 1.5em;"
+            >
+              {tagName.charAt(0)}
+            </span>
+            {tagName.slice(1).trim()}
+          </>
+        ) : (
+          tagName
+        )
+      }
     </h1>
     <ul>
       {
