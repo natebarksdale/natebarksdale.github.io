@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-29
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-07T22:29:41Z
 title: Dancers Among Us, by Jordan Matter
 slug: dancers-among-us-by-jordan-matter
 featured: false
 draft: false
-description: "Dancers Among Us" is a vibrant NYC dance photography project capturing the artistry of members from the Paul Taylor and Martha Graham Dance Companies. 
-emoji: 💃  
+description: A vibrant NYC dance photography project capturing the artistry of members from the Paul Taylor and Martha Graham Dance Companies.
+emoji: 💃
 tags:
-  - 💃 Dancers  
-  - 🗽 NYC  
-  - 📷 Photography  
+  - 💃 Dancers
+  - 🗽 NYC
+  - 📷 Photography
 haiku: |
-    Grace in city streets,  
-    Art flows through the bustling life,  
-    Dance unites us all.  
-coordinates: [40.7128,-74.0060]
+  Grace in city streets,  
+  Art flows through the bustling life,  
+  Dance unites us all.
+coordinates: [40.7128, -74.0060]
 ---
 
 Artist's description: "Dancers Among Us is a collection of NYC dance photographs featuring members of the Paul Taylor and Martha Graham Dance Companies. This is an ongoing project that began in the spring of 2009. There were no trampolines or other devices used for these images." The entire series is lots of fun, but I love the interplay of artistic exchange—gifts offered, gifts received—in this one. [![photo](http://culture-making.com/media/dance_couple_bw.jpg)](http://www.jordanmatter.com/photography/dance-photography/dancers-among-us.php#dance_couple_bw.jpg)
