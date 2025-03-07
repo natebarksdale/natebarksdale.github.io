@@ -8,11 +8,11 @@ const fetchFonts = async () => {
   try {
     // Using WOFF directly from the Inter website - more reliable than Google Fonts
     const regularFont = await fetch(
-      "https://rsms.me/inter/font-files/Inter-Regular.woff?v=3.19"
+      "./public/fonts/Faune-Text_Italic.ttf"
     ).then(res => res.arrayBuffer());
 
     const boldFont = await fetch(
-      "https://rsms.me/inter/font-files/Inter-Bold.woff?v=3.19"
+      "./public/fonts/Faune-Display_Bold_Italic.ttf"
     ).then(res => res.arrayBuffer());
 
     console.log("Successfully loaded web fonts");
@@ -36,13 +36,13 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Inter",
+      name: "Faune",
       data: regularFont,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Inter",
+      name: "Faune",
       data: boldFont,
       weight: 700,
       style: "normal",
