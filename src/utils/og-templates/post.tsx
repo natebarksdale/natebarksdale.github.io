@@ -110,7 +110,7 @@ export default (
             <div style={{ flexGrow: 1, display: "flex", alignItems: "center" }}>
               <p
                 style={{
-                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontFamily: "Inter, sans-serif",
                   fontSize: 72,
                   fontWeight: 700,
                   color: "#111",
@@ -137,7 +137,7 @@ export default (
                 <span
                   style={{
                     overflow: "hidden",
-                    fontFamily: "Source Sans Pro, sans-serif",
+                    fontFamily: "Inter, sans-serif",
                     fontWeight: 700,
                     marginLeft: "0.5em",
                   }}
@@ -149,7 +149,7 @@ export default (
               <span
                 style={{
                   overflow: "hidden",
-                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontFamily: "Inter, sans-serif",
                   fontWeight: 700,
                 }}
               >
@@ -170,7 +170,7 @@ export default (
                 padding: "4px 8px",
                 borderRadius: "4px",
                 fontSize: "14px",
-                fontFamily: "Roboto Mono, monospace",
+                fontFamily: "Inter, monospace",
                 display: "flex",
               }}
             >

@@ -78,7 +78,7 @@ export default () => {
             >
               <p
                 style={{
-                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontFamily: "Inter, sans-serif",
                   fontSize: 72,
                   fontWeight: 700,
                   margin: 0,
@@ -89,7 +89,7 @@ export default () => {
               </p>
               <p
                 style={{
-                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontFamily: "Inter, sans-serif",
                   fontSize: 28,
                   marginTop: "1rem",
                 }}
@@ -112,7 +112,7 @@ export default () => {
                 style={{
                   overflow: "hidden",
                   fontWeight: 700,
-                  fontFamily: "Source Sans Pro, sans-serif",
+                  fontFamily: "Inter, sans-serif",
                 }}
               >
                 {new URL(SITE.website).hostname}

@@ -3,23 +3,20 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
+// Use Inter font which is bundled with Satori and more reliable
 const fetchFonts = async () => {
   try {
-    // Load reliable Google Fonts with direct TTF links
+    // Using WOFF directly from the Inter website - more reliable than Google Fonts
     const regularFont = await fetch(
-      "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.ttf"
+      "https://rsms.me/inter/font-files/Inter-Regular.woff?v=3.19"
     ).then(res => res.arrayBuffer());
 
     const boldFont = await fetch(
-      "https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.ttf"
-    ).then(res => res.arrayBuffer());
-
-    const monoFont = await fetch(
-      "https://fonts.gstatic.com/s/robotomono/v22/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4.ttf"
+      "https://rsms.me/inter/font-files/Inter-Bold.woff?v=3.19"
     ).then(res => res.arrayBuffer());
 
     console.log("Successfully loaded web fonts");
-    return { regularFont, boldFont, monoFont };
+    return { regularFont, boldFont };
   } catch (error) {
     console.error("Error loading web fonts:", error);
 
@@ -27,12 +24,11 @@ const fetchFonts = async () => {
     return {
       regularFont: new ArrayBuffer(0),
       boldFont: new ArrayBuffer(0),
-      monoFont: new ArrayBuffer(0),
     };
   }
 };
 
-const { regularFont, boldFont, monoFont } = await fetchFonts();
+const { regularFont, boldFont } = await fetchFonts();
 
 const options: SatoriOptions = {
   width: 1200,
@@ -40,21 +36,15 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Source Sans Pro",
+      name: "Inter",
       data: regularFont,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Source Sans Pro",
+      name: "Inter",
       data: boldFont,
       weight: 700,
-      style: "normal",
-    },
-    {
-      name: "Roboto Mono",
-      data: monoFont,
-      weight: 400,
       style: "normal",
     },
   ],
