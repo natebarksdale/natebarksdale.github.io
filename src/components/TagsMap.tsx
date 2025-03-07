@@ -52,6 +52,32 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
           maxWidth: "250px",
         });
 
+        // Set up direct event listeners for tag hovering
+        const setupTagHoverListeners = () => {
+          // Find all tag elements
+          const tagElements = document.querySelectorAll("[data-tag-name]");
+          console.log("Found tag elements:", tagElements.length);
+
+          // Add event listeners to each tag
+          tagElements.forEach(tag => {
+            // On mouse enter, highlight this tag's points
+            tag.addEventListener("mouseenter", () => {
+              const tagName = tag.getAttribute("data-tag-name");
+              console.log("Tag mouseenter:", tagName);
+              setActiveTag(tagName);
+            });
+
+            // On mouse leave, reset to default view
+            tag.addEventListener("mouseleave", () => {
+              console.log("Tag mouseleave");
+              setActiveTag(null);
+            });
+          });
+        };
+
+        // Wait for tags to be available in the DOM
+        setTimeout(setupTagHoverListeners, 100);
+
         // Add all tags as separate layers
         Object.keys(allTagsGeoJson).forEach(tagName => {
           // Skip tags with no geotagged posts
@@ -63,7 +89,7 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
             data: allTagsGeoJson[tagName].geojson,
           });
 
-          // Add the points layer with initially zero opacity
+          // Add the points layer with initial visibility
           map.current!.addLayer({
             id: `tag-${tagName}-circles`,
             type: "circle",
@@ -73,8 +99,8 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
               "circle-color": "#de1d8d",
               "circle-stroke-width": 1.5,
               "circle-stroke-color": "#ffffff",
-              "circle-opacity": 0, // Initially hidden
-              "circle-stroke-opacity": 0, // Initially hidden
+              "circle-opacity": 0.7, // Initially visible
+              "circle-stroke-opacity": 0.7, // Initially visible
             },
           });
 
@@ -161,7 +187,9 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
   useEffect(() => {
     if (!map.current || !isMapLoaded) return;
 
-    // Hide all tag layers first
+    console.log(`Active tag changed to: ${activeTag}`);
+
+    // Apply different styles based on whether a tag is active
     Object.keys(allTagsGeoJson).forEach(tagName => {
       // Skip tags with no geotagged posts
       if (allTagsGeoJson[tagName].geojson.features.length === 0) return;
@@ -170,31 +198,40 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
 
       // If this layer exists in the map
       if (map.current!.getLayer(layerId)) {
-        // Set opacity based on whether this is the active tag
-        const opacity = activeTag === tagName ? 1 : 0;
-        map.current!.setPaintProperty(layerId, "circle-opacity", opacity);
-        map.current!.setPaintProperty(
-          layerId,
-          "circle-stroke-opacity",
-          opacity
-        );
+        if (activeTag) {
+          // If a tag is active, make its points very visible and others very dim
+          const isActive = activeTag === tagName;
+
+          // Dramatically different styling for active vs inactive
+          if (isActive) {
+            // Active tag gets full opacity and larger size
+            map.current!.setPaintProperty(layerId, "circle-radius", 8);
+            map.current!.setPaintProperty(layerId, "circle-color", "#e60073");
+            map.current!.setPaintProperty(layerId, "circle-opacity", 1);
+            map.current!.setPaintProperty(layerId, "circle-stroke-width", 2);
+            map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 1);
+          } else {
+            // Inactive tags get very low opacity
+            map.current!.setPaintProperty(layerId, "circle-radius", 5);
+            map.current!.setPaintProperty(layerId, "circle-color", "#de1d8d");
+            map.current!.setPaintProperty(layerId, "circle-opacity", 0.1);
+            map.current!.setPaintProperty(layerId, "circle-stroke-width", 1);
+            map.current!.setPaintProperty(
+              layerId,
+              "circle-stroke-opacity",
+              0.1
+            );
+          }
+        } else {
+          // If no tag is active, show all points equally
+          map.current!.setPaintProperty(layerId, "circle-radius", 5);
+          map.current!.setPaintProperty(layerId, "circle-color", "#de1d8d");
+          map.current!.setPaintProperty(layerId, "circle-opacity", 0.7);
+          map.current!.setPaintProperty(layerId, "circle-stroke-width", 1.5);
+          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.7);
+        }
       }
     });
-
-    // If no tag is active, show all points with reduced opacity
-    if (!activeTag) {
-      Object.keys(allTagsGeoJson).forEach(tagName => {
-        // Skip tags with no geotagged posts
-        if (allTagsGeoJson[tagName].geojson.features.length === 0) return;
-
-        const layerId = `tag-${tagName}-circles`;
-
-        if (map.current!.getLayer(layerId)) {
-          map.current!.setPaintProperty(layerId, "circle-opacity", 0.3);
-          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.3);
-        }
-      });
-    }
   }, [activeTag, isMapLoaded, allTagsGeoJson]);
 
   return (
