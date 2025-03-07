@@ -3,40 +3,57 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
+import fs from "node:fs/promises";
+import path from "node:path";
 
 const fetchFonts = async () => {
   try {
-    // Use Google Fonts direct TTF links that are definitely TTF format
-    const interRegular = await fetch(
-      "https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.ttf"
-    ).then(res => res.arrayBuffer());
+    // Load local TTF fonts - these should work reliably with Satori
+    const fauneRegularPath = path.resolve(
+      "./public/fonts/Faune-Text_Regular.ttf"
+    );
+    const fauneBoldPath = path.resolve("./public/fonts/Faune-Text_Bold.ttf");
+    const fauneMonoPath = path.resolve("./public/fonts/Faune-Text_Regular.ttf"); // Using regular as mono fallback
 
-    const interBold = await fetch(
-      "https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7.ttf"
-    ).then(res => res.arrayBuffer());
-
-    const robotoMono = await fetch(
-      "https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW4.ttf"
-    ).then(res => res.arrayBuffer());
+    // Read font files
+    const fauneRegular = await fs.readFile(fauneRegularPath);
+    const fauneBold = await fs.readFile(fauneBoldPath);
+    const fauneMono = await fs.readFile(fauneMonoPath);
 
     return {
-      serifFontRegular: interRegular,
-      serifFontBold: interBold,
-      monoFont: robotoMono,
+      fauneRegular,
+      fauneBold,
+      fauneMono,
     };
   } catch (error) {
-    console.error("Error loading fonts:", error);
+    console.error("Error loading local fonts:", error);
 
-    // Fallback to system fonts
-    return {
-      serifFontRegular: new ArrayBuffer(0),
-      serifFontBold: new ArrayBuffer(0),
-      monoFont: new ArrayBuffer(0),
-    };
+    // If local fonts fail, use a simple fallback
+    try {
+      // Try loading a reliable web font as fallback
+      const fallbackFont = await fetch(
+        "https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf"
+      ).then(res => res.arrayBuffer());
+
+      return {
+        fauneRegular: fallbackFont,
+        fauneBold: fallbackFont,
+        fauneMono: fallbackFont,
+      };
+    } catch (fallbackError) {
+      console.error("Fallback font failed too:", fallbackError);
+
+      // Empty buffers as last resort
+      return {
+        fauneRegular: new ArrayBuffer(0),
+        fauneBold: new ArrayBuffer(0),
+        fauneMono: new ArrayBuffer(0),
+      };
+    }
   }
 };
 
-const { serifFontRegular, serifFontBold, monoFont } = await fetchFonts();
+const { fauneRegular, fauneBold, fauneMono } = await fetchFonts();
 
 const options: SatoriOptions = {
   width: 1200,
@@ -44,20 +61,20 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "Inter",
-      data: serifFontRegular,
+      name: "Faune",
+      data: fauneRegular,
       weight: 400,
       style: "normal",
     },
     {
-      name: "Inter",
-      data: serifFontBold,
+      name: "Faune",
+      data: fauneBold,
       weight: 700,
       style: "normal",
     },
     {
-      name: "Roboto Mono",
-      data: monoFont,
+      name: "FauneMono",
+      data: fauneMono,
       weight: 400,
       style: "normal",
     },

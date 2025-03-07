@@ -67,7 +67,7 @@ export default () => {
               style={{
                 fontSize: 72,
                 fontWeight: 700,
-                fontFamily: "Libre Baskerville, serif",
+                fontFamily: "Faune, sans-serif",
               }}
             >
               {SITE.title}
@@ -75,7 +75,7 @@ export default () => {
             <p
               style={{
                 fontSize: 28,
-                fontFamily: "Libre Baskerville, serif",
+                fontFamily: "Faune, sans-serif",
               }}
             >
               {SITE.desc}
@@ -95,7 +95,7 @@ export default () => {
               style={{
                 overflow: "hidden",
                 fontWeight: 700,
-                fontFamily: "Libre Baskerville, serif",
+                fontFamily: "Faune, sans-serif",
               }}
             >
               {new URL(SITE.website).hostname}
