@@ -8,12 +8,16 @@ import path from "node:path";
 
 const fetchFonts = async () => {
   try {
-    // Load local TTF fonts - these should work reliably with Satori
+    // Load local TTF fonts - using the exact filenames you have available
     const fauneRegularPath = path.resolve(
-      "./public/fonts/Faune-Text_Regular.ttf"
+      "./public/fonts/Faune-Display_Thin.ttf"
     );
-    const fauneBoldPath = path.resolve("./public/fonts/Faune-Text_Bold.ttf");
-    const fauneMonoPath = path.resolve("./public/fonts/Faune-Text_Regular.ttf"); // Using regular as mono fallback
+    const fauneBoldPath = path.resolve(
+      "./public/fonts/Faune-Display_Black.ttf"
+    );
+    const fauneMonoPath = path.resolve(
+      "./public/fonts/Faune-Display_Bold_Italic.ttf"
+    );
 
     // Read font files
     const fauneRegular = await fs.readFile(fauneRegularPath);
