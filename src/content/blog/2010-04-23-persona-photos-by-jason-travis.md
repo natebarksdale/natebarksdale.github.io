@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-23
-modDatetime: 2010-04-23
+modDatetime: 2025-03-07T22:22:57Z
 title: Persona, photos by Jason Travis
 slug: persona-photos-by-jason-travis
 featured: false
@@ -25,4 +25,4 @@ TMN's link-description for this photo series nails it: "Pictures of what (extrem
 
 ---
 
-"Mariel Diptych," from [Persona](http://www.flickr.com/photos/jasontravis/sets/72157603258446753/), by Jason Travis, 2009–2010 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2010/April/16/) Originally published at [culture-making.com](http://www.culture-making.com)
+"Mariel Diptych," from [Persona](http://www.flickr.com/photos/jasontravis/sets/72157603258446753/), by Jason Travis, 2009–2010 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2010/April/16/)

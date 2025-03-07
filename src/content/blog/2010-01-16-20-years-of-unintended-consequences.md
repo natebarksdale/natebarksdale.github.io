@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2010-01-16
+modDatetime: 2025-03-07T22:22:57Z
 title: 20 years of unintended consequences
 slug: 20-years-of-unintended-consequences
 featured: false
@@ -21,4 +21,4 @@ coordinates: [34.0522, -118.2437]
 Bart: Dad, you were great!  
 Lisa: And you contributed to our culture!  
 Homer: [worried] Well, I didn't mean to.  
---The Simpsons, season 19, [episode 2](http://en.wikipedia.org/wiki/Homer_of_Seville) Originally published at [culture-making.com](http://www.culture-making.com)
+--The Simpsons, season 19, [episode 2](http://en.wikipedia.org/wiki/Homer_of_Seville)

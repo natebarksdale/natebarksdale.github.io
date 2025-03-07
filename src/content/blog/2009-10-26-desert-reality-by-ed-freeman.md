@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-26
-modDatetime: 2009-10-26
+modDatetime: 2025-03-07T22:22:56Z
 title: Desert Reality, by Ed Freeman
 slug: desert-reality-by-ed-freeman
 featured: false
@@ -23,4 +23,4 @@ I love LA-based photographer Ed Freeman's Desert Reality series, lovingly dead-o
 
 ---
 
-from "[Desert Reality](http://wecanshoottoo.blogspot.com/2009/10/feature-ed-freeman.html)," photos by by [Ed Freeman](http://www.edfreeman.com/#a=0&at=0&mi=1&pt=0π=1&s=0&p=-1), opening in New York on 10 December 2009 :: via [We can shoot too](http://wecanshoottoo.blogspot.com/2009/10/feature-ed-freeman.html) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Desert Reality](http://wecanshoottoo.blogspot.com/2009/10/feature-ed-freeman.html)," photos by by [Ed Freeman](http://www.edfreeman.com/#a=0&at=0&mi=1&pt=0π=1&s=0&p=-1), opening in New York on 10 December 2009 :: via [We can shoot too](http://wecanshoottoo.blogspot.com/2009/10/feature-ed-freeman.html)

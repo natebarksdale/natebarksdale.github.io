@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-02
-modDatetime: 2009-06-02
+modDatetime: 2025-03-07T22:22:56Z
 title: Can’t say no to that!
 slug: cant-say-no-to-that
 featured: false
@@ -22,4 +22,4 @@ The actor/prankster/surrealist performance artists of Improv Everywhere threw a 
 
 ---
 
-[Surprise Wedding Reception at Improv Everywhere](http://improveverywhere.com/2009/06/02/surprise-wedding-reception/), 2 June 2009 :: via [Kottke.org](http://www.kottke.org/09/06/surprise-wedding-reception) Originally published at [culture-making.com](http://www.culture-making.com)
+[Surprise Wedding Reception at Improv Everywhere](http://improveverywhere.com/2009/06/02/surprise-wedding-reception/), 2 June 2009 :: via [Kottke.org](http://www.kottke.org/09/06/surprise-wedding-reception)

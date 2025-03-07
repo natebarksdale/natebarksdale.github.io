@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-18
-modDatetime: 2010-05-18
+modDatetime: 2025-03-07T22:22:57Z
 title: The bottom of the urban planning bag
 slug: the-bottom-of-the-urban-planning-bag
 featured: false
@@ -23,4 +23,4 @@ These maps compare the possible routes of a one-kilometer walk in two neighborho
 
 ---
 
-from "[The Unintended Consequences of Cul-de-sacs](http://hbr.org/2010/05/back-to-the-city/sb1)," by Ania Wieckowski, [_Harvard Business Review_](http://hbr.org/2010/05/back-to-the-city/sb1), May 2010 :: via [The Infrasructuralist](http://www.infrastructurist.com/2010/05/07/how-cul-de-sacs-are-killing-your-community/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Unintended Consequences of Cul-de-sacs](http://hbr.org/2010/05/back-to-the-city/sb1)," by Ania Wieckowski, [_Harvard Business Review_](http://hbr.org/2010/05/back-to-the-city/sb1), May 2010 :: via [The Infrasructuralist](http://www.infrastructurist.com/2010/05/07/how-cul-de-sacs-are-killing-your-community/)

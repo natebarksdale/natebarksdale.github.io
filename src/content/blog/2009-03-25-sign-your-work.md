@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-25
-modDatetime: 2009-03-25
+modDatetime: 2025-03-07T22:22:55Z
 title: Sign your work!
 slug: sign-your-work
 featured: false
@@ -25,4 +25,4 @@ A Gloucestershire, UK shopkeeper has found a partial solution to the tragedy of 
 
 ---
 
-from "[Store owner takes on litterbugs](http://news.bbc.co.uk/2/hi/uk_news/england/gloucestershire/7952397.stm)," [BBC News](http://news.bbc.co.uk/2/hi/uk_news/england/gloucestershire/7952397.stm), 19 March 2009 :: via [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2009/03/23/rubbish-with-your-name-on-it/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Store owner takes on litterbugs](http://news.bbc.co.uk/2/hi/uk_news/england/gloucestershire/7952397.stm)," [BBC News](http://news.bbc.co.uk/2/hi/uk_news/england/gloucestershire/7952397.stm), 19 March 2009 :: via [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2009/03/23/rubbish-with-your-name-on-it/)

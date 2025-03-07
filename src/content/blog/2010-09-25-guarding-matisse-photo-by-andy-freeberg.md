@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-25
-modDatetime: 2010-09-25
+modDatetime: 2025-03-07T22:22:58Z
 title: Guarding Matisse, photo by Andy Freeberg
 slug: guarding-matisse-photo-by-andy-freeberg
 featured: false
@@ -22,4 +22,4 @@ From a series of in situ portraits of the women who oversee Russian art museums�
 
 ---
 
-"[Matisse’s Still Life with Blue Tablecloth, State Hermitage Museum](http://www.themorningnews.org/archives/galleries/guardians_of_the_art_world/03gotaw.php)," by Andrew Freeberg, [The Morning News](http://www.themorningnews.org/archives/galleries/guardians_of_the_art_world/03gotaw.php), 4 January 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+"[Matisse’s Still Life with Blue Tablecloth, State Hermitage Museum](http://www.themorningnews.org/archives/galleries/guardians_of_the_art_world/03gotaw.php)," by Andrew Freeberg, [The Morning News](http://www.themorningnews.org/archives/galleries/guardians_of_the_art_world/03gotaw.php), 4 January 2010

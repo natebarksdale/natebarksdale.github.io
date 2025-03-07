@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-10
-modDatetime: 2009-08-10
+modDatetime: 2025-03-07T22:22:56Z
 title: Tools = possibilities
 slug: tools-possibilities
 featured: false
@@ -19,4 +19,4 @@ coordinates: [40.7128, -74.0060]
 ---
 
 Often a great idea begins with the possibilities suggested by the existence of a tool.  
---Kevin Kelly, on Garret Wade, purveyor of [unusual hand tools](http://www.kk.org/cooltools/archives/003864.php) Originally published at [culture-making.com](http://www.culture-making.com)
+--Kevin Kelly, on Garret Wade, purveyor of [unusual hand tools](http://www.kk.org/cooltools/archives/003864.php)

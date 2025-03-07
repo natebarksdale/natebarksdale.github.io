@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-19
-modDatetime: 2010-08-19
+modDatetime: 2025-03-07T22:22:58Z
 title: Cement bag graphics
 slug: cement-bag-graphics
 featured: false
@@ -23,4 +23,4 @@ Portland cement is one of the commonest, most pedestrian, and yet most potential
 
 ---
 
-from "[Cement Bag Graphics](http://allmyeyes.blogspot.com/2010/08/cement-bag-graphics.html)," by L. Eckstein, [ALL MY EYES](http://allmyeyes.blogspot.com/2010/08/cement-bag-graphics.html), 12 August 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Cement Bag Graphics](http://allmyeyes.blogspot.com/2010/08/cement-bag-graphics.html)," by L. Eckstein, [ALL MY EYES](http://allmyeyes.blogspot.com/2010/08/cement-bag-graphics.html), 12 August 2010

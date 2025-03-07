@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-07
-modDatetime: 2010-04-07
+modDatetime: 2025-03-07T22:22:57Z
 title: Church of the Immaculate Conception, Port-au-Prince, by Allison Shelley
 slug: church-of-the-immaculate-conception-port-au-prince-by-allison-shelley
 featured: false
@@ -23,4 +23,4 @@ From a beautiful and moving [series of post-earthquake photos](http://www.alliso
 
 ---
 
-"[Church of the Immaculate Conception, Port-au-Prince, Haiti](http://vervephoto.wordpress.com/2010/04/05/allison-shelley/)," by [Allison Shelley](http://www.allisonshelley.com/), 2010 :: via [The New Breed of Documentary Photographers](http://vervephoto.wordpress.com/2010/04/05/allison-shelley/) Originally published at [culture-making.com](http://www.culture-making.com)
+"[Church of the Immaculate Conception, Port-au-Prince, Haiti](http://vervephoto.wordpress.com/2010/04/05/allison-shelley/)," by [Allison Shelley](http://www.allisonshelley.com/), 2010 :: via [The New Breed of Documentary Photographers](http://vervephoto.wordpress.com/2010/04/05/allison-shelley/)

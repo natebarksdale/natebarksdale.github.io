@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-02
-modDatetime: 2009-04-02
+modDatetime: 2025-03-07T22:22:56Z
 title: Fridge logic
 slug: fridge-logic
 featured: false
@@ -28,4 +28,4 @@ From a collection of tv-writer jargon. The good bit: it's cool to learn the name
 
 ---
 
-from "[Writing: Jargon Preservation 4](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html)," by Rogers, [Kung Fu Monkey](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html), 28 April 2005 :: via [Schott's Vocab](http://schott.blogs.nytimes.com/2009/03/28/elsewhere-movie-jargon-preservation/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Writing: Jargon Preservation 4](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html)," by Rogers, [Kung Fu Monkey](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html), 28 April 2005 :: via [Schott's Vocab](http://schott.blogs.nytimes.com/2009/03/28/elsewhere-movie-jargon-preservation/)

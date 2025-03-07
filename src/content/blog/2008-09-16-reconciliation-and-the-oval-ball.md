@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2008-09-16
+modDatetime: 2025-03-07T22:22:55Z
 title: Reconciliation and the oval ball
 slug: reconciliation-and-the-oval-ball
 featured: false
@@ -25,4 +25,4 @@ One of my favorite Nelson Mandela moments was his brilliant conciliatory gesture
 
 ---
 
-from "[Nelson Mandela | Rugby's role in his rise](http://www.economist.com/books/displaystory.cfm?story_id=12202525)," [_The Economist_](http://www.economist.com/), 11 September 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Nelson Mandela | Rugby's role in his rise](http://www.economist.com/books/displaystory.cfm?story_id=12202525)," [_The Economist_](http://www.economist.com/), 11 September 2008

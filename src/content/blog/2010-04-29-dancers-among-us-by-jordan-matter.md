@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-29
-modDatetime: 2010-04-29
+modDatetime: 2025-03-07T22:22:57Z
 title: Dancers Among Us, by Jordan Matter
 slug: dancers-among-us-by-jordan-matter
 featured: false
@@ -23,4 +23,4 @@ Artist's description: "Dancers Among Us is a collection of NYC dance photographs
 
 ---
 
-"[Jamie Rae Walker and Annmaria Mazzini](http://www.jordanmatter.com/photography/dance-photography/dancers-among-us.php#dance_couple_bw.jpg)," photo by Jordan Matter, from the series [Dancers Among Us](http://www.jordanmatter.com/photography/dance-photography/dancers-among-us.php#dance_couple_bw.jpg), 2009–ongoing :: via [kottke.org](http://kottke.org/10/04/dancers-among-us) Originally published at [culture-making.com](http://www.culture-making.com)
+"[Jamie Rae Walker and Annmaria Mazzini](http://www.jordanmatter.com/photography/dance-photography/dancers-among-us.php#dance_couple_bw.jpg)," photo by Jordan Matter, from the series [Dancers Among Us](http://www.jordanmatter.com/photography/dance-photography/dancers-among-us.php#dance_couple_bw.jpg), 2009–ongoing :: via [kottke.org](http://kottke.org/10/04/dancers-among-us)

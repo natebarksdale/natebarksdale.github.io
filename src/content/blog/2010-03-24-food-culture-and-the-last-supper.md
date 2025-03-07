@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2010-03-24
+modDatetime: 2025-03-07T22:22:57Z
 title: Food culture and the Last Supper
 slug: food-culture-and-the-last-supper
 featured: false
@@ -25,4 +25,4 @@ I suppose this finding would fall into the "interesting but unsurprising" catego
 
 ---
 
-from "[Portion Sizes in 'Last Supper' Paintings Grew Over Time](http://www.livescience.com/culture/large-last-supper-100323.html)," by Andrea Thompson, [LiveScience](http://www.livescience.com/culture/large-last-supper-100323.html), 23 March 2010 :: via [kottke.org](http://kottke.org/10/03/supersizing-the-last-supper) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Portion Sizes in 'Last Supper' Paintings Grew Over Time](http://www.livescience.com/culture/large-last-supper-100323.html)," by Andrea Thompson, [LiveScience](http://www.livescience.com/culture/large-last-supper-100323.html), 23 March 2010 :: via [kottke.org](http://kottke.org/10/03/supersizing-the-last-supper)

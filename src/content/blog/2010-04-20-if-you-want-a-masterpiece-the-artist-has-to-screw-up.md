@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-20
-modDatetime: 2010-04-20
+modDatetime: 2025-03-07T22:22:57Z
 title: If you want a masterpiece, the artist has to screw up
 slug: if-you-want-a-masterpiece-the-artist-has-to-screw-up
 featured: false
@@ -25,4 +25,4 @@ One of the defining moments in the last twenty-five years of world soccer is the
 
 ---
 
-from "[Aesthetics and Justice](<http://www.runofplay.com/2010/04/20/aesthetics-and-justice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+runofplay+(The+Run+of+Play)&utm_content=Google+Reader>)," by Brian Phillips, [The Run of Play](<http://www.runofplay.com/2010/04/20/aesthetics-and-justice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+runofplay+(The+Run+of+Play)&utm_content=Google+Reader>), 20 April 2010 :: video via [YouTube](http://www.youtube.com/watch?v=TBXZx0Ky4gE) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Aesthetics and Justice](<http://www.runofplay.com/2010/04/20/aesthetics-and-justice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+runofplay+(The+Run+of+Play)&utm_content=Google+Reader>)," by Brian Phillips, [The Run of Play](<http://www.runofplay.com/2010/04/20/aesthetics-and-justice/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+runofplay+(The+Run+of+Play)&utm_content=Google+Reader>), 20 April 2010 :: video via [YouTube](http://www.youtube.com/watch?v=TBXZx0Ky4gE)

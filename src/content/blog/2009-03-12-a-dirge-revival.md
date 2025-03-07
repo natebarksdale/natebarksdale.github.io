@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-12
-modDatetime: 2009-03-12
+modDatetime: 2025-03-07T22:22:55Z
 title: A dirge revival
 slug: a-dirge-revival
 featured: false
@@ -26,4 +26,4 @@ The cultural fall and rise of the traditional funeral dirges performed in the Vo
 
 ---
 
-from "[I thought I had company (a Mawu dirge)](http://ideophone.org/a-mawu-dirge/)," by Mark Dingemanse, [The Ideophone](http://ideophone.org/a-mawu-dirge/), 17 February 2009 :: thanks Koranteng! Originally published at [culture-making.com](http://www.culture-making.com)
+from "[I thought I had company (a Mawu dirge)](http://ideophone.org/a-mawu-dirge/)," by Mark Dingemanse, [The Ideophone](http://ideophone.org/a-mawu-dirge/), 17 February 2009 :: thanks Koranteng!

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-14
-modDatetime: 2008-09-14
+modDatetime: 2025-03-07T22:22:54Z
 title: No. 8 Rue Franklin, Nantes, France
 slug: no-8-rue-franklin-nantes-france
 featured: false
@@ -23,4 +23,4 @@ Mixed emotions here: it's sad to see the beautiful panelled doors at No.8 deface
 
 ---
 
-Rue Franklin, Nantes, France, [Google Stret View](http://maps.google.com/?ie=UTF8&ll=47.224902,-1.56126&spn=0.021684,0.061369&t=h&z=15&layer=c&cbll=47.21402,-1.563198&panoid=iXJ6LY9CZWgogEFDE6IPJQ&cbp=2,55.80528558803718,,0,0.6383781493610609) Originally published at [culture-making.com](http://www.culture-making.com)
+Rue Franklin, Nantes, France, [Google Stret View](http://maps.google.com/?ie=UTF8&ll=47.224902,-1.56126&spn=0.021684,0.061369&t=h&z=15&layer=c&cbll=47.21402,-1.563198&panoid=iXJ6LY9CZWgogEFDE6IPJQ&cbp=2,55.80528558803718,,0,0.6383781493610609)

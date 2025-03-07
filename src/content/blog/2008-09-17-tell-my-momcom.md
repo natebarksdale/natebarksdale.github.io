@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2008-09-17
+modDatetime: 2025-03-07T22:22:55Z
 title: Tell-my-mom.com
 slug: tell-my-momcom
 featured: false
@@ -25,4 +25,4 @@ An interesting idea: applying fleet-management techniques to teenage drivers. I 
 
 ---
 
-from "[How's Your Teen's Driving? Would You Like to Know?](http://www.tell-my-mom.com/)," [www.tell-my-mom.com](http://www.tell-my-mom.com/) :: via [NYTimes.com Freakonomics blog](http://freakonomics.blogs.nytimes.com/2008/09/17/a-bumper-sticker-that-saves-lives/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[How's Your Teen's Driving? Would You Like to Know?](http://www.tell-my-mom.com/)," [www.tell-my-mom.com](http://www.tell-my-mom.com/) :: via [NYTimes.com Freakonomics blog](http://freakonomics.blogs.nytimes.com/2008/09/17/a-bumper-sticker-that-saves-lives/)

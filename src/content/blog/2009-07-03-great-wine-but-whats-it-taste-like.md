@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-03
-modDatetime: 2009-07-03
+modDatetime: 2025-03-07T22:22:56Z
 title: Great wine, but what’s it taste like?
 slug: great-wine-but-whats-it-taste-like
 featured: false
@@ -27,4 +27,4 @@ A great post by my friend Robin Goldstein about the power of word-choice when it
 
 ---
 
-from "[Do taste and smell adjectives signal value, or do they create it?](http://blindtaste.com/2009/07/02/do-taste-and-smell-adjectives-signal-valu/)," by Robin Goldstein, [Blind Taste](http://blindtaste.com/2009/07/02/do-taste-and-smell-adjectives-signal-valu/), 2 July 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Do taste and smell adjectives signal value, or do they create it?](http://blindtaste.com/2009/07/02/do-taste-and-smell-adjectives-signal-valu/)," by Robin Goldstein, [Blind Taste](http://blindtaste.com/2009/07/02/do-taste-and-smell-adjectives-signal-valu/), 2 July 2009

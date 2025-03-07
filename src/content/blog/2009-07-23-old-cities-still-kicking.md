@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-23
-modDatetime: 2009-07-23
+modDatetime: 2025-03-07T22:22:56Z
 title: Old cities, still kicking
 slug: old-cities-still-kicking
 featured: false
@@ -23,5 +23,3 @@ The linked post's writeup is a bit too breezy to withstand a lot of scrutiny, al
 ---
 
 > [The 10 oldest cities which are still inhabited](http://weburbanist.com/2009/07/09/senior-city-zens-the-10-oldest-still-inhabited-cities/). Includes a few you've probably heard of (Damascus, Jericho, Jerusalem) and a couple of surprises
-
-Originally published at [culture-making.com](http://www.culture-making.com)

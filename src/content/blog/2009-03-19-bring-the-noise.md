@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2009-03-19
+modDatetime: 2025-03-07T22:22:55Z
 title: Bring the noise
 slug: bring-the-noise
 featured: false
@@ -25,4 +25,4 @@ Will the crunchy sonic artifacts of the MP3 audio compression process become as 
 
 ---
 
-from "[The Sizzling Sound of Music](http://radar.oreilly.com/2009/03/the-sizzling-sound-of-music.html)," by Dale Dougherty, [O'Reilly Radar](http://radar.oreilly.com/2009/03/the-sizzling-sound-of-music.html), 1 March 2009 :: via [Daring Fireball](http://daringfireball.net/linked/2009/03/09/sizzle) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Sizzling Sound of Music](http://radar.oreilly.com/2009/03/the-sizzling-sound-of-music.html)," by Dale Dougherty, [O'Reilly Radar](http://radar.oreilly.com/2009/03/the-sizzling-sound-of-music.html), 1 March 2009 :: via [Daring Fireball](http://daringfireball.net/linked/2009/03/09/sizzle)

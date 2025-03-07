@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2008-09-24
+modDatetime: 2025-03-07T22:22:55Z
 title: Living waters (slightly) reinterpreted
 slug: living-waters-slightly-reinterpreted
 featured: false
@@ -25,4 +25,4 @@ An example of a deep cultural practice that seems to be—like many deep cultura
 
 ---
 
-from "[Take Me to the Mikveh](http://www.utne.com/2001-11-01/TakeMetotheMikveh.aspx)," by Andy Steiner, [_Utne Reader_](http://www.utne.com/2001-11-01/TakeMetotheMikveh.aspx), November/December 2001 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Take Me to the Mikveh](http://www.utne.com/2001-11-01/TakeMetotheMikveh.aspx)," by Andy Steiner, [_Utne Reader_](http://www.utne.com/2001-11-01/TakeMetotheMikveh.aspx), November/December 2001

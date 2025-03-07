@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-17
-modDatetime: 2025-03-07T22:03:45Z
+modDatetime: 2025-03-07T22:22:56Z
 title: Beautiful litany
 slug: beautiful-litany
 featured: false
@@ -30,4 +30,4 @@ Forgive me, open wounds, for pricking my finger.
 I apologize for my record of minuets to those who cry from the depths.
 
 I apologize to those who wait in railway stations for being asleep today at five a.m.  
---Wislawa Szymborska, trans. by Stanislaw Baranczak and Clare Cavanaugh, "[Under One Small Star](http://www.poemhunter.com/poem/under-one-small-star/)" (excerpt) Originally published at [culture-making.com](http://www.culture-making.com)
+--Wislawa Szymborska, trans. by Stanislaw Baranczak and Clare Cavanaugh, "[Under One Small Star](http://www.poemhunter.com/poem/under-one-small-star/)" (excerpt)

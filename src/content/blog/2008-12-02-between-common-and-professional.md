@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-02
-modDatetime: 2008-12-02
+modDatetime: 2025-03-07T22:22:55Z
 title: Between common and professional
 slug: between-common-and-professional
 featured: false
@@ -24,4 +24,4 @@ Here's one of my all-time favorite teachers, writing about the strong (and sligh
 
 ---
 
-from _[Common Landscape of America, 1580–1845](http://books.google.com/books?id=Y6BQgsKTBGoC&printsec=frontcover&dq=stilgoe&lr;=&ei=sJc1SfbuF5HGlQSYkOHACA&client=firefox-a#PPA4,M1)_ , by John R. Stilgoe (Yale University Press, 1983) Originally published at [culture-making.com](http://www.culture-making.com)
+from _[Common Landscape of America, 1580–1845](http://books.google.com/books?id=Y6BQgsKTBGoC&printsec=frontcover&dq=stilgoe&lr;=&ei=sJc1SfbuF5HGlQSYkOHACA&client=firefox-a#PPA4,M1)_ , by John R. Stilgoe (Yale University Press, 1983)

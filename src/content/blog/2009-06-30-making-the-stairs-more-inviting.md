@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-30
-modDatetime: 2009-06-30
+modDatetime: 2025-03-07T22:22:56Z
 title: Making the stairs more inviting
 slug: making-the-stairs-more-inviting
 featured: false
@@ -27,4 +27,4 @@ The only downside I see to this is if stairwell music winds up with as bad a rep
 
 ---
 
-from "[What would it take to get you to take the stairs more? How about music and a view?](http://nudges.wordpress.com/2009/06/23/what-would-it-take-to-get-you-to-take-the-stairs-more-often-how-about-music-and-a-view/)," [Nudge blog](http://nudges.wordpress.com/2009/06/23/what-would-it-take-to-get-you-to-take-the-stairs-more-often-how-about-music-and-a-view/), 23 June 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[What would it take to get you to take the stairs more? How about music and a view?](http://nudges.wordpress.com/2009/06/23/what-would-it-take-to-get-you-to-take-the-stairs-more-often-how-about-music-and-a-view/)," [Nudge blog](http://nudges.wordpress.com/2009/06/23/what-would-it-take-to-get-you-to-take-the-stairs-more-often-how-about-music-and-a-view/), 23 June 2009

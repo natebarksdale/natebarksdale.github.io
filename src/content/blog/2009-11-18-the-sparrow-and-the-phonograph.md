@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-18
-modDatetime: 2009-11-18
+modDatetime: 2025-03-07T22:22:56Z
 title: The sparrow and the phonograph
 slug: the-sparrow-and-the-phonograph
 featured: false
@@ -25,4 +25,4 @@ It was hard to decide which part of this article to excerpt: the hilarious bomba
 
 ---
 
-from "[The Menace of Mechanical Music](http://books.google.com/books?pg=PA278&id=4ps8AAAAYAAJ&output=text)," by John Philip Sousa, [_Appleton's Magazine_](http://books.google.com/books?pg=PA278&id=4ps8AAAAYAAJ&output=text), September 1906 :: via [Ars Technica](http://arstechnica.com/tech-policy/news/2009/10/100-years-of-big-content-fearing-technologyin-its-own-words.ars) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Menace of Mechanical Music](http://books.google.com/books?pg=PA278&id=4ps8AAAAYAAJ&output=text)," by John Philip Sousa, [_Appleton's Magazine_](http://books.google.com/books?pg=PA278&id=4ps8AAAAYAAJ&output=text), September 1906 :: via [Ars Technica](http://arstechnica.com/tech-policy/news/2009/10/100-years-of-big-content-fearing-technologyin-its-own-words.ars)

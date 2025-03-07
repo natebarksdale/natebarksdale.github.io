@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-21
-modDatetime: 2009-12-21
+modDatetime: 2025-03-07T22:22:57Z
 title: To Winter, by William Blake
 slug: to-winter-by-william-blake
 featured: false
@@ -36,5 +36,3 @@ I've always had a soft spot for this poem, one of the set Blake wrote for the fo
 >  Cries in vain. Poor little wretch, that deal'st  
 >  With storms!—till heaven smiles, and the monster  
 >  Is driv'n yelling to his caves beneath Mount Hecla
-
-Originally published at [culture-making.com](http://www.culture-making.com)

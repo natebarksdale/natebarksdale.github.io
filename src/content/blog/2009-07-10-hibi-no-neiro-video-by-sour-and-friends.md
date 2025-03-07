@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-10
-modDatetime: 2009-07-10
+modDatetime: 2025-03-07T22:22:56Z
 title: 日々の音色 (Hibi no neiro), video by SOUR and friends
 slug: hibi-no-neiro-video-by-sour-and-friends
 featured: false
@@ -24,4 +24,4 @@ Nothing says Friday like a bit of crowdsourced J-pop: "The cast were selected fr
 
 ---
 
-["日々の音色 (Hibi no neiro)"](http://www.youtube.com/watch?v=WfBlUQguvyw)," by [SOUR](http://sour-web.com/), 1 July 2009 :: thanks [@jonathanhliu](http://twitter.com/jonathanhliu) Originally published at [culture-making.com](http://www.culture-making.com)
+["日々の音色 (Hibi no neiro)"](http://www.youtube.com/watch?v=WfBlUQguvyw)," by [SOUR](http://sour-web.com/), 1 July 2009 :: thanks [@jonathanhliu](http://twitter.com/jonathanhliu)

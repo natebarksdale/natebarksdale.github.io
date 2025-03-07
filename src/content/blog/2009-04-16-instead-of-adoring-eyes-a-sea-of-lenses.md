@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-16
-modDatetime: 2009-04-16
+modDatetime: 2025-03-07T22:22:56Z
 title: Instead of adoring eyes, a sea of lenses
 slug: instead-of-adoring-eyes-a-sea-of-lenses
 featured: false
@@ -24,5 +24,3 @@ Technology mediates the high school musical. But, per the final example, the mot
 ---
 
 > Two schools I have taught at in the past couple of years ban camera use at their high school musical night. One of the reasons is because students look out to the audience to see if mum and dad are watching. If they see only a sea of lenses instead of adoring eyes they are met with technology rather than soul.We are obsessed with recording life from our point of view, even when it is only 30 cm from the next person's POV.The Mona Lisa is photographed by every visitor to the Lourve when we have ready access to pristine images of her taken in optimum lighting etc.We humans are strange creatures
-
-Originally published at [culture-making.com](http://www.culture-making.com)

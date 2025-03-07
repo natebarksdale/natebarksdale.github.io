@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2009-10-12
+modDatetime: 2025-03-07T22:22:56Z
 title: Present to our food
 slug: present-to-our-food
 featured: false
@@ -24,4 +24,4 @@ Michael Pollan asked readers to submit their favorite dietary rules and rules of
 
 ---
 
-from "[Michael Pollan's Favorite Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html)," illustrated and designed by Roger Kent and Zahra Sethna, [_The New York Times Magazine_](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html), 11 October 2009 :: via [kottke.org](http://kottke.org/09/10/michael-pollans-food-rules) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Michael Pollan's Favorite Food Rules](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html)," illustrated and designed by Roger Kent and Zahra Sethna, [_The New York Times Magazine_](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html), 11 October 2009 :: via [kottke.org](http://kottke.org/09/10/michael-pollans-food-rules)

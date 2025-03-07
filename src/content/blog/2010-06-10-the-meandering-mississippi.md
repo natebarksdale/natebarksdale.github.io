@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-10
-modDatetime: 2010-06-10
+modDatetime: 2025-03-07T22:22:57Z
 title: The Meandering Mississippi
 slug: the-meandering-mississippi
 featured: false
@@ -23,4 +23,4 @@ This bit of virtuoso cartography overlays the meanders and jumps taken by the [l
 
 ---
 
-"[Mississippi River Meander Belt: Cape Giradeau, MO–Donaldsonville, LA](http://pruned.blogspot.com/2005/06/geological-investigation-of-alluvial.html)," from _Geological Investigation of the Alluvial Valley of the Lower Mississippi River_ , by Harold N. Fisk, 1944 :: via [Pruned](http://pruned.blogspot.com/2005/06/geological-investigation-of-alluvial.html), Boing Boing Originally published at [culture-making.com](http://www.culture-making.com)
+"[Mississippi River Meander Belt: Cape Giradeau, MO–Donaldsonville, LA](http://pruned.blogspot.com/2005/06/geological-investigation-of-alluvial.html)," from _Geological Investigation of the Alluvial Valley of the Lower Mississippi River_ , by Harold N. Fisk, 1944 :: via [Pruned](http://pruned.blogspot.com/2005/06/geological-investigation-of-alluvial.html), Boing Boing

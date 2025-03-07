@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-06
-modDatetime: 2010-04-06
+modDatetime: 2025-03-07T22:22:57Z
 title: Unintentional Easter quotation of the day
 slug: unintentional-easter-quotation-of-the-day
 featured: false
@@ -19,4 +19,4 @@ coordinates: [37.7749, -122.4194]
 ---
 
 If you want a happy ending, that depends, of course, on where you stop your story.  
---last line of Orson Welles' unproduced screenplay _The Big Brass Ring_ Originally published at [culture-making.com](http://www.culture-making.com)
+--last line of Orson Welles' unproduced screenplay _The Big Brass Ring_

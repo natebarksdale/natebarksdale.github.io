@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2008-09-25
+modDatetime: 2025-03-07T22:22:55Z
 title: The colourful apartment buildings of Tirana, Albania
 slug: the-colourful-apartment-buildings-of-tirana-albania
 featured: false
@@ -22,4 +22,4 @@ From the Flickr caption: "Tirana's mayor, Edi Rama, is a former artist and he de
 
 ---
 
-"[The colourful apartment buildings of Tirana](http://www.flickr.com/photos/davduf/540539905/in/photostream/)," photo by Flickr user [daviduf](http://www.flickr.com/photos/davduf/540539905/in/photostream/), 21 May 2007 :: via [Buenos Aires Photographer](http://www.buenosairesphotographer.com/) Originally published at [culture-making.com](http://www.culture-making.com)
+"[The colourful apartment buildings of Tirana](http://www.flickr.com/photos/davduf/540539905/in/photostream/)," photo by Flickr user [daviduf](http://www.flickr.com/photos/davduf/540539905/in/photostream/), 21 May 2007 :: via [Buenos Aires Photographer](http://www.buenosairesphotographer.com/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-13
-modDatetime: 2009-11-13
+modDatetime: 2025-03-07T22:22:56Z
 title: The private languages of Lego
 slug: the-private-languages-of-lego
 featured: false
@@ -25,4 +25,4 @@ I recall having a strong sense of Lego nomenclature as well, though I'm hazy on 
 
 ---
 
-from "[A Common Nomenclature for Lego Families](http://www.themorningnews.org/archives/opinions/a_common_nomenclature_for_lego_families.php)," by Giles Turnbull, [The Morning News](http://www.themorningnews.org/archives/opinions/a_common_nomenclature_for_lego_families.php), 4 November 2009 :: via [languagehat.com](http://www.languagehat.com/archives/003679.php) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[A Common Nomenclature for Lego Families](http://www.themorningnews.org/archives/opinions/a_common_nomenclature_for_lego_families.php)," by Giles Turnbull, [The Morning News](http://www.themorningnews.org/archives/opinions/a_common_nomenclature_for_lego_families.php), 4 November 2009 :: via [languagehat.com](http://www.languagehat.com/archives/003679.php)

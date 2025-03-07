@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-16
-modDatetime: 2009-06-16
+modDatetime: 2025-03-07T22:22:56Z
 title: Making makes you care
 slug: making-makes-you-care
 featured: false
@@ -20,4 +20,4 @@ coordinates: [40.7128, -74.0060]
 ---
 
 I don’t think the workshops taught me too much about craft, but they did teach me about the importance of making things, not just reading things. You care about things that you make, and that makes it easier to care about things that other people make.  
---Louis Menand, _[The New Yorker](http://www.newyorker.com/arts/critics/atlarge/2009/06/08/090608crat_atlarge_menand?currentPage=all)_ , on university creative writing programs. Originally published at [culture-making.com](http://www.culture-making.com)
+--Louis Menand, _[The New Yorker](http://www.newyorker.com/arts/critics/atlarge/2009/06/08/090608crat_atlarge_menand?currentPage=all)_ , on university creative writing programs.

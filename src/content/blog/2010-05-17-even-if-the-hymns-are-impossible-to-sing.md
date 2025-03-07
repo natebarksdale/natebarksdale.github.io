@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-17
-modDatetime: 2010-05-17
+modDatetime: 2025-03-07T22:22:57Z
 title: Even if the hymns are impossible to sing
 slug: even-if-the-hymns-are-impossible-to-sing
 featured: false
@@ -25,4 +25,4 @@ This is from a magazine interview that came out in the publicity wake of David F
 
 ---
 
-from "[The Wasted Land](http://craigfehrman.com/2010/05/05/details-1996-profile-of-david-foster-wallace/)," by David Streitfeld, [_Details_](http://craigfehrman.com/2010/05/05/details-1996-profile-of-david-foster-wallace/), March 1996 :: via [Craig Fehrman](http://www.details.com/), [kottke](http://kottke.org/10/05/lost-dfw-profile) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Wasted Land](http://craigfehrman.com/2010/05/05/details-1996-profile-of-david-foster-wallace/)," by David Streitfeld, [_Details_](http://craigfehrman.com/2010/05/05/details-1996-profile-of-david-foster-wallace/), March 1996 :: via [Craig Fehrman](http://www.details.com/), [kottke](http://kottke.org/10/05/lost-dfw-profile)

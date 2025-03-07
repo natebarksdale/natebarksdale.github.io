@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-17
-modDatetime: 2009-10-17
+modDatetime: 2025-03-07T22:22:56Z
 title: The dude uniform
 slug: the-dude-uniform
 featured: false
@@ -26,4 +26,4 @@ A funny letter from Mumbai about observing everyday Indian fashion. There's a ni
 
 ---
 
-from "[The Expat’s New Clothes](http://www.themorningnews.org/archives/letters_from_mumbai/the_expats_new_clothes.php)," by Jill Wheeler, [The Morning News](http://www.themorningnews.org/archives/letters_from_mumbai/the_expats_new_clothes.php), 6 October 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Expat’s New Clothes](http://www.themorningnews.org/archives/letters_from_mumbai/the_expats_new_clothes.php)," by Jill Wheeler, [The Morning News](http://www.themorningnews.org/archives/letters_from_mumbai/the_expats_new_clothes.php), 6 October 2009

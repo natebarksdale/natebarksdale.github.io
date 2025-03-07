@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2008-12-15
+modDatetime: 2025-03-07T22:22:55Z
 title: Nabokov on the translator’s art
 slug: nabokov-on-the-translators-art
 featured: false
@@ -25,4 +25,4 @@ One of my favorite passages from Vladimir Nabokov's novel _[Bend Sinister](http:
 
 ---
 
-from [_Bend Sinister_](http://books.google.com/books?id=Oox94rdQIMgC&pg=PA25&lpg=PA25&dq;=), by Vladimir Nabokov, 1947 :: via [_The excitement of verbal adventure_](http://books.google.com/books?id=Oox94rdQIMgC&pg=PA25&lpg=PA25&dq;=) Originally published at [culture-making.com](http://www.culture-making.com)
+from [_Bend Sinister_](http://books.google.com/books?id=Oox94rdQIMgC&pg=PA25&lpg=PA25&dq;=), by Vladimir Nabokov, 1947 :: via [_The excitement of verbal adventure_](http://books.google.com/books?id=Oox94rdQIMgC&pg=PA25&lpg=PA25&dq;=)

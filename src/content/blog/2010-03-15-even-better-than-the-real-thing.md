@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-15
-modDatetime: 2010-03-15
+modDatetime: 2025-03-07T22:22:57Z
 title: Even better than the real thing
 slug: even-better-than-the-real-thing
 featured: false
@@ -25,4 +25,4 @@ Some lovely, [Walter Benjamin-infused](http://en.wikipedia.org/wiki/The_Work_of_
 
 ---
 
-from "[The Work of Art in the Age of Digital Pre-production](<http://quietbabylon.com/2010/the-work-of-art-in-the-age-of-digital-pre-production/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>)," by Tim Maly, [Quiet Babylon](<http://quietbabylon.com/2010/the-work-of-art-in-the-age-of-digital-pre-production/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>), 11 March 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The Work of Art in the Age of Digital Pre-production](<http://quietbabylon.com/2010/the-work-of-art-in-the-age-of-digital-pre-production/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>)," by Tim Maly, [Quiet Babylon](<http://quietbabylon.com/2010/the-work-of-art-in-the-age-of-digital-pre-production/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>), 11 March 2010

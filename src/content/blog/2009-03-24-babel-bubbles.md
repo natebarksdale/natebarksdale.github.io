@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-24
-modDatetime: 2009-03-24
+modDatetime: 2025-03-07T22:22:55Z
 title: Babel bubbles
 slug: babel-bubbles
 featured: false
@@ -22,4 +22,4 @@ A lovely (if hardly comprehensive) graph inspired by a question from Language Lo
 
 ---
 
-from "[The directed graph of stereotypical incomprehensibility](http://languagelog.ldc.upenn.edu/nll/?p=1024)," by Mark Liberman, [Language Log](http://languagelog.ldc.upenn.edu/nll/?p=1024), 15 January 2009 :: via [Strange Maps](http://strangemaps.wordpress.com/2009/02/26/362-greek-to-me-mapping-mutual-incomprehension/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The directed graph of stereotypical incomprehensibility](http://languagelog.ldc.upenn.edu/nll/?p=1024)," by Mark Liberman, [Language Log](http://languagelog.ldc.upenn.edu/nll/?p=1024), 15 January 2009 :: via [Strange Maps](http://strangemaps.wordpress.com/2009/02/26/362-greek-to-me-mapping-mutual-incomprehension/)

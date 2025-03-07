@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-19
-modDatetime: 2010-01-19
+modDatetime: 2025-03-07T22:22:57Z
 title: Hot dogs of Latin America
 slug: hot-dogs-of-latin-america
 featured: false
@@ -24,4 +24,4 @@ I love how even standardized American-cum-global cuisine can still go off in its
 
 ---
 
-from "[Hot dog variations](http://en.wikipedia.org/wiki/Hot_dog_variations#Other_locations_in_the_Americas)," Wikipedia :: via [Global Voices Online](http://globalvoicesonline.org/2009/02/15/guatemala-the-shuco-hot-dog/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Hot dog variations](http://en.wikipedia.org/wiki/Hot_dog_variations#Other_locations_in_the_Americas)," Wikipedia :: via [Global Voices Online](http://globalvoicesonline.org/2009/02/15/guatemala-the-shuco-hot-dog/)

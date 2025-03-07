@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-28
-modDatetime: 2009-08-28
+modDatetime: 2025-03-07T22:22:56Z
 title: Heart of palm
 slug: heart-of-palm
 featured: false
@@ -25,4 +25,4 @@ I love how this careful schematic cross-section of a palm stem calls to mind, of
 
 ---
 
-"[Eugeisona tristis (detail)](http://www.flickr.com/photos/bibliodyssey/3769362320/sizes/o/)," from [_Historia Naturalis Palmarum (The Natural History of Palms_](http://www.botanicus.org/bibliography/b12036171) by Karl Friedrich Phillipp von Maritus, 1823–50 :: via [BibliOdyssey](http://bibliodyssey.blogspot.com/2009/07/historia-naturalis-palmarum.html) Originally published at [culture-making.com](http://www.culture-making.com)
+"[Eugeisona tristis (detail)](http://www.flickr.com/photos/bibliodyssey/3769362320/sizes/o/)," from [_Historia Naturalis Palmarum (The Natural History of Palms_](http://www.botanicus.org/bibliography/b12036171) by Karl Friedrich Phillipp von Maritus, 1823–50 :: via [BibliOdyssey](http://bibliodyssey.blogspot.com/2009/07/historia-naturalis-palmarum.html)

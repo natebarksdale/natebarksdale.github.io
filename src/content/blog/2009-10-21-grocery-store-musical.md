@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-21
-modDatetime: 2009-10-21
+modDatetime: 2025-03-07T22:22:56Z
 title: Grocery Store Musical
 slug: grocery-store-musical
 featured: false
@@ -23,4 +23,4 @@ How are the horizons of the possible shifted when shoppers in a Queens, NY groce
 
 ---
 
-"[Grocery Store Musical](http://improveverywhere.com/2009/10/20/grocery-store-musical/)," book and music by Anthony King and Scott Brown for [Improv Everywhere](http://improveverywhere.com/2009/10/20/grocery-store-musical/), 20 October 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+"[Grocery Store Musical](http://improveverywhere.com/2009/10/20/grocery-store-musical/)," book and music by Anthony King and Scott Brown for [Improv Everywhere](http://improveverywhere.com/2009/10/20/grocery-store-musical/), 20 October 2009

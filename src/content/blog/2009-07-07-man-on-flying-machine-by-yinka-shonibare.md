@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-07
-modDatetime: 2009-07-07
+modDatetime: 2025-03-07T22:22:56Z
 title: Man on Flying Machine, by Yinka Shonibare
 slug: man-on-flying-machine-by-yinka-shonibare
 featured: false
@@ -23,4 +23,4 @@ The Nigerian-British artist Yinka Shonibare has made a whole fascinating series 
 
 ---
 
-"[Man on Flying Machine](http://www.jamescohan.com/artists/yinka-shonibare-mbe/selected-works-all/)" (2008), by Yinka Shonibare, [James Cohan Gallery](http://www.jamescohan.com/artists/yinka-shonibare-mbe/selected-works-all/) :: via Daily Serving Originally published at [culture-making.com](http://www.culture-making.com)
+"[Man on Flying Machine](http://www.jamescohan.com/artists/yinka-shonibare-mbe/selected-works-all/)" (2008), by Yinka Shonibare, [James Cohan Gallery](http://www.jamescohan.com/artists/yinka-shonibare-mbe/selected-works-all/) :: via Daily Serving

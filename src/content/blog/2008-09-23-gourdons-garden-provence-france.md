@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2008-09-23
+modDatetime: 2025-03-07T22:22:55Z
 title: Gourdon’s Garden, Provence, France
 slug: gourdons-garden-provence-france
 featured: false
@@ -23,4 +23,4 @@ From the flickr caption: "The Castle of Gourdon is close by [Saint Paul de Vence
 
 ---
 
-"[Gourdon's Garden](http://www.flickr.com/photos/feuilllu/4920772/)," Provence, France, by Flickr user [Feuillu](http://www.flickr.com/photos/feuilllu/), 8 August 2003 :: via [Intelligent Travel](http://www.flickr.com/groups/intelligent_travel/pool/) Originally published at [culture-making.com](http://www.culture-making.com)
+"[Gourdon's Garden](http://www.flickr.com/photos/feuilllu/4920772/)," Provence, France, by Flickr user [Feuillu](http://www.flickr.com/photos/feuilllu/), 8 August 2003 :: via [Intelligent Travel](http://www.flickr.com/groups/intelligent_travel/pool/)

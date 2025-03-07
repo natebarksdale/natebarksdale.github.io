@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-27
-modDatetime: 2009-08-27
+modDatetime: 2025-03-07T22:22:56Z
 title: There are no televisions here
 slug: there-are-no-televisions-here
 featured: false
@@ -25,4 +25,4 @@ Whether Paju Book City will live up to its motto at christening, "A City to Reco
 
 ---
 
-from "[A city dedicated to books and print](http://www.ft.com/cms/s/2/26852872-8de2-11de-93df-00144feabdc0.html)," by Edwin Heathcole, [_Financial Times_](http://www.ft.com/cms/s/2/26852872-8de2-11de-93df-00144feabdc0.html), 21 August 2009 :: thanks Adrianna! Originally published at [culture-making.com](http://www.culture-making.com)
+from "[A city dedicated to books and print](http://www.ft.com/cms/s/2/26852872-8de2-11de-93df-00144feabdc0.html)," by Edwin Heathcole, [_Financial Times_](http://www.ft.com/cms/s/2/26852872-8de2-11de-93df-00144feabdc0.html), 21 August 2009 :: thanks Adrianna!

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-19
-modDatetime: 2010-04-19
+modDatetime: 2025-03-07T22:22:57Z
 title: Save what matters least
 slug: save-what-matters-least
 featured: false
@@ -26,4 +26,4 @@ Nobody knows which cultural artifacts will wind up enduring, but by endeavoring 
 
 ---
 
-from "[Collections of the Material Subconscious](<http://www.kk.org/thetechnium/archives/2010/04/collections_of.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+thetechnium+(The+Technium)&utm_content=Google+Reader>)," by Kevin Kelly, [The Technium](<http://www.kk.org/thetechnium/archives/2010/04/collections_of.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+thetechnium+(The+Technium)&utm_content=Google+Reader>), 17 April 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Collections of the Material Subconscious](<http://www.kk.org/thetechnium/archives/2010/04/collections_of.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+thetechnium+(The+Technium)&utm_content=Google+Reader>)," by Kevin Kelly, [The Technium](<http://www.kk.org/thetechnium/archives/2010/04/collections_of.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+thetechnium+(The+Technium)&utm_content=Google+Reader>), 17 April 2010

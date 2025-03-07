@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2008-09-17
+modDatetime: 2025-03-07T22:22:55Z
 title: The trouble with online maps
 slug: the-trouble-with-online-maps
 featured: false
@@ -24,5 +24,3 @@ I think the Cartographic Society's argument only carries so far—first, because
 ---
 
 > The president of the British Cartographic Society says Internet mapping (Google Maps etc.) is wiping away the richness of Britain’s geography and history. She says “corporate cartographers” are leaving off landmarks like churches, ancient woodlands and stately homes. And history out of sight is history out of memory. [[BBC](http://news.bbc.co.uk/2/hi/uk_news/7586789.stm)]
-
-Originally published at [culture-making.com](http://www.culture-making.com)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-16
-modDatetime: 2010-06-16
+modDatetime: 2025-03-07T22:22:58Z
 title: Re-kindling, by Shawn Smith
 slug: re-kindling-by-shawn-smith
 featured: false
@@ -23,4 +23,4 @@ Texas artist Shawn Smith creates sculptures inspired by low-resolution computer 
 
 ---
 
-"[Re-kindling](http://www.shawnsmithart.com/images.htm)," plywood, ink, spray paint, and acrylic paint, by [Shawn Smith](http://www.shawnsmithart.com/images.htm), 2008 :: via [Waxy.org](http://waxy.org/links/) Originally published at [culture-making.com](http://www.culture-making.com)
+"[Re-kindling](http://www.shawnsmithart.com/images.htm)," plywood, ink, spray paint, and acrylic paint, by [Shawn Smith](http://www.shawnsmithart.com/images.htm), 2008 :: via [Waxy.org](http://waxy.org/links/)

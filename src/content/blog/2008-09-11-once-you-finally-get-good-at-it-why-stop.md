@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2008-09-11
+modDatetime: 2025-03-07T22:22:54Z
 title: Once you finally get good at it, why stop?
 slug: once-you-finally-get-good-at-it-why-stop
 featured: false
@@ -25,4 +25,4 @@ I wonder if it's that architects in general tend not to retire, or if it's just 
 
 ---
 
-from "[Why don't architects ever retire?](http://www.slate.com/id/2198786/?from=rss)," by Witold Rybczynski, [Slate](http://www.slate.com/id/2198786/?from=rss), 9 September 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Why don't architects ever retire?](http://www.slate.com/id/2198786/?from=rss)," by Witold Rybczynski, [Slate](http://www.slate.com/id/2198786/?from=rss), 9 September 2008

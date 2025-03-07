@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-10
-modDatetime: 2009-09-10
+modDatetime: 2025-03-07T22:22:56Z
 title: Butterfly in the sky, I could go twice as high
 slug: butterfly-in-the-sky-i-could-go-twice-as-high
 featured: false
@@ -25,4 +25,4 @@ My mother, a longtime public school librarian, is a big fan of Reading Rainbow, 
 
 ---
 
-from "['Reading Rainbow' Reaches Its Final Chapter](http://www.npr.org/templates/story/story.php?storyId=112312561)," by Ben Calhoun, [NPR](http://www.npr.org/templates/story/story.php?storyId=112312561), 28 August 2009 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2009/September/01/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "['Reading Rainbow' Reaches Its Final Chapter](http://www.npr.org/templates/story/story.php?storyId=112312561)," by Ben Calhoun, [NPR](http://www.npr.org/templates/story/story.php?storyId=112312561), 28 August 2009 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2009/September/01/)

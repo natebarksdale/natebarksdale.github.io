@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2010-05-10
+modDatetime: 2025-03-07T22:22:57Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false
@@ -26,4 +26,4 @@ I'm fascinated, more than troubled, by the interplay between the narrative impul
 
 ---
 
-from "[Glitch Trading](<http://quietbabylon.com/2010/glitch-trading/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>)," by Tim Maly, [Quiet Babylon](<http://quietbabylon.com/2010/glitch-trading/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>), 8 May 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Glitch Trading](<http://quietbabylon.com/2010/glitch-trading/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>)," by Tim Maly, [Quiet Babylon](<http://quietbabylon.com/2010/glitch-trading/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+QuietBabylon+(Quiet+Babylon)&utm_content=Google+Reader>), 8 May 2010

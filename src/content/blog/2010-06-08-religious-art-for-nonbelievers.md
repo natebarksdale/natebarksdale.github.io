@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-08
-modDatetime: 2010-06-08
+modDatetime: 2025-03-07T22:22:57Z
 title: Religious art for nonbelievers
 slug: religious-art-for-nonbelievers
 featured: false
@@ -25,4 +25,4 @@ A fascinating essay about what religious imagery in art can offer to nonbeliever
 
 ---
 
-from "[Divine Image](http://newhumanist.org.uk/2289/divine-image)," by Aaron Rosen, [New Humanist](http://newhumanist.org.uk/2289/divine-image), May/June 2010 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2010/June/07/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Divine Image](http://newhumanist.org.uk/2289/divine-image)," by Aaron Rosen, [New Humanist](http://newhumanist.org.uk/2289/divine-image), May/June 2010 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2010/June/07/)

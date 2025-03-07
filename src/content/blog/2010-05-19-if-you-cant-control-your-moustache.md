@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-19
-modDatetime: 2010-05-19
+modDatetime: 2025-03-07T22:22:57Z
 title: If you can’t control your moustache ..
 slug: if-you-cant-control-your-moustache
 featured: false
@@ -25,4 +25,4 @@ From a searchable collection of over 15,000 proverbs about women from cultures a
 
 ---
 
-from "[Never Marry a Women with Big Feet: Women in Proverbs Around the World](http://womeninproverbsworldwide.com/the-proverbs/search/index.php)," by Mineke Schipper, Universiteit Leiden :: via [MetaFilter](http://www.metafilter.com/92041/A-womans-heart-sees-more-than-mens-eyes) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Never Marry a Women with Big Feet: Women in Proverbs Around the World](http://womeninproverbsworldwide.com/the-proverbs/search/index.php)," by Mineke Schipper, Universiteit Leiden :: via [MetaFilter](http://www.metafilter.com/92041/A-womans-heart-sees-more-than-mens-eyes)

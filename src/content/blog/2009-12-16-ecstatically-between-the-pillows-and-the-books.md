@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-16
-modDatetime: 2009-12-16
+modDatetime: 2025-03-07T22:22:57Z
 title: Ecstatically between the pillows and the books
 slug: ecstatically-between-the-pillows-and-the-books
 featured: false
@@ -25,4 +25,4 @@ This is from a short story taken from David Foster Wallace's posthumous novel in
 
 ---
 
-from "[All That](http://www.newyorker.com/fiction/features/2009/12/14/091214fi_fiction_wallace?currentPage=all)," by David Foster Wallace, [_The New Yorker_](http://www.newyorker.com/fiction/features/2009/12/14/091214fi_fiction_wallace?currentPage=all), 14 December 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[All That](http://www.newyorker.com/fiction/features/2009/12/14/091214fi_fiction_wallace?currentPage=all)," by David Foster Wallace, [_The New Yorker_](http://www.newyorker.com/fiction/features/2009/12/14/091214fi_fiction_wallace?currentPage=all), 14 December 2009

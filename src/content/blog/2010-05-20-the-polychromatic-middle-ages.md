@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-20
-modDatetime: 2010-05-20
+modDatetime: 2025-03-07T22:22:57Z
 title: The polychromatic Middle Ages
 slug: the-polychromatic-middle-ages
 featured: false
@@ -23,4 +23,4 @@ Visual motifs from the Middle Ages, seen through the late-19th century aesthetic
 
 ---
 
-from _[L'Ornament Polychrome: Motifs de tous les styles, art ancien et asiatique, Moyen Age, Renaissance, XVIIe et XVIIIe siècles](http://digitalgallery.nypl.org/nypldigital/dgkeysearchresult.cfm?trg=1&parent_id=169639&word=&s=¬word=&d=&c=&f=&k=0&sScope=&sLevel=&sLabel=&lword=&lfield=&num=0&imgs=20&snum=&pNum=)_ , by A. Racinet, 1869–73 :: via [BibliOdyssey](http://bibliodyssey.blogspot.com/2010/05/racinet-polychromes.html) Originally published at [culture-making.com](http://www.culture-making.com)
+from _[L'Ornament Polychrome: Motifs de tous les styles, art ancien et asiatique, Moyen Age, Renaissance, XVIIe et XVIIIe siècles](http://digitalgallery.nypl.org/nypldigital/dgkeysearchresult.cfm?trg=1&parent_id=169639&word=&s=¬word=&d=&c=&f=&k=0&sScope=&sLevel=&sLabel=&lword=&lfield=&num=0&imgs=20&snum=&pNum=)_ , by A. Racinet, 1869–73 :: via [BibliOdyssey](http://bibliodyssey.blogspot.com/2010/05/racinet-polychromes.html)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2008-12-05
+modDatetime: 2025-03-07T22:22:55Z
 title: Blogs as ‘Cabinets of Wonder’
 slug: blogs-as-cabinets-of-wonder
 featured: false
@@ -24,5 +24,3 @@ I'd have to say, all but the very best blogs probably fall way short of the Wund
 ---
 
 > **Internet |** Get up to speed with the view of blogs as descended from Renaissance “cabinets of wonder,” or [Wunderkammern](http://en.wikipedia.org/wiki/Cabinet_of_curiosities). Back then, they were encyclopedic, idiosyncratic collections of objects whose categorical boundaries were yet to be defined by modern science. Bloggers, too, “present a collection of images, ideas, and objects in a style and order specific to his or her own vision: a personal taxonomy.” [[Cabinet of Wonder](http://cabinet-of-wonders.blogspot.com/2008/11/blogs-as-wunderkammern.html), [Julian Dibbell](http://www.juliandibbell.com/texts/feed_blogger.html)]
-
-Originally published at [culture-making.com](http://www.culture-making.com)

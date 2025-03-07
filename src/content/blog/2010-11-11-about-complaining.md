@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-11
-modDatetime: 2010-11-11
+modDatetime: 2025-03-07T22:22:58Z
 title: About complaining
 slug: about-complaining
 featured: false
@@ -21,4 +21,4 @@ coordinates: [40.7128, -74.0060]
 
 The best way to complain is to make things
 
---James Murphy, quoted at [swissmiss Originally published at [culture-making.com](http://www.culture-making.com)
+--James Murphy, quoted at [swissmiss

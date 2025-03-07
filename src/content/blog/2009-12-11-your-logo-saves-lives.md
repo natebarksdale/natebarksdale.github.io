@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-11
-modDatetime: 2009-12-11
+modDatetime: 2025-03-07T22:22:57Z
 title: “Your logo saves lives!”
 slug: your-logo-saves-lives
 featured: false
@@ -25,4 +25,4 @@ You design a logo and hand it over to the client and, through them, to the wider
 
 ---
 
-from "[Have Mercy on My Logo](http://www.underconsideration.com/brandnew/archives/have_mercy_on_my_logo.php)," by Steff Geisbuhler, [Brand New](http://www.underconsideration.com/brandnew/archives/have_mercy_on_my_logo.php), 11 December 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Have Mercy on My Logo](http://www.underconsideration.com/brandnew/archives/have_mercy_on_my_logo.php)," by Steff Geisbuhler, [Brand New](http://www.underconsideration.com/brandnew/archives/have_mercy_on_my_logo.php), 11 December 2009

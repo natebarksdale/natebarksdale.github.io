@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2009-04-27
+modDatetime: 2025-03-07T22:22:56Z
 title: 47 kinds of greens
 slug: 47-kinds-of-greens
 featured: false
@@ -25,4 +25,4 @@ Ironically, this article was written by the mother of one of my very-widely-trav
 
 ---
 
-from "[Question 4: Isn't African food too...?](http://www.betumi.com/2009/04/question-4-isnt-african-food-too.html)," by Fran Osseo-Asare, [BetumiBlog](http://www.betumi.com/2009/04/question-4-isnt-african-food-too.html), 22 April 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Question 4: Isn't African food too...?](http://www.betumi.com/2009/04/question-4-isnt-african-food-too.html)," by Fran Osseo-Asare, [BetumiBlog](http://www.betumi.com/2009/04/question-4-isnt-african-food-too.html), 22 April 2009

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-07
-modDatetime: 2008-09-07
+modDatetime: 2025-03-07T22:22:54Z
 title: Not quite the Northern Lights
 slug: not-quite-the-northern-lights
 featured: false
@@ -22,4 +22,4 @@ The Google Street View car in Alaska seems to have had its camera rained on—bu
 
 ---
 
-Northern Lights Blvd, Anchorage, Alaska, [Google Street View](http://maps.google.com/?ie=UTF8&ll=61.210725,-149.874887&spn=0.030753,0.12248&t=h&z=14&layer=c&cbll=61.19529,-149.87872&panoid=mcH0TxIr8vHdDa2zOeOiBw&cbp=2,270.1292618417598,,0,3.0148980261181784) Originally published at [culture-making.com](http://www.culture-making.com)
+Northern Lights Blvd, Anchorage, Alaska, [Google Street View](http://maps.google.com/?ie=UTF8&ll=61.210725,-149.874887&spn=0.030753,0.12248&t=h&z=14&layer=c&cbll=61.19529,-149.87872&panoid=mcH0TxIr8vHdDa2zOeOiBw&cbp=2,270.1292618417598,,0,3.0148980261181784)

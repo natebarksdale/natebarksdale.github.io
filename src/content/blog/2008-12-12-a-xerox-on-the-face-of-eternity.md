@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-12
-modDatetime: 2008-12-12
+modDatetime: 2025-03-07T22:22:55Z
 title: A xerox on the face of eternity
 slug: a-xerox-on-the-face-of-eternity
 featured: false
@@ -24,5 +24,3 @@ Interestingly, its that once the Taj was completed, Shah Jahan had its designer 
 ---
 
 > **Architecture |** Can you copyright an iconic building? That’s the issue raised by an expensively marbled clone of India’s Taj Majal built in Bangladesh by a wealthy filmmaker, who says he built it for Bangladeshis too poor to travel to see the real thing. Indian official: “You can’t just go out and copy historical monuments.” Bangladeshi: “Show me where it says that emulating a building like this can be illegal.” [[Times of London](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/visual_arts/architecture_and_design/article5327562.ece#cid=OTC-RSS&attr=797093)]
-
-Originally published at [culture-making.com](http://www.culture-making.com)

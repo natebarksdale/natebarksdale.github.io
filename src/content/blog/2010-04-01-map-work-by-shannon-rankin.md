@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-01
-modDatetime: 2010-04-01
+modDatetime: 2025-03-07T22:22:57Z
 title: Map work by Shannon Rankin
 slug: map-work-by-shannon-rankin
 featured: false
@@ -23,4 +23,4 @@ Artist Sannon Rankin makes intriguing collages and assemblies out of cut-up maps
 
 ---
 
-from [New World Order](http://bldgblog.blogspot.com/2010/03/new-world-order.html)," featuring map art by Shannon Rankin, [BLDGBLOG](http://bldgblog.blogspot.com/2010/03/new-world-order.html), 31 March 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from [New World Order](http://bldgblog.blogspot.com/2010/03/new-world-order.html)," featuring map art by Shannon Rankin, [BLDGBLOG](http://bldgblog.blogspot.com/2010/03/new-world-order.html), 31 March 2010

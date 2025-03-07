@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2009-03-19
+modDatetime: 2025-03-07T22:22:55Z
 title: All tomorrow’s parties
 slug: all-tomorrows-parties
 featured: false
@@ -20,4 +20,4 @@ coordinates: [40.7306, -73.9352]
 ---
 
 The Velvet Underground did not sell many records, but everyone who bought one went out and started a band.  
---Rock-n-roll truism, attributed variously to Lou Reed, Brian Eno, Courtney Love, etc. Originally published at [culture-making.com](http://www.culture-making.com)
+--Rock-n-roll truism, attributed variously to Lou Reed, Brian Eno, Courtney Love, etc.

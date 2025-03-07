@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-16
-modDatetime: 2009-07-16
+modDatetime: 2025-03-07T22:22:56Z
 title: A tool which will unleash the fullest in someone else
 slug: a-tool-which-will-unleash-the-fullest-in-someone-else
 featured: false
@@ -25,4 +25,4 @@ Is technology a moral obligation?
 
 ---
 
-from "[Why Technology Can't Fulfill](http://www.kk.org/thetechnium/archives/2009/06/why_technology.php)," by Kevin Kelly, [The Technium](http://www.kk.org/thetechnium/archives/2009/06/why_technology.php), 26 June 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Why Technology Can't Fulfill](http://www.kk.org/thetechnium/archives/2009/06/why_technology.php)," by Kevin Kelly, [The Technium](http://www.kk.org/thetechnium/archives/2009/06/why_technology.php), 26 June 2009

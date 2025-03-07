@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-22
-modDatetime: 2010-04-22
+modDatetime: 2025-03-07T22:22:57Z
 title: Drawing Cash
 slug: drawing-cash
 featured: false
@@ -24,4 +24,4 @@ This well-done interactive site allows users to contribute frames to a rotoscope
 
 ---
 
-A fan-contributed, computer-drawn still frame from [The Johnny Cash Project](http://www.thejohnnycashproject.com/), 2010 :: via [MetaFilter](http://www.metafilter.com/91129/Aint-no-grave-can-hold-my-body-down) Originally published at [culture-making.com](http://www.culture-making.com)
+A fan-contributed, computer-drawn still frame from [The Johnny Cash Project](http://www.thejohnnycashproject.com/), 2010 :: via [MetaFilter](http://www.metafilter.com/91129/Aint-no-grave-can-hold-my-body-down)

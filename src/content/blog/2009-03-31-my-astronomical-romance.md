@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-31
-modDatetime: 2009-03-31
+modDatetime: 2025-03-07T22:22:55Z
 title: My Astronomical Romance
 slug: my-astronomical-romance
 featured: false
@@ -25,4 +25,4 @@ I saw this telescope image of the Horsehead Nebula (1500 light years from Earth)
 
 ---
 
-from "[Looking Through the Hubble Space Telescope with an Artist's Eye](http://www.spacedaily.com/news/hubble-05i.html)," Space Daily, 21 February 2005, images from [Seedmagazine.com](http://seedmagazine.com/IYA2009/From-Earth-to-the-Universe.html#0) and [Wikipedia](http://en.wikipedia.org/wiki/Elvis_Presley) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Looking Through the Hubble Space Telescope with an Artist's Eye](http://www.spacedaily.com/news/hubble-05i.html)," Space Daily, 21 February 2005, images from [Seedmagazine.com](http://seedmagazine.com/IYA2009/From-Earth-to-the-Universe.html#0) and [Wikipedia](http://en.wikipedia.org/wiki/Elvis_Presley)

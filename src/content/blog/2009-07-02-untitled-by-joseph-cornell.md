@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-02
-modDatetime: 2009-07-02
+modDatetime: 2025-03-07T22:22:56Z
 title: Untitled, by Joseph Cornell
 slug: untitled-by-joseph-cornell
 featured: false
@@ -31,4 +31,4 @@ hotel of crickets and constellations.' [![image](http://culture-making.com/media
 
 ---
 
-[_Untitled_](http://www.ibiblio.org/wm/paint/auth/cornell/) (13 1/8 x 10 x 3 1/2 in; private collection), by Joseph Cornell, 1942 Originally published at [culture-making.com](http://www.culture-making.com)
+[_Untitled_](http://www.ibiblio.org/wm/paint/auth/cornell/) (13 1/8 x 10 x 3 1/2 in; private collection), by Joseph Cornell, 1942

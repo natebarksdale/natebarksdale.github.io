@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2008-09-23
+modDatetime: 2025-03-07T22:22:55Z
 title: First Congregational Church, Weeping Water, Nebraska
 slug: first-congregational-church-weeping-water-nebraska
 featured: false
@@ -22,4 +22,4 @@ I was struck by the rust streaking on this church in the evocatively named Weepi
 
 ---
 
-First Congregational Church, Weeping Water, Nebraska, [Google Street View](http://maps.google.com/?ie=UTF8&ll=40.922333,-96.133461&spn=0.104544,0.244446&t=h&z=13&layer=c&cbll=40.869945,-96.141239&panoid=Tr2qXQ2RuiLEFH6DD4o3WA&cbp=2,47.748063205876235,,0,-5.470343480425235) Originally published at [culture-making.com](http://www.culture-making.com)
+First Congregational Church, Weeping Water, Nebraska, [Google Street View](http://maps.google.com/?ie=UTF8&ll=40.922333,-96.133461&spn=0.104544,0.244446&t=h&z=13&layer=c&cbll=40.869945,-96.141239&panoid=Tr2qXQ2RuiLEFH6DD4o3WA&cbp=2,47.748063205876235,,0,-5.470343480425235)

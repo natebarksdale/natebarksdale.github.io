@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-08
-modDatetime: 2008-12-08
+modDatetime: 2025-03-07T22:22:55Z
 title: On the migration of books
 slug: on-the-migration-of-books
 featured: false
@@ -25,4 +25,4 @@ This lovely opening to the Turkish Nobel laureate's memoir of a lifetime of read
 
 ---
 
-from "[My Turkish Library](http://www.nybooks.com/articles/22182)," by Orhan Pamuk, [_The New York Review of Books_](http://www.nybooks.com/articles/22182), 18 December 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[My Turkish Library](http://www.nybooks.com/articles/22182)," by Orhan Pamuk, [_The New York Review of Books_](http://www.nybooks.com/articles/22182), 18 December 2008

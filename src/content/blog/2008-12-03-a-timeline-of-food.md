@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2008-12-03
+modDatetime: 2025-03-07T22:22:55Z
 title: A timeline of food
 slug: a-timeline-of-food
 featured: false
@@ -30,5 +30,3 @@ The site also has links to cookbooks and recipes (referring to date of publicati
 > Chop suey, 1896.  
 > Popcorn, 3600 BC.  
 > Swedish meatballs, 1754.(via [snarkmarket](http://snarkmarket.com/blog/))
-
-Originally published at [culture-making.com](http://www.culture-making.com)

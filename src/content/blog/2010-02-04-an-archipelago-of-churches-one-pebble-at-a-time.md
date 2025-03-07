@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-04
-modDatetime: 2010-02-04
+modDatetime: 2025-03-07T22:22:57Z
 title: An archipelago of churches, one pebble at a time
 slug: an-archipelago-of-churches-one-pebble-at-a-time
 featured: false
@@ -26,4 +26,4 @@ A great example of long-form culture making, from an island church in Montenegro
 
 ---
 
-from "[Our Lady of the Rocks](http://bldgblog.blogspot.com/2010/01/our-lady-of-rocks.html)," by Geoff Manaugh, [BLDGBLOG](http://bldgblog.blogspot.com/2010/01/our-lady-of-rocks.html), 30 January 2010 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Our Lady of the Rocks](http://bldgblog.blogspot.com/2010/01/our-lady-of-rocks.html)," by Geoff Manaugh, [BLDGBLOG](http://bldgblog.blogspot.com/2010/01/our-lady-of-rocks.html), 30 January 2010

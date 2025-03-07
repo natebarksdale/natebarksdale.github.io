@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-27
-modDatetime: 2009-03-27
+modDatetime: 2025-03-07T22:22:55Z
 title: S C Road, Gandhinagar, Bangalore, India
 slug: s-c-road-gandhinagar-bangalore-india
 featured: false
@@ -23,4 +23,4 @@ It is my new theory that all news is better when accompanied by a garland of mar
 
 ---
 
-"[S C Road, Gandhinagar](http://mainsandcrosses.blogspot.com/2009/03/s-c-road-gandhinagar.html)" [[map](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=s+c+road+gandhinagar&sll=12.971606,77.594376&sspn=0.83372,1.300507&g=bangalore&ie=UTF8&ll=12.977366,77.575439&spn=0.006513,0.01016&t=h&z=17)], photo by SloganMurugan, [Which Main? What Cross?](http://mainsandcrosses.blogspot.com/2009/03/s-c-road-gandhinagar.html), 22 March 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+"[S C Road, Gandhinagar](http://mainsandcrosses.blogspot.com/2009/03/s-c-road-gandhinagar.html)" [[map](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=s+c+road+gandhinagar&sll=12.971606,77.594376&sspn=0.83372,1.300507&g=bangalore&ie=UTF8&ll=12.977366,77.575439&spn=0.006513,0.01016&t=h&z=17)], photo by SloganMurugan, [Which Main? What Cross?](http://mainsandcrosses.blogspot.com/2009/03/s-c-road-gandhinagar.html), 22 March 2009

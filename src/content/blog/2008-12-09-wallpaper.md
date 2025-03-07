@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2008-12-09
+modDatetime: 2025-03-07T22:22:55Z
 title: Wallpaper
 slug: wallpaper
 featured: false
@@ -25,4 +25,4 @@ Graffiti (whether the restroom kind or others) sits on this weird junction betwe
 
 ---
 
-from "[The best use for butcher block paper ever](http://nudges.wordpress.com/2008/12/08/the-best-use-for-butcher-block-paper-ever/)," submitted by reader Margo Mueller, [Nudges blog](http://nudges.wordpress.com/2008/12/08/the-best-use-for-butcher-block-paper-ever/), 8 December 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[The best use for butcher block paper ever](http://nudges.wordpress.com/2008/12/08/the-best-use-for-butcher-block-paper-ever/)," submitted by reader Margo Mueller, [Nudges blog](http://nudges.wordpress.com/2008/12/08/the-best-use-for-butcher-block-paper-ever/), 8 December 2008

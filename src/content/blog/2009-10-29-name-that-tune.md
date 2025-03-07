@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-29
-modDatetime: 2009-10-29
+modDatetime: 2025-03-07T22:22:56Z
 title: Name that tune
 slug: name-that-tune
 featured: false
@@ -23,4 +23,4 @@ Use the map controls to zoom on this extremely tall timeline; the creators took 
 
 ---
 
-"[Popular Names in Popular Music](http://www.verysmallarray.com/?p=901)," by [very small array](http://www.verysmallarray.com/?p=901), 20 October 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+"[Popular Names in Popular Music](http://www.verysmallarray.com/?p=901)," by [very small array](http://www.verysmallarray.com/?p=901), 20 October 2009

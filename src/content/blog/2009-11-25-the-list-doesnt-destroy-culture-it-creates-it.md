@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-25
-modDatetime: 2009-11-25
+modDatetime: 2025-03-07T22:22:57Z
 title: The list doesn’t destroy culture, it creates it
 slug: the-list-doesnt-destroy-culture-it-creates-it
 featured: false
@@ -25,4 +25,4 @@ Food for thought when one is tempted to skip over the more boring sections of, s
 
 ---
 
-from "[Umberto Eco: We Like Lists Because We Don't Want to Die](http://www.spiegel.de/international/zeitgeist/0,1518,659577,00.html)," interview by Susanne Beyer and Lothar Gorris, [SPIEGEL ONLINE - News - International](http://www.spiegel.de/international/zeitgeist/0,1518,659577,00.html), 11 November 2009 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2009/November/18/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Umberto Eco: We Like Lists Because We Don't Want to Die](http://www.spiegel.de/international/zeitgeist/0,1518,659577,00.html)," interview by Susanne Beyer and Lothar Gorris, [SPIEGEL ONLINE - News - International](http://www.spiegel.de/international/zeitgeist/0,1518,659577,00.html), 11 November 2009 :: via [The Morning News](http://www.themorningnews.org/archives/headlines/2009/November/18/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-08
-modDatetime: 2008-09-08
+modDatetime: 2025-03-07T22:22:54Z
 title: Outdoor bookcases in Bonn, Germany
 slug: outdoor-bookcases-in-bonn-germany
 featured: false
@@ -24,5 +24,3 @@ Of course we can (and should) also ask, what forms of community trust do we have
 ---
 
 > ![quoted from nytimes.com](http://culture-making.com/media/pubcase_210.jpg)In Bonn, Germany, I noticed a bookcase full of books in the public park where I run, with a young woman removing one book and returning another. These are used books that make up essentially a free voluntary lending library.Would this cabinet last undamaged in a U.S. city one day? I doubt it. Similar things exist elsewhere — such as outdoor vending machines for DVD’s in Kyoto, Japan. Both of these indicate a certain level of mutual trust in the population and a certain level of civility; both reduce the transactions costs of daily living: easier access to books in one case, 24-hour DVD availability in the other.Mutual trust is important in reducing transactions costs, and this aspect of culture has been viewed by economists as helping to determine some economic outcomes. (Although how different levels of trust arise has not been considered by the mostly macroeconomists who worry about this; it’s creating trust that seems to me to be the central issue.)How many other examples like the books and the DVD’s are there in foreign countries that we don’t see at home?
-
-Originally published at [culture-making.com](http://www.culture-making.com)

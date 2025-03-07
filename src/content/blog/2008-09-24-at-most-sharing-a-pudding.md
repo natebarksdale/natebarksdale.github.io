@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2008-09-24
+modDatetime: 2025-03-07T22:22:55Z
 title: At most, sharing a pudding
 slug: at-most-sharing-a-pudding
 featured: false
@@ -25,4 +25,4 @@ Longer hours and belt-tightening (of the financial sense, mostly, but who knows?
 
 ---
 
-from "[Au revoir to long lunch as French tighten belts](http://www.guardian.co.uk/world/2008/sep/24/france.globalrecession)," by Angelique Chrisafis, [guardian.co.uk](http://www.guardian.co.uk/world/2008/sep/24/france.globalrecession), 24 September 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Au revoir to long lunch as French tighten belts](http://www.guardian.co.uk/world/2008/sep/24/france.globalrecession)," by Angelique Chrisafis, [guardian.co.uk](http://www.guardian.co.uk/world/2008/sep/24/france.globalrecession), 24 September 2008

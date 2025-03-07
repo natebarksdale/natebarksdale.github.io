@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-19
-modDatetime: 2008-09-19
+modDatetime: 2025-03-07T22:22:55Z
 title: Public service plotlines
 slug: public-service-plotlines
 featured: false
@@ -25,4 +25,4 @@ Public health researchers worked with TV scriptwriters to see if viewers do, in 
 
 ---
 
-from "[Television as a Health Educator: A Case Study of Grey's Anatomy](http://www.kff.org/entmedia/upload/7803.pdf)," by Victoria Rideout, [Kaiser Family Foundation](http://www.kff.org/), September 2008 :: via [Nudges](http://nudges.wordpress.com/2008/09/17/from-product-placement-to-public-service-placement/) Originally published at [culture-making.com](http://www.culture-making.com)
+from "[Television as a Health Educator: A Case Study of Grey's Anatomy](http://www.kff.org/entmedia/upload/7803.pdf)," by Victoria Rideout, [Kaiser Family Foundation](http://www.kff.org/), September 2008 :: via [Nudges](http://nudges.wordpress.com/2008/09/17/from-product-placement-to-public-service-placement/)

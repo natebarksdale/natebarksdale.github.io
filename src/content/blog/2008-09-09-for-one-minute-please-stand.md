@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-09
-modDatetime: 2008-09-09
+modDatetime: 2025-03-07T22:22:54Z
 title: For one minute please stand
 slug: for-one-minute-please-stand
 featured: false
@@ -22,4 +22,4 @@ An invitation to urban contemplation: sometimes what we need most to make someth
 
 ---
 
-"[114 (sutter)](http://flickr.com/photos/heather/2439476273/in/photostream/)," by Flickr user [heather](http://flickr.com/photos/heather/), 23 April 2008 Originally published at [culture-making.com](http://www.culture-making.com)
+"[114 (sutter)](http://flickr.com/photos/heather/2439476273/in/photostream/)," by Flickr user [heather](http://flickr.com/photos/heather/), 23 April 2008

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-07T22:20:56Z
+modDatetime: 2025-03-07T22:22:55Z
 title: Accept, fuse, rehabilitate
 slug: accept-fuse-rehabilitate
 featured: false
@@ -30,4 +30,4 @@ Not to repel or destroy so much as accept,
 fuse, rehabilitate,  
 To obey as well as command,  
 to follow more than to lead . . .  
---Walt Whitman, [_Leaves of Grass_](http://books.google.com/books?id=TmESAAAAYAAJ&printsec=frontcover&dq=inauthor:whitman&ei=zIFBSfzPC4q6kwT00ezRDg#PPA238,M1) Originally published at [culture-making.com](http://www.culture-making.com)
+--Walt Whitman, [_Leaves of Grass_](http://books.google.com/books?id=TmESAAAAYAAJ&printsec=frontcover&dq=inauthor:whitman&ei=zIFBSfzPC4q6kwT00ezRDg#PPA238,M1)

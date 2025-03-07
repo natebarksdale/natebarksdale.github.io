@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-04
-modDatetime: 2009-07-04
+modDatetime: 2025-03-07T22:22:56Z
 title: U.S. states as nations of equal population, map by James Richards
 slug: us-states-as-nations-of-equal-population-map-by-james-richards
 featured: false
@@ -23,4 +23,4 @@ A brilliantly mindbending map-flag mashup. How many flags can you recognize with
 
 ---
 
-from [Strange Maps](http://strangemaps.wordpress.com/2009/06/06/388-us-states-as-countries-of-equal-population/), 6 June 2009 Originally published at [culture-making.com](http://www.culture-making.com)
+from [Strange Maps](http://strangemaps.wordpress.com/2009/06/06/388-us-states-as-countries-of-equal-population/), 6 June 2009

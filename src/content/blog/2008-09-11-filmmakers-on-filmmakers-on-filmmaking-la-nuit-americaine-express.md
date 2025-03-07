@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2025-03-07T22:17:05Z
+modDatetime: 2025-03-07T22:22:54Z
 title: Filmmakers on filmmakers on filmmaking - La Nuit Américaine Express
 slug: filmmakers-on-filmmakers-on-filmmaking-la-nuit-americaine-express
 featured: false
@@ -23,4 +23,4 @@ One of my favorite movies of the past year is François Truffaut's _Day for Nigh
 
 ---
 
-[Day for Night (La Nuit américaine)](http://www.youtube.com/watch?v=TVZaXzCLyfE) trailer," directed by François Truffaut, 1973, and [My Life, My Card](http://www.youtube.com/watch?v=spCknVcaSHg) ad, directed by Wes Anderson, 2006 Originally published at [culture-making.com](http://www.culture-making.com)
+[Day for Night (La Nuit américaine)](http://www.youtube.com/watch?v=TVZaXzCLyfE) trailer," directed by François Truffaut, 1973, and [My Life, My Card](http://www.youtube.com/watch?v=spCknVcaSHg) ad, directed by Wes Anderson, 2006
