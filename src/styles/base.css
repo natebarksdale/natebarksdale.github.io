@@ -122,6 +122,20 @@ p:not(:last-child)::after {
 
   .prose strong {font-size:70%;}
 
+  /* Right-justify lines that start with em dash within paragraphs and blockquotes */
+  .prose p:has(> [data-quote-attribution="true"]),
+  .prose blockquote p:has(> [data-quote-attribution="true"]) {
+    text-align: right;
+    font-style: italic;
+    margin-top: -1em;
+  }
+
+  /* Special styling for quote attributions */
+  [data-quote-attribution="true"] {
+    font-style: italic;
+    color: rgba(var(--color-text-base), 0.75);
+  }
+
   h1 .emoji:first-child, h2 .emoji:first-child, h3 .emoji:first-child {
       float: left;
       margin-left: -1.75em; /* Moves it into the margin */
