@@ -1,0 +1,24 @@
+---
+author: Nate Barksdale
+pubDatetime: 2010-01-16
+modDatetime: 2010-01-16
+title: 20 years of unintended consequences
+slug: 20-years-of-unintended-consequences
+featured: false
+draft: false
+description: A humorous exchange highlighting the unexpected impact of Homer Simpson's actions on culture.
+emoji: 🎭
+tags:
+  - 🎤 performances
+  - 🎨 culture
+haiku: |
+  Dad's unexpected fame,  
+  Artists in family glow,  
+  Culture's gentle jest.
+coordinates: [34.0522, -118.2437]
+---
+
+Bart: Dad, you were great!  
+Lisa: And you contributed to our culture!  
+Homer: [worried] Well, I didn't mean to.  
+--The Simpsons, season 19, [episode 2](http://en.wikipedia.org/wiki/Homer_of_Seville) Originally published at [culture-making.com](http://www.culture-making.com)
