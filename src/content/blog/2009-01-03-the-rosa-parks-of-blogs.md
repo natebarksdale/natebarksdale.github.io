@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2009-01-03
+modDatetime: 2025-03-07T22:38:15Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
 draft: false
-description:
+description: I love this sort of list-making
 emoji: ✨
 tags:
   - 🎭 cliches
