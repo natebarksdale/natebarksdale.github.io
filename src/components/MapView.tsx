@@ -58,49 +58,86 @@ const getLambertDescription = (
   parallel1: number,
   parallel2: number
 ) => {
-  // Categorize each parameter into low, medium, or high
-  const centerCategory = center < -25 ? "low" : center > 25 ? "high" : "medium";
-  const parallel1Category =
-    parallel1 < -25 ? "low" : parallel1 > 25 ? "high" : "medium";
-  const parallel2Category =
-    parallel2 < -25 ? "low" : parallel2 > 25 ? "high" : "medium";
+  // Calculate absolute values and differences for more precise descriptions
+  const parallelDiff = Math.abs(parallel1 - parallel2);
+  const parallelSum = Math.abs(parallel1) + Math.abs(parallel2);
+  const parallelAvg = (parallel1 + parallel2) / 2;
+  const centerOffset = Math.abs(center - parallelAvg);
 
-  // Base description parts
-  let pros, cons;
+  // Determine which hemisphere is favored
+  const hemisphereBias =
+    center < -20 ? "southern" : center > 20 ? "northern" : "equatorial";
 
-  // Center descriptions
-  if (centerCategory === "low") {
-    pros = "Excellent for southern hemisphere mapping";
-    cons = "Northern continents get increasingly distorted";
-  } else if (centerCategory === "high") {
-    pros = "Ideal for northern hemisphere detail";
-    cons = "Makes Antarctica look like it's falling off the edge";
-  } else {
-    pros = "Balanced global perspective";
-    cons = "No region gets perfect treatment";
-  }
+  // Determine what region of the map looks best
+  let focus = "";
+  let distortion = "";
 
-  // Modify based on parallels
-  if (parallel1Category === parallel2Category) {
-    // Parallels in same region
-    if (parallel1Category === "low") {
-      pros += ", highlights southern oceans";
-      cons += ", and shrinks northern countries";
-    } else if (parallel1Category === "high") {
-      pros += ", preserves shapes in Arctic regions";
-      cons += ", while severely warping everything below the equator";
+  // Different parameter combinations and their specific effects
+  if (parallelDiff < 10 && parallelSum > 100) {
+    // Close parallels at extreme latitudes
+    if (parallelAvg > 30) {
+      focus = `The Arctic region looks almost undistorted`;
+      distortion = `the southern hemisphere is stretched beyond recognition`;
+    } else if (parallelAvg < -30) {
+      focus = `Antarctica and the southern oceans are beautifully rendered`;
+      distortion = `northern continents are squashed flat`;
+    } else {
+      focus = `Mid-latitudes around ${Math.round(parallelAvg)}° look accurate`;
+      distortion = `both poles suffer from extreme stretching`;
     }
-  } else if (Math.abs(parallel1 - parallel2) > 50) {
-    // Wide spread between parallels
-    pros += ", minimizes overall distortion";
-    cons += ", but creates a funhouse effect at the poles";
+  } else if (parallelDiff > 80) {
+    // Widely spaced parallels
+    focus = `Creates a balanced view where the middle latitudes are reasonable`;
+    distortion = `both poles are stretched dramatically in opposite directions`;
+  } else if (centerOffset > 40) {
+    // Center far from parallels
+    focus = `An unsettling view where nothing looks quite right`;
+    distortion = `everything is distorted in different ways, but especially at ${center > 0 ? "southern" : "northern"} latitudes`;
+  } else if (Math.abs(center) > 60) {
+    // Center near a pole
+    focus = `A polar-centric view that's great for ${center > 0 ? "Arctic" : "Antarctic"} navigation`;
+    distortion = `continents on the opposite side of the globe are barely recognizable`;
+  } else if (parallelDiff > 30 && parallelDiff < 60) {
+    // Moderate parallel difference
+    if (Math.abs(parallelAvg) < 30) {
+      focus = `Temperate zones and equatorial regions maintain decent proportions`;
+      distortion = `polar regions are noticeably stretched`;
+    } else {
+      focus = `The ${parallelAvg > 0 ? "northern" : "southern"} hemisphere has reasonable shapes`;
+      distortion = `the opposite pole is extremely distorted`;
+    }
   } else {
-    // Moderate difference
-    pros += ", creates reasonable compromise";
-    cons += ", though still distorts regions far from standard parallels";
+    // Default case for other combinations
+    focus = `Shapes look reasonable between ${Math.min(parallel1, parallel2)}° and ${Math.max(parallel1, parallel2)}° latitude`;
+    distortion = `regions outside these parallels show increasing distortion`;
   }
 
-  return `${pros}. ${cons}. What you're seeing is cartographic art, not reality.`;
+  // Special cases for particularly strange combinations
+  if (parallelDiff < 5 && Math.abs(center - parallelAvg) > 70) {
+    focus = `This bizarre configuration creates a truly unusual map`;
+    distortion = `pretty much everything is distorted, but in fascinating ways`;
+  }
+
+  // Further characterize the specific visual effect
+  let visualEffect = "";
+  if (parallelSum < 20 && Math.abs(center) < 15) {
+    visualEffect =
+      "Overall, this gives a fairly balanced world view, though not without compromises.";
+  } else if (parallelDiff > 100) {
+    visualEffect =
+      "The extreme parameter spread creates a psychedelic stretching effect—pure cartographic indulgence.";
+  } else if (
+    Math.abs(center) > 60 &&
+    Math.max(Math.abs(parallel1), Math.abs(parallel2)) < 30
+  ) {
+    visualEffect =
+      "This is what happens when you let a mathematician design a map with no regard for visual sensibility.";
+  } else {
+    visualEffect =
+      "Just another reminder that flattening a sphere is an exercise in compromise.";
+  }
+
+  return `${focus}. However, ${distortion}. ${visualEffect}`;
 };
 
 const projections = [
@@ -208,7 +245,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
 
     map.current.easeTo({
       zoom: newZoom,
-      bearing: projection === "albers" ? 103 : 0, // Rotate Albers 103 degrees clockwise
+      bearing: projection === "albers" ? 160 : 0, // Rotate Albers 160 degrees clockwise
       duration: 1500,
     });
   };
