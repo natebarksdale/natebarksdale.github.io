@@ -18,7 +18,7 @@ export default function Datetime({
 }: Props) {
   return (
     <div className={`flex items-center opacity-80 ${className}`}>
-{/*       <svg
+      {/*       <svg
         xmlns="http://www.w3.org/2000/svg"
         className={`${
           size === "sm" ? "scale-90" : "scale-100"
@@ -45,9 +45,11 @@ export default function Datetime({
   );
 }
 
+// here making it return pubDatetime either way
+
 const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
   const myDatetime = new Date(
-    modDatetime && modDatetime > pubDatetime ? modDatetime : pubDatetime
+    modDatetime && modDatetime > pubDatetime ? pubDatetime : pubDatetime
   );
 
   const date = myDatetime.toLocaleDateString(LOCALE.langTag, {
@@ -64,7 +66,7 @@ const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
   return (
     <>
       <time dateTime={myDatetime.toISOString()}>{date}</time>
-{/*       <span aria-hidden="true"> | </span>
+      {/*       <span aria-hidden="true"> | </span>
       <span className="sr-only">&nbsp;at&nbsp;</span>
       <span className="text-nowrap">{time}</span> */}
     </>
