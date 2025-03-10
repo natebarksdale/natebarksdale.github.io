@@ -1,11 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-14
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-10T20:19:39Z
 title: Behold, the Planimal!
 slug: behold-the-planimal
 featured: false
 draft: false
+description: I'm not sure why, but this news has been the source of untold instant-messaging-expressed joy among certain of my friends this week.
 emoji: 🌱
 tags:
   - 🌍 Ecology
