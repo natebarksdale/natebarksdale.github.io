@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-22
-modDatetime: 2014-03-22
+modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | CPS
 slug: portfolio-cps
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A showcase of my minimalist design for a prestigious group of art dealers, highlighting simplicity and elegance in online presentation.
 emoji: 🎨
 tags:
-  - 🖼️ Art Dealers
-  - 🌐 Minimalism
-  - 💻 Web Design
+  - 🌐 Blogging
+  - ⚙️ Technology
+  - 🎨 Art
+  - ✨ Beauty
+  - 💡 Design
 haiku: |
   Art speaks in silence,  
   Minimalist elegance,  

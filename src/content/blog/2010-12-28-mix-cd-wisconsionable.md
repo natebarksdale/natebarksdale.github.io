@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-28
-modDatetime: 2010-12-28
+modDatetime: 2025-03-10T18:29:23Z
 title: Mix CD | Wisconsionable!
 slug: mix-cd-wisconsionable
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: This mix, set within the context of Wisconsin, navigates the challenging landscape of musical influences while keeping dairy mentions at bay. From the **50 States!** series of CDs, it showcases a variety of artists while including a nod to Liberace's significant contribution to pop music from the state.
 emoji: 🎶
 tags:
-  - 🎤 Artists
-  - 🧀 Dairy
-  - 🌲 Nature
-  - 📀 Music
+  - 🇺🇸 United States
+  - 🎶 Activities
+  - 🌍 Culture
+  - 📀 CDs
 haiku: |
   Wisconsin's sweet tunes,  
   Liberace graces all,  

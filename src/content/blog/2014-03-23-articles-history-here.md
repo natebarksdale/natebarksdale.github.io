@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-23
-modDatetime: 2014-03-23
+modDatetime: 2025-03-10T18:29:24Z
 title: Articles | History Here
 slug: articles-history-here
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Exploring the vast narrative of American history, as detailed in the development of the History Here app, which allows users to uncover over 6,000 historical points of interest across the nation.
 emoji: 🗺️
 tags:
-  - 📖 articles
-  - 🏛️ historic sites
-  - 🌍 exploration
+  - 🌍 History
+  - 🌐 Blogging
+  - ⏰ Time
+  - 📖 Articles
+  - 📍 Travel
 haiku: |
   Mapping history,  
   Stories etched in locations,  

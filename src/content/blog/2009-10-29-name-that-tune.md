@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-29
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:21Z
 title: Name that tune
 slug: name-that-tune
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of the fascinating disconnect between popular baby names and the names featured in Billboard Top 5 songs over the decades, showcasing a timeline of cultural evolution in music.
 emoji: 🎤
 tags:
-  - 🎶 songs
-  - 📅 timelines
-  - 👶 names
+  - 🌍 Culture
+  - 🎵 Music
+  - 📖 Articles
+  - 🔍 Discoveries
 haiku: |
   From charts they rise,  
   Names echo through the years,  

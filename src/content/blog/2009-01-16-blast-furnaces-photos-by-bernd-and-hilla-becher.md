@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-16
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:18Z
 title: Blast furnaces, photos by Bernd and Hilla Becher
 slug: blast-furnaces-photos-by-bernd-and-hilla-becher
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: I've been captivated by the Bechers' industrial photography, particularly their portrayal of blast furnaces that appear both alien and contemplative.
 emoji: 🏭
 tags:
-  - 📸 Photographs
-  - ⚙️ Industrial Structures
-  - 🔬 Typologies
+  - ⚙️ Engineering
+  - 🎨 Art
+  - 🌍 Culture
+  - 🏛️ Architecture
+  - 🗺️ States
 haiku: |
   Iron giants stand still,  
   In repose, they guard their past,  

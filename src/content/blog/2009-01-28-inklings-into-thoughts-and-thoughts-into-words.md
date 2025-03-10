@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2009-01-28
+modDatetime: 2025-03-10T18:29:19Z
 title: Inklings into thoughts and thoughts into words
 slug: inklings-into-thoughts-and-thoughts-into-words
 featured: false
@@ -9,8 +9,8 @@ draft: false
 description: John Updike reflects on the creative process of transforming thoughts into words and printed form.
 emoji: ✍️
 tags:
-  - 🖋️ Writing
-  - 🎨 Creativity
+  - ✍️ Literature
+  - 🖊️ Editing
 haiku: |
   Words flow like water,  
   From thoughts to ink and paper,  

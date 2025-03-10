@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-17
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:21Z
 title: The dude uniform
 slug: the-dude-uniform
 featured: false
@@ -9,10 +9,9 @@ draft: false
 description: Observing the curious fashion choices of Mumbai's men, I couldn't help but notice the striking contrast in style between the genders.
 emoji: 🎭
 tags:
-  - 👕 Clothes
-  - 👖 Jeans
-  - 🥻 Sarees
-  - 🎬 Bollywood
+  - 👔 Fashion
+  - 🌍 Culture
+  - 🌆 Urban Spaces
 haiku: |
   Colors clash and shine,  
   Men in disco dreams display,  

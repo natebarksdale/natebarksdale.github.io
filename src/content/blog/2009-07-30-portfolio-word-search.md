@@ -9,8 +9,10 @@ draft: true
 description: I enjoyed the creative challenge of designing a card centered around a letter grid, complete with a playable word search on the back.
 emoji: 🧩
 tags:
-  - 🔤 Letter Grids
-  - 🎮 Word Games
+  - 🎨 Creativity
+  - 📖 Articles
+  - 📝 Writing
+  - 📍 Travel
 haiku: |
   Letters in a grid,  
   Find the words hidden within,  

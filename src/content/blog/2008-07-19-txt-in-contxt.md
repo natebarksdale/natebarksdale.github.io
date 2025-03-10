@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2008-07-19
+modDatetime: 2025-03-10T18:29:12Z
 title: Txt in contxt
 slug: txt-in-contxt
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: A reflection on the playful nature of texting and its linguistic creativity, featuring insights from linguistics professor David Crystal.
 emoji: 🎭
 tags:
-  - 📱 Texting
-  - 🎉 Playfulness
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 💬 Communication
 haiku: |
   Language turns to play,  
   Texting dances with the words,  

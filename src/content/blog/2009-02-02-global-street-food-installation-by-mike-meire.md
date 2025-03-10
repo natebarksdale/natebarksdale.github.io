@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2009-02-02
+modDatetime: 2025-03-10T18:29:19Z
 title: Global Street Food installation, by Mike Meiré
 slug: global-street-food-installation-by-mike-meire
 featured: false
@@ -9,8 +9,8 @@ draft: false
 description: A glimpse into the diverse world of street food vendor setups captured by Mike Meiré, highlighting their cultural significance and the absence of the vendors themselves. Geolocation coordinates
 emoji: 🌍
 tags:
-  - 🍜 Street Foods
-  - 🤝 Cultural Exchange
+  - 🌍 Culture
+  - 🌞 Leisure
 haiku: |
   Stalls line the streets,  
   Each dish tells a story lost,  

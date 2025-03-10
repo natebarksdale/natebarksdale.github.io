@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2008-11-03
+modDatetime: 2025-03-10T18:29:16Z
 title: Frankenstein’s editor
 slug: frankensteins-editor
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: An exploration of the collaboration between Mary Shelley and Percy Shelley in the creation of "Frankenstein," touching on the misconceptions surrounding the text.
 emoji: 🧟‍♂️
 tags:
-  - 📚 Literary Works
-  - ✍️ Collaborations
+  - ✍️ Literature
+  - ✍️ Manuscripts
+  - 🤔 Philosophy
+  - 📖 Biographies
+  - 🏛️ Museums
 haiku: |
   Monster forged in dreams  
   Words exchanged in quiet space  

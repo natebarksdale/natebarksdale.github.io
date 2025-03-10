@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-02
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Can’t say no to that!
 slug: cant-say-no-to-that
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: Improv Everywhere orchestrated a delightful surprise wedding reception for a couple tying the knot at City Hall in New York City.
 emoji: 🎉
 tags:
-  - 💍 Weddings
-  - 🎈 Celebrations
+  - 🇺🇸 United States
+  - 🎭 Entertainment
+  - 🎉 Celebration
 haiku: |
   Joy fills the city,  
   Love is a surprise today,  

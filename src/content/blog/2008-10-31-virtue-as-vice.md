@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2008-10-31
+modDatetime: 2025-03-10T18:29:16Z
 title: Virtue as vice
 slug: virtue-as-vice
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: A reflection on how our perceptions of virtue often intertwine with cultural tastes, highlighting the complexities of our choices and environmental impact.
 emoji: 🍃
 tags:
-  - 🌊 oceans
-  - 🌎 ecology
-  - 🥗 virtue
-  - ☠️ consumption
+  - ⚖️ Ethics
+  - 🌍 Environment
+  - ❤️ Kindness
+  - 🌱 Sustainability
 haiku: |
   Sins masked by virtue,  
   Taste guides the moral compass,  

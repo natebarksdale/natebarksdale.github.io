@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2008-11-06
+modDatetime: 2025-03-10T18:29:16Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A glimpse into Edward Bellamy's vision of musical culture in the year 2000, where professional music is readily accessible at all times.
 emoji: 🎶
 tags:
+  - 🌍 Culture
   - 🎵 Music
-  - 📚 Literature
-  - 🌆 Utopia
+  - 📖 Books
+  - 🕰️ Time
 haiku: |
   Sounds of the future,  
   Music flows like air we breathe,  

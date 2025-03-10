@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2009-02-12
+modDatetime: 2025-03-10T18:29:19Z
 title: Tony Hairdressing for Men
 slug: tony-hairdressing-for-men
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Here's a glimpse into a stylish establishment in Westminster
 emoji: 🧑‍🎤
 tags:
-  - ✂️ Hairdressing
-  - 👔 Fashion
   - 🇬🇧 London
+  - 🌆 Urban Spaces
+  - 🛋️ Furniture
+  - 💡 Design
 haiku: |
   Tony's chair awaits,  
   Sharp scissors dance with style,  

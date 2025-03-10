@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-18
-modDatetime: 2014-03-18
+modDatetime: 2025-03-10T18:29:24Z
 title: Essays | The Cell Phone Gospel
 slug: essays-the-cell-phone-gospel
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: From a review of Assa Doron and Robin Jeffrey's study, a poignant observation on the surprising presence of technology amidst poverty in India.
 emoji: 📱
 tags:
-  - 📶 Connectivity
-  - 🌍 Technology
-  - 🏙️ Urban Life
-  - 💔 Poverty
+  - 🌍 Exploration
+  - 📱 Mobile Phones
+  - 📖 Books
+  - 📚 Education
 haiku: |
   In dusty ruins,  
   A bright screen shines in contrast,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: Nabokov on the translator’s art
 slug: nabokov-on-the-translators-art
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: An exploration of the complexities of translation through Nabokov's vivid metaphor.
 emoji: 🌳
 tags:
-  - 🌍 cultures
-  - ✨ metaphors
-  - 🛠️ translations
+  - ✍️ Translation
+  - 🌍 Culture
+  - 🌀 Complexity
 haiku: |
   Shadows weave through time,  
   An oak's shadow mirrored bright,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-18
-modDatetime: 2009-02-18
+modDatetime: 2025-03-10T18:29:19Z
 title: Giorgio de Chirico exhibit, Paris
 slug: giorgio-de-chirico-exhibit-paris
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: This photograph beautifully captures the interplay between viewers and art, showcasing the conversation sparked by de Chirico's "La Comedie et la Tragedie."
 emoji: 🎨
 tags:
-  - 🎭 Arts
-  - 👥 Observers
-  - 🍴 Lunch
+  - 🎨 Art
+  - 🖋️ Commentary
+  - 🌍 Culture
+  - 📝 Writing
 haiku: |
   Viewing life’s canvas,  
   Conversations linger here,  

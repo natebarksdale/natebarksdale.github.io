@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-21
-modDatetime: 2012-01-21
+modDatetime: 2025-03-10T18:29:23Z
 title: Dinner with strangers
 slug: dinner-with-strangers
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Alain de Botton explores how religions foster community and encourage connection with strangers, inspired by rituals like the Catholic mass and Jewish Passover.
 emoji: 🍽️
 tags:
-  - 🍴 Communities
-  - 🤝 Connection
-  - ✝️ Religion
+  - ⛪ Religion
+  - ❤️ Kindness
+  - 🌍 Society
+  - 📝 Writing
 haiku: |
   Strangers share a meal,  
   Breaking bread in bright colors,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2008-12-16
+modDatetime: 2025-03-10T18:29:17Z
 title: The stream-of-consciousness discipline
 slug: the-stream-of-consciousness-discipline
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of how modern technology influences writing, contrasting the unfiltered flow of Kerouac's prose with the editing capabilities of contemporary word processors.
 emoji: 🌀
 tags:
-  - ✍️ Writers
-  - 🖥️ Technology
-  - 📜 Literature
+  - ✍️ Literature
+  - 🌀 Complexity
+  - 💡 Ideas
+  - 📝 Writing
+  - 🌐 Blogging
 haiku: |
   Scrolls tell a tale,  
   Editing steals the essence,  

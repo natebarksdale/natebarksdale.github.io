@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-28
-modDatetime: 2010-08-28
+modDatetime: 2025-03-10T18:29:23Z
 title: Mix CD | Marylanderful!
 slug: mix-cd-marylanderful
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: This post celebrates the Maryland bar exam with a unique mix of cultural references and design elements related to Baltimore.
 emoji: 🌸
 tags:
-  - 🌆 Cities
-  - 🎶 Music
-  - 🌺 Flowers
+  - 🇺🇸 United States
+  - 📖 Articles
+  - 🌍 Culture
+  - 🎶 Activities
 haiku: |
   Baltimore's shadow,  
   Black-eyed susans blooming bright,  

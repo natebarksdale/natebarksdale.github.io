@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-25
-modDatetime: 2008-11-25
+modDatetime: 2025-03-10T18:29:17Z
 title: “Gaviota,” performed Amália Rodrigues
 slug: gaviota-performed-amalia-rodrigues
 featured: false
@@ -10,7 +10,10 @@ description: A lovely performance from the late diva of fado, Amália Rodrigues,
 emoji: 🎶
 tags:
   - 🎤 Performances
-  - 🇵🇹 Fado
+  - 🎶 Activities
+  - 🌍 Culture
+  - ✍️ Literature
+  - 🎵 Music
 haiku: |
   Amália sings with soul,  
   Longing on the soft night breeze,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2008-12-18
+modDatetime: 2025-03-10T18:29:18Z
 title: LOLCat-tharsis
 slug: lolcat-tharsis
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In a thought-provoking exploration of internet culture, a Psychology Today editor draws an intriguing parallel between LOLcats and the clever dogs in New Yorker cartoons.
 emoji: 🐱
 tags:
-  - 🐈‍⬛ Cats
-  - 📰 Media
-  - 😂 Humor
+  - 🌐 Blogging
+  - 📖 Articles
+  - 🖋️ Commentary
+  - 😎 Coolness
 haiku: |
   Clever cats speak truths,  
   In laughter, depths revealed,  

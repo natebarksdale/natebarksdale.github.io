@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2009-02-02
+modDatetime: 2025-03-10T18:29:19Z
 title: Suggesting unsuggestions
 slug: suggesting-unsuggestions
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of the value of seeking out diverse reading experiences rather than sticking to familiar genres and preferences.
 emoji: 📚
 tags:
-  - 📖 Books
-  - 🔄 Serendipity
-  - 🌍 Diversity
+  - 🌀 Complexity
+  - 🌍 Culture
+  - ⚙️ Technology
+  - 📝 Writing
+  - 🤔 Curiosity
 haiku: |
   Read beyond your scope,  
   Find joy in the unknown paths,  

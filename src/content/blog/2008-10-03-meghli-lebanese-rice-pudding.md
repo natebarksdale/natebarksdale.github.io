@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2008-10-03
+modDatetime: 2025-03-10T18:29:15Z
 title: Meghli (Lebanese Rice pudding)
 slug: meghli-lebanese-rice-pudding
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Meghli, a delightful Lebanese rice pudding traditionally prepared for special occasions, especially to celebrate a newborn.
 emoji: 🍚
 tags:
-  - 🍬 Desserts
-  - 🍂 Traditions
+  - 🍴 Cuisine
   - 🇱🇧 Lebanon
+  - 🌍 Culture
 haiku: |
   Creamy rice delight,  
   Spices mingle, joy abounds,  

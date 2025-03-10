@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-29
-modDatetime: 2025-03-07T22:29:41Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Dancers Among Us, by Jordan Matter
 slug: dancers-among-us-by-jordan-matter
 featured: false
@@ -9,9 +9,8 @@ draft: false
 description: A vibrant NYC dance photography project capturing the artistry of members from the Paul Taylor and Martha Graham Dance Companies.
 emoji: 💃
 tags:
-  - 💃 Dancers
-  - 🗽 NYC
-  - 📷 Photography
+  - 🎨 Art
+  - 🌍 Culture
 haiku: |
   Grace in city streets,  
   Art flows through the bustling life,  

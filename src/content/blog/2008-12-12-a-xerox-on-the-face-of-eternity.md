@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-12
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: A xerox on the face of eternity
 slug: a-xerox-on-the-face-of-eternity
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A reflection on the stories surrounding iconic structures like the Taj Mahal and their designers, alongside a contemporary debate about architectural copyright.
 emoji: 🕌
 tags:
-  - 🏰 monuments
-  - 📜 architecture
-  - 🇮🇳 India
+  - 🏛️ Architecture
+  - ⚖️ Law
+  - 🌍 Culture
+  - ⚖️ Ethics
 haiku: |
   Crafted in marble,  
   Beauty bound by tales of fate,  

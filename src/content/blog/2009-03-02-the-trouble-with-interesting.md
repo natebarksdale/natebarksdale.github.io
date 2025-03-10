@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-02
-modDatetime: 2009-03-02
+modDatetime: 2025-03-10T18:29:19Z
 title: The trouble with interesting
 slug: the-trouble-with-interesting
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Reflecting on Walker Percy's exploration of modern emotions, particularly the shift from genuine feelings to mere interest and boredom.
 emoji: 🎭
 tags:
-  - 📰 newspapers
-  - 😮 emotions
-  - 🔍 curiosity
+  - 💬 Conversations
+  - 🤔 Curiosity
+  - 📝 Writing
+  - 🗳️ Politics
 haiku: |
   In a world of sighs,  
   Boredom glazes over hearts,  

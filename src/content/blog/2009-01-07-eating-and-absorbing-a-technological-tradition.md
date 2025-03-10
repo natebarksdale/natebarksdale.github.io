@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2009-01-07
+modDatetime: 2025-03-10T18:29:18Z
 title: Eating and absorbing a technological tradition
 slug: eating-and-absorbing-a-technological-tradition
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: This excerpt from Francesca Bray highlights how cultural objects and practices can embody profound meanings through the technologies involved in their production, particularly in the context of Japan's agricultural traditions.
 emoji: 🍚
 tags:
-  - 🌾 rice
-  - 🇯🇵 Japan
+  - 🌍 Culture
+  - 🌍 Identity
+  - ⚙️ Technology
+  - ♻️ Repurposing
+  - ❤️ Relationships
 haiku: |
   Tradition in grain,  
   Harmony with the past lives,  

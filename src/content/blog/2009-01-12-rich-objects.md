@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2009-01-12
+modDatetime: 2025-03-10T18:29:18Z
 title: Rich objects
 slug: rich-objects
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: Exploring the profound connection between children and their interaction with cultural artifacts, as highlighted in Sherry Turkle's reflections on the power of objects in science education.
 emoji: 🎨
 tags:
-  - 🧪 Experiments
-  - 🧠 Curiosity
+  - 🌍 Culture
   - 🔬 Science
-  - 🧩 Creativity
+  - 📝 Writing
+  - 💡 Ideas
 haiku: |
   Objects attract minds,  
   Young hearts entwined with the quest,  

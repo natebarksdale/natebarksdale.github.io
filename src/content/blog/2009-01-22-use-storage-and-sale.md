@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2009-01-22
+modDatetime: 2025-03-10T18:29:19Z
 title: Use, storage, and sale
 slug: use-storage-and-sale
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A significant move in Delhi as officials take a strong stance against plastic bags, following the footsteps of other countries like Rwanda and Bhutan. "Carry a plastic bag in Delhi and you could be imprisoned for five years..."
 emoji: 🛍️
 tags:
-  - 🚫 bans
-  - 🌍 environment
-  - 🇮🇳 India
+  - 🌍 Environment
+  - 🌍 Health
+  - ⚖️ Law
+  - ⚠️ Danger
+  - ♻️ Repurposing
 haiku: |
   Plastic bags, no more,  
   Drains choked, health at risk now,  

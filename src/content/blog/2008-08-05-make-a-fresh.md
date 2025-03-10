@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2008-08-05
+modDatetime: 2025-03-10T18:29:13Z
 title: Make a fresh!
 slug: make-a-fresh
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: Google Maps has expanded its Street View coverage to Australia and Japan, making it a great time for cross-cultural exploration! Here's a glimpse into the experience.
 emoji: 🌏
 tags:
-  - 🗾 Japan
   - 🇦🇺 Australia
-  - 🌆 Cityscapes
-  - 📸 Photography
+  - 🇯🇵 Japan
+  - 🌍 Exploration
+  - 🌍 Culture
+  - 🌐 Digital
 haiku: |
   Streets intertwine worlds,  
   Laughter spans the distant,  

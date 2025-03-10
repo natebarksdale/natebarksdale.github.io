@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-03-01
-modDatetime: 2001-03-01
+modDatetime: 2025-03-10T18:29:12Z
 title: Fast and Right through Me
 slug: fast-and-right-through-me
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A reflective review of Dave Eggers's memoir _A Heartbreaking Work of Staggering Genius_, exploring themes of grief, authenticity, and the struggle for connection amidst personal loss.
 emoji: 💔
 tags:
+  - ✍️ Literature
+  - 📖 Biographies
   - 📖 Books
-  - 📝 Memoirs
+  - ❤️ Love
   - 💔 Grief
 haiku: |
   Heart exposed, laid bare,  

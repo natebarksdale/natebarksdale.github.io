@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2009-01-20
+modDatetime: 2025-03-10T18:29:18Z
 title: The perils of measurement
 slug: the-perils-of-measurement
 featured: false
@@ -11,7 +11,9 @@ emoji: ⚖️
 tags:
   - 📏 Measurements
   - 🔍 Uncertainty
-  - 🌌 Quantum Physics
+  - 🤔 Curiosity
+  - 🔬 Science
+  - 📊 Statistics
 haiku: |
   Knowing brings a cost,  
   Truth obscured by measurement,  

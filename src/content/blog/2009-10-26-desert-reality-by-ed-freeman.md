@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-26
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:21Z
 title: Desert Reality, by Ed Freeman
 slug: desert-reality-by-ed-freeman
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An appreciation of Ed Freeman's evocative photography, particularly his Desert Reality series, captures the intimate relationship between nature and abandoned structures.
 emoji: 🌵
 tags:
-  - 📷 Photography
+  - 🌆 Urban Spaces
   - 🏚️ Abandonment
-  - 🌳 Nature
+  - 🖼️ Artifacts
+  - 🌱 Sustainability
 haiku: |
   Desert dreams linger,  
   Abandoned blooms entwined,  

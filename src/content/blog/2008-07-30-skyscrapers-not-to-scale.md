@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-30
-modDatetime: 2008-07-30
+modDatetime: 2025-03-10T18:29:13Z
 title: Skyscrapers not to scale
 slug: skyscrapers-not-to-scale
 featured: false
@@ -9,9 +9,8 @@ draft: false
 description: Discover the intriguing data-driven globes from Yale’s G-Econ group, which showcase various global statistics through unique topological representations.
 emoji: 🌍
 tags:
-  - 📊 data visualizations
-  - 🗺️ population density
-  - 🌧️ rainfall patterns
+  - 🌍 Globalization
+  - ⚙️ Technology
 haiku: |
   Spikes on horizons,  
   Data shapes our world anew,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-16
-modDatetime: 2008-10-16
+modDatetime: 2025-03-10T18:29:15Z
 title: Holy Monastery of Simonos Petra, Mt. Athos, Greece
 slug: holy-monastery-of-simonos-petra-mt-athos-greece
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: An evocative reflection on a 13th-century Orthodox monastery that beautifully captures its duality of precariousness and homeliness amidst the twilight. This excerpt highlights the unexpected presence of an orange plastic debris chute, juxtaposing ancient architecture with modernity.
 emoji: 🏰
 tags:
-  - 🕍 monasteries
-  - 🌅 twilight
-  - ♻️ debris
+  - ⛪ Religion
+  - 🌍 Culture
+  - 🏛️ Churches
 haiku: |
   Craggy stones endure,  
   Twilight's embrace whispers home,  

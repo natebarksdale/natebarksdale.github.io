@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-07
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Church of the Immaculate Conception, Port-au-Prince, by Allison Shelley
 slug: church-of-the-immaculate-conception-port-au-prince-by-allison-shelley
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A poignant reflection on the aftermath of the earthquake in Haiti, highlighted through powerful imagery by Allison Shelley.
 emoji: 📸
 tags:
-  - 🏛️ Churches
-  - 🌍 Earthquake
-  - ❤️ Resilience
+  - ⛪ Religion
+  - 🌍 Haiti
+  - 📷 Photography
+  - 🗺️ States
 haiku: |
   Ruins tell a tale,  
   Hope rises from the ashes,  

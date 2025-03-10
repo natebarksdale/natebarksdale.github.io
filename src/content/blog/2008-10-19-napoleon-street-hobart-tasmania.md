@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-19
-modDatetime: 2008-10-19
+modDatetime: 2025-03-10T18:29:16Z
 title: Napoleon Street, Hobart, Tasmania
 slug: napoleon-street-hobart-tasmania
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A charming observation on the interplay of angles and the picturesque harbor in Hobart, Tasmania. "I love the interplay of angles in this home—the gables and the steep-sloped street. And once you get out into the harbor, it's more or less a straight shot south to Antarctica."
 emoji: 🏠
 tags:
-  - 🌊 Harbors
-  - ⛰️ Mountains
+  - 🇦🇺 Australia
+  - 🌊 Ocean
+  - 🌅 Reflection
+  - 🏞️ National Parks
 haiku: |
   Gables touch the sky,  
   Steep streets lead to the sea's edge,  

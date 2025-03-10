@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-14
-modDatetime: 2014-03-14
+modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Red Bull
 slug: portfolio-red-bull
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Animated elements showcased for the Red Bull sales team's national gathering, enhancing engagement and presentation quality.
 emoji: 🥤
 tags:
-  - 🔋 Beverages
-  - 📈 Sales
-  - 🤝 Teamwork
+  - 🎨 Creativity
+  - 🌐 Blogging
+  - 🏆 Success
 haiku: |
   Energy and drive,  
   Gathering for the goal,  

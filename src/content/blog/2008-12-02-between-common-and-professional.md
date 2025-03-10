@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-02
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: Between common and professional
 slug: between-common-and-professional
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: An insightful exploration of the interplay between tradition and innovation in the shaping of North America's landscape by early European settlers.
 emoji: 🌾
 tags:
-  - 🚜 Agriculturalists
-  - 🏗 Builders
+  - 🌍 Culture
+  - 🌍 History
+  - 🌍 Identity
+  - ⚒️ Blacksmiths
 haiku: |
   Land shaped by the hand,  
   Tradition whispers softly,  

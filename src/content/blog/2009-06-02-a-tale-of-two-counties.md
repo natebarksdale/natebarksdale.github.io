@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-02
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: A tale of two counties
 slug: a-tale-of-two-counties
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: A conversation between two friends exploring the complexities of local culture and its impact on community health in small-town Kansas.
 emoji: 🌾
 tags:
-  - 🌍 communities
-  - 📈 growth
-  - 🤝 respect
-  - 📉 decline
+  - 🌍 Kansas
+  - ⚕️ Medicine
+  - ⚖️ Law
+  - ❤️ Kindness
+  - 📝 Writing
 haiku: |
   Towns flourish with care,  
   Words weave a vibrant culture,  

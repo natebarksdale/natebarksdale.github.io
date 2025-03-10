@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-10
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Butterfly in the sky, I could go twice as high
 slug: butterfly-in-the-sky-i-could-go-twice-as-high
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Reflecting on the impact of _Reading Rainbow_, a beloved show that fostered a love of reading in children, its cancellation marks a shift in educational programming priorities.
 emoji: 📚
 tags:
-  - 📖 Books
-  - 💔 Nostalgia
-  - 🎓 Education
+  - ✍️ Literature
+  - 💿 Nostalgia
+  - 🌈 Hope
 haiku: |
   Reading sparks joy deep,  
   Love for books blooms in hearts,  

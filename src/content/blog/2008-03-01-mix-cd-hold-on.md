@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-03-01
-modDatetime: 2008-03-01
+modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Hold On
 slug: mix-cd-hold-on
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: For a while, I've been interested in the ways that repeating a word over and over can change it—sometimes it loses meaning, becoming a simple babble of repeated sounds. In other cases, the repetition increases the strength and depth of the word.
 emoji: 🎵
 tags:
-  - 🎶 songs
-  - 🌈 hope
-  - 🔄 repetition
+  - 🎶 Activities
+  - 🎵 Music
+  - 📖 Discussions
+  - ❤️ Kindness
 haiku: |
   Words echo through time,  
   Holding on to fleeting dreams,  

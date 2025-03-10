@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-16
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Instead of adoring eyes, a sea of lenses
 slug: instead-of-adoring-eyes-a-sea-of-lenses
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of how technology impacts our experiences at high school performances, emphasizing the contrast between the roles of different types of videographers.
 emoji: 🎭
 tags:
-  - 📸 Cameras
-  - 🎤 Performances
-  - 🖼️ Artifacts
+  - ⚙️ Technology
+  - ⚖️ Ethics
+  - 🌍 Society
+  - 📱 Distraction
+  - 📝 Writing
 haiku: |
   Lenses capturing,  
   where is the soul in shadows?  

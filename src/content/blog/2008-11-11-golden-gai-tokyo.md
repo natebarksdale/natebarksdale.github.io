@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-11
-modDatetime: 2008-11-11
+modDatetime: 2025-03-10T18:29:16Z
 title: Golden Gai, Tokyo
 slug: golden-gai-tokyo
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Exploring the vibrant and historical charm of Golden Gai in Tokyo, where yakuza once ran the bars, captured beautifully in this brush pen drawing.
 emoji: 🍶
 tags:
-  - 🏙️ districts
-  - 🍻 bars
-  - 🔥 history
+  - 🇯🇵 Japan
+  - ⚔️ Enemies
+  - 🏙️ Landmarks
+  - 🌀 Complexity
+  - 🌍 Culture
 haiku: |
   Neon lights flicker,  
   Yakuza's whispers linger,  

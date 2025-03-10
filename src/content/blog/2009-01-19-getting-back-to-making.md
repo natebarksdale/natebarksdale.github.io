@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2009-01-19
+modDatetime: 2025-03-10T18:29:18Z
 title: Getting back to making
 slug: getting-back-to-making
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: Reflecting on the challenges of balancing creation and curation, Gina Trapani shares her journey with Lifehacker and the motivations behind her desire to return to making.
 emoji: 🎨
 tags:
-  - ✍️ writing
-  - 🛠️ creativity
-  - ⏳ time management
-  - 🌐 blogging
+  - 💻 Self-Help
+  - 📝 Writing
+  - 🌍 Culture
+  - 🎨 Creativity
+  - ⚖️ Choices
 haiku: |
   Crafting with my pen,  
   Drowning in others' stories,  

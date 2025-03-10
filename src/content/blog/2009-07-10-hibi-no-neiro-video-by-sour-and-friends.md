@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-10
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: 日々の音色 (Hibi no neiro), video by SOUR and friends
 slug: hibi-no-neiro-video-by-sour-and-friends
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Celebrate Friday with a unique blend of crowdsourced creativity and J-pop by SOUR, featuring fans from around the world.
 emoji: 🌍
 tags:
-  - 📼 webcam
-  - 🎶 music
-  - 🌏 culture
+  - 🌍 Culture
+  - 🎵 Music
+  - 🌐 Blogging
+  - 🇯🇵 Japan
+  - 🌍 Diversity
 haiku: |
   Fans from afar join,  
   Dancing with joy in each frame,  

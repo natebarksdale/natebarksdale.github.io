@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-11
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Fine tuning
 slug: fine-tuning
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: An insightful moment from Indian sitar virtuoso Ravi Shankar's performance, highlighting the audience's appreciation of music.
 emoji: 🎶
 tags:
-  - 🎻 Musicians
+  - 🎵 Music
+  - 🎤 Performances
   - 🗽 New York
+  - 🌍 Culture
+  - 🌍 Society
 haiku: |
   Strings pluck in the night,  
   Sounds weave through the garden's heart,  

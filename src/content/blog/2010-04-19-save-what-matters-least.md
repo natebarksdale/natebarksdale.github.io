@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-19
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Save what matters least
 slug: save-what-matters-least
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: Reflecting on the value of what we choose to preserve, Kevin Kelly explores the significance of collecting the overlooked artifacts of our time.
 emoji: 🗝️
 tags:
-  - 📦 time capsules
-  - 🗑️ garbage pits
-  - 🧐 artifacts
-  - 🌍 history
+  - 🌀 Complexity
+  - 📚 Preservation
+  - ⏰ Time
+  - 🌍 Culture
 haiku: |
   Hidden treasures lie,  
   In what we throw away now,  

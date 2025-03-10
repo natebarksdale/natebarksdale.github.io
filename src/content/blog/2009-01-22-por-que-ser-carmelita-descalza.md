@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2009-01-22
+modDatetime: 2025-03-10T18:29:19Z
 title: ¿Por qué ser Carmelita Descalza?
 slug: por-que-ser-carmelita-descalza
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A unique strategy by a historic convent in Spain to attract new novices through social media. The Barefoot Carmelite nuns of Ecija have turned to YouTube to share their way of life in a modern way.
 emoji: 📹
 tags:
-  - 🙏 Nuns
-  - 📺 YouTube
-  - 🌍 Spain
+  - ⛪ Religion
+  - 🌍 Culture
+  - 🎥 Film
+  - 📱 Social Networks
 haiku: |
   Sisters seek new light,  
   In the glow of the screen's warmth,  

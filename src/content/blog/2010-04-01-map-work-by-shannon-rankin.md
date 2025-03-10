@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-01
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Map work by Shannon Rankin
 slug: map-work-by-shannon-rankin
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Exploring the captivating art of Shannon Rankin, who transforms cut-up maps into thought-provoking collages that challenge our perceptions of geography and connection.
 emoji: 🗺️
 tags:
-  - 🖼️ Collages
+  - ♻️ Repurposing
   - 🌍 Cartography
-  - ✂️ Artistry
+  - 🎨 Art
+  - 🌍 Culture
+  - 💡 Ideas
 haiku: |
   Maps cut and reformed,  
   New worlds emerge from the scraps,  

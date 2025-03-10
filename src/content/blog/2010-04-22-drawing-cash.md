@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-22
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Drawing Cash
 slug: drawing-cash
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An interactive site allows users to contribute frames to a rotoscoped music video of Johnny Cash's "Ain't No Grave."
 emoji: 🎨
 tags:
-  - 🎤 Music
-  - 👥 Community
-  - ✏️ Art
+  - 🎥 Film
+  - 🌍 Culture
+  - 📝 Writing
+  - ♻️ Repurposing
 haiku: |
   Frames of memories,  
   Art unites the lost voices,  

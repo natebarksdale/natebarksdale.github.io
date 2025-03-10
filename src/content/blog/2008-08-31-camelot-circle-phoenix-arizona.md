@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-31
-modDatetime: 2008-08-31
+modDatetime: 2025-03-10T18:29:14Z
 title: Camelot Circle, Phoenix, Arizona
 slug: camelot-circle-phoenix-arizona
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An intriguing showcase of all-gravel lawns in a unique suburb west of Phoenix, complete with environmental benefits.
 emoji: 🌵
 tags:
-  - 🏡 landscapes
-  - 💧 conservation
-  - 🌞 desert life
+  - 🌍 Ecology
+  - 🌍 Environment
+  - 🌱 Sustainability
+  - 🏘️ Communities
+  - 🏡 Refugees
 haiku: |
   Gravel lawn shines bright,  
   Water saved under sun's gaze,  

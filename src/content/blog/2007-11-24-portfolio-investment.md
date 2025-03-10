@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-11-24
-modDatetime: 2007-11-24
+modDatetime: 2025-03-10T18:29:12Z
 title: Portfolio | Investment
 slug: portfolio-investment
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: Delving into the visual identity of a distinguished investment management company through a sleek logo and business card design. Based on the content, relevant coordinates could be approximately 34.0522° N, 118.2437° W (Los Angeles, CA).
 emoji: 📈
 tags:
-  - 💼 business cards
-  - 💰 investments
+  - 💼 Business
+  - 💰 Commerce
+  - 📝 Writing
+  - 📊 Data Visualization
+  - ⚖️ Law
 haiku: |
   Investing with care,  
   Futures brightened by wisdom,  

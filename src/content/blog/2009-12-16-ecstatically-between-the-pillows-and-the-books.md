@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-16
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:21Z
 title: Ecstatically between the pillows and the books
 slug: ecstatically-between-the-pillows-and-the-books
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In this excerpt from David Foster Wallace's _The Pale King_, the author explores the intertwining of childhood ecstasy and maternal love through evocative imagery and a sense of magic in the everyday.
 emoji: 🌈
 tags:
-  - 😊 Joy
-  - 📖 Literature
-  - 🌼 Childhood
+  - ✍️ Literature
+  - 🌅 Reflection
+  - ✨ Beauty
+  - 🌞 Summer
 haiku: |
   Voices call with light,  
   Ecstasy in springtime,  

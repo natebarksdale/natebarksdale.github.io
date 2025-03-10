@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-16
-modDatetime: 2014-03-16
+modDatetime: 2025-03-10T18:29:24Z
 title: Articles | European History for History.com
 slug: articles-european-history-for-historycom
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:
-  - 🏰 Monarchs
-  - 💡 Philosophers
-  - ⛪ Reformation
+  - 🌍 History
+  - 📖 Articles
+  - 📜 Ancient Texts
+  - ✍️ Literature
+  - ⚖️ Choices
 haiku: |
   Kings and thinkers rise,  
   Knowledge sparks a great discourse,  

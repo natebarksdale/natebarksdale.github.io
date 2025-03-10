@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-24
-modDatetime: 2008-12-24
+modDatetime: 2025-03-10T18:29:18Z
 title: Sinatra songs and the Salve Regina
 slug: sinatra-songs-and-the-salve-regina
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A sublime cultural moment captured in Walker Percy’s reflection on Christmas, blending the everyday with the transcendent.
 emoji: 🎄
 tags:
-  - 🎉 Celebrations
-  - 🍗 Food
-  - 🌌 Night Sky
+  - 🎄 Holidays
+  - ❤️ Love
+  - 🎶 Activities
+  - ✨ Grace
 haiku: |
   On a cold night sky,  
   Turkey smokes, blessings abound,  

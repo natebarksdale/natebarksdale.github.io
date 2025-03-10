@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-28
-modDatetime: 2010-04-28
+modDatetime: 2025-03-10T18:29:22Z
 title: Mix CD | Celestial Objects
 slug: mix-cd-celestial-objects
 featured: false
@@ -9,11 +9,10 @@ draft: false
 description: A special custom mix CD celebrating the birthday of a historian of science and astronomy enthusiast features 19 tracks corresponding to the brightest visible celestial objects.
 emoji: 🌌
 tags:
-  - 🌟 celestial objects
-  - 🎶 custom music
-  - 📀 CD design
-  - ✨ astronomy
-  - 🎂 birthday gift
+  - 🌌 Astronomy
+  - 🌌 Space
+  - 🎵 Music
+  - 🌍 Culture
 haiku: |
   Stars align in songs,  
   Whispers of the night sky,  

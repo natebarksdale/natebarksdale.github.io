@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-29
-modDatetime: 2008-10-29
+modDatetime: 2025-03-10T18:29:16Z
 title: Comic grace
 slug: comic-grace
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A reflection on the interplay of grace and passion in human lives and societies, highlighting both their significance and humor.
 emoji: 🕊️
 tags:
-  - 🎭 Comedies
-  - ✨ Transformations
+  - ✨ Grace
+  - ✍️ Literature
+  - 🌍 Society
+  - 🌍 Culture
 haiku: |
   Grace and passion rise,  
   Moments of flight and joy,  

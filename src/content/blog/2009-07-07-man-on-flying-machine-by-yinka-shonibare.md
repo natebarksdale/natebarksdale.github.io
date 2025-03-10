@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-07
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Man on Flying Machine, by Yinka Shonibare
 slug: man-on-flying-machine-by-yinka-shonibare
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Yinka Shonibare's captivating sculptures challenge notions of race and class through the lens of historical European fashion and contemporary African identity.
 emoji: 🎨
 tags:
-  - 🗽 art
-  - 🌍 culture
-  - 👗 fashion
+  - 🌍 Culture
+  - 🌍 Diversity
+  - 🎨 Art
+  - 🌆 Brooklyn
+  - 🖼️ Artifacts
 haiku: |
   Dandies intertwined,  
   Fabrics tell a new story,  

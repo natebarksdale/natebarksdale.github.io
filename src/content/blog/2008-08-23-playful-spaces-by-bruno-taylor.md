@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2008-08-23
+modDatetime: 2025-03-10T18:29:13Z
 title: Playful spaces, by Bruno Taylor
 slug: playful-spaces-by-bruno-taylor
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A young UK designer adds a whimsical touch to urban life with a swing installation at a bus shelter, sparking playful interactions among passersby.
 emoji: 🎡
 tags:
-  - 🎠 swings
-  - 🏙️ urban spaces
-  - 👩‍🎤 public art
+  - 🌆 Urban Spaces
+  - 🌍 Culture
+  - 🎨 Creativity
+  - 🚦 Public Safety
+  - ⚠️ Danger
 haiku: |
   Swing in the city,  
   Laughter echoes through the streets,  

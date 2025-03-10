@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:19Z
 title: All tomorrow’s parties
 slug: all-tomorrows-parties
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A reflection on the enduring influence of The Velvet Underground and its impact on aspiring musicians. "The Velvet Underground did not sell many records, but everyone who bought one went out and started a band."
 emoji: 🎸
 tags:
-  - 🎶 Bands
-  - 📀 Records
-  - 🤘 Rock
+  - 🎵 Music
+  - 🎤 Performances
+  - 🎶 Sounds
 haiku: |
   Echoes in the night,  
   Vinyl dreams ignite the spark,  

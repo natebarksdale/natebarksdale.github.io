@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-26
-modDatetime: 2010-09-26
+modDatetime: 2025-03-10T18:29:23Z
 title: My charango
 slug: my-charango
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A journey into the world of the charango, a unique Andean instrument, as I reflect on my musical exploration and the cultural significance behind it.
 emoji: 🎸
 tags:
-  - 🎶 Instruments
   - 🇧🇴 Bolivia
   - 🎵 Music
+  - 📝 Writing
+  - 🌍 Culture
 haiku: |
   Seeking melody,  
   Charango's sweet sound beckons,  

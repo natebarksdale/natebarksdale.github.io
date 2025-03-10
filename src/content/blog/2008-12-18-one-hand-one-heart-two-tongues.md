@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2008-12-18
+modDatetime: 2025-03-10T18:29:18Z
 title: One hand, one heart, two tongues
 slug: one-hand-one-heart-two-tongues
 featured: false
@@ -9,11 +9,10 @@ draft: false
 description: A discussion on the bilingual revival of _West Side Story_ and its efforts to redress cultural biases.
 emoji: 🎭
 tags:
-  - 🎶 musicals
-  - 🇵🇷 Puerto Ricos
-  - 🩰 dance
-  - 🌆 gentrification
-  - 📖 adaptations
+  - 🎭 Entertainment
+  - 🌍 Culture
+  - ✍️ Literature
+  - 🌆 Urban Spaces
 haiku: |
   Sharks rise, Jets can’t hide,  
   Bilingual dreams collide,  

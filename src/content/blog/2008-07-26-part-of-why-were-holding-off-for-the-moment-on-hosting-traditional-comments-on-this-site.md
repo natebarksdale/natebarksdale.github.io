@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2008-07-26
+modDatetime: 2025-03-10T18:29:13Z
 title: Part of why we’re holding off, for the moment, on hosting traditional comments on this site
 slug: part-of-why-were-holding-off-for-the-moment-on-hosting-traditional-comments-on-this-site
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Reflecting on Rozanov's critique of Herzen and the paradox of emotional impact in literature.
 emoji: 😢
 tags:
-  - 📚 Literary Critique
-  - 🌍 Russian Literature
-  - 👧 Young Girls
+  - ✍️ Literature
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 💬 Communication
 haiku: |
   Words stir deep emotions,  
   Sane minds can't make hearts tremble,  

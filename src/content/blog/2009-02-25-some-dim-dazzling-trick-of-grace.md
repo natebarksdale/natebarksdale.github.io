@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-25
-modDatetime: 2009-02-25
+modDatetime: 2025-03-10T18:29:19Z
 title: Some dim dazzling trick of grace
 slug: some-dim-dazzling-trick-of-grace
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Reflecting on the poignant moments in Walker Percy’s _The Moviegoer_, particularly regarding faith and presence.
 emoji: 🕊️
 tags:
-  - 🕊️ spirituality
-  - 🚗 introspection
-  - ⛪ church
+  - ✝️ Christianity
+  - 🌅 Reflection
+  - 🤔 Philosophy
 haiku: |
   Watching through the glass,  
   Ambiguous journeys unfold,  

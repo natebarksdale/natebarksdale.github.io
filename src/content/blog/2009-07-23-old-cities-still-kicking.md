@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-23
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Old cities, still kicking
 slug: old-cities-still-kicking
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: A critique of the overview of Varanasi's tourist influx, along with a reference to a more reliable list of ancient cities.
 emoji: 🏙️
 tags:
-  - 🕌 Cities
   - 🌍 History
+  - 🌍 Culture
+  - 🌍 Exploration
+  - 🌆 Cities
+  - 🌆 Urban Spaces
 haiku: |
   Old cities whisper,  
   Time's stories etched in stone,  

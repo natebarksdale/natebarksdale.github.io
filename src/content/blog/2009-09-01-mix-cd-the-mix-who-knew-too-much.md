@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-01
-modDatetime: 2009-09-01
+modDatetime: 2025-03-10T18:29:20Z
 title: Mix CD | The Mix Who Knew Too Much
 slug: mix-cd-the-mix-who-knew-too-much
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: A creative exploration that challenges the balance between Alfred Hitchcock's cinematic themes and the musical landscape, while incorporating visual elements inspired by his iconic style.
 emoji: 🎥
 tags:
-  - 🎬 films
-  - 🎨 design
-  - 🎶 music
-  - 📽️ Hitchcock
+  - 🎬 Hollywood
+  - 🎭 Entertainment
+  - 📜 Folklore
+  - 🌀 Complexity
 haiku: |
   Shadows on the screen,  
   Twists and turns in every frame,  

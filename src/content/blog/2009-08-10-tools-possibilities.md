@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-10
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Tools = possibilities
 slug: tools-possibilities
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: Kevin Kelly reflects on how innovative ideas often stem from the potential offered by unique tools, as exemplified by Garret Wade's collection.
 emoji: 🔨
 tags:
-  - 🔧 tools
-  - 💡 ideas
+  - ⚒️ Blacksmiths
+  - ⚙️ Technology
+  - 💡 Innovation
+  - 🛠️ Tools
+  - 📝 Writing
 haiku: |
   From tools arise dreams,  
   Crafting visions with each hand,  

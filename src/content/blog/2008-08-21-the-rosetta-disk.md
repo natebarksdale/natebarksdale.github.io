@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-21
-modDatetime: 2008-08-21
+modDatetime: 2025-03-10T18:29:13Z
 title: The Rosetta Disk
 slug: the-rosetta-disk
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: The Rosetta Disk serves as a remarkable effort to preserve the world's linguistic heritage for future generations. “Languages of the World
 emoji: 📜
 tags:
-  - 🌐 Languages
-  - 🗿 Preservation
-  - 📚 Knowledge
+  - 📖 Adaptations
+  - ⏰ Time
+  - 🔬 Science
 haiku: |
   Scrolls of the past speak,  
   Lost tongues in time's embrace,  

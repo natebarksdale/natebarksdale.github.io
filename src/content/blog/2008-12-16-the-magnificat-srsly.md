@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2008-12-16
+modDatetime: 2025-03-10T18:29:17Z
 title: The MagnifiCat (srsly)
 slug: the-magnificat-srsly
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: An exploration of the cultural implications of the LOLCat Bible Translation Project, considering its balance between humor and reverence.
 emoji: 😺
 tags:
-  - 🐾 LOLCats
+  - ✍️ Translation
   - 📖 Bible
-  - 😂 Humor
-  - 🎨 Art
+  - 🌍 Culture
+  - 🤔 Philosophy
   - 🙏 Faith
 haiku: |
   Sacred text transformed,  

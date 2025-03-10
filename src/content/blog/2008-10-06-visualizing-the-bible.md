@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-06
-modDatetime: 2008-10-06
+modDatetime: 2025-03-10T18:29:15Z
 title: Visualizing the Bible
 slug: visualizing-the-bible
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: An intricate visualization of Biblical cross-references created by a Carnegie-Mellon Ph.D student and a Lutheran pastor, highlighting the complexity of the data. The multicolored arc diagram displays 63,779 connections between chapters, with a bar graph illustrating the number of verses in each chapter.
 emoji: 📖
 tags:
-  - 🌈 Cross-References
-  - 📊 Data Visualization
+  - 🌍 Culture
+  - 🌍 History
+  - ✝️ Christianity
+  - 📖 Bible
 haiku: |
   Arcs of wisdom flow,  
   Chapters weave a sacred tale,  

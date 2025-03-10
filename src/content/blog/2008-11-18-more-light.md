@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2008-11-18
+modDatetime: 2025-03-10T18:29:17Z
 title: More light!
 slug: more-light
 featured: false
@@ -10,8 +10,8 @@ description: Reflecting on the interplay of light and darkness, and a discussion
 emoji: 🌅
 tags:
   - 🌞 Light
-  - 📖 Literature
-  - ⏳ Time
+  - 📖 Quotes
+  - 🤔 Philosophy
 haiku: |
   In the shadow's grip,  
   Seeking warmth and wisdom's glow,  

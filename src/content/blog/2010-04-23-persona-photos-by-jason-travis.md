@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-23
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Persona, photos by Jason Travis
 slug: persona-photos-by-jason-travis
 featured: false
@@ -9,11 +9,8 @@ draft: false
 description: A captivating exploration of the personal items Atlantans carry, shedding light on their public personas and hidden selves, as seen through Jason Travis's lens. "Pictures of what (extremely similar) Atlantans carry around in their bags."
 emoji: 🎒
 tags:
-  - 🎒 bags
-  - 📸 photography
-  - 🏙️ Atlanta
-  - 🕵️‍♂️ identity
-  - 🌍 sharing
+  - 🤔 Curiosity
+  - 📖 Articles
 haiku: |
   Secrets in the seams,  
   Atlanta's souls laid bare,  

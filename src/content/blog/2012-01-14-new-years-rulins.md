@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2012-01-14
+modDatetime: 2025-03-10T18:29:23Z
 title: New Years Rulin's
 slug: new-years-rulins
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Reflecting on Woody Guthrie’s poignant New Year’s resolutions reveals the bittersweet trade-offs of artistic pursuit. "SEND MARY AND KIDS MONEY" serves as a powerful reminder of the familial sacrifices behind the music and culture he created.
 emoji: 🎶
 tags:
-  - 🎤 musicians
-  - 🎸 folk
-  - 💔 family
+  - 📝 Writing
+  - 🌍 Culture
+  - ❤️ Love
 haiku: |
   Life on the road calls,  
   Heartstring pulls for loved ones' well,  

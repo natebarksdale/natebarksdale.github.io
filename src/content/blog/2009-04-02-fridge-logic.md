@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-02
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Fridge logic
 slug: fridge-logic
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of TV-writer jargon that highlights the intricacies of scriptwriting with a humorous touch.
 emoji: 🎬
 tags:
-  - 😂 Jokes
-  - 📜 Writing
-  - 🔍 Logic
+  - 📝 Writing
+  - 🎭 Entertainment
+  - ⚖️ Choices
+  - 🌍 Society
 haiku: |
   Words weave through the screen,  
   Humor and logic collide,  

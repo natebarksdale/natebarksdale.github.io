@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2008-08-16
+modDatetime: 2025-03-10T18:29:13Z
 title: Never mind the propaganda, let’s dance!
 slug: never-mind-the-propaganda-lets-dance
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of the vibrant musical culture of Kinshasa and the phenomenon of libanga in Congolese music.
 emoji: 🎶
 tags:
-  - 🎤 music
-  - 🕺 dance
-  - 📣 propaganda
+  - 🌍 Culture
+  - 🗳️ Politics
+  - ❤️ Relationships
+  - ❤️ Kindness
 haiku: |
   Vibrant rhythms flow,  
   Kinshasa's joy unfolds,  

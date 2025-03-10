@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2009-01-09
+modDatetime: 2025-03-10T18:29:18Z
 title: Idol Worship, by Laura Keeble
 slug: idol-worship-by-laura-keeble
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An intriguing installation titled "Idol Worship" by Laura Keeble at the North Road Cemetery in Southend, UK.
 emoji: 🕊️
 tags:
-  - ⚰️ cemeteries
-  - 🎨 installations
-  - 💐 memorials
+  - ⚰️ Cemeteries
+  - 🌍 Culture
+  - ⛪ Religion
+  - ✨ Beauty
+  - 🌀 Complexity
 haiku: |
   In quiet repose,  
   Art whispers through headstones soft,  

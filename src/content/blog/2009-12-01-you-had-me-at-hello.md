@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2009-12-01
+modDatetime: 2025-03-10T18:29:21Z
 title: You had me at 'hello'
 slug: you-had-me-at-hello
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of how the word "hello" transcended technology and culture through the evolution of telephonic communication.
 emoji: 📞
 tags:
-  - 👋 greetings
-  - 🌍 languages
-  - 📞 technology
+  - 📱 Social Networks
+  - 🗣️ Language
+  - 🌍 Diversity
+  - 🌍 Culture
 haiku: |
   Words cross the wires,  
   Hello connects the world wide,  

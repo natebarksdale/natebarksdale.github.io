@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-29
-modDatetime: 2008-07-29
+modDatetime: 2025-03-10T18:29:13Z
 title: Biblioteca Vasconcelos, Mexico City
 slug: biblioteca-vasconcelos-mexico-city
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: This striking library interior evokes elements of futuristic design, reminiscent of sci-fi aesthetics, yet it captures the essence of what a library represents in culture and learning. "Vista de la Biblioteca Vasconcelos" by Eneas, 25 June 2006.
 emoji: 📚
 tags:
-  - 🏛️ libraries
-  - 🌍 culture
-  - 🌌 architecture
+  - 📖 Libraries
+  - 🌍 Culture
+  - 🌍 Society
+  - 🏙️ Landmarks
 haiku: |
   Shelves of endless dreams,  
   Knowledge in the quiet space,  

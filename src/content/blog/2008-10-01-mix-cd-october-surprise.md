@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2008-10-01
+modDatetime: 2025-03-10T18:29:15Z
 title: Mix CD | October Surprise
 slug: mix-cd-october-surprise
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A nostalgic mix created during the vibrant atmosphere of the 2008 elections, capturing the spirit of the moment through music.
 emoji: 🎶
 tags:
-  - 🎤 mixes
-  - 🇺🇸 elections
-  - 🎧 music
+  - 🎵 Music
+  - 🎉 Celebration
+  - 🗳️ Politics
+  - 📝 Writing
+  - 🌀 Complexity
 haiku: |
   Tunes of a moment,  
   Friendships in harmony,  

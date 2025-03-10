@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2009-02-03
+modDatetime: 2025-03-10T18:29:19Z
 title: Hallelujah for the Walt Whitman Rest Stop, by Maria Kalman
 slug: hallelujah-for-the-walt-whitman-rest-stop-by-maria-kalman
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A glimpse into the cultural reflections captured by Maira Kalman during an inauguration-day trip down to Washington, inspired by Whitman's spirit.
 emoji: 🗽
 tags:
-  - 🎨 Art
-  - 🇺🇸 Inauguration
+  - 🌍 Culture
+  - 📝 Writing
+  - ✍️ Poetry
+  - 🇺🇸 United States
 haiku: |
   Journey to the heart,  
   Colors of a nation's soul,  

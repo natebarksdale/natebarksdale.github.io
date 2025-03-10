@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-02
-modDatetime: 2008-11-02
+modDatetime: 2025-03-10T18:29:16Z
 title: Playground, Calle de Fuencarral, Madrid
 slug: playground-calle-de-fuencarral-madrid
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: Observations on a vibrant urban playground in the heart of Madrid. Coordinates
 emoji: 🛝
 tags:
-  - 🌈 Playgrounds
-  - 🏙️ Urban Spaces
+  - 🌍 Spain
+  - 🌆 Urban Spaces
+  - 🌈 Hope
 haiku: |
   Colorful delights,  
   Children play in city streets,  

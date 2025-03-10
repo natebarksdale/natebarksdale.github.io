@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-24
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:19Z
 title: Babel bubbles
 slug: babel-bubbles
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: An exploration of linguistic expressions for incomprehensibility across different cultures, inspired by a question about the varying equivalents of "it's Greek to me."
 emoji: 🌐
 tags:
-  - 🗣️ Languages
   - 🌍 Culture
+  - 🌍 Identity
+  - 🌍 Society
+  - 🗣️ Language
 haiku: |
   Words lost in the void,  
   Sounds of distant strangers speak,  

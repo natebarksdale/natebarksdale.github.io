@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-25
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:21Z
 title: The list doesn’t destroy culture, it creates it
 slug: the-list-doesnt-destroy-culture-it-creates-it
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A reflection on the importance of lists in shaping culture and understanding the infinite, inspired by Umberto Eco's insights.
 emoji: 📜
 tags:
-  - 📚 lists
-  - 🎨 culture
-  - 📖 literature
+  - 🌍 Culture
+  - 📝 Writing
+  - 📚 Archives
 haiku: |
   In lists we define,  
   The infinite within,  

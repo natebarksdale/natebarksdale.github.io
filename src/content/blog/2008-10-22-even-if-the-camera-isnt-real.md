@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2008-10-22
+modDatetime: 2025-03-10T18:29:16Z
 title: Even if the camera isn’t real
 slug: even-if-the-camera-isnt-real
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: A thoughtful reflection on the transformative power of technology, illustrated through Chris Ware's animation for "The Cameraman."
 emoji: 🌐
 tags:
-  - 🛠️ technologies
-  - 🎥 storytelling
+  - ⚙️ Technology
+  - 🌀 Complexity
+  - 🌍 Globalization
 haiku: |
   Images create  
   Worlds spun from ideas' light  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:21Z
 title: Present to our food
 slug: present-to-our-food
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: In this reflection on mindfulness and cultural connections to food, the importance of being present while eating is highlighted through wise teachings and personal anecdotes.
 emoji: 🍵
 tags:
-  - ☕️ teas
-  - 🧘 mindfulness
+  - 🌱 Sustainability
+  - 🙏 Mindfulness
+  - ❤️ Relationships
+  - 🌍 Culture
 haiku: |
   Prayers for our meals,  
   Mindfully we share the dawn,  

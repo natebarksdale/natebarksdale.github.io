@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2009-01-01
+modDatetime: 2025-03-10T18:29:18Z
 title: Adieu, S.U.V.’s
 slug: adieu-suvs
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An analysis of the cultural dynamics surrounding the decline of S.U.V. sales amidst fluctuating gas prices.
 emoji: 🚗
 tags:
-  - 🚙 Vehicles
-  - 💸 Economy
-  - 😎 Coolness
+  - 🌍 Culture
+  - ⚖️ Choices
+  - ⚠️ Danger
+  - 🔍 Uncertainty
+  - 💡 Ideas
 haiku: |
   Gas prices rise high,  
   S.U.V.s lose their allure,  

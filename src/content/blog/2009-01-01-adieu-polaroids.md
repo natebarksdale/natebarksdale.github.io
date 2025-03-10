@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2009-01-01
+modDatetime: 2025-03-10T18:29:18Z
 title: Adieu, Polaroids
 slug: adieu-polaroids
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: A reflection on the bittersweet end of an era for Polaroid and its iconic instant film, highlighted by the artistry of Charles and Ray Eames.
 emoji: 📸
 tags:
-  - 📷 Cameras
-  - 🖼️ Photography
-  - 🎉 Celebrations
-  - 📅 Memories
+  - 📸 Cameras
+  - 🌍 Culture
+  - 📝 Journalism
+  - 🖼️ Artifacts
 haiku: |
   Instant moments freeze,  
   Memories in squares of white,  

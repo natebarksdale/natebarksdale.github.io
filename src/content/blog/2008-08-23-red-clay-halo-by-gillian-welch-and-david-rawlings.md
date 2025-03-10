@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2008-08-23
+modDatetime: 2025-03-10T18:29:14Z
 title: “Red Clay Halo,” by Gillian Welch and David Rawlings
 slug: red-clay-halo-by-gillian-welch-and-david-rawlings
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of the interconnectedness of creation and redemption, tied together through the theme of dirt and music.
 emoji: 🌍
 tags:
-  - 🌱 Earth
-  - 🎶 Music
-  - 🔥 Redemption
+  - 🌍 Culture
+  - 🌄 Dreams
+  - ❤️ Resilience
+  - 🌀 Complexity
+  - 🎵 Music
 haiku: |
   Red clay in the sun,  
   Songs of dirt reach heavenly,  

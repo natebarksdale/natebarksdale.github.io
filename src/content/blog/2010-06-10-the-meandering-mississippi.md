@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-10
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:23Z
 title: The Meandering Mississippi
 slug: the-meandering-mississippi
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: An exploration of the visually striking historical changes in the lower Mississippi River's path, illustrated through a stunning map overlaying its meanders over millennia.
 emoji: 🗺️
 tags:
-  - 🗿 Rivers
-  - 🎨 Art
-  - 🌍 Geography
+  - 🌍 Cartography
+  - 🌊 Rivers
+  - ⏰ Time
 haiku: |
   Meanders unfold time,  
   Nature's brush on water's course,  

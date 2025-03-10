@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-30
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Making the stairs more inviting
 slug: making-the-stairs-more-inviting
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Exploring how building design and small nudges can encourage more people to take the stairs rather than the elevator.
 emoji: 🏢
 tags:
-  - 🚶‍♂️ Stairs
-  - 🎵 Music
-  - 🎨 Art
+  - ⚙️ Engineering
+  - 🌍 Health
+  - 🏛️ Architecture
+  - 🏡 Refugees
+  - 🧠 Psychology
 haiku: |
   Rise up sturdy steps,  
   With music and a view,  

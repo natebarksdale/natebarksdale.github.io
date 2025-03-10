@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2008-08-26
+modDatetime: 2025-03-10T18:29:14Z
 title: “City Of Immigrants,” by Steve Earle with Forro in the Dark
 slug: city-of-immigrants-by-steve-earle-with-forro-in-the-dark
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A joyful tribute to the essence of cities through music, featuring "City of Immigrants" by Steve Earle with Forro in the Dark.
 emoji: 🌆
 tags:
-  - 🎶 Music
-  - 🌍 Immigrants
-  - 💖 Celebration
+  - 🌆 Cities
+  - 🎵 Music
+  - 🌈 Hope
 haiku: |
   City life embraced,  
   Cultures blend and unite,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2008-08-16
+modDatetime: 2025-03-10T18:29:13Z
 title: My pleasant uninteresting place
 slug: my-pleasant-uninteresting-place
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In the reflections on a tranquil life, Walker Percy captures the essence of his surroundings in Covington.
 emoji: 🌲
 tags:
-  - 🍻 Bars
-  - 🍤 Food
-  - 🎵 Nature
+  - 🌍 Culture
+  - 🇨🇳 China
+  - 🌆 Urban Spaces
+  - 🌊 Rivers
 haiku: |
   In quiet waters,  
   Frogs croon beneath piney sky,  

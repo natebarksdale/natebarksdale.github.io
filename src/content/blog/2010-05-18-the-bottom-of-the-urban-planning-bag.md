@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-18
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: The bottom of the urban planning bag
 slug: the-bottom-of-the-urban-planning-bag
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: An exploration of how cul-de-sacs contribute to the depersonalization of suburban life and the challenges they pose for walkability in neighborhoods.
 emoji: 🏘️
 tags:
-  - 🏙️ Neighborhoods
-  - 🚶‍♂️ Walkability
-  - 🚗 Cars
+  - 🌍 Society
+  - 🌍 Culture
+  - 📍 Travel
 haiku: |
   Streets twist and turn tight,  
   Quiet cul-de-sacs conceal,  

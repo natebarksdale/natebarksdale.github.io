@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2008-08-25
+modDatetime: 2025-03-10T18:29:14Z
 title: Eating clay in Haiti
 slug: eating-clay-in-haiti
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A heartbreaking account of how rising food prices have led to the rise of "mud cakes" in Haiti, a troubling yet culturally significant response to hunger.
 emoji: 🍽️
 tags:
-  - 🍞 Food
-  - 🌍 Poverty
-  - 🍂 Haiti
+  - 🌍 Haiti
+  - ❤️ Charity
+  - 🌱 Sustainability
+  - 💰 Poverty
 haiku: |
   In the sun they mold,  
   Mud cakes mask the hunger pangs,  

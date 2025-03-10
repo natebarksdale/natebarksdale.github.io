@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2008-09-03
+modDatetime: 2025-03-10T18:29:14Z
 title: Little India, Singapore
 slug: little-india-singapore
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An observation on the juxtaposition of historical figures and modern conveniences, inspired by thoughts on culture and everyday items.
 emoji: 🎒
 tags:
-  - 🎨 art
-  - 📅 events
-  - 🌍 travel
+  - 🌍 Culture
+  - 🏙️ Migration
+  - 📷 Photography
+  - 🏪 Markets
 haiku: |
   Watercolors pack,  
   Through parks and ancient cities,  

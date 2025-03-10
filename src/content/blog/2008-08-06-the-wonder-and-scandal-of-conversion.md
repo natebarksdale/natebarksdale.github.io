@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2008-08-06
+modDatetime: 2025-03-10T18:29:13Z
 title: The wonder (and scandal) of conversion
 slug: the-wonder-and-scandal-of-conversion
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of the complex nature of conversion and identity, illustrated through Jennie Baker's experience with Orthodoxy in England.
 emoji: 🕊️
 tags:
-  - 🎨 artworks
-  - ✝️ Christianity
-  - 🌍 identity
+  - ⛪ Religion
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 🙏 Faith
 haiku: |
   In sacred moments,  
   Foreign feels like coming home,  

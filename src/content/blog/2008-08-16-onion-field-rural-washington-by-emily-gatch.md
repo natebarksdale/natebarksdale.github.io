@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2008-08-16
+modDatetime: 2025-03-10T18:29:13Z
 title: Onion field, rural Washington, by Emily Gatch
 slug: onion-field-rural-washington-by-emily-gatch
 featured: false
@@ -10,7 +10,8 @@ description: A fascinating glimpse into a field of mature onions going to seed, 
 emoji: 🌌
 tags:
   - 🌱 Vegetables
-  - 🌼 Flowers
+  - 🌅 Reflection
+  - 🌸 Flowers
 haiku: |
   Onions in the field,  
   Stars of nature's design bloom,  

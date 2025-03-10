@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-24
-modDatetime: 2010-01-24
+modDatetime: 2025-03-10T18:29:21Z
 title: Portfolio | natebarksdale.com
 slug: portfolio-natebarksdalecom
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A reflection on the design process of my previous website version, inspired by my word search business card and utilizing the Moveable Type platform.
 emoji: 🧩
 tags:
-  - 🖥️ websites
-  - 🎨 design
-  - 🧠 creativity
+  - 🌐 Blogging
+  - 💻 Self-Help
+  - 📝 Writing
+  - 🎨 Creativity
+  - 📖 Articles
 haiku: |
   Words in a puzzle,  
   From business card to web space,  

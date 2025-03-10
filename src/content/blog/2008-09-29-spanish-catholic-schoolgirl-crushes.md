@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2008-09-29
+modDatetime: 2025-03-10T18:29:15Z
 title: Spanish Catholic schoolgirl crushes
 slug: spanish-catholic-schoolgirl-crushes
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: In a reflection on the evolution of travel writing, Rolf Potts discusses the complexities of globalization and the shifting narratives in contemporary travel stories.
 emoji: 🌏
 tags:
-  - 🌍 cultures
-  - 📚 travel writing
-  - 🎭 globalization
+  - 🌍 Globalization
+  - 🌍 Culture
+  - 📝 Writing
 haiku: |
   Old cliches retreat,  
   New stories intertwine worlds,  

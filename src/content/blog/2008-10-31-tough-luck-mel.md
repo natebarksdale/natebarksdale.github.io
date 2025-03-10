@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2008-10-31
+modDatetime: 2025-03-10T18:29:16Z
 title: Tough luck, Mel
 slug: tough-luck-mel
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A filmmaker's vision of a Hollywood studio in South Africa clashes with the local Khoi-San community's deep connection to their ancestral land.
 emoji: 🌍
 tags:
-  - ✊ Community
-  - 🎬 Film Industry
-  - 🏞️ Ancestral Land
+  - 🌍 Africa
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - ❤️ Kindness
+  - 🙏 Faith
 haiku: |
   Sacred ground defended,  
   Dreams of gold can’t buy our past,  

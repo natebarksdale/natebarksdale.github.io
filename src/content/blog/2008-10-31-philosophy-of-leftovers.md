@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2008-10-31
+modDatetime: 2025-03-10T18:29:16Z
 title: Philosophy of leftovers
 slug: philosophy-of-leftovers
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: Reflecting on the value of overlooked and discarded things, Andy Warhol shares his philosophy on working with leftovers.
 emoji: ♻️
 tags:
-  - 🍴 Food
-  - 🐾 Pets
+  - ♻️ Repurposing
+  - 📖 Discussions
+  - 💡 Ideas
+  - ❤️ Kindness
 haiku: |
   Leftovers in life,  
   Art from what’s cast aside,  

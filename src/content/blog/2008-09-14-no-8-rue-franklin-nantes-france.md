@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-14
-modDatetime: 2025-03-07T22:22:54Z
+modDatetime: 2025-03-10T18:29:14Z
 title: No. 8 Rue Franklin, Nantes, France
 slug: no-8-rue-franklin-nantes-france
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A reflection on the juxtaposition of beauty and vandalism in Nantes' architectural landscape.
 emoji: 🎨
 tags:
-  - 🎭 artworks
-  - 🚪 doors
-  - 🏙️ architecture
+  - 🎨 Graffiti
+  - 🇫🇷 France
+  - 🌍 Culture
+  - 🌍 Society
+  - ⚒️ Blacksmiths
 haiku: |
   Graffiti blooms bright,  
   Beauty marred, yet it flows well,  

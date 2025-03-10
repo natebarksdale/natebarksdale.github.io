@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-11
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:21Z
 title: “Your logo saves lives!”
 slug: your-logo-saves-lives
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In a surprising turn of events, a logo designed for Mercy Corps has proven to be crucial for identifying aid in crisis situations.
 emoji: 🆘
 tags:
-  - 🚑 Aid Organizations
-  - 🎨 Design
-  - 🌍 Humanitarian Efforts
+  - ⚖️ Ethics
+  - 🚨 Warnings
+  - 🌀 Complexity
+  - 🌍 Society
 haiku: |
   Logo brings us hope,  
   Distinguishing the friend,  

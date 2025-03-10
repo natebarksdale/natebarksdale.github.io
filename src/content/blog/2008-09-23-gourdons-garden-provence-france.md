@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Gourdon’s Garden, Provence, France
 slug: gourdons-garden-provence-france
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: The perspective captured in this photo beautifully contrasts the cultivated gardens with the wild canyon below, showcasing the gardeners diligently tending to the hedges.
 emoji: 🌳
 tags:
+  - 🌍 France
+  - 🌳 Landscapes
   - 🌿 Gardens
-  - 🏰 Castles
-  - 🗺️ Provence
+  - 🌱 Sustainability
+  - 🌅 Reflection
 haiku: |
   From lush hedge to sky,  
   Gardeners tend to beauty,  

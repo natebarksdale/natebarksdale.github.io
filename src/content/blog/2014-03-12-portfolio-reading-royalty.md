@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-12
-modDatetime: 2014-03-12
+modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Reading Royalty
 slug: portfolio-reading-royalty
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Celebrating the power of books at a private school dedicated to low-income children. "Books are awesome!"
 emoji: 📚
 tags:
-  - 📖 Books
-  - 🏫 Schools
-  - 🤝 Community
+  - ❤️ Charity
+  - 🌍 Society
+  - 📖 Reading
+  - 📚 Education
 haiku: |
   Reading opens doors,  
   Low-income hearts find their hope,  

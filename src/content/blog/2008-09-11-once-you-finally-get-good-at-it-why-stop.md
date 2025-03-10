@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2025-03-07T22:22:54Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Once you finally get good at it, why stop?
 slug: once-you-finally-get-good-at-it-why-stop
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of why many architects continue working well into their later years, highlighting the parallels between their professional longevity and the enduring nature of the buildings they create.
 emoji: 🏛️
 tags:
-  - 🏗️ architects
-  - 🌆 buildings
-  - 🔨 craftsmanship
+  - ⚙️ Engineering
+  - 🏛️ Architecture
+  - 📖 Biographies
+  - 💡 Innovation
 haiku: |
   Mastery takes time,  
   Designs from age and wisdom,  

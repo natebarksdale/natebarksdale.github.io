@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2008-10-24
+modDatetime: 2025-03-10T18:29:16Z
 title: O is for obedience
 slug: o-is-for-obedience
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of obedience as a creative act, inspired by a story from the Desert Fathers.
 emoji: 🙇‍♂️
 tags:
-  - 📜 Manuscripts
-  - ⛪ Monastic Life
-  - 🕊️ Obedience
+  - ⛪ Religion
+  - ✍️ Manuscripts
+  - ❤️ Love
+  - 📝 Writing
 haiku: |
   Silent in the cell,  
   A letter waits, yet he comes,  

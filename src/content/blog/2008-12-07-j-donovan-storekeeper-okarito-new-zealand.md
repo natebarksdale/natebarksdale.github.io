@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-07
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: J. Donovan Storekeeper, Okarito, New Zealand
 slug: j-donovan-storekeeper-okarito-new-zealand
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A reflection on Keri Hulme's novel _The Bone People_ and its connection to the Westland coast of New Zealand, explored through Google Street View.
 emoji: 🏞️
 tags:
-  - 🌲 forests
-  - 🏬 general stores
-  - 📚 literature
+  - 🌍 Culture
+  - 📖 Books
+  - 🏞️ National Parks
+  - 📍 Travel
 haiku: |
   Ferns whisper secrets,  
   Westland's shores cradle stories,  

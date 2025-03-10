@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-26
-modDatetime: 2008-12-26
+modDatetime: 2025-03-10T18:29:18Z
 title: Tundra quilt, by Leah Evans
 slug: tundra-quilt-by-leah-evans
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A beautiful representation of our landscapes, this quilt captures the essence of estuaries and agricultural fields, reminiscent of Gerard Manley Hopkins' vivid imagery.
 emoji: 🗺️
 tags:
-  - 🏞️ landscapes
-  - 🧵 textiles
+  - 🌳 Landscapes
+  - 🌍 Culture
+  - 🧵 Textiles
+  - 🎨 Art
 haiku: |
   Soft maps unfold here,  
   Tundra stitched in quiet hues,  

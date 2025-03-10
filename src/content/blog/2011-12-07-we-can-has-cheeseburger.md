@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2011-12-07
+modDatetime: 2025-03-10T18:29:23Z
 title: We can has cheeseburger!
 slug: we-can-has-cheeseburger
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Reflecting on the complexities behind something as simple as a cheeseburger, Waldo Jaquith explores the implications of our modern food systems.
 emoji: 🍔
 tags:
-  - 🥩 Food
-  - 🌎 Society
-  - 🚚 Logistics
+  - 🌍 Culture
+  - 🍔 Fast Food
+  - 🌀 Complexity
 haiku: |
   Cheeseburger dream,  
   Cultivated complex art,  

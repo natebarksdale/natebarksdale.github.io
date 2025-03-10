@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2008-10-14
+modDatetime: 2025-03-10T18:29:15Z
 title: Arabesques
 slug: arabesques
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: From a lovely French collection of prints, this piece showcases "Arab art from the monuments of Cairo, from the 7th through the 19th centuries," illustrating a vibrant tapestry of designs over the centuries. Geolocation coordinates
 emoji: 🎨
 tags:
-  - 🕌 Architecture
-  - 🎭 Art
-  - 📜 History
+  - 🎨 Art
+  - 🌍 Culture
+  - 🇫🇷 France
+  - 🕌 Monuments
+  - 📜 Ancient Texts
 haiku: |
   Patterns intertwine,  
   Echoes of Cairo's old art,  

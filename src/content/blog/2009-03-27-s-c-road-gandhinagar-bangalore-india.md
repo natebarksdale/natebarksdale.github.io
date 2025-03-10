@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-27
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:19Z
 title: S C Road, Gandhinagar, Bangalore, India
 slug: s-c-road-gandhinagar-bangalore-india
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A look at the heart of the Kannada Film Industry as fans and producers gather for a film premiere.
 emoji: 🌼
 tags:
-  - 🎥 films
-  - 🌸 marigolds
-  - 📍 theaters
+  - 🌍 Culture
+  - 🎥 Film
+  - 🏙️ Landmarks
+  - 📷 Photography
 haiku: |
   House-Full tonight,  
   Marigolds cheer the crowd,  

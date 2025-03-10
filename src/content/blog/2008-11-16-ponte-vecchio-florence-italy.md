@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-16
-modDatetime: 2008-11-16
+modDatetime: 2025-03-10T18:29:16Z
 title: Ponte Vecchio, Florence, Italy
 slug: ponte-vecchio-florence-italy
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: A glimpse of the historic Ponte Vecchio bridge in Florence, Italy, where ancient butchers' shops have transformed into vibrant tourist boutiques.
 emoji: 🌉
 tags:
-  - 🏰 Bridges
-  - 💎 Jewelry
+  - 🇮🇹 Italy
+  - 🌍 Culture
+  - 🌍 History
+  - 🏛️ Architecture
+  - 🏙️ Landmarks
 haiku: |
   Medieval stone stands,  
   Where butchers once traded meat,  

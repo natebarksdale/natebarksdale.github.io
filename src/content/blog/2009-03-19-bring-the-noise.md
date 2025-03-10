@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:19Z
 title: Bring the noise
 slug: bring-the-noise
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Exploring the cultural significance of sound preferences, Stanford music professor Jonathan Berger discusses how MP3s resonate with modern listeners, revealing a fascinating shift in musical appreciation.
 emoji: 🎶
 tags:
-  - 🎧 Audio Formats
-  - 💿 Nostalgia
-  - 🎤 Music Preferences
+  - 🌍 Culture
+  - 🎵 Music
+  - 🌀 Complexity
+  - 🔍 Discoveries
 haiku: |
   Sizzle fills the air,  
   Digital warmth connects us,  

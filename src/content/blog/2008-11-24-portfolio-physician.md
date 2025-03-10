@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2008-11-24
+modDatetime: 2025-03-10T18:29:17Z
 title: Portfolio | Physician
 slug: portfolio-physician
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A personal business card showcasing the professional details of a physician, located in the heart of a bustling city. Coordinates
 emoji: 🩺
 tags:
-  - 🩺 physicians
-  - 💼 business cards
-  - 🌟 professionalism
+  - ⚕️ Medicine
+  - 💼 Business
+  - 📖 Articles
+  - 🌍 Health
+  - 📚 Education
 haiku: |
   A healer's card shines,  
   Guiding hands through life's journey,  

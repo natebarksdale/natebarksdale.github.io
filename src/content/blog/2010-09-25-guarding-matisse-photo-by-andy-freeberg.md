@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-25
-modDatetime: 2025-03-07T22:22:58Z
+modDatetime: 2025-03-10T18:29:23Z
 title: Guarding Matisse, photo by Andy Freeberg
 slug: guarding-matisse-photo-by-andy-freeberg
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: An exploration of the unique experiences of women who oversee Russian art museums, specifically highlighting the patience required to engage with art on a deep level.
 emoji: 🎨
 tags:
-  - 👩‍🎨 Art Guardians
-  - 🖼️ Museums
+  - 🎨 Art
+  - 🇷🇺 Russia
+  - 📝 Writing
+  - 🏛️ Museums
+  - 🖼️ Artifacts
 haiku: |
   In silent watch mode,  
   Women guard colors and forms,  

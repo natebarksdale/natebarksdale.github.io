@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2008-11-21
+modDatetime: 2025-03-10T18:29:17Z
 title: The Station Nigeria
 slug: the-station-nigeria
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: This popular Nigerian soap opera, funded by Search for Common Ground, tackles significant societal issues facing Nigeria today. The captivating narrative unfolds in a fictional television news station, offering insights into the challenges of a diverse population.
 emoji: 📺
 tags:
-  - 🎬 TV Shows
-  - 🌍 Social Issues
-  - 🇳🇬 Nigeria
+  - 🌍 Society
+  - 📝 Journalism
+  - 🎥 Film
+  - 🤝 Collaboration
 haiku: |
   Stories of the past,  
   Voices seek to find their strength,  

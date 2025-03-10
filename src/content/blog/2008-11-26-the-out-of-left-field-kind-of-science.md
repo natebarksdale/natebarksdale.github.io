@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-26
-modDatetime: 2008-11-26
+modDatetime: 2025-03-10T18:29:17Z
 title: The out-of-left-field kind of science
 slug: the-out-of-left-field-kind-of-science
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Robert Tjian reflects on the importance of passion-driven science over large-scale projects in fostering transformative discoveries.
 emoji: 🎨
 tags:
-  - 🔬 Research
+  - ⚕️ Medicine
+  - 💡 Ideas
   - 💡 Innovation
-  - 🧬 Biology
+  - 💼 Business
 haiku: |
   Passion fuels the spark,  
   Small efforts, great discoveries,  

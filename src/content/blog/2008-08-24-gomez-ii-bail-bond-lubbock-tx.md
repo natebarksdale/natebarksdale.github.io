@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-24
-modDatetime: 2008-08-24
+modDatetime: 2025-03-10T18:29:14Z
 title: Gomez II Bail Bond, Lubbock, TX
 slug: gomez-ii-bail-bond-lubbock-tx
 featured: false
@@ -9,10 +9,10 @@ draft: false
 description: An intriguing exploration of the interconnected cultural spheres in downtown Lubbock. "If you swivel to the right from this view you'll see
 emoji: ⚖️
 tags:
-  - 🏛️ Courthouses
-  - 🚍 Transit Systems
-  - 🔒 Bail Bonds
-  - 🚔 Law Enforcement
+  - ⚖️ Courtroom
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 🌍 Society
 haiku: |
   Justice intertwined,  
   Lives shaped by every choice,  

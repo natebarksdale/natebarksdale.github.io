@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-31
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:20Z
 title: My Astronomical Romance
 slug: my-astronomical-romance
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A fascinating exploration of how the aesthetics of Hubble Space Telescope images reflect cultural choices, blending art and science to inspire a sense of wonder about the cosmos.
 emoji: 🎨
 tags:
-  - 🌌 Nebulae
-  - 🖼️ Art
-  - 🌠 Astronomy
+  - 🌌 Astronomy
+  - 🎨 Aesthetics
+  - ⚖️ Choices
+  - 🌍 Culture
 haiku: |
   Cosmic hues unfold,  
   Art in the vastness whispers,  

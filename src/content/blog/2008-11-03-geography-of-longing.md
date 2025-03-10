@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2025-03-07T22:36:11Z
+modDatetime: 2025-03-10T18:29:16Z
 title: Geography of longing
 slug: geography-of-longing
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Here's an alternative to the state-by-state maps we're being bombarded with in these latter electoral days
 emoji: 💔
 tags:
-  - 📍 connections
-  - 📝 craigslist
-  - 💌 missed moments
+  - 🌍 Society
+  - 🌍 Culture
+  - 📍 Travel
+  - 📝 Journalism
+  - 🌐 Blogging
 haiku: |
   In the city lights,  
   Souls pass by, hearts skip a beat,  

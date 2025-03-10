@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-19
-modDatetime: 2025-03-07T22:22:58Z
+modDatetime: 2025-03-10T18:29:23Z
 title: Cement bag graphics
 slug: cement-bag-graphics
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A fascinating exploration of the artistic and cultural significance of cement bag graphics from around the world.
 emoji: 🏗️
 tags:
-  - 🎨 Art
-  - 🏢 Architecture
+  - ⚙️ Engineering
   - 🌍 Culture
+  - 🖼️ Artifacts
+  - 🖋️ Commentary
 haiku: |
   Cement's silent strength,  
   Transforming dust into dreams,  

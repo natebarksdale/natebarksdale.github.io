@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2008-07-11
+modDatetime: 2025-03-10T18:29:12Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A thought-provoking interpretation of Leonardo's Last Supper explores its themes through modern technology and artistic expression.
 emoji: 🎨
 tags:
-  - 🎭 Art
-  - 🌅 Transformation
-  - 🔍 Critique
+  - 🎨 Art
+  - 🖼️ Artifacts
+  - 🤔 Philosophy
+  - 🌍 Culture
+  - 🖋️ Commentary
 haiku: |
   Classic faces shift,  
   Shadows cast in modern light,  

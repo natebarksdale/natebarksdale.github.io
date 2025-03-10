@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: The trouble with online maps
 slug: the-trouble-with-online-maps
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A critique of modern online mapping practices from the president of the British Cartographic Society highlights the loss of geographical richness. "Corporate cartographers... are leaving off landmarks like churches, ancient woodlands and stately homes."
 emoji: 🗺️
 tags:
-  - 🏰 landmarks
-  - 🌳 woodlands
-  - ⛪ churches
+  - 🌍 Cartography
+  - ⚙️ Technology
+  - 📍 Travel
 haiku: |
   Maps of old erased,  
   History fades from our sight,  

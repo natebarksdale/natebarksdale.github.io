@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-02
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Untitled, by Joseph Cornell
 slug: untitled-by-joseph-cornell
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A reflection on the art of Joseph Cornell through the lens of Octavio Paz's poetry.
 emoji: 🎨
 tags:
-  - 🎭 art
-  - 📦 boxes
-  - 🌌 constellations
+  - ✍️ Poetry
+  - 🌍 Culture
+  - 🎨 Art
+  - 📝 Writing
 haiku: |
   Names slip through the cracks,  
   Visions trapped in quiet frames,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-11
-modDatetime: 2009-01-11
+modDatetime: 2025-03-10T18:29:18Z
 title: 5th St., Alamedia, California
 slug: 5th-st-alamedia-california
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: I can't help but appreciate the charming blend of mission style and art nouveau curves in this side-yard, showcasing the friendship between these two houses.
 emoji: 🏡
 tags:
-  - 🏠 houses
-  - 🎨 art nouveau
-  - 🌳 gardens
+  - 🏛️ Architecture
+  - 🌆 Neighborhoods
+  - 🎨 Aesthetics
+  - 🌍 Culture
 haiku: |
   Curves and colors blend,  
   Mission meets the grand design,  

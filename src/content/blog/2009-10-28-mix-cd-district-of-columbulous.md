@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-28
-modDatetime: 2009-10-28
+modDatetime: 2025-03-10T18:29:21Z
 title: Mix CD | District of Columbulous!
 slug: mix-cd-district-of-columbulous
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A visual representation inspired by the iconic design of the Bush and early Obama-era Oval Office, this cover is part of the "50 States!" series. The relevant geolocation coordinates for the national capital, Washington, D.C., are approximately 38.8951° N, 77.0364° W.
 emoji: 🇺🇸
 tags:
-  - 🏛️ Capitals
-  - 🎶 Music
+  - 🇺🇸 United States
+  - 🌆 Urban Spaces
   - 🎨 Art
+  - 🌍 Culture
 haiku: |
   Stripes of history,  
   Mix of sounds in the capital,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-02-01
-modDatetime: 2012-02-01
+modDatetime: 2025-03-10T18:29:24Z
 title: We don't believe because we don't recall
 slug: we-dont-believe-because-we-dont-recall
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A reflection on how our interactions with memories and artifacts shape our experience of beauty and loss, inspired by Proust's poignant insights.
 emoji: 🧤
 tags:
-  - 🕰️ Memories
-  - 🌹 Emotions
-  - 🖼️ Artifacts
+  - ✍️ Literature
+  - ✍️ Poetry
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 🧠 Psychology
 haiku: |
   Whispers of the past,  
   Old gloves breathe forgotten love,  

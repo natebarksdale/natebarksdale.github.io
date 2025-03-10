@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: At most, sharing a pudding
 slug: at-most-sharing-a-pudding
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: As the French grapple with economic challenges, their beloved tradition of lengthy business lunches is at risk, illustrating a cultural shift that echoes across the channel. "It is seen as the mark of civilised eating, distinguishing well-fed French workers from the English who wolf prawn sandwiches at their desks..."
 emoji: 🍽️
 tags:
-  - 🍽️ meals
-  - 💼 economy
   - 🇫🇷 France
+  - 🌍 Culture
+  - 🍽️ Hospitality
+  - 💰 Commerce
+  - 📉 Economics
 haiku: |
   Savory banquets fade,  
   Economic shift demands,  

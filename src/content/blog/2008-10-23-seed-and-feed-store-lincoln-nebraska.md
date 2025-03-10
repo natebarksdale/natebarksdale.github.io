@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-23
-modDatetime: 2008-10-23
+modDatetime: 2025-03-10T18:29:16Z
 title: Seed and feed store, Lincoln, Nebraska
 slug: seed-and-feed-store-lincoln-nebraska
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: An intriguing snapshot from 1942 captures the economic landscape of Nebraska, reflecting on the significant price disparity between oranges and grapefruit, and the association of grass with Sudan.
 emoji: 🍊
 tags:
-  - 🍊 fruits
-  - 🌾 agriculture
+  - 🌍 History
+  - 🌾 Agriculture
+  - 📝 Writing
 haiku: |
   Oranges in spring,  
   Prices tell a tale of time,  

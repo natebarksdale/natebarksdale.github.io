@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2008-08-08
+modDatetime: 2025-03-10T18:29:11Z
 title: “The food here is awful!”
 slug: the-food-here-is-awful
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Sudhir Venkatesh explores the stark contrasts between a millionaire's experiences and those of a local squatter in Chicago's impoverished neighborhoods.
 emoji: 🍗
 tags:
-  - 🍗 food insecurity
-  - 🏙️ urban challenges
-  - 💵 philanthropy
+  - 🌆 Chicago
+  - 🌍 Society
+  - 🌱 Sustainability
 haiku: |
   In streets of struggle,  
   Choices limited by need,  

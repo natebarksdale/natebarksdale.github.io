@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2008-12-19
+modDatetime: 2025-03-10T18:29:18Z
 title: Dude descending a staircase
 slug: dude-descending-a-staircase
 featured: false
@@ -10,8 +10,9 @@ description: A fascinating glimpse into the life of artist Marcel Duchamp captur
 emoji: 🕴️
 tags:
   - 🎨 Art
-  - 🌀 Movement
-  - 🖼️ Painting
+  - 🌍 Culture
+  - 🌆 Urban Spaces
+  - 📝 Writing
 haiku: |
   Steps of art descend,  
   Marcel breaks time's silent flow,  

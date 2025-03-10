@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-19
-modDatetime: 2014-03-19
+modDatetime: 2025-03-10T18:29:24Z
 title: Essays | We're All Makers Now
 slug: essays-were-all-makers-now
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In a vibrant corner of Manhattan, innovative technology is merging creativity and community.
 emoji: 🖨️
 tags:
-  - 🎨 Designs
-  - 🏙️ Urban Spaces
-  - 🌍 Innovation
+  - ⚙️ Engineering
+  - ⛪ Religion
+  - 📖 Articles
+  - 📝 Writing
 haiku: |
   Printing dreams in hands,  
   Filament flows, worlds are shaped,  

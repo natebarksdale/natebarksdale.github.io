@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-31
-modDatetime: 2008-12-31
+modDatetime: 2025-03-10T18:29:18Z
 title: Off H Siddiah Road, Bangalore, India
 slug: off-h-siddiah-road-bangalore-india
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A thought-provoking reflection on the juxtaposition of old and new, captured in this photo featuring old bricks and minimalist graffiti, offering a glimpse into urban evolution.
 emoji: 🧱
 tags:
-  - 🎨 graffiti
-  - 🏙️ architecture
-  - 🏚️ decay
+  - 🎨 Graffiti
+  - 🌍 Culture
+  - 📷 Photography
 haiku: |
   Old bricks, fresh paint,  
   Stories layered on walls,  

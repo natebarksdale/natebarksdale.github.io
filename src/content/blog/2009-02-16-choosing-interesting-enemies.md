@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-16
-modDatetime: 2009-02-16
+modDatetime: 2025-03-10T18:29:19Z
 title: Choosing interesting enemies
 slug: choosing-interesting-enemies
 featured: false
@@ -9,11 +9,11 @@ draft: false
 description: Bono reflects on the idea of enemies and internal struggles in the context of U2's music and philosophy.
 emoji: 🪞
 tags:
-  - 🌍 neighbors
-  - ☝️ enemies
-  - 🎸 music
-  - 💭 self-reflection
-  - 🆕 potential
+  - ⚔️ Enemies
+  - ♻️ Repurposing
+  - ⚖️ Ethics
+  - ❤️ Relationships
+  - 🌀 Complexity
 haiku: |
   Mirror of my soul,  
   Neighbors shaped by battles fought,  

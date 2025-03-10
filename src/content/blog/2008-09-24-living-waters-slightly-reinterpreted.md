@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Living waters (slightly) reinterpreted
 slug: living-waters-slightly-reinterpreted
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of how Jewish feminists have reinterpreted the mikveh, transforming what was once seen as a symbol of patriarchal oppression into a celebration of women's connection to tradition and spirituality.
 emoji: 💧
 tags:
+  - ⛪ Religion
+  - ✡️ Judaism
+  - ❤️ Kindness
   - 💧 Rituals
-  - 🌊 Tradition
-  - 👩‍👧‍👧 Feminism
+  - 🌍 Culture
 haiku: |
   Water's healing flow,  
   From silence to strength we rise,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-19
-modDatetime: 2014-03-19
+modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Andy-Crouch.com
 slug: portfolio-andy-crouchcom
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A visual journey into the work of a nationally-known author, speaker, and editor, focusing on their impactful contributions.
 emoji: 📚
 tags:
-  - ✍️ authors
-  - 🎤 speakers
-  - 🌐 editors
+  - 🌐 Blogging
+  - 🌐 Digital
+  - 📖 Articles
+  - 📚 Education
+  - 📝 Writing
 haiku: |
   Words that inspire thought,  
   A fresh look for their voices,  

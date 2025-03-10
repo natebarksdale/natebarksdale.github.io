@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-07T22:38:15Z
+modDatetime: 2025-03-10T18:29:18Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: I love this sort of list-making
 emoji: ✨
 tags:
-  - 🎭 cliches
-  - 🖊️ writing
-  - 🌌 creativity
+  - ✍️ Literature
+  - 🌍 Culture
+  - 💡 Ideas
 haiku: |
   Cliches come alive,  
   New forms from old ideas,  

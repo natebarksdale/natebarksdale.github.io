@@ -1,0 +1,29 @@
+---
+author: Nate Barksdale
+pubDatetime: 2008-09-05
+modDatetime: 2008-09-05
+title: Failed writers
+slug: failed-writers
+featured: false
+draft: false
+description: Remembering Robert Giroux and his insightful exchange with T. S. Eliot on the nature of writers and editors.
+emoji: ✍️
+tags:
+  - ✍️ Literature
+  - 📝 Journalism
+  - 🔍 Critique
+  - 📖 Biographies
+haiku: |
+  Great editors write,  
+  Both creators of their world,  
+  Words linger through time.
+coordinates: [40.7128, -74.0060]
+---
+
+A closing zinger from the obituary of Robert Giroux, editor and publisher of many of my favorite writers (Thomas Merton, Walker Percy, Flannery O'Conner, to name a few)
+
+> His ambition to write may have prompted an exchange with T. S. Eliot, then in his late 50s, on the day they met in 1946, when Mr. Giroux, “just past 30,” as he recalled the moment in “The Oxford Book of Literary Anecdotes,” was an editor at Harcourt, Brace. “His most memorable remark of the day,” Mr. Giroux said, “occurred when I asked him if he agreed with the definition that most editors are failed writers, and he replied, ‘Perhaps, but so are most writers.’“
+
+---
+
+from "Robert Giroux, Publisher, Dies at 94](http://ideas.blogs.nytimes.com/2008/09/26/fewer-than-1-in-5-cancer-trials-published/)," by Christopher Lehmann-Haupt, [NYTimes.com](https://www.google.com/search?q=%22NYTimes.com%22%20nytimes.com), 5 September 2008

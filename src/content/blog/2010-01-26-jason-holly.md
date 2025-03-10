@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-26
-modDatetime: 2010-01-26
+modDatetime: 2025-03-10T18:29:22Z
 title: Jason Holly
 slug: jason-holly
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A captivating piece that blurs the lines between custom design and found object inspiration. "Love this. It made me slightly less happy once I saw that it was a custom designed-for-designers design rather than a found object. But only slightly."
 emoji: 🎨
 tags:
-  - 🖌️ Art
-  - 🏙️ Design
-  - 🖼️ Custom Creations
+  - ❤️ Love
+  - 🎨 Creativity
+  - 🌍 Culture
+  - 📝 Writing
 haiku: |
   Crafted with intent,  
   A beauty, though not found,  

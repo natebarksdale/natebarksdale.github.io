@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:15Z
 title: The colourful apartment buildings of Tirana, Albania
 slug: the-colourful-apartment-buildings-of-tirana-albania
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: Tirana, Albania, has transformed its urban landscape through vibrant colors and unique patterns on its buildings. An example of this creative approach is highlighted in the following quote
 emoji: 🎨
 tags:
-  - 🏢 buildings
-  - 🌈 colors
+  - ✨ Beauty
+  - 🏛️ Architecture
+  - 🌍 Culture
+  - 🎨 Creativity
 haiku: |
   Bright hues kiss the grey,  
   Art reborn in city streets,  

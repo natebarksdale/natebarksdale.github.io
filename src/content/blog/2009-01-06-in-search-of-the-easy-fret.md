@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2009-01-06
+modDatetime: 2025-03-10T18:29:18Z
 title: In search of the Easy Fret
 slug: in-search-of-the-easy-fret
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Exploring the impact of Guitar Hero on real guitar manufacturers and the call for easier-to-play instruments.
 emoji: 🎸
 tags:
-  - 🎶 Music
-  - 🕹️ Gaming
-  - 🎤 Performance
+  - 🎵 Music
+  - ⚙️ Technology
+  - ⚖️ Choices
+  - 🌍 Culture
 haiku: |
   Strings bring pain and strain,  
   Heroes play their plastic chords,  

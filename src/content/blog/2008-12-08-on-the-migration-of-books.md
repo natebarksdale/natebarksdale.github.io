@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-08
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: On the migration of books
 slug: on-the-migration-of-books
 featured: false
@@ -10,8 +10,9 @@ description: Orhan Pamuk reflects on the meaningful connection between his readi
 emoji: 📚
 tags:
   - 📖 Books
-  - 👨‍👦 Father-Son Bond
-  - 🇹🇷 Turkey
+  - 🌍 Culture
+  - ✍️ Literature
+  - 📚 Archives
 haiku: |
   In father's old books,  
   Tales cherished and shared with joy,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-17
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Beautiful litany
 slug: beautiful-litany
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A poignant reflection on time, love, and our overlooked connections, inspired by Wislawa Szymborska's poetry.
 emoji: 🌍
 tags:
-  - 🌹 flowers
-  - ⏳ time
-  - 💔 love
+  - ⏰ Time
+  - ❤️ Forgiveness
+  - 📝 Writing
 haiku: |
   Apologies flow,  
   For moments lost in silence,  

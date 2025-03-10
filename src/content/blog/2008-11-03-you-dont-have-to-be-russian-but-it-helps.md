@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2008-11-03
+modDatetime: 2025-03-10T18:29:16Z
 title: You don’t have to be Russian, but it helps
 slug: you-dont-have-to-be-russian-but-it-helps
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of the rich tradition of holy fools in both Western and Eastern Christianity, particularly highlighting the unique manifestations in Russia.
 emoji: 🤪
 tags:
-  - 🤡 holy fools
-  - 📖 literature
-  - 🙏 spirituality
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 🌀 Complexity
+  - 🤔 Curiosity
+  - ❤️ Relationships
 haiku: |
   Fools dance with the wise,  
   Laughing at the world’s chaos,  

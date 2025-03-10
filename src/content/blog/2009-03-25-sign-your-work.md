@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-25
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:19Z
 title: Sign your work!
 slug: sign-your-work
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Yvonne Froud, a shopkeeper in Joys Green, Gloucestershire, has taken a creative approach to combat littering among local children by marking snack wrappers with their names and encouraging them to take responsibility for their waste.
 emoji: 🗑️
 tags:
-  - 🚮 Littering
-  - 🍬 Sweets
-  - 🌳 Community
+  - 🌍 Environment
+  - ⚖️ Ethics
+  - ❤️ Kindness
+  - ⚠️ Danger
 haiku: |
   Sweet wrappers forgotten,  
   Names etched on littered ground,  

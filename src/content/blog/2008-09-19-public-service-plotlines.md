@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-19
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Public service plotlines
 slug: public-service-plotlines
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: This study reveals insights into how television programs like Grey's Anatomy can effectively enhance public awareness about healthcare.
 emoji: 📺
 tags:
-  - 📈 Awareness
   - 🌍 Health
-  - 🩺 Education
+  - 📺 Television
+  - ⚕️ Medicine
+  - 📖 Articles
+  - ❤️ Charity
 haiku: |
   TV's healing tales,  
   Knowledge blooms in viewers' hearts,  

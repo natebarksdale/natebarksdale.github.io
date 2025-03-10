@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2008-08-06
+modDatetime: 2025-03-10T18:29:13Z
 title: The only really effective apologia
 slug: the-only-really-effective-apologia
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Joseph Cardinal Ratzinger reflects on the true testimonies of Christianity through the lives of saints and the beauty of art instead of mere apologetics.
 emoji: ✝️
 tags:
-  - 🌟 Saints
-  - 🎨 Art
-  - 📖 Faith
+  - ✝️ Christianity
+  - ✝️ Scriptures
+  - 🌍 Culture
+  - ❤️ Relationships
 haiku: |
   Holiness shines bright,  
   In art and saints we find grace,  

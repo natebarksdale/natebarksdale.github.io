@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2008-10-01
+modDatetime: 2025-03-10T18:29:15Z
 title: Give or take 100,000 words
 slug: give-or-take-100000-words
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: An exploration of the complexities of translating literature, especially in the case of Hugo’s "Les Misérables."
 emoji: 📚
 tags:
-  - 🌍 Literature
   - ✍️ Translation
-  - 🏞️ Hugo
+  - ✍️ Literature
+  - 🌍 Culture
+  - 📖 Books
+  - 📖 Discussions
 haiku: |
   Words stretch and diverge,  
   Intent lost in the echoes,  

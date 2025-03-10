@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:17Z
 title: Accept, fuse, rehabilitate
 slug: accept-fuse-rehabilitate
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: An insightful reflection from Walt Whitman on creativity and identity.
 emoji: 🔄
 tags:
-  - 🔥 energy
-  - 🌍 identity
+  - ✍️ Poetry
+  - 🌍 Culture
+  - 🤝 Altruism
+  - ❤️ Relationships
 haiku: |
   From afar we bring,  
   Vital fire to the gross,  

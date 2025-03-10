@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-21
-modDatetime: 2008-07-21
+modDatetime: 2025-03-10T18:29:12Z
 title: The decline of culture (as a search term)
 slug: the-decline-of-culture-as-a-search-term
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: An exploration of the trends in public interest toward the concept of culture, observing seasonal fluctuations in search activity.
 emoji: 📉
 tags:
-  - 📅 seasons
-  - 🌐 internet
-  - 🤔 curiosity
+  - 🌍 Culture
+  - 📝 Writing
+  - 🗳️ Politics
+  - 🔍 Discoveries
 haiku: |
   Interest seems to fade,  
   Culture lost in the vast web,  

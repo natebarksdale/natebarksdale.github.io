@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2009-02-12
+modDatetime: 2025-03-10T18:29:19Z
 title: To be united with the beauty that we see
 slug: to-be-united-with-the-beauty-that-we-see
 featured: false
@@ -10,8 +10,9 @@ description: In reflecting on the essence of beauty and our connection to it, C.
 emoji: 🌌
 tags:
   - ✨ Beauty
-  - ❤️ Connection
-  - 🌊 Unity
+  - ✝️ Christianity
+  - ❤️ Love
+  - 🌅 Reflection
 haiku: |
   Endless beauty calls,  
   Souls longing to embrace light,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-10-01
-modDatetime: 2010-10-01
+modDatetime: 2025-03-10T18:29:23Z
 title: Mix CD | NY/ROBI
 slug: mix-cd-nyrobi
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: An exploration of the connections between Africa and New York through music, including a unique take on Babatunde Olatunji's "Akiwowo."
 emoji: 🎶
 tags:
-  - 🇰🇪 Kenyan Weddings
-  - 🗽 New York City
-  - 🎵 Music Connections
+  - 🌍 Culture
+  - 🇺🇸 United States
+  - 🎶 Activities
 haiku: |
   Beats from far away,  
   City lights and echoes blend,  

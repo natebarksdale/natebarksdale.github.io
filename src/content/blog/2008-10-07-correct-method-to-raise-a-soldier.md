@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2008-10-07
+modDatetime: 2025-03-10T18:29:15Z
 title: Correct method to raise a soldier
 slug: correct-method-to-raise-a-soldier
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: This remarkable historical photograph captures the effort of soldiers demonstrating the proper technique to lift and carry a comrade in need. "Three soldiers carry a fourth to demonstrate one stage of the correct method to raise a soldier from a reclining position for carrying."
 emoji: 🤝
 tags:
-  - 🪖 soldiers
-  - 🎖️ rescue
+  - ⚕️ Medicine
+  - ⚖️ Ethics
+  - 🌍 Society
 haiku: |
   Four soldiers raise one,  
   Strength in unity shown here,  

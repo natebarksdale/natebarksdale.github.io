@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2009-01-20
+modDatetime: 2025-03-10T18:29:18Z
 title: Every man a king
 slug: every-man-a-king
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: Wu Tingfang shares a compelling perspective on the title of the American president, advocating for a change to "Emperor" to elevate the position and reflect its true significance.
 emoji: 👑
 tags:
-  - 🇺🇸 United States
-  - 🇨🇳 China
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 📝 Writing
+  - 🚂 Railroads
 haiku: |
   Titles and power,  
   President to Emperor,  

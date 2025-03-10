@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2009-02-03
+modDatetime: 2025-03-10T18:29:19Z
 title: No more than an hour
 slug: no-more-than-an-hour
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A reflective observation from 1939 about the limitations of television and its impact on family life.
 emoji: 📺
 tags:
-  - ⏳ Time
-  - 🏠 Family
-  - 🎭 Entertainment
+  - 📺 Television
+  - 📝 Journalism
+  - 🌍 Society
 haiku: |
   Eyes fixed on the screen,  
   Tethered to the flickering,  

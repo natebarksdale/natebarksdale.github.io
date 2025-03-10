@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2008-10-01
+modDatetime: 2025-03-10T18:29:15Z
 title: Super Kingdom by London Fieldworks
 slug: super-kingdom-by-london-fieldworks
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Inspired by the hibernation patterns of local animals, this series of show homes evokes a blend of biblical imagery, reminiscent of the Tower of Babel and Noah's Ark, intertwining themes from the Garden of Eden and the New Jerusalem.
 emoji: 🐦
 tags:
-  - 🏠 show homes
-  - 🌍 ecosystems
-  - 🐾 hibernation
+  - 🌍 Culture
+  - ⛪ Religion
+  - 🌅 Reflection
+  - ✨ Beauty
+  - 🏞️ National Parks
 haiku: |
   Nature's shelter built,  
   Towering dreams in the trees,  

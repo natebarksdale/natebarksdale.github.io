@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2008-10-09
+modDatetime: 2025-03-10T18:29:15Z
 title: Stone wall, Cuzco, Peru
 slug: stone-wall-cuzco-peru
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: The intricacies of Cuzco's mortarless Incan masonry never cease to amaze me, especially regarding how the seams between the blocks appear on the inside. How complex might the joints be? The geolocation coordinates for this remarkable structure are approximately -13.5226, -71.9731.
 emoji: 🏛️
 tags:
-  - 🗿 Incan Masonry
-  - 🌄 Historical Sites
-  - 🔍 Architecture
+  - 🌍 Culture
+  - 🏛️ Architecture
+  - 🌀 Complexity
+  - 🏞️ National Parks
 haiku: |
   Stones fit like puzzle,  
   Secrets hide within the seams,  

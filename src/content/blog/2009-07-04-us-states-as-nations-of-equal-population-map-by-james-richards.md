@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-04
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: U.S. states as nations of equal population, map by James Richards
 slug: us-states-as-nations-of-equal-population-map-by-james-richards
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A fascinating map combining US states and countries of equal population, perfect for a July 4 reflection from Culture-Making.com's curators.
 emoji: 🗺️
 tags:
-  - 🇺🇸 US States
-  - 🌍 Geography
-  - 🏳️ Flags
+  - 🌍 Maps
+  - 🇺🇸 United States
+  - 🗺️ States
+  - 🌍 Culture
 haiku: |
   Flags weave through the map,  
   Nations marked by population,  

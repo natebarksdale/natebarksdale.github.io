@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-07
-modDatetime: 2025-03-07T22:22:54Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Not quite the Northern Lights
 slug: not-quite-the-northern-lights
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: A striking abstract image from a rainy day on Northern Lights Blvd in Anchorage, Alaska, showcases the ordinary retail landscape in an intriguing way.
 emoji: 🌧️
 tags:
-  - 🌆 Retail Boulevards
   - 📍 Anchorage
+  - 🌍 Exploration
+  - 🌆 Urban Spaces
+  - 🌧️ Nature
 haiku: |
   Rain on lenses blur,  
   Streets of Anchorage unfold,  

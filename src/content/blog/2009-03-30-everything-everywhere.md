@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-30
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Everything, everywhere
 slug: everything-everywhere
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: A reflection on the yearning for exploration and the human desire to embrace the world, as articulated by Susan Sontag.
 emoji: 🌍
 tags:
-  - ✈️ Travels
-  - 📚 Literature
-  - 🌌 Curiosity
+  - 🌍 Exploration
+  - 📖 Reading
+  - 🌌 Dystopias
 haiku: |
   World waits to be seen,  
   Every place a new story,  

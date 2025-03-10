@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2008-08-01
+modDatetime: 2025-03-10T18:29:13Z
 title: “Blacksmith Shop”, by Czeslaw Milosz
 slug: blacksmith-shop-by-czeslaw-milosz
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A reflection on how childhood can connect us to our life's callings, as illustrated in Czeslaw Milosz's evocative poem, "Blacksmith Shop."
 emoji: 🔥
 tags:
-  - 🔨 tools
-  - 🐴 horses
-  - 🌾 nature
+  - ⚒️ Blacksmiths
+  - ✍️ Poetry
+  - 🌍 Culture
+  - 🌅 Reflection
 haiku: |
   Iron heated bright,  
   Childhood's call in the forge,  

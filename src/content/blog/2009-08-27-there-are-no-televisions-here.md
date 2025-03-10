@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-27
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: There are no televisions here
 slug: there-are-no-televisions-here
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: In an exploration of Paju Book City, Edwin Heathcole captures the tension between the fantastical vision of a city dedicated to literature and its stark physical surroundings.
 emoji: 📚
 tags:
-  - 🏙️ Cities
-  - 📖 Books
-  - 🌿 Architecture
+  - 🌍 Culture
+  - ⚒️ Blacksmiths
+  - ✍️ Literature
+  - 📖 Reading
 haiku: |
   In a city built,  
   Pages whisper to the skies,  

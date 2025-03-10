@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-13
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:21Z
 title: The private languages of Lego
 slug: the-private-languages-of-lego
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: A reflection on the unique vocabulary developed by children during Lego play and the importance of naming in their imaginative worlds.
 emoji: 🧩
 tags:
-  - 🏠 Lego Families
+  - 🧠 Knowledge
   - 🗣️ Language
-  - 🌟 Creativity
+  - 📝 Writing
+  - 🌍 Culture
 haiku: |
   Children building dreams,  
   Clippy bits and handy words,  

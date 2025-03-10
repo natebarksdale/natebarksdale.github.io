@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-20
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Le voyage dans la Lune, by George Méliès
 slug: le-voyage-dans-la-lune-by-george-melies
 featured: false
@@ -9,9 +9,10 @@ draft: false
 description: Celebrating the 107th anniversary of Georges Méliès' iconic film, Le voyage dans la Lune, and its intriguing connections to the 1969 moon landing.
 emoji: 🌜
 tags:
-  - 🎥 films
-  - 🚀 space travel
-  - 🎉 anniversaries
+  - 🌌 Fantasy
+  - 🎥 Film
+  - 🌍 History
+  - 📝 Writing
 haiku: |
   Silent journeys soar,  
   Wizards in the control room,  

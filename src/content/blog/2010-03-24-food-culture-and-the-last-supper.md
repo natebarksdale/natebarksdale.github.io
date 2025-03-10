@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: Food culture and the Last Supper
 slug: food-culture-and-the-last-supper
 featured: false
@@ -9,9 +9,8 @@ draft: false
 description: An intriguing analysis of portion sizes in the iconic Last Supper paintings reveals notable trends over centuries. The study conducted by Wansink and his brother uncovers how food representations have expanded in size, reflecting cultural shifts in consumption.
 emoji: 🍽️
 tags:
-  - 🍞 breads
-  - 🍖 meals
-  - 🎨 art
+  - 🌍 Culture
+  - 🍞 Bread
 haiku: |
   Tables loaded high,  
   Art reflects our appetite,  

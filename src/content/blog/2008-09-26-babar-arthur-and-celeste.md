@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-26
-modDatetime: 2008-09-26
+modDatetime: 2025-03-10T18:29:15Z
 title: Babar, Arthur and Celeste
 slug: babar-arthur-and-celeste
 featured: false
@@ -9,10 +9,9 @@ draft: false
 description: A glimpse into Babar's adventures from Jean de Brunhoff's sketches, highlighting the moment he takes Arthur and Celeste shopping.
 emoji: 🐘
 tags:
-  - 🐘 elephants
-  - 👗 fashion
-  - 🏬 shopping
-  - 🚶‍♂️ adventure
+  - 📝 Writing
+  - 🎨 Art
+  - 🌍 Culture
 haiku: |
   Babar on a quest,  
   Dressing Arthur and Celeste,  

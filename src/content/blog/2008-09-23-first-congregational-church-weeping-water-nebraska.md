@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-07T22:22:55Z
+modDatetime: 2025-03-10T18:29:14Z
 title: First Congregational Church, Weeping Water, Nebraska
 slug: first-congregational-church-weeping-water-nebraska
 featured: false
@@ -9,8 +9,9 @@ draft: false
 description: A striking observation on the natural corrosion of a church in Weeping Water, Nebraska, evokes a sense of melancholy as the building seems to mirror the town's name. "I was struck by the rust streaking on this church in the evocatively named Weeping Water, NE (pop. 1003). The church seemed to be weeping too! At first I thought it must be derelict, but I think the staining is a sort of natural patina that grows from flecks of iron in the limestone—the Weeping Water Public Library has the same facade, also out of stone from the town quarry, which is listed as the largest limestone mine in the state."
 emoji: ⛪
 tags:
-  - 🏛️ churches
-  - ⛏️ quarries
+  - ⛪ Religion
+  - 🏛️ Churches
+  - 🗺️ States
 haiku: |
   Stones weather through time,  
   Echoes of faith in rusted,  

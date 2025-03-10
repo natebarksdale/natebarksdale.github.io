@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-13
-modDatetime: 2025-03-07T22:31:50Z
+modDatetime: 2025-03-10T18:29:24Z
 title: Articles | American topics for History.com
 slug: articles-american-topics-for-historycom
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:
-  - 🇺🇸 American History
-  - 🔍 Notable Figures
-  - 🏙️ Major Cities
+  - 🌍 History
+  - 🇺🇸 United States
+  - ⚒️ Blacksmiths
+  - ⚙️ Technology
+  - ⚖️ Ethics
 haiku: |
   Battles fought and won,  
   Legends of the bold and great,  

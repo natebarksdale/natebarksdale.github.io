@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-29
-modDatetime: 2008-10-29
+modDatetime: 2025-03-10T18:29:16Z
 title: City and Forest, by Katy Wu
 slug: city-and-forest-by-katy-wu
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: A young illustrator's work captures the delicate balance between nature and culture, inspired by the beloved film My Neighbour Totoro.
 emoji: 🌳
 tags:
-  - 🌆 cities
-  - 🌳 forests
-  - 🎨 art
-  - 🎬 animation
+  - 🌍 Culture
+  - 🌍 Environment
+  - 🇯🇵 Japan
+  - 🌲 Parks
+  - ✨ Beauty
 haiku: |
   Nature and city,  
   Cultures intertwining,  

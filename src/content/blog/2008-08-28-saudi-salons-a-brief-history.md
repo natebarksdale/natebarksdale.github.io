@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-07T22:15:31Z
+modDatetime: 2025-03-10T18:29:14Z
 title: Saudi salons - a brief history
 slug: saudi-salons-a-brief-history
 featured: false
@@ -9,9 +9,9 @@ draft: false
 description: Eman Al Nafjan explores the intriguing evolution of Saudi Arabian hair salons from tailor shops, highlighting cultural needs and changes over the decades.
 emoji: ✂️
 tags:
-  - ✂️ salons
-  - 👗 tailors
-  - 🌍 culture
+  - 🌍 Culture
+  - 👩‍🏫 Education
+  - 🎉 Celebration
 haiku: |
   From fabric to style,  
   Women's hands weave beauty's thread,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:22Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: A fascinating exploration of the disconnect between automated trading algorithms and the narrative-driven explanations provided by the financial press.
 emoji: 🤖
 tags:
-  - 📉 Stock Markets
-  - 💬 Narratives
   - ⚖️ Algorithms
-  - 🖥️ Machine Learning
+  - ⚖️ Choices
+  - 🌍 Society
+  - 🌍 Culture
+  - 📝 Journalism
 haiku: |
   Machines trade with speed,  
   Stories crafted post hoc  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-08
-modDatetime: 2009-01-08
+modDatetime: 2025-03-10T18:29:18Z
 title: Crosstown crosswords
 slug: crosstown-crosswords
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: A creative urban project in Lvov, Ukraine turns a blank building face into an interactive crossword puzzle for both locals and visitors.
 emoji: 🧩
 tags:
-  - 🏙️ Landmarks
-  - 🎨 Art Installations
-  - 🤔 Puzzles
+  - 🌍 Culture
+  - 📝 Writing
+  - 🎨 Art
+  - 🌆 Cities
+  - 🎉 Festivals
 haiku: |
   A city’s bright game,  
   Puzzles glimmer in the night,  

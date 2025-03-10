@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-03
-modDatetime: 2025-03-07T22:22:56Z
+modDatetime: 2025-03-10T18:29:20Z
 title: Great wine, but what’s it taste like?
 slug: great-wine-but-whats-it-taste-like
 featured: false
@@ -9,11 +9,11 @@ draft: false
 description: A thought-provoking perspective on the complex nature of sensory experiences by Robin Goldstein.
 emoji: 🍷
 tags:
-  - 🍷 Wines
-  - 🎶 Music
-  - 🎨 Art
-  - 🌈 Colors
-  - 🌿 Aromas
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 🍷 Wine
+  - 🎨 Aesthetics
 haiku: |
   Elusive senses,  
   Taste and smell weave memories,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-20
-modDatetime: 2025-03-07T22:22:57Z
+modDatetime: 2025-03-10T18:29:23Z
 title: The polychromatic Middle Ages
 slug: the-polychromatic-middle-ages
 featured: false
@@ -9,9 +9,11 @@ draft: false
 description: Exploring the splendid visual motifs of the Middle Ages through the vibrant aesthetic of Auguste Racinet's _L'Ornament Polychrome_, showcasing art from ancient to 18th-century Europe.
 emoji: 🎨
 tags:
-  - 🖼️ Artworks
-  - 🏰 Medieval Motifs
-  - 📚 Publications
+  - 🎨 Art
+  - 🌍 Culture
+  - 📖 Books
+  - 🌌 Dystopias
+  - 🌌 Fantasy
 haiku: |
   Colors in the past,  
   Patterns weave through time and style,  

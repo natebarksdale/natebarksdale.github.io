@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2007-08-28
+modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Nuevo manuel de la música cubana y africana
 slug: mix-cd-nuevo-manuel-de-la-musica-cubana-y-africana
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: A personal exploration of Cuban music through a curated mix of _rumba_ and _son_ spanning over a century.
 emoji: 🎶
 tags:
-  - 🎷 rumba
-  - 🎤 son
-  - 📚 guidebook
+  - 🎵 Music
   - 🇨🇺 Cuba
+  - 🌍 Culture
+  - 📖 Books
+  - 📝 Writing
 haiku: |
   Rhythms of the past,  
   Echoes of vibrant culture,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-09
-modDatetime: 2025-03-07T22:22:54Z
+modDatetime: 2025-03-10T18:29:14Z
 title: For one minute please stand
 slug: for-one-minute-please-stand
 featured: false
@@ -9,8 +9,11 @@ draft: false
 description: An invitation to reconsider and engage with our urban spaces through simple steps for transformation.
 emoji: 🌆
 tags:
-  - 🏙️ urban
-  - 📷 photography
+  - 🌆 Urban Spaces
+  - 🌍 Culture
+  - 📖 Articles
+  - 📝 Writing
+  - 🔍 Discoveries
 haiku: |
   City streets await,  
   Simple steps to transform,  

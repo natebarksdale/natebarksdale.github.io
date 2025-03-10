@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-07T22:34:48Z
+modDatetime: 2025-03-10T18:29:12Z
 title: Legitimizing the ß
 slug: legitimizing-the
 featured: false
@@ -9,8 +9,10 @@ draft: false
 description: An exploration of the recognition and preservation of unique European letters on the internet, including the Eszett in Germany.
 emoji: 🇩🇪
 tags:
-  - 🇩🇪 German Letters
-  - 🖥️ Digital Typography
+  - 🅰️ Alphabets
+  - 🌍 Globalization
+  - 🗣️ Words
+  - 🔍 Discoveries
 haiku: |
   Eszett stands renewed,  
   Typographers rejoice now,  

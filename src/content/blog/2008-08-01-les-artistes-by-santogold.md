@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2008-08-01
+modDatetime: 2025-03-10T18:29:13Z
 title: L.E.S. Artistes, by Santogold
 slug: les-artistes-by-santogold
 featured: false
@@ -9,10 +9,11 @@ draft: false
 description: Exploring the dual interpretations of a song about artistic sacrifice and frustration with superficiality.
 emoji: 🎨
 tags:
-  - 🎭 artistic struggles
-  - 🌌 cult cinema
-  - 🤔 hipster critique
-  - ⛰️ spiritual journey
+  - 📝 Writing
+  - 🎨 Art
+  - 🌀 Complexity
+  - ⚖️ Ethics
+  - 🌍 Culture
 haiku: |
   Sacrifices weigh,  
   Artists clash with judgment,  
