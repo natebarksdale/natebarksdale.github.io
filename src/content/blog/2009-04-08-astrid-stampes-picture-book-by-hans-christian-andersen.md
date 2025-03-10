@@ -1,15 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-08
-modDatetime: 2009-04-08
+modDatetime: 2025-03-10T19:42:14Z
 title: Astrid Stampe’s Picture Book, by Hans Christian Andersen
 slug: astrid-stampes-picture-book-by-hans-christian-andersen
 featured: false
 draft: false
-description: A glimpse into the charming world of Hans Christian Andersen's picture books for the young and imaginative.  
-  
-"Hans Christian Andersen made several picture books for the children and grandchildren of his friends
-emoji: 📚  
+description: A glimpse into the charming world of Hans Christian Andersen's picture books for the young and imaginative.
+emoji: 📚
 tags:
   - ✍️ Literature
   - 📖 Books
@@ -17,10 +15,10 @@ tags:
   - 🎨 Art
   - 🌍 Culture
 haiku: |
-    Andersen’s delight,  
-    Pictures dance for young readers,  
-    Stories take their flight.  
-coordinates: [55.3963,10.3888]
+  Andersen’s delight,  
+  Pictures dance for young readers,  
+  Stories take their flight.
+coordinates: [55.3963, 10.3888]
 ---
 
 Ninteenth-century Tumblr-esque collages and papercuts from the Danish poet and storyteller:
