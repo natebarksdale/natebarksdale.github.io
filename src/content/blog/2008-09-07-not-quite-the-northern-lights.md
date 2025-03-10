@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:14Z
 title: Not quite the Northern Lights
 slug: not-quite-the-northern-lights
 featured: false
-draft: false
+draft: true
 description: A striking abstract image from a rainy day on Northern Lights Blvd in Anchorage, Alaska, showcases the ordinary retail landscape in an intriguing way.
 emoji: 🌧️
 tags:

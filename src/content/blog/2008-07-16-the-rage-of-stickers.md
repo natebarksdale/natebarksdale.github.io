@@ -1,16 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2008-07-16
+modDatetime: 2025-03-10T19:08:46Z
 title: The rage of stickers
 slug: the-rage-of-stickers
 featured: false
 draft: false
 description: Alan Jacobs shares intriguing insights on how car personalization correlates with road rage.
-> 
->   *
->
->> Bumper stickers such as “Make Love, Not War” and “More Trees, Less Bush” speak volumes about a vehicle’s driver — but maybe not in the way they might hope
 emoji: 🚗
 tags:
   - ⚠️ Danger
@@ -19,10 +15,10 @@ tags:
   - 🚗 Cars
   - 🌍 Society
 haiku: |
-    Stickers on bumpers,  
-    Territory marked with pride,  
-    Rage ignites the drive.  
-coordinates: [39.7392,-104.9903]
+  Stickers on bumpers,  
+  Territory marked with pride,  
+  Rage ignites the drive.
+coordinates: [39.7392, -104.9903]
 ---
 
 a [more than 95 theses](http://web.archive.org/web/20081203121205/http://ayjay.tumblr.com/post/38742661) post by Alan Jacobs

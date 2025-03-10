@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:15Z
 title: Old Hwy 52, Rural Hall, North Carolina
 slug: old-hwy-52-rural-hall-north-carolina
 featured: false
-draft: false
+draft: true
 description: Reflecting on the charm of Rural Hall, NC, particularly the enclosed exterior stairway and the town's historic development. "The town developed after the Cape Fear description ... I like the way someone's enclosed their exterior stairway here Yadkin Valley Railroad erected a train station here in 1887."
 emoji: 🏡
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:15Z
 title: Odd Fellows Lawn, Sacramento, California
 slug: odd-fellows-lawn-sacramento-california
 featured: false
-draft: false
+draft: true
 description: Odd Fellows Lawn Cemetery and Mausoleum in Sacramento, California, has a unique history connected to fraternal orders. "Odd Fellows Lawn Cemetery and Mausoleum, Sacramento, California."
 emoji: 🪦
 tags:

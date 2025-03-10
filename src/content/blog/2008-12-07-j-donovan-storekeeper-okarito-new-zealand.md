@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:17Z
 title: J. Donovan Storekeeper, Okarito, New Zealand
 slug: j-donovan-storekeeper-okarito-new-zealand
 featured: false
-draft: false
+draft: true
 description: A reflection on Keri Hulme's novel _The Bone People_ and its connection to the Westland coast of New Zealand, explored through Google Street View.
 emoji: 🏞️
 tags:

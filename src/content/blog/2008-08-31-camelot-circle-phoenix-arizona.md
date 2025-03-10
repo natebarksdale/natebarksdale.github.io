@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:14Z
 title: Camelot Circle, Phoenix, Arizona
 slug: camelot-circle-phoenix-arizona
 featured: false
-draft: false
+draft: true
 description: An intriguing showcase of all-gravel lawns in a unique suburb west of Phoenix, complete with environmental benefits.
 emoji: 🌵
 tags:

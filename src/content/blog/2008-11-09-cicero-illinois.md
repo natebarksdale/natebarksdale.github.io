@@ -5,7 +5,7 @@ modDatetime: 2008-11-09
 title: Cicero, Illinois
 slug: cicero-illinois
 featured: false
-draft: false
+draft: true
 description: A glimpse of the children from Cicero captures the past and present of a town navigating its complex history of race and identity.
 emoji: 👧
 tags:

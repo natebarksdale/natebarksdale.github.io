@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:16Z
 title: Ponte Vecchio, Florence, Italy
 slug: ponte-vecchio-florence-italy
 featured: false
-draft: false
+draft: true
 description: A glimpse of the historic Ponte Vecchio bridge in Florence, Italy, where ancient butchers' shops have transformed into vibrant tourist boutiques.
 emoji: 🌉
 tags:

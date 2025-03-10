@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:17Z
 title: Turquoise tile, Lille, France
 slug: turquoise-tile-lille-france
 featured: false
-draft: false
+draft: true
 description: A charming observation on the unique architectural details found in Lille, France, featuring a distinctive turquoise tile arch.
 emoji: 🏙️
 tags:

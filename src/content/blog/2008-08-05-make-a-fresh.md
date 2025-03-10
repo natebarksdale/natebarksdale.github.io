@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:13Z
 title: Make a fresh!
 slug: make-a-fresh
 featured: false
-draft: false
+draft: true
 description: Google Maps has expanded its Street View coverage to Australia and Japan, making it a great time for cross-cultural exploration! Here's a glimpse into the experience.
 emoji: 🌏
 tags:
