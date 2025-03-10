@@ -1,11 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-10T20:11:28Z
 title: They also ran
 slug: they-also-ran
 featured: false
 draft: false
+description: Canadian photographer Sandy Nicholson documents the competitors who are forgotten about and under-celebrated — the second-place finishers.
 emoji: 🥈
 tags:
   - 🎭 Competitions
