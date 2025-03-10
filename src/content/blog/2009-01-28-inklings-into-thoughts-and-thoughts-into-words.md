@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-10T19:04:05Z
 title: Inklings into thoughts and thoughts into words
 slug: inklings-into-thoughts-and-thoughts-into-words
 featured: false
@@ -18,6 +18,6 @@ haiku: |
 coordinates: [40.7831, -73.9712]
 ---
 
-I would write ads for deodorants or labels for catsup bottle, if I had to. The miracle of turning inklings into thoughts and thoughts into words and words into metal and print and ink never palls for me.
-
---John Updike, _Paris Review_ interview (1967) :: via Daring Fireball
+> I would write ads for deodorants or labels for catsup bottle, if I had to. The miracle of turning inklings into thoughts and thoughts into words and words into metal and print and ink never palls for me.
+>
+> --John Updike, _Paris Review_ interview (1967) :: via Daring Fireball

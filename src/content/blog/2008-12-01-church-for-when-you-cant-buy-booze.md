@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2008-12-01
-title: Church: for when you can’t buy booze
+modDatetime: 2025-03-10T19:04:05Z
+title: Church - for when you can’t buy booze
 slug: church-for-when-you-cant-buy-booze
 featured: false
 draft: false
-description: This study explores the impact of blue laws on religious participation and behavior in society.  
-emoji: 📅  
+description: This study explores the impact of blue laws on religious participation and behavior in society.
+emoji: 📅
 tags:
   - ⛪ Religion
   - ⚖️ Law
@@ -15,10 +15,10 @@ tags:
   - 💼 Business
   - 🔍 Accountability
 haiku: |
-    Sunday goods now flow,  
-    Faith wanes as spirits rise,  
-    Choices clash and brew.  
-coordinates: [41.3083,-72.9279]
+  Sunday goods now flow,  
+  Faith wanes as spirits rise,  
+  Choices clash and brew.
+coordinates: [41.3083, -72.9279]
 ---
 
 One of the arguments for the repeal of so-called [blue laws](http://en.wikipedia.org/wiki/Blue_law) limiting alcohol purchase on Sundays is that they're an outmoded and inappropriate way of imposing one group's religiosity on those who don't share their beliefs. As this economic study indicates, though, repealing blue laws seems to have the most significant, and negative, effect on potential churchgoers, not on nonbelievers. (As a side note, the original [Blue Laws](https://www.google.com/search?q=%22Blue%20Laws%22%20en.wikipedia.org)), passed in 1655 in New Haven, CT, forbade the following Sabbath activities: baby-kissing, shaving, pleasure walks, as well as this final, general restriction: "Every male shall have his hair cut round according to a cap.")

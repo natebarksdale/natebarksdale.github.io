@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2008-10-09
-title: If There Ever Was: A Book of Extinct and Impossible Smells
+modDatetime: 2025-03-10T19:04:04Z
+title: If There Ever Was - A Book of Extinct and Impossible Smells
 slug: if-there-ever-was-a-book-of-extinct-and-impossible-smells
 featured: false
 draft: false
-description: Aroma is creatively underutilized, as Robert Blackson explores through conceptual scent art.  
-emoji: 🌍  
+description: Aroma is creatively underutilized, as Robert Blackson explores through conceptual scent art.
+emoji: 🌍
 tags:
   - 🎨 Art
   - 🌍 Culture
@@ -15,10 +15,10 @@ tags:
   - 🧪 Experiments
   - 🧠 Knowledge
 haiku: |
-    Whispers of the past,  
-    Scents beckon from distant worlds,  
-    Memory unfolds.  
-coordinates: [54.9050,-1.3842]
+  Whispers of the past,  
+  Scents beckon from distant worlds,  
+  Memory unfolds.
+coordinates: [54.9050, -1.3842]
 ---
 
 It's a little hard to talk about "conceptual scent art" or "scratch-and-sniff technology" without feeling a little silly—maybe there's a set of French words that make it all sound more important. But I can't help but feel that aroma is creatively underutilized. Not that there isn't a scent aspect to all sorts of cultural products and endeavors, but that we don't talk about it much, and often don't really notice smells (at least in non-food-related endeavors) unless something's amiss

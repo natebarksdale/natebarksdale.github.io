@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-10T19:04:04Z
 title: On Thanksgiving
 slug: on-thanksgiving
 featured: false
@@ -19,6 +19,6 @@ haiku: |
 coordinates: [39.8283, -98.5795]
 ---
 
-It is curious that we Americans have a holiday—Thanksgiving—that’s all about people who left their homes for a life of their own choosing, a life that was different from their parents’ lives. And how do we celebrate it? By hanging out with our parents! It’s as if on the Fourth of July we honored our independence from the British by barbecuing crumpets
-
---Sarah Vowell, _[The Partly Cloudy Patriot](http://books.google.com/books?id=ywu2i1zCoxwC&printsec=frontcover&dq=sarah+vowell+thanksgiving&ei=I_IuSfr0HorUkwT01ZGECg#PPA12,M1)_
+> It is curious that we Americans have a holiday—Thanksgiving—that’s all about people who left their homes for a life of their own choosing, a life that was different from their parents’ lives. And how do we celebrate it? By hanging out with our parents! It’s as if on the Fourth of July we honored our independence from the British by barbecuing crumpets
+>
+> --Sarah Vowell, _[The Partly Cloudy Patriot](http://books.google.com/books?id=ywu2i1zCoxwC&printsec=frontcover&dq=sarah+vowell+thanksgiving&ei=I_IuSfr0HorUkwT01ZGECg#PPA12,M1)_

@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2003-03-01
-modDatetime: 2003-03-01
-title: A star in the East: The enduring myth of Prester John
+modDatetime: 2025-03-10T19:04:04Z
+title: A star in the East- The enduring myth of Prester John
 slug: a-star-in-the-east-the-enduring-myth-of-prester-john
 featured: false
 draft: false
-description: The legend of Prester John serves as a lens through which we examine medieval European dreams of Christian power in distant lands. 
-emoji: 🗺️  
+description: The legend of Prester John serves as a lens through which we examine medieval European dreams of Christian power in distant lands.
+emoji: 🗺️
 tags:
   - 🌍 Exploration
   - 📍 Travel
   - 🖼️ Artifacts
 haiku: |
-    Legends of a king,  
-    Lost in time and mystery,  
-    Faith and dreams converge.  
-coordinates: [15.5000,24.0000]
+  Legends of a king,  
+  Lost in time and mystery,  
+  Faith and dreams converge.
+coordinates: [15.5000, 24.0000]
 ---
 
 ![](https://www.natebarksdale.com/wp-content/uploads/2003/03/waldseemuller1_530.jpg)

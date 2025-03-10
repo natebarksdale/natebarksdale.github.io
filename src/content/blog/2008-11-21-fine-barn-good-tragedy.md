@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-10T19:04:04Z
 title: Fine barn, good tragedy
 slug: fine-barn-good-tragedy
 featured: false
@@ -20,6 +20,6 @@ haiku: |
 coordinates: [42.3601, -71.0589]
 ---
 
-I like to have a man’s knowledge comprehend more than one class of topics, one row of shelves. I like a man who likes to see a fine barn as well as a good tragedy
-
---Ralph Waldo Emerson, _[Journal](http://books.google.com/books?id=haFaAAAAMAAJ&pg=PA246&dq=I+like+to+have+a+man%27s+knowledge+comprehend&as_brr=1&ei=vBonScS4EJHGlQSlyozjDA)_ , 1828
+> I like to have a man’s knowledge comprehend more than one class of topics, one row of shelves. I like a man who likes to see a fine barn as well as a good tragedy
+>
+> --Ralph Waldo Emerson, _[Journal](http://books.google.com/books?id=haFaAAAAMAAJ&pg=PA246&dq=I+like+to+have+a+man%27s+knowledge+comprehend&as_brr=1&ei=vBonScS4EJHGlQSlyozjDA)_ , 1828

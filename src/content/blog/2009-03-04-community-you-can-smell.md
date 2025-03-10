@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2009-03-04
+modDatetime: 2025-03-10T19:04:05Z
 title: Community you can smell
 slug: community-you-can-smell
 featured: false
@@ -20,6 +20,6 @@ haiku: |
 coordinates: [40.7831, -119.2046]
 ---
 
-People talk about an Internet community, but that’s not a community to my mind. Community doesn’t happen until you smell people.
-
---Larry Harvey, co-founder of the Burning Man festival, [2000](https://www.google.com/search?q=%222000%22%20zdnet.com.au)
+> People talk about an Internet community, but that’s not a community to my mind. Community doesn’t happen until you smell people.
+>
+> --Larry Harvey, co-founder of the Burning Man festival, [2000](https://www.google.com/search?q=%222000%22%20zdnet.com.au)

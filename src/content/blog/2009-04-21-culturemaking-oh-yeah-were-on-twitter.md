@@ -2,10 +2,10 @@
 author: Nate Barksdale
 pubDatetime: 2009-04-21
 modDatetime: 2009-04-21
-title: @culturemaking: Oh yeah, we’re on twitter
+title: @culturemaking - Oh yeah, we’re on twitter
 slug: culturemaking-oh-yeah-were-on-twitter
 featured: false
-draft: false
+draft: true
 description: We've started cross-posting content from our blog to the @culturemaking Twitter feed for those interested in following along.  
 emoji: 🐦  
 tags:

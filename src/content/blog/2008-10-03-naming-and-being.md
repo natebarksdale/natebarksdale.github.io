@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-10T19:04:04Z
 title: Naming and being
 slug: naming-and-being
 featured: false
@@ -20,6 +20,6 @@ haiku: |
 coordinates: [34.0736, -84.3870]
 ---
 
-Once Helen Keller knew what water was, she had to know what everything else was
-
---Walker Percy, "Naming and Being
+> Once Helen Keller knew what water was, she had to know what everything else was
+>
+> --Walker Percy, "Naming and Being

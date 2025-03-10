@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2003-09-01
-modDatetime: 2003-09-01
-title: Mix CD | re:RQ
+modDatetime: 2025-03-10T19:04:04Z
+title: Mix CD | reRQ
 slug: mix-cd-rerq
 featured: false
 draft: false

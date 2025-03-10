@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-24
-modDatetime: 2009-04-24
-title: Playing for Change: Global street musicians cover “Stand By Me”
+modDatetime: 2025-03-10T19:04:05Z
+title: Playing for Change - Global street musicians cover “Stand By Me”
 slug: playing-for-change-global-street-musicians-cover-stand-by-me
 featured: false
 draft: false
-description: An exploration of global musical collaborations that create vibrant, diverse soundscapes.  
-emoji: 🌍  
+description: An exploration of global musical collaborations that create vibrant, diverse soundscapes.
+emoji: 🌍
 tags:
   - 🎶 Live Performances
   - 🎤 Bands
@@ -15,10 +15,10 @@ tags:
   - 🎥 Documentaries
   - 🌞 Leisure
 haiku: |
-    Diverse voices sing,  
-    Music linking us as one,  
-    Joy in every strum.  
-coordinates: [34.0522,-118.2437]
+  Diverse voices sing,  
+  Music linking us as one,  
+  Joy in every strum.
+coordinates: [34.0522, -118.2437]
 ---
 
 From a documentary film that features a whole series of similar global collaborations. A bit like a more musician-collaborative version of Kutiman's brilliant [ThruYOU](http://thru-you.com/#/videos/1/) YouTube mash-ups. In both cases, if you listen with your eyes shut you're liable to think "too many instruments!!", but in video form, it's pure multitude-containing jump cut musical joy

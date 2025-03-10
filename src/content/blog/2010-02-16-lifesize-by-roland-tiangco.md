@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-16
-modDatetime: 2010-02-16
-title: Life:Size by Roland Tiangco
+modDatetime: 2025-03-10T19:04:05Z
+title: LifeSize by Roland Tiangco
 slug: lifesize-by-roland-tiangco
 featured: false
 draft: false

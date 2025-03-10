@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2008-07-26
+modDatetime: 2025-03-10T19:04:04Z
 title: Eighty percent of success ..
 slug: eighty-percent-of-success
 featured: false
@@ -21,6 +21,6 @@ haiku: |
 coordinates: [40.7128, -74.0060]
 ---
 
-Eighty percent of success is showing up.
-
---Woody Allen
+> Eighty percent of success is showing up.
+>
+> --Woody Allen

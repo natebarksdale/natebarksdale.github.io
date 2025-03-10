@@ -1,23 +1,23 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-12-01
-modDatetime: 2001-12-01
-title: Omission impossible: Why we need enemies
+modDatetime: 2025-03-10T19:04:04Z
+title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false
 draft: false
-description: An exploration of the complex relationship between humanity and the notion of enemies, revealing their role in spiritual and moral growth.  
-emoji: ⚔️  
+description: An exploration of the complex relationship between humanity and the notion of enemies, revealing their role in spiritual and moral growth.
+emoji: ⚔️
 tags:
   - ⚔️ Enemies
   - ⚖️ Ethics
   - 🌍 Society
   - 🤔 Philosophy
 haiku: |
-    In shadows they loom,  
-    Enemies teach us true love,  
-    Growth through painful strife.  
-coordinates: [-30.5595,22.9375]
+  In shadows they loom,  
+  Enemies teach us true love,  
+  Growth through painful strife.
+coordinates: [-30.5595, 22.9375]
 ---
 
 ![](https://www.natebarksdale.com/wp-content/uploads/2001/12/enemies.jpg)

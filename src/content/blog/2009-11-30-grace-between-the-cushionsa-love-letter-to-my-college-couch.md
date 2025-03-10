@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2009-11-30
-title: Grace between the cushions:A love letter to my college couch
+modDatetime: 2025-03-10T19:04:05Z
+title: Grace between the cushions - A love letter to my college couch
 slug: grace-between-the-cushionsa-love-letter-to-my-college-couch
 featured: false
 draft: false

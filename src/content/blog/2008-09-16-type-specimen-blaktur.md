@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2008-09-16
-title: Type specimen: Blaktur
+modDatetime: 2025-03-10T19:04:04Z
+title: Type specimen - Blaktur
 slug: type-specimen-blaktur
 featured: false
 draft: false
@@ -15,10 +15,10 @@ tags:
   - ✍️ Literature
   - 💡 Design
 haiku: |
-    Letters intertwine,  
-    History meets modern art,  
-    Tradition reborn.  
-coordinates: [39.9526,-75.1652]
+  Letters intertwine,  
+  History meets modern art,  
+  Tradition reborn.
+coordinates: [39.9526, -75.1652]
 ---
 
 I just liked the look of this, and the great stream of associations—from apple pie to heavy metal—that are referenced by this contemporary, computerized take on old-style German blackletter calligraphy. [**Andy** cannot help adding: do my eyes deceive me, or do I see a reference to the Christian-subculture product par excellence, "[Testamints](http://web.archive.org/web/20241001014946/http://www.testamints.net/)"?!?] [![image](http://culture-making.com/media/Blaktur.jpg)](http://www.tdc.org/news/2008Results/Blaktur.html)

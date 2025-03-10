@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2008-09-23
-title: Cultural Relativism: Animal Noises Edition
+modDatetime: 2025-03-10T19:04:04Z
+title: Cultural Relativism - Animal Noises Edition
 slug: cultural-relativism-animal-noises-edition
 featured: false
 draft: false

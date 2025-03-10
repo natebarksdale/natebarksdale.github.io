@@ -1,22 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2008-07-15
-title: Beyond Bollywood: Shillong’s love affair with western music
+modDatetime: 2025-03-10T19:04:04Z
+title: Beyond Bollywood - Shillong’s love affair with western music
 slug: beyond-bollywood-shillongs-love-affair-with-western-music
 featured: false
 draft: false
-description: Reflecting the rich musical heritage of Shillong, where rock and gospel blend seamlessly in a unique cultural tapestry.  
-emoji: 🎶  
+description: Reflecting the rich musical heritage of Shillong, where rock and gospel blend seamlessly in a unique cultural tapestry.
+emoji: 🎶
 tags:
   - ⛪ Religion
   - 🌍 Culture
   - 🎶 Activities
 haiku: |
-    Pine trees sway gently,  
-    Voices rise in harmony,  
-    Music unites us.  
-coordinates: [25.5783,91.8836]
+  Pine trees sway gently,  
+  Voices rise in harmony,  
+  Music unites us.
+coordinates: [25.5783, 91.8836]
 ---
 
 Many of the early missionaries to this corner of NE India were Welsh — I suspect being from a non-dominant culture of their own may have made Christianity seem more understandable than in the rest of India, where many of the missionaries were of (and often used by) the dominant English colonial culture. Of course there's also just the excellent Welsh choral tradition which may have helped it all sound that much better too
