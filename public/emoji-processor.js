@@ -10,7 +10,7 @@
   // Different emoji detection methods
   const DETECTION_METHODS = {
     // Unicode property escapes for emoji
-    unicodeProperty: /^(\p{Emoji}+)/u,
+    unicodeProperty: /^(\p{Emoji_Presentation}+)/u,
     // Extended pictographic (more comprehensive)
     extendedPictographic: /^(\p{Extended_Pictographic}+)/u,
     // Specific emoji ranges
