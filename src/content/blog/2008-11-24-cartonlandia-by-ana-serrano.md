@@ -1,14 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2008-11-24
+modDatetime: 2025-03-10T19:38:37Z
 title: Cartonlandia, by Ana Serrano
 slug: cartonlandia-by-ana-serrano
 featured: false
 draft: false
 description: I adore the vibrant color and unique spatial qualities in the collage-like sculpture by Ana Serrano.
-
-I love the color and use of flatness and space in this collage-like sculpture by the young L
 emoji: 🎨
 tags:
   - 🎨 Art
@@ -17,10 +15,10 @@ tags:
   - 🖼️ Artifacts
   - 📝 Writing
 haiku: |
-    Shapes in bright colors,  
-    Flatness dances in the light,  
-    Sculpted dreams arise.  
-coordinates: [34.0522,-118.2437]
+  Shapes in bright colors,  
+  Flatness dances in the light,  
+  Sculpted dreams arise.
+coordinates: [34.0522, -118.2437]
 ---
 
 ![image](http://culture-making.com/media/shapeimage_2_210.jpg)

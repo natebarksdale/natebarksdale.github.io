@@ -1,27 +1,23 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2008-08-27
+modDatetime: 2025-03-10T19:38:37Z
 title: In praise of street food
 slug: in-praise-of-street-food
 featured: false
 draft: false
-description: Discover how street food reveals the essence of a culture and its people.  
-
-  *
-
-> _Wherever you go in the world, the food of the street represents the identity of the people
-emoji: 🍜  
+description: Discover how street food reveals the essence of a culture and its people.
+emoji: 🍜
 tags:
   - 🌍 Culture
   - 🌍 Identity
   - 🌊 Adventure
   - ❤️ Relationships
 haiku: |
-    Streets filled with flavors,  
-    Every bite tells a story,  
-    Culture served on stalls.  
-coordinates: [5.4142,100.3288]
+  Streets filled with flavors,  
+  Every bite tells a story,  
+  Culture served on stalls.
+coordinates: [5.4142, 100.3288]
 ---
 
 an [EatingAsia](http://web.archive.org/web/20150911180335/http://eatingasia.typepad.com/eatingasia/2008/08/in-praise-of-st.html) post by Robyn Eckhardt, 27 August 2008

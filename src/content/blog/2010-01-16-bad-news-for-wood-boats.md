@@ -1,24 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2010-01-16
+modDatetime: 2025-03-10T19:38:38Z
 title: Bad News for Wood Boats
 slug: bad-news-for-wood-boats
 featured: false
 draft: false
-description: The shipworm, a clam with destructive potential, is now encroaching on the Baltic Sea, impacting cultural artifacts.  
-
-> The dreaded shipworm is moving into the Baltic Sea, threatening artifacts of the area's cultural heritage
-emoji: 🐚  
+description: The shipworm, a clam with destructive potential, is now encroaching on the Baltic Sea, impacting cultural artifacts.
+emoji: 🐚
 tags:
   - 🌍 Environment
   - 🔬 Science
   - 📖 Articles
 haiku: |
-    In waters so deep,  
-    Clams bore through histories' clay,  
-    Culture at great risk.  
-coordinates: [59.3293,18.0686]
+  In waters so deep,  
+  Clams bore through histories' clay,  
+  Culture at great risk.
+coordinates: [59.3293, 18.0686]
 ---
 
 [ScienceDaily](https://www.google.com/search?q=%22ScienceDaily%22%20feeds.sciencedaily.com):

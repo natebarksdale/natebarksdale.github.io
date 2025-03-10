@@ -1,25 +1,20 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2009-03-06
+modDatetime: 2025-03-10T19:38:37Z
 title: They also ran
 slug: they-also-ran
 featured: false
 draft: false
-description: Canadian photographer Sandy Nicholson captures the poignant and humorous moments of second-place finishers across various competitions in his project, _2nd
-
-  *
-
-> !
 emoji: 🥈
 tags:
   - 🎭 Competitions
   - 🎉 Festivals
 haiku: |
-    Silver not in shine,  
-    Faces tell untold stories,  
-    Almost, but not quite.  
-coordinates: [56.1304,-106.3468]
+  Silver not in shine,  
+  Faces tell untold stories,  
+  Almost, but not quite.
+coordinates: [56.1304, -106.3468]
 ---
 
 a [lens culture photography weblog](http://www.lensculture.com/webloglc/mt_files/archives/2008/12/2nd-the-faces-of-defeat-a-phot.html) post, 12 December 2008
