@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Entomology
 slug: mix-cd-entomology
 featured: false
-draft: false
+draft: true
 description: A unique mix designed for the curious mind of an evolutionary biologist, featuring music that resonates with the vibrant world of insects.
 emoji: 🦋
 tags:

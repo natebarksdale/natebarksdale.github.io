@@ -5,7 +5,7 @@ modDatetime: 2006-12-01
 title: Mix CD | Triple Frontera
 slug: mix-cd-triple-frontera
 featured: false
-draft: false
+draft: true
 description: Celebrating the diverse identities and cultural richness of the Triple Frontera region in South America.
 emoji: 🌍
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | History Here 3.0
 slug: portfolio-history-here-30
 featured: false
-draft: false
+draft: true
 description: In an exciting update to the History HERE app, I've contributed to the launch of version 3.0, which includes seven new historical tours.
 emoji: 🗺️
 tags:

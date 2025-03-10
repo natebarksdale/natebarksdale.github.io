@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Why Are There So Many Songs about Hobos?
 slug: mix-cd-why-are-there-so-many-songs-about-hobos
 featured: false
-draft: false
+draft: true
 description: Exploring the complex role of the hobo in American musical culture, I reflect on their portrayal as either a figure to be pitied or envied, ultimately leading to my own hobo-inspired creation, "Hobo Lingo."
 emoji: 🚂
 tags:

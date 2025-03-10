@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:23Z
 title: Portfolio | Real Estate
 slug: portfolio-real-estate
 featured: false
-draft: false
+draft: true
 description: Here's a glimpse of my latest project, a fully-realized logo and branding for a startup real estate services company. "Our vision was to create a unique identity that speaks to modern homebuyers and sellers."
 emoji: 🏠
 tags:

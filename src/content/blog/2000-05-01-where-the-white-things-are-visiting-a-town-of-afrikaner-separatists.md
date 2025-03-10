@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:11Z
 title: Where the White things are - Visiting a town of Afrikaner separatists
 slug: where-the-white-things-are-visiting-a-town-of-afrikaner-separatists
 featured: false
-draft: false
+draft: true
 description: A reflective exploration of Orania, a town that embodies the legacy of apartheid ideologies while striving to carve out an Afrikaner identity in contemporary South Africa.
 emoji: 🏞️
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Red Bull
 slug: portfolio-red-bull
 featured: false
-draft: false
+draft: true
 description: Animated elements showcased for the Red Bull sales team's national gathering, enhancing engagement and presentation quality.
 emoji: 🥤
 tags:

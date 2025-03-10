@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:21Z
 title: Mix CD | Birdsongs/Songbirds
 slug: mix-cd-birdsongssongbirds
 featured: false
-draft: false
+draft: true
 description: A heartfelt gift for a passionate birdwatcher, this 60th birthday compilation includes 60 songs celebrating various bird species and offers a unique auditory experience of the avian world.
 emoji: 🐦
 tags:

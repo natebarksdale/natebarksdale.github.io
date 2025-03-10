@@ -5,7 +5,7 @@ modDatetime: 2010-12-13
 title: How not to do your physics homework
 slug: how-not-to-do-your-physics-homework
 featured: false
-draft: false
+draft: true
 description: Reflecting on the intersection of scientific ambition and historical significance, this narrative explores the entangled destinies of Foucault's pendulum and the Bunker Hill Monument.
 emoji: ⏳
 tags:

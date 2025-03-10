@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Decolonizing Harry
 slug: decolonizing-harry
 featured: false
-draft: false
+draft: true
 description: Reflecting on the complexities of class, race, and intentional community living, the author's journey delves into the struggles of pursuing simplicity and the unintended consequences of well-meaning ideals.
 emoji: 🌍
 tags:

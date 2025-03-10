@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:21Z
 title: You had me at 'hello'
 slug: you-had-me-at-hello
 featured: false
-draft: false
+draft: true
 description: An exploration of how the word "hello" transcended technology and culture through the evolution of telephonic communication.
 emoji: 📞
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T19:04:05Z
 title: Grace between the cushions - A love letter to my college couch
 slug: grace-between-the-cushionsa-love-letter-to-my-college-couch
 featured: false
-draft: false
+draft: true
 description: Reflecting on the whimsical experience of living with a couch, found in the trash, that became a focal point for creativity and nostalgia during college years.
 emoji: 🛋️
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:22Z
 title: Portfolio | Eventide Funds
 slug: portfolio-eventide-funds
 featured: false
-draft: false
+draft: true
 description: I'm excited to share my latest design work for Eventide Funds, an innovative company that aligns investment strategies with values.
 emoji: 📈
 tags:

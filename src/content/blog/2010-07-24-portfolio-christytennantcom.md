@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:23Z
 title: Portfolio | christytennant.com
 slug: portfolio-christytennantcom
 featured: false
-draft: false
+draft: true
 description: I recently created a vibrant WordPress banner and logotype for my friend Christy Tennant's website, showcasing her creative spirit.
 emoji: 🎨
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2007-07-01
 title: Mix CD | Here Is a Good One
 slug: mix-cd-here-is-a-good-one
 featured: false
-draft: false
+draft: true
 description: A captivating mix of hip-hop, indie pop, and eclectic sound clips, inspired by an old advertising card for a roll-top oak desk.
 emoji: 🎶
 tags:

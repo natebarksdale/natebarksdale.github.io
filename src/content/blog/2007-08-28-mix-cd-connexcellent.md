@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Connexcellent!
 slug: mix-cd-connexcellent
 featured: false
-draft: false
+draft: true
 description: A unique mix celebrating Connecticut, featuring songs and artists that pay homage to the Nutmeg State.
 emoji: 🎶
 tags:

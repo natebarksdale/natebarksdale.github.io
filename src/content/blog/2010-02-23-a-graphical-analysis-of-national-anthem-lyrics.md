@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T19:38:38Z
 title: A graphical analysis of national anthem lyrics
 slug: a-graphical-analysis-of-national-anthem-lyrics
 featured: false
-draft: false
+draft: true
 description: My quest to learn "La Marseillaise" led me to explore the curious and often violent lyrics of national anthems from around the world.
 emoji: 🎶
 tags:

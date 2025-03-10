@@ -5,7 +5,7 @@ modDatetime: 2010-06-12
 title: Subtleties
 slug: subtleties
 featured: false
-draft: false
+draft: true
 description: Reflecting on the complexities of subtitles and their role in film enjoyment and cultural exploration.
 emoji: 🎬
 tags:

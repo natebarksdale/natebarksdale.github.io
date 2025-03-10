@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Articles | European History for History.com
 slug: articles-european-history-for-historycom
 featured: false
-draft: false
+draft: true
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:

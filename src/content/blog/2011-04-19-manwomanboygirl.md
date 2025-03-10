@@ -5,7 +5,7 @@ modDatetime: 2011-04-19
 title: Man/Woman/Boy/Girl
 slug: manwomanboygirl
 featured: false
-draft: false
+draft: true
 description: Exploring the juxtaposition of creative discipline and artistic representation in a global context.
 emoji: 🌍
 tags:

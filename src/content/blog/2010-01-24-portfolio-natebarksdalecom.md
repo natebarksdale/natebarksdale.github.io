@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:21Z
 title: Portfolio | natebarksdale.com
 slug: portfolio-natebarksdalecom
 featured: false
-draft: false
+draft: true
 description: A reflection on the design process of my previous website version, inspired by my word search business card and utilizing the Moveable Type platform.
 emoji: 🧩
 tags:

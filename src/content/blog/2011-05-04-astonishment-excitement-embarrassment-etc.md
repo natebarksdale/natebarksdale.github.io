@@ -5,7 +5,7 @@ modDatetime: 2011-05-04
 title: Astonishment, Excitement, Embarrassment, Etc
 slug: astonishment-excitement-embarrassment-etc
 featured: false
-draft: false
+draft: true
 description: A reflection on the evolution of language and the inclusion of new words in the Oxford English Dictionary.
 emoji: 📜
 tags:

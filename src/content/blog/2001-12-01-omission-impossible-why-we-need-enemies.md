@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T19:04:04Z
 title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false
-draft: false
+draft: true
 description: An exploration of the complex relationship between humanity and the notion of enemies, revealing their role in spiritual and moral growth.
 emoji: ⚔️
 tags:

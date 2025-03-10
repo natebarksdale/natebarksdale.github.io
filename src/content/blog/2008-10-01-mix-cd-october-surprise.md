@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:15Z
 title: Mix CD | October Surprise
 slug: mix-cd-october-surprise
 featured: false
-draft: false
+draft: true
 description: A nostalgic mix created during the vibrant atmosphere of the 2008 elections, capturing the spirit of the moment through music.
 emoji: 🎶
 tags:

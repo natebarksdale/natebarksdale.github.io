@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:17Z
 title: Portfolio | Physician
 slug: portfolio-physician
 featured: false
-draft: false
+draft: true
 description: A personal business card showcasing the professional details of a physician, located in the heart of a bustling city. Coordinates
 emoji: 🩺
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2011-12-27
 title: Portfolio | ZanaAfrica
 slug: portfolio-zanaafrica
 featured: false
-draft: false
+draft: true
 description: Reflecting on a meaningful design journey for ZanaAfrica, a nonprofit focused on impactful messaging.
 emoji: 🌍
 tags:

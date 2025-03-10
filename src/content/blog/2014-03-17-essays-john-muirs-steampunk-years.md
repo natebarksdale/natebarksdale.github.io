@@ -5,7 +5,7 @@ modDatetime: 2014-03-17
 title: Essays | John Muir's Steampunk Years
 slug: essays-john-muirs-steampunk-years
 featured: false
-draft: false
+draft: true
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.
 emoji: 🔧
 tags:

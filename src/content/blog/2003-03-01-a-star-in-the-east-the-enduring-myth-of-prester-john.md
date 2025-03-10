@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T19:04:04Z
 title: A star in the East- The enduring myth of Prester John
 slug: a-star-in-the-east-the-enduring-myth-of-prester-john
 featured: false
-draft: false
+draft: true
 description: The legend of Prester John serves as a lens through which we examine medieval European dreams of Christian power in distant lands.
 emoji: 🗺️
 tags:

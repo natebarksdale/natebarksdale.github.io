@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:23Z
 title: Portfolio | Introducing yoomi
 slug: portfolio-introducing-yoomi
 featured: false
-draft: false
+draft: true
 description: Excited to share my design projects for yoomi, especially their innovative self-warming baby bottle making waves in the US market.
 emoji: 🍼
 tags:

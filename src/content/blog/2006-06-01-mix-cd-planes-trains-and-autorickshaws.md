@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Planes, Trains and Autorickshaws
 slug: mix-cd-planes-trains-and-autorickshaws
 featured: false
-draft: false
+draft: true
 description: A nostalgic reflection on creating a mix to celebrate the friendships and memories made during a trip to India, filled with inside jokes and cherished music.
 emoji: 🎶
 tags:

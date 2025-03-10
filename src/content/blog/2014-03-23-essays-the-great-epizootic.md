@@ -5,7 +5,7 @@ modDatetime: 2014-03-23
 title: Essays | The Great Epizootic
 slug: essays-the-great-epizootic
 featured: false
-draft: false
+draft: true
 description: In October 1872, amid moments of change, a peculiar event begins with a horse sneezing near Toronto.
 emoji: 🐴
 tags:

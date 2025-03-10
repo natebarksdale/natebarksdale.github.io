@@ -5,7 +5,7 @@ modDatetime: 2014-03-12
 title: Essays | Isabele Ealet
 slug: essays-isabele-ealet
 featured: false
-draft: false
+draft: true
 description: Exploring the unexpected rise of a female leader in the male-dominated world of commodity trading.
 emoji: 👩‍💼
 tags:

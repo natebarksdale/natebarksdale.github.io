@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Portfolio | Investment
 slug: portfolio-investment
 featured: false
-draft: false
+draft: true
 description: Delving into the visual identity of a distinguished investment management company through a sleek logo and business card design. Based on the content, relevant coordinates could be approximately 34.0522° N, 118.2437° W (Los Angeles, CA).
 emoji: 📈
 tags:

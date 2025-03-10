@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Kansastic!
 slug: mix-cd-kansastic
 featured: false
-draft: false
+draft: true
 description: Celebrating the spirit of Kansas, inspired by my friends Jonathan and Robyn's move to western Kansas in 2007.
 emoji: 🌾
 tags:

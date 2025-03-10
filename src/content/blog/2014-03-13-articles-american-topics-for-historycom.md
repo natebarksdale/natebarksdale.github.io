@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Articles | American topics for History.com
 slug: articles-american-topics-for-historycom
 featured: false
-draft: false
+draft: true
 description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:

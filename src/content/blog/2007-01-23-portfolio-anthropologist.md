@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Portfolio | Anthropologist
 slug: portfolio-anthropologist
 featured: false
-draft: false
+draft: true
 description: A striking two-sided business card for an anthropologist delving into Latin American geopolitics.
 emoji: 🗺️
 tags:

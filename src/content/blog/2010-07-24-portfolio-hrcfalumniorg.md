@@ -5,7 +5,7 @@ modDatetime: 2010-07-24
 title: Portfolio | hrcfalumni.org
 slug: portfolio-hrcfalumniorg
 featured: false
-draft: false
+draft: true
 description: I shared my experience redesigning the HRCF Alumni website to support Harvard campus fellowships.
 emoji: 🎨
 tags:

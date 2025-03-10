@@ -5,7 +5,7 @@ modDatetime: 2000-09-01
 title: Roaring Lambs or bleating lions?
 slug: roaring-lambs-or-bleating-lions
 featured: false
-draft: false
+draft: true
 description: Exploring the complexities of Christian influence in American culture, drawing on the cultural phenomena of the late 1990s and early 2000s.
 emoji: 🎶
 tags:

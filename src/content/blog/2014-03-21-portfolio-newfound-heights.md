@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Newfound Heights
 slug: portfolio-newfound-heights
 featured: false
-draft: false
+draft: true
 description: Exploring the visual identity and branding for a real estate development firm. Relevant geolocation coordinates
 emoji: 🏗️
 tags:

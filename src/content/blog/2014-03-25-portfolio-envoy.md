@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | Envoy
 slug: portfolio-envoy
 featured: false
-draft: false
+draft: true
 description: As the lead designer for Envoy, I have been focused on creating innovative and practical designs for our users. My work includes both ready-to-deploy designs and visionary concepts for future web and mobile interfaces. Based on the context provided, the relevant geolocation coordinates for San Francisco, where Envoy is based, would be approximately 37.7749° N, 122.4194° W.
 emoji: 🛒
 tags:

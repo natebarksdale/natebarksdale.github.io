@@ -5,7 +5,7 @@ modDatetime: 2011-12-06
 title: Portfolio | Coffee Table
 slug: portfolio-coffee-table
 featured: false
-draft: false
+draft: true
 description: I've been working on special offer ads for my friends at Coffee Table.
 emoji: 📖
 tags:

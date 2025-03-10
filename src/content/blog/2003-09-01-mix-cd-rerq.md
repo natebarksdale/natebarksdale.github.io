@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T19:04:04Z
 title: Mix CD | reRQ
 slug: mix-cd-rerq
 featured: false
-draft: false
+draft: true
 description: Reflecting on the art of mix-making and its connection to magazine creation.
 emoji: 🎶
 tags:

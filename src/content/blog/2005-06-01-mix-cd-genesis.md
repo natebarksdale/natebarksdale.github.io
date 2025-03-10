@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Genesis
 slug: mix-cd-genesis
 featured: false
-draft: false
+draft: true
 description: Inspired by the first book of the Bible, this collection of songs captures its wonder and strangeness with references to key figures and emotional moments throughout the narrative.
 emoji: 📖
 tags:

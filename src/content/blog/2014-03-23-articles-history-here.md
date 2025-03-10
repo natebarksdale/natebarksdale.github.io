@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Articles | History Here
 slug: articles-history-here
 featured: false
-draft: false
+draft: true
 description: Exploring the vast narrative of American history, as detailed in the development of the History Here app, which allows users to uncover over 6,000 historical points of interest across the nation.
 emoji: 🗺️
 tags:

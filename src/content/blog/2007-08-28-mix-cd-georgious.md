@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Mix CD | Georgious!
 slug: mix-cd-georgious
 featured: false
-draft: false
+draft: true
 description: Celebrating Georgia's rich musical heritage, this inaugural mix from the **50 States!** series is dedicated to my friend Elizabeth, who moved to Atlanta in 2007 to begin work at the CDC. Based on the post content, the geolocation coordinates for Atlanta, Georgia are approximately 33.7490° N, 84.3880° W.
 emoji: 🎶
 tags:

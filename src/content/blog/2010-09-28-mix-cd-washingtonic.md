@@ -5,7 +5,7 @@ modDatetime: 2010-09-28
 title: Mix CD | Washingtonic!
 slug: mix-cd-washingtonic
 featured: false
-draft: false
+draft: true
 description: A unique mix CD celebrating Washington State, featuring diverse tracks and no grunge.
 emoji: 🎶
 tags:

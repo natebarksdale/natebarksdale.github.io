@@ -5,7 +5,7 @@ modDatetime: 2009-06-01
 title: Mix CD | Hope Is Just Another Word for Love
 slug: mix-cd-hope-is-just-another-word-for-love
 featured: false
-draft: false
+draft: true
 description: A mix CD of uplifting songs designed to inspire and support walkers participating in the Avon Walk for Breast Cancer.
 emoji: 🎶
 tags:

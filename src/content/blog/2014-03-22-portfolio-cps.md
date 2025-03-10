@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:24Z
 title: Portfolio | CPS
 slug: portfolio-cps
 featured: false
-draft: false
+draft: true
 description: A showcase of my minimalist design for a prestigious group of art dealers, highlighting simplicity and elegance in online presentation.
 emoji: 🎨
 tags:

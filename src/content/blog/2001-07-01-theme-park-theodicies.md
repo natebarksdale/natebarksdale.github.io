@@ -5,7 +5,7 @@ modDatetime: 2025-03-10T18:29:12Z
 title: Theme-park theodicies
 slug: theme-park-theodicies
 featured: false
-draft: false
+draft: true
 description: George Saunders' _Pastoralia_ explores the absurdities and deeper truths of modern life through the lens of tragicomedy. Here, a young boy's struggle for identity and acceptance ultimately leads to profound questions about love and worth.
 emoji: 🤔
 tags:
