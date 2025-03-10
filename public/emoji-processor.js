@@ -9,28 +9,51 @@
 
   // Different emoji detection methods
   const DETECTION_METHODS = {
-    // Unicode property escapes for emoji
-    unicodeProperty: /^(\p{Emoji_Presentation}+)/u,
-    // Extended pictographic (more comprehensive)
-    extendedPictographic: /^(\p{Extended_Pictographic}+)/u,
-    // Specific emoji ranges
-    specificRanges: /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
-    // Fallback with common emojis
-    fallback: /^([🏺🌍📚🧠💭🔬🎓✍️📜🕰️📖]+)/,
+    // Unicode property escapes for emoji, excluding digits
+    unicodeProperty: /^(\p{Emoji_Presentation}+)(?!\d)/u,
+    // Extended pictographic (more comprehensive), excluding digits
+    extendedPictographic: /^(\p{Extended_Pictographic}+)(?!\d)/u,
+    // Specific emoji ranges, excluding digits
+    specificRanges: /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)(?!\d)/u,
+    // Fallback with common emojis, excluding digits
+    fallback: /^([🏺🌍📚🧠💭🔬🎓✍️📜🕰️📖]+)(?!\d)/,
   };
+
+  // Additional check to ensure we're not processing plain digits
+  function isDigitOnly(text) {
+    return /^\d+$/.test(text.trim());
+  }
 
   function detectEmoji(text) {
     log("Trying to detect emoji in:", text);
+
+    // Skip processing if text starts with a digit
+    if (text.trim().match(/^\d/)) {
+      log("Text starts with a digit, skipping emoji detection");
+      return null;
+    }
+
+    // Skip processing if text is only digits
+    if (isDigitOnly(text)) {
+      log("Text contains only digits, skipping emoji detection");
+      return null;
+    }
 
     // Try each detection method
     for (const [methodName, regex] of Object.entries(DETECTION_METHODS)) {
       const match = text.match(regex);
       if (match && match[1]) {
         log(`Emoji detected using ${methodName}:`, match[1]);
-        return {
-          emoji: match[1],
-          text: text.slice(match[1].length).trim(),
-        };
+
+        // Extra validation to ensure we didn't capture a digit
+        if (!/\d/.test(match[1])) {
+          return {
+            emoji: match[1],
+            text: text.slice(match[1].length).trim(),
+          };
+        } else {
+          log("Matched text contains digits, rejecting match");
+        }
       }
     }
 
