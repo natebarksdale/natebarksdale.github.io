@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2009-11-30
+modDatetime: 2025-03-10T21:39:27Z
 title: Forbidden fruits, delightful longings
 slug: forbidden-fruits-delightful-longings
 featured: false
-draft: true
+draft: false
 description: A longing for the elusive mangosteen explores its history and the bittersweet nature of desire.
 emoji: 🍈
 tags:
@@ -18,7 +18,7 @@ haiku: |
 coordinates: [1.4901, 103.7463]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2009/11/mangosteen.jpg)](https://www.natebarksdale.com/wp-content/uploads/2009/11/mangosteen.jpg)
+[![](@assets/images/mangosteen.jpg)](@assets/images/mangosteen.jpg)
 
 cc [lusikkolbaskin](http://www.flickr.com/photos/noshit-mag/)/flickr
 

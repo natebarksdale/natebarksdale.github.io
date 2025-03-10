@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-02-18
-modDatetime: 2011-02-18
+modDatetime: 2025-03-10T21:39:28Z
 title: Citation Needed
 slug: citation-needed
 featured: false
-draft: true
+draft: false
 description: Reflecting on the quirks and community-driven nature of Wikipedia's content and editing processes.
 emoji: 📖
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [-14.0024, 34.7451]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2011/02/wikipedia.jpg)](https://www.natebarksdale.com/wp-content/uploads/2011/02/wikipedia.jpg)
+[![](@assets/images/wikipedia.jpg)](@assets/images/wikipedia.jpg)
 
 wikipedia
 
@@ -31,7 +31,7 @@ The story of my first and only editorial contribution to Wikipedia begins in 185
 
 "Livingstone's missionary endeavours," Blantyre (Malawi)'s Wikipedia page [confidently assured me](http://en.wikipedia.org/w/index.php?title=Blantyre,_Malawi&oldid=409333146#History), "saw the establishment of St. Michael and All Angels Church, which dates from 1891 and was famously built by a team of local workmen with no knowledge of architecture of building techniques
 
-[hang1column width="170"]![](https://www.natebarksdale.com/wp-content/uploads/2011/02/David_Livingstone.jpg)
+[hang1column width="170"]![](@assets/images/David_Livingstone.jpg)
 
 wikipedia
 

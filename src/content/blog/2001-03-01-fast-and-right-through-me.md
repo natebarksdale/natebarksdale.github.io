@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-03-01
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-10T21:39:25Z
 title: Fast and Right through Me
 slug: fast-and-right-through-me
 featured: false
-draft: true
+draft: false
 description: A reflective review of Dave Eggers's memoir _A Heartbreaking Work of Staggering Genius_, exploring themes of grief, authenticity, and the struggle for connection amidst personal loss.
 emoji: 💔
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [37.7749, -122.4194]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2001/03/blood.jpg)](https://www.natebarksdale.com/wp-content/uploads/2001/03/blood.jpg)
+[![](@assets/images/blood.jpg)](@assets/images/blood.jpg)
 
 cc [Andrew Mason](http://www.flickr.com/photos/a_mason/19191446/)/flickr
 
@@ -29,7 +29,7 @@ _A Heartbreaking Work of Staggering Genius,_ by Dave Eggers (Simon and Schuster,
 
 This is a book review. As such, it will make the pretense of being primarily about the book in question. But as the reviewer pursues the task of informing you, the reader (hi!) whether, and in what ways, the book in question is _good,_ or _bad,_ or _interesting,_ he is also working towards a second end, which is to let you know that the reviewer's own ideas are, in fact, both good and interesting—perhaps even more interesting than the aforementioned book. And so, fair reader, be warned: for although this review may attempt to weave together common threads, citing the odd example in order to reveal, with astute and impeccable logic, what a certain four-hundred-page tome _says_ and _means,_ both in itself and as it concerns the life and ideas of its author (who is only in his late twenties, and may yet change his mind), it is still the work of a reviewer who is himself only in his middle twenties, who still has a lot to learn, and—in truth—who harbors the secret hope that the book's author will one day read this review, and be so impressed, or moved, as to beg the reviewer to come and write for his current magazine, or will maybe want to hang out sometime. Ahem
 
-It is difficult to criticize _A Heartbreaking Work of Staggering Genius,_ Dave Eggers's thoroughly postmodern memoir, not so much because of the touchy subject matter (the struggles of the newly orphaned) as because the book is so full of confessions and qualifications as to render further comment pretty much unnecessary. _A Heartbreaking Work_ concerns Eggers's life in the years after, at age twenty-two, he lost both parents to cancer, and was left on his own (more or less) to raise his eight-year-old brother, Toph. The story is a necessarily poignant tale of grief and fear and the overcoming thereof, interwoven with accounts of Eggers's own attempts to find a voice for himself, his friends, and his generation, as charted by the rise and fall of _Might_ magazine—the mid-'90s satirical-ironical-idealistic voice-of-the-nation's-young-people publication that Eggers co-founded. (He currently edits another magazine, _McSweeney's_ , a smart Brooklyn-based literary quarterly.) Underlying all of the specifics of Eggers's story is a consistent foundation of self-critique, knowing asides, and, of course, knowingly self-aware criticisms of all the self-critique. Although Eggers uses ironic devices expertly and thoroughly, his memoir doesn't exactly qualify as a work of Irony as it's come to be defined and derided by Jedidiah Purdy (_For Common Things_) and his ilk. There is very little flip Seinfeld-style sarcasm; instead Eggers favors a sort of abortive irony that somersaults immediately back into sincerity and leaves you standing, feet firmly planted, but breathless and a bit dizzy. He's not above changing the facts for the sake of literature, but he conscientiously points out which names he's changed, how the narrative's been reshuffled for the sake of flow, and which sections of dialogue have been modified to keep the participants from sounding like idiots. [hang1column]![](https://www.natebarksdale.com/wp-content/uploads/2001/03/eggers.jpg)
+It is difficult to criticize _A Heartbreaking Work of Staggering Genius,_ Dave Eggers's thoroughly postmodern memoir, not so much because of the touchy subject matter (the struggles of the newly orphaned) as because the book is so full of confessions and qualifications as to render further comment pretty much unnecessary. _A Heartbreaking Work_ concerns Eggers's life in the years after, at age twenty-two, he lost both parents to cancer, and was left on his own (more or less) to raise his eight-year-old brother, Toph. The story is a necessarily poignant tale of grief and fear and the overcoming thereof, interwoven with accounts of Eggers's own attempts to find a voice for himself, his friends, and his generation, as charted by the rise and fall of _Might_ magazine—the mid-'90s satirical-ironical-idealistic voice-of-the-nation's-young-people publication that Eggers co-founded. (He currently edits another magazine, _McSweeney's_ , a smart Brooklyn-based literary quarterly.) Underlying all of the specifics of Eggers's story is a consistent foundation of self-critique, knowing asides, and, of course, knowingly self-aware criticisms of all the self-critique. Although Eggers uses ironic devices expertly and thoroughly, his memoir doesn't exactly qualify as a work of Irony as it's come to be defined and derided by Jedidiah Purdy (_For Common Things_) and his ilk. There is very little flip Seinfeld-style sarcasm; instead Eggers favors a sort of abortive irony that somersaults immediately back into sincerity and leaves you standing, feet firmly planted, but breathless and a bit dizzy. He's not above changing the facts for the sake of literature, but he conscientiously points out which names he's changed, how the narrative's been reshuffled for the sake of flow, and which sections of dialogue have been modified to keep the participants from sounding like idiots. [hang1column]![](@assets/images/eggers.jpg)
 
 wikipedia
 

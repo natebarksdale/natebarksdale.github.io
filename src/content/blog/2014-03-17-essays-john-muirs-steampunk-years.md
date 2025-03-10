@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-17
-modDatetime: 2014-03-17
+modDatetime: 2025-03-10T21:39:29Z
 title: Essays | John Muir's Steampunk Years
 slug: essays-john-muirs-steampunk-years
 featured: false
-draft: true
+draft: false
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.
 emoji: 🔧
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [43.0747, -89.3833]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2014/03/ozy.png)](http://www.ozy.com)
+[![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _My investigation of a surprising side of a pioneering environmetnalist._
 >

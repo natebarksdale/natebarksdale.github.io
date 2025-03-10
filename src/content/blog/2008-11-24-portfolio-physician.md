@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-10T21:39:27Z
 title: Portfolio | Physician
 slug: portfolio-physician
 featured: false
-draft: true
+draft: false
 description: A personal business card showcasing the professional details of a physician, located in the heart of a bustling city. Coordinates
 emoji: 🩺
 tags:
@@ -21,4 +21,4 @@ haiku: |
 coordinates: [34.0522, -118.2437]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/portfolio/robyn_card_530.jpg) Personal business card for a physician
+![](@assets/images/robyn_card_530.jpg) Personal business card for a physician

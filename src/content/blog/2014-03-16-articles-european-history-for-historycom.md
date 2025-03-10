@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-16
-modDatetime: 2025-03-10T18:29:24Z
+modDatetime: 2025-03-10T21:39:28Z
 title: Articles | European History for History.com
 slug: articles-european-history-for-historycom
 featured: false
-draft: true
+draft: false
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [51.1657, 10.4515]
 ---
 
-[![The History Channel](https://www.natebarksdale.com/wp-content/uploads/2014/03/history-log.png)](http://www.history.com/topics)
+[![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 
 > I had quite a bit of fun writing these pieces on European topics for History.com — who wouldn't like to summarize the Enlightenment in 800 words?
 >

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-12
-modDatetime: 2010-06-12
+modDatetime: 2025-03-10T21:39:27Z
 title: Subtleties
 slug: subtleties
 featured: false
-draft: true
+draft: false
 description: Reflecting on the complexities of subtitles and their role in film enjoyment and cultural exploration.
 emoji: 🎬
 tags:
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [35.6895, 139.6917]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_1.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_1.jpg)
+[![](@assets/images/subtitles_1.jpg)](@assets/images/subtitles_1.jpg)
 
 Still from Fellini's _8½_ (1963). Not the movie I've been talking about, but you get the idea
 
@@ -28,7 +28,7 @@ One Friday night in the early 1990s, my family rented an old black-and-white for
 
 All stories, even true ones, become fictions in their telling. Cinema is fiction upon fiction, making use of compressed and guided views, techniques of editing, novel ways of seeing, all of which have grown and evolved over more than a century of story upon story, film upon film. Subtitles, at least when they're not included in the initial release, scrape out their own fictitious space. You have all the challenges of translation—how to transfer the content and nuance of speech from one voice to another—with the added technical constraints that whatever's said must fit into short, center-justified, grammatically correct semantic units of no more than two lines, to remain on the screen for no less than one and no more than six seconds
 
-I got those last bits from the European Association for Studies in Screen Translation's "[Code of Good Subtitling Practice](http://web.archive.org/web/20200220023916/http://www.transedit.se:80/code.htm)," which makes for interesting reading. The stipulation for grammatical correctness, for instance, references subtitles' role as a model for literacy. And it's heartening to know that there's a robust spoiler-alert clause in article 15 of the Code: "Subtitles must underline surprise or suspense and in no way undermine it." [![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_2.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_2.jpg)
+I got those last bits from the European Association for Studies in Screen Translation's "[Code of Good Subtitling Practice](http://web.archive.org/web/20200220023916/http://www.transedit.se:80/code.htm)," which makes for interesting reading. The stipulation for grammatical correctness, for instance, references subtitles' role as a model for literacy. And it's heartening to know that there's a robust spoiler-alert clause in article 15 of the Code: "Subtitles must underline surprise or suspense and in no way undermine it." [![](@assets/images/subtitles_2.jpg)](@assets/images/subtitles_2.jpg)
 
 Character exposition via subtitle, in Buster Keaton's _College_ (1927)
 
@@ -36,33 +36,33 @@ Subtitles precede the movies, having had a long and healthy career in printed ma
 
 > You cannot be prodigal in your language and interpose any unnecessary flowery phrases; footage is too precious. Neither must you express yourself in the stilted words of a child just learning to talk. As an apt illustration of the too long subtitle we might give: "It is surely the inevitable will of God that has brought this affliction upon us. We must in this adversity bow our heads to His commands." That is all very well if you have one thousand feet of film at your disposal to give to your subtitle, but when you have a limited amount of footage why not be sensible and merely say: "God's will be done
 
-[hang2column]![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_3_230.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_3_230.jpg)[/hang2column] A year later, _Everybody's Magazine_ ran a glowing profile of Anita Loos, who made her name subtitling Douglas Fairbanks swashbucklers and D.W. Griffith epics. Loos's subtitles for Griffith's 1916 epic _Intolerance: Love's Struggle Through the Ages_ even employ footnotes to help viewers keep track of the film's millennia-spanning quadruple-plotline. Of Loo's craft the journalist writes:
+[hang2column]![](@assets/images/subtitles_3_230.jpg)](@assets/images/subtitles*3_230.jpg)[/hang2column] A year later, \_Everybody's Magazine* ran a glowing profile of Anita Loos, who made her name subtitling Douglas Fairbanks swashbucklers and D.W. Griffith epics. Loos's subtitles for Griffith's 1916 epic _Intolerance: Love's Struggle Through the Ages_ even employ footnotes to help viewers keep track of the film's millennia-spanning quadruple-plotline. Of Loo's craft the journalist writes:
 
 > The subtitle has only been in vogue a few years. It differs from the title—the wording between scenes which describes the action of the picture that is to come—in that it need not attend to business. It is meant only for the audience, and though at times in the supposed speech of the characters in the film, it may be a mere comment outside the picture and addressed to the audience like the aside of our fathers' theatre
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_4.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_4.jpg)
+[![](@assets/images/subtitles_4.jpg)](@assets/images/subtitles_4.jpg)
 
 Silent film subtitle with explanatory footnote, _Intolerance_ (1916)
 
 That's what I miss about the post-talkie school of subtitles. Often, waist-deep in the swamp of some obscure foreign film, what I want most is not to know what the characters are saying but to get an explanation of what's going on, or just an acknowledgement of the strangeness of the story and the oddness of the foreign film-watcher's predicament (which, among other things, keeps us from really looking at the actors' faces). The only time this sort of meta-commentary comes in the sound era is in [cinematic spoofs](http://en.wikipedia.org/wiki/Subtitle_%28captioning%29#Subtitles_as_a_source_of_humor) like _Monty Python and the Holy Grail_ or the films of Carl Reiner
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_6.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_6.jpg)
+[![](@assets/images/subtitles_6.jpg)](@assets/images/subtitles_6.jpg)
 
 A rare humourous subtitle from the sound era. _Monty Python and the Holy Grail_ (1975)
 
-Generally, though, when looking for subtitular humour, it's up to the viewer to discover his own. Subtitles, once suitably legible, generally do their best to disappear; it's only when something goes wrong in the presentation that their workings and complexity become apparent. ![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_71.jpg)
+Generally, though, when looking for subtitular humour, it's up to the viewer to discover his own. Subtitles, once suitably legible, generally do their best to disappear; it's only when something goes wrong in the presentation that their workings and complexity become apparent. ![](@assets/images/subtitles_71.jpg)
 
 Bollywood superstar Sharukh Khan: Not as good as Michael Jordan, but good enough in _Kuch Kuch Hota Hai_ (Hindi, 2000)
 
-Every month or two my friends will get a late-night email from me containing a fuzzy picture of my TV screen frozen in a moment in which the subtle subtitle machinery has gone wrong. The film in question is usually from India; Bollywood movies (and their regional equivalents) present a unique subtitling situation. First of all, the target idiom is generally a variety of Indian English, which of course makes sense given the speech of both translator and average viewer, meaning that even perfect execution will often look odd to American eyes. Secondly, Indian movies are generally quite long, and I've noticed that the quality of the subtitles generally plummets by the time you enter the third hour of the film: grammar goes slack, dialogue becomes terse, there are long awkward stretches where you hear voices but see no words. I figure the screen translation economics work out such that somewhere around the one hundred twentieth minute, anyone still watching is sufficiently committed to the film that there's no additional return on investment for perfecting the subtitles that remain. I imagine a video editing suite somewhere in the suburbs of Mumbai or Chennai, where the key moment arrives and the lead translator hands off the balance of the film to some sub-subtitler and heads outside for a well-deserved _masala dosa_. [![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_8.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_8.jpg)
+Every month or two my friends will get a late-night email from me containing a fuzzy picture of my TV screen frozen in a moment in which the subtle subtitle machinery has gone wrong. The film in question is usually from India; Bollywood movies (and their regional equivalents) present a unique subtitling situation. First of all, the target idiom is generally a variety of Indian English, which of course makes sense given the speech of both translator and average viewer, meaning that even perfect execution will often look odd to American eyes. Secondly, Indian movies are generally quite long, and I've noticed that the quality of the subtitles generally plummets by the time you enter the third hour of the film: grammar goes slack, dialogue becomes terse, there are long awkward stretches where you hear voices but see no words. I figure the screen translation economics work out such that somewhere around the one hundred twentieth minute, anyone still watching is sufficiently committed to the film that there's no additional return on investment for perfecting the subtitles that remain. I imagine a video editing suite somewhere in the suburbs of Mumbai or Chennai, where the key moment arrives and the lead translator hands off the balance of the film to some sub-subtitler and heads outside for a well-deserved _masala dosa_. [![](@assets/images/subtitles_8.jpg)](@assets/images/subtitles_8.jpg)
 
 A third-hour subtitle from _Alai Payuthey_ (Tamil, 2000)
 
-Finally, though, the greatest amount of South Asian subtitle strangeness often boils down to Article 12 of the Code: "Songs must be subtitled where relevant." It's in their songs that Indian films dip deepest into translation-defying metaphor. There's only so much that can be done: the words may correspond but the underlying sentiment remains amusingly, thrillingly novel. [![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_9.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_9.jpg)
+Finally, though, the greatest amount of South Asian subtitle strangeness often boils down to Article 12 of the Code: "Songs must be subtitled where relevant." It's in their songs that Indian films dip deepest into translation-defying metaphor. There's only so much that can be done: the words may correspond but the underlying sentiment remains amusingly, thrillingly novel. [![](@assets/images/subtitles_9.jpg)](@assets/images/subtitles_9.jpg)
 
 Romantic song lyric from _Mullum Malarum_ (Tamil, 1978)
 
-"I love watching movies with subtitles," a friend told me recently. "They make me feel so smart!" There's something to that observation, especially when one knows enough of the film's language to pick out familiar words as the translations flash by on the screen's lower third. When I watch a film like Fatih Akin's wonderful _The Edge of Heaven_ , my high school German comes streaming back. At least, it seems that way. I get the pleasant surface recall without the work of actually stringing sentences together on my own. _Das wird viel,_ um, _schwerer sein?_ [![](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_10.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/06/subtitles_10.jpg)
+"I love watching movies with subtitles," a friend told me recently. "They make me feel so smart!" There's something to that observation, especially when one knows enough of the film's language to pick out familiar words as the translations flash by on the screen's lower third. When I watch a film like Fatih Akin's wonderful _The Edge of Heaven_ , my high school German comes streaming back. At least, it seems that way. I get the pleasant surface recall without the work of actually stringing sentences together on my own. _Das wird viel,_ um, _schwerer sein?_ [![](@assets/images/subtitles_10.jpg)](@assets/images/subtitles_10.jpg)
 
 Speaking German in _The Edge of Heaven_ (2007)
 

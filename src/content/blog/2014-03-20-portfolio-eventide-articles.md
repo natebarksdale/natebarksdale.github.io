@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-20
-modDatetime: 2025-03-10T18:29:24Z
+modDatetime: 2025-03-10T21:39:29Z
 title: Portfolio | Eventide Articles
 slug: portfolio-eventide-articles
 featured: false
-draft: true
+draft: false
 description: From Alan Jacobs, an observation on original sin. Geolocation coordinates
 emoji: 📈
 tags:
@@ -21,4 +21,4 @@ haiku: |
 coordinates: [40.7128, -74.0060]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2014/03/portfolio-eventide-blog.jpg) Printable versions of articles from the Eventide Funds blog
+![](@assets/images/portfolio-eventide-blog.jpg) Printable versions of articles from the Eventide Funds blog

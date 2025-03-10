@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-04-19
-modDatetime: 2011-04-19
+modDatetime: 2025-03-10T21:39:28Z
 title: Man/Woman/Boy/Girl
 slug: manwomanboygirl
 featured: false
-draft: true
+draft: false
 description: Exploring the juxtaposition of creative discipline and artistic representation in a global context.
 emoji: 🌍
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [20.5937, 78.9629]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2011/04/ManWomanBoyGrid.jpg)](https://www.natebarksdale.com/wp-content/uploads/2011/04/ManWomanBoyGrid.jpg)
+[![](@assets/images/ManWomanBoyGrid.jpg)](@assets/images/ManWomanBoyGrid.jpg)
 
 > Explore the full photo grid [lightables.net](http://web.archive.org/web/20150801220317/http://lightables.net/) (enter user name manwomanboygirl)
 >
@@ -35,13 +35,13 @@ coordinates: [20.5937, 78.9629]
 >
 > Well, whatever. My goal for the project was to give myself the chance to explore and rejoice in the variety of the world's faces, and I think I achieved at least a bit of that in my compilation. As for the artwork itself: it is nearly universally safe to assume that my sketches don't do the source images, let alone the people behind them, justice. Usually I was pleased if my portraits looked like a plausible person, if not the one I was trying to draw
 >
-> [![](https://www.natebarksdale.com/wp-content/uploads/2011/04/Angola-Anguilla.jpg)](https://www.natebarksdale.com/wp-content/uploads/2011/04/Angola-Anguilla.jpg)
+> [![](@assets/images/Angola-Anguilla.jpg)](@assets/images/Angola-Anguilla.jpg)
 >
 > In general, I think the younger women and girls bore the worst of my artistic lapses: an ill-plotted jaw-line on a guy could usually be turned into a [five-o'clock shadow](http://www.flickr.com/photos/14137058@N02/1440030074/), but finer features proved [less forgiving](http://www.flickr.com/photos/14137058@N02/1439163799/) of my misdrawn lines. And I don't think I came near depicting the wonderful variety of my subjects' skin tones (dulled though they were by photography). Often as not, folks I was trying to draw darker just got [scruffier](http://www.flickr.com/photos/14137058@N02/1439163431/). My subjects fared the worst, I think, when I let my ideas wander from the subject at hand, getting [too experimental](http://www.flickr.com/photos/14137058@N02/1439164139/) with techniques of line and shade. But as long as I did my best not to sacrifice the person (such as they could be glimpsed) for the concept, I found even the middling results quite satisfying. I liked the idea of using the same internet technologies that condition us to the rapid-fire consumption of images to deliver up pictures worth lingering over, and engaging with, at the speed of a pen
 >
 > I'd hoped, from A to Z, that I'd get better and better at drawing ballpoint portraits. In the end, though, I think I mainly got faster
 >
-> [![](https://www.natebarksdale.com/wp-content/uploads/2011/04/Puerto-Rico-Qatar.jpg)](https://www.natebarksdale.com/wp-content/uploads/2011/04/Puerto-Rico-Qatar.jpg)
+> [![](@assets/images/Puerto-Rico-Qatar.jpg)](@assets/images/Puerto-Rico-Qatar.jpg)
 >
 > Aren't liturgy and litany like that sometimes? You submit yourself to a repetitive pattern, come to inhabit the rhythms of the discipline, the inner and outer motion inherent in working your way down a list or across a calendar, and in the end what you gain seems to be not depth, but efficiency and a certain sort of muscle memory
 >

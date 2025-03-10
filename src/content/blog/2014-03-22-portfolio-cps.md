@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-22
-modDatetime: 2025-03-10T18:29:24Z
+modDatetime: 2025-03-10T21:39:29Z
 title: Portfolio | CPS
 slug: portfolio-cps
 featured: false
-draft: true
+draft: false
 description: A showcase of my minimalist design for a prestigious group of art dealers, highlighting simplicity and elegance in online presentation.
 emoji: 🎨
 tags:
@@ -21,4 +21,4 @@ haiku: |
 coordinates: [34.0522, -118.2437]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2014/03/portfolio-cps.jpg) A very minimalist website I created for a group of the world's leading art dealers
+![](@assets/images/portfolio-cps.jpg) A very minimalist website I created for a group of the world's leading art dealers

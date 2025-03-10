@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-09-01
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-10T21:39:25Z
 title: Decolonizing Harry
 slug: decolonizing-harry
 featured: false
-draft: true
+draft: false
 description: Reflecting on the complexities of class, race, and intentional community living, the author's journey delves into the struggles of pursuing simplicity and the unintended consequences of well-meaning ideals.
 emoji: 🌍
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [12.9716, 77.5946]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2001/09/pennies.jpg)
+![](@assets/images/pennies.jpg)
 
 cc [r-z](http://www.flickr.com/photos/r-z/384866837/)/flickr
 

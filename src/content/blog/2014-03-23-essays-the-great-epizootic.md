@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-23
-modDatetime: 2014-03-23
+modDatetime: 2025-03-10T21:39:29Z
 title: Essays | The Great Epizootic
 slug: essays-the-great-epizootic
 featured: false
-draft: true
+draft: false
 description: In October 1872, amid moments of change, a peculiar event begins with a horse sneezing near Toronto.
 emoji: 🐴
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [43.7, -79.4]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2014/03/ozy.png)](http://www.ozy.com)
+[![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _This is my favorite of the short pieces I wrote for Ozy.com last year_
 >

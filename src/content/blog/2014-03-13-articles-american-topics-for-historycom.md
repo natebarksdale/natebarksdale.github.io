@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-13
-modDatetime: 2025-03-10T18:29:24Z
+modDatetime: 2025-03-10T21:39:28Z
 title: Articles | American topics for History.com
 slug: articles-american-topics-for-historycom
 featured: false
-draft: true
+draft: false
 description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [37.0902, -95.7129]
 ---
 
-[![The History Channel](https://www.natebarksdale.com/wp-content/uploads/2014/03/history-log.png)](http://www.history.com/topics)
+[![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 
 > My American coverage for History.com's online encyclopedia has provided an interesting range of big topics and interesting minor figures
 >

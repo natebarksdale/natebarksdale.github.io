@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-07-01
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-10T21:39:25Z
 title: Theme-park theodicies
 slug: theme-park-theodicies
 featured: false
-draft: true
+draft: false
 description: George Saunders' _Pastoralia_ explores the absurdities and deeper truths of modern life through the lens of tragicomedy. Here, a young boy's struggle for identity and acceptance ultimately leads to profound questions about love and worth.
 emoji: 🤔
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [41.8781, -87.6298]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2001/07/wheel.jpg)](https://www.natebarksdale.com/wp-content/uploads/2001/07/wheel.jpg)
+[![](@assets/images/wheel.jpg)](@assets/images/wheel.jpg)
 
 cc [Neal Fowler](http://www.flickr.com/photos/31878512@N06/3445672346/)/flickr
 
@@ -37,7 +37,7 @@ Saunders's protagonists live in their own simulation, more often than not paraly
 
 > Morse found it nerve-wracking to cross the St. Jude grounds just as school was being dismissed, because he felt that if he smiled at the uniformed Catholic children they might think he was a wacko or pervert and if he didn't smile they might think he was an old grouch made bitter by the world, which surely, he felt, by certain yardsticks he was. Sometimes he wasn't entirely sure that he wasn't even a wacko of sorts, although certainly he wasn't a pervert. Of that he was certain. Or relat ively certain. Being overly certain, he was relatively sure, was what eventually made one a wacko. So humility was the thing
 
-[hang1column]![](https://www.natebarksdale.com/wp-content/uploads/2001/07/pastoralia.jpg)
+[hang1column]![](@assets/images/pastoralia.jpg)
 
 [wikipedia](http://en.wikipedia.org/wiki/Pastoralia)
 

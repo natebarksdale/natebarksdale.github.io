@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-14
-modDatetime: 2014-03-14
+modDatetime: 2025-03-10T21:39:28Z
 title: Essays | The Rise of the Milibands
 slug: essays-the-rise-of-the-milibands
 featured: false
-draft: true
+draft: false
 description: Exploring the sibling rivalry of Ed and David Miliband, a tale of ambition and political legacy.
 emoji: ⚔️
 tags:
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.5074, -0.1278]
 ---
 
-[![](https://www.natebarksdale.com/wp-content/uploads/2014/03/ozy.png)](http://www.ozy.com)
+[![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _In which I write about, naturally, Labour Party Politics. A big shout-out to my fiancee Jeannie Rose, who reviewed tons of YouTube videos to help me nail just the right body language descriptions of the brothers Miliband._
 >

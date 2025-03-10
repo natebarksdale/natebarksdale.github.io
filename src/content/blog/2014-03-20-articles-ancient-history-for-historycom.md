@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-20
-modDatetime: 2025-03-10T18:29:24Z
+modDatetime: 2025-03-10T21:39:29Z
 title: Articles | Ancient History for History.com
 slug: articles-ancient-history-for-historycom
 featured: false
-draft: true
+draft: false
 description: In 2012, I explored a range of fascinating topics related to ancient civilizations, covering the Greeks, Romans, Egyptians, and Near Eastern cultures. Each piece provides insight into their rich histories and lasting legacies.
 emoji: 🏛️
 tags:
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [35.8910, 14.5203]
 ---
 
-[![The History Channel](https://www.natebarksdale.com/wp-content/uploads/2014/03/history-log.png)](http://www.history.com/topics)
+[![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 
 > In 2012 I wrote a number of articles on ancient Greek, Roman, Egyptian and Near Eastern topics for The History Channel's online encyclopedia at History.com
 >

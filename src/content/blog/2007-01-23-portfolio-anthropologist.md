@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-01-23
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-10T21:39:26Z
 title: Portfolio | Anthropologist
 slug: portfolio-anthropologist
 featured: false
-draft: true
+draft: false
 description: A striking two-sided business card for an anthropologist delving into Latin American geopolitics.
 emoji: 🗺️
 tags:
@@ -19,4 +19,4 @@ haiku: |
 coordinates: [15.8000, -90.2300]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/portfolio/christine_card_530.jpg) Two-sided full-bleed business card for an anthropologist doing research on Latin American geopolitics
+![](@assets/images/christine_card_530.jpg) Two-sided full-bleed business card for an anthropologist doing research on Latin American geopolitics

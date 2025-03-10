@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2003-03-01
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-10T21:39:26Z
 title: A star in the East- The enduring myth of Prester John
 slug: a-star-in-the-east-the-enduring-myth-of-prester-john
 featured: false
-draft: true
+draft: false
 description: The legend of Prester John serves as a lens through which we examine medieval European dreams of Christian power in distant lands.
 emoji: 🗺️
 tags:
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [15.5000, 24.0000]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2003/03/waldseemuller1_530.jpg)
+![](@assets/images/waldseemuller1_530.jpg)
 
 [wikipedia](http://en.wikipedia.org/wiki/Waldseemüller_map)
 
@@ -63,7 +63,7 @@ I've sought to find, or to create, my own Prester John less for evangelical reas
 
 So back to our story. After the collapse of the Mongol empire, Prester John's coordinates became more and more erratic. A map published in 1375 places him in the East Indies. One from 1407 has him in the Caucasus mountains. But by the end of the fifteenth century, more and more accounts placed the priest-king in Africa, somewhere near the source of the Nile. In 1487 King João of Portugal sent two explorers, Affonso de Paiva and Pedro da Covilhão, to find Prester John and, while they were at it, learn what they could about the geographies of, and opportunities for trade with, both Africa and India. Neither made it back to Portugal, though Pedro did manage to post from Cairo an encouraging letter to the king detailing the Indian ocean trade in spices and luxury items. He then disappeared into the African interior
 
-![](https://www.natebarksdale.com/wp-content/uploads/2003/03/pj_ethiopia_530.jpg)
+![](@assets/images/pj_ethiopia_530.jpg)
 
 [wikipedia](http://en.wikipedia.org/wiki/File:Prester_John_map.jpg)
 

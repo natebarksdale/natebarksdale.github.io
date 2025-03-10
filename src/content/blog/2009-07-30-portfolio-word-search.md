@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-30
-modDatetime: 2025-03-07T22:24:56Z
+modDatetime: 2025-03-10T21:39:27Z
 title: Portfolio | Word Search
 slug: portfolio-word-search
 featured: false
-draft: true
+draft: false
 description: I enjoyed the creative challenge of designing a card centered around a letter grid, complete with a playable word search on the back.
 emoji: 🧩
 tags:
@@ -20,4 +20,4 @@ haiku: |
 coordinates: [34.0522, -118.2437]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/portfolio/nate_card_530.jpg) I liked the idea of designing a card around a grid of letters; there's even a playable word search game on the back of the card
+![](@assets/images/nate_card_530.jpg) I liked the idea of designing a card around a grid of letters; there's even a playable word search game on the back of the card

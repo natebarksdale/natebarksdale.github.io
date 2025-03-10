@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2000-09-01
-modDatetime: 2000-09-01
+modDatetime: 2025-03-10T21:39:25Z
 title: Roaring Lambs or bleating lions?
 slug: roaring-lambs-or-bleating-lions
 featured: false
-draft: true
+draft: false
 description: Exploring the complexities of Christian influence in American culture, drawing on the cultural phenomena of the late 1990s and early 2000s.
 emoji: 🎶
 tags:
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [36.1699, -115.1398]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2000/09/lamb.jpg)
+![](@assets/images/lamb.jpg)
 
 cc [Roger Davies](http://www.flickr.com/photos/rogdavies/4670542941/)/flickr
 

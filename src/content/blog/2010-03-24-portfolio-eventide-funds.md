@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-10T21:39:27Z
 title: Portfolio | Eventide Funds
 slug: portfolio-eventide-funds
 featured: false
-draft: true
+draft: false
 description: I'm excited to share my latest design work for Eventide Funds, an innovative company that aligns investment strategies with values.
 emoji: 📈
 tags:
@@ -20,4 +20,4 @@ haiku: |
 coordinates: [42.3601, -71.0589]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/portfolio/eventide_sheet.jpg) I've designed a series of quarterly fund reports for [Eventide Funds](http://www.eventidefunds.com), an award-winning (and well-performing) values-based mutual fund management company
+![](@assets/images/eventide_sheet.jpg) I've designed a series of quarterly fund reports for [Eventide Funds](http://www.eventidefunds.com), an award-winning (and well-performing) values-based mutual fund management company

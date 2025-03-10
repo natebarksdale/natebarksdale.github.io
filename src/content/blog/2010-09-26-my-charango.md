@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-26
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-10T21:39:28Z
 title: My charango
 slug: my-charango
 featured: false
-draft: true
+draft: false
 description: A journey into the world of the charango, a unique Andean instrument, as I reflect on my musical exploration and the cultural significance behind it.
 emoji: 🎸
 tags:
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [-19.0325, -65.2645]
 ---
 
-[![Bolivian Charango](https://www.natebarksdale.com/wp-content/uploads/2010/09/charango_530.jpg)](https://www.natebarksdale.com/wp-content/uploads/2010/09/charango_530.jpg)
+[![Bolivian Charango](@assets/images/charango_530.jpg)](@assets/images/charango_530.jpg)
 
 wikipedia
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-12-01
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-10T21:39:26Z
 title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false
-draft: true
+draft: false
 description: An exploration of the complex relationship between humanity and the notion of enemies, revealing their role in spiritual and moral growth.
 emoji: ⚔️
 tags:
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [-30.5595, 22.9375]
 ---
 
-![](https://www.natebarksdale.com/wp-content/uploads/2001/12/enemies.jpg)
+![](@assets/images/enemies.jpg)
 
 photoshop/[library of congress](https://www.google.com/search?q=%22library%20of%20congress%22%20memory.loc.gov)
 

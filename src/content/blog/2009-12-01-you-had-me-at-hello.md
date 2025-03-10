@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-10T21:39:27Z
 title: You had me at 'hello'
 slug: you-had-me-at-hello
 featured: false
-draft: true
+draft: false
 description: An exploration of how the word "hello" transcended technology and culture through the evolution of telephonic communication.
 emoji: 📞
 tags:
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [37.7749, -122.4194]
 ---
 
-[![Telephone Booths](https://www.natebarksdale.com/wp-content/uploads/2009/12/telephones.jpg)](https://www.natebarksdale.com/wp-content/uploads/2009/12/telephones.jpg)
+[![Telephone Booths](@assets/images/telephones.jpg)](@assets/images/telephones.jpg)
 
 image cc [Richard Stowey](http://www.flickr.com/photos/richardstowey/)/flickr
 
