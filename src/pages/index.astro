@@ -62,7 +62,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
+          <h2>Recent</h2>
           <ul>
             {recentPosts.map(
               ({ data, slug }, index) =>
@@ -84,7 +84,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <>
           <Hr />
           <section id="archive-posts">
-            <h2>From the Archive</h2>
+            <h2>Archived</h2>
             <ul>
               {archivePosts.map(({ data, slug }) => (
                 <Card

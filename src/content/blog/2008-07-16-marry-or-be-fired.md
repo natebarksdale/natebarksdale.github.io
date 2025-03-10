@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2008-07-16
+modDatetime: 2025-03-10T20:42:08Z
 title: Marry or be fired!
 slug: marry-or-be-fired
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: A top-down approach to creating that basic unit of culture making - the family.
 emoji: 💍
 tags:
-  - 👨‍👦 Parents
+  - 👨 Parents
   - 🏘️ Communities
   - 🤝 Altruism
   - 💼 Employment

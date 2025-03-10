@@ -99,8 +99,8 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
               "circle-color": "#e60000",
               "circle-stroke-width": 1.5,
               "circle-stroke-color": "#ffffff",
-              "circle-opacity": 0.4, // Initially visible
-              "circle-stroke-opacity": 0.4, // Initially visible
+              "circle-opacity": 0.2, // Initially visible
+              "circle-stroke-opacity": 0.2, // Initially visible
             },
           });
 
@@ -226,9 +226,9 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
           // If no tag is active, show all points equally
           map.current!.setPaintProperty(layerId, "circle-radius", 5);
           map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
-          map.current!.setPaintProperty(layerId, "circle-opacity", 0.4);
+          map.current!.setPaintProperty(layerId, "circle-opacity", 0.2);
           map.current!.setPaintProperty(layerId, "circle-stroke-width", 1.5);
-          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.4);
+          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.2);
         }
       }
     });

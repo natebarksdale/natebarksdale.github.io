@@ -5,11 +5,9 @@
  * @returns String with emojis wrapped in <span class="emoji">
  */
 export function wrapEmojis(text: string): string {
-  // Comprehensive regex for emoji detection - matches full range of Unicode emojis
+  // More specific emoji regex that doesn't include digits
   const emojiRegex =
-    /(\p{Emoji_Presentation}|\p{Emoji}\uFE0F|\p{Emoji_Modifier_Base}\p{Emoji_Modifier}?|\p{Extended_Pictographic})/gu;
-
+    /(\p{Emoji_Presentation}|\p{Extended_Pictographic}\uFE0F|\p{Emoji_Modifier_Base}\p{Emoji_Modifier}?)/gu;
   return text.replace(emojiRegex, '<span class="emoji">$1</span>');
 }
-
 export default wrapEmojis;
