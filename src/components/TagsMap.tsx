@@ -96,11 +96,11 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
             source: `tag-${tagName}`,
             paint: {
               "circle-radius": 5,
-              "circle-color": "#de1d8d",
+              "circle-color": "#e60000",
               "circle-stroke-width": 1.5,
               "circle-stroke-color": "#ffffff",
-              "circle-opacity": 0.7, // Initially visible
-              "circle-stroke-opacity": 0.7, // Initially visible
+              "circle-opacity": 0.4, // Initially visible
+              "circle-stroke-opacity": 0.4, // Initially visible
             },
           });
 
@@ -206,14 +206,14 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
           if (isActive) {
             // Active tag gets full opacity and larger size
             map.current!.setPaintProperty(layerId, "circle-radius", 8);
-            map.current!.setPaintProperty(layerId, "circle-color", "#e60073");
+            map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
             map.current!.setPaintProperty(layerId, "circle-opacity", 1);
             map.current!.setPaintProperty(layerId, "circle-stroke-width", 2);
             map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 1);
           } else {
             // Inactive tags get very low opacity
             map.current!.setPaintProperty(layerId, "circle-radius", 5);
-            map.current!.setPaintProperty(layerId, "circle-color", "#de1d8d");
+            map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
             map.current!.setPaintProperty(layerId, "circle-opacity", 0.1);
             map.current!.setPaintProperty(layerId, "circle-stroke-width", 1);
             map.current!.setPaintProperty(
@@ -225,10 +225,10 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
         } else {
           // If no tag is active, show all points equally
           map.current!.setPaintProperty(layerId, "circle-radius", 5);
-          map.current!.setPaintProperty(layerId, "circle-color", "#de1d8d");
-          map.current!.setPaintProperty(layerId, "circle-opacity", 0.7);
+          map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
+          map.current!.setPaintProperty(layerId, "circle-opacity", 0.4);
           map.current!.setPaintProperty(layerId, "circle-stroke-width", 1.5);
-          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.7);
+          map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 0.4);
         }
       }
     });
