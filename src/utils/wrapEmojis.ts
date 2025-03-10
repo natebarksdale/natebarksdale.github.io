@@ -7,6 +7,6 @@ export function wrapEmojis(text: string): string {
     if (/^[0-9]$/.test(match)) {
       return match;
     }
-    return `<span class="emoji">${match}</span>`;
+    return `<span class="emojii">${match}</span>`;
   });
 }
