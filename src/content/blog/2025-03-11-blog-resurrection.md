@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 0005-03-11
-modDatetime: 2025-03-11
+modDatetime: 2025-03-11T17:57:58Z
 title: Blog Resurrection
 slug: blog-resurrection
 featured: true
@@ -11,169 +11,125 @@ tags:
 description: Using LLMs to pull thousands of old blog posts back from a grave of
   mangled database text and rotten links
 ---
-\## When is the past worth saving, and how do we go about it it?
 
-I came to this new site with a huge back-catalog of nearly a thousand blog posts, penned articles and the like. The core of it contained posts brought over from my work writing for \[Culture Making\]([https://www.culture-making.com](https://www.culture-making.com)), a blog that launched in conjunction with Andy Crouch's \[book of that name\]([https://www.amazon.com/Culture-Making-Recovering-Creative-Calling/dp/0830837558](https://www.amazon.com/Culture-Making-Recovering-Creative-Calling/dp/0830837558)), and plugged on with daily posts of anything I found resonant with the themes Andy expores in the book.
+# Blog Resurrection
 
-Culture Making ceased active posting around 2010, and I moved most of the posts over to my personal domain, [natebarksdale.com](http://natebarksdale.com), where I set up a wordpress blog to serve them along with basic portfolio information for \[Nate Barksdale Writing + Design\]([https://natebarksdale.xyz](https://natebarksdale.xyz)).
+## When is the past worth saving, and how do we go about it it?
 
-Around 2020, a rogue `php` update hobbled that site, but I didn't have capacity to dig into the source code to figure out what had gone wrong. Then in 2020, I somehow missed a domain re-registration and `natebarksdale.com` got swiped by a third party; my bespoke URL now led users to a Chinese-language web hosting page. (A year or two later, the domain's owner reached out to me to offer to sell it back, for $3,000, but I declined. Hence, our current home at <[natebarksdale.xyz](http://natebarksdale.xyz)\>).
+I came to this new site with a huge back-catalog of nearly a thousand blog posts, penned articles and the like. The core of it contained posts brought over from my work writing for [Culture Making](https://www.culture-making.com), a blog that launched in conjunction with Andy Crouch's [book of that name](https://www.amazon.com/Culture-Making-Recovering-Creative-Calling/dp/0830837558), and plugged on with daily posts of anything I found resonant with the themes Andy expores in the book.
+
+Culture Making ceased active posting around 2010, and I moved most of the posts over to my personal domain, natebarksdale.com, where I set up a wordpress blog to serve them along with basic portfolio information for [Nate Barksdale Writing + Design](https://natebarksdale.xyz).
+
+Around 2020, a rogue `php` update hobbled that site, but I didn't have capacity to dig into the source code to figure out what had gone wrong. Then in 2020, I somehow missed a domain re-registration and `natebarksdale.com` got swiped by a third party; my bespoke URL now led users to a Chinese-language web hosting page. (A year or two later, the domain's owner reached out to me to offer to sell it back, for $3,000, but I declined. Hence, our current home at <natebarksdale.xyz>).
 
 The Wordpress blog still, technically, existed on its old server, but neither the public-facing portion nor the Wordpress admin panel was accessible. After some poking around I realized I still had access to the blog's database through `PHPMyAdmin`; from there I was able to export a giant blob of a `json` file containing all of the posts from the Wordpress blog (but not the post tags I'd used to categorize -- more on that later).
 
-\## Enter the LLMs
+## Enter the LLMs
 
 I new I had the content in there somewhere, and that I wanted to break out the posts in `markdown` files (basically lightly formatted plain text) used by my new blog setup. I fired up `ChatGPT` and gave it the following prompt:
 
-\`\`\`
-
-I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post\_author":"1","post\_date":"2009-05-26 ... \[followed by more json\]
-
-\`\`\`
+```
+I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post_author":"1","post_date":"2009-05-26 ... [followed by more json]
+```
 
 ... and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
 
 After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
 
-\`\`\`
-
+```
 Cool. How would I test the script on my Mac?
-
-\`\`\`
+```
 
 I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
 
-1\. Prompt the LLM for code
-
-2\. Plug it in
-
-3\. Try it out
-
-4\. Paste the inevitable error log into the LLM
-
-5\. Skim the LLM's friendly `Ah, I see what the problem is!` and follow further instructions.
-
-6\. Repeat until the error messages stop coming.
-
-7\. Then check to see if the code actually accomplishes what you were asking for
+1. Prompt the LLM for code
+2. Plug it in
+3. Try it out
+4. Paste the inevitable error log into the LLM
+5. Skim the LLM's friendly `Ah, I see what the problem is!` and follow further instructions.
+6. Repeat until the error messages stop coming.
+7. Then check to see if the code actually accomplishes what you were asking for
 
 In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
 
-\`\`\`
-
+```
 I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
-
-\`\`\`
+```
 
 Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
 
-\## Link Rot
+## Link Rot
 
 Resurrection is a tricky business, and I knew that many of the things I had linked back in my 2008-10 blogging heyday would have been rotted out. So I had the `LLM` come up with another python script that would go through each Markdown file, look for links, check those links, and then replace broken links with a working fallback. My initial idea was to just construct a simple Google search link from the link text itself, but in practice these searchers were usually not very useful. Instead, what I landed on was generating and then checking a Wayback Machine link for an archived version of whatever page I had linked. Only if this failed would we fall further back to a Google search.
 
-\`\`\`
+```
+			# Process non-image links
+			md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
+			for m in re.finditer(md_link_pattern, modified_content):
+				link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
+				link_url = raw_link_url.split()[0]
 
-\# Process non-image links
+				if is_link_broken(link_url, filepath):
+					stripped_url = strip_query_params(link_url)
+					if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
+						replacement_url = stripped_url
+						print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
+					else:
+						wayback_url = check_wayback_link(link_url)
+						if wayback_url:
+							replacement_url = wayback_url
+							print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
+						else:
+							site_name = extract_site_name(link_url)
+							search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
+							replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
+							print(f"Replaced {link_url} with Google search: {replacement_url}")
 
-md\_link\_pattern = r'(?<!\\!)\\\[(\[^\\\]\]+)\\\]\\((\[^)\]+)\\)'
+					modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
+					link_replacements_made = True
 
-for m in re.finditer(md\_link\_pattern, modified\_content):
-
-link\_text, raw\_link\_url = [m.group](http://m.group)(1).strip(), [m.group](http://m.group)(2).strip()
-
-link\_url = raw\_link\_url.split()\[0\]
-
-if is\_link\_broken(link\_url, filepath):
-
-stripped\_url = strip\_query\_params(link\_url)
-
-if stripped\_url != link\_url and not is\_link\_broken(stripped\_url, filepath):
-
-replacement\_url = stripped\_url
-
-print(f"Fixed Markdown link in {filename}: {link\_url} → {stripped\_url}")
-
-else:
-
-wayback\_url = check\_wayback\_link(link\_url)
-
-if wayback\_url:
-
-replacement\_url = wayback\_url
-
-print(f"Replaced {link\_url} with Wayback Machine link: {wayback\_url}")
-
-else:
-
-site\_name = extract\_site\_name(link\_url)
-
-search\_query = f'"{link\_text}" {site\_name}' if site\_name else f'"{link\_text}"'
-
-replacement\_url = f"[https://www.google.com/search?q={quote(search\_query)}](https://www.google.com/search?q={quote\(search_query\)})"
-
-print(f"Replaced {link\_url} with Google search: {replacement\_url}")
-
-modified\_content = modified\_content.replace([m.group](http://m.group)(0), f"\[{link\_text}\]({replacement\_url})")
-
-link\_replacements\_made = True
-
-if modified\_content != content\_no\_pub:
-
-with open(filepath, "w", encoding="utf-8") as f:
-
-f.write(modified\_content)
-
-new\_filepath = os.path.join(fixed\_links\_folder, filename)
-
-if os.path.exists(filepath):
-
-os.rename(filepath, new\_filepath)
-
-print(f"Moved {filename} to fixed\_links folder")
-
-else:
-
-print(f"No broken non-image links fixed in {filename}; file left in place.")
-
-\`\`\`
+					if modified_content != content_no_pub:
+						with open(filepath, "w", encoding="utf-8") as f:
+							f.write(modified_content)
+						new_filepath = os.path.join(fixed_links_folder, filename)
+						if os.path.exists(filepath):
+							os.rename(filepath, new_filepath)
+							print(f"Moved {filename} to fixed_links folder")
+					else:
+						print(f"No broken non-image links fixed in {filename}; file left in place.")
+```
 
 And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
 
-\## LLMs Summoning LLMs
+## LLMs Summoning LLMs
 
 One thing I realized is that AstroBlog needs each Markdown file to contain a description property. Since writing up 900 descriptions didn't seem feasible, my first idea was to just use the first sentence of the blog post. I had the LLM come up with a script for that but quickly realized that that was causing issues (the blog's yaml header format didn't like some of the punctuation and syntax that was getting hoovered up).
 
-Ah, but looking at text and coming up with a plausible summary is just the sort of thing that LLMs excel at, if only I could automate the prompting. I realized I could do just that, using \[Simon Willison\]([https://simonwillison.net)'s](https://simonwillison.net\)'s) \[LLM Plugin\]([https://llm.datasette.io/en/stable/index.html](https://llm.datasette.io/en/stable/index.html)), which gives a command-line interface for LLM requests. Once it's set up (and you've authorized it to a funded LLM account) you can type things like
+Ah, but looking at text and coming up with a plausible summary is just the sort of thing that LLMs excel at, if only I could automate the prompting. I realized I could do just that, using [Simon Willison](https://simonwillison.net)'s [LLM Plugin](https://llm.datasette.io/en/stable/index.html), which gives a command-line interface for LLM requests. Once it's set up (and you've authorized it to a funded LLM account) you can type things like
 
-\`\`\`
-
+```
 llm "Eight hilariously incorrect facts about Martin Van Buren"
-
-\`\`\`
+```
 
 and get a result. In this case, I had ChatGPT help me figure out how to make a Python script that would:
 
-\* Read each blog post's content and write me a one-liner description field (required for the header section of the file)
-
-\* Generate tags for each post — they had all had tags once upon a time, but those didn't come through in the export
-
-\* A topical emoji for the post
-
-\* A best-guess set of latitude and longitude coordinates based on the post content (surprisingly accurate in many cases, hilariously wrong in others)
-
-\* A Haiku inspired by the post
+- Read each blog post's content and write me a one-liner description field (required for the header section of the file)
+- Generate tags for each post — they had all had tags once upon a time, but those didn't come through in the export
+- A topical emoji for the post
+- A best-guess set of latitude and longitude coordinates based on the post content (surprisingly accurate in many cases, hilariously wrong in others)
+- A Haiku inspired by the post
 
 I actually had now idea how I was going to use the Haiku when I asked it, but in the end I found a way — both as silly alt text for the post links, and in the Mapping feature I came up with since I had lat/lon info.
 
 I refined the script on a small batch of around 10 sample pages to keep costs down, but even when I ran the whole 900+ post archive through it, it cost me less than a dollar in ChatGPT API credits. (I'll write another post about Claude Code, which is a much faster -- but arguably even more useful -- way to feed money into the LLM).
 
-\## Map Illustrations
+## Map Illustrations
 
 Since I had lat/lon coordinates for each post, I decided to programatically create collage style illustrations for each post. I suppose another way to do this would have been to generate custom images using MidJourney or DallE in a similar pipeline from LLM. With art-history-informed prompting (e.g. `generate an image based on the post text in the style of a collage made from cut-up pieces of 19th century aquatint prints and woodblock type samples`) we might have had something pretty good. But I have mixed feelings about deploying these fascinating tools for mass illustration. Somehow it seemed better to have an assembly that was somewhat artistic but also somewhat programmatic.
 
 The basic instruction for the assembled illustrations was to have a background satellite image centered on the lat/lon coordinates, with layers of cropped letters, seeded from words in the post title. Developing it was a classic LLM story — incredibly quick to get to an impressive working prototype, but surprisingly difficult to fine-tune. This difficulty of tuning was greatly expanded because I was giving it visual feedback that _the model couldn't directly see_. Even when I did back-and-forth with screenshots, there were often loops and loops of errors where the layers just wouldn't be clustered in the way I intended. Eventually, though, after a few LLM chat sessions where I grew increasingly frustrated, we arrived at what we have now: not perfectly what I'd envisioned, but close enough I'm not going to try much more.
 
-\## Resurrection Men
+## Resurrection Men
 
 In London there's a nice plaque marking the site of the Fortune of War, a pub at Pye Corner (now revamped as a co-working space) where the Resurrection Men of old — that is, people who acquired corpses under dubious circumstances and sold them to medical students eager to learn anatomy. According to the plaque, they would bring the bodies upstairs for display, so that future surgeons could select the make and model best suited to their needs.
 
