@@ -84,8 +84,11 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
     </button>
   </div>
   <main id="main-content">
+    <Datetime pubDatetime={pubDatetime} size="lg" className="mb-2" />
+    <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+
     {
-      post.data.coordinates && (
+      post.data.coordinates && !post.data.ogImage && (
         <div class="relative w-full mt-4">
           <MapIllustrationWrapper
             title={title}
@@ -95,20 +98,25 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
         </div>
       )
     }
-
-    <h1 transition:name={slugifyStr(title)} class="post-title mt-4">{title}</h1>
-    <Datetime
-      pubDatetime={pubDatetime}
-      modDatetime={modDatetime}
-      size="lg"
-      className="my-2"
-    />
     <article
       id="article"
       role="article"
       class="prose mx-auto mt-8 text-xl max-w-3xl"
     >
       <Content />
+
+      {
+        modDatetime && modDatetime > pubDatetime && (
+          <div class="mt-8 italic opacity-80">
+            Updated:{" "}
+            {modDatetime.toLocaleDateString(LOCALE.langTag, {
+              year: "numeric",
+              month: "short",
+              day: "numeric",
+            })}
+          </div>
+        )
+      }
     </article>
 
     <!-- <script>

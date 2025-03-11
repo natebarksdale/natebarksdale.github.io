@@ -19,6 +19,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
 
   return (
     <li className="mb-6">
+      <Datetime pubDatetime={pubDatetime} size="sm" className="mb-1" />
       <a
         href={href}
         title={haiku}
@@ -36,7 +37,6 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
           </h3>
         )}
       </a>
-      {/*       <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} /> */}
       <p>{description}</p>
     </li>
   );
