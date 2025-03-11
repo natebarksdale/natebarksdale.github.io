@@ -111,7 +111,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
       <Content />
     </article>
 
-    <script>
+    <!-- <script>
       // Add emoji processing on the client side
       document.addEventListener("DOMContentLoaded", function () {
         // A function to process emojis in HTML content
@@ -199,7 +199,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
           wrapEmojisInHTML(articleContent);
         }
       });
-    </script>
+    </script> -->
 
     <ul class="my-8">
       {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}

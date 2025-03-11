@@ -110,7 +110,7 @@
 
       // Create emoji span
       const emojiSpan = document.createElement("span");
-      emojiSpan.className = "emojiii";
+      emojiSpan.className = "emoji";
       emojiSpan.textContent = result.emoji;
       log("Created emoji span with class 'emoji'");
 
