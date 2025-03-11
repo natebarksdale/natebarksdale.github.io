@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 0005-03-11
-modDatetime: 2025-03-11T17:57:58Z
+pubDatetime: 2025-03-11
+modDatetime: 2025-03-11T19:54:16Z
 title: Blog Resurrection
 slug: blog-resurrection
 featured: true

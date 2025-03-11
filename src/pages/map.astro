@@ -52,7 +52,7 @@ console.log(
 <script>
   // Log client-side environment variables
   console.log("Client-side env check:", {
-    hasToken: !!import.meta.env.PUBLIC_MAPBOX_TOKEN,
+    hasToken: !!import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN,
     envKeys: Object.keys(import.meta.env),
   });
 </script>
@@ -64,7 +64,10 @@ console.log(
     <h1 class="mt-1 mb-2 inline-block font-serif text-2xl sm:text-3xl">
       Posts Around the World
     </h1>
-    <div class="w-full overflow-hidden bg-skin-fill mt-4">
+    <div
+      class="w-full overflow-hidden bg-skin-fill mt-4"
+      style="height: 600px;"
+    >
       <MapView
         client:only="react"
         geojson={geojson}
