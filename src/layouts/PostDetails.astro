@@ -37,6 +37,9 @@ const {
 // Just render the content normally
 const { Content } = await post.render();
 
+// Check if the post content contains images
+const hasContentImages = /!\[(.*?)\]\((.*?)\)/.test(post.body);
+
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 const ogUrl = new URL(
   ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
@@ -88,7 +91,7 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
 
     {
-      post.data.coordinates && !post.data.ogImage && (
+      post.data.coordinates && !post.data.ogImage && !hasContentImages && (
         <div class="relative w-full mt-4">
           <MapIllustrationWrapper
             title={title}
