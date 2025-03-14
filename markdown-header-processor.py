@@ -18,6 +18,9 @@ class MarkdownHeaderProcessor:
         self.rename_files = rename_files
         self.rename_only_new = rename_only_new
         
+        # Store existing slugs to prevent duplicates
+        self.existing_slugs = set()
+        
         if api_key:
             genai.configure(api_key=api_key)
             self.gemini = genai.GenerativeModel('gemini-2.0-pro-exp-02-05')
@@ -35,8 +38,77 @@ class MarkdownHeaderProcessor:
             print(f"Error loading approved tags: {str(e)}")
             return []
 
+    def collect_existing_slugs(self, directory_path):
+        """Collect all existing slugs from markdown files to prevent duplicates."""
+        md_files = Path(directory_path).glob('**/*.md')
+        for file_path in md_files:
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # Check if the file has a YAML header
+                header_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+                
+                if header_match:
+                    # Parse the header to get values
+                    try:
+                        header_dict = yaml.safe_load(header_match.group(1))
+                        if header_dict and 'slug' in header_dict and header_dict['slug']:
+                            # Store the existing slug
+                            self.existing_slugs.add(header_dict['slug'])
+                    except yaml.YAMLError:
+                        # Skip if YAML parsing fails
+                        pass
+            except Exception as e:
+                print(f"Error collecting slug from {file_path}: {str(e)}")
+        
+        print(f"Collected {len(self.existing_slugs)} existing slugs")
+
+    def ensure_unique_slug(self, base_slug, current_file_path=None):
+        """Ensure the slug is unique by adding a number if needed."""
+        if not base_slug:
+            base_slug = "untitled-post"
+            
+        # If this is an existing file's current slug, it's allowed to keep it
+        if current_file_path:
+            try:
+                with open(current_file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                header_match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
+                if header_match:
+                    try:
+                        header_dict = yaml.safe_load(header_match.group(1))
+                        if header_dict and 'slug' in header_dict and header_dict['slug'] == base_slug:
+                            # This file already has this slug, so it's allowed to keep it
+                            return base_slug
+                    except yaml.YAMLError:
+                        pass
+            except Exception:
+                pass
+            
+        # Check if slug already exists
+        if base_slug not in self.existing_slugs:
+            # Slug is unique, add it to our set and return it
+            self.existing_slugs.add(base_slug)
+            return base_slug
+            
+        # Slug already exists, generate a unique one
+        counter = 1
+        while True:
+            new_slug = f"{base_slug}-{counter}"
+            if new_slug not in self.existing_slugs:
+                # Found a unique slug
+                self.existing_slugs.add(new_slug)
+                return new_slug
+            counter += 1
+
     def process_directory(self, directory_path):
         """Process all markdown files in the given directory."""
+        # First collect all existing slugs
+        self.collect_existing_slugs(directory_path)
+        
+        # Then process each file
         md_files = Path(directory_path).glob('**/*.md')
         for file_path in md_files:
             print(f"Processing {file_path}...")
@@ -98,9 +170,15 @@ class MarkdownHeaderProcessor:
                 else:
                     title = header_dict['title']
                     
-                # Slug
+                # Slug - with unique slug handling
+                base_slug = None
                 if 'slug' not in header_dict or not header_dict['slug'] or self.slug_needs_update(header_dict.get('slug', ''), title):
-                    updated_values['slug'] = slugify(title)
+                    base_slug = slugify(title)
+                    unique_slug = self.ensure_unique_slug(base_slug, file_path)
+                    updated_values['slug'] = unique_slug
+                else:
+                    # Keep the existing slug but ensure it's in our tracking set
+                    self.existing_slugs.add(header_dict['slug'])
                     
                 # Featured flag
                 if 'featured' not in header_dict:
@@ -232,7 +310,11 @@ class MarkdownHeaderProcessor:
                     title = self.extract_title(content)
                 
                 new_header['title'] = title
-                new_header['slug'] = slugify(title)
+                
+                # Generate a unique slug
+                base_slug = slugify(title)
+                unique_slug = self.ensure_unique_slug(base_slug, file_path)
+                new_header['slug'] = unique_slug
                 
                 # Set defaults
                 new_header['featured'] = False

@@ -6,7 +6,7 @@ title: This is the title
 slug: this-is-the-title
 featured: False
 draft: True
-description: Discover a quirky tale about a Nantucket man with a discerning palate for cheese. Find out which cheeses make the cut!
+description: Discover a cheese-loving man from Nantucket and his particular palate. Explore his cheesy preferences and find out which varieties make the cut!
 emoji: 📝
 tags:
   - ⏰ Time
