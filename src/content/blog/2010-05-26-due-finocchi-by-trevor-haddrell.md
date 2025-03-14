@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-26
-modDatetime: 2010-05-26
+modDatetime: 2025-03-14T21:18:07Z
 title: Due finocchi, by Trevor Haddrell
 slug: due-finocchi-by-trevor-haddrell
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: I admire this stunning wood engraving of fennel that evokes the image of a Spanish galleon at full sail.
 emoji: 🌿
 tags:
-  - 🌼 Plants
   - 🌱 Sustainability
   - 🎨 Art
   - 🌍 Culture

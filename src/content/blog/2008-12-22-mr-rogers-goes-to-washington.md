@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2008-12-22
+modDatetime: 2025-03-14T21:17:57Z
 title: Mr. Rogers goes to Washington
 slug: mr-rogers-goes-to-washington
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - ✍️ Literature
   - 🌍 Culture
-  - 🙏 Humanity
   - ⚖️ Ethics
 haiku: |
   Simple words of care,  

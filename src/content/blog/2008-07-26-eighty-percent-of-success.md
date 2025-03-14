@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:50Z
 title: Eighty percent of success ..
 slug: eighty-percent-of-success
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - 📝 Writing
   - 🔍 Accountability
-  - 💡 Ideas
   - ❤️ Kindness
   - 🌍 Society
 haiku: |

@@ -11,7 +11,6 @@ emoji: 🏛️
 tags:
   - 🌍 History
   - 📖 Articles
-  - 🏛️ Anthropology
 haiku: |
   Ancient tales unfold,  
   Wisdom from Athens' mind,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-30
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:00Z
 title: Everything, everywhere
 slug: everything-everywhere
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on the yearning for exploration and the human desire t
 emoji: 🌍
 tags:
   - 🌍 Exploration
-  - 📖 Reading
   - 🌌 Dystopias
 haiku: |
   World waits to be seen,  

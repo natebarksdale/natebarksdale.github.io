@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-04
-modDatetime: 2010-05-04
+modDatetime: 2025-03-14T21:18:07Z
 title: Sit up straight and tell me that!
 slug: sit-up-straight-and-tell-me-that
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Research shows that sitting up straight can enhance self-confidence and influence how we perceive our own qualifications.
 emoji: 🧘
 tags:
-  - 💡 Ideas
   - 🧠 Psychology
   - ⚖️ Choices
   - ❤️ Resilience

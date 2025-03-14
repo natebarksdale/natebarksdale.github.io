@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-16
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Paving the home
 slug: paving-the-home
 featured: false
@@ -11,7 +11,6 @@ emoji: 🏡
 tags:
   - 🌍 Development
   - 🌍 Health
-  - 🇲🇽 Mexico
   - ⚕️ Medicine
 haiku: |
   From dirt to strong floors,  

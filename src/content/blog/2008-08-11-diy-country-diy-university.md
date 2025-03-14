@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: DIY country, DIY university
 slug: diy-country-diy-university
 featured: false
@@ -10,7 +10,6 @@ description: An insightful look at Somaliland, a breakaway republic that thrives
 emoji: 🎓
 tags:
   - 🌍 Development
-  - 🙏 Humanity
 haiku: |
   From strife, hope blooms bright,  
   Leaders rise with dreams in sight,  

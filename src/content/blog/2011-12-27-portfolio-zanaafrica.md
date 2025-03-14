@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-27
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Portfolio | ZanaAfrica
 slug: portfolio-zanaafrica
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Activism
   - 🖊️ Editing
   - 📖 Articles
-  - 📷 Photography
 haiku: |
   Postcard tells a tale,  
   ZanaAfrica shines bright,  

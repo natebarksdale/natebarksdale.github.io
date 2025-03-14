@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-26
-modDatetime: 2009-01-26
+modDatetime: 2025-03-14T21:17:58Z
 title: Fascinating virtues
 slug: fascinating-virtues
 featured: false
@@ -10,7 +10,6 @@ description: As a fan of Whit Stillman's films, I appreciate how they explore co
 emoji: 🎬
 tags:
   - 🌍 Society
-  - 💡 Ideas
 haiku: |
   Virtue and drama,  
   Convention opens new ways,  

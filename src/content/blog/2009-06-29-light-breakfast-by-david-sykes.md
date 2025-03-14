@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-29
-modDatetime: 2009-06-29
+modDatetime: 2025-03-14T21:18:02Z
 title: Light breakfast, by David Sykes
 slug: light-breakfast-by-david-sykes
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: One of my favorite questions in the world is "What did you have for breakfast this morning?"
 emoji: 🍳
 tags:
-  - 🍳 Breakfast
-  - 🍽️ Hospitality
   - 🍴 Cuisine
   - 🌱 Sustainability
   - 🍔 Fast Food

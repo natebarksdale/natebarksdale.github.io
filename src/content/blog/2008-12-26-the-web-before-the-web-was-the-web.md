@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-26
-modDatetime: 2008-12-26
+modDatetime: 2025-03-14T21:17:57Z
 title: The Web before the Web was the Web
 slug: the-web-before-the-web-was-the-web
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Society
   - 🌍 Culture
   - 🌐 Blogging
-  - 🏙️ Landmarks
   - 🚉 Transportation
 haiku: |
   Streets filled with stories,  

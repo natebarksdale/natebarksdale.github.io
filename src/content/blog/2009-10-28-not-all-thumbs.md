@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-28
-modDatetime: 2009-10-28
+modDatetime: 2025-03-14T21:18:04Z
 title: Not all thumbs
 slug: not-all-thumbs
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 👋 Greetings
   - 🗣️ Language
-  - 👥 Generations
 haiku: |
   Different cultures,  
   Counting fingers tell a tale,  

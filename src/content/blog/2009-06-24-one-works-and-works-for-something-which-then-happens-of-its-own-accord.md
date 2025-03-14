@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-24
-modDatetime: 2009-06-24
+modDatetime: 2025-03-14T21:18:02Z
 title: One works and works for something, which then happens of its own accord
 slug: one-works-and-works-for-something-which-then-happens-of-its-own-accord
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌊
 tags:
   - ⚖️ Ethics
   - 🌍 Society
-  - ✨ Grace
   - ✍️ Literature
   - 🔍 Discoveries
 haiku: |

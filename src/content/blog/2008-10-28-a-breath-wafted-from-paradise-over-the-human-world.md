@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:54Z
 title: A breath wafted from Paradise over the human world
 slug: a-breath-wafted-from-paradise-over-the-human-world
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 📖 Books
   - 📚 Archives
-  - 🌌 Fantasy
 haiku: |
   Spices from afar,  
   Whispers of a lost Eden,  

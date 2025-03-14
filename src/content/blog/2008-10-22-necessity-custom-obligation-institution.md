@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2008-10-22
+modDatetime: 2025-03-14T21:17:54Z
 title: Necessity > custom > obligation > institution
 slug: necessity-custom-obligation-institution
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Society
   - 🌍 Culture
   - ❤️ Charity
-  - 📚 Education
   - 📖 Books
 haiku: |
   Books on burro's backs,  

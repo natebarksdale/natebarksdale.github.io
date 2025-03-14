@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:03Z
 title: Present to our food
 slug: present-to-our-food
 featured: false
@@ -11,7 +11,6 @@ emoji: 🍵
 tags:
   - 🌱 Sustainability
   - 🙏 Mindfulness
-  - ❤️ Relationships
   - 🌍 Culture
 haiku: |
   Prayers for our meals,  

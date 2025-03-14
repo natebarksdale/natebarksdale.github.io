@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-12-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚔️ Enemies
   - ⚖️ Ethics
   - 🌍 Society
-  - 🤔 Philosophy
 haiku: |
   In shadows they loom,  
   Enemies teach us true love,  

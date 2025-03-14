@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-08
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: Dance Dance Dance!, by Christopher Bautista
 slug: dance-dance-dance-by-christopher-bautista
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 💃 Dance
   - 🎭 Entertainment
   - 🌍 Culture
-  - 🌈 Hope
 haiku: |
   Rhythm fills the air,  
   Twirling under city lights,  

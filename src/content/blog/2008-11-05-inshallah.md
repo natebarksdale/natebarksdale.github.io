@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-05
-modDatetime: 2008-11-05
+modDatetime: 2025-03-14T21:17:55Z
 title: Inshallah
 slug: inshallah
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Exploring how Islamic banking's principles help it thrive during financial crises.
 emoji: 🕌
 tags:
-  - 💸 Finance
   - ⚖️ Law
   - ⚖️ Ethics
   - 🇺🇸 United States

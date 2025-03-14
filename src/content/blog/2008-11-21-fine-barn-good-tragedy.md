@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:56Z
 title: Fine barn, good tragedy
 slug: fine-barn-good-tragedy
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Ralph Waldo Emerson reflects on the value of a man who appreciates a broad range of knowledge, from the beauty of a barn to the depth of a tragedy.
 emoji: 🎭
 tags:
-  - 📜 Folklore
   - 🌍 Culture
   - 🎭 Tragedy
   - ✍️ Literature

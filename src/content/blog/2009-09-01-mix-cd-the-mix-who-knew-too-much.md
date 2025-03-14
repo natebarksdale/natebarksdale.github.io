@@ -11,7 +11,6 @@ emoji: 🎥
 tags:
   - 🎬 Hollywood
   - 🎭 Entertainment
-  - 📜 Folklore
   - 🌀 Complexity
 haiku: |
   Shadows on the screen,  

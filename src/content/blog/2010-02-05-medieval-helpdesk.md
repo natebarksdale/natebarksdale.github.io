@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-05
-modDatetime: 2010-02-05
+modDatetime: 2025-03-14T21:18:05Z
 title: Medieval helpdesk
 slug: medieval-helpdesk
 featured: false
@@ -10,7 +10,6 @@ description: A humorous reflection on the challenges of cultural products in the
 emoji: 🎭
 tags:
   - 🌍 Culture
-  - 📝 Journalism
   - 📖 Books
   - ⚖️ Choices
   - 💡 Innovation

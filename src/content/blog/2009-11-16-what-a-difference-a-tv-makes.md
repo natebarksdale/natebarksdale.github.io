@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-16
-modDatetime: 2009-11-16
+modDatetime: 2025-03-14T21:18:04Z
 title: What a difference a TV makes
 slug: what-a-difference-a-tv-makes
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🌍 Society
   - 📺 Television
-  - ❤️ Relationships
   - ⚖️ Choices
 haiku: |
   Screens bring new visions,  

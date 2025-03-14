@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2008-08-01
+modDatetime: 2025-03-14T21:17:50Z
 title: Who’s a good dog?
 slug: whos-a-good-dog
 featured: false
@@ -9,10 +9,8 @@ draft: false
 description: A look into the fascinating and cultural trend of pet names in L.A. County.
 emoji: 🐕
 tags:
-  - 🐶 Dogs
   - 🌍 Culture
   - 📖 Articles
-  - 📝 Journalism
 haiku: |
   Fluffy names abound,  
   Chihuahuas reign supreme,  

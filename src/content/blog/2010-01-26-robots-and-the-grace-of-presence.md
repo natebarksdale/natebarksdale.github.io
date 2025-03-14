@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-26
-modDatetime: 2010-01-26
+modDatetime: 2025-03-14T21:18:05Z
 title: Robots and the grace of presence
 slug: robots-and-the-grace-of-presence
 featured: false
@@ -10,8 +10,6 @@ description: Exploring the surprising reactions people have to humanoid robots, 
 emoji: 🤖
 tags:
   - ⚙️ Technology
-  - ✨ Grace
-  - 🤔 Curiosity
 haiku: |
   Robots face to face,  
   Uncanny fades, grace emerges,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-18
-modDatetime: 2010-06-18
+modDatetime: 2025-03-14T21:18:08Z
 title: Counsel woven into the fabric of real life
 slug: counsel-woven-into-the-fabric-of-real-life
 featured: false
@@ -10,7 +10,6 @@ description: An insightful observation on the nature of storytelling and the wis
 emoji: 🧙‍♂️
 tags:
   - 🌍 Storytelling
-  - 🤔 Philosophy
 haiku: |
   Stories hold wisdom,  
   Counsel shared through life's fabric,  

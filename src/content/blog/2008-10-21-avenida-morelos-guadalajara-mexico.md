@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2008-10-21
+modDatetime: 2025-03-14T21:17:54Z
 title: Avenida Morelos, Guadalajara, Mexico
 slug: avenida-morelos-guadalajara-mexico
 featured: false
@@ -10,7 +10,6 @@ description: Check out this colorful shop in central Guadalajara, where the them
 emoji: 🌸
 tags:
   - 🌍 Culture
-  - 🇲🇽 Mexico
   - 🎨 Art
   - 🌸 Flowers
 haiku: |

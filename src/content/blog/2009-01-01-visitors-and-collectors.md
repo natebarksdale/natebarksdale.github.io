@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2009-01-01
+modDatetime: 2025-03-14T21:17:58Z
 title: Visitors and collectors
 slug: visitors-and-collectors
 featured: false
@@ -9,11 +9,9 @@ draft: false
 description: From a new study, insights into the parallels between viewing and purchasing art, revealing that both experiences can provide similar satisfactions.
 emoji: 🎨
 tags:
-  - 📚 Education
   - 🎨 Art
   - 🌍 Culture
   - 📝 Writing
-  - ❤️ Relationships
 haiku: |
   Art's allure unfolds,  
   Viewing and buying entwined,  

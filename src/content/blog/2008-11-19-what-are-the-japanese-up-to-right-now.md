@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:56Z
 title: What are the Japanese up to right now?
 slug: what-are-the-japanese-up-to-right-now
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌀 Complexity
   - ⚖️ Choices
   - 🌍 Society
-  - 📊 Data Visualization
 haiku: |
   Rise with the sunrise,  
   Water sports for the brave hearts,  

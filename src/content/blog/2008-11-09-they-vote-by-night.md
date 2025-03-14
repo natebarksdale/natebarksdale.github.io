@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-09
-modDatetime: 2008-11-09
+modDatetime: 2025-03-14T21:17:55Z
 title: They vote by night
 slug: they-vote-by-night
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: Exploring how voter patterns and population density visually intersect through creative mapping techniques.
 emoji: 🌎
 tags:
-  - 🌍 Democracy
-  - 📊 Data Visualization
   - 🗳️ Elections
   - 🌐 Blogging
 haiku: |

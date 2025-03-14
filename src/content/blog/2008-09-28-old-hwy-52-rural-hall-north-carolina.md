@@ -11,8 +11,6 @@ emoji: 🏡
 tags:
   - 🌍 History
   - 🚂 Railroads
-  - 🏙️ Landmarks
-  - 🏡 Refugees
 haiku: |
   Quiet town unfolds,  
   Stairways leading to stories,  

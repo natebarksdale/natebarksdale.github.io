@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-19
-modDatetime: 2009-11-19
+modDatetime: 2025-03-14T21:18:04Z
 title: Type the Sky, by Lisa Rienermann
 slug: type-the-sky-by-lisa-rienermann
 featured: false
@@ -11,7 +11,6 @@ emoji: 📷
 tags:
   - 🎨 Art
   - 🌆 Urban Spaces
-  - 🗽 New York
   - 📖 Books
 haiku: |
   Letters in the sky,  

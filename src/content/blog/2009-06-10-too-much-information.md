@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-10
-modDatetime: 2009-06-10
+modDatetime: 2025-03-14T21:18:01Z
 title: Too much information
 slug: too-much-information
 featured: false
@@ -12,8 +12,6 @@ tags:
   - ⚖️ Ethics
   - ⚖️ Choices
   - 🌍 Society
-  - 📝 Journalism
-  - 🤔 Curiosity
 haiku: |
   Warning words can sway,  
   Common theft becomes the norm,  

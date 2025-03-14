@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2008-10-30
+modDatetime: 2025-03-14T21:17:55Z
 title: Mountain Chief of Piegan Blackfeet, 1916
 slug: mountain-chief-of-piegan-blackfeet-1916
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Exploring the rich heritage of the Piegan Blackfeet and the innovative spirit captured in early recording technology.
 emoji: 🎤
 tags:
-  - 🏞️ Ancestral Land
   - 🌍 Indigenous Culture
   - 🎨 Art
 haiku: |

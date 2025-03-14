@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2008-11-20
+modDatetime: 2025-03-14T21:17:56Z
 title: Beauty aid
 slug: beauty-aid
 featured: false
@@ -11,7 +11,6 @@ emoji: 💇‍♀️
 tags:
   - ✨ Beauty
   - ❤️ Kindness
-  - 🏡 Refugees
   - 🌍 Society
   - ⚕️ Medicine
 haiku: |

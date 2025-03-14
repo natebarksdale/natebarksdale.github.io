@@ -12,7 +12,6 @@ tags:
   - 🌍 Environment
   - ⚙️ Engineering
   - 💡 Innovation
-  - 🌲 Parks
   - 🌱 Sustainability
 haiku: |
   From sawmills he came,  

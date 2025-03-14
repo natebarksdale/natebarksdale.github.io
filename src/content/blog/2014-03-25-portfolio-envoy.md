@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-25
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Portfolio | Envoy
 slug: portfolio-envoy
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 💼 Business
   - 🌐 Blogging
   - 🌍 Development
-  - 📱 Mobile Phones
 haiku: |
   Shopping made simple,  
   Digital dreams take shape,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-14T21:17:58Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -11,7 +11,6 @@ emoji: ✨
 tags:
   - ✍️ Literature
   - 🌍 Culture
-  - 💡 Ideas
 haiku: |
   Cliches come alive,  
   New forms from old ideas,  

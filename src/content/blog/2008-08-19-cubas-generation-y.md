@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2008-08-19
+modDatetime: 2025-03-14T21:17:51Z
 title: Cuba’s generation y
 slug: cubas-generation-y
 featured: false
@@ -11,8 +11,6 @@ emoji: 🆕
 tags:
   - 🌍 Culture
   - 🌍 Identity
-  - 💡 Ideas
-  - 🙏 Humanity
   - 🇨🇺 Cuba
 haiku: |
   Names born from struggle,  

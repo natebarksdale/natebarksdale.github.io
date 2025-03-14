@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-25
-modDatetime: 2008-11-25
+modDatetime: 2025-03-14T21:17:56Z
 title: ¡Tamales oaxaqueños!
 slug: tamales-oaxaquenos
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: You can hear it from blocks away, the unmistakable call of tamale vendors echoing through Mexico City.
 emoji: 🌽
 tags:
-  - 🇲🇽 Mexico
-  - 🌊 Rivers
   - 🍔 Fast Food
   - 🍴 Cuisine
 haiku: |

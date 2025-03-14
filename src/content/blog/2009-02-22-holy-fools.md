@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-22
-modDatetime: 2009-02-22
+modDatetime: 2025-03-14T21:17:59Z
 title: Holy fools
 slug: holy-fools
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ❤️ Kindness
   - 😂 Humor
   - 🎭 Comedy
-  - 🌈 Hope
 haiku: |
   Laughter fills the air,  
   Clowns in solemn reverence,  

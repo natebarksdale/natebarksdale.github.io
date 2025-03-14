@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:59Z
 title: No more than an hour
 slug: no-more-than-an-hour
 featured: false
@@ -10,7 +10,6 @@ description: A reflective observation from 1939 about the limitations of televis
 emoji: 📺
 tags:
   - 📺 Television
-  - 📝 Journalism
   - 🌍 Society
 haiku: |
   Eyes fixed on the screen,  

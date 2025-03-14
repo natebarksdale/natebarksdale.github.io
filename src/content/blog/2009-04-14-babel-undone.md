@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-14
-modDatetime: 2009-04-14
+modDatetime: 2025-03-14T21:18:00Z
 title: Babel undone
 slug: babel-undone
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌐
 tags:
   - ✍️ Translation
   - 🌀 Complexity
-  - 💡 Ideas
   - 📝 Writing
 haiku: |
   Words lost in the flow,  

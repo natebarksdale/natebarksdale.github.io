@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:56Z
 title: Ella Fitzgerald, One Note Samba, 1969
 slug: ella-fitzgerald-one-note-samba-1969
 featured: false
@@ -10,9 +10,7 @@ description: A friend asked me for a suitable Ella Fitzgerald recording for her 
 emoji: 🎤
 tags:
   - 🎤 Performances
-  - 🎶 Live Performances
   - ❤️ Love
-  - 🌈 Hope
   - 🎉 Celebration
 haiku: |
   Ella sings so sweet,  

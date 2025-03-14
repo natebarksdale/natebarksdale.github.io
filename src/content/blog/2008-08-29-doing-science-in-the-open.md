@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2008-08-29
+modDatetime: 2025-03-14T21:17:52Z
 title: Doing science in the open
 slug: doing-science-in-the-open
 featured: false
@@ -10,7 +10,6 @@ description: Barry Canton advocates for transparency in science by sharing his r
 emoji: 🌐
 tags:
   - 💡 Innovation
-  - 📝 Journalism
   - 🤝 Collaboration
 haiku: |
   Knowledge on display,  

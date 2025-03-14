@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2008-10-24
+modDatetime: 2025-03-14T21:17:54Z
 title: Surf City, by Daniel Schludi
 slug: surf-city-by-daniel-schludi
 featured: false
@@ -10,7 +10,6 @@ description: An observation on the contrast between desolation and hospitality i
 emoji: 🌌
 tags:
   - 🌆 Cities
-  - 🌊 Adventure
   - 🏖️ Beaches
   - 🏪 Markets
 haiku: |

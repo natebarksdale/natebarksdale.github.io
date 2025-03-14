@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2006-12-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Triple Frontera
 slug: mix-cd-triple-frontera
 featured: false
@@ -10,7 +10,6 @@ description: Celebrating the diverse identities and cultural richness of the Tri
 emoji: 🌍
 tags:
   - 🌍 Identity
-  - 🌊 Rivers
 haiku: |
   Three borders unite,  
   Languages blend like rivers,  

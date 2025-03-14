@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-13
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: Screaming lessons
 slug: screaming-lessons
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎤
 tags:
   - 🎤 Performances
   - 🎵 Music
-  - 🗽 New York
   - 🌟 Inspiration
 haiku: |
   In screams find their voice,  

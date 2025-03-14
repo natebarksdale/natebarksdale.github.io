@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-05
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:04Z
 title: This Is Why I Subscribe to the Invasive Species Twitter Feed
 slug: this-is-why-i-subscribe-to-the-invasive-species-twitter-feed
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: A fascinating insight into how trained dogs like Ofira can help combat invasive species, along with a reflection on the sensory experiences of labradors in our world.
 emoji: 🐾
 tags:
-  - 🐜 Insects
   - 🌍 Ecology
-  - 🐶 Dogs
   - 🌱 Sustainability
 haiku: |
   Sniffing out danger,  

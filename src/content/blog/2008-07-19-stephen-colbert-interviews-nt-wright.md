@@ -9,11 +9,9 @@ draft: False
 description: Insights on humor and wit in the interview with Wright on "Life After Heaven."
 emoji: 😂
 tags:
-  - 🎤 Interviews
   - 🎤 Performances
   - ✝️ Christianity
   - 📖 Discussions
-  - 📝 Journalism
 haiku: |
   Quick wit in the light,  
   Conversations that ignite,  

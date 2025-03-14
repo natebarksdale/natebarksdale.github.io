@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-20
-modDatetime: 2009-05-20
+modDatetime: 2025-03-14T21:18:01Z
 title: Nothing succeeds like failure?
 slug: nothing-succeeds-like-failure
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚕️ Medicine
   - 🌍 Culture
   - 🔍 Discoveries
-  - 🤔 Curiosity
   - ⚖️ Ethics
 haiku: |
   Cures that deceive us,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-08
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-14T21:17:54Z
 title: Mera Juta Hai Japani
 slug: mera-juta-hai-japani
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A reflection on the themes of modernity and globalization in Raj Kapoor's classic film _Shri 420_ and its iconic song "Mera Juta Hai Japani."
 emoji: 🌏
 tags:
-  - 🎬 Bollywood
   - 🌍 Globalization
   - 🌆 Urban Spaces
   - 🎵 Music

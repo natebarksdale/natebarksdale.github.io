@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:57Z
 title: The stream-of-consciousness discipline
 slug: the-stream-of-consciousness-discipline
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌀
 tags:
   - ✍️ Literature
   - 🌀 Complexity
-  - 💡 Ideas
   - 📝 Writing
   - 🌐 Blogging
 haiku: |

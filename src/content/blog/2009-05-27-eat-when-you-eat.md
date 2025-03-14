@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-27
-modDatetime: 2009-05-27
+modDatetime: 2025-03-14T21:18:01Z
 title: Eat when you eat
 slug: eat-when-you-eat
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌐 Digital
   - 👀 Attention
   - 🎯 Focus
-  - 🤔 Curiosity
   - 📝 Writing
 haiku: |
   Clicks lead us astray,  

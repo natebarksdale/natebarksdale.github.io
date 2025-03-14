@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-18
-modDatetime: 2009-08-18
+modDatetime: 2025-03-14T21:18:03Z
 title: The not-great, the good, and the awesome
 slug: the-not-great-the-good-and-the-awesome
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚖️ Choices
   - 🤝 Collaboration
   - 🌍 Society
-  - 📊 Data Visualization
 haiku: |
   Ambitions should soar,  
   Balance in expectations,  

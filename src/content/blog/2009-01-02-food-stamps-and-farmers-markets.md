@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-02
-modDatetime: 2009-01-02
+modDatetime: 2025-03-14T21:17:58Z
 title: Food stamps and farmers markets
 slug: food-stamps-and-farmers-markets
 featured: false
@@ -10,7 +10,6 @@ description: Exploring innovative ways to tackle hunger and obesity among food s
 emoji: 🥦
 tags:
   - 🌍 Health
-  - 🍽️ Hospitality
 haiku: |
   Fresh food for the poor,  
   Double the value for health,  

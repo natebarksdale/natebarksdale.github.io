@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-09
-modDatetime: 2009-04-09
+modDatetime: 2025-03-14T21:18:00Z
 title: Monastic fantastic
 slug: monastic-fantastic
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A look at the Monks, a groundbreaking band that fused punk music with monastic aesthetics in the '60s.
 emoji: 🎸
 tags:
-  - 🎤 Bands
   - 🎶 Activities
   - ✝️ Christianity
   - 🌍 Culture

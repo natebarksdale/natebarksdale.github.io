@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-19
-modDatetime: 2009-06-19
+modDatetime: 2025-03-14T21:18:01Z
 title: Sámi, The People, by Erika Larsen
 slug: sami-the-people-by-erika-larsen
 featured: false
@@ -9,10 +9,8 @@ draft: false
 description: Erika Larsen's stunning photographs beautifully illustrate the vibrant culture and relationship of the Sámi people with the Arctic landscape.
 emoji: 📸
 tags:
-  - 🌌 Arctic
   - 🌍 Indigenous Culture
   - ✨ Beauty
-  - 📷 Photography
 haiku: |
   Colors softly glow,  
   Sámi rise with Arctic light,  

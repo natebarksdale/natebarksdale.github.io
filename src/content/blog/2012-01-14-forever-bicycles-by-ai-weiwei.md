@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Forever Bicycles, by Ai Weiwei
 slug: forever-bicycles-by-ai-weiwei
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Art
   - 🌍 Culture
   - 🚲 Bicycles
-  - 🙏 Humanity
   - 🕌 Monuments
 haiku: |
   Bicycles in stacks,  

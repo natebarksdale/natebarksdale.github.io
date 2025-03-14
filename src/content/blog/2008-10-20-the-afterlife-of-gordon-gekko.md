@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2008-10-20
+modDatetime: 2025-03-14T21:17:54Z
 title: The afterlife of Gordon Gekko
 slug: the-afterlife-of-gordon-gekko
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Ethics
   - 🌍 Culture
   - 🎭 Miscommunication
-  - 💬 Conversations
 haiku: |
   Greed is not the goal,  
   Yet Gekko's charm misguides,  

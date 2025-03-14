@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-02-08
-modDatetime: 2025-03-14T14:53:30Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Good art in dark times
 slug: good-art-in-dark-times
 featured: false
@@ -11,7 +11,6 @@ emoji: 🕯️
 tags:
   - ✍️ Literature
   - 🌍 Culture
-  - 🌈 Hope
   - ✨ Beauty
   - ❤️ Kindness
 haiku: |

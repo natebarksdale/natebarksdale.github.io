@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-09
-modDatetime: 2010-04-09
+modDatetime: 2025-03-14T21:18:06Z
 title: Safety not fine? Install a shrine!
 slug: safety-not-fine-install-a-shrine
 featured: false
@@ -11,7 +11,6 @@ emoji: ⛪️
 tags:
   - ⏰ Time
   - 🕌 Monuments
-  - 🏞️ Ancestral Land
   - 🛡️ Moderation
 haiku: |
   Temples by the road,  

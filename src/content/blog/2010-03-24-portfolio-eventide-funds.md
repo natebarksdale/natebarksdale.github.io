@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-14T21:18:06Z
 title: Portfolio | Eventide Funds
 slug: portfolio-eventide-funds
 featured: false
@@ -11,7 +11,6 @@ emoji: 📈
 tags:
   - 🌐 Blogging
   - 💼 Business
-  - 📊 Data Visualization
   - 📖 Articles
 haiku: |
   Investing with care,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2008-11-24
+modDatetime: 2025-03-14T21:17:56Z
 title: Mystery (shoppers) and manners
 slug: mystery-shoppers-and-manners
 featured: false
@@ -11,7 +11,6 @@ emoji: 📊
 tags:
   - ⛪ Religion
   - 🌍 Society
-  - 📝 Journalism
 haiku: |
   In pews, eyes are watched,  
   The sacred meets the profit,  

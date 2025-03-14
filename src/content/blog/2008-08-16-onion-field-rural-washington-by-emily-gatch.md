@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: Onion field, rural Washington, by Emily Gatch
 slug: onion-field-rural-washington-by-emily-gatch
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A fascinating glimpse into a field of mature onions going to seed, showcasing their unique floral structures. "Onions that have gone to seed are so cool -- you may have seen ornamental alliums around town, with big bulbous balls, often purple. A field of onion flowers looks like an outerspace commodity."
 emoji: 🌌
 tags:
-  - 🌱 Vegetables
   - 🌅 Reflection
   - 🌸 Flowers
 haiku: |

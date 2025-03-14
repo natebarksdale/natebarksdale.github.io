@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-16
-modDatetime: 2009-03-16
+modDatetime: 2025-03-14T21:18:00Z
 title: Making things that we can touch
 slug: making-things-that-we-can-touch
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚙️ Technology
   - 🌍 Culture
   - 💡 Innovation
-  - 🤔 Philosophy
 haiku: |
   Technology calls,  
   Yet we crave the physical,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-17
-modDatetime: 2025-03-14T14:53:28Z
+modDatetime: 2025-03-14T21:17:49Z
 title: Parking diplomacy
 slug: parking-diplomacy
 featured: false
@@ -11,7 +11,6 @@ emoji: 🚗
 tags:
   - 🌍 Africa
   - 🏛️ Government
-  - 🏙️ Landmarks
   - 🚨 Warnings
   - 🛠️ DIY
 haiku: |

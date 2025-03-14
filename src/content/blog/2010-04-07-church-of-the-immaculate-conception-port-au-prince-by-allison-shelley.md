@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-07
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:06Z
 title: Church of the Immaculate Conception, Port-au-Prince, by Allison Shelley
 slug: church-of-the-immaculate-conception-port-au-prince-by-allison-shelley
 featured: false
@@ -11,7 +11,6 @@ emoji: 📸
 tags:
   - ⛪ Religion
   - 🌍 Haiti
-  - 📷 Photography
   - 🗺️ States
 haiku: |
   Ruins tell a tale,  

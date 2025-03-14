@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-15
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Six or more glasses daily!
 slug: six-or-more-glasses-daily
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Exploring the curious legacy of radium and the fascinating misconceptions surrounding its early discovery.
 emoji: ⚗️
 tags:
-  - 🧪 Experiments
   - ⚠️ Danger
   - 🌍 History
   - 💡 Innovation

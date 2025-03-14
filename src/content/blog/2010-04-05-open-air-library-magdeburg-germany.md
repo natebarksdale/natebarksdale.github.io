@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-05
-modDatetime: 2010-04-05
+modDatetime: 2025-03-14T21:18:06Z
 title: Open Air Library, Magdeburg, Germany
 slug: open-air-library-magdeburg-germany
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A thoughtful architectural innovation transforms an unused space into a vibrant community library.
 emoji: 📚
 tags:
-  - 🏙️ Landmarks
 haiku: |
   Open pages breathe,  
   Communities gather round,  

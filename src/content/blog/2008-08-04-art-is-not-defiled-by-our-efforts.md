@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:50Z
 title: Art is not defiled by our efforts
 slug: art-is-not-defiled-by-our-efforts
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 🗣️ Language
   - 📝 Writing
-  - 🤔 Philosophy
 haiku: |
   Holding art with pride,  
   Beneath our hands, it glows bright,  

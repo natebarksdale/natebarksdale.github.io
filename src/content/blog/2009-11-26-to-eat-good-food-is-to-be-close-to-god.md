@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-26
-modDatetime: 2009-11-26
+modDatetime: 2025-03-14T21:18:04Z
 title: “To eat good food is to be close to God”
 slug: to-eat-good-food-is-to-be-close-to-god
 featured: false
@@ -9,11 +9,9 @@ draft: false
 description: A lovely exploration of food in cinema, showcasing the connections between culinary delights and storytelling.
 emoji: 🍽️
 tags:
-  - 🍽️ Hospitality
   - 🍲 Proverbs
   - 🎥 Film
   - 🌍 Culture
-  - 🎉 Festivals
 haiku: |
   Cinema serves up,  
   Plates of joy and stories,  

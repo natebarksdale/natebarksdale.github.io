@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2008-10-28
+modDatetime: 2025-03-14T21:17:54Z
 title: An enterprise of world-building
 slug: an-enterprise-of-world-building
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚙️ Engineering
   - 🛠️ DIY
   - 📖 Articles
-  - 🎥 Documentaries
 haiku: |
   Round and vibrant earth,  
   Crafted with precise detail,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-13
-modDatetime: 2008-08-13
+modDatetime: 2025-03-14T21:17:51Z
 title: Friendship as a pre-existing condition
 slug: friendship-as-a-pre-existing-condition
 featured: false
@@ -11,7 +11,6 @@ emoji: 🤝
 tags:
   - ⚖️ Law
   - ⚖️ Ethics
-  - ❤️ Relationships
   - 🤝 Altruism
   - 📝 Writing
 haiku: |

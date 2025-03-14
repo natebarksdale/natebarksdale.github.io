@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2008-08-08
+modDatetime: 2025-03-14T21:17:50Z
 title: Abu Ali, Shabbos Goy
 slug: abu-ali-shabbos-goy
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⛪ Religion
   - ❤️ Kindness
   - 🤝 Altruism
-  - 🤝 Connections
 haiku: |
   Midnight streets await,  
   A driver bridges worlds,  

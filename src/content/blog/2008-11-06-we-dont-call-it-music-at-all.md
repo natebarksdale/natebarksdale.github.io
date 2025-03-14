@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🎵 Music
   - 📖 Books
-  - 🕰️ Time
 haiku: |
   Sounds of the future,  
   Music flows like air we breathe,  

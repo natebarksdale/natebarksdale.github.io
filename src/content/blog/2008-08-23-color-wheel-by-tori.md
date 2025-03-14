@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2008-08-23
+modDatetime: 2025-03-14T21:17:52Z
 title: Color wheel, by Tori
 slug: color-wheel-by-tori
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: This piece reflects on a simple yet profound way to engage with nature through creativity and mindfulness.
 emoji: 🌿
 tags:
-  - 🌈 Hope
   - 🌍 Culture
   - 📝 Writing
   - 🌸 Happiness

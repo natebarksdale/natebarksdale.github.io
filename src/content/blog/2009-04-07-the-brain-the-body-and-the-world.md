@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-07
-modDatetime: 2009-04-07
+modDatetime: 2025-03-14T21:18:00Z
 title: The brain, the body, and the world
 slug: the-brain-the-body-and-the-world
 featured: false
@@ -10,7 +10,6 @@ description: A philosopher challenges the notion that our consciousness is solel
 emoji: 🧠
 tags:
   - 🧠 Psychology
-  - 🤔 Philosophy
   - 🌍 Consciousness
   - ⚖️ Choices
 haiku: |

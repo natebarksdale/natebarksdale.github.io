@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:50Z
 title: The only really effective apologia
 slug: the-only-really-effective-apologia
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✝️ Christianity
   - ✝️ Scriptures
   - 🌍 Culture
-  - ❤️ Relationships
 haiku: |
   Holiness shines bright,  
   In art and saints we find grace,  

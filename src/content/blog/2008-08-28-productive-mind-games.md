@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2008-08-28
+modDatetime: 2025-03-14T21:17:52Z
 title: Productive mind games
 slug: productive-mind-games
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Choices
   - ⚖️ Ethics
   - 🌍 Society
-  - 💡 Ideas
   - 💼 Business
 haiku: |
   Change through small steps,  

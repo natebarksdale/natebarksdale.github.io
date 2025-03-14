@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2008-08-28
+modDatetime: 2025-03-14T21:17:52Z
 title: Cell phones and African elections
 slug: cell-phones-and-african-elections
 featured: false
@@ -11,7 +11,6 @@ emoji: 📱
 tags:
   - ⚙️ Technology
   - 🌍 Africa
-  - 📱 Mobile Phones
   - 🔄 Commitment
 haiku: |
   Mobile voices rise,  

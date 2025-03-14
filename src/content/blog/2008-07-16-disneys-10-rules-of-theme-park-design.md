@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2008-07-16
+modDatetime: 2025-03-14T21:17:49Z
 title: Disney’s 10 rules of theme-park design
 slug: disneys-10-rules-of-theme-park-design
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎢
 tags:
   - 🌍 Culture
   - 🌀 Complexity
-  - 📖 Adaptations
   - 🎭 Entertainment
 haiku: |
   In magic we trust,  

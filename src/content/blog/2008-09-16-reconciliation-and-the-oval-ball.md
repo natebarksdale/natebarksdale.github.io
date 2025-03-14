@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-14T21:17:53Z
 title: Reconciliation and the oval ball
 slug: reconciliation-and-the-oval-ball
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ❤️ Forgiveness
   - ❤️ Kindness
   - 🌍 Society
-  - 🏅 Sports
   - ⛪ Religion
 haiku: |
   In prison's shadow,  

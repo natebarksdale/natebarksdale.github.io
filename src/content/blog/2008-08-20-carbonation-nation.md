@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2008-08-20
+modDatetime: 2025-03-14T21:17:52Z
 title: Carbonation nation
 slug: carbonation-nation
 featured: false
@@ -11,7 +11,6 @@ emoji: 🥤
 tags:
   - 🌍 Culture
   - 🌐 Blogging
-  - 📊 Data Visualization
   - 🗣️ Language
 haiku: |
   In each region’s tongue,  

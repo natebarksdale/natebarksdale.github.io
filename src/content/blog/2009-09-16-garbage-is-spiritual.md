@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-16
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-14T21:18:03Z
 title: garbage is spiritual
 slug: garbage-is-spiritual
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ♻️ Repurposing
   - 🌀 Complexity
   - 🌍 Environment
-  - 💡 Ideas
 haiku: |
   Piles of distraction,  
   Stinking truths of our lives grow,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-21
-modDatetime: 2009-08-21
+modDatetime: 2025-03-14T21:18:03Z
 title: On a human plane
 slug: on-a-human-plane
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✈️ Aviation
   - 🌍 Culture
   - 🔍 Discoveries
-  - 🤔 Curiosity
 haiku: |
   Steel birds in the sky,  
   Tamed with love and respect,  

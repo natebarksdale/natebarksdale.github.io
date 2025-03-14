@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-27
-modDatetime: 2010-05-27
+modDatetime: 2025-03-14T21:18:07Z
 title: OK, and now can we get one with the torn shirt? Thanks!
 slug: ok-and-now-can-we-get-one-with-the-torn-shirt-thanks
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Africa
   - 🌍 Culture
   - ❤️ Charity
-  - ❤️ Relationships
 haiku: |
   Two sides of a life,  
   Dignified, yet struggling,  

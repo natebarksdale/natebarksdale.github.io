@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Georgious!
 slug: mix-cd-georgious
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🇺🇸 United States
   - 🎶 Activities
   - 🎵 Music
-  - 🎤 Bands
 haiku: |
   Georgia's rich sounds play,  
   From Ray to the B-52s,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:55Z
 title: More light!
 slug: more-light
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: Reflecting on the interplay of light and darkness, and a discussion on Goethe's fascinating last words.
 emoji: 🌅
 tags:
-  - 🌞 Light
   - 📖 Quotes
-  - 🤔 Philosophy
 haiku: |
   In the shadow's grip,  
   Seeking warmth and wisdom's glow,  

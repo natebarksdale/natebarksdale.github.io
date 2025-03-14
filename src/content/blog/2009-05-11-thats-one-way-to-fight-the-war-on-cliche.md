@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-11
-modDatetime: 2009-05-11
+modDatetime: 2025-03-14T21:18:01Z
 title: That’s one way to fight the war on cliche
 slug: thats-one-way-to-fight-the-war-on-cliche
 featured: false
@@ -10,7 +10,6 @@ description: Liz Glynn and her team created and then dismantled a model of Rome 
 emoji: 🏛️
 tags:
   - 🎨 Art
-  - 🗽 New York
   - 🌆 Urban Spaces
   - 🌍 Culture
   - 📖 Articles

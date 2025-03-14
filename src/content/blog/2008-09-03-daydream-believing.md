@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2008-09-03
+modDatetime: 2025-03-14T21:17:52Z
 title: Daydream believing
 slug: daydream-believing
 featured: false
@@ -11,7 +11,6 @@ emoji: 💭
 tags:
   - 🌀 Complexity
   - 🌍 Consciousness
-  - 🌈 Hope
 haiku: |
   Dreams drift in our minds,  
   Catch the spark before it fades,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2008-12-11
+modDatetime: 2025-03-14T21:17:57Z
 title: Ontbijtje, by Robert Amesbury
 slug: ontbijtje-by-robert-amesbury
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Art
   - 📖 Articles
   - 🌍 Culture
-  - 🌌 Fantasy
 haiku: |
   Old Dutch whispers sing,  
   Vibrant visions intertwine,  

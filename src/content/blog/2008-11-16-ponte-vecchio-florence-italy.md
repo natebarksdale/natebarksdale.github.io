@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 🌍 History
   - 🏛️ Architecture
-  - 🏙️ Landmarks
 haiku: |
   Medieval stone stands,  
   Where butchers once traded meat,  

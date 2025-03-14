@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:52Z
 title: A dancer’s disciplines
 slug: a-dancers-disciplines
 featured: false
@@ -10,8 +10,6 @@ description: In a thought-provoking talk about the contrast between performing a
 emoji: 🎭
 tags:
   - 🌀 Complexity
-  - 💡 Ideas
-  - ❤️ Relationships
 haiku: |
   Rigorous training,  
   Craft and art intertwined,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-01
-modDatetime: 2008-09-01
+modDatetime: 2025-03-14T21:17:52Z
 title: If it seems wordish, use it
 slug: if-it-seems-wordish-use-it
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌈
 tags:
   - ✍️ Literature
   - 🗣️ Language
-  - 💡 Ideas
   - 🌍 Culture
 haiku: |
   Language is a tool,  

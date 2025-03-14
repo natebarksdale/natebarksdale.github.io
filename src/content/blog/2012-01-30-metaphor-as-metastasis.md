@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-30
-modDatetime: 2025-03-14T14:53:30Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Metaphor as metastasis
 slug: metaphor-as-metastasis
 featured: false
@@ -11,9 +11,6 @@ emoji: 🦠
 tags:
   - ⚖️ Ethics
   - 🌍 Society
-  - 📝 Journalism
-  - 💡 Ideas
-  - 🤔 Philosophy
 haiku: |
   Growth's perilous rise,  
   Metaphors shape our concerns,  

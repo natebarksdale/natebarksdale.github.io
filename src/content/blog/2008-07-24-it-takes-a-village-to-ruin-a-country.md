@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2008-07-24
+modDatetime: 2025-03-14T21:17:50Z
 title: It takes a village to ruin a country
 slug: it-takes-a-village-to-ruin-a-country
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A chilling account of political power struggles and violent coercion in Zimbabwe under Mugabe's regime.
 emoji: 🪖
 tags:
-  - 🇿🇼 Zimbabwe
   - ⚖️ Choices
   - ⚖️ Law
   - 🗳️ Politics

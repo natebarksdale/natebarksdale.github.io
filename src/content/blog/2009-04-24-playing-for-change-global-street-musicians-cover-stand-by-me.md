@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-24
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:18:00Z
 title: Playing for Change - Global street musicians cover “Stand By Me”
 slug: playing-for-change-global-street-musicians-cover-stand-by-me
 featured: false
@@ -9,10 +9,7 @@ draft: false
 description: An exploration of global musical collaborations that create vibrant, diverse soundscapes.
 emoji: 🌍
 tags:
-  - 🎶 Live Performances
-  - 🎤 Bands
   - 🌍 Globalization
-  - 🎥 Documentaries
   - 🌞 Leisure
 haiku: |
   Diverse voices sing,  

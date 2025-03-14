@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-08
-modDatetime: 2009-12-08
+modDatetime: 2025-03-14T21:18:04Z
 title: Attacking consumerism in the wrong place
 slug: attacking-consumerism-in-the-wrong-place
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎄
 tags:
   - ❤️ Love
   - ❤️ Kindness
-  - 🍽️ Hospitality
   - 🎉 Celebration
   - 🌍 Activism
 haiku: |

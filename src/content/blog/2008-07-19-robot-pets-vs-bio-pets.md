@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2008-07-19
+modDatetime: 2025-03-14T21:17:49Z
 title: Robot pets vs. bio pets
 slug: robot-pets-vs-bio-pets
 featured: false
@@ -9,10 +9,8 @@ draft: false
 description: An intriguing look at how pets and robots interact in households, highlighting the challenges of integrating technology with our furry friends.
 emoji: 🤖
 tags:
-  - 🐶 Animals
   - ⚖️ Ethics
   - ⚙️ Technology
-  - 🏡 Refugees
   - 🌍 Society
 haiku: |
   Robots roam the floors,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-17
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-14T21:17:54Z
 title: The epic of the universe, the ballad they sing in the streets
 slug: the-epic-of-the-universe-the-ballad-they-sing-in-the-streets
 featured: false
@@ -10,7 +10,6 @@ description: A beautiful reflection on the interplay of life and eternity from M
 emoji: 🌌
 tags:
   - ✍️ Literature
-  - ✝️ Spirituality
   - ⚰️ Cemeteries
   - 🌌 Dystopias
 haiku: |

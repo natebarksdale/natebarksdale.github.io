@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2008-12-01
+modDatetime: 2025-03-14T21:17:56Z
 title: Chicken à la Queens
 slug: chicken-a-la-queens
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: A halal poultry store in Queens creates unexpected connections among diverse communities.
 emoji: 🐔
 tags:
-  - 🇳🇬 Nigeria
-  - 🇸🇻 El Salvador
   - 🌍 Diversity
 haiku: |
   Chicken on the shelves,  

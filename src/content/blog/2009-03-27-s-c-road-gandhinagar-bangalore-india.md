@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-27
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:18:00Z
 title: S C Road, Gandhinagar, Bangalore, India
 slug: s-c-road-gandhinagar-bangalore-india
 featured: false
@@ -11,8 +11,6 @@ emoji: 🌼
 tags:
   - 🌍 Culture
   - 🎥 Film
-  - 🏙️ Landmarks
-  - 📷 Photography
 haiku: |
   House-Full tonight,  
   Marigolds cheer the crowd,  

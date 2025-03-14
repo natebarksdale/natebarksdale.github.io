@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-16
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-14T21:18:08Z
 title: Re-kindling, by Shawn Smith
 slug: re-kindling-by-shawn-smith
 featured: false
@@ -11,7 +11,6 @@ emoji: 🔥
 tags:
   - 🎨 Art
   - 🌍 Culture
-  - 🐶 Animals
   - 🔥 Energy
   - 🧬 Biology
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: Frankenstein’s editor
 slug: frankensteins-editor
 featured: false
@@ -10,8 +10,6 @@ description: An exploration of the collaboration between Mary Shelley and Percy 
 emoji: 🧟‍♂️
 tags:
   - ✍️ Literature
-  - ✍️ Manuscripts
-  - 🤔 Philosophy
   - 📖 Biographies
   - 🏛️ Museums
 haiku: |

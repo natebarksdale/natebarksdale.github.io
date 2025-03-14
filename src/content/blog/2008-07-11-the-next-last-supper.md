@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-14T21:17:49Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - 🎨 Art
   - 🖼️ Artifacts
-  - 🤔 Philosophy
   - 🌍 Culture
   - 🖋️ Commentary
 haiku: |

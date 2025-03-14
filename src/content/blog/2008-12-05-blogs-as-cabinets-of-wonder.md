@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:56Z
 title: Blogs as ‘Cabinets of Wonder’
 slug: blogs-as-cabinets-of-wonder
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌐 Blogging
   - 🌀 Complexity
   - 📖 Discussions
-  - 📚 Education
 haiku: |
   Cabinets of thought,  
   Wonders shaped by a vision,  

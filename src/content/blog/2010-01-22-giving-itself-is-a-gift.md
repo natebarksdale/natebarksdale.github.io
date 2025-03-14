@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-22
-modDatetime: 2010-01-22
+modDatetime: 2025-03-14T21:18:05Z
 title: Giving itself is a gift
 slug: giving-itself-is-a-gift
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ❤️ Charity
   - 🌍 Society
   - 💬 Communication
-  - 🤝 Connections
 haiku: |
   In disaster's heart,  
   Bonds form in shared struggle,  

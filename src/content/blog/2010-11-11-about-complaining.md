@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-11
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:18:08Z
 title: About complaining
 slug: about-complaining
 featured: false
@@ -10,8 +10,6 @@ description: James Murphy reflects on the power of creativity in expressing diss
 emoji: 🎨
 tags:
   - ♻️ Repurposing
-  - 💡 Ideas
-  - 🤔 Curiosity
   - 💬 Communication
 haiku: |
   Craft your discontent,  

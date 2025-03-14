@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2008-09-05
+modDatetime: 2025-03-14T21:17:52Z
 title: Failed writers
 slug: failed-writers
 featured: false
@@ -10,7 +10,6 @@ description: Remembering Robert Giroux and his insightful exchange with T. S. El
 emoji: ✍️
 tags:
   - ✍️ Literature
-  - 📝 Journalism
   - 🔍 Critique
   - 📖 Biographies
 haiku: |

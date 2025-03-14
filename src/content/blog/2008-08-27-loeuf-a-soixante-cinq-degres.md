@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2008-08-27
+modDatetime: 2025-03-14T21:17:52Z
 title: L’oeuf à soixante-cinq degrés
 slug: loeuf-a-soixante-cinq-degres
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of the exquisite results achieved when cooking eggs 
 emoji: 🍳
 tags:
   - 🍳 Cooking
-  - 🌍 France
   - 🍴 Cuisine
   - 🌱 Sustainability
 haiku: |

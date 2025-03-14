@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:17:59Z
 title: Community you can smell
 slug: community-you-can-smell
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Society
   - 📰 Media
   - 📱 Social Networks
-  - 📝 Journalism
 haiku: |
   In person we bond,  
   Senses awaken to life,  

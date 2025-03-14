@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-10
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-14T21:18:07Z
 title: The Meandering Mississippi
 slug: the-meandering-mississippi
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of the visually striking historical changes in the l
 emoji: 🗺️
 tags:
   - 🌍 Cartography
-  - 🌊 Rivers
   - ⏰ Time
 haiku: |
   Meanders unfold time,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-13
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-14T21:18:08Z
 title: How not to do your physics homework
 slug: how-not-to-do-your-physics-homework
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Reflecting on the intersection of scientific ambition and historical significance, this narrative explores the entangled destinies of Foucault's pendulum and the Bunker Hill Monument.
 emoji: ⏳
 tags:
-  - 🔬 Science
   - ⚖️ Law
   - ⚙️ Engineering
   - ⚖️ Choices

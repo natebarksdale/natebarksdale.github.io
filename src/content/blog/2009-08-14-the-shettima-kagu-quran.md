@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-14
-modDatetime: 2009-08-14
+modDatetime: 2025-03-14T21:18:02Z
 title: The Shettima Kagu Qur’an
 slug: the-shettima-kagu-quran
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the depths of archaic Saharan languages through beautiful
 emoji: 📜
 tags:
   - 🌍 Culture
-  - 🇳🇬 Nigeria
   - ✝️ Scriptures
 haiku: |
   Ancient scripts unfold,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-15
-modDatetime: 2009-04-15
+modDatetime: 2025-03-14T21:18:00Z
 title: Some sweet, sweet South Indian song
 slug: some-sweet-sweet-south-indian-song
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎵 Music
   - 🎶 Sounds
   - 🌍 Culture
-  - 🌊 Adventure
 haiku: |
   Melodies that soar,  
   Carnatic rhythms entwined,  

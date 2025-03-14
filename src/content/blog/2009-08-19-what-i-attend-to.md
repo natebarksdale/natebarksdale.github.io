@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-19
-modDatetime: 2009-08-19
+modDatetime: 2025-03-14T21:18:03Z
 title: What I attend to
 slug: what-i-attend-to
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: This week I've been experimenting with speed-reading and its impact on my attention and enjoyment of literature.
 emoji: 📚
 tags:
-  - 📖 Reading
-  - 💡 Ideas
   - 🧘‍♂️ Psychology
   - 🌀 Complexity
 haiku: |

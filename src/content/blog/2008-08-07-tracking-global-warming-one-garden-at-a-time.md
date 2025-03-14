@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2008-08-07
+modDatetime: 2025-03-14T21:17:50Z
 title: Tracking global warming, one garden at a time
 slug: tracking-global-warming-one-garden-at-a-time
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: The beauty of citizen science allows gardeners to contribute to our understanding of climate change through careful observation of plant behavior.
 emoji: 🌱
 tags:
-  - 🌍 Climate Change
   - 🌱 Sustainability
-  - 🏡 Refugees
   - 🌿 Gardens
   - 🌳 Landscapes
 haiku: |

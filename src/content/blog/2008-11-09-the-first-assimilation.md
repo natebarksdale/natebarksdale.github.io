@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-09
-modDatetime: 2008-11-09
+modDatetime: 2025-03-14T21:17:55Z
 title: The first assimilation
 slug: the-first-assimilation
 featured: false
@@ -9,10 +9,7 @@ draft: false
 description: An exploration of cultural adaptation among Central American immigrants in LA, highlighting the complexities of identity and belonging.
 emoji: 🌎
 tags:
-  - 🇸🇻 El Salvador
-  - 🇲🇽 Mexico
   - 🌍 Culture
-  - ❤️ Relationships
 haiku: |
   Lost in two cultures,  
   A silent mask worn with pride,  

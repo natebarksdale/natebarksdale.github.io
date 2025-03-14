@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-14T21:17:52Z
 title: Little India, Singapore
 slug: little-india-singapore
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎒
 tags:
   - 🌍 Culture
   - 🏙️ Migration
-  - 📷 Photography
   - 🏪 Markets
 haiku: |
   Watercolors pack,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-18
-modDatetime: 2009-09-18
+modDatetime: 2025-03-14T21:18:03Z
 title: How jobs stack up
 slug: how-jobs-stack-up
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: An exploration of the historical representation of professions in the U.S. Census highlights disparities and trends over time.
 emoji: 📊
 tags:
-  - 📊 Data Visualization
   - 🌍 Society
   - 🏙️ Migration
   - ⚖️ Choices

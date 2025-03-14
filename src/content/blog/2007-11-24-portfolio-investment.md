@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-11-24
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:49Z
 title: Portfolio | Investment
 slug: portfolio-investment
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 💼 Business
   - 💰 Commerce
   - 📝 Writing
-  - 📊 Data Visualization
   - ⚖️ Law
 haiku: |
   Investing with care,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-16
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:02Z
 title: A tool which will unleash the fullest in someone else
 slug: a-tool-which-will-unleash-the-fullest-in-someone-else
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Choices
   - ⚙️ Technology
   - 🌍 Society
-  - 💡 Ideas
 haiku: |
   Expanding choices,  
   Tech unveils potential paths,  

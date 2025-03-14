@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-30
-modDatetime: 2008-09-30
+modDatetime: 2025-03-14T21:17:53Z
 title: Miss Piggy Lee
 slug: miss-piggy-lee
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - 🎭 Entertainment
   - 🌍 Culture
-  - 🤔 Curiosity
 haiku: |
   Creating a world,  
   Miss Piggy's charm shines brightly,  

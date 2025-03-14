@@ -13,7 +13,6 @@ tags:
   - ⚖️ Choices
   - ⚠️ Danger
   - 🔍 Uncertainty
-  - 💡 Ideas
 haiku: |
   Gas prices rise high,  
   S.U.V.s lose their allure,  

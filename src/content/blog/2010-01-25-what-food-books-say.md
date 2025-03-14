@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-25
-modDatetime: 2010-01-25
+modDatetime: 2025-03-14T21:18:05Z
 title: What food books say
 slug: what-food-books-say
 featured: false
@@ -11,7 +11,6 @@ emoji: 📚
 tags:
   - 🍳 Cooking
   - 🌍 Culture
-  - ❤️ Relationships
 haiku: |
   Shelves line with wisdom,  
   Flavorful codes of our lives,  

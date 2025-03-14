@@ -11,8 +11,6 @@ emoji: 🗣️
 tags:
   - 🌍 Indigenous Culture
   - 📚 Linguistics
-  - 👥 Generations
-  - 🧪 Experiments
   - 🗣️ Language
 haiku: |
   Sounds of the ancients,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-14T21:17:52Z
 title: “City Of Immigrants,” by Steve Earle with Forro in the Dark
 slug: city-of-immigrants-by-steve-earle-with-forro-in-the-dark
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌆
 tags:
   - 🌆 Cities
   - 🎵 Music
-  - 🌈 Hope
 haiku: |
   City life embraced,  
   Cultures blend and unite,  

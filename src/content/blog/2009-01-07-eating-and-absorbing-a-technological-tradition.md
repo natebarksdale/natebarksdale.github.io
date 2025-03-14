@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-14T21:17:58Z
 title: Eating and absorbing a technological tradition
 slug: eating-and-absorbing-a-technological-tradition
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Identity
   - ⚙️ Technology
   - ♻️ Repurposing
-  - ❤️ Relationships
 haiku: |
   Tradition in grain,  
   Harmony with the past lives,  

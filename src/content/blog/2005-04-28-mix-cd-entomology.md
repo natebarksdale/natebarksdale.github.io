@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2005-04-28
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Entomology
 slug: mix-cd-entomology
 featured: false
@@ -11,7 +11,6 @@ emoji: 🦋
 tags:
   - 🎵 Music
   - 🦠 Germs
-  - 🔬 Science
   - 🌍 Diversity
   - 📖 Articles
 haiku: |

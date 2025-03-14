@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-15
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Rethinking one’s own position as a creator
 slug: rethinking-ones-own-position-as-a-creator
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Creativity
   - 🌱 Growth
   - 🌍 Culture
-  - 💡 Ideas
   - 🎶 Activities
 haiku: |
   Seeds of sound take root,  

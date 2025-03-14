@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-14
-modDatetime: 2010-06-14
+modDatetime: 2025-03-14T21:18:07Z
 title: Fasting for the mind
 slug: fasting-for-the-mind
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⏰ Time
   - 📖 Books
   - 🌍 Society
-  - 💡 Ideas
 haiku: |
   Great books yet to read,  
   Rereading brings new insight,  

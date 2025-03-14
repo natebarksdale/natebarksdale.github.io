@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-07-01
-modDatetime: 2025-03-10T21:39:25Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Theme-park theodicies
 slug: theme-park-theodicies
 featured: false
@@ -10,7 +10,6 @@ description: George Saunders' _Pastoralia_ explores the absurdities and deeper t
 emoji: 🤔
 tags:
   - ✍️ Literature
-  - 🌆 Chicago
   - 🌍 Culture
   - 🌀 Complexity
   - ❤️ Kindness

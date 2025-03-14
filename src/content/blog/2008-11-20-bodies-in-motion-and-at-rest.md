@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2008-11-20
+modDatetime: 2025-03-14T21:17:56Z
 title: Bodies in motion and at rest
 slug: bodies-in-motion-and-at-rest
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A reflection on the creativity sparked by daily subway commutes in Brooklyn, as shared by artist Stephen Gardener.
 emoji: 🚇
 tags:
-  - 🗽 New York
   - 🌆 Brooklyn
   - 🌍 Society
   - 📝 Writing

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: Philosophy of leftovers
 slug: philosophy-of-leftovers
 featured: false
@@ -11,7 +11,6 @@ emoji: ♻️
 tags:
   - ♻️ Repurposing
   - 📖 Discussions
-  - 💡 Ideas
   - ❤️ Kindness
 haiku: |
   Leftovers in life,  

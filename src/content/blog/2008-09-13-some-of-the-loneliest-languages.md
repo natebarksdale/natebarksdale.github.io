@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2008-09-13
+modDatetime: 2025-03-14T21:17:53Z
 title: Some of the loneliest languages
 slug: some-of-the-loneliest-languages
 featured: false
@@ -10,9 +10,6 @@ description: Dispatches from the world of endangered languages, highlighting the
 emoji: 🌍
 tags:
   - 🌍 Culture
-  - 🙏 Humanity
-  - 📚 Education
-  - 🤝 Connections
 haiku: |
   Voices near fading,  
   Elders hold the final words,  

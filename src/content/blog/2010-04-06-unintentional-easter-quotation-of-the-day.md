@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-06
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:06Z
 title: Unintentional Easter quotation of the day
 slug: unintentional-easter-quotation-of-the-day
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - ✍️ Literature
   - 🎭 Irony
-  - 💡 Ideas
   - 💡 Innovation
   - 🌀 Complexity
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2008-08-06
+modDatetime: 2025-03-14T21:17:50Z
 title: ¡Viva Leviticus!
 slug: viva-leviticus
 featured: false
@@ -11,7 +11,6 @@ emoji: 📜
 tags:
   - ✝️ Christianity
   - ✝️ Scriptures
-  - 💬 Conversations
   - 🌍 Society
 haiku: |
   Laws of ancient days,  

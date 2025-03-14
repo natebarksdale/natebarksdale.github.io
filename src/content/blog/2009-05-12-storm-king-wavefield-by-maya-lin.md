@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-12
-modDatetime: 2009-05-12
+modDatetime: 2025-03-14T21:18:01Z
 title: Storm King Wavefield, by Maya Lin
 slug: storm-king-wavefield-by-maya-lin
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 🎨 Art
   - 🏞️ National Parks
-  - 🏙️ Landmarks
 haiku: |
   Waves of earth arise,  
   Nature's canvas intertwined,  

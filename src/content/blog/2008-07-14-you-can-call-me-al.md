@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2008-07-14
+modDatetime: 2025-03-14T21:17:49Z
 title: You can call me Al
 slug: you-can-call-me-al
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Reflecting on evolving parental nicknames and the cultural influences behind them.
 emoji: 👶
 tags:
-  - 👥 Generations
   - 🎭 Comedy
   - 🌍 Culture
   - 📖 Discussions

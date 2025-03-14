@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-10
-modDatetime: 2008-09-10
+modDatetime: 2025-03-14T21:17:53Z
 title: That’s progress for you
 slug: thats-progress-for-you
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚙️ Technology
   - 🌍 Environment
   - 💼 Business
-  - 🔬 Science
 haiku: |
   Past roads were greener,  
   Fewer choices, yet we yearn,  

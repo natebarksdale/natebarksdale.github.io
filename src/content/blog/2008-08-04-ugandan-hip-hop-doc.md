@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2008-08-04
+modDatetime: 2025-03-14T21:17:50Z
 title: Ugandan hip-hop doc
 slug: ugandan-hip-hop-doc
 featured: false
@@ -10,7 +10,6 @@ description: A glimpse into the inspiring world of anti-war and -corruption them
 emoji: 🎤
 tags:
   - 🌍 Africa
-  - 🎥 Documentaries
   - 🎵 Music
 haiku: |
   Voices rising strong,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2009-01-06
+modDatetime: 2025-03-14T21:17:58Z
 title: Culture-making, underwater edition!
 slug: culture-making-underwater-edition
 featured: false
@@ -11,7 +11,6 @@ emoji: 🐬
 tags:
   - 🌍 Culture
   - 🐬 Dolphins
-  - 🔬 Science
   - ⏰ Time
   - ♻️ Repurposing
 haiku: |

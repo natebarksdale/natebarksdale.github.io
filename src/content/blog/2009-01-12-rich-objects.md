@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-14T21:17:58Z
 title: Rich objects
 slug: rich-objects
 featured: false
@@ -10,9 +10,7 @@ description: Exploring the profound connection between children and their intera
 emoji: 🎨
 tags:
   - 🌍 Culture
-  - 🔬 Science
   - 📝 Writing
-  - 💡 Ideas
 haiku: |
   Objects attract minds,  
   Young hearts entwined with the quest,  

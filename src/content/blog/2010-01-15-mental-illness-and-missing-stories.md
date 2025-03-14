@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-15
-modDatetime: 2010-01-15
+modDatetime: 2025-03-14T21:18:05Z
 title: Mental illness and missing stories
 slug: mental-illness-and-missing-stories
 featured: false
@@ -12,8 +12,6 @@ tags:
   - ⚕️ Medicine
   - 🌍 Culture
   - 🌀 Complexity
-  - 🤔 Philosophy
-  - 🙏 Humanity
 haiku: |
   Minds in turmoil rest,  
   Cultural stories lost,  

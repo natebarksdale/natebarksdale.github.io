@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-29
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:55Z
 title: Comic grace
 slug: comic-grace
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A reflection on the interplay of grace and passion in human lives and societies, highlighting both their significance and humor.
 emoji: 🕊️
 tags:
-  - ✨ Grace
   - ✍️ Literature
   - 🌍 Society
   - 🌍 Culture

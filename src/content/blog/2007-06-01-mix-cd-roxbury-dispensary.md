@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-06-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Roxbury Dispensary
 slug: mix-cd-roxbury-dispensary
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🇺🇸 United States
   - 📖 Articles
-  - 💻 Self-Help
   - 🎶 Activities
   - 🎤 Performances
 haiku: |

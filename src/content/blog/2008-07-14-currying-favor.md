@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2008-07-14
+modDatetime: 2025-03-14T21:17:49Z
 title: Currying favor
 slug: currying-favor
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on how the global journey of curry began with its root
 emoji: 🍛
 tags:
   - 🌍 Culture
-  - ❤️ Relationships
   - 🔄 Commitment
   - 📝 Writing
 haiku: |

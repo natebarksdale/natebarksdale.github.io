@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-04
-modDatetime: 2008-12-04
+modDatetime: 2025-03-14T21:17:56Z
 title: More stuff that’s good
 slug: more-stuff-thats-good
 featured: false
@@ -11,9 +11,6 @@ emoji: 🎨
 tags:
   - 🌍 Culture
   - 📖 Articles
-  - 💡 Ideas
-  - 🤔 Curiosity
-  - 📝 Journalism
 haiku: |
   Pockets of bright hope,  
   Craftsmen rise from many hands,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-27
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:03Z
 title: There are no televisions here
 slug: there-are-no-televisions-here
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - ⚒️ Blacksmiths
   - ✍️ Literature
-  - 📖 Reading
 haiku: |
   In a city built,  
   Pages whisper to the skies,  

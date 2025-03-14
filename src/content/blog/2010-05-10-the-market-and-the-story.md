@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:07Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚖️ Choices
   - 🌍 Society
   - 🌍 Culture
-  - 📝 Journalism
 haiku: |
   Machines trade with speed,  
   Stories crafted post hoc  

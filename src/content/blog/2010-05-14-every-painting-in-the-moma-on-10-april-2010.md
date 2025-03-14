@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-14
-modDatetime: 2010-05-14
+modDatetime: 2025-03-14T21:18:07Z
 title: Every Painting in the MoMA on 10 April 2010
 slug: every-painting-in-the-moma-on-10-april-2010
 featured: false
@@ -11,7 +11,6 @@ emoji: 🖼️
 tags:
   - 🌍 History
   - 🏛️ Museums
-  - 🗽 New York
   - 🎨 Art
 haiku: |
   Timeless canvas speaks,  

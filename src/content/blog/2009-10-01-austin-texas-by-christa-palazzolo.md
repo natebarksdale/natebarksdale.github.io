@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-01
-modDatetime: 2009-10-01
+modDatetime: 2025-03-14T21:18:03Z
 title: Austin, Texas, by Christa Palazzolo
 slug: austin-texas-by-christa-palazzolo
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - 🎨 Art
   - 🌍 Culture
-  - 🗽 New York
 haiku: |
   A calm gaze holds truth,  
   Glamour fades, revealing self,  

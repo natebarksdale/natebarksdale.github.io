@@ -9,7 +9,6 @@ draft: False
 description: A fascinating map combining US states and countries of equal population, perfect for a July 4 reflection from Culture-Making.com's curators.
 emoji: 🗺️
 tags:
-  - 🌍 Maps
   - 🇺🇸 United States
   - 🗺️ States
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-14T21:17:54Z
 title: If There Ever Was - A Book of Extinct and Impossible Smells
 slug: if-there-ever-was-a-book-of-extinct-and-impossible-smells
 featured: false
@@ -11,9 +11,6 @@ emoji: 🌍
 tags:
   - 🎨 Art
   - 🌍 Culture
-  - 🌊 Adventure
-  - 🧪 Experiments
-  - 🧠 Knowledge
 haiku: |
   Whispers of the past,  
   Scents beckon from distant worlds,  

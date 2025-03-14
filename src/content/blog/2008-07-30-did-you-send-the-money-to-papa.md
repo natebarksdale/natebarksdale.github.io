@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-30
-modDatetime: 2008-07-30
+modDatetime: 2025-03-14T21:17:50Z
 title: “Did you send the money to papa?”
 slug: did-you-send-the-money-to-papa
 featured: false
@@ -10,7 +10,6 @@ description: A look at the innovative mobile money transfer services reshaping l
 emoji: 💸
 tags:
   - 🌐 Digital
-  - 📱 Mobile Phones
   - 💬 Communication
   - 💼 Business
 haiku: |

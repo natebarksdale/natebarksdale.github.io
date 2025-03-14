@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-17
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:03Z
 title: The dude uniform
 slug: the-dude-uniform
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Observing the curious fashion choices of Mumbai's men, I couldn't help but notice the striking contrast in style between the genders.
 emoji: 🎭
 tags:
-  - 👔 Fashion
   - 🌍 Culture
   - 🌆 Urban Spaces
 haiku: |

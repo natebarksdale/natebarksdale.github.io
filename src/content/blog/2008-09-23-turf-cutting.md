@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2008-09-23
+modDatetime: 2025-03-14T21:17:53Z
 title: Turf-cutting
 slug: turf-cutting
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Poetry
   - 🌍 Culture
   - 🌍 History
-  - ❤️ Relationships
 haiku: |
   Grandfather's strong hands,  
   Turf rises from ancient bog,  

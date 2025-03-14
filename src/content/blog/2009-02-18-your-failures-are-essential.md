@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-18
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:17:59Z
 title: Your failures are essential
 slug: your-failures-are-essential
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ❤️ Resilience
   - 📖 Books
   - 🎨 Art
-  - 🤔 Philosophy
 haiku: |
   In failure we learn,  
   The brush strokes of our journey,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-17
-modDatetime: 2009-03-17
+modDatetime: 2025-03-14T21:18:00Z
 title: Fujimori Festival
 slug: fujimori-festival
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Calligraphy on horseback showcases an impressive skill, as highlighted in the traditional Fujimori Festival held at the Fujinomori Shrine.
 emoji: 🐎
 tags:
-  - 🏯 Shrines
   - 🕌 Monuments
 haiku: |
   Horses gallop fast,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-28
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-14T21:18:06Z
 title: Mix CD | Celestial Objects
 slug: mix-cd-celestial-objects
 featured: false
@@ -10,7 +10,6 @@ description: A special custom mix CD celebrating the birthday of a historian of 
 emoji: 🌌
 tags:
   - 🌌 Astronomy
-  - 🌌 Space
   - 🎵 Music
   - 🌍 Culture
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-11
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:07Z
 title: Fine tuning
 slug: fine-tuning
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🎵 Music
   - 🎤 Performances
-  - 🗽 New York
   - 🌍 Culture
   - 🌍 Society
 haiku: |

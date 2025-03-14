@@ -9,7 +9,6 @@ draft: False
 description: A fascinating glimpse into the behind-the-scenes world of professional photography, showcasing how much work goes into creating stunning images with assistants often taking center stage.
 emoji: 📸
 tags:
-  - 📷 Photography
   - 🎨 Art
   - 🌍 Culture
   - 📖 Articles

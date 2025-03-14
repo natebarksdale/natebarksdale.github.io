@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-14T21:17:52Z
 title: In praise of street food
 slug: in-praise-of-street-food
 featured: false
@@ -11,8 +11,6 @@ emoji: 🍜
 tags:
   - 🌍 Culture
   - 🌍 Identity
-  - 🌊 Adventure
-  - ❤️ Relationships
 haiku: |
   Streets filled with flavors,  
   Every bite tells a story,  

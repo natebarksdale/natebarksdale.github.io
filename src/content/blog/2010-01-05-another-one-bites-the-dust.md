@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-05
-modDatetime: 2010-01-05
+modDatetime: 2025-03-14T21:18:05Z
 title: Another one bites the dust
 slug: another-one-bites-the-dust
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Ecology
   - 🌍 Environment
   - 📖 Articles
-  - 📚 Education
 haiku: |
   Tasting the earth's heart,  
   Secrets of soil unfold,  

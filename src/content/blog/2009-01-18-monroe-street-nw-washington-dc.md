@@ -10,7 +10,6 @@ description: I love the color choices on these two row houses in the capital's C
 emoji: 🎨
 tags:
   - 🇺🇸 United States
-  - 🌆 Neighborhoods
   - ⚖️ Choices
   - 🎨 Colors
 haiku: |

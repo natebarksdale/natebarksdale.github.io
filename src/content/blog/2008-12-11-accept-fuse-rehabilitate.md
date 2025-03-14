@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:57Z
 title: Accept, fuse, rehabilitate
 slug: accept-fuse-rehabilitate
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Poetry
   - 🌍 Culture
   - 🤝 Altruism
-  - ❤️ Relationships
 haiku: |
   From afar we bring,  
   Vital fire to the gross,  

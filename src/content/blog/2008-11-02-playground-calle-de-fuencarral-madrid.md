@@ -9,9 +9,7 @@ draft: true
 description: Observations on a vibrant urban playground in the heart of Madrid. Coordinates
 emoji: 🛝
 tags:
-  - 🌍 Spain
   - 🌆 Urban Spaces
-  - 🌈 Hope
 haiku: |
   Colorful delights,  
   Children play in city streets,  

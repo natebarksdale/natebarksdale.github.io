@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-07
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:18:05Z
 title: Sana’a sunset - a panoramic view of Yemen’s capital city
 slug: sanaa-sunset-a-panoramic-view-of-yemens-capital-city
 featured: false
@@ -10,9 +10,7 @@ description: An amazing interactive view of Yemen's capital, rich in architectur
 emoji: 🕌
 tags:
   - 🇾🇪 Yemen
-  - 🏙️ Landmarks
   - 🌍 Culture
-  - 📷 Photography
   - 📖 Books
 haiku: |
   Ancient walls whisper,  

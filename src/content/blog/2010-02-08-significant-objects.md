@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-08
-modDatetime: 2010-02-08
+modDatetime: 2025-03-14T21:18:05Z
 title: Significant objects
 slug: significant-objects
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ♻️ Repurposing
   - 🌍 Society
   - 🌍 Culture
-  - 💡 Ideas
 haiku: |
   Thrifted tales unfold,  
   Worthless finds gain life anew,  

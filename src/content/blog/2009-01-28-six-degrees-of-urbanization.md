@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2009-01-28
+modDatetime: 2025-03-14T21:17:58Z
 title: Six degrees of urbanization
 slug: six-degrees-of-urbanization
 featured: false
@@ -10,7 +10,6 @@ description: Exploring how interconnected human networks can help in finding lov
 emoji: 🗺️
 tags:
   - 🗣️ Language
-  - 🤝 Connections
   - 🌀 Complexity
 haiku: |
   In search of a friend,  

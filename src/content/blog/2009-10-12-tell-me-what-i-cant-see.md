@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2009-10-12
+modDatetime: 2025-03-14T21:18:03Z
 title: Tell me what I can’t see
 slug: tell-me-what-i-cant-see
 featured: false
@@ -11,7 +11,6 @@ emoji: 📻
 tags:
   - 📺 Television
   - 🏈 Football
-  - 📝 Journalism
 haiku: |
   Radio's clear voice,  
   Unfolds the game with detail,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2008-09-18
+modDatetime: 2025-03-14T21:17:53Z
 title: Grand ideas first,  obstacles later
 slug: grand-ideas-first-obstacles-later
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Society
   - 🌍 Culture
   - ⚙️ Technology
-  - 💡 Ideas
 haiku: |
   Ideas intertwine,  
   In gatherings, worlds transform,  

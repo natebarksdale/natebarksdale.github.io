@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2008-08-08
+modDatetime: 2025-03-14T21:17:51Z
 title: Untitled, by Pasquale Ottaiano
 slug: untitled-by-pasquale-ottaiano
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Art
   - 🌍 Culture
   - 📝 Writing
-  - 📖 Reading
 haiku: |
   In art’s embrace here,  
   She melds with colors and shape,  

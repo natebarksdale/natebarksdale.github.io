@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-21
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:05Z
 title: To Winter, by William Blake
 slug: to-winter-by-william-blake
 featured: false
@@ -10,9 +10,7 @@ description: A reflection on William Blake's evocative poem "To Winter," which c
 emoji: ❄️
 tags:
   - ✍️ Poetry
-  - 🌌 Fantasy
   - 🏔️ Mountains
-  - 🌊 Adventure
   - ⚔️ Enemies
 haiku: |
   Winter's icy grip,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-24
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Portfolio | Eventide Convention Banners
 slug: portfolio-eventide-convention-banners
 featured: false
@@ -10,7 +10,6 @@ description: I had the opportunity to create these full-height banners for the E
 emoji: 📊
 tags:
   - 🌐 Blogging
-  - 💻 Self-Help
   - 💼 Business
   - 📈 Marketing
   - 🏢 Buildings

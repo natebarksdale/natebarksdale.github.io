@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2005-06-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Genesis
 slug: mix-cd-genesis
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 📖 Bible
   - 🎵 Music
   - ✍️ Literature
-  - ✨ Grace
 haiku: |
   Songs of ancient tale,  
   Echoes of creation's song,  

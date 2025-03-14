@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-03
-modDatetime: 2009-11-03
+modDatetime: 2025-03-14T21:18:04Z
 title: Consuming like it’s 2007
 slug: consuming-like-its-2007
 featured: false
@@ -11,9 +11,7 @@ emoji: ⏳
 tags:
   - ♻️ Repurposing
   - 🌍 Culture
-  - 💻 Self-Help
   - 🌀 Complexity
-  - 📖 Adaptations
 haiku: |
   Past treasures await,  
   Spending less for more delight,  

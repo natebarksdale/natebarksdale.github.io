@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-25
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:59Z
 title: Some dim dazzling trick of grace
 slug: some-dim-dazzling-trick-of-grace
 featured: false
@@ -11,7 +11,6 @@ emoji: 🕊️
 tags:
   - ✝️ Christianity
   - 🌅 Reflection
-  - 🤔 Philosophy
 haiku: |
   Watching through the glass,  
   Ambiguous journeys unfold,  

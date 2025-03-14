@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-08
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-14T21:18:07Z
 title: Religious art for nonbelievers
 slug: religious-art-for-nonbelievers
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ✨ Beauty
   - 🌀 Complexity
   - 👥 Emotions
-  - 🤔 Philosophy
 haiku: |
   Colors of the soul,  
   Art whispers of the divine,  

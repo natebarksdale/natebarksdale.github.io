@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-21
-modDatetime: 2009-05-21
+modDatetime: 2025-03-14T21:18:01Z
 title: Our national art project
 slug: our-national-art-project
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 📝 Writing
   - 🎨 Art
-  - 💡 Ideas
 haiku: |
   Great art inspires us,  
   Nations rise through creativity,  

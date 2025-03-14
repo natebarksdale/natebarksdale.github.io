@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-03
-modDatetime: 2009-06-03
+modDatetime: 2025-03-14T21:18:01Z
 title: West African teddies, by Glenna Gordon
 slug: west-african-teddies-by-glenna-gordon
 featured: false
@@ -11,7 +11,6 @@ emoji: 🧸
 tags:
   - 🌍 Culture
   - ❤️ Charity
-  - 📷 Photography
   - 🎈 Fun
 haiku: |
   Soft teddies exchanged,  

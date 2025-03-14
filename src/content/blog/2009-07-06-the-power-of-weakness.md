@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-06
-modDatetime: 2009-07-06
+modDatetime: 2025-03-14T21:18:02Z
 title: The power of weakness
 slug: the-power-of-weakness
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌱
 tags:
   - ❤️ Kindness
   - ❤️ Love
-  - 🙏 Humanity
   - 💧 Rituals
   - 🌍 Diversity
 haiku: |

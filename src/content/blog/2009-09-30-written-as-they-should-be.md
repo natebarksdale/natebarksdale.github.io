@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-30
-modDatetime: 2009-09-30
+modDatetime: 2025-03-14T21:18:03Z
 title: Written as they should be
 slug: written-as-they-should-be
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A reflection on the beauty and significance of handwriting in a digital age, inspired by Umberto Eco's thoughts.
 emoji: ✍️
 tags:
-  - ✍️ Manuscripts
   - 📖 Books
 haiku: |
   Letters swirl and dance,  

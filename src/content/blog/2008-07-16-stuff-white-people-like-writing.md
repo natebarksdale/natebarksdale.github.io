@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-14T14:53:28Z
+modDatetime: 2025-03-14T21:17:49Z
 title: Stuff white people like - writing
 slug: stuff-white-people-like-writing
 featured: false
@@ -12,8 +12,6 @@ tags:
   - 🌍 Diversity
   - ✍️ Literature
   - 🗣️ Language
-  - 🤔 Curiosity
-  - 🙏 Humanity
 haiku: |
   Art with few voices,  
   Colors blend yet stay apart,  

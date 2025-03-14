@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-05
-modDatetime: 2009-10-05
+modDatetime: 2025-03-14T21:18:03Z
 title: Food flags
 slug: food-flags
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🇦🇺 Australia
   - 🇮🇹 Italy
   - 🇫🇷 France
-  - 🇰🇷 South Koreas
   - ♻️ Repurposing
 haiku: |
   Flavors on display,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-09
-modDatetime: 2010-06-09
+modDatetime: 2025-03-14T21:18:07Z
 title: Everyday South Africans and their bicycles
 slug: everyday-south-africans-and-their-bicycles
 featured: false
@@ -9,10 +9,8 @@ draft: false
 description: A reflection on the representation of Africa in mainstream media, contrasted with a celebration of South African cyclists and their stories.
 emoji: 🚴‍♂️
 tags:
-  - 🇿🇦 South Africa
   - 🌍 Culture
   - 🚲 Bicycles
-  - 📷 Photography
 haiku: |
   Urban tales unfold,  
   Wheels spin through bright landscapes,  

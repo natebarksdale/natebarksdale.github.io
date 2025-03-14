@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2008-08-04
+modDatetime: 2025-03-14T21:17:50Z
 title: From NASA to McDonald’s
 slug: from-nasa-to-mcdonalds
 featured: false
@@ -10,7 +10,6 @@ description: Laurie Anderson reflects on the transformative power of stepping ou
 emoji: 🌌
 tags:
   - 🌍 Identity
-  - 🎤 Interviews
 haiku: |
   Escape the confines,  
   Voices change in shifting worlds,  

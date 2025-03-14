@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-14T21:17:56Z
 title: Portfolio | Physician
 slug: portfolio-physician
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 💼 Business
   - 📖 Articles
   - 🌍 Health
-  - 📚 Education
 haiku: |
   A healer's card shines,  
   Guiding hands through life's journey,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-25
-modDatetime: 2009-09-25
+modDatetime: 2025-03-14T21:18:03Z
 title: Ode to a mangosteen
 slug: ode-to-a-mangosteen
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: I've always been curious about mangosteens, despite never having tasted one.
 emoji: 🍈
 tags:
-  - 🍎 Fruit
   - 🌱 Sustainability
   - 🌱 Growth
   - 🌍 Culture

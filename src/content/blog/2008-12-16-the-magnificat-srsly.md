@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:57Z
 title: The MagnifiCat (srsly)
 slug: the-magnificat-srsly
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Translation
   - 📖 Bible
   - 🌍 Culture
-  - 🤔 Philosophy
   - 🙏 Faith
 haiku: |
   Sacred text transformed,  

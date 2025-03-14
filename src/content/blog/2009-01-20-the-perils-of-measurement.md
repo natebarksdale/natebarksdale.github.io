@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-14T21:17:58Z
 title: The perils of measurement
 slug: the-perils-of-measurement
 featured: false
@@ -9,10 +9,7 @@ draft: false
 description: A reflection on the implications of measurement in various contexts, invoking the Heisenberg uncertainty principle.
 emoji: ⚖️
 tags:
-  - 📏 Measurements
   - 🔍 Uncertainty
-  - 🤔 Curiosity
-  - 🔬 Science
   - 📊 Statistics
 haiku: |
   Knowing brings a cost,  

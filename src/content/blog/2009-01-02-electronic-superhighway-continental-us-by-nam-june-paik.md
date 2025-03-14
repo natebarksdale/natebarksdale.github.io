@@ -9,7 +9,6 @@ draft: False
 description: The Mississippi River shines with a nostalgic glow, reminiscent of a historic superhighway. "[Electronic Superhighway
 emoji: 🌉
 tags:
-  - 🌊 Rivers
   - 🇺🇸 United States
   - 🌀 Complexity
   - 🌍 Culture

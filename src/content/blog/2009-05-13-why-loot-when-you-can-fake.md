@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-13
-modDatetime: 2009-05-13
+modDatetime: 2025-03-14T21:18:01Z
 title: Why loot when you can fake?
 slug: why-loot-when-you-can-fake
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚒️ Blacksmiths
   - ⚖️ Ethics
   - 🌍 Culture
-  - 📰 News
   - 🔍 Discoveries
 haiku: |
   EBay's market grows,  

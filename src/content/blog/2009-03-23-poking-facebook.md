@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2009-03-23
+modDatetime: 2025-03-14T21:18:00Z
 title: Poking Facebook
 slug: poking-facebook
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Choices
   - 🌍 Identity
   - 📝 Writing
-  - 🤔 Philosophy
   - 🗳️ Politics
 haiku: |
   Tethered to the past,  

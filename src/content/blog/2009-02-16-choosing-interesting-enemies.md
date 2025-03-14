@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-16
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:59Z
 title: Choosing interesting enemies
 slug: choosing-interesting-enemies
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚔️ Enemies
   - ♻️ Repurposing
   - ⚖️ Ethics
-  - ❤️ Relationships
   - 🌀 Complexity
 haiku: |
   Mirror of my soul,  

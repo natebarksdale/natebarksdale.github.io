@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2008-11-18
+modDatetime: 2025-03-14T21:17:55Z
 title: Tear-down, Silicon Valley, by Thomas Locke Hobbs
 slug: tear-down-silicon-valley-by-thomas-locke-hobbs
 featured: false
@@ -11,7 +11,6 @@ emoji: 🏠
 tags:
   - 🌍 Culture
   - ⚙️ Technology
-  - 🏡 Refugees
   - 🔍 Discoveries
 haiku: |
   Old walls come crumbling,  

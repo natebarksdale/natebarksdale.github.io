@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-30
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:02Z
 title: Making the stairs more inviting
 slug: making-the-stairs-more-inviting
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚙️ Engineering
   - 🌍 Health
   - 🏛️ Architecture
-  - 🏡 Refugees
   - 🧠 Psychology
 haiku: |
   Rise up sturdy steps,  

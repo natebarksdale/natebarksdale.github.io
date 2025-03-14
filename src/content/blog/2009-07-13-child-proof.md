@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-13
-modDatetime: 2009-07-13
+modDatetime: 2025-03-14T21:18:02Z
 title: Child-proof
 slug: child-proof
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🌍 Development
   - ⚠️ Danger
-  - ❤️ Relationships
 haiku: |
   In lost green spaces,  
   Children roam with wild delight,  

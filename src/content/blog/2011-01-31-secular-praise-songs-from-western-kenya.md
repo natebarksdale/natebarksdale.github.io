@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2011-01-31
+modDatetime: 2025-03-14T21:18:08Z
 title: Secular praise songs from Western Kenya
 slug: secular-praise-songs-from-western-kenya
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🌍 Culture
   - 🎵 Music
-  - 🤝 Connections
   - 🎤 Performances
   - 📝 Writing
 haiku: |

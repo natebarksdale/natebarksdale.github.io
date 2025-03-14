@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2008-07-20
+modDatetime: 2025-03-14T21:17:49Z
 title: Would I be making a stronger statement with willow?
 slug: would-i-be-making-a-stronger-statement-with-willow
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Creativity
   - 🌍 Ecology
   - 🌳 Landscapes
-  - 🌊 Rivers
   - 🌱 Sustainability
 haiku: |
   Chewing on ideas,  

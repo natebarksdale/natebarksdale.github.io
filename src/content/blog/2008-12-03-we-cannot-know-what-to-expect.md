@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2008-12-03
+modDatetime: 2025-03-14T21:17:56Z
 title: We cannot know what to expect
 slug: we-cannot-know-what-to-expect
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚖️ Choices
   - ❤️ Kindness
   - 🌍 Diversity
-  - 🧠 Knowledge
 haiku: |
   Challenged by limits,  
   Horizons of hope expand,  

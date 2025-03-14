@@ -13,7 +13,6 @@ tags:
   - 🌍 Environment
   - 🌱 Sustainability
   - 🏘️ Communities
-  - 🏡 Refugees
 haiku: |
   Gravel lawn shines bright,  
   Water saved under sun's gaze,  

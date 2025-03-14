@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-19
-modDatetime: 2010-02-19
+modDatetime: 2025-03-14T21:18:05Z
 title: The crying-on-the-inside kind of news
 slug: the-crying-on-the-inside-kind-of-news
 featured: false
@@ -10,7 +10,6 @@ description: I can't help thinking about the fascinating blend of humor and seri
 emoji: 🤡
 tags:
   - 🎭 Comedy
-  - 📰 News
   - 🗳️ Politics
   - ⚖️ Courtroom
 haiku: |

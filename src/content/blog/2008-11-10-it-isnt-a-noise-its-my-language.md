@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-10
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: “It isn’t a noise, it’s my language”
 slug: it-isnt-a-noise-its-my-language
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎤
 tags:
   - 🌍 Culture
   - ✍️ Literature
-  - 🎶 Live Performances
   - 🎤 Performances
 haiku: |
   Voice of the ancients,  

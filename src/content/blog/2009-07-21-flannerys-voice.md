@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-21
-modDatetime: 2009-07-21
+modDatetime: 2025-03-14T21:18:02Z
 title: Flannery’s voice
 slug: flannerys-voice
 featured: false
@@ -10,7 +10,6 @@ description: Flannery O'Connor's Southern dialect contrasts with Northern litera
 emoji: 🎙️
 tags:
   - ✍️ Literature
-  - ✍️ Manuscripts
   - 📖 Books
   - 📖 Biographies
 haiku: |

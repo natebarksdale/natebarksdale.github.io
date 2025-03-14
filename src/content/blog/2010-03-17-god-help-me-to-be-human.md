@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-17
-modDatetime: 2010-03-17
+modDatetime: 2025-03-14T21:18:05Z
 title: God help me to be human
 slug: god-help-me-to-be-human
 featured: false
@@ -10,7 +10,6 @@ description: Richard Rodriguez reflects on César Chávez's vision of courage an
 emoji: 💔
 tags:
   - ❤️ Kindness
-  - 🇲🇽 Mexico
 haiku: |
   Suffering and grace,  
   A call to be human now,  

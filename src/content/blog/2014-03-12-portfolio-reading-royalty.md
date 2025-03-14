@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-12
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-14T21:18:09Z
 title: Portfolio | Reading Royalty
 slug: portfolio-reading-royalty
 featured: false
@@ -11,8 +11,6 @@ emoji: 📚
 tags:
   - ❤️ Charity
   - 🌍 Society
-  - 📖 Reading
-  - 📚 Education
 haiku: |
   Reading opens doors,  
   Low-income hearts find their hope,  

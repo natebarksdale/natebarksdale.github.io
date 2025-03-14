@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: Never mind the propaganda, let’s dance!
 slug: never-mind-the-propaganda-lets-dance
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🌍 Culture
   - 🗳️ Politics
-  - ❤️ Relationships
   - ❤️ Kindness
 haiku: |
   Vibrant rhythms flow,  

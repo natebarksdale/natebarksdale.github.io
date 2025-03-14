@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-05
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:04Z
 title: If you board the wrong train ..
 slug: if-you-board-the-wrong-train
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Literature
   - 🌍 Society
   - 🌀 Complexity
-  - 🤔 Philosophy
   - 📝 Writing
 haiku: |
   Wrong path taken now,  

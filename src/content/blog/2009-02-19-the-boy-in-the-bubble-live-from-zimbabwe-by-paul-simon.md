@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-19
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:59Z
 title: “The Boy in the Bubble,” live from Zimbabwe, by Paul Simon
 slug: the-boy-in-the-bubble-live-from-zimbabwe-by-paul-simon
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of Paul Simon's "The Boy in the Bubble" and its refl
 emoji: 🎶
 tags:
   - 🌍 History
-  - 🇿🇼 Zimbabwe
   - ⚙️ Technology
 haiku: |
   Bubble in the past,  

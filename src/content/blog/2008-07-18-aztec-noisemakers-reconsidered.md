@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2008-07-18
+modDatetime: 2025-03-14T21:17:49Z
 title: Aztec ‘noisemakers’ reconsidered
 slug: aztec-noisemakers-reconsidered
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the intricate sounds of pre-Columbian instruments and the
 emoji: 🎶
 tags:
   - 🎶 Sounds
-  - 📜 Folklore
 haiku: |
   Ancient echoes rise,  
   Whispers of lost melodies,  

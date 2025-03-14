@@ -9,7 +9,6 @@ draft: true
 description: A striking abstract image from a rainy day on Northern Lights Blvd in Anchorage, Alaska, showcases the ordinary retail landscape in an intriguing way.
 emoji: 🌧️
 tags:
-  - 📍 Anchorage
   - 🌍 Exploration
   - 🌆 Urban Spaces
   - 🌧️ Nature

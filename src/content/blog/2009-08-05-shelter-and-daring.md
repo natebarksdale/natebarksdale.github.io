@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-05
-modDatetime: 2009-08-05
+modDatetime: 2025-03-14T21:18:02Z
 title: Shelter and daring
 slug: shelter-and-daring
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Literature
   - 🌄 Dreams
   - ❤️ Resilience
-  - 💡 Ideas
 haiku: |
   Within sheltered walls,  
   Daring thoughts take flight and soar,  

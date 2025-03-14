@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-06
-modDatetime: 2009-04-06
+modDatetime: 2025-03-14T21:18:00Z
 title: That Old-Time Religion
 slug: that-old-time-religion
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✝️ Christianity
   - ✝️ Scriptures
   - 🌍 Culture
-  - 📰 News
 haiku: |
   Voices intertwine,  
   Gospel and culture meet,  

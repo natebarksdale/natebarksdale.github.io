@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-20
-modDatetime: 2009-07-20
+modDatetime: 2025-03-14T21:18:02Z
 title: An Astronaut’s Journey, by Alan Bean
 slug: an-astronauts-journey-by-alan-bean
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Reflecting on the intersection of art and space exploration, I discovered the vibrant works of Alan Bean, a moonwalker turned painter.
 emoji: 🎨
 tags:
-  - 🌌 Space
   - 🎨 Art
 haiku: |
   From dust it was made,  

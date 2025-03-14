@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2009-11-30
+modDatetime: 2025-03-14T21:18:04Z
 title: Characters for an Epic Tale, by Tom Gauld
 slug: characters-for-an-epic-tale-by-tom-gauld
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Literature
   - 🌍 Storytelling
   - 🖋️ Commentary
-  - 🌌 Fantasy
   - 🔍 Discoveries
 haiku: |
   Narratives unfold,  

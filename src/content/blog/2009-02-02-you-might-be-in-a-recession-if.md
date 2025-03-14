@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2009-02-02
+modDatetime: 2025-03-14T21:17:59Z
 title: You might be in a recession if …
 slug: you-might-be-in-a-recession-if
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A look at how economic downturns can shift pop culture trends, as people prioritize savings over celebrity interests.
 emoji: 📉
 tags:
-  - 📰 News
   - 💰 Commerce
   - 📉 Economics
   - 🌍 Society

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-10
-modDatetime: 2009-11-10
+modDatetime: 2025-03-14T21:18:04Z
 title: Skateland, by Christian Patterson
 slug: skateland-by-christian-patterson
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: I love the cheery desolation in this photo, capturing a sense of whimsy and nostalgia.
 emoji: 🛼
 tags:
-  - 🌌 Desolation
   - ✨ Beauty
   - 🎨 Art
 haiku: |

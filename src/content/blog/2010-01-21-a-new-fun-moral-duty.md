@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-21
-modDatetime: 2010-01-21
+modDatetime: 2025-03-14T21:18:05Z
 title: A new (fun) moral duty
 slug: a-new-fun-moral-duty
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Ethics
   - 📖 Books
   - 🌍 Culture
-  - 💡 Ideas
 haiku: |
   Buy from those who write,  
   Share the gift of their labor,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-25
-modDatetime: 2010-11-25
+modDatetime: 2025-03-14T21:18:08Z
 title: Washing away your sins
 slug: washing-away-your-sins
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Ethics
   - ⚕️ Medicine
   - 🌍 Society
-  - 💡 Ideas
   - 💧 Rituals
 haiku: |
   Moral stains we feel,  

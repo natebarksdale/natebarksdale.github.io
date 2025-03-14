@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-23
-modDatetime: 2010-03-23
+modDatetime: 2025-03-14T21:18:06Z
 title: Sublime technologies
 slug: sublime-technologies
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚙️ Technology
   - 🌍 Culture
   - ⚖️ Ethics
-  - 🌊 Adventure
 haiku: |
   Once great marvels fade,  
   From wonder to dependence,  

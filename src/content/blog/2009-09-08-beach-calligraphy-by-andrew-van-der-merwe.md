@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-08
-modDatetime: 2009-09-08
+modDatetime: 2025-03-14T21:18:03Z
 title: Beach calligraphy by Andrew van der Merwe
 slug: beach-calligraphy-by-andrew-van-der-merwe
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: South African calligrapher Andrew van der Merwe showcases his unique sand carving technique on a Belgian beach.
 emoji: ✍️
 tags:
-  - 🇧🇪 Belgium
   - 🎨 Art
   - 🌍 Culture
   - 🌊 Ocean

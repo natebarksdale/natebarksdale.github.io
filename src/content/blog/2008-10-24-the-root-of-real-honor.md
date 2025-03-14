@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:54Z
 title: The root of real honor
 slug: the-root-of-real-honor
 featured: false
@@ -11,7 +11,6 @@ emoji: 🙏
 tags:
   - 📖 Bible
   - ⛪ Religion
-  - ❤️ Relationships
   - 🌍 Culture
 haiku: |
   Sacred, honored souls,  

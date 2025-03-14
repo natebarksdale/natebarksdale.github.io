@@ -11,8 +11,6 @@ emoji: 🏙️
 tags:
   - 🌍 Culture
   - 🇫🇷 France
-  - 🏙️ Landmarks
-  - 🌆 Neighborhoods
   - 🎨 Art
 haiku: |
   Turquoise echoes bright,  

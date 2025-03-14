@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-15
-modDatetime: 2009-09-15
+modDatetime: 2025-03-14T21:18:03Z
 title: Multi-touching
 slug: multi-touching
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A touching customer review highlights the impact of Proloquo2Go on a young woman's communication and integration with peers.
 emoji: 😊
 tags:
-  - 📱 Mobile Phones
   - ⚕️ Medicine
   - ❤️ Kindness
   - 🌍 Accessibility

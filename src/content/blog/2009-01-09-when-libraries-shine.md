@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2009-01-09
+modDatetime: 2025-03-14T21:17:58Z
 title: When libraries shine
 slug: when-libraries-shine
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: The impact of the recession highlights the essential role of libraries as community hubs for learning and support.
 emoji: 📚
 tags:
-  - 🙏 Humanity
-  - 💡 Ideas
   - 📖 Articles
 haiku: |
   In tough times they shine,  

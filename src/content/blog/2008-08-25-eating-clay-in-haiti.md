@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-14T21:17:52Z
 title: Eating clay in Haiti
 slug: eating-clay-in-haiti
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Haiti
   - ❤️ Charity
   - 🌱 Sustainability
-  - 💰 Poverty
 haiku: |
   In the sun they mold,  
   Mud cakes mask the hunger pangs,  

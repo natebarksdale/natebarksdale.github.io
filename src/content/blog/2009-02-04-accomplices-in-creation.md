@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-04
-modDatetime: 2009-02-04
+modDatetime: 2025-03-14T21:17:59Z
 title: Accomplices in creation
 slug: accomplices-in-creation
 featured: false
@@ -12,8 +12,6 @@ tags:
   - ✍️ Literature
   - 🌀 Complexity
   - ⚖️ Choices
-  - 📖 Reading
-  - 🤔 Philosophy
 haiku: |
   Co-creation thrives,  
   Words woven with empathy,  

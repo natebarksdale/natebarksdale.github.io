@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: My pleasant uninteresting place
 slug: my-pleasant-uninteresting-place
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🇨🇳 China
   - 🌆 Urban Spaces
-  - 🌊 Rivers
 haiku: |
   In quiet waters,  
   Frogs croon beneath piney sky,  

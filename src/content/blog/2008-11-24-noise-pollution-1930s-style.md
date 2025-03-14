@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2008-11-24
+modDatetime: 2025-03-14T21:17:56Z
 title: Noise pollution, 1930s-style
 slug: noise-pollution-1930s-style
 featured: false
@@ -11,7 +11,6 @@ emoji: 🛩️
 tags:
   - 📺 Broadcasting
   - 🌍 Culture
-  - 🌊 Adventure
   - 🛫 Flight
   - 📖 Articles
 haiku: |

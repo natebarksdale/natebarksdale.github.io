@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-14T21:17:48Z
 title: Mix CD | Kansastic!
 slug: mix-cd-kansastic
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: Celebrating the spirit of Kansas, inspired by my friends Jonathan and Robyn's move to western Kansas in 2007.
 emoji: 🌾
 tags:
-  - 🇰🇷 South Koreas
-  - 🌍 Kansas
   - 🎵 Music
   - 🌆 Cities
   - 📝 Writing

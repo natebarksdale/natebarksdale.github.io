@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-19
-modDatetime: 2010-03-19
+modDatetime: 2025-03-14T21:18:06Z
 title: Flinty and grassy with finesse and subtlety
 slug: flinty-and-grassy-with-finesse-and-subtlety
 featured: false
@@ -11,9 +11,7 @@ emoji: 🌱
 tags:
   - 🌍 Culture
   - 🌱 Sustainability
-  - 🍽️ Hospitality
   - 🌾 Agriculture
-  - ✨ Grace
 haiku: |
   Smell of the earth calls,  
   Flavors in the soil linger,  

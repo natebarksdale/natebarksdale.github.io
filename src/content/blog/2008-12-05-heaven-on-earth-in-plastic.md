@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2008-12-05
+modDatetime: 2025-03-14T21:17:57Z
 title: Heaven on earth in plastic
 slug: heaven-on-earth-in-plastic
 featured: false
@@ -10,10 +10,7 @@ description: A curious find at a café connects the practical to the eternal.
 emoji: 👜
 tags:
   - 🌍 Culture
-  - 💡 Ideas
-  - 🌌 Fantasy
   - 🗺️ States
-  - 🗽 New York
 haiku: |
   Business card holder,  
   Left by hands that heal and soothe,  

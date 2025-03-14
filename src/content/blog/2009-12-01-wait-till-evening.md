@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:04Z
 title: Wait till evening
 slug: wait-till-evening
 featured: false
@@ -10,7 +10,6 @@ description: A contemplative reflection by Henry David Thoreau on understanding 
 emoji: 🌾
 tags:
   - 🌅 Reflection
-  - 🌈 Hope
   - 📖 Quotes
   - 🌍 Society
 haiku: |

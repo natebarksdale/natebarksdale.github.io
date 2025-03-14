@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2008-09-17
+modDatetime: 2025-03-14T21:17:53Z
 title: Almost a mantra
 slug: almost-a-mantra
 featured: false
@@ -10,8 +10,6 @@ description: A reflection on the essentials of life, emphasizing love, community
 emoji: ❤️
 tags:
   - ❤️ Love
-  - 🏡 Refugees
-  - 🧠 Knowledge
   - ⚖️ Choices
 haiku: |
   Love and hope unite,  

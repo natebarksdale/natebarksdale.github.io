@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-24
-modDatetime: 2010-11-24
+modDatetime: 2025-03-14T21:18:08Z
 title: Snippets of recognition
 slug: snippets-of-recognition
 featured: false
@@ -10,7 +10,6 @@ description: It's intriguing how quickly we form opinions based on brief experie
 emoji: 🎶
 tags:
   - 🎵 Music
-  - 🤔 Curiosity
   - ⚖️ Choices
   - ⚖️ Ethics
 haiku: |

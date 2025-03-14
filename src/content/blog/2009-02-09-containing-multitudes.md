@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:59Z
 title: Containing multitudes
 slug: containing-multitudes
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - ✍️ Literature
   - 🌍 Culture
-  - 🤔 Philosophy
   - ⚖️ Choices
 haiku: |
   Voices intertwine,  

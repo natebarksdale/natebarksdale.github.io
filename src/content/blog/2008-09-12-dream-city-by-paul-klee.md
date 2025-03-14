@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-12
-modDatetime: 2008-09-12
+modDatetime: 2025-03-14T21:17:53Z
 title: Dream City, by Paul Klee
 slug: dream-city-by-paul-klee
 featured: false
@@ -10,7 +10,6 @@ description: Reflecting on Klee's vision of a timeless cityscape.
 emoji: 🏙️
 tags:
   - 🌆 Cities
-  - 🌌 Fantasy
   - 🎨 Art
   - 🌍 Culture
   - 🇮🇹 Italy

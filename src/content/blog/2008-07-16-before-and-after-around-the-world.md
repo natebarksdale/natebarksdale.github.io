@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-14T14:53:28Z
+modDatetime: 2025-03-14T21:17:49Z
 title: Before and after, around the world
 slug: before-and-after-around-the-world
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on humanity's impact on the environment through changi
 emoji: 🌍
 tags:
   - 🌍 Environment
-  - 🌲 Forests
   - ⚙️ Technology
   - 🌆 Cities
 haiku: |

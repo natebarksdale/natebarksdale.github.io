@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2008-07-14
+modDatetime: 2025-03-14T21:17:49Z
 title: Room to Read
 slug: room-to-read
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ❤️ Charity
   - 📖 Books
   - 🌱 Sustainability
-  - 💰 Poverty
 haiku: |
   Schools built with purpose,  
   Pages in every language,  

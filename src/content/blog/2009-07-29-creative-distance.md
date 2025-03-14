@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-29
-modDatetime: 2009-07-29
+modDatetime: 2025-03-14T21:18:02Z
 title: Creative distance
 slug: creative-distance
 featured: false
@@ -10,8 +10,6 @@ description: Exploring how psychological distance can enhance creativity reveals
 emoji: 🌌
 tags:
   - 🌀 Complexity
-  - 💡 Ideas
-  - 🧠 Knowledge
   - ♻️ Repurposing
 haiku: |
   Step back to reflect,  

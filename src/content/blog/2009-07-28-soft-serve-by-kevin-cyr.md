@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-28
-modDatetime: 2009-07-28
+modDatetime: 2025-03-14T21:18:02Z
 title: Soft Serve, by Kevin Cyr
 slug: soft-serve-by-kevin-cyr
 featured: false
@@ -9,10 +9,8 @@ draft: false
 description: It's a hot afternoon in Portland, and I could really go for one of these right now.
 emoji: 🍦
 tags:
-  - 🌊 Adventure
   - 🎨 Art
   - 📖 Articles
-  - 📚 Education
 haiku: |
   Ice cream on the go,  
   Portland's heat calls for a treat,  

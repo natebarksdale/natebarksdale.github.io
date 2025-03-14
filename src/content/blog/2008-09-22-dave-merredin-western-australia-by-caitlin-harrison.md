@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2008-09-22
+modDatetime: 2025-03-14T21:17:53Z
 title: Dave, Merredin, Western Australia, by Caitlin Harrison
 slug: dave-merredin-western-australia-by-caitlin-harrison
 featured: false
@@ -12,8 +12,6 @@ tags:
   - 🇦🇺 Australia
   - 🌳 Landscapes
   - 🌍 Culture
-  - 🏡 Refugees
-  - 📷 Photography
 haiku: |
   Inside warmth beckons,  
   Kitchen frames the wild expanse,  

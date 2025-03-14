@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2008-12-05
+modDatetime: 2025-03-14T21:17:57Z
 title: Network ≠ community
 slug: network-community
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 🌀 Complexity
   - 💬 Communication
-  - 📝 Journalism
 haiku: |
   Algorithms filter,  
   Our choices narrow, yet wide—  

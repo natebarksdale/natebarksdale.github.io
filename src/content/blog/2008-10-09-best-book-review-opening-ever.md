@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2008-10-09
+modDatetime: 2025-03-14T21:17:54Z
 title: Best book review opening ever
 slug: best-book-review-opening-ever
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Literature
   - 📖 Books
   - 📝 Writing
-  - 🤔 Curiosity
   - 🌍 Culture
 haiku: |
   Pages hold a scent,  

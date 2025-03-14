@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-12
-modDatetime: 2010-05-12
+modDatetime: 2025-03-14T21:18:07Z
 title: Migrant family, photo by Dorthea Lange
 slug: migrant-family-photo-by-dorthea-lange
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🎨 Aesthetics
   - 🌍 Society
-  - 🏡 Refugees
 haiku: |
   In camp, songs emerge,  
   Dust bowl dreams in hands of youth,  

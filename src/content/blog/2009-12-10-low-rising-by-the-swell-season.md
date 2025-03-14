@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-10
-modDatetime: 2009-12-10
+modDatetime: 2025-03-14T21:18:04Z
 title: Low Rising, by The Swell Season
 slug: low-rising-by-the-swell-season
 featured: false
@@ -10,7 +10,6 @@ description: Glen Hansard and Markéta Irglová explore the blend of joy and sor
 emoji: 🌦️
 tags:
   - ✨ Beauty
-  - ❤️ Relationships
   - 📝 Writing
   - 🌍 Culture
 haiku: |

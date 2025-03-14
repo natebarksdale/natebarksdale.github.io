@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-25
-modDatetime: 2010-11-25
+modDatetime: 2025-03-14T21:18:08Z
 title: Powerlessness and shopping
 slug: powerlessness-and-shopping
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the interplay of powerlessness and consumer behavior, thi
 emoji: 💰
 tags:
   - 💰 Commerce
-  - 💰 Money
   - 🧠 Psychology
   - 🗳️ Politics
 haiku: |

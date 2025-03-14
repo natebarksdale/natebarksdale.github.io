@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-26
-modDatetime: 2008-09-26
+modDatetime: 2025-03-14T21:17:53Z
 title: Cancer study fail
 slug: cancer-study-fail
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚖️ Ethics
   - ⚖️ Law
   - 🔄 Commitment
-  - 📝 Journalism
 haiku: |
   Trials lost in silence,  
   Knowledge buried in shadows,  

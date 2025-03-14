@@ -13,7 +13,6 @@ tags:
   - 🌆 Cities
   - 🌐 Blogging
   - 📖 Articles
-  - 📱 Mobile Phones
 haiku: |
   Explore the past  
   With tours that guide the way  

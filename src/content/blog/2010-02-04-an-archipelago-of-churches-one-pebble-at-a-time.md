@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-04
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:05Z
 title: An archipelago of churches, one pebble at a time
 slug: an-archipelago-of-churches-one-pebble-at-a-time
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⛪ Religion
   - 🌍 Culture
   - 🌍 History
-  - 🌊 Adventure
 haiku: |
   Stones by the sunset  
   Faith builds new land on waves  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2008-08-19
+modDatetime: 2025-03-14T21:17:51Z
 title: Whiskey Devil, decor crew, Burning Man Center Camp
 slug: whiskey-devil-decor-crew-burning-man-center-camp
 featured: false
@@ -11,7 +11,6 @@ emoji: 🔥
 tags:
   - ♻️ Repurposing
   - 🌍 Culture
-  - 🎉 Festivals
 haiku: |
   Desert dreams ignite,  
   Mini-Burns alight with hope,  

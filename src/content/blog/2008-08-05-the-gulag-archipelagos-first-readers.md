@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2008-08-05
+modDatetime: 2025-03-14T21:17:50Z
 title: The Gulag Archipelago’s first readers
 slug: the-gulag-archipelagos-first-readers
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 📖 Books
   - 🌍 History
   - 🔄 Repetition
-  - 🤔 Curiosity
 haiku: |
   Ink on fragile page,  
   Stories of pain shared in dusk,  

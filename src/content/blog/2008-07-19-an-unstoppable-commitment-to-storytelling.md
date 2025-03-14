@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2008-07-19
+modDatetime: 2025-03-14T21:17:49Z
 title: An unstoppable commitment to storytelling
 slug: an-unstoppable-commitment-to-storytelling
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✍️ Literature
   - 🌍 Culture
   - 🌍 Storytelling
-  - 💡 Ideas
   - 😊 Joy
 haiku: |
   Pages full of dreams,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-21
-modDatetime: 2009-04-21
+modDatetime: 2025-03-14T21:18:00Z
 title: To arrr is human
 slug: to-arrr-is-human
 featured: false
@@ -11,7 +11,6 @@ emoji: 🏴‍☠️
 tags:
   - 🌍 Society
   - ⚖️ Ethics
-  - 🌊 Adventure
 haiku: |
   Boundless ocean's edge,  
   Rebels dance with chance and fate,  

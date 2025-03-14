@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2012-01-14
+modDatetime: 2025-03-14T21:18:09Z
 title: fictional landscape, by Kyle Kirkpatrick
 slug: fictional-landscape-by-kyle-kirkpatrick
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎨 Art
   - 📖 Books
   - 🌍 Culture
-  - 🌌 Fantasy
 haiku: |
   Pages carved with care,  
   Layers shaped like hills and woods,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-14T21:17:51Z
 title: The problem with critique as a posture
 slug: the-problem-with-critique-as-a-posture
 featured: false
@@ -10,10 +10,8 @@ description: An insightful critique on the challenges of cultural engagement and
 emoji: 🧐
 tags:
   - 📝 Writing
-  - 🤔 Philosophy
   - 🌍 Culture
   - ⚖️ Ethics
-  - 👥 Generations
 haiku: |
   Critique whispers loud,  
   Missing joy in moments,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2008-12-09
+modDatetime: 2025-03-14T21:17:57Z
 title: Spiritual Shopper
 slug: spiritual-shopper
 featured: false
@@ -10,7 +10,6 @@ description: Kathleen Norris discusses the modern mishmash of religious experien
 emoji: 🌀
 tags:
   - ⛪ Religion
-  - ✝️ Spirituality
   - ✡️ Judaism
   - 🙏 Faith
   - 🌍 Culture

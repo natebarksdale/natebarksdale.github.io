@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-20
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-14T21:18:07Z
 title: The polychromatic Middle Ages
 slug: the-polychromatic-middle-ages
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - 📖 Books
   - 🌌 Dystopias
-  - 🌌 Fantasy
 haiku: |
   Colors in the past,  
   Patterns weave through time and style,  

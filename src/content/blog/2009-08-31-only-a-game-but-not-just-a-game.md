@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-31
-modDatetime: 2009-08-31
+modDatetime: 2025-03-14T21:18:03Z
 title: Only a game, but not just a game
 slug: only-a-game-but-not-just-a-game
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A thoughtful reflection on the complexities of life mirrored in the nuances of test match cricket.
 emoji: 🏏
 tags:
-  - 🏏 Cricket
   - 🎭 Tragedy
   - 🌍 Society
   - 🌍 Culture

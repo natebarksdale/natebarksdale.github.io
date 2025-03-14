@@ -9,7 +9,6 @@ draft: False
 description: An exploration of the recognition and preservation of unique European letters on the internet, including the Eszett in Germany.
 emoji: 🇩🇪
 tags:
-  - 🅰️ Alphabets
   - 🌍 Globalization
   - 🗣️ Words
   - 🔍 Discoveries

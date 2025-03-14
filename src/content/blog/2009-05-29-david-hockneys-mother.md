@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-29
-modDatetime: 2009-05-29
+modDatetime: 2025-03-14T21:18:01Z
 title: David Hockney’s mother
 slug: david-hockneys-mother
 featured: false
@@ -10,7 +10,6 @@ description: Reflecting on the depth captured in art, David Hockney explores tim
 emoji: 🖼️
 tags:
   - 📖 Articles
-  - 📷 Photography
   - 🎨 Art
   - ⏰ Time
   - 📉 Addiction

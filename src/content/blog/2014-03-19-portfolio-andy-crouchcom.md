@@ -12,7 +12,6 @@ tags:
   - 🌐 Blogging
   - 🌐 Digital
   - 📖 Articles
-  - 📚 Education
   - 📝 Writing
 haiku: |
   Words that inspire thought,  

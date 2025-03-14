@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-14T21:17:58Z
 title: Suggesting unsuggestions
 slug: suggesting-unsuggestions
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Culture
   - ⚙️ Technology
   - 📝 Writing
-  - 🤔 Curiosity
 haiku: |
   Read beyond your scope,  
   Find joy in the unknown paths,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2008-08-27
+modDatetime: 2025-03-14T21:17:52Z
 title: Keep noticing!
 slug: keep-noticing
 featured: false
@@ -11,9 +11,7 @@ emoji: 👁️
 tags:
   - 🌍 Culture
   - 🌍 Society
-  - 💡 Ideas
   - 📝 Writing
-  - 📖 Reading
 haiku: |
   Small details emerge,  
   Eyes wide to the world around,  

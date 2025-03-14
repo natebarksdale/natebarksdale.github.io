@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2025-03-10T19:38:38Z
+modDatetime: 2025-03-14T21:18:05Z
 title: Bad News for Wood Boats
 slug: bad-news-for-wood-boats
 featured: false
@@ -10,7 +10,6 @@ description: The shipworm, a clam with destructive potential, is now encroaching
 emoji: 🐚
 tags:
   - 🌍 Environment
-  - 🔬 Science
   - 📖 Articles
 haiku: |
   In waters so deep,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2008-07-24
+modDatetime: 2025-03-14T21:17:50Z
 title: Einstein’s day job
 slug: einsteins-day-job
 featured: false
@@ -10,9 +10,7 @@ description: Exploring how Einstein's work at the patent office intertwined with
 emoji: ⏰
 tags:
   - ⏰ Time
-  - 💡 Ideas
   - 🌍 History
-  - 🤔 Curiosity
   - ⚙️ Engineering
 haiku: |
   In clocks he found truth,  

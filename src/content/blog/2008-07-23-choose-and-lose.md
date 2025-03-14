@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-23
-modDatetime: 2008-07-23
+modDatetime: 2025-03-14T21:17:50Z
 title: Choose and lose
 slug: choose-and-lose
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚖️ Choices
   - ⚖️ Ethics
   - 🌀 Complexity
-  - 💡 Ideas
   - 🔍 Uncertainty
 haiku: |
   Decisions weigh heavy,  

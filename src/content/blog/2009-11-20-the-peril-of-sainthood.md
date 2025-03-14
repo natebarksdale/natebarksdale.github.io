@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-20
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-14T21:18:04Z
 title: The peril of sainthood
 slug: the-peril-of-sainthood
 featured: false
@@ -10,7 +10,6 @@ description: A powerful reminder that complexity lies behind our identities, as 
 emoji: 🙅‍♀️
 tags:
   - ✍️ Literature
-  - ✝️ Spirituality
   - ⚖️ Ethics
   - ❤️ Kindness
 haiku: |

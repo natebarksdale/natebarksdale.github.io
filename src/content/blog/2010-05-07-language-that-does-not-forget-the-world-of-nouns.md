@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-07
-modDatetime: 2010-05-07
+modDatetime: 2025-03-14T21:18:07Z
 title: Language that does not forget the world of nouns
 slug: language-that-does-not-forget-the-world-of-nouns
 featured: false
@@ -12,8 +12,6 @@ tags:
   - ✍️ Literature
   - 📝 Writing
   - 🌍 Society
-  - 💻 Self-Help
-  - 📖 Reading
 haiku: |
   In words we find truth,  
   A battle for focus lost,  

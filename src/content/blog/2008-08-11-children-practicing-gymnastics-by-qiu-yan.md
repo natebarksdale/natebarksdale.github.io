@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2008-08-11
+modDatetime: 2025-03-14T21:17:51Z
 title: Children practicing gymnastics, by Qiu Yan
 slug: children-practicing-gymnastics-by-qiu-yan
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the new culture that emerges as children train for the Ol
 emoji: 🤸
 tags:
   - 🇨🇳 China
-  - 🏅 Sports
   - 🥇 Olympics
   - 🌍 Culture
   - 🎭 Entertainment

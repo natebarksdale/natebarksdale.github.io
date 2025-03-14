@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-30
-modDatetime: 2009-10-30
+modDatetime: 2025-03-14T21:18:04Z
 title: One thing that’s dangerous for an artist
 slug: one-thing-thats-dangerous-for-an-artist
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ⚠️ Danger
   - ⚖️ Choices
   - 💬 Communication
-  - 🤔 Curiosity
 haiku: |
   Freedom can mislead,  
   Inspiration waits too long,  

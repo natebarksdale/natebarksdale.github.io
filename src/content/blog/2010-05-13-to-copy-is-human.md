@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-13
-modDatetime: 2010-05-13
+modDatetime: 2025-03-14T21:18:07Z
 title: To copy is human
 slug: to-copy-is-human
 featured: false
@@ -11,9 +11,7 @@ emoji: 🧒
 tags:
   - 🌍 Culture
   - 👦 Imagination
-  - 👥 Generations
   - 🧠 Psychology
-  - 🧠 Knowledge
 haiku: |
   Children mimic all,  
   Every step, the dance of life,  

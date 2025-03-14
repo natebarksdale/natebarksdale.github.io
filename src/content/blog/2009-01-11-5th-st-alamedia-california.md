@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-11
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-14T21:17:58Z
 title: 5th St., Alamedia, California
 slug: 5th-st-alamedia-california
 featured: false
@@ -10,7 +10,6 @@ description: I can't help but appreciate the charming blend of mission style and
 emoji: 🏡
 tags:
   - 🏛️ Architecture
-  - 🌆 Neighborhoods
   - 🎨 Aesthetics
   - 🌍 Culture
 haiku: |

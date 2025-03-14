@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-16
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:01Z
 title: Making makes you care
 slug: making-makes-you-care
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - ✍️ Literature
   - ✨ Beauty
-  - ❤️ Relationships
 haiku: |
   Hands mold the essence,  
   In crafting, we find our tone,  

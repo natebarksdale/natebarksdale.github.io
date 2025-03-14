@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-29
-modDatetime: 2009-04-29
+modDatetime: 2025-03-14T21:18:01Z
 title: Real simple
 slug: real-simple
 featured: false
@@ -9,10 +9,6 @@ draft: false
 description: Exploring Wendell Berry's thoughts on complexity and simplicity reveals the deeper connections we must navigate in life.
 emoji: 🌱
 tags:
-  - 🌱 Simplicity
-  - ✨ Grace
-  - ❤️ Relationships
-  - 🤔 Philosophy
 haiku: |
   Complexity thrives,  
   Unity’s gentle embrace,  

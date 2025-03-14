@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-17
-modDatetime: 2009-04-17
+modDatetime: 2025-03-14T21:18:00Z
 title: The slightly universal language?
 slug: the-slightly-universal-language
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 🌍 Culture
   - 🎶 Activities
-  - 🤔 Curiosity
 haiku: |
   Sounds from distant lands,  
   Speak where words fall short and fade,  

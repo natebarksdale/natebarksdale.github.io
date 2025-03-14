@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-14T21:17:58Z
 title: The problem is, where I should be horrified I think, hey, cool!
 slug: the-problem-is-where-i-should-be-horrified-i-think-hey-cool
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A look into sustainable timber harvesting and innovative machinery in rainforest conservation.
 emoji: 🌳
 tags:
-  - 🌲 Forests
   - 🌳 Landscapes
   - ⚙️ Engineering
   - ♻️ Repurposing

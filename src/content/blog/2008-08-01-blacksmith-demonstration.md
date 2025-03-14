@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2008-08-01
+modDatetime: 2025-03-14T21:17:50Z
 title: Blacksmith demonstration
 slug: blacksmith-demonstration
 featured: false
@@ -10,9 +10,7 @@ description: I appreciate the tension between violence and artful precision in t
 emoji: ⚒️
 tags:
   - ⚒️ Blacksmiths
-  - ✨ Grace
   - 🌀 Complexity
-  - 📷 Photography
 haiku: |
   Forged in fire's glow,  
   Boundaries shaped with purpose,  

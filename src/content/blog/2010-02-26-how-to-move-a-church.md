@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-26
-modDatetime: 2010-02-26
+modDatetime: 2025-03-14T21:18:05Z
 title: How to move a church
 slug: how-to-move-a-church
 featured: false
@@ -11,7 +11,6 @@ emoji: ⛪
 tags:
   - ⛪ Religion
   - 🌆 Utopia
-  - 🎥 Documentaries
 haiku: |
   Ancient walls mov'd slow,  
   Timber shakes in strange twilight,  

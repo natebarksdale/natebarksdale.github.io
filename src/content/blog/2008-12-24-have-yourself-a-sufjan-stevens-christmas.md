@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-24
-modDatetime: 2008-12-24
+modDatetime: 2025-03-14T21:17:57Z
 title: Have yourself a Sufjan Stevens Christmas
 slug: have-yourself-a-sufjan-stevens-christmas
 featured: false
@@ -9,8 +9,6 @@ draft: false
 description: My favorite songs on Sufjan Steven's 5-disc album, "Songs for Christmas Singalong," beautifully blend hymns with a touch of Christmas spirit.
 emoji: 🎶
 tags:
-  - ✝️ Spirituality
-  - 🎄 Holidays
   - 🎤 Performances
   - 🎶 Activities
 haiku: |

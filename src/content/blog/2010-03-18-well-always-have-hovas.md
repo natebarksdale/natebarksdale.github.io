@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-18
-modDatetime: 2010-03-18
+modDatetime: 2025-03-14T21:18:06Z
 title: We’ll always have HOVÅS
 slug: well-always-have-hovas
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: Here's a clever mix of comfort and creativity in urban space with IKEA's ad campaign in the Paris Metro.
 emoji: 🛋️
 tags:
-  - 🎨 Advertising
   - 🇫🇷 France
-  - 💡 Ideas
   - 🛋️ Furniture
 haiku: |
   Sofas on the train,  

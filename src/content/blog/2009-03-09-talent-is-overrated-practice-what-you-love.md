@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-09
-modDatetime: 2009-03-09
+modDatetime: 2025-03-14T21:17:59Z
 title: Talent is overrated, practice what you love
 slug: talent-is-overrated-practice-what-you-love
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of the role of practice and passion in developing ta
 emoji: 🎶
 tags:
   - 🗣️ Language
-  - 💡 Ideas
   - 💪 Difficulty
   - ⚖️ Choices
   - 🌍 Culture

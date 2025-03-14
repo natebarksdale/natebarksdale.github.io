@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-10
-modDatetime: 2009-04-10
+modDatetime: 2025-03-14T21:18:00Z
 title: Comforts and delights
 slug: comforts-and-delights
 featured: false
@@ -11,9 +11,6 @@ emoji: 📖
 tags:
   - 🌍 Culture
   - 📖 Articles
-  - 📝 Journalism
-  - 🧠 Knowledge
-  - 🤝 Connections
 haiku: |
   Curator's delight,  
   Words bridging cultures wide,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-11
-modDatetime: 2009-03-11
+modDatetime: 2025-03-14T21:17:59Z
 title: Less is more
 slug: less-is-more
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on how limiting technology can boost creativity, with 
 emoji: 📺
 tags:
   - 🌐 Digital
-  - 🌱 Simplicity
   - 💡 Innovation
   - 💬 Communication
   - 🔄 Repetition

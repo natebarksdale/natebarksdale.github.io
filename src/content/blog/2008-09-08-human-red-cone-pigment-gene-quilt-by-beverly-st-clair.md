@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-08
-modDatetime: 2008-09-08
+modDatetime: 2025-03-14T21:17:53Z
 title: Human red cone pigment gene quilt, by Beverly St. Clair
 slug: human-red-cone-pigment-gene-quilt-by-beverly-st-clair
 featured: false
@@ -10,7 +10,6 @@ description: A unique blend of art and science, this quilt explores the intricac
 emoji: 🧬
 tags:
   - 🎨 Art
-  - 📚 Education
   - ✨ Beauty
   - 🖼️ Artifacts
 haiku: |

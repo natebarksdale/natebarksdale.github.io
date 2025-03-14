@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: Geography of longing
 slug: geography-of-longing
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Society
   - 🌍 Culture
   - 📍 Travel
-  - 📝 Journalism
   - 🌐 Blogging
 haiku: |
   In the city lights,  

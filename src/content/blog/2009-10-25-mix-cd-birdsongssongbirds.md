@@ -12,7 +12,6 @@ tags:
   - 🌍 Ecology
   - 🎶 Activities
   - 🎵 Music
-  - 🐦 Birds
 haiku: |
   Melodies of flight,  
   Nature's voices resonate,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2008-09-05
+modDatetime: 2025-03-14T21:17:52Z
 title: Your neighbor must be everyone
 slug: your-neighbor-must-be-everyone
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⚖️ Law
   - ⛪ Religion
   - ❤️ Kindness
-  - 🙏 Humanity
 haiku: |
   Behind bars he learns,  
   Inmate's plight, a sheriff's hope,  

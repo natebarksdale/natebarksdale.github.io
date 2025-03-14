@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2008-09-13
+modDatetime: 2025-03-14T21:17:53Z
 title: The practice of practicing
 slug: the-practice-of-practicing
 featured: false
@@ -10,7 +10,6 @@ description: From Mark Slutsky, a reflection on rekindling a childhood dream of 
 emoji: 🎹
 tags:
   - 🎶 Activities
-  - 💡 Ideas
 haiku: |
   Dreams of piano,  
   Scales played with weary hands,  

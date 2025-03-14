@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2008-08-08
+modDatetime: 2025-03-14T21:17:51Z
 title: The real thing?
 slug: the-real-thing
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ♻️ Repurposing
   - 🌍 Development
   - ❤️ Charity
-  - 🌊 Adventure
   - 💼 Business
 haiku: |
   Coca-Cola's reach,  

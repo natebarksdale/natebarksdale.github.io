@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-14T21:17:49Z
 title: The Largest Human-Made Art on Earth
 slug: the-largest-human-made-art-on-earth
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of Jim Denevan's massive ephemeral art, where creati
 emoji: 🌄
 tags:
   - 🌍 Environment
-  - 🌊 Adventure
   - ✨ Beauty
   - 🔄 Commitment
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2008-09-22
+modDatetime: 2025-03-14T21:17:53Z
 title: The omnivore’s daughter’s dilemma
 slug: the-omnivores-daughters-dilemma
 featured: false
@@ -11,7 +11,6 @@ emoji: 🛒
 tags:
   - 🌍 Culture
   - 🏪 Markets
-  - 🏡 Refugees
   - ❤️ Kindness
 haiku: |
   Shelves filled with colors,  

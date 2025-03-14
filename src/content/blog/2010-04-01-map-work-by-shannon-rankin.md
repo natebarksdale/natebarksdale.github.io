@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-01
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-14T21:18:06Z
 title: Map work by Shannon Rankin
 slug: map-work-by-shannon-rankin
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌍 Cartography
   - 🎨 Art
   - 🌍 Culture
-  - 💡 Ideas
 haiku: |
   Maps cut and reformed,  
   New worlds emerge from the scraps,  

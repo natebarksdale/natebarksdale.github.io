@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-28
-modDatetime: 2010-06-28
+modDatetime: 2025-03-14T21:18:08Z
 title: Salvaje de Corazon
 slug: salvaje-de-corazon
 featured: false
@@ -11,9 +11,7 @@ emoji: 📚
 tags:
   - ⚔️ Enemies
   - 🌀 Complexity
-  - 🇲🇽 Mexico
   - ✝️ Christianity
-  - 📝 Journalism
 haiku: |
   Words inspire shadows,  
   Echoes of the wild heart,  

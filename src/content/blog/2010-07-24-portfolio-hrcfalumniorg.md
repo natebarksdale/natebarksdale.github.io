@@ -10,7 +10,6 @@ description: I shared my experience redesigning the HRCF Alumni website to suppo
 emoji: 🎨
 tags:
   - 🌐 Blogging
-  - 👔 Fashion
   - 🖊️ Editing
   - 📖 Articles
   - 💡 Design

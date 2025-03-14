@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-10
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-14T21:18:03Z
 title: Butterfly in the sky, I could go twice as high
 slug: butterfly-in-the-sky-i-could-go-twice-as-high
 featured: false
@@ -11,7 +11,6 @@ emoji: 📚
 tags:
   - ✍️ Literature
   - 💿 Nostalgia
-  - 🌈 Hope
 haiku: |
   Reading sparks joy deep,  
   Love for books blooms in hearts,  

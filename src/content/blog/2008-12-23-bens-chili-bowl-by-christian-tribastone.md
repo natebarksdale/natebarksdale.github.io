@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-23
-modDatetime: 2008-12-23
+modDatetime: 2025-03-14T21:17:57Z
 title: Ben’s Chili Bowl, by Christian Tribastone
 slug: bens-chili-bowl-by-christian-tribastone
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: I was drawn to this charming painting of the iconic D.C. eatery, Ben's Chili Bowl, which holds a special place in the history of U Street's vibrant cultural scene.
 emoji: 🌭
 tags:
-  - 🌆 Neighborhoods
   - 🇺🇸 United States
   - 🎨 Art
   - 🌍 Culture

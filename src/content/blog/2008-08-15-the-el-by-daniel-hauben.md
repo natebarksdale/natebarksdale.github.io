@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-15
-modDatetime: 2008-08-15
+modDatetime: 2025-03-14T21:17:51Z
 title: The El, by Daniel Hauben
 slug: the-el-by-daniel-hauben
 featured: false
@@ -11,8 +11,6 @@ emoji: 🟡
 tags:
   - 🌆 Cities
   - 🎨 Art
-  - 🏙️ Landmarks
-  - 🗽 New York
 haiku: |
   Vibrant colors shine,  
   A neighborhood reflected,  

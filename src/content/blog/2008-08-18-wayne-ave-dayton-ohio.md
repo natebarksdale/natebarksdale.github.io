@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-18
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-14T21:17:51Z
 title: Wayne Ave., Dayton, Ohio
 slug: wayne-ave-dayton-ohio
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: An observation on the resilient charm of a Dayton neighborhood. "Much of the neighborhood around Wayne Street and Xenia Ave. seems down on its heels -- lots of boarded-up doors and windows -- but I liked both the remaining (and reasonably maintained) Victorian detail on this pair of houses, and the added patriotic bunting, which both fits in with the architecture and adds an ephemeral touch, a reminder that people are actively caring for this place."
 emoji: 🏚️
 tags:
-  - 🏚️ Decay
   - 🌍 Society
-  - ✨ Grace
 haiku: |
   Victorian whispers,  
   Buntings drape the weary walls,  

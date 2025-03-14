@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-17
-modDatetime: 2009-06-17
+modDatetime: 2025-03-14T21:18:01Z
 title: Fashion fasts and feasts
 slug: fashion-fasts-and-feasts
 featured: false
@@ -11,7 +11,6 @@ emoji: 👗
 tags:
   - 🌱 Sustainability
   - ❤️ Kindness
-  - 👔 Fashion
   - 🌍 Culture
 haiku: |
   One dress, seven ways,  

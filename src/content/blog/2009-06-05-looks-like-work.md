@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-05
-modDatetime: 2009-06-05
+modDatetime: 2025-03-14T21:18:01Z
 title: Looks like work
 slug: looks-like-work
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎥 Film
   - 🖋️ Commentary
   - 🌍 Society
-  - 💡 Ideas
   - 🌀 Complexity
 haiku: |
   Typing in silence,  

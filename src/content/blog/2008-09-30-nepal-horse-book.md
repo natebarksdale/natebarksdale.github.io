@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-30
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-14T21:17:53Z
 title: Nepal Horse Book
 slug: nepal-horse-book
 featured: false
@@ -9,9 +9,7 @@ draft: false
 description: Reflecting on the intriguing connection between horses and the remote valley of Mustang in Nepal.
 emoji: 🐴
 tags:
-  - 🐴 Horses
   - 📖 Books
-  - 🏞️ Ancestral Land
   - 🖼️ Artifacts
 haiku: |
   Valley of Mustang,  

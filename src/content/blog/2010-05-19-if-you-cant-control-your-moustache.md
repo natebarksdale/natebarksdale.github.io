@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-19
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-14T21:18:07Z
 title: If you can’t control your moustache ..
 slug: if-you-cant-control-your-moustache
 featured: false
@@ -11,7 +11,6 @@ emoji: 🍲
 tags:
   - 🌍 Culture
   - 🍲 Proverbs
-  - ❤️ Relationships
   - 📖 Quotes
 haiku: |
   Wisdom in the bowl,  

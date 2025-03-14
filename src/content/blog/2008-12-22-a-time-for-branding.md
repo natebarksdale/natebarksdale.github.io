@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2008-12-22
+modDatetime: 2025-03-14T21:17:57Z
 title: A time for branding
 slug: a-time-for-branding
 featured: false
@@ -13,7 +13,6 @@ tags:
   - ⏰ Time
   - 🎨 Art
   - 📖 Articles
-  - 📖 Reading
 haiku: |
   Brands through the ages,  
   Clocks mark the signs of our lives,  

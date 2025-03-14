@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2009-01-07
+modDatetime: 2025-03-14T21:17:58Z
 title: Growing up in Haiti, by Alice Smeets
 slug: growing-up-in-haiti-by-alice-smeets
 featured: false
@@ -10,7 +10,6 @@ description: A poignant reflection on the powerful photography of children in Ha
 emoji: 📸
 tags:
   - 🌍 Haiti
-  - 📷 Photography
   - ❤️ Kindness
   - ✍️ Literature
 haiku: |

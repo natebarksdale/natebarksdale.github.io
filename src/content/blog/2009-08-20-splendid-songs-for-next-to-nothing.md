@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-20
-modDatetime: 2009-08-20
+modDatetime: 2025-03-14T21:18:03Z
 title: Splendid songs for (next to) nothing
 slug: splendid-songs-for-next-to-nothing
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🎵 Music
   - 💵 Philanthropy
   - 🌐 Blogging
-  - 💻 Self-Help
   - 🌍 Culture
 haiku: |
   Echoes in the air,  

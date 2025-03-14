@@ -10,7 +10,6 @@ description: A reflection on the design process of my previous website version, 
 emoji: 🧩
 tags:
   - 🌐 Blogging
-  - 💻 Self-Help
   - 📝 Writing
   - 🎨 Creativity
   - 📖 Articles

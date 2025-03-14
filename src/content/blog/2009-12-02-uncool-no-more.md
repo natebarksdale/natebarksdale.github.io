@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-02
-modDatetime: 2009-12-02
+modDatetime: 2025-03-14T21:18:04Z
 title: Uncool no more
 slug: uncool-no-more
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🔥 Energy
   - 📝 Writing
-  - 💡 Ideas
 haiku: |
   In stylistic flux,  
   Old and new intertwine,  

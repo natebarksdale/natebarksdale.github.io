@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2008-08-05
+modDatetime: 2025-03-14T21:17:50Z
 title: Community kitchens in Lima, Peru
 slug: community-kitchens-in-lima-peru
 featured: false
@@ -10,7 +10,6 @@ description: Women in Peru unite through community kitchens, not only to feed th
 emoji: 🍲
 tags:
   - 🌍 Society
-  - 💡 Ideas
   - ❤️ Charity
   - 🍴 Cuisine
   - 🤝 Altruism

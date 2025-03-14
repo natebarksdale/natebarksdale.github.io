@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2008-11-27
+modDatetime: 2025-03-14T21:17:56Z
 title: Wild Turkey, by John James Audubon
 slug: wild-turkey-by-john-james-audubon
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: Audubon's art often required his subjects to be hunted first, illustrating a complex relationship between nature and preservation.
 emoji: 🦃
 tags:
-  - 🐦 Birds
   - 🌍 Environment
   - 🍗 Food
   - 🎨 Art

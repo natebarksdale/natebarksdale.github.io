@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2008-12-16
+modDatetime: 2025-03-14T21:17:57Z
 title: Texting in cuneiform
 slug: texting-in-cuneiform
 featured: false
@@ -10,8 +10,6 @@ description: Reflecting on the tactile experience of ancient cuneiform tablets, 
 emoji: 📜
 tags:
   - 🌍 Culture
-  - 💡 Ideas
-  - 📜 Folklore
   - 📝 Writing
 haiku: |
   Clay holds the whispers,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-14T21:17:56Z
 title: The Station Nigeria
 slug: the-station-nigeria
 featured: false
@@ -10,7 +10,6 @@ description: This popular Nigerian soap opera, funded by Search for Common Groun
 emoji: 📺
 tags:
   - 🌍 Society
-  - 📝 Journalism
   - 🎥 Film
   - 🤝 Collaboration
 haiku: |

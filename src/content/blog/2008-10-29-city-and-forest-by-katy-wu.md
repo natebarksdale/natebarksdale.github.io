@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-29
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:55Z
 title: City and Forest, by Katy Wu
 slug: city-and-forest-by-katy-wu
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🌍 Culture
   - 🌍 Environment
   - 🇯🇵 Japan
-  - 🌲 Parks
   - ✨ Beauty
 haiku: |
   Nature and city,  

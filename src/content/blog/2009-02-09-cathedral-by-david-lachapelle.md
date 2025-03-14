@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2009-02-09
+modDatetime: 2025-03-14T21:17:59Z
 title: Cathedral, by David LaChapelle
 slug: cathedral-by-david-lachapelle
 featured: false
@@ -11,7 +11,6 @@ emoji: ⛪
 tags:
   - 🎨 Art
   - 🕌 Monuments
-  - 🇲🇽 Mexico
   - 🌍 Culture
 haiku: |
   A nave like a ship,  

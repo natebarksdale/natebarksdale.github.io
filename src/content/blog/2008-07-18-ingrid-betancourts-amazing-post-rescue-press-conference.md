@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-14T21:17:49Z
 title: Ingrid Betancourt’s amazing post-rescue press conference
 slug: ingrid-betancourts-amazing-post-rescue-press-conference
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: A remarkable press conference delivered by a survivor of jungle captivity, reflecting on her emotional rescue experience. "The helicopter almost fell from the sky, because we were jumping, shouting, crying, embracing, we couldn't believe it. God has done a miracle for us -- and it's a miracle that I wanted to share with all of you, because all of you have suffered with my family, with my children, with me."
 emoji: 🙏
 tags:
-  - ❤️ Miracles
   - ⛪ Religion
 haiku: |
   Years in the shadows,  

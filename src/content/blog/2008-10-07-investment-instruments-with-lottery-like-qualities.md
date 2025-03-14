@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2008-10-07
+modDatetime: 2025-03-14T21:17:54Z
 title: Investment instruments with lottery-like qualities
 slug: investment-instruments-with-lottery-like-qualities
 featured: false
@@ -9,7 +9,6 @@ draft: false
 description: An exploration of the impact of lottery marketing on low-income individuals and potential alternatives.
 emoji: 🎲
 tags:
-  - 💰 Poverty
   - 🗳️ Politics
   - ⚖️ Choices
   - ⚖️ Ethics

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-03
-modDatetime: 2009-04-03
+modDatetime: 2025-03-14T21:18:00Z
 title: Computer bites newspaper, 1981 edition
 slug: computer-bites-newspaper-1981-edition
 featured: false
@@ -10,7 +10,6 @@ description: A retrospective look at a technology report predicting the future o
 emoji: 📡
 tags:
   - ⚙️ Technology
-  - 📝 Journalism
   - 📖 Articles
 haiku: |
   Predictions unfold,  

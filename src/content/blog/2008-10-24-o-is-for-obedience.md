@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-14T21:17:54Z
 title: O is for obedience
 slug: o-is-for-obedience
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of obedience as a creative act, inspired by a story 
 emoji: 🙇‍♂️
 tags:
   - ⛪ Religion
-  - ✍️ Manuscripts
   - ❤️ Love
   - 📝 Writing
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-27
-modDatetime: 2010-04-27
+modDatetime: 2025-03-14T21:18:06Z
 title: A cross-cultural color wheel
 slug: a-cross-cultural-color-wheel
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌈
 tags:
   - 🌍 Culture
   - ✨ Beauty
-  - 🌈 Hope
   - 🖼️ Artifacts
   - 📖 Discussions
 haiku: |

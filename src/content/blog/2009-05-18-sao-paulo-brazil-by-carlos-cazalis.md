@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-18
-modDatetime: 2009-05-18
+modDatetime: 2025-03-14T21:18:01Z
 title: São Paulo, Brazil, by Carlos Cazalis
 slug: sao-paulo-brazil-by-carlos-cazalis
 featured: false
@@ -11,7 +11,6 @@ emoji: 🐍
 tags:
   - 🌆 Urban Spaces
   - 🌍 Culture
-  - 📷 Photography
 haiku: |
   A giant worm sleeps,  
   Concrete winds through the bustling,  
