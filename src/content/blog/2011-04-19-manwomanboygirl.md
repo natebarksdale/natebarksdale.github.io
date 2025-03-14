@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-04-19
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-10 21:39:28+00:00
 title: Man/Woman/Boy/Girl
-slug: manwomanboygirl
-featured: false
-draft: false
+slug: man-woman-boy-girl
+featured: False
+draft: False
 description: Exploring the juxtaposition of creative discipline and artistic representation in a global context.
 emoji: 🌍
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Faces from afar,  
   Drawn with intent and haste,  
   Cultures intertwine.
+
 coordinates: [20.5937, 78.9629]
 ---
 

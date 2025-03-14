@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-10 18:29:14+00:00
 title: Tell-my-mom.com
-slug: tell-my-momcom
-featured: false
-draft: false
+slug: tell-my-mom-com
+featured: False
+draft: False
 description: This post explores an innovative approach to improving teen driving safety by utilizing feedback mechanisms similar to those used in fleet management. "By placing our How’s My Driving sticker on your car, other drivers now have an easy way to provide feedback about your teen’s driving..."
 emoji: 🚗
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Teens behind the wheel,  
   Feedback improves their skills,  
   Safety comes from love.
+
 coordinates: [37.7749, -122.4194]
 ---
 

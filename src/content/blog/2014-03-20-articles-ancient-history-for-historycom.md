@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-20
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-10 21:39:29+00:00
 title: Articles | Ancient History for History.com
-slug: articles-ancient-history-for-historycom
-featured: false
-draft: false
+slug: articles-ancient-history-for-history-com
+featured: False
+draft: False
 description: In 2012, I explored a range of fascinating topics related to ancient civilizations, covering the Greeks, Romans, Egyptians, and Near Eastern cultures. Each piece provides insight into their rich histories and lasting legacies.
 emoji: 🏛️
 tags:
@@ -16,7 +16,8 @@ haiku: |
   Ancient tales unfold,  
   Wisdom from Athens' mind,  
   Empires rise and fall.
-coordinates: [35.8910, 14.5203]
+
+coordinates: [35.891, 14.5203]
 ---
 
 [![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)

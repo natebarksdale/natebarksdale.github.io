@@ -69,11 +69,11 @@ coordinates: [40.7128, -74.0060]
 > But the larger point stands: the sources of slang, high and low, are not just tributaries to the great river of a common language--they _are_ language, right and proper in their contexts, used with all the gusto and rich human messiness that flowed forth from Babel. I understand the sticklers' complaint about certain words not being appropriate for certain contexts, or _just wrong_.**7** But the genius of the OED, as with all references that strive to be both authoritative and inclusive, is that it will, after proper consideration, take any widely-spoken and -printed comer, whatever the pedigree
 >
 > Put another way, with perhaps the most winsome wait-is-that-really-a-word of this month's OED crop: _New words for the dictionary? What's not to ♥?_
->
-> ---
->
-> **Notes** (with apologies)
->
+
+---
+
+**Notes** (with apologies)
+
 > 1 Not to be confused (as I did up until the writing of this very essay) with an acronym. The difference is mostly in whether you pronounce the letters individually: NATO is an acronym, UN is an initialism.
 >
 > 2 Which, by the way, they did.

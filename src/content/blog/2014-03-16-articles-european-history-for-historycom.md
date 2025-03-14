@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-16
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-10 21:39:28+00:00
 title: Articles | European History for History.com
-slug: articles-european-history-for-historycom
-featured: false
-draft: false
+slug: articles-european-history-for-history-com
+featured: False
+draft: False
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Kings and thinkers rise,  
   Knowledge sparks a great discourse,  
   Change across the lands.
+
 coordinates: [51.1657, 10.4515]
 ---
 

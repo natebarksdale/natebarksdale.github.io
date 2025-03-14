@@ -1,18 +1,21 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-11
-modDatetime: 2025-03-11T19:54:16Z
+modDatetime: 2025-03-11 19:54:16+00:00
 title: Blog Resurrection
 slug: blog-resurrection
-featured: true
-draft: false
+featured: True
+draft: False
 tags:
   - 🌐 Blogging
-description: Using LLMs to pull thousands of old blog posts back from a grave of
-  mangled database text and rotten links
+description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
+emoji: ✍️
+haiku: |
+  Old words find new home,
+  Past thoughts revived, take new breath,
+  Making culture bloom.
+coordinates: [51.509865, -0.118092]
 ---
-
-# Blog Resurrection
 
 ## When is the past worth saving, and how do we go about it it?
 

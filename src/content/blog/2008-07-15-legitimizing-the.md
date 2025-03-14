@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-10 18:29:12+00:00
 title: Legitimizing the ß
-slug: legitimizing-the
-featured: false
-draft: false
+slug: legitimizing-the-ss
+featured: False
+draft: False
 description: An exploration of the recognition and preservation of unique European letters on the internet, including the Eszett in Germany.
 emoji: 🇩🇪
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Eszett stands renewed,  
   Typographers rejoice now,  
   Identity preserved.
+
 coordinates: [51.1657, 10.4515]
 ---
 

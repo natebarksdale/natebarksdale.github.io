@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-10
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-10 18:29:20+00:00
 title: 日々の音色 (Hibi no neiro), video by SOUR and friends
-slug: hibi-no-neiro-video-by-sour-and-friends
-featured: false
-draft: false
+slug: ri-noyin-se-hibi-no-neiro-video-by-sour-and-friends
+featured: False
+draft: False
 description: Celebrate Friday with a unique blend of crowdsourced creativity and J-pop by SOUR, featuring fans from around the world.
 emoji: 🌍
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Fans from afar join,  
   Dancing with joy in each frame,  
   Global hearts unite.
+
 coordinates: [35.682839, 139.759455]
 ---
 

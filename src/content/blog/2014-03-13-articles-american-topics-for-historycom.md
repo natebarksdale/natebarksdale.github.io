@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-13
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-10 21:39:28+00:00
 title: Articles | American topics for History.com
-slug: articles-american-topics-for-historycom
-featured: false
-draft: false
+slug: articles-american-topics-for-history-com
+featured: False
+draft: False
 description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Battles fought and won,  
   Legends of the bold and great,  
   A nation's story.
+
 coordinates: [37.0902, -95.7129]
 ---
 

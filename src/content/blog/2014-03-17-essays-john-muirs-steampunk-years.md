@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-17
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-10 21:39:29+00:00
 title: Essays | John Muir's Steampunk Years
-slug: essays-john-muirs-steampunk-years
-featured: false
-draft: false
+slug: essays-john-muir-s-steampunk-years
+featured: False
+draft: False
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.
 emoji: 🔧
 tags:
@@ -18,6 +18,7 @@ haiku: |
   From sawmills he came,  
   Nature's heart he would defend,  
   Wilderness his home.
+
 coordinates: [43.0747, -89.3833]
 ---
 

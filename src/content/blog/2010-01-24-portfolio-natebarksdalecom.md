@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-10 21:39:27+00:00
 title: Portfolio | natebarksdale.com
-slug: portfolio-natebarksdalecom
-featured: false
-draft: false
+slug: portfolio-natebarksdale-com
+featured: False
+draft: False
 description: A reflection on the design process of my previous website version, inspired by my word search business card and utilizing the Moveable Type platform.
 emoji: 🧩
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Words in a puzzle,  
   From business card to web space,  
   Design interlaces.
+
 coordinates: [34.0522, -118.2437]
 ---
 

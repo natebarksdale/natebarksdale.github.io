@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-10-01
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-10 21:39:28+00:00
 title: Mix CD | NY/ROBI
-slug: mix-cd-nyrobi
-featured: false
-draft: false
+slug: mix-cd-ny-robi
+featured: False
+draft: False
 description: An exploration of the connections between Africa and New York through music, including a unique take on Babatunde Olatunji's "Akiwowo."
 emoji: 🎶
 tags:
@@ -16,7 +16,8 @@ haiku: |
   Beats from far away,  
   City lights and echoes blend,  
   Cultures intertwine.
-coordinates: [40.7128, -74.0060]
+
+coordinates: [40.7128, -74.006]
 ---
 
 #### Wimbo Zuri Catalog No. 054.1A10-1

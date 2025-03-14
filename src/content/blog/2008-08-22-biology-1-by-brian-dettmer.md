@@ -2,10 +2,10 @@
 author: Nate Barksdale
 pubDatetime: 2008-08-22
 modDatetime: 2008-08-22
-title: “Biology #1” by Brian Dettmer
-slug: biology-1-by-brian-dettmer
-featured: false
-draft: false
+title: “Biology
+slug: biology
+featured: False
+draft: False
 description: I find it fascinating to think about the hidden images and stories within the books on my shelves, much like Brian Dettmer's artwork.
 emoji: 📚
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Pages cut away,  
   Secrets held in silence,  
   Art from both worlds blooms.
+
 coordinates: [41.8781, -87.6298]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-25
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-10 21:39:27+00:00
 title: Mix CD | Birdsongs/Songbirds
-slug: mix-cd-birdsongssongbirds
-featured: false
-draft: false
+slug: mix-cd-birdsongs-songbirds
+featured: False
+draft: False
 description: A heartfelt gift for a passionate birdwatcher, this 60th birthday compilation includes 60 songs celebrating various bird species and offers a unique auditory experience of the avian world.
 emoji: 🐦
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Melodies of flight,  
   Nature's voices resonate,  
   Gift of wings and sound.
+
 coordinates: [37.7749, -119.4194]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-01
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-10 21:39:27+00:00
 title: Mix CD | The Mix Who Knew Too Much
 slug: mix-cd-the-mix-who-knew-too-much
-featured: false
-draft: false
+featured: False
+draft: False
 description: A creative exploration that challenges the balance between Alfred Hitchcock's cinematic themes and the musical landscape, while incorporating visual elements inspired by his iconic style.
 emoji: 🎥
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Shadows on the screen,  
   Twists and turns in every frame,  
   Susp
+coordinates: [51.509865, -0.118092]
 ---
 
 #### Wimbo Zuri Catalog No. 048.1A09-1

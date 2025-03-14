@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-07-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-10 21:39:27+00:00
 title: Portfolio | christytennant.com
-slug: portfolio-christytennantcom
-featured: false
-draft: false
+slug: portfolio-christytennant-com
+featured: False
+draft: False
 description: I recently created a vibrant WordPress banner and logotype for my friend Christy Tennant's website, showcasing her creative spirit.
 emoji: 🎨
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Fresh logo brings life,  
   Colors dance in harmony,  
   Artistry reflects.
+
 coordinates: [34.0522, -118.2437]
 ---
 

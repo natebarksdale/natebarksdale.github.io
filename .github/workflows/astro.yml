@@ -1,24 +1,19 @@
 # Sample workflow for building and deploying an Astro site to GitHub Pages
-name: Deploy Astro site to Pages
-
+name: Deploy Astro site to Pages with Metadata Enhancement
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
-
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
 env:
   BUILD_PATH: "."
   PUBLIC_MAPBOX_ACCESS_TOKEN: ${{ secrets.PUBLIC_MAPBOX_ACCESS_TOKEN }}
-
 jobs:
   build:
     name: Build
@@ -51,24 +46,45 @@ jobs:
           node-version: "20"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
           cache-dependency-path: ${{ env.BUILD_PATH }}/${{ steps.detect-package-manager.outputs.lockfile }}
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml python-slugify requests google-generativeai python-dotenv
+        working-directory: ${{ env.BUILD_PATH }}
+      - name: Enhance Blog Posts
+        run: python markdown-header-processor.py --directory src/content/blog
+        working-directory: ${{ env.BUILD_PATH }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add src/content/blog/*.md
+          git commit -m "Add AI-generated metadata to blog posts [skip ci]" || echo "No changes to commit"
+          git push
+        working-directory: ${{ env.BUILD_PATH }}
       - name: Build with Astro
         run: |
           echo "PUBLIC_MAPBOX_ACCESS_TOKEN=$PUBLIC_MAPBOX_ACCESS_TOKEN" >> $GITHUB_ENV
           ${{ steps.detect-package-manager.outputs.runner }} astro build \
-            --site "${{ steps.pages.outputs.origin }}" \
-            --base "${{ steps.pages.outputs.base_path }}"
+          --site "${{ steps.pages.outputs.origin }}" \
+          --base "${{ steps.pages.outputs.base_path }}"
         working-directory: ${{ env.BUILD_PATH }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ env.BUILD_PATH }}/dist
-
   deploy:
     environment:
       name: github-pages

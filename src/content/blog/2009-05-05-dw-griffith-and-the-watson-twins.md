@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2009-05-05
 modDatetime: 2009-05-05
 title: D.W. Griffith and the Watson Twins
-slug: dw-griffith-and-the-watson-twins
-featured: false
-draft: false
+slug: d-w-griffith-and-the-watson-twins
+featured: False
+draft: False
 description: I rented _Intolerance_ only to find a lackluster public domain cut, but I turned it into a unique experience with my own soundtrack.
 emoji: 🎥
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Silent echoes clash,  
   Griffith's vision revives life,  
   Modern tunes take flight.
+
 coordinates: [34.0522, -118.2437]
 ---
 

@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2009-07-24
 modDatetime: 2009-07-24
 title: The subtle clicks of N|uu
-slug: the-subtle-clicks-of-nuu
-featured: false
-draft: false
+slug: the-subtle-clicks-of-n-uu
+featured: False
+draft: False
 description: A fascinating exploration of endangered click languages and cutting-edge imaging technology.
 emoji: 🗣️
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Sounds of the ancients,  
   Captured in swift images,  
   Voices on the brink.
+
 coordinates: [-30.5595, 22.9375]
 ---
 

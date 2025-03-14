@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-10 18:29:18+00:00
 title: Adieu, S.U.V.’s
-slug: adieu-suvs
-featured: false
-draft: false
+slug: adieu-s-u-v-s
+featured: False
+draft: False
 description: An analysis of the cultural dynamics surrounding the decline of S.U.V. sales amidst fluctuating gas prices.
 emoji: 🚗
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Gas prices rise high,  
   S.U.V.s lose their allure,  
   Cool fades, wheels roll on.
+
 coordinates: [37.0902, -95.7129]
 ---
 

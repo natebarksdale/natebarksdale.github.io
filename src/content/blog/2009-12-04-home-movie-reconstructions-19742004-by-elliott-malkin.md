@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2009-12-04
 modDatetime: 2009-12-04
 title: Home Movie Reconstructions 1974/2004, by Elliott Malkin
-slug: home-movie-reconstructions-19742004-by-elliott-malkin
-featured: false
-draft: false
+slug: home-movie-reconstructions-1974-2004-by-elliott-malkin
+featured: False
+draft: False
 description: Elliott Malkin's "Family Movie" revisits 1970s Super 8 footage, merging past and present through shot-for-shot reenactments.
 emoji: 📽️
 tags:
@@ -18,7 +18,8 @@ haiku: |
   Echoes of the past,  
   Frames of laughter and stillness,  
   Time’s embrace revealed.
-coordinates: [40.7128, -74.0060]
+
+coordinates: [40.7128, -74.006]
 ---
 
 [![](http://culture-making.com/media/familymovies.jpg)](http://dziga.com/family/reconstructions/)  

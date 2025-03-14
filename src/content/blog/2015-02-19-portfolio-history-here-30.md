@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2015-02-19
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-10 21:39:29+00:00
 title: Portfolio | History Here 3.0
-slug: portfolio-history-here-30
-featured: false
-draft: false
+slug: portfolio-history-here-3-0
+featured: False
+draft: False
 description: In an exciting update to the History HERE app, I've contributed to the launch of version 3.0, which includes seven new historical tours.
 emoji: 🗺️
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Explore the past  
   With tours that guide the way  
   History unveiled
+
 coordinates: [37.7749, -122.4194]
 ---
 

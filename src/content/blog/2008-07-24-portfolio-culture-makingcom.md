@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-10 21:39:27+00:00
 title: Portfolio | culture-making.com
-slug: portfolio-culture-makingcom
-featured: false
-draft: false
+slug: portfolio-culture-making-com
+featured: False
+draft: False
 description: As curator and co-creator of the Culture Making website, I developed the initial site architecture and layout in collaboration with Andy Crouch and Yee Design. Geolocation coordinates
 emoji: 🖥️
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Creating with care,  
   Collaborators unite,  
   Culture shapes our world.
+
 coordinates: [37.7749, -122.4194]
 ---
 
