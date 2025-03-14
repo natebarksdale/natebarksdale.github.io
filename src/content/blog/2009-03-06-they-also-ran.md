@@ -1,18 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-14 21:17:59+00:00
 title: They also ran
 slug: they-also-ran
-featured: false
-draft: false
+featured: False
+draft: False
 description: Canadian photographer Sandy Nicholson documents the competitors who are forgotten about and under-celebrated — the second-place finishers.
 emoji: 🥈
 tags:
+  - ⏰ Time
+  - ♻️ Repurposing
+  - ⚒️ Blacksmiths
 haiku: |
   Silver not in shine,  
   Faces tell untold stories,  
   Almost, but not quite.
+
 coordinates: [56.1304, -106.3468]
 ---
 
