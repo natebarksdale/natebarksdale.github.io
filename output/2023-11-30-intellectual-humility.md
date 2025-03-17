@@ -1,21 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-11-30
-modDatetime: 2025-03-14
+modDatetime: 2025-03-17T14:31:12Z
 title: Intellectual Humility
 slug: intellectual-humility
 featured: false
-draft: true
+draft: false
 description: Psychologists and philosophers are working to tease apart the ways we respond to new ideas and information — and the possible benefits of intellectual humility.
 emoji: 🤔
 tags:
   - 🌀 Templeton
   - ✍️ Translation
-  - 🗣️ Language
+  - 🌍 Culture
+  - 🌐 Websites
 haiku: |
-  Minds embrace the world,  
-  Languages bridge thoughts and hearts,  
-  Humility blooms.
+  Pages bridge minds wide,  
+  Thoughts in two tongues blend and flow,  
+  Wisdom unconfined.
 coordinates: [51.509865, -0.118092]
 ---
 

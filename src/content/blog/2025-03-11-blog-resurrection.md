@@ -98,9 +98,7 @@ Resurrection is a tricky business, and I knew that many of the things I had link
     						os.rename(filepath, new_filepath)
     						print(f"Moved {filename} to fixed_links folder")
     				else:
-    					print(f"No broken non-image links fixed in {filename}; file left in place.")
-
-```
+    					print(f"No broken non-image links fixed in {filename}; file left in place.")```
 
 And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
 
@@ -144,33 +142,36 @@ One of the recurring features on the Culture Making blog was what Andy and I cal
 
 Other LLM formats:
 
->{ChatGPT}
->{Q}What's a cool name for my dog?
->{A}Fido or rex -- which do you like?
->{Q}Rex is pretty good. Thanks!
->{A}No problem!
+> {ChatGPT}
+> {Q}What's a cool name for my dog?
+> {A}Fido or rex -- which do you like?
+> {Q}Rex is pretty good. Thanks!
+> {A}No problem!
 
->{Claude}
->{Q}What's a cool name for my dog?
->{A}Fido or rex -- which do you like?
->{Q}Rex is pretty good. Thanks!
->{A}No problem!
+> {Claude}
+> {Q}What's a cool name for my dog?
+> {A}Fido or rex -- which do you like?
+> {Q}Rex is pretty good. Thanks!
+> {A}No problem!
 
->{Gemini}
->{Q}What's a cool name for my dog?
->{A}Fido or rex -- which do you like?
->{Q}Rex is pretty good. Thanks!
->{A}No problem!
+> {Gemini}
+> {Q}What's a cool name for my dog?
+> {A}Fido or rex -- which do you like?
+> {Q}Rex is pretty good. Thanks!
+> {A}No problem!
 
->{Mistral}
->{Q}What's a cool name for my dog?
->{A}Fido or rex -- which do you like?
->{Q}Rex is pretty good. Thanks!
->{A}No problem!
+> {Mistral}
+> {Q}What's a cool name for my dog?
+> {A}Fido or rex -- which do you like?
+> {Q}Rex is pretty good. Thanks!
+> {A}No problem!
 
->{Deepseek}
->{Q}What's a cool name for my dog?
->{A}Fido or rex -- which do you like?
->{Q}Rex is pretty good. Thanks!
->{A}No problem!
+> {Deepseek}
+> {Q}What's a cool name for my dog?
+> {A}Fido or rex -- which do you like?
+> {Q}Rex is pretty good. Thanks!
+> {A}No problem!
+
+```
+
 ```
