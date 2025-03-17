@@ -4,32 +4,36 @@ document.addEventListener("DOMContentLoaded", function () {
     const blockquotes = document.querySelectorAll("blockquote");
 
     blockquotes.forEach(blockquote => {
-      const firstLine = blockquote.innerHTML
-        .trim()
-        .match(/^<p>\s*>\s*{([^}]+)}/);
+      // Check if the first paragraph contains an LLM identifier
+      const paragraphs = blockquote.querySelectorAll("p");
+      if (paragraphs.length === 0) return;
 
-      if (firstLine && firstLine[1]) {
-        const llmName = firstLine[1];
+      const firstParagraph = paragraphs[0];
+      const llmMatch = firstParagraph.textContent.match(/^>\s*{([^}]+)}\s*$/);
+
+      if (llmMatch && llmMatch[1]) {
+        const llmName = llmMatch[1];
         blockquote.setAttribute("data-llm", llmName);
 
-        // Remove the first line (LLM indicator)
-        blockquote.innerHTML = blockquote.innerHTML.replace(
-          /^<p>\s*>\s*{[^}]+}<\/p>/,
-          ""
-        );
+        // Remove the first paragraph (LLM indicator)
+        firstParagraph.remove();
 
-        // Process the content
-        const paragraphs = blockquote.querySelectorAll("p");
-        paragraphs.forEach(p => {
-          const content = p.innerHTML;
-          const roleMatch = content.match(/^\s*>\s*{([QA])}\s*(.*)/);
+        // Process the remaining paragraphs for Q/A format
+        blockquote.querySelectorAll("p").forEach(p => {
+          const content = p.textContent;
+          const roleMatch = content.match(/^>\s*{([QA])}\s*(.*)$/);
 
           if (roleMatch) {
             const role = roleMatch[1];
             const text = roleMatch[2];
 
             p.setAttribute("data-role", role);
-            p.innerHTML = text;
+            p.textContent = text; // Use textContent to preserve any HTML inside
+
+            // If there's HTML content, we need to parse it back
+            if (roleMatch[2].includes("<") && roleMatch[2].includes(">")) {
+              p.innerHTML = text;
+            }
           }
         });
       }
