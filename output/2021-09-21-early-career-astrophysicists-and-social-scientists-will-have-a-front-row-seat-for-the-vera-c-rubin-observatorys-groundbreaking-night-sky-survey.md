@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-09-21
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17T20:59:32Z
 title: Early-Career Astrophysicists and Social Scientists Will Have a Front-Row Seat for the Vera C. Rubin Observatory’s Groundbreaking Night Sky Survey
 slug: early-career-astrophysicists-and-social-scientists-will-have-a-front-row-seat-for-the-vera-c-rubin-observatorys-groundbreaking-night-sky-survey
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [-30.2407, -70.7369]
 ---
 
-For the John Templeton Foundation, I wrote about a pioneering project enabling early-career researchers to explore the cosmos with the Vera Rubin Observatory.
+For the John Templeton Foundation, I got to learn a bit about the forthcoming Vera Rubin Observatory.
 
 > When one of the most important new ground-based telescopes in a generation begins operation as early as next year, a cohort of astrophysics and social science fellows, backed by $6.9 million in funding from the John Templeton Foundation, will be able to collaborate on some of the first discoveries made with its images. The Vera Rubin Observatory (also known as the Large Synoptic Survey Telescope or LSST) will make nearly-weekly full surveys of the Southern Hemisphere’s sky, as seen from its mountaintop location on Cerro Pachón, Chile. With its 8.5-meter primary mirror reflecting starlight into the largest digital camera ever made, the telescope will capture a composite image of the entire visible sky every few nights, eventually assembling the first-ever high sensitivity and resolution, multi-color, decade-long time-lapse ‘movie’ of the southern sky. The survey will help provide new insights on dark matter and dark energy, black holes, galaxies, exoplanets, as well as potentially dangerous near-earth objects.
 >

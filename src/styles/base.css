@@ -327,12 +327,28 @@ p:not(:last-child)::after {
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   }
 
-  /* Header styling for different LLMs */
-  .llm-header {
-    @apply py-2 px-4 font-normal lowercase text-left;
+  /* LLM Chat styling - add within @layer base in src/styles/base.css */
+  blockquote[data-llm] {
+    @apply p-0 my-6 border rounded-xl overflow-hidden;
+    font-family: 'Faune', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    border-left: none !important;
+    opacity: 1 !important;
+    border-color: rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  /* More specific header styling for different LLMs */
+  blockquote[data-llm] .llm-header {
     font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 60%;
-    padding-left: 14px;
+    font-size: 80% !important;
+    font-weight: normal !important;
+    text-transform: lowercase !important;
+    text-align: left !important;
+    padding: 8px 4px 8px 14px !important;
+    margin: 0 !important;
+    line-height: 1.2 !important;
   }
   
   blockquote[data-llm] p {
@@ -358,7 +374,7 @@ p:not(:last-child)::after {
     background-color: #f6f5f1;
   }
   
-  .llm-header-claude {
+  blockquote[data-llm="Claude"] .llm-header {
     color: #8d6a58 !important;
   }
 
@@ -367,8 +383,8 @@ p:not(:last-child)::after {
     background-color: #f7f7f8;
   }
   
-  .llm-header-chatgpt {
-    color: #10a37f;
+  blockquote[data-llm="ChatGPT"] .llm-header {
+    color: #10a37f !important;
   }
 
   /* Mistral - red theme */
@@ -376,8 +392,8 @@ p:not(:last-child)::after {
     background-color: #fef7f7;
   }
   
-  .llm-header-mistral {
-    color: #d1453b;
+  blockquote[data-llm="Mistral"] .llm-header {
+    color: #d1453b !important;
   }
   
   blockquote[data-llm="Mistral"] p[data-role="Q"] {
@@ -389,8 +405,8 @@ p:not(:last-child)::after {
     background-color: #f6f7fc;
   }
   
-  .llm-header-deepseek {
-    color: #5770c7;
+  blockquote[data-llm="DeepSeek"] .llm-header {
+    color: #5770c7 !important;
   }
   
   /* Gemini - blue theme */
@@ -398,8 +414,8 @@ p:not(:last-child)::after {
     background-color: #f3f7fc;
   }
   
-  .llm-header-gemini {
-    color: #4b87e2;
+  blockquote[data-llm="Gemini"] .llm-header {
+    color: #4b87e2 !important;
   }
 
   /* Make code blocks inside LLM chats match the blog's code style but with proper context */
