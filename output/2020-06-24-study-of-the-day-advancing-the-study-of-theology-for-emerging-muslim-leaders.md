@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-24
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Advancing the Study of Theology for Emerging Muslim Leaders
 slug: study-of-the-day-advancing-the-study-of-theology-for-emerging-muslim-leaders
 featured: false
 draft: false
 description: Scholars Are Building a New Academic Program Encompassing Advanced Islamic Theology and Contemporary Thought
-emoji: 📝
+emoji: 🕌
 tags:
   - 🌀 Templeton
-  - 💪 Power
-  - 👩‍👧‍👦 Family
+  - 🌙 Islam
+  - ⛪ Religion
+  - 👩‍🏫 Education
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  New seeds in old soil,  
+  Scholars bridge faith and reason,  
+  Light grows, deep roots coil.
+coordinates: [34.096676, -117.719778]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Advancing the Study of Theology for Emerging Muslim Leaders.
+For the John Templeton Foundation, I wrote about a new initiative enhancing theological education among upcoming Muslim leaders.
 
 > Many Muslim higher educational institutions currently teach a curriculum focused on more at-hand legal and social issues, sometimes at the expense of the study of the finer issues of theology and creed. This summer, Shaykh Jihad Brown (Jason Totten), an American Muslim scholar and public figure, is launching a new two-year program, based at the [Bayan Islamic Graduate School](https://www.bayanclaremont.org) (a division of the Claremont School of Theology in Southern California), that aims to correct some of that imbalance. With a $234,500 grant from the John Templeton Foundation, he is developing a certificate program in Advanced Islamic Theology to equip budding Muslim thought leaders with resources for constructive theologizing for the present day.
 >

@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-05-30
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | A Night for the Ages
 slug: study-of-the-day-a-night-for-the-ages
 featured: false
 draft: false
-description: The writer and physician Oliver Sacks once described 2019 Templeton Prize laureate Marcelo Gleiser as having “a spaciousness of mind large enough to embrace bot...
-emoji: 📝
+description: Marcelo Gleiser receives the 2019 Templeton Prize at the Met, blending ancient myths with cutting-edge cosmology in an unforgettable ceremony.
+emoji: 🌌
 tags:
   - 🌀 Templeton
-  - 🗑️ Garbage
-  - 🐄 Cattle
+  - 🌌 Astronomy
+  - 🏛️ Museums
+  - ✍️ Literature
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  In ancient halls, stars  
+  Gleiser's mind spans myths and space,  
+  Rain mingles with time.
+coordinates: [40.779437, -73.963244]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | A Night for the Ages.
+For the John Templeton Foundation, I wrote about the interplay of ancient myths and modern cosmic discoveries celebrated at a unique event.
 
 > The writer and physician Oliver Sacks once described 2019 Templeton Prize laureate Marcelo Gleiser as having “a spaciousness of mind large enough to embrace both primordial creation myths and the latest advances in contemporary astronomy and cosmology.” It would thus be difficult to think of a more fitting venue than the one where Gleiser received his prize on May 29 in the Egyptian Wing of New York’s Metropolitan Museum of Art.
 >

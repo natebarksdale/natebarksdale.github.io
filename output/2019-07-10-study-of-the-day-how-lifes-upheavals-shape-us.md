@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-07-10
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | How Life’s Upheavals Shape Us
 slug: study-of-the-day-how-lifes-upheavals-shape-us
 featured: false
 draft: false
 description: A Big Data Approach to Mapping the Effects of Transformative Events
-emoji: 📝
+emoji: 🌀
 tags:
   - 🌀 Templeton
-  - 🌱 Sustainability
-  - 🎗️ Cancer
+  - 🧠 Psychology
+  - ⚖️ Algorithms
+  - 🌐 Digital
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Life's sharp turns reshape,
+  Words trace changes in our souls—
+  New paths emerge clear.
+coordinates: [42.2808, -83.743]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | How Life’s Upheavals Shape Us.
+For the John Templeton Foundation, I wrote about how life's major disruptions forge our psychological landscapes.
 
 > How are people transformed by life’s major events? Marriage and divorce, childbirth and death, illness and natural disaster — all can upend people’s lives, altering their outlook and perhaps even their personalities. But not everyone responds to the same upheavals in the same ways. Following a health scare, one person might slide into depression while another might find new sources of joy and gratitude. So how do these major events impact our social worlds and the ways that we cope with change? And what are the psychological characteristics that shape the different ways in which people respond to such events?
 >

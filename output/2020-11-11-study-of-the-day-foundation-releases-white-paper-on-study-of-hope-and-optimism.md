@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-11-11
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Foundation Releases White Paper on Study of Hope and Optimism
 slug: study-of-the-day-foundation-releases-white-paper-on-study-of-hope-and-optimism
 featured: false
 draft: false
 description: A new report explores the benefits of two related virtues.
-emoji: 📝
+emoji: 🌟
 tags:
   - 🌀 Templeton
-  - 🖋️ Commentary
-  - 🌍 Activism
+  - 🧠 Psychology
+  - 📊 Research
+  - 🙏 Faith
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Hope, optimism's glow,  
+  Surprising paths light the dark,  
+  History teaches.
+coordinates: [43.658, -79.3793]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Foundation Releases White Paper on Study of Hope and Optimism.
+For the John Templeton Foundation, I wrote about the intriguing interplay between hope and optimism in contemporary research.
 
 > A new paper published by the John Templeton Foundation explores the latest scientific and philosophical research on the related but distinct virtues of hope and optimism. The 45-page white paper, written by [Michael Milona](https://www.ryerson.ca/arts/about/new-hires/michael_milona/), a philosophy professor at Ryerson University in Toronto, Canada, examines findings on the benefits and risks involved in both hope and optimism. Milona’s summary gave particular focus to the results of another Templeton-funded initiative, “[Hope & Optimism: Conceptual and Empirical Investigations](https://www.templeton.org/grant/hope-and-optimism-conceptual-and-empirical-investigations),” a three-year, $4.4 million project led by Samuel Newlands at Notre Dame and Andrew Chignell at the University of Pennsylvania, which funded projects by more than 29 researchers worldwide on topics on the effects of hope and optimism in education, faith, healthcare, politics, and more.
 >

@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-10
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:54Z
 title: Study of the Day | Future Selves, Future Others
 slug: study-of-the-day-future-selves-future-others
 featured: false
 draft: false
-description: The phrase “delayed gratification” entered printed English in 1803 (fittingly almost a century after “immediate gratification” first appeared), in the second ed...
-emoji: 📝
+description: Explore how our connection to future selves influences decisions today, from Malthus's theories to modern psychological experiments.
+emoji: 🔮
 tags:
   - 🌀 Templeton
-  - 📜 Letters
-  - 🛍️ Collectors
+  - 🧘‍♂️ Psychology
+  - ⏰ Time
+  - ⚖️ Choices
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
+  Future self awaits,  
+  Marshmallow test of time's pull,  
+  Gratification delayed.
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Future Selves, Future Others.
+For the John Templeton Foundation, I wrote about how our connection to future selves influences our decisions today.
 
 > The phrase “delayed gratification” entered printed English in 1803 (fittingly almost a century after “immediate gratification” first appeared), in the second edition of English economist Thomas Malthus’s [Essay on the Principle of Population](https://archive.org/details/principleessayon00maltrich/page/n7/mode/2up)*.* Delayed gratification, Malthus said, was a discipline that most people lacked — with catastrophic consequences both for themselves and for future generations. Were it universally practiced, he believed, food would be sufficient, wages would rise, and “all squalid poverty would be removed from society.”
 >

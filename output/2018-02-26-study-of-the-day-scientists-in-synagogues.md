@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-02-26
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | Scientists in Synagogues
 slug: study-of-the-day-scientists-in-synagogues
 featured: false
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Scientists in Synagogues.
+For the John Templeton Foundation, I wrote about the Scientists in Synagogues program.
 
 > In May of 2017 an audience of more than a hundred gathered at Boston’s Congregation B’nai Shalom to hear Google executive Jeremy Wertheimer talk about the ways that artificial intelligence is transforming the human experience. As part of his talk, Wertheimer linked contemporary debates about who bears the blame if a self-driving car causes an injury, with a millenia-old Talmudic discussion of a surprisingly similar circumstance: if someone has an ox that gores a person or another animal, when should it be viewed as an accident and under what circumstances does the owner bear the blame? The Talmud’s advice: gather witnesses to determine whether the ox in question had a history of violence that would make the goring foreseeable.
 >

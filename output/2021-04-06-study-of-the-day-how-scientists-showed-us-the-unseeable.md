@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-04-06
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | How Scientists Showed Us the Unseeable
 slug: study-of-the-day-how-scientists-showed-us-the-unseeable
 featured: false
 draft: false
 description: Pulling Back the Curtain on a Black Hole Breakthrough
-emoji: 📝
+emoji: 🔭
 tags:
   - 🌀 Templeton
-  - ❤️ Resilience
-  - 🏞️ National Parks
+  - 🌌 Astronomy
+  - 🎥 Film
+  - ⚙️ Technology
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Shadowed ring unveiled,  
+  Worlds unite, gaze the cosmos,  
+  Science bridges void.
+coordinates: [42.378, -71.116]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | How Scientists Showed Us the Unseeable.
+For the John Templeton Foundation, I wrote about the captivating journey to visualize black holes.
 
 > On April 10, 2019 front pages and homepages around the world featured a black-and-orange picture of a blurred ring, dark at the center and bulging slightly at the bottom — the first-ever direct image of a black hole. The picture was the result of an unprecedented scientific collaboration, the Event Horizon Telescope (EHT), involving more than 300 researchers working on six continents. Now a new feature-length film, [Black Holes: The Edge of All We Know](https://www.blackholefilm.com)*,* weaves together the story behind the groundbreaking image with other recent developments in black hole science, including the collaboration that resulted in Stephen Hawking’s final scientific paper.
 >

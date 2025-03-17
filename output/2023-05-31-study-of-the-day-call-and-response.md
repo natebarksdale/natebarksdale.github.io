@@ -1,25 +1,27 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-31
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | Call and Response
 slug: study-of-the-day-call-and-response
 featured: false
 draft: false
-description: Plato, in the *Republic*, gives the best-known explanation of the Greek theory of musical modes: “The musical modes differ essentially from one another, and tho...
-emoji: 📝
+description: Explore how music's rhythmic bonds shape social behaviors and foster connections, from toddlers to adults.
+emoji: 🎵
 tags:
   - 🌀 Templeton
-  - 🍷 Wine
-  - 🎤 Hip-Hop
+  - 🎵 Music
+  - 🧠 Psychology
+  - 👶 Children
+  - 🤝 Collaboration
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Music binds the heart,  
+  Synchronized beats build bridges,  
+  Harmony flows deep.
+coordinates: [32.794, 34.9896]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Call and Response.
+For the John Templeton Foundation, I wrote about the intriguing ways music shapes our social interactions and psychological states.
 
 > Plato, in the *Republic*, gives the best-known explanation of the Greek theory of musical modes: “The musical modes differ essentially from one another, and those who hear them are differently affected by each. Some of them make men sad and grave,” he wrote, “another, again, produces a moderate or settled temper.” Today, as ever, we perceive music as having psychological and social effects. We describe songs as happy or sad, and note their effects on us alone and in groups, both as music-listeners and music-makers. In the journal *Music and Science,* Tal-Chen Rabinowitch, an assistant professor at the University of Haifa’s School of Creative Arts Therapies, [offers a helpful overview](https://journals.sagepub.com/doi/10.1177/2059204320939772#bibr37-2059204320939772) of the history of musical-social theories, and the current state of research, including several compelling observations about how music can change how people relate to one other.
 >

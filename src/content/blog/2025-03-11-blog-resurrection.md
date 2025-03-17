@@ -194,3 +194,9 @@ Other LLM formats:
 > {Q}Rex is pretty good. Thanks!
 >
 > {A}No problem!
+
+{Deepseek}
+{Q}What's a cool name for my dog?
+{A}Fido or rex -- which do you like?
+{Q}Rex is pretty good. Thanks!
+{A}No problem!

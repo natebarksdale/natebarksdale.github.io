@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-09
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Collaborative Inquiries in Christian Theological Anthropology
 slug: study-of-the-day-collaborative-inquiries-in-christian-theological-anthropology
 featured: false
 draft: false
 description: A new project will foster interdisciplinary work — informed by both science and theology — on what it means to be human
-emoji: 📝
+emoji: 🔍
 tags:
   - 🌀 Templeton
-  - 🇯🇵 Japan
-  - 📚 Disciplines
+  - ✝️ Christianity
+  - 🧠 Psychology
+  - 🧬 Biology
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Science meets faith's gaze,  
+  Exploring human essence,  
+  New light on old truths.
+coordinates: [41.7056, -86.2353]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Collaborative Inquiries in Christian Theological Anthropology.
+For the John Templeton Foundation, I wrote about how new scientific insights are reshaping theological discussions on human nature.
 
 > Human flourishing and freedom are topics that have long been considered by theologians and humanities scholars, but recent work in the life and social sciences—on subjects ranging from how brains make decisions to how individuals develop virtues — is presenting some of those age-old topics in a new light. A new three-year, $3.9 million research project funded by the John Templeton Foundation and led by theologians Jesse Couenhoven at Villanova University, and Gerald McKenny and Neil Arner at the University of Notre Dame, aims to help theologians integrate recent biological and social scientific research into their work. The project will support research and networking for a dozen theology and religion professors as they pursue projects related to scientifically-informed theological anthropology.
 >

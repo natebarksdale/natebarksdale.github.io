@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-26
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | Faith, Politics, and Intellectual Humility
 slug: study-of-the-day-faith-politics-and-intellectual-humility
 featured: false
 draft: false
 description: A public symposium on the prospects for civil discussion
-emoji: 📝
+emoji: 🤝
 tags:
   - 🌀 Templeton
-  - 💰 Commerce
-  - 🎱 Games
+  - 🙏 Faith
+  - 🗳️ Politics
+  - 💬 Communication
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Dialogues of deep faith,  
+  Bridging divides with humble words,  
+  Politics renewed.
+coordinates: [41.7658, -72.6734]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Faith, Politics, and Intellectual Humility.
+For the John Templeton Foundation, I wrote about fostering dialogue in an era where faith and politics often collide.
 
 > In the age of the internet comment, it gets harder and harder to imagine meaningful dialogue between people who disagree about topics as deeply held and divisive as faith and politics. On April 25 in Hartford, Connecticut a trio of speakers with divergent backgrounds but a common interest in revitalizing civic discourse will make the case for — and chart paths towards — just such conversations.
 >

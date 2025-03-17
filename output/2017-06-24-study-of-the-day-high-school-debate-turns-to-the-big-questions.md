@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | High school debate turns to the Big Questions
 slug: study-of-the-day-high-school-debate-turns-to-the-big-questions
 featured: false
 draft: false
 description: Does science leave room for free will? High school debaters have some ideas.
-emoji: 📝
+emoji: 🎓
 tags:
   - 🌀 Templeton
-  - 🧼 Cleanliness
-  - 👥 Observers
+  - 🧠 Neuroscience
+  - 👦 Teenagers
+  - ⚖️ Choices
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Debaters converge,  
+  Probing science and free will—  
+  Minds clash, truths unearth.
+coordinates: [33.5207, -86.8025]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | High school debate turns to the Big Questions.
+For the John Templeton Foundation, I wrote about how high school debaters are tackling the profound intersections of science and philosophy.
 
 > More than 9,000 students, coaches, and parents converged in Birmingham, Ala., the last week of June for the National Speech and Debate Association’s national tournament. On Friday afternoon, in one of the tournament’s climactic events, high school students from South Dakota and Missouri faced off in the 1,000-seat BJCC Theatre to debate whether science leaves room for free will. It was a profound enough topic on its own, but the event was also noteworthy as the national championship debut of a new kind of high school debate, centered on the “Big Questions.”
 >

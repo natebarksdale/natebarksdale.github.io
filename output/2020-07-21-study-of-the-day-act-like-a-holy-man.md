@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-07-21
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Act Like a Holy Man
 slug: study-of-the-day-act-like-a-holy-man
 featured: false
 draft: false
 description: A new film will celebrate the lives, friendship and insights of two of our time’s most revered spiritual leaders: Desmond Tutu and the 14th Dalai Lama
-emoji: 📝
+emoji: 🕊️
 tags:
   - 🌀 Templeton
-  - 🙏 Faith
-  - 🦠 Germs
+  - ⛪ Religion
+  - 🎥 Film
+  - 😊 Joy
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Two souls meet and speak,  
+  Joy blooms from shared suffering,  
+  Peace weaves through their words.
+coordinates: [32.0532, 76.4]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Act Like a Holy Man.
+For the John Templeton Foundation, I wrote about the intertwining journeys of Desmond Tutu and the Dalai Lama as they explore the essence of joy and suffering.
 
 > In April of 2015, Desmond Tutu, the Anglican Archbishop Emeritus of Cape Town, flew to Dharamsala, India to spend five days with his friend (and fellow [Templeton Prize laureate](https://www.templetonprize.org/templeton-prize-winners/)) Tenzin Gyatso, the 14th Dalai Lama. Their recorded conversations — more than 23 hours worth — became the basis for the 2016 *New York Times* bestseller [The Book of Joy](https://www.penguinrandomhouse.com/books/533718/the-book-of-joy-by-his-holiness-the-dalai-lama-and-archbishop-desmond-tutu-with-douglas-abrams/)*,* co-authored with Douglas Abrams. Now, Abrams, activist and film producer Peggy Callahan and Academy Award-winning director Louie Psihoyos, backed with funding including $500,000 from the John Templeton Foundation, are at work on *Act Like a Holy Man,* a feature-length documentary about Desmond Tutu and the Dalai Lama’s intersecting life stories and the lessons they have learned — often through suffering — about the nature of joy and happiness.
 >

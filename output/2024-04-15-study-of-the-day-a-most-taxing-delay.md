@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-04-15
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | A Most Taxing Delay
 slug: study-of-the-day-a-most-taxing-delay
 featured: false
 draft: false
-description: Putting off doing your taxes until the last minute has been a cliche from the beginning — in 1954, on the very first time that U.S. federal and state income tax...
-emoji: 📝
+description: Explore the timeless struggle with tax procrastination and its costly psychological underpinnings in "A Most Taxing Delay."
+emoji: ⏳
 tags:
   - 🌀 Templeton
-  - 😂 Humor
-  - 🌱 Sustainability
+  - ⏰ Time
+  - 🧘‍♂️ Psychology
+  - 🇺🇸 United States
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Last-minute filers wait,  
+  Self-defeat in each delay,  
+  Costs rise, refunds late.
+coordinates: [40.7128, -74.006]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | A Most Taxing Delay.
+For the John Templeton Foundation, I wrote about the intriguing psychology behind why we postpone filing our taxes.
 
 > Putting off doing your taxes until the last minute has been a cliche from the beginning — in 1954, on the very first time that U.S. federal and state income taxes came due on April 15, the *New York Times* assigned reporters to cover the predicted chaos of last-minute filers. The [resulting lede](https://www.nytimes.com/1955/04/16/archives/income-tax-day-is-quiet-in-city-federal-and-state-collectors-get.html): “Federal and state income tax collectors were pleasantly surprised yesterday. The expected last-minute deadline rush of those filing 1954 returns failed to materialize at any of the offices.”
 >

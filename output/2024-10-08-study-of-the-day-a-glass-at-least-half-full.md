@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-10-08
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:54Z
 title: Study of the Day | A Glass at Least Half Full
 slug: study-of-the-day-a-glass-at-least-half-full
 featured: false
 draft: false
-description: You can tell something about a culture’s attitudes towards optimism by the literary characters it elevates: you have the “best-of-all-possible-worlds” sophistic...
-emoji: 📝
+description: Explore how cultures embody optimism through literature and debate whether this outlook is rational or delusional in our latest study review.
+emoji: 🍷
 tags:
   - 🌀 Templeton
-  - 🇨🇳 China
-  - ✈️ Aviation
+  - ✍️ Literature
+  - 🧘‍♂️ Psychology
+  - 🔍 Critique
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Shadows and light dance,  
+  Nuanced views on optimism,  
+  Mind's eye sees half full.
+coordinates: [42.377, -71.1167]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | A Glass at Least Half Full.
+For the John Templeton Foundation, I wrote about the intricate dance between cynicism and hope in contemporary perceptions of optimism.
 
 > You can tell something about a culture’s attitudes towards optimism by the literary characters it elevates: you have the “best-of-all-possible-worlds” sophisticated naivete of Professor Pangloss and his protege in Voltaire’s [Candide](https://standardebooks.org/ebooks/voltaire/candide/the-modern-library)*;* the irrepressible bootstrap-pulling of a [Horatio Alger protagonist](https://standardebooks.org/ebooks/horatio-alger-jr/ragged-dick); the searching-for-a-silver-lining that was the defining characteristic of the cheerful orphan girl [Pollyanna](https://standardebooks.org/ebooks/eleanor-h-porter/pollyanna). Meanwhile, modern bookshelves sag under any number of “manifest your desire” self-help scenarios, and the occasional searing critique like Terry Eagleton’s [Hope Without Optimism](https://www.upress.virginia.edu/title/4948/)*,* whose opening chapter derides optimism as necessarily irrational, “a primordial stance toward the world…which lights up the facts from its own peculiar angle and is thus resistant to being refuted by them.”
 >

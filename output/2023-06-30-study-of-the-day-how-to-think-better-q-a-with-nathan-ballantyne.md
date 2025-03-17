@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-06-30
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | How to Think Better | Q&A with Nathan Ballantyne
 slug: study-of-the-day-how-to-think-better-q-a-with-nathan-ballantyne
 featured: false
 draft: false
-description: *This piece is from the Templeton Ideas archives. It was originally published in 2021.* Nathan Ballantyne is an associate professor of philosophy, cognition, an...
-emoji: 📝
+description: Nathan Ballantyne shares insights on enhancing human judgment and explores interdisciplinary methods in a thought-provoking Q&A.
+emoji: 🤔
 tags:
   - 🌀 Templeton
-  - ⚠️ Danger
-  - 📖 Discussions
+  - 🧠 Psychology
+  - 📚 Disciplines
+  - 🔍 Logic
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Mind's journey unfolds,  
+  Limiting thoughts challenged deep,  
+  Wisdom's path revealed.
+coordinates: [33.424564, -111.928001]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | How to Think Better | Q&A with Nathan Ballantyne.
+For the John Templeton Foundation, I wrote an engaging exploration of techniques for enhancing our cognitive skills.
 
 > *This piece is from the Templeton Ideas archives. It was originally published in 2021.*
 >

@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-09-10
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Exploring the Big Questions with Aeon
 slug: study-of-the-day-exploring-the-big-questions-with-aeon
 featured: false
 draft: false
 description: A new two-year project will fund dozens of essays and longform pieces published in one of the most innovative and engaging journals of science and thought.
-emoji: 📝
+emoji: 🌌
 tags:
   - 🌀 Templeton
-  - 💬 Communication
-  - 🥘 Rice
+  - 🧠 Neuroscience
+  - 🧬 Genetics
+  - 🌍 Evolution
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Ideas weave through time,  
+  Cosmos and mind intertwine,  
+  Knowledge blooms, unfurled.
+coordinates: [37.8136, 144.9631]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Exploring the Big Questions with Aeon.
+For the John Templeton Foundation, I wrote about how Aeon's cutting-edge discussions bridge science and philosophy.
 
 > Founded in 2012, [Aeon](https://aeon.co) is a digital magazine that provides a forum for writers, thinkers, and scientists to discuss ideas at the cutting edge of science, philosophy, society, and the arts through longform essays, idea pieces, and videos. With editorial offices in Melbourne, London, and New York, *Aeon *is structured as an international non-profit, relying on individual donations and grant funding to make its articles freely available to an aggregate audience of about 1.3 million web viewers and social media followers.
 >

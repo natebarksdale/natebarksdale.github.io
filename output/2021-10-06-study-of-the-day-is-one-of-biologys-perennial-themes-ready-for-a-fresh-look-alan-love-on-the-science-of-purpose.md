@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-10-06
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | Is One of Biology’s Perennial Themes Ready For a Fresh Look? Alan Love on the Science of Purpose.
 slug: study-of-the-day-is-one-of-biologys-perennial-themes-ready-for-a-fresh-look-alan-love-on-the-science-of-purpose
 featured: false
 draft: false
 description: University of Minnesota philosopher Alan Love studies the interplay between philosophy and biology. He is the principal investigator for “Agency, Directionality, and Function: Foundations for a Science of Purpose,” a new three-year, $14.5 million project funded by the John Templeton Foundation. Nate Barksdale, lead writer for the Foundation’s “Possibilities” newsletter, spoke with Love about the project.
-emoji: 📝
+emoji: 🔬
 tags:
   - 🌀 Templeton
-  - 📺 Broadcasting
-  - 🤔 Puzzles
+  - 🧬 Biology
+  - 🌍 Evolution
+  - 🧠 Psychology
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
+  Purpose in nature,  
+  Teeth not foreseeing their use,  
+  Evolution's dance.
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Is One of Biology’s Perennial Themes Ready For a Fresh Look? Alan Love on the Science of Purpose..
+For the John Templeton Foundation, I wrote about reevaluating the concept of purpose in biology.
 
 > Biologists often use language that imputes agency or goals to living systems and have done this since the time of Aristotle. However, in the last two hundred years, many have argued that this is at best “as- if” or heuristic talk, and at worst an error. As a result, the phrase “science of purpose” sounds odd to many biologists, who would rather say that purposiveness is just apparent and can be fully accounted for by processes like natural selection.
 >

@@ -17,18 +17,10 @@ function processLLMChats() {
 
     // Check first paragraph for LLM identifier pattern
     const firstP = paragraphs[0];
-
-    // The > character might be rendered as &gt; or > depending on the markdown processor
-    // So we check for both possibilities
     const textContent = firstP.textContent.trim();
-    const htmlContent = firstP.innerHTML.trim();
 
-    // Try different pattern matches for the LLM identifier
-    const llmMatch =
-      textContent.match(/^>{([^}]+)}$/) ||
-      textContent.match(/^>\s*{([^}]+)}$/) ||
-      htmlContent.match(/^&gt;{([^}]+)}$/) ||
-      htmlContent.match(/^&gt;\s*{([^}]+)}$/);
+    // Match the format "{ChatGPT}" exactly as you showed
+    const llmMatch = textContent.match(/^{([^}]+)}$/);
 
     if (llmMatch && llmMatch[1]) {
       const llmName = llmMatch[1].trim();
@@ -40,29 +32,21 @@ function processLLMChats() {
       // Process remaining paragraphs for Q/A patterns
       blockquote.querySelectorAll("p").forEach(p => {
         const pText = p.textContent.trim();
-        const pHtml = p.innerHTML.trim();
 
-        // Check for Q/A patterns with various possible formats
-        const qaMatch =
-          pText.match(/^>{([QA])}(.*)/) ||
-          pText.match(/^>\s*{([QA])}\s*(.*)/) ||
-          pHtml.match(/^&gt;{([QA])}(.*)/) ||
-          pHtml.match(/^&gt;\s*{([QA])}\s*(.*)/);
+        // Match the format "{Q}Text" or "{A}Text" exactly as shown in your example
+        const qaMatch = pText.match(/^{([QA])}(.*)/);
 
         if (qaMatch) {
           const role = qaMatch[1];
+          const content = qaMatch[2];
+
           p.setAttribute("data-role", role);
 
-          // Replace the marker in the HTML content
-          if (pHtml.includes("&gt;")) {
-            p.innerHTML = p.innerHTML.replace(/^&gt;\s*{[QA]}\s*/, "");
-          } else {
-            p.innerHTML = p.innerHTML.replace(/^>\s*{[QA]}\s*/, "");
-          }
+          // Remove the {Q} or {A} from the beginning
+          p.innerHTML = p.innerHTML.replace(/^{[QA]}/, "");
         }
       });
 
-      // Add debug info if needed (remove this in production)
       console.log(`Processed LLM chat: ${llmName}`);
     }
   });

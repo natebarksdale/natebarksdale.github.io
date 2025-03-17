@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-04
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | East Asia’s Religious Futures
 slug: study-of-the-day-east-asias-religious-futures
 featured: false
 draft: false
-description: *Six Countries will be Central to the Next Phase of a Groundbreaking Global Survey * One of the most comprehensive and influential surveys of religious beliefs ...
-emoji: 📝
+description: Explore how six East Asian countries shape the future of global religion in a groundbreaking survey revealing trends and transformations.
+emoji: 🔮
 tags:
   - 🌀 Templeton
-  - 👀 Attention
-  - 🧘‍♂️ Psychology
+  - ⛪ Religion
+  - 📊 Surveys
+  - 🌍 Globalization
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  East Asia's faith mapped,  
+  Surveying souls, beliefs spread—  
+  Futures woven tight.
+coordinates: [35.0, 105.0]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | East Asia’s Religious Futures.
+For the John Templeton Foundation, I wrote about the expansion of an influential survey delving into the evolving religious contours of East Asia.
 
 > *Six Countries will be Central to the Next Phase of a Groundbreaking Global Survey *
 >

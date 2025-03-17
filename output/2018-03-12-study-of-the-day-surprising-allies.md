@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | Surprising Allies
 slug: study-of-the-day-surprising-allies
 featured: false
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Surprising Allies.
+For the John Templeton Foundation, I wrote about .
 
 > Rice University sociologist Elaine Howard Ecklund has devoted much of the last decade to dismantling common stereotypes about religion and science, largely by surveying scientists and people of faith to find out what they actually think. Still, whenever she gives an interview on her work, the first question is always, *So, is there a conflict between religion and science?*
 >

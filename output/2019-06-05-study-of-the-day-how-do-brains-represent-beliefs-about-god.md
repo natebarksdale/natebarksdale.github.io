@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-06-05
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | How Do Brains Represent Beliefs About God?
 slug: study-of-the-day-how-do-brains-represent-beliefs-about-god
 featured: false
 draft: false
-description: Are the ways that people think about God different from the ways they think about siblings, celebrities, or superheroes? A three-year study launched in 2019, le...
-emoji: 📝
+description: Explore how brains visualize God versus other figures through cutting-edge neuroimaging and machine learning techniques.
+emoji: 🧠
 tags:
   - 🌀 Templeton
-  - 🌍 Exploration
-  - ✍️ Poetry
+  - 🧠 Neuroscience
+  - ⛪ Religion
+  - ⚖️ Algorithms
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Brains light up with faith,  
+  God's image traced by new tech,  
+  Beliefs mapped like stars.
+coordinates: [38.9076, -77.0723]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | How Do Brains Represent Beliefs About God?.
+For the John Templeton Foundation, I wrote about groundbreaking research into how human brains map their beliefs about the divine.
 
 > Are the ways that people think about God different from the ways they think about siblings, celebrities, or superheroes? A three-year study launched in 2019, led by neuroscientists Adam Green of Georgetown University, Jordan Grafman of Northwestern University, and David Kraemer of Dartmouth College, with funding from the John Templeton Foundation, aims to increase our understanding of the ways believers and unbelievers conceptualize God in their everyday thinking using a sophisticated new approach to analyzing neuroimaging data.
 >

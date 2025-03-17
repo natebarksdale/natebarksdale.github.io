@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-11-07
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:51Z
 title: Study of the Day | EXPANDING “SCIENCE FOR SEMINARIES”
 slug: study-of-the-day-expanding-science-for-seminaries
 featured: false
 draft: false
 description: Equipping tomorrow’s clergy to discuss scientific findings and technological advances — and the big questions they raise
-emoji: 📝
+emoji: 🔬
 tags:
   - 🌀 Templeton
-  - 🎗️ Cancer
-  - 📚 Preservation
+  - ⛪ Religion
+  - ✝️ Christianity
+  - ⚙️ Technology
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Science meets the divine,  
+  Seminaries embrace change,  
+  New wisdom takes root.
+coordinates: [38.89511, -77.03637]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | EXPANDING “SCIENCE FOR SEMINARIES”.
+For the John Templeton Foundation, I wrote about the initiative to integrate more scientific knowledge into Christian seminary education.
 
 > Today the American Association for the Advancement of Science and the John Templeton Foundation announce a $6.1 million grant to expand their work with the Association of Theological Schools to make more scientific material available to Christian seminary students in their core courses. The major dollar investment is matched by a five-year time commitment — both on the high end of the Foundation’s usual grantmaking practices — because of the strategic success of the project’s first phase, as well as the exciting prospects for its second phase.
 >

@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-21
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:53Z
 title: Study of the Day | Inequality and the Constitution
 slug: study-of-the-day-inequality-and-the-constitution
 featured: false
 draft: false
-description: “If men were angels,” James Madison famously wrote in the [Federalist 51](https://avalon.law.yale.edu/18th_century/fed51.asp)*,* “no government would be necessa...
-emoji: 📝
+description: Explore how James M. Buchanan's public choice theory intersects with Madison's constitutional ideals, highlighting tensions in America's founding principles.
+emoji: 📜
 tags:
   - 🌀 Templeton
-  - 🚨 Warnings
-  - 🗳️ Elections
+  - 📊 Research
+  - 🏛️ Government
+  - ⚖️ Law
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Rules bind the rulers,  
+  Tension between ideals, real;  
+  Each voice weighs the same.
+coordinates: [38.9072, -77.0369]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Inequality and the Constitution.
+For the John Templeton Foundation, I wrote about the intricate balance between governmental power and individual rights as examined through historical and economic lenses.
 
 > “If men were angels,” James Madison famously wrote in the [Federalist 51](https://avalon.law.yale.edu/18th_century/fed51.asp)*,* “no government would be necessary.” But governments were human institutions from top to bottom, Madison said, so “the great difficulty lies in this: you must first enable the government to control the governed; and in next place oblige it to control itself.”
 >

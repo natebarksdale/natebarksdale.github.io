@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:52Z
 title: Study of the Day | Rediscovering the Greek Revolution’s Roots in Classical Liberalism
 slug: study-of-the-day-rediscovering-the-greek-revolutions-roots-in-classical-liberalism
 featured: false
 draft: false
-description: March 25, 2021 will mark the bicentennial of the struggle for independence that led to the creation of modern Greece. Over the next two years, the Center for Li...
+description: March 25, 2021 will mark the bicentennial of the struggle for independence that led to the creation of modern Greece.
 emoji: 📝
 tags:
   - 🌀 Templeton

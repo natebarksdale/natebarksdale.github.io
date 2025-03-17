@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-11-13
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T15:44:54Z
 title: Study of the Day | Bad Education
 slug: study-of-the-day-bad-education
 featured: false
 draft: false
-description: Since at least the mid-2000s, researchers have noted that in North America, girls were consistently averaging better grades than boys in elementary, middle, and...
-emoji: 📝
+description: Explore how self-discipline impacts educational outcomes and why it may favor girls over boys in school performance. Is this skill always an asset?
+emoji: 📚
 tags:
   - 🌀 Templeton
-  - 🏛️ Government
-  - 🍿 Movies
+  - 👩‍🏫 Education
+  - 🧘‍♂️ Psychology
+  - 📊 Research
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Girls outshine in class,  
+  Self-discipline marks their path,  
+  Boys equal, yet grasp.
+coordinates: [37.0902, -95.7129]
 ---
 
-For the John Templeton Foundation, I wrote about Study of the Day | Bad Education.
+For the John Templeton Foundation, I wrote about the intriguing role of self-discipline in educational disparities between genders.
 
 > Since at least the mid-2000s, researchers have noted that in North America, girls were consistently averaging better grades than boys in elementary, middle, and high schools — even though achievement and IQ tests suggested that girls and boys had roughly equal abilities. One explanation for this discrepancy was that the tests were systematically underestimating girls’ intelligence, but in a 2006 paper, psychologists Angela Duckworth and Martin Seligman demonstrated that [another factor might also be at work: self-discipline](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-0663.98.1.198). The girls they studied scored higher on measures of self-discipline, which turned out to be a better predictor of grades than intelligence assessments alone.
 >
