@@ -32,6 +32,7 @@ The Wordpress blog still, technically, existed on its old server, but neither th
 I new I had the content in there somewhere, and that I wanted to break out the posts in `markdown` files (basically lightly formatted plain text) used by my new blog setup. I fired up `ChatGPT` and gave it the following prompt:
 
 > {ChatGPT}
+>
 > {Q}I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post_author":"1","post_date":"2009-05-26 ... [followed by more json]
 
 ... and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
@@ -39,6 +40,7 @@ I new I had the content in there somewhere, and that I wanted to break out the p
 After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
 
 > {ChatGPT}
+>
 > {Q}Cool. How would I test the script on my Mac?
 
 I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
@@ -63,6 +65,7 @@ Back to the error dance until I got a version that ran. Then more back-and-forth
 Resurrection is a tricky business, and I knew that many of the things I had linked back in my 2008-10 blogging heyday would have been rotted out. So I had the `LLM` come up with another python script that would go through each Markdown file, look for links, check those links, and then replace broken links with a working fallback. My initial idea was to just construct a simple Google search link from the link text itself, but in practice these searchers were usually not very useful. Instead, what I landed on was generating and then checking a Wayback Machine link for an archived version of whatever page I had linked. Only if this failed would we fall further back to a Google search.
 
 > {ChatGPT}
+>
 > {A}```
 
     		# Process non-image links
@@ -143,31 +146,51 @@ One of the recurring features on the Culture Making blog was what Andy and I cal
 Other LLM formats:
 
 > {ChatGPT}
+>
 > {Q}What's a cool name for my dog?
+>
 > {A}Fido or rex -- which do you like?
+>
 > {Q}Rex is pretty good. Thanks!
+>
 > {A}No problem!
 
 > {Claude}
+>
 > {Q}What's a cool name for my dog?
+>
 > {A}Fido or rex -- which do you like?
+>
 > {Q}Rex is pretty good. Thanks!
+>
 > {A}No problem!
 
 > {Gemini}
+>
 > {Q}What's a cool name for my dog?
+>
 > {A}Fido or rex -- which do you like?
+>
 > {Q}Rex is pretty good. Thanks!
+>
 > {A}No problem!
 
 > {Mistral}
+>
 > {Q}What's a cool name for my dog?
+>
 > {A}Fido or rex -- which do you like?
+>
 > {Q}Rex is pretty good. Thanks!
+>
 > {A}No problem!
 
 > {Deepseek}
+>
 > {Q}What's a cool name for my dog?
+>
 > {A}Fido or rex -- which do you like?
+>
 > {Q}Rex is pretty good. Thanks!
+>
 > {A}No problem!
