@@ -26,8 +26,16 @@ function processLLMChats() {
       const llmName = llmMatch[1].trim();
       blockquote.setAttribute("data-llm", llmName);
 
+      // Create a header element for the LLM name
+      const header = document.createElement("div");
+      header.className = `llm-header llm-header-${llmName.toLowerCase()}`;
+      header.textContent = llmName;
+
       // Remove the first paragraph with the LLM name
       firstP.remove();
+
+      // Insert the header at the beginning of the blockquote
+      blockquote.insertBefore(header, blockquote.firstChild);
 
       // Process remaining paragraphs for Q/A patterns
       blockquote.querySelectorAll("p").forEach(p => {
