@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-10-21
-modDatetime: 2025-03-17
-title: Study of the Day | Social Hostility Towards Religion Declined in 2019, According to Recent Research
-slug: study-of-the-day-social-hostility-towards-religion-declined-in-2019-according-to-recent-research
+modDatetime: 2025-03-17T21:10:30Z
+title: Social Hostility Towards Religion Declined in 2019, According to Recent Research
+slug: social-hostility-towards-religion-declined-in-2019-according-to-recent-research
 featured: false
 draft: false
 description: A Decline in Terrorism Led the Reduction, while Government Hostility Remained Steady

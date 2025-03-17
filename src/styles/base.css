@@ -340,7 +340,8 @@ p:not(:last-child)::after {
   }
 
   /* More specific header styling for different LLMs */
-  blockquote[data-llm] .llm-header {
+
+  blockquote[data-llm] > .llm-header {
     font-family: 'IBM Plex Mono', monospace !important;
     font-size: 80% !important;
     font-weight: normal !important;
