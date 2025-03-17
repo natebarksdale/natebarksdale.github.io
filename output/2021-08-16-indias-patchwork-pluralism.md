@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-08-16
-modDatetime: 2025-03-17T15:44:53Z
-title: Study of the Day | India’s Patchwork Pluralism
-slug: study-of-the-day-indias-patchwork-pluralism
+modDatetime: 2025-03-17T20:38:13Z
+title: India’s Patchwork Pluralism
+slug: indias-patchwork-pluralism
 featured: false
 draft: false
 description: A groundbreaking nationwide survey explores what Indians believe about their own and their fellow citizens’ religious faiths
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [20.5937, 78.9629]
 ---
 
-For the John Templeton Foundation, I wrote about a landmark survey unraveling India's unique approach to religious pluralism.
+For the John Templeton Foundation, I wrote about a landmark survey on India's unique approach to religious pluralism.
 
 > The largest-ever study of attitudes about religion and civic life in India has revealed new insights into how the world’s second most-populous nation has developed its own distinct vision of pluralism as a patchwork of separate but mutually influential religious communities — spurring new conversations within India about the nature of identity, tolerance, and politics in the world’s largest democracy. This paradox — of tolerance and segregation — is at the heart of the groundbreaking study, conducted by the Pew Research Center and supported by $2.5 million in funding from the John Templeton Foundation. More than three years in the making, its findings are based on 29,999 face-to-face interviews of adults conducted in 17 languages in late 2019 and early 2020.
 >

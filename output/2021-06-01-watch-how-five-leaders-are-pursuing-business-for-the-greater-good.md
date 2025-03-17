@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-06-01
-modDatetime: 2025-03-17T15:44:53Z
-title: Study of the Day | How Five Leaders Are Pursuing Business for the Greater Good
+modDatetime: 2025-03-17T20:38:13Z
+title: How Five Leaders Are Pursuing Business for the Greater Good
 slug: study-of-the-day-watch-how-five-leaders-are-pursuing-business-for-the-greater-good
 featured: false
 draft: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [30.2672, -97.7431]
 ---
 
-For the John Templeton Foundation, I wrote about how five business leaders are redefining success through ethical capitalism.
+For the John Templeton Foundation, I wrote about business leaders redefining success through ethical capitalism.
 
 > JeVon McCormick, the CEO of Austin, Texas-based book publishing startup [Scribe Media](https://scribemedia.com), keeps an unopened jar of peanut butter on the bookshelf behind his desk. McCormick tells people that he “grew up in chaos,” in a family dependent on welfare checks and food stamps to survive. As a child, that jar of sandwich spread represented an unattainable luxury. Today McCormick keeps it on display as a reminder to himself and others of what it is like to live in need — and what his calling is as an entrepreneur and CEO. “Some people believe that with those three letters come power, but they focus on the wrong power,” McCormick says. “The power that comes from them is the power to serve. That’s it.”
 >

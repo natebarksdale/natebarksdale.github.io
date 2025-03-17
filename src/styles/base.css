@@ -328,7 +328,10 @@ p:not(:last-child)::after {
 
   /* Header styling for different LLMs */
   .llm-header {
-    @apply py-2 px-4 font-bold text-lg lowercase;
+    @apply py-2 px-4 font-normal lowercase text-left;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 80%;
+    padding-left: 14px;
   }
   
   blockquote[data-llm] p {
@@ -355,7 +358,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-claude {
-    @apply bg-[#8d6a58] text-white;
+    color: #8d6a58;
   }
 
   /* ChatGPT - light gray with green accent */
@@ -364,7 +367,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-chatgpt {
-    @apply bg-gray-200 text-gray-600;
+    color: #10a37f;
   }
 
   /* Mistral - red theme */
@@ -373,7 +376,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-mistral {
-    @apply bg-[#d1453b] text-white;
+    color: #d1453b;
   }
   
   blockquote[data-llm="Mistral"] p[data-role="Q"] {
@@ -386,7 +389,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-deepseek {
-    @apply bg-[#5770c7] text-white;
+    color: #5770c7;
   }
   
   /* Gemini - blue theme */
@@ -395,7 +398,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-gemini {
-    @apply bg-[#4b87e2] text-white;
+    color: #4b87e2;
   }
 
   /* Make code blocks inside LLM chats match the blog's code style but with proper context */

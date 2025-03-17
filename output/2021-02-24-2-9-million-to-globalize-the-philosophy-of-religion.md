@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-02-24
-modDatetime: 2025-03-17T15:44:53Z
-title: Study of the Day | $2.9 Million to Globalize the Philosophy of Religion
-slug: study-of-the-day-2-9-million-to-globalize-the-philosophy-of-religion
+modDatetime: 2025-03-17T20:38:13Z
+title: $2.9 Million to Globalize the Philosophy of Religion
+slug: 2-9-million-to-globalize-the-philosophy-of-religion
 featured: false
 draft: false
 description: Amplifying new voices and uncovering important scholarship beyond the Christian and Anglophone worlds
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [52.4862, -1.8904]
 ---
 
-For the John Templeton Foundation, I wrote about a groundbreaking initiative broadening the philosophical exploration of diverse global faiths.
+For the John Templeton Foundation, I wrote about a project to make the study of the philosophy of religion better match the global spectrum of religious approaches.
 
 > Religion is a global phenomenon as diverse as the peoples of the world, but the academic study of the philosophy of religion has long skewed toward English-language work rooted in the traditions of Western Christianity. A new project aims to expand and diversify the perspectives of the field. Led by Yujin Nagasawa, a philosopher of religion at the University of Birmingham in the U.K., and funded with $2.9 million from the John Templeton Foundation, the effort aims to promote the work of researchers from under-reported regions and to support research in the philosophical issues arising from non-Christian theistic religions including Hinduism, Islam, Jainism, Judaism, Shintoism, Sikhism, and Zoroastrianism.
 >
