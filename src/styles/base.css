@@ -336,6 +336,7 @@ blockquote[data-llm] {
 }
 
 /* Header styling - this is critical */
+/* purgecss: ignore next */
 blockquote[data-llm] .llm-header {
   font-family: 'IBM Plex Mono', monospace !important;
   font-size: 80% !important;
@@ -378,6 +379,7 @@ blockquote[data-llm="ChatGPT"] {
   background-color: rgba(16, 163, 127, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="ChatGPT"] .llm-header {
   color: rgb(16, 163, 127) !important; /* 100% theme color */
 }
@@ -392,6 +394,7 @@ blockquote[data-llm="Claude"] {
   background-color: rgba(141, 106, 88, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="Claude"] .llm-header {
   color: rgb(141, 106, 88) !important; /* 100% theme color */
 }
@@ -406,6 +409,7 @@ blockquote[data-llm="Mistral"] {
   background-color: rgba(209, 69, 59, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="Mistral"] .llm-header {
   color: rgb(209, 69, 59) !important; /* 100% theme color */
 }
@@ -420,6 +424,7 @@ blockquote[data-llm="Gemini"] {
   background-color: rgba(75, 135, 226, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="Gemini"] .llm-header {
   color: rgb(75, 135, 226) !important; /* 100% theme color */
 }
@@ -434,6 +439,7 @@ blockquote[data-llm="DeepSeek"] {
   background-color: rgba(87, 112, 199, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="DeepSeek"] .llm-header {
   color: rgb(87, 112, 199) !important; /* 100% theme color */
 }
@@ -443,45 +449,19 @@ blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
   color: rgb(30, 30, 30) !important;
 }
 
-/* Bard - Colorful theme */
-blockquote[data-llm="Bard"] {
-  background-color: rgba(234, 67, 53, 0.1); /* 10% of theme color */
-}
-
-blockquote[data-llm="Bard"] .llm-header {
-  color: rgb(234, 67, 53) !important; /* 100% theme color */
-}
-
-blockquote[data-llm="Bard"] p[data-role="Q"] {
-  background-color: rgba(234, 67, 53, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
-}
 
 /* Llama - Purple theme */
 blockquote[data-llm="Llama"] {
   background-color: rgba(153, 102, 255, 0.1); /* 10% of theme color */
 }
 
+/* purgecss: ignore next */
 blockquote[data-llm="Llama"] .llm-header {
   color: rgb(153, 102, 255) !important; /* 100% theme color */
 }
 
 blockquote[data-llm="Llama"] p[data-role="Q"] {
   background-color: rgba(153, 102, 255, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
-}
-
-/* Anthropic - Alternate Claude Theme */
-blockquote[data-llm="Anthropic"] {
-  background-color: rgba(175, 99, 82, 0.1); /* 10% of theme color */
-}
-
-blockquote[data-llm="Anthropic"] .llm-header {
-  color: rgb(175, 99, 82) !important; /* 100% theme color */
-}
-
-blockquote[data-llm="Anthropic"] p[data-role="Q"] {
-  background-color: rgba(175, 99, 82, 0.25) !important; /* 25% of theme color */
   color: rgb(30, 30, 30) !important;
 }
 
