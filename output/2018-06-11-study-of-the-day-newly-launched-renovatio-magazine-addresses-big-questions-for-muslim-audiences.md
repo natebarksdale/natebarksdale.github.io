@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-11
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | Newly-launched Renovatio magazine addresses big questions for Muslim audiences
 slug: study-of-the-day-newly-launched-renovatio-magazine-addresses-big-questions-for-muslim-audiences
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [37.8716, -122.2727]
 ---
 
-For the John Templeton Foundation, I wrote about the inaugural issue of *Renovatio*, exploring foundational metaphysical questions within the Muslim intellectual tradition.
+For the John Templeton Foundation, I wrote about the *Renovatio*.
 
 > Last spring the inaugural edition of *Renovatio,* a Muslim journal of ideas published by Zaytuna College in Berkeley, addressed various themes in the field of metaphysics. The investigation of first principles and basic assumptions was an especially appropriate topic for the launch of this new intellectual endeavor. While the first issue sought to find areas of philosophical common ground, especially among religious believers, the journal’s second issue, published this past fall, examined how we can promote harmony and tolerance when that common agreement can’t be reached.
 >

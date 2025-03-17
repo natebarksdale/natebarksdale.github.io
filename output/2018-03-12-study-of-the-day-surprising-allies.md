@@ -1,25 +1,26 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | Surprising Allies
 slug: study-of-the-day-surprising-allies
 featured: false
 draft: false
 description: A new book dispels myths about scientists and people of faith
-emoji: 📝
+emoji: 🤝
 tags:
   - 🌀 Templeton
-  - 🎲 Lotteries
-  - 🌠 Mortality
+  - ⛪ Religion
+  - 🧠 Psychology
+  - ⚙️ Technology
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
-coordinates: [51.509865, -0.118092]
+  Science, faith entwined,  
+  Seeking truth, dispelling myths—  
+  Harmony unfolds.
+coordinates: [29.7174, -95.4018]
 ---
 
-For the John Templeton Foundation, I wrote about .
+For the John Templeton Foundation, I wrote about how misconceptions between science and faith are more complex than a simple conflict.
 
 > Rice University sociologist Elaine Howard Ecklund has devoted much of the last decade to dismantling common stereotypes about religion and science, largely by surveying scientists and people of faith to find out what they actually think. Still, whenever she gives an interview on her work, the first question is always, *So, is there a conflict between religion and science?*
 >

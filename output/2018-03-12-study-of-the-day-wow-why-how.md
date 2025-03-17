@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | WOW, WHY, HOW?
 slug: study-of-the-day-wow-why-how
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing interplay of curiosity, ethics, and science in exploration.
+For the John Templeton Foundation, I wrote *Orbiter* magazine.
 
 > When describing his mission as managing editor of *ORBITER *magazine*,* Mark Moring considers the principal characters in the original *Star Trek* series. “I think about Spock, who was obviously intensely interested in the science, the technology, and the nuts and bolts of how things worked,” Moring says. “But he never really asked the questions of *why* things work the way they do. Kirk, on the other hand, was bold to the point of being reckless, sometimes making rash decisions, but unafraid to delve into new things.
 >

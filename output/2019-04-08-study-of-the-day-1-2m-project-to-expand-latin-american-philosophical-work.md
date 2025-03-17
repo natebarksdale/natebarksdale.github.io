@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-08
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | $1.2M Project to Expand Latin American Philosophical Work
 slug: study-of-the-day-1-2m-project-to-expand-latin-american-philosophical-work
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [4.711, -74.0721]
 ---
 
-For the John Templeton Foundation, I wrote about the endeavors to enhance philosophical discussions in Latin America through a significant funding initiative.
+For the John Templeton Foundation, I wrote about the endeavors to enhance philosophical discussions in Latin America.
 
 > A new $1.2 million grant from the John Templeton Foundation aims to accelerate Latin American philosophical work on free will, agency, and responsibility by supporting a series of seminars and fellowships in the region.
 >

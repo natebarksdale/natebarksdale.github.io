@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-09-12
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | Opening Up on Open Science
 slug: study-of-the-day-opening-up-on-open-science
 featured: false
@@ -22,8 +22,8 @@ coordinates: [38.0336, -78.508]
 
 For the John Templeton Foundation, I wrote about the transformative impact of open data practices on scientific research.
 
-> *In late August, subscribers to the email list of the Association for Psychological Science got the latest roundup of studies published in the field’s preeminent empirical journal. Every one of the studies had a badge next to it indicating “Open Data,” meaning that the researchers were making available all of the underlying data to others to examine and probe. The Open Data badge is just one initiative from the Center for Open Science, which received *[a major grant](https://www.templeton.org/grant/increasing-scientific-openness-and-integrity)* from the John Templeton Foundation in 2014. We spoke with Brian Nosek, co-founder and director of the center as well as a professor of psychology at the University of Virginia, about the prospects for a more reliable scientific method.*
->
 > **JTF: How did contemporary scientific research arrive at the present-day “crisis of reproducibility”?**
+>
+> **Nosek:** When you survey researchers on scientific values like transparency and reproducibility of research, over 90 percent of people say they embrace those values. And when you ask them how they behave people mostly say that they behave according the norms of science. But when you ask, “How do other people in your field behave?” they say, “Oh, most people don’t behave like that.”
 
 [Read more at templeton.org](https://www.templeton.org/news/opening-open-science)

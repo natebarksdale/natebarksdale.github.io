@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-29
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | How Does Religious Participation Affect Human Flourishing?
 slug: study-of-the-day-how-does-religious-participation-affect-human-flourishing
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [42.378, -71.116]
 ---
 
-For the John Templeton Foundation, I wrote about the profound implications of religious engagement on personal and communal well-being.
+For the John Templeton Foundation, I wrote about the implications of religious engagement on personal and communal well-being.
 
 > A new set of studies based at Harvard’s T.H. Chan School of Public Health will examine the ways that individual religious participation can contribute to various aspects of human flourishing over the long term. The three-year project, made possible by a $1.23 million grant from the John Templeton Foundation, will offer an unprecedented examination of the potential effects of religion on happiness, life satisfaction, meaning and purpose, character, and social relationships.
 >

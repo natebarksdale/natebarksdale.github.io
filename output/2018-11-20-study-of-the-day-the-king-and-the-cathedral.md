@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-20
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | The King and the Cathedral
 slug: study-of-the-day-the-king-and-the-cathedral
 featured: false
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [38.9305, -77.0709]
 ---
 
-For the John Templeton Foundation, I wrote about the enduring efforts to bridge religious divides through visionary leadership.
+For the John Templeton Foundation, I wrote about Abdullah II's Templeton Prize ceremony.
 
 > Cathedrals don’t just happen overnight — they require of their planners, funders, and craftsmen a time horizon better suited for institutions than individuals, and a willingness to do one’s work without the guarantee of ever seeing the end result. The first proposal for the church that became the Washington National Cathedral was made in 1791, but it was more than a century before the builders laid the foundation stone. Its main sanctuary opened to the public in 1932. In 1990, nearly 200 years after its conception, workers finished erecting the cathedral’s tower. Even before its completion, the Cathedral served as both the seat of the U.S. Episcopal Church’s presiding bishop and as the “great church for national purposes” envisioned by city planner Pierre L’Enfant.
 >

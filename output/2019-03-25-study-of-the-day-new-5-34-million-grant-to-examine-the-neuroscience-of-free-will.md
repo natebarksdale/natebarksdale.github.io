@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-03-25
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | New $5.34 Million Grant to Examine the Neuroscience of Free Will
 slug: study-of-the-day-new-5-34-million-grant-to-examine-the-neuroscience-of-free-will
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [33.793314, -117.853294]
 ---
 
-For the John Templeton Foundation, I wrote about an intriguing investigation into the depths of human autonomy and the science behind our choices.
+For the John Templeton Foundation, I wrote about an intriguing investigation into the depths of human autonomy.
 
 > Think about a decision you’ve made — a big one like where to go to college, or a tiny one like whether to pick up your phone. People take for granted that they act according to their decisions, and that our actions only begin once we’ve made a conscious choice. But is it really true? Several fascinating experiments have suggested otherwise. Beginning this year, a 17-member international team of leading neuroscientists and philosophers will undertake an ambitious four-year set of studies to expand our understanding of decision and action, funded by a $5.34 million grant from the John Templeton Foundation and a $1.7 million grant from the Fetzer Institute. The project, led by Chapman University computational neuroscientist Uri Maoz, will seek to tease apart, conjecture by conjecture, whether it can be shown that our behavior is guided by conscious intentions, reached by rational deliberation — in essence, whether this robust understanding of free will can be backed by scientific evidence.
 >

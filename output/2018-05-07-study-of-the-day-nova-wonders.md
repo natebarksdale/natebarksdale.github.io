@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-07
-modDatetime: 2025-03-17
+modDatetime: 2025-03-17T18:07:03Z
 title: Study of the Day | NOVA Wonders
 slug: study-of-the-day-nova-wonders
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [42.3581, -71.0636]
 ---
 
-For the John Templeton Foundation, I wrote about the awe-inspiring mysteries of the cosmos explored in the new *NOVA Wonders* series.
+For the John Templeton Foundation, I wrote about the new *NOVA Wonders* series.
 
 > Across the globe and across history, people have looked up at the night sky and wondered about what they were seeing, and what remains hidden, in the heavens. With the help of modern science, we now know an incredible amount about what the universe contains, but have an equally potent awareness of just how much we don’t know. Fundamental questions — “What is the universe made of?” or “Are we alone?” — remain to be answered.
 >
