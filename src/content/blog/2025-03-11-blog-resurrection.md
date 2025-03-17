@@ -31,17 +31,15 @@ The Wordpress blog still, technically, existed on its old server, but neither th
 
 I new I had the content in there somewhere, and that I wanted to break out the posts in `markdown` files (basically lightly formatted plain text) used by my new blog setup. I fired up `ChatGPT` and gave it the following prompt:
 
-```
-I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post_author":"1","post_date":"2009-05-26 ... [followed by more json]
-```
+> {ChatGPT}
+> {Q}I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post_author":"1","post_date":"2009-05-26 ... [followed by more json]
 
 ... and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
 
 After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
 
-```
-Cool. How would I test the script on my Mac?
-```
+> {ChatGPT}
+> {Q}Cool. How would I test the script on my Mac?
 
 I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
 
@@ -55,9 +53,8 @@ I followed the instructions and ... it didn't work. Hence more digging into the 
 
 In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
 
-```
-I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
-```
+> {ChatGPT}
+> {Q}I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
 
 Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
 
@@ -65,41 +62,44 @@ Back to the error dance until I got a version that ran. Then more back-and-forth
 
 Resurrection is a tricky business, and I knew that many of the things I had linked back in my 2008-10 blogging heyday would have been rotted out. So I had the `LLM` come up with another python script that would go through each Markdown file, look for links, check those links, and then replace broken links with a working fallback. My initial idea was to just construct a simple Google search link from the link text itself, but in practice these searchers were usually not very useful. Instead, what I landed on was generating and then checking a Wayback Machine link for an archived version of whatever page I had linked. Only if this failed would we fall further back to a Google search.
 
-```
-			# Process non-image links
-			md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
-			for m in re.finditer(md_link_pattern, modified_content):
-				link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
-				link_url = raw_link_url.split()[0]
+> {ChatGPT}
+> {A}```
 
-				if is_link_broken(link_url, filepath):
-					stripped_url = strip_query_params(link_url)
-					if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
-						replacement_url = stripped_url
-						print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
-					else:
-						wayback_url = check_wayback_link(link_url)
-						if wayback_url:
-							replacement_url = wayback_url
-							print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
-						else:
-							site_name = extract_site_name(link_url)
-							search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
-							replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
-							print(f"Replaced {link_url} with Google search: {replacement_url}")
+    		# Process non-image links
+    		md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
+    		for m in re.finditer(md_link_pattern, modified_content):
+    			link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
+    			link_url = raw_link_url.split()[0]
 
-					modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
-					link_replacements_made = True
+    			if is_link_broken(link_url, filepath):
+    				stripped_url = strip_query_params(link_url)
+    				if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
+    					replacement_url = stripped_url
+    					print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
+    				else:
+    					wayback_url = check_wayback_link(link_url)
+    					if wayback_url:
+    						replacement_url = wayback_url
+    						print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
+    					else:
+    						site_name = extract_site_name(link_url)
+    						search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
+    						replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
+    						print(f"Replaced {link_url} with Google search: {replacement_url}")
 
-					if modified_content != content_no_pub:
-						with open(filepath, "w", encoding="utf-8") as f:
-							f.write(modified_content)
-						new_filepath = os.path.join(fixed_links_folder, filename)
-						if os.path.exists(filepath):
-							os.rename(filepath, new_filepath)
-							print(f"Moved {filename} to fixed_links folder")
-					else:
-						print(f"No broken non-image links fixed in {filename}; file left in place.")
+    				modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
+    				link_replacements_made = True
+
+    				if modified_content != content_no_pub:
+    					with open(filepath, "w", encoding="utf-8") as f:
+    						f.write(modified_content)
+    					new_filepath = os.path.join(fixed_links_folder, filename)
+    					if os.path.exists(filepath):
+    						os.rename(filepath, new_filepath)
+    						print(f"Moved {filename} to fixed_links folder")
+    				else:
+    					print(f"No broken non-image links fixed in {filename}; file left in place.")
+
 ```
 
 And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
@@ -111,7 +111,9 @@ One thing I realized is that AstroBlog needs each Markdown file to contain a des
 Ah, but looking at text and coming up with a plausible summary is just the sort of thing that LLMs excel at, if only I could automate the prompting. I realized I could do just that, using [Simon Willison](https://simonwillison.net)'s [LLM Plugin](https://llm.datasette.io/en/stable/index.html), which gives a command-line interface for LLM requests. Once it's set up (and you've authorized it to a funded LLM account) you can type things like
 
 ```
+
 llm "Eight hilariously incorrect facts about Martin Van Buren"
+
 ```
 
 and get a result. In this case, I had ChatGPT help me figure out how to make a Python script that would:
@@ -139,3 +141,36 @@ In London there's a nice plaque marking the site of the Fortune of War, a pub at
 Trying to pull my own blog back from online death (and the growing stench of link rot) has seemed, over the past few weeks, to be an enterprise both dubious and thrilling. It's fun seeing my old, un-remembered posts and remarks. And I'm learning a bit of anatomy as well — about what works, and doesn't, with the current tools on hand.
 
 One of the recurring features on the Culture Making blog was what Andy and I called the Five Questions (taken, of course from the book), where each week we'd interrogate a cultural artifact, asking what it says about the world, what it makes possible, or impossible, or difficult, and what new culture is created in response. This new era for the old material asks, and answers, those questions in so many ways — ways I hope to explore a bit more in the site's current resurrected state.
+
+Other LLM formats:
+
+>{ChatGPT}
+>{Q}What's a cool name for my dog?
+>{A}Fido or rex -- which do you like?
+>{Q}Rex is pretty good. Thanks!
+>{A}No problem!
+
+>{Claude}
+>{Q}What's a cool name for my dog?
+>{A}Fido or rex -- which do you like?
+>{Q}Rex is pretty good. Thanks!
+>{A}No problem!
+
+>{Gemini}
+>{Q}What's a cool name for my dog?
+>{A}Fido or rex -- which do you like?
+>{Q}Rex is pretty good. Thanks!
+>{A}No problem!
+
+>{Mistral}
+>{Q}What's a cool name for my dog?
+>{A}Fido or rex -- which do you like?
+>{Q}Rex is pretty good. Thanks!
+>{A}No problem!
+
+>{Deepseek}
+>{Q}What's a cool name for my dog?
+>{A}Fido or rex -- which do you like?
+>{Q}Rex is pretty good. Thanks!
+>{A}No problem!
+```
