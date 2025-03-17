@@ -627,7 +627,7 @@ modDatetime: {article_data['modDatetime']}
 title: {title}
 slug: {slug}
 featured: false
-draft: true
+draft: false
 description: {description}
 emoji: {emoji}
 tags:

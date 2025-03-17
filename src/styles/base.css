@@ -233,8 +233,7 @@ p:not(:last-child)::after {
     @apply prose-headings:!mb-3 prose-headings:!text-skin-base prose-headings:uppercase prose-headings:text-xl
     prose-h3:italic prose-p:!text-skin-base 
     prose-a:!text-skin-base prose-a:!fancy-underline prose-a:fancy-underline
-    hover:prose-a:text-skin-accent prose-blockquote:not([data-llm]):!border-l-skin-accent 
-    prose-blockquote:not([data-llm]):border-opacity-50 prose-blockquote:not([data-llm]):opacity-80
+    hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
     prose-figcaption:!text-skin-base prose-figcaption:opacity-70
     prose-strong:!text-skin-base
     prose-blockquote:before:content-none prose-blockquote:after:content-none
@@ -313,114 +312,118 @@ p:not(:last-child)::after {
     quotes: none !important;
   }
 
+/* Add this within your @layer base { ... } section */
+  
   /* LLM Chat styling */
-blockquote[data-llm] {
-  @apply p-4 my-6 border border-skin-line rounded-md bg-skin-card overflow-hidden;
-  font-family: 'Faune', sans-serif;
-}
+  blockquote[data-llm] {
+    @apply p-4 my-6 border border-skin-line rounded-md bg-skin-card overflow-hidden;
+    font-family: 'Faune', sans-serif;
+    border-left: none !important; /* Override the default blockquote styling */
+    opacity: 1 !important; /* Override the default blockquote opacity */
+  }
 
-blockquote[data-llm]::before {
-  content: attr(data-llm);
-  @apply block py-2 px-4 -mx-4 -mt-4 mb-4 bg-skin-accent bg-opacity-10 text-skin-accent font-bold;
-}
+  blockquote[data-llm]::before {
+    content: attr(data-llm);
+    @apply block py-2 px-4 -mx-4 -mt-4 mb-4 font-bold;
+  }
 
-blockquote[data-llm] p {
-  @apply mb-4 last:mb-0;
-}
+  blockquote[data-llm] p {
+    @apply mb-4 last:mb-0;
+  }
 
-blockquote[data-llm] p[data-role="Q"] {
-  @apply pl-4 border-l-4 border-skin-accent;
-}
+  blockquote[data-llm] p[data-role="Q"] {
+    @apply pl-4 border-l-4;
+  }
 
-blockquote[data-llm] p[data-role="A"] {
-  @apply pl-4 border-l-4 border-skin-accent border-opacity-30;
-}
+  blockquote[data-llm] p[data-role="A"] {
+    @apply pl-4 border-l-4 border-opacity-30;
+  }
 
-/* LLM color variations */
-blockquote[data-llm="ChatGPT"] {
-  --llm-color: 22, 163, 74; /* Green */
-}
+  /* LLM color variations */
+  blockquote[data-llm="ChatGPT"] {
+    --llm-color: 22, 163, 74; /* Green */
+  }
 
-blockquote[data-llm="ChatGPT"]::before {
-  @apply bg-green-700 bg-opacity-10 text-green-700;
-}
+  blockquote[data-llm="ChatGPT"]::before {
+    @apply bg-green-100 text-green-700;
+  }
 
-blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
-  @apply border-green-700;
-}
+  blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
+    @apply border-green-600;
+  }
 
-blockquote[data-llm="ChatGPT"] p[data-role="A"] {
-  @apply border-green-700 border-opacity-30;
-}
+  blockquote[data-llm="ChatGPT"] p[data-role="A"] {
+    @apply border-green-400;
+  }
 
-blockquote[data-llm="Claude"] {
-  --llm-color: 79, 70, 229; /* Indigo */
-}
+  blockquote[data-llm="Claude"] {
+    --llm-color: 79, 70, 229; /* Indigo */
+  }
 
-blockquote[data-llm="Claude"]::before {
-  @apply bg-indigo-700 bg-opacity-10 text-indigo-700;
-}
+  blockquote[data-llm="Claude"]::before {
+    @apply bg-indigo-100 text-indigo-700;
+  }
 
-blockquote[data-llm="Claude"] p[data-role="Q"] {
-  @apply border-indigo-700;
-}
+  blockquote[data-llm="Claude"] p[data-role="Q"] {
+    @apply border-indigo-600;
+  }
 
-blockquote[data-llm="Claude"] p[data-role="A"] {
-  @apply border-indigo-700 border-opacity-30;
-}
+  blockquote[data-llm="Claude"] p[data-role="A"] {
+    @apply border-indigo-400;
+  }
 
-blockquote[data-llm="DeepSeek"] {
-  --llm-color: 217, 70, 239; /* Purple */
-}
+  blockquote[data-llm="DeepSeek"] {
+    --llm-color: 217, 70, 239; /* Purple */
+  }
 
-blockquote[data-llm="DeepSeek"]::before {
-  @apply bg-purple-700 bg-opacity-10 text-purple-700;
-}
+  blockquote[data-llm="DeepSeek"]::before {
+    @apply bg-purple-100 text-purple-700;
+  }
 
-blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
-  @apply border-purple-700;
-}
+  blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
+    @apply border-purple-600;
+  }
 
-blockquote[data-llm="DeepSeek"] p[data-role="A"] {
-  @apply border-purple-700 border-opacity-30;
-}
+  blockquote[data-llm="DeepSeek"] p[data-role="A"] {
+    @apply border-purple-400;
+  }
 
-blockquote[data-llm="Gemini"] {
-  --llm-color: 59, 130, 246; /* Blue */
-}
+  blockquote[data-llm="Gemini"] {
+    --llm-color: 59, 130, 246; /* Blue */
+  }
 
-blockquote[data-llm="Gemini"]::before {
-  @apply bg-blue-700 bg-opacity-10 text-blue-700;
-}
+  blockquote[data-llm="Gemini"]::before {
+    @apply bg-blue-100 text-blue-700;
+  }
 
-blockquote[data-llm="Gemini"] p[data-role="Q"] {
-  @apply border-blue-700;
-}
+  blockquote[data-llm="Gemini"] p[data-role="Q"] {
+    @apply border-blue-600;
+  }
 
-blockquote[data-llm="Gemini"] p[data-role="A"] {
-  @apply border-blue-700 border-opacity-30;
-}
+  blockquote[data-llm="Gemini"] p[data-role="A"] {
+    @apply border-blue-400;
+  }
 
-blockquote[data-llm="Mistral"] {
-  --llm-color: 234, 88, 12; /* Orange */
-}
+  blockquote[data-llm="Mistral"] {
+    --llm-color: 234, 88, 12; /* Orange */
+  }
 
-blockquote[data-llm="Mistral"]::before {
-  @apply bg-orange-700 bg-opacity-10 text-orange-700;
-}
+  blockquote[data-llm="Mistral"]::before {
+    @apply bg-orange-100 text-orange-700;
+  }
 
-blockquote[data-llm="Mistral"] p[data-role="Q"] {
-  @apply border-orange-700;
-}
+  blockquote[data-llm="Mistral"] p[data-role="Q"] {
+    @apply border-orange-600;
+  }
 
-blockquote[data-llm="Mistral"] p[data-role="A"] {
-  @apply border-orange-700 border-opacity-30;
-}
+  blockquote[data-llm="Mistral"] p[data-role="A"] {
+    @apply border-orange-400;
+  }
 
-/* Make code blocks inside LLM chats match the blog's code style but with proper context */
-blockquote[data-llm] code {
-  @apply bg-skin-fill text-xs p-1 rounded;
-}
+  /* Make code blocks inside LLM chats match the blog's code style but with proper context */
+  blockquote[data-llm] code {
+    @apply bg-skin-fill text-xs p-1 rounded;
+  }
 
 }
 
