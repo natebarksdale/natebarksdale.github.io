@@ -439,14 +439,3 @@ p:not(:last-child)::after {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
 }
-/* Highest priority LLM chat styles */
-blockquote[data-llm] .llm-header {
-  font-family: 'IBM Plex Mono', monospace !important;
-  font-size: 80% !important;
-  font-weight: normal !important;
-  text-transform: lowercase !important;
-  text-align: left !important;
-  padding: 8px 4px 8px 14px !important;
-  margin: 0 !important;
-  line-height: 1.2 !important;
-}
