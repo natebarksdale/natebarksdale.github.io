@@ -330,7 +330,7 @@ p:not(:last-child)::after {
   /* Header styling for different LLMs */
   .llm-header {
     @apply py-2 px-4 font-normal lowercase text-left;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Mono', monospace !important;
     font-size: 60%;
     padding-left: 14px;
   }
@@ -359,7 +359,7 @@ p:not(:last-child)::after {
   }
   
   .llm-header-claude {
-    color: #8d6a58;
+    color: #8d6a58 !important;
   }
 
   /* ChatGPT - light gray with green accent */
