@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-07-10
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17 15:44:51+00:00
 title: How Life’s Upheavals Shape Us
-slug: study-of-the-day-how-lifes-upheavals-shape-us
-featured: false
-draft: false
+slug: how-lifes-upheavals-shape-us
+featured: False
+draft: False
 description: A Big Data Approach to Mapping the Effects of Transformative Events
 emoji: 🌀
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Life's sharp turns reshape,
   Words trace changes in our souls—
   New paths emerge clear.
+
 coordinates: [42.2808, -83.743]
 ---
 

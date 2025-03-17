@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-09-23
-modDatetime: 2025-03-17T20:59:32Z
+modDatetime: 2025-03-17 20:59:32+00:00
 title: Paul Davies on ‘What’s Eating the Universe?’
-slug: study-of-the-day-paul-davies-on-whats-eating-the-universe
-featured: false
-draft: false
+slug: paul-davies-on-whats-eating-the-universe
+featured: False
+draft: False
 description: Paul Davies explores the universe's deepest mysteries, from the origins of the cosmos to the possibility of time travel, in his latest thought-provoking book.
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cosmic questions loom,  
   Dark sky whispers ancient tales,  
   Universe consumes.
+
 coordinates: [33.424564, -111.928001]
 ---
 

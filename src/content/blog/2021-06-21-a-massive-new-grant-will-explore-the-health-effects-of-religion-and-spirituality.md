@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-06-21
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17 20:38:13+00:00
 title: A Massive New Grant Will Explore the Health Effects of Religion and Spirituality
-slug: study-of-the-day-a-massive-new-grant-will-explore-the-health-effects-of-religion-and-spirituality
-featured: false
-draft: false
+slug: a-massive-new-grant-will-explore-the-health-effects-of-religion-and-spirituality
+featured: False
+draft: False
 description: For 30 Years This Gold-Standard Study Has Generated Insights on Human Health
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Lifelong health tracked well,  
   Spirit's role now takes the stage,  
   Insights like soft light.
+
 coordinates: [51.4545, -2.5879]
 ---
 

@@ -4,8 +4,8 @@ pubDatetime: 2019-11-19
 modDate: 2019-11-19
 title: Creating jobs and alleviating poverty through business support in Indonesia
 slug: creating-jobs-and-alleviating-poverty-through-business-support-in-indonesia
-featured: false
-draft: false
+featured: False
+draft: False
 description: Helping entrepreneurs grow their enterprises as part of a flourishing business community
 emoji: 📈
 tags:
@@ -17,7 +17,9 @@ haiku: |
   Indonesia grows strong,  
   Entrepreneurs bloom, jobs wake,  
   Hope spreads with each dawn.
+
 coordinates: [-0.789275, 113.921327]
+modDatetime: 2025-03-17
 ---
 
 For the John Templeton Foundation, I wrote about an initiative supporting Indonesian entrepreneurs to bolster economic growth.

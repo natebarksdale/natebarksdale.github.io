@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-10
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17 18:07:03+00:00
 title: Templeton-Backed Scientists Unveil First-Ever Black Hole Image
-slug: study-of-the-day-templeton-backed-scientists-unveil-first-ever-black-hole-image
-featured: false
-draft: false
+slug: templeton-backed-scientists-unveil-first-ever-black-hole-image
+featured: False
+draft: False
 description: Discover how scientists, backed by a $7.2 million grant, captured the first-ever image of a black hole, unveiling the mysteries of Messier 87.
 emoji: 🕳️
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Shadow ring aglow,  
   Galactic heart captured whole,  
   Science unveils void.
+
 coordinates: [38.89511, -77.03637]
 ---
 

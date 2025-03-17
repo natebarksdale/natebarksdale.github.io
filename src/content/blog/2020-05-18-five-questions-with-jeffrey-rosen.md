@@ -1,24 +1,24 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2020-05-18
+pubDatetime: 2025-03-17
 modDatetime: 2025-03-17
-title: Study of the Day | Q&A: Five Questions with Jeffrey Rosen
-slug: study-of-the-day-q-a-five-questions-with-jeffrey-rosen
-featured: false
-draft: false
-description: Jeffrey Rosen discusses adapting the National Constitution Center to the pandemic and tackles big legal questions in a revealing Q&A.
-emoji: 👨
+title: For the John Templeton Foundation, I wrote about J
+slug: for-the-john-templeton-foundation-i-wrote-about-j
+featured: False
+draft: False
+description: Explore how the National Constitution Center embraces remote education and reaches new audiences, as Jeffrey Rosen discusses constitutional challenges during COVID-19.
+emoji: 📝
 tags:
-  - 🌀 Templeton
-  - 🇺🇸 United States
-  - ⚖️ Law
-  - 📰 Media
+  - 🏛️ Government
   - 👩‍🏫 Education
+  - 🌐 Digital
+  - 📖 Articles
+  - 🌀 Templeton
 haiku: |
-  In pandemic's grasp,  
-  Constitution's voice echoes,  
-  Adapting through change.
-coordinates: [39.9526, -75.1652]
+  Words flow like water,
+  Thoughts captured in black and white,
+  Stories come alive.
+coordinates: [51.509865, -0.118092]
 ---
 
 For the John Templeton Foundation, I wrote about Jeffrey Rosen's insights into constitutional challenges during the COVID-19 era.

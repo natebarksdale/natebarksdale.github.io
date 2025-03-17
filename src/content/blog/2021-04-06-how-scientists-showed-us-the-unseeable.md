@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-04-06
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17 20:38:13+00:00
 title: How Scientists Showed Us the Unseeable
-slug: study-of-the-day-how-scientists-showed-us-the-unseeable
-featured: false
-draft: false
+slug: how-scientists-showed-us-the-unseeable
+featured: False
+draft: False
 description: Pulling Back the Curtain on a Black Hole Breakthrough
 emoji: 🔭
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Shadowed ring unveiled,  
   Worlds unite, gaze the cosmos,  
   Science bridges void.
+
 coordinates: [42.378, -71.116]
 ---
 

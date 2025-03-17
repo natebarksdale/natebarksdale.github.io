@@ -1,24 +1,24 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2020-09-28
-modDatetime: 2025-03-17T15:44:52Z
-title: Harmony in Hard Times
-slug: harmony-in-hard-times
-featured: false
-draft: false
-description: Honoring Geneticist, Physician, and NIH Director Francis Collins
-in a Ceremony Like No Other
-emoji: 🕊️
+pubDatetime: 2025-03-17
+modDatetime: 2025-03-17
+title: For the John Templeton Foundation, I wrote about 2
+slug: for-the-john-templeton-foundation-i-wrote-about-2
+featured: False
+draft: False
+description: Relive the unique 2020 Templeton Prize ceremony, where an almost empty auditorium hosted a global audience celebrating the 50th laureate.
+emoji: 🏆
 tags:
-  - 🌀 Templeton
-  - ⚕️ Medicine
-  - 🌍 Health
-  - 🇺🇸 United States
+  - 🏆 Awards
+  - 🎉 Celebration
+  - 🌐 Digital
+  - 💵 Philanthropy
+  - 🙏 Faith
 haiku: |
-  Empty seats echo,  
-  Masked faces seek harmony,  
-  Science leads with hope.
-coordinates: [38.89511, -77.03637]
+  Empty seats abound,
+  Global viewers gather near,
+  Prize shines through the screen.
+coordinates: [51.509865, -0.118092]
 ---
 
 For the John Templeton Foundation, I wrote about 2020 Templeton Prize ceremony.

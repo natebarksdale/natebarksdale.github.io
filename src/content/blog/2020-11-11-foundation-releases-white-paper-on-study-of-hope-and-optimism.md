@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-11-11
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17 15:44:52+00:00
 title: Hope and Optimism - The White Paper
-slug: foundation-releases-white-paper-on-study-of-hope-and-optimism
-featured: false
-draft: false
+slug: hope-and-optimism-the-white-paper
+featured: False
+draft: False
 description: A new report explores the benefits of two related virtues.
 emoji: 🌟
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Hope, optimism's glow,  
   Surprising paths light the dark,  
   History teaches.
+
 coordinates: [43.658, -79.3793]
 ---
 
