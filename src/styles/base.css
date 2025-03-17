@@ -318,6 +318,8 @@ p:not(:last-child)::after {
   blockquote[data-llm] {
     @apply p-0 my-6 border rounded-xl overflow-hidden;
     font-family: 'Faune', sans-serif;
+    font-style: normal;
+    font-weight: normal;
     border-left: none !important;
     opacity: 1 !important;
     border-color: rgba(0,0,0,0.1);
@@ -330,16 +332,20 @@ p:not(:last-child)::after {
   }
   
   blockquote[data-llm] p {
-    @apply mx-4 my-4 py-2 px-4 rounded-xl max-w-[80%];
+    @apply my-4 py-2 px-4 rounded-xl;
   }
 
   blockquote[data-llm] p[data-role="Q"] {
     @apply ml-auto mr-4 bg-gray-200 text-gray-800;
+    max-width: 70%;
+    width: fit-content;
     border-radius: 18px 18px 4px 18px;
   }
 
   blockquote[data-llm] p[data-role="A"] {
     @apply ml-4 mr-auto bg-white text-gray-800;
+    max-width: 90%;
+    width: fit-content;
     border-radius: 18px 18px 18px 4px;
   }
 
