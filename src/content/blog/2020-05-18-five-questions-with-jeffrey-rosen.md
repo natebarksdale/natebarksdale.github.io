@@ -23,7 +23,7 @@ coordinates: [39.9526, -75.1652]
 
 For the John Templeton Foundation, I wrote about Jeffrey Rosen's insights into constitutional challenges during the COVID-19 era.
 
-> *How is the COVID-19 crisis affecting the National Constitution Center’s work?*
+> _How is the COVID-19 crisis affecting the National Constitution Center’s work?_
 >
 > As soon as the crisis began, we immediately embraced the challenge and opportunities of providing remote online educational opportunities, and we’ve found an extraordinarily responsive and large audience. We’re reaching learners of all ages across America we weren’t reaching before.
 >

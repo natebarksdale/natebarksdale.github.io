@@ -22,7 +22,7 @@ coordinates: [34.414, -119.8489]
 
 For the John Templeton Foundation, I wrote about the intricate ways we define and study religious experiences.
 
-> What constitutes a religious experience? It depends, of course, on who you ask. Even among academics who study religion and psychology, whether an experience is regarded as *religious* rather than simply *unusual* depends on the expectations of both the one who asks and the one who answers — one person’s mystical trance may be another person’s psychotic episode.
+> What constitutes a religious experience? It depends, of course, on who you ask. Even among academics who study religion and psychology, whether an experience is regarded as _religious_ rather than simply _unusual_ depends on the expectations of both the one who asks and the one who answers — one person’s mystical trance may be another person’s psychotic episode.
 >
 > Over the past several years, religious studies professor Ann Taves of the University of California, Santa Barbara, psychologist Michael Barlev, and ethnographer Michael Kinsella have developed a set of cross-cultural data-gathering tools to assess extraordinary experiences and the ways that such experiences are categorized by individuals and by cultural groups. Now, funded in part by a grant from the John Templeton Foundation, Taves and her colleagues are working to validate the Inventory of Non-Ordinary Experiences (INOE) through a series of tests of the experiences and interpretations reported by thousands of participants in the United States and India.
 
