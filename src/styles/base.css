@@ -319,6 +319,7 @@ p:not(:last-child)::after {
     @apply p-0 my-6 border rounded-xl overflow-hidden;
     font-family: 'Faune', sans-serif;
     font-style: normal;
+    font-size: 80%;
     font-weight: normal;
     border-left: none !important;
     opacity: 1 !important;
@@ -330,7 +331,7 @@ p:not(:last-child)::after {
   .llm-header {
     @apply py-2 px-4 font-normal lowercase text-left;
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 80%;
+    font-size: 60%;
     padding-left: 14px;
   }
   
