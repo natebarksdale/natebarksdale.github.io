@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | Theologically-Engaged Anthropology: What Can Theology Contribute to Cultural Anthropology and ethnography?
-slug: grant-profile-theologically-engaged-anthropology-what-can-theology-contribute-to-cultural-anthropology-and-ethnography
+modDatetime: 2025-03-17T22:26:27Z
+title: Grant Profile | Theologically-Engaged Anthropology
+slug: grant-profile-theologically-engaged-anthropology
 featured: false
 draft: false
 description: Anthropologists are sometimes ill-equipped to interpret the religious motivations of their subjects. A new initiative is trying to change that.

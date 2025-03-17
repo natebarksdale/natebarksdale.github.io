@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-06-21
-modDatetime: 2025-03-17 20:38:13+00:00
+modDatetime: 2025-03-17
 title: A Massive New Grant Will Explore the Health Effects of Religion and Spirituality
 slug: a-massive-new-grant-will-explore-the-health-effects-of-religion-and-spirituality
 featured: False

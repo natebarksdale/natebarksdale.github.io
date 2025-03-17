@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-10-06
-modDatetime: 2025-03-17T21:39:21Z
+modDatetime: 2025-03-17T22:26:27Z
 title: Is One of Biology’s Perennial Themes Ready For a Fresh Look? Alan Love on the Science of Purpose.
 slug: is-one-of-biologys-perennial-themes-ready-for-a-fresh-look-alan-love-on-the-science-of-purpose
 featured: false

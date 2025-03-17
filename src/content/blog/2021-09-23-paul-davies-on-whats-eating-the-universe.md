@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-09-23
-modDatetime: 2025-03-17 20:59:32+00:00
+modDatetime: 2025-03-17
 title: Paul Davies on ‘What’s Eating the Universe?’
 slug: paul-davies-on-whats-eating-the-universe
 featured: False

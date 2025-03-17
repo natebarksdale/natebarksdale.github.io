@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-08-24
-modDatetime: 2025-03-17 20:38:13+00:00
+modDatetime: 2025-03-17
 title: Quantum biology and the arrow of time
 slug: quantum-biology-and-the-arrow-of-time
 featured: False

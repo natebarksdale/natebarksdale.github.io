@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | The Virtue of Curiosity: How Eagerness to Learn Fosters Learning, Creativity and Engagement
-slug: grant-profile-the-virtue-of-curiosity-how-eagerness-to-learn-fosters-learning-creativity-and-engagement
+modDatetime: 2025-03-17T22:26:27Z
+title: Grant Profile | The Virtue of Curiosity
+slug: grant-profile-the-virtue-of-curiosity
 featured: false
 draft: false
 description: A quartet of researchers are using computer games and brain scans to measure — and manipulate — our desire to know.

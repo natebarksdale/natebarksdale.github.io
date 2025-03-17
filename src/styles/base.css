@@ -332,7 +332,7 @@ blockquote[data-llm] {
   border-left: none !important;
   opacity: 1 !important;
   border-color: rgba(0,0,0,0.1);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  /* box-shadow: 0 2px 8px rgba(0,0,0,0.05); */
 }
 
 /* Header styling - this is critical */
@@ -379,10 +379,6 @@ blockquote[data-llm="ChatGPT"] {
   background-color: rgba(144, 144, 144, 0.1); /* 10% of theme color */
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(144, 144, 144) !important; /* 100% theme color */
-}
 
 blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
   background-color: rgba(144, 144, 144, 0.25) !important; /* 25% of theme color */
@@ -394,10 +390,7 @@ blockquote[data-llm="Claude"] {
   background-color: rgba(218, 119, 86, 0.1); /* 10% of theme color */
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="Claude"] .llm-header {
-  color: rgb(218, 119, 86) !important; /* 100% theme color */
-}
+
 
 blockquote[data-llm="Claude"] p[data-role="Q"] {
   background-color: rgba(218, 119, 86, 0.25) !important; /* 25% of theme color */
@@ -409,10 +402,6 @@ blockquote[data-llm="Mistral"] {
   background-color: rgba(209, 69, 59, 0.1); /* 10% of theme color */
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="Mistral"] .llm-header {
-  color: rgb(209, 69, 59) !important; /* 100% theme color */
-}
 
 blockquote[data-llm="Mistral"] p[data-role="Q"] {
   background-color: rgba(209, 69, 59, 0.25) !important; /* 25% of theme color */
@@ -422,11 +411,6 @@ blockquote[data-llm="Mistral"] p[data-role="Q"] {
 /* Gemini - Blue theme */
 blockquote[data-llm="Gemini"] {
   background-color: rgba(75, 135, 226, 0.1); /* 10% of theme color */
-}
-
-/* purgecss: ignore next */
-blockquote[data-llm="Gemini"] .llm-header {
-  color: rgb(75, 135, 226) !important; /* 100% theme color */
 }
 
 blockquote[data-llm="Gemini"] p[data-role="Q"] {
@@ -439,10 +423,6 @@ blockquote[data-llm="DeepSeek"] {
   background-color: rgba(87, 112, 199, 0.1); /* 10% of theme color */
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="DeepSeek"] .llm-header {
-  color: rgb(87, 112, 199) !important; /* 100% theme color */
-}
 
 blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
   background-color: rgba(87, 112, 199, 0.25) !important; /* 25% of theme color */
@@ -455,10 +435,6 @@ blockquote[data-llm="Llama"] {
   background-color: rgba(153, 102, 255, 0.1); /* 10% of theme color */
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="Llama"] .llm-header {
-  color: rgb(153, 102, 255) !important; /* 100% theme color */
-}
 
 blockquote[data-llm="Llama"] p[data-role="Q"] {
   background-color: rgba(153, 102, 255, 0.25) !important; /* 25% of theme color */
@@ -490,4 +466,35 @@ blockquote[data-llm] .llm-header {
   padding: 8px 4px 8px 14px !important;
   margin: 0 !important;
   line-height: 1.2 !important;
+}
+
+/* purgecss: ignore next */
+blockquote[data-llm="ChatGPT"] .llm-header {
+  color: rgb(144, 144, 144) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Llama"] .llm-header {
+  color: rgb(153, 102, 255) !important; /* 100% theme color */
+}
+
+/* purgecss: ignore next */
+blockquote[data-llm="DeepSeek"] .llm-header {
+  color: rgb(87, 112, 199) !important; /* 100% theme color */
+}
+
+/* purgecss: ignore next */
+blockquote[data-llm="Claude"] .llm-header {
+  color: rgb(218, 119, 86) !important; /* 100% theme color */
+}
+/* purgecss: ignore next */
+blockquote[data-llm="Mistral"] .llm-header {
+  color: rgb(209, 69, 59) !important; /* 100% theme color */
+}
+/* purgecss: ignore next */
+blockquote[data-llm="Llama"] .llm-header {
+  color: rgb(153, 102, 255) !important; /* 100% theme color */
+}
+/* purgecss: ignore next */
+blockquote[data-llm="Gemini"] .llm-header {
+  color: rgb(75, 135, 226) !important; /* 100% theme color */
 }

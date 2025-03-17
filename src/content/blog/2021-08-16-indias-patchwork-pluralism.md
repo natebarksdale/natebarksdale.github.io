@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-08-16
-modDatetime: 2025-03-17T21:39:21Z
+modDatetime: 2025-03-17T22:26:27Z
 title: India’s Patchwork Pluralism
 slug: indias-patchwork-pluralism
 featured: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2020-09-28
 modDatetime: 2025-03-17
-title: For the John Templeton Foundation, I wrote about 2
+title: Harmony in Hard Times
 slug: for-the-john-templeton-foundation-i-wrote-about-2
 featured: False
 draft: False

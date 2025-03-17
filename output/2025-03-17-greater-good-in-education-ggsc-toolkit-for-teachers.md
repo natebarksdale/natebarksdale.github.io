@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | Greater Good in Education: GGSC Toolkit for Teachers
+modDatetime: 2025-03-17T22:26:26Z
+title: Grant Profile | Greater Good in Education
 slug: grant-profile-greater-good-in-education-ggsc-toolkit-for-teachers
 featured: false
 draft: false

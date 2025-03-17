@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | Hidden Depths: The ancestry of our most human emotions
+modDatetime: 2025-03-17T22:26:26Z
+title: Grant Profile | Hidden Depths - The ancestry of our most human emotions
 slug: grant-profile-hidden-depths-the-ancestry-of-our-most-human-emotions
 featured: false
 draft: false

@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | The neurostimulation of belief: The role of cognitive inhibition and the right inferior frontal gyrus in the endorsement of supernatural beliefs
-slug: grant-profile-the-neurostimulation-of-belief-the-role-of-cognitive-inhibition-and-the-right-inferior-frontal-gyrus-in-the-endorsement-of-supernatural-beliefs
+modDatetime: 2025-03-17T22:26:27Z
+title: Grant Profile | The neurostimulation of belief
+slug: grant-profile-the-neurostimulation-of-belief
 featured: false
 draft: false
 description: Using brain stimulation to test the relationship between intuition and religious belief

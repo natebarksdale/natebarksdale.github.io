@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2025-05-18
 modDatetime: 2025-03-17
-title: For the John Templeton Foundation, I wrote about J
-slug: for-the-john-templeton-foundation-i-wrote-about-j
+title: Five Questions with Jeffrey Rosen
+slug: five-questions-with-jeffrey-rosen
 featured: False
 draft: False
 description: Explore how the National Constitution Center embraces remote education and reaches new audiences, as Jeffrey Rosen discusses constitutional challenges during COVID-19.

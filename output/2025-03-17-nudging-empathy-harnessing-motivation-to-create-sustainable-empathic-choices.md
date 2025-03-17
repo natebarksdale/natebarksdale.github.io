@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | Nudging Empathy: Harnessing Motivation to Create Sustainable Empathic Choices
+modDatetime: 2025-03-17T22:26:26Z
+title: Grant Profile | Nudging Empathy
 slug: grant-profile-nudging-empathy-harnessing-motivation-to-create-sustainable-empathic-choices
 featured: false
 draft: false

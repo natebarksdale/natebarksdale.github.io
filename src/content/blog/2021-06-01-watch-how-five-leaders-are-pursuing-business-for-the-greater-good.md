@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-06-01
-modDatetime: 2025-03-17 20:38:13+00:00
+modDatetime: 2025-03-17
 title: How Five Leaders Are Pursuing Business for the Greater Good
 slug: how-five-leaders-are-pursuing-business-for-the-greater-good
 featured: False

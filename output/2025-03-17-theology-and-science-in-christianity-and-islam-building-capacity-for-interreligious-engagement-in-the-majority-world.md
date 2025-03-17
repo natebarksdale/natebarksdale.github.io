@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
-title: Grant Profile | Theology and Science in Christianity and Islam: Building Capacity for Interreligious Engagement in the Majority World
-slug: grant-profile-theology-and-science-in-christianity-and-islam-building-capacity-for-interreligious-engagement-in-the-majority-world
+modDatetime: 2025-03-17T22:26:27Z
+title: Grant Profile | Theology and Science in Christianity and Islam
+slug: grant-profile-theology-and-science-in-christianity-and-islam
 featured: false
 draft: false
 description: How do you get 10,000 books into the hands of students and scholars in dozens of countries? Logistics, logistics, logistics.
