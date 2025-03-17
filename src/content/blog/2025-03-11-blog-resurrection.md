@@ -171,7 +171,3 @@ Other LLM formats:
 > {A}Fido or rex -- which do you like?
 > {Q}Rex is pretty good. Thanks!
 > {A}No problem!
-
-```
-
-```
