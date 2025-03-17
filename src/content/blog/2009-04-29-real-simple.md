@@ -1,18 +1,24 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-29
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-14 21:18:01+00:00
 title: Real simple
 slug: real-simple
-featured: false
-draft: false
+featured: False
+draft: False
 description: Exploring Wendell Berry's thoughts on complexity and simplicity reveals the deeper connections we must navigate in life.
 emoji: 🌱
 tags:
+  - 📖 Quotes
+  - 💡 Wisdom
+  - 🌅 Reflection
+  - 🌀 Complexity
+  - 🎯 Focus
 haiku: |
   Complexity thrives,  
   Unity’s gentle embrace,  
   Nature’s simple truth.
+
 coordinates: [37.8393, -85.4664]
 ---
 

@@ -1,18 +1,22 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-28
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-14 21:18:03+00:00
 title: City, by Tony Fitzpatrick
 slug: city-by-tony-fitzpatrick
-featured: false
-draft: false
+featured: False
+draft: False
 description: Explore the vibrant and intricate world of Tony Fitzpatrick, a Chicago-based artist whose evocative works combine humor and heartbreak.
 emoji: 🎨
 tags:
+  - ⏰ Time
+  - ♻️ Repurposing
+  - ⚒️ Blacksmiths
 haiku: |
   Colors dance with words,  
   Heartbreak woven into art,  
   Cityscapes unfold.
+
 coordinates: [41.8781, -87.6298]
 ---
 
