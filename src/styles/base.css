@@ -374,33 +374,33 @@ blockquote[data-llm] p:empty {
   @apply hidden;
 }
 
-/* ChatGPT - Green theme */
+/* ChatGPT - Grey theme */
 blockquote[data-llm="ChatGPT"] {
-  background-color: rgba(16, 163, 127, 0.1); /* 10% of theme color */
+  background-color: rgba(144, 144, 144, 0.1); /* 10% of theme color */
 }
 
 /* purgecss: ignore next */
 blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(16, 163, 127) !important; /* 100% theme color */
+  color: rgb(144, 144, 144) !important; /* 100% theme color */
 }
 
 blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
-  background-color: rgba(16, 163, 127, 0.25) !important; /* 25% of theme color */
+  background-color: rgba(144, 144, 144, 0.25) !important; /* 25% of theme color */
   color: rgb(30, 30, 30) !important;
 }
 
 /* Claude - Beige/Orange theme */
 blockquote[data-llm="Claude"] {
-  background-color: rgba(141, 106, 88, 0.1); /* 10% of theme color */
+  background-color: rgba(218, 119, 86, 0.1); /* 10% of theme color */
 }
 
 /* purgecss: ignore next */
 blockquote[data-llm="Claude"] .llm-header {
-  color: rgb(141, 106, 88) !important; /* 100% theme color */
+  color: rgb(218, 119, 86) !important; /* 100% theme color */
 }
 
 blockquote[data-llm="Claude"] p[data-role="Q"] {
-  background-color: rgba(141, 106, 88, 0.25) !important; /* 25% of theme color */
+  background-color: rgba(218, 119, 86, 0.25) !important; /* 25% of theme color */
   color: rgb(30, 30, 30) !important;
 }
 
@@ -479,4 +479,15 @@ blockquote[data-llm] code {
   .focus-outline {
     @apply outline-2 outline-offset-1 outline-skin-fill focus-visible:no-underline focus-visible:outline-dashed;
   }
+}
+
+blockquote[data-llm] .llm-header {
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 80% !important;
+  font-weight: normal !important;
+  text-transform: lowercase !important;
+  text-align: left !important;
+  padding: 8px 4px 8px 14px !important;
+  margin: 0 !important;
+  line-height: 1.2 !important;
 }
