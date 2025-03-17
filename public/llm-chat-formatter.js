@@ -1,48 +1,48 @@
+// public/llm-chat-formatter.js
 document.addEventListener("DOMContentLoaded", function () {
-  // Process LLM chat blockquotes
-  function processLLMChatBlockquotes() {
-    const blockquotes = document.querySelectorAll("blockquote");
+  processLLMChats();
 
-    blockquotes.forEach(blockquote => {
-      // Check if the first paragraph contains an LLM identifier
-      const paragraphs = blockquote.querySelectorAll("p");
-      if (paragraphs.length === 0) return;
+  // Re-run on page transitions if using Astro's view transitions
+  document.addEventListener("astro:page-load", processLLMChats);
+});
 
-      const firstParagraph = paragraphs[0];
-      const llmMatch = firstParagraph.textContent.match(/^>\s*{([^}]+)}\s*$/);
+function processLLMChats() {
+  // Find all blockquotes
+  const blockquotes = document.querySelectorAll("blockquote");
 
-      if (llmMatch && llmMatch[1]) {
-        const llmName = llmMatch[1];
-        blockquote.setAttribute("data-llm", llmName);
+  blockquotes.forEach(blockquote => {
+    const paragraphs = blockquote.querySelectorAll("p");
+    if (!paragraphs.length) return;
 
-        // Remove the first paragraph (LLM indicator)
-        firstParagraph.remove();
+    // Try to find an LLM identifier in the first paragraph
+    const firstP = paragraphs[0];
+    if (!firstP.textContent.startsWith(">{")) return;
 
-        // Process the remaining paragraphs for Q/A format
-        blockquote.querySelectorAll("p").forEach(p => {
-          const content = p.textContent;
-          const roleMatch = content.match(/^>\s*{([QA])}\s*(.*)$/);
+    // Extract LLM name
+    const llmNameMatch = firstP.textContent.match(/^>{([^}]+)}/);
+    if (!llmNameMatch) return;
 
-          if (roleMatch) {
-            const role = roleMatch[1];
-            const text = roleMatch[2];
+    const llmName = llmNameMatch[1].trim();
+    blockquote.setAttribute("data-llm", llmName);
 
-            p.setAttribute("data-role", role);
-            p.textContent = text; // Use textContent to preserve any HTML inside
+    // Remove the first paragraph with LLM name
+    firstP.remove();
 
-            // If there's HTML content, we need to parse it back
-            if (roleMatch[2].includes("<") && roleMatch[2].includes(">")) {
-              p.innerHTML = text;
-            }
-          }
-        });
+    // Process all paragraphs for Q/A markers
+    blockquote.querySelectorAll("p").forEach(p => {
+      // Look for Q/A markers at start of paragraph
+      const qaMatch = p.textContent.match(/^>{([QA])}\s*(.*)/);
+      if (qaMatch) {
+        const role = qaMatch[1];
+        const originalHTML = p.innerHTML;
+
+        // Set the role attribute
+        p.setAttribute("data-role", role);
+
+        // Replace the >{X} marker in the HTML
+        const markerRegex = /^>{[QA]}\s*/;
+        p.innerHTML = originalHTML.replace(markerRegex, "");
       }
     });
-  }
-
-  // Run the processor
-  processLLMChatBlockquotes();
-
-  // Re-run after any client-side navigation or updates
-  document.addEventListener("astro:page-load", processLLMChatBlockquotes);
-});
+  });
+}

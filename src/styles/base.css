@@ -314,12 +314,12 @@ p:not(:last-child)::after {
 
 /* Add this within your @layer base { ... } section */
   
-  /* LLM Chat styling */
+  /* LLM Chat styling - add within @layer base */
   blockquote[data-llm] {
     @apply p-4 my-6 border border-skin-line rounded-md bg-skin-card overflow-hidden;
     font-family: 'Faune', sans-serif;
-    border-left: none !important; /* Override the default blockquote styling */
-    opacity: 1 !important; /* Override the default blockquote opacity */
+    border-left: none !important;
+    opacity: 1 !important;
   }
 
   blockquote[data-llm]::before {
@@ -341,7 +341,7 @@ p:not(:last-child)::after {
 
   /* LLM color variations */
   blockquote[data-llm="ChatGPT"] {
-    --llm-color: 22, 163, 74; /* Green */
+    --llm-color: 22, 163, 74;
   }
 
   blockquote[data-llm="ChatGPT"]::before {
@@ -357,7 +357,7 @@ p:not(:last-child)::after {
   }
 
   blockquote[data-llm="Claude"] {
-    --llm-color: 79, 70, 229; /* Indigo */
+    --llm-color: 79, 70, 229;
   }
 
   blockquote[data-llm="Claude"]::before {
@@ -373,7 +373,7 @@ p:not(:last-child)::after {
   }
 
   blockquote[data-llm="DeepSeek"] {
-    --llm-color: 217, 70, 239; /* Purple */
+    --llm-color: 217, 70, 239;
   }
 
   blockquote[data-llm="DeepSeek"]::before {
@@ -389,7 +389,7 @@ p:not(:last-child)::after {
   }
 
   blockquote[data-llm="Gemini"] {
-    --llm-color: 59, 130, 246; /* Blue */
+    --llm-color: 59, 130, 246;
   }
 
   blockquote[data-llm="Gemini"]::before {
@@ -405,7 +405,7 @@ p:not(:last-child)::after {
   }
 
   blockquote[data-llm="Mistral"] {
-    --llm-color: 234, 88, 12; /* Orange */
+    --llm-color: 234, 88, 12;
   }
 
   blockquote[data-llm="Mistral"]::before {
@@ -420,7 +420,7 @@ p:not(:last-child)::after {
     @apply border-orange-400;
   }
 
-  /* Make code blocks inside LLM chats match the blog's code style but with proper context */
+  /* Code styling in LLM chats */
   blockquote[data-llm] code {
     @apply bg-skin-fill text-xs p-1 rounded;
   }
