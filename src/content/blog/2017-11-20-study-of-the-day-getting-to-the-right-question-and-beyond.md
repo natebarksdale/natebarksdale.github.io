@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2017-11-20
 modDatetime: 2025-03-17 18:35:33+00:00
 title: Getting to the Right Question — and Beyond
-slug: getting-to-the-right-question-and-beyond-2
+slug: getting-to-the-right-question-and-beyond-1
 featured: False
 draft: False
 description: Can a creative technique that works for third-graders help grad students launch their research careers?
