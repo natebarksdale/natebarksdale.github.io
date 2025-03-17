@@ -11,38 +11,59 @@ function processLLMChats() {
   const blockquotes = document.querySelectorAll("blockquote");
 
   blockquotes.forEach(blockquote => {
+    // Get all paragraphs
     const paragraphs = blockquote.querySelectorAll("p");
     if (!paragraphs.length) return;
 
-    // Try to find an LLM identifier in the first paragraph
+    // Check first paragraph for LLM identifier pattern
     const firstP = paragraphs[0];
-    if (!firstP.textContent.startsWith(">{")) return;
 
-    // Extract LLM name
-    const llmNameMatch = firstP.textContent.match(/^>{([^}]+)}/);
-    if (!llmNameMatch) return;
+    // The > character might be rendered as &gt; or > depending on the markdown processor
+    // So we check for both possibilities
+    const textContent = firstP.textContent.trim();
+    const htmlContent = firstP.innerHTML.trim();
 
-    const llmName = llmNameMatch[1].trim();
-    blockquote.setAttribute("data-llm", llmName);
+    // Try different pattern matches for the LLM identifier
+    const llmMatch =
+      textContent.match(/^>{([^}]+)}$/) ||
+      textContent.match(/^>\s*{([^}]+)}$/) ||
+      htmlContent.match(/^&gt;{([^}]+)}$/) ||
+      htmlContent.match(/^&gt;\s*{([^}]+)}$/);
 
-    // Remove the first paragraph with LLM name
-    firstP.remove();
+    if (llmMatch && llmMatch[1]) {
+      const llmName = llmMatch[1].trim();
+      blockquote.setAttribute("data-llm", llmName);
 
-    // Process all paragraphs for Q/A markers
-    blockquote.querySelectorAll("p").forEach(p => {
-      // Look for Q/A markers at start of paragraph
-      const qaMatch = p.textContent.match(/^>{([QA])}\s*(.*)/);
-      if (qaMatch) {
-        const role = qaMatch[1];
-        const originalHTML = p.innerHTML;
+      // Remove the first paragraph with the LLM name
+      firstP.remove();
 
-        // Set the role attribute
-        p.setAttribute("data-role", role);
+      // Process remaining paragraphs for Q/A patterns
+      blockquote.querySelectorAll("p").forEach(p => {
+        const pText = p.textContent.trim();
+        const pHtml = p.innerHTML.trim();
 
-        // Replace the >{X} marker in the HTML
-        const markerRegex = /^>{[QA]}\s*/;
-        p.innerHTML = originalHTML.replace(markerRegex, "");
-      }
-    });
+        // Check for Q/A patterns with various possible formats
+        const qaMatch =
+          pText.match(/^>{([QA])}(.*)/) ||
+          pText.match(/^>\s*{([QA])}\s*(.*)/) ||
+          pHtml.match(/^&gt;{([QA])}(.*)/) ||
+          pHtml.match(/^&gt;\s*{([QA])}\s*(.*)/);
+
+        if (qaMatch) {
+          const role = qaMatch[1];
+          p.setAttribute("data-role", role);
+
+          // Replace the marker in the HTML content
+          if (pHtml.includes("&gt;")) {
+            p.innerHTML = p.innerHTML.replace(/^&gt;\s*{[QA]}\s*/, "");
+          } else {
+            p.innerHTML = p.innerHTML.replace(/^>\s*{[QA]}\s*/, "");
+          }
+        }
+      });
+
+      // Add debug info if needed (remove this in production)
+      console.log(`Processed LLM chat: ${llmName}`);
+    }
   });
 }
