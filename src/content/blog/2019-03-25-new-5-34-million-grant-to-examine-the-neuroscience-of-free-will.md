@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-03-25
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17 18:07:03+00:00
 title: Grant Profile | Examining the Neuroscience of Free Will
-slug: new-5-34-million-grant-to-examine-the-neuroscience-of-free-will
-featured: false
-draft: false
+slug: grant-profile-examining-the-neuroscience-of-free-will
+featured: False
+draft: False
 description: Exploring the enigma of free will, a team of neuroscientists embarks on a groundbreaking $7 million study to decode the neuroscience behind our decisions.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Choices made unseen,  
   Neurons fire before thoughts form—  
   Science seeks the truth.
+
 coordinates: [33.793314, -117.853294]
 ---
 

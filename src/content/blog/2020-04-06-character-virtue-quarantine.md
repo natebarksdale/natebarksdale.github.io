@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-04-06
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17 15:44:52+00:00
 title: Character, Virtue, Quarantine
-slug: study-of-the-day-character-virtue-quarantine
-featured: false
-draft: false
+slug: character-virtue-quarantine
+featured: False
+draft: False
 description: Explore how virtues like gratitude and cooperation shape our resilience in the face of pandemic disruptions, guided by new research from the John Templeton Foundation.
 emoji: 🏡
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Pandemic reshapes life,  
   Virtues foster resilience,  
   Growth amid the strife.
+
 coordinates: [51.509865, -0.118092]
 ---
 

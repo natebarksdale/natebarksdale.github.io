@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-11-07
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17 15:44:51+00:00
 title: Grant Profile | Expanding Science for Seminaries
-slug: expanding-science-for-seminaries
-featured: false
-draft: false
+slug: grant-profile-expanding-science-for-seminaries
+featured: False
+draft: False
 description: Equipping tomorrow’s clergy to discuss scientific findings and technological advances — and the big questions they raise
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Science meets the divine,  
   Seminaries embrace change,  
   New wisdom takes root.
+
 coordinates: [38.89511, -77.03637]
 ---
 

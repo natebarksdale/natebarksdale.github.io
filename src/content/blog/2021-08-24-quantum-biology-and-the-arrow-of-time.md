@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-08-24
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17 20:38:13+00:00
 title: Quantum biology and the arrow of time
-slug: study-of-the-day-quantum-biology-and-the-arrow-of-time
-featured: false
-draft: false
+slug: quantum-biology-and-the-arrow-of-time
+featured: False
+draft: False
 description: Jellyfish and migratory birds may help physicists understand the mysterious shift from quantum to classical mechanics
 emoji: 🕰️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Quantum threads weave time,  
   Life dances with physics' laws,  
   Mystery unfolds.
+
 coordinates: [51.2424, -0.5895]
 ---
 

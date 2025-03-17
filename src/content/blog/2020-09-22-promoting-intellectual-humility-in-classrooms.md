@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2020-09-22
 modDatetime: 2025-03-17
 title: Promoting Intellectual Humility in Classrooms
-slug: study-of-the-day-promoting-intellectual-humility-in-classrooms
-featured: false
-draft: false
+slug: promoting-intellectual-humility-in-classrooms
+featured: False
+draft: False
 description: A new project will help gauge how students feel realizing the limits of their understanding — and ways they can positively respond
 emoji: 🎓
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Embrace the unknown,  
   In classrooms, humility—  
   Seeds of growth take root.
+
 coordinates: [39.9522, -75.1932]
 ---
 

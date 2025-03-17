@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-06-01
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17 20:38:13+00:00
 title: How Five Leaders Are Pursuing Business for the Greater Good
-slug: study-of-the-day-watch-how-five-leaders-are-pursuing-business-for-the-greater-good
-featured: false
-draft: false
+slug: how-five-leaders-are-pursuing-business-for-the-greater-good
+featured: False
+draft: False
 description: An Inspiring Glimpse into the Heart of Conscious Capitalism
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Jar of hope on shelf,  
   Leaders serve, lifting others,  
   Conscious hearts find wealth.
+
 coordinates: [30.2672, -97.7431]
 ---
 

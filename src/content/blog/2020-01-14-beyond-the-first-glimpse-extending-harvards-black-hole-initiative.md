@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-01-14
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17 15:44:52+00:00
 title: Extending Harvard’s Black Hole Initiative
-slug: study-of-the-day-beyond-the-first-glimpse-extending-harvards-black-hole-initiative
-featured: false
-draft: false
+slug: extending-harvards-black-hole-initiative
+featured: False
+draft: False
 description: New funding for groundbreaking collaboration to continue investigating some of the biggest questions in physics and cosmology
 emoji: 🔭
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Light bends in darkness,  
   Universes whisper secrets,  
   Black hole unveiled truths.
+
 coordinates: [42.378, -71.116]
 ---
 
