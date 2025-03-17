@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2020-09-28
 modDatetime: 2025-03-17
 title: Harmony in Hard Times
-slug: for-the-john-templeton-foundation-i-wrote-about-2
+slug: harmony-in-hard-times
 featured: False
 draft: False
 description: Relive the unique 2020 Templeton Prize ceremony, where an almost empty auditorium hosted a global audience celebrating the 50th laureate.
@@ -18,6 +18,7 @@ haiku: |
   Empty seats abound,
   Global viewers gather near,
   Prize shines through the screen.
+
 coordinates: [51.509865, -0.118092]
 ---
 
