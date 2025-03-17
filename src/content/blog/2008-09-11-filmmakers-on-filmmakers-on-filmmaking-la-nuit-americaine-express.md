@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:24Z
 title: Filmmakers on filmmakers on filmmaking - La Nuit Américaine Express
 slug: filmmakers-on-filmmakers-on-filmmaking-la-nuit-americaine-express
 featured: false

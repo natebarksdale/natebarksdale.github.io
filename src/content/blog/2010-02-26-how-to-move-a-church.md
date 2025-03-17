@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-26
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:05Z
 title: How to move a church
 slug: how-to-move-a-church
 featured: false

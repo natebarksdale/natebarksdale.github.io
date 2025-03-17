@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-04-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-17T21:38:12Z
 title: Mix CD | Why Are There So Many Songs about Hobos?
 slug: mix-cd-why-are-there-so-many-songs-about-hobos
 featured: false

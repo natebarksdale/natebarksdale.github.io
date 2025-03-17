@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-14T21:17:51Z
+modDatetime: 2025-03-17T21:38:18Z
 title: The problem with critique as a posture
 slug: the-problem-with-critique-as-a-posture
 featured: false

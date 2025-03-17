@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-06
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:29Z
 title: Visualizing the Bible
 slug: visualizing-the-bible
 featured: false

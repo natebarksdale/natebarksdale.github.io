@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:21Z
 title: “City Of Immigrants,” by Steve Earle with Forro in the Dark
 slug: city-of-immigrants-by-steve-earle-with-forro-in-the-dark
 featured: false

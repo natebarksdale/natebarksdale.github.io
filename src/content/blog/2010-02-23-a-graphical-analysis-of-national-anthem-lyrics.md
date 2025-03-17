@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-17T21:39:04Z
 title: A graphical analysis of national anthem lyrics
 slug: a-graphical-analysis-of-national-anthem-lyrics
 featured: false

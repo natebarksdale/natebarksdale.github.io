@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-16
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:47Z
 title: Making things that we can touch
 slug: making-things-that-we-can-touch
 featured: false

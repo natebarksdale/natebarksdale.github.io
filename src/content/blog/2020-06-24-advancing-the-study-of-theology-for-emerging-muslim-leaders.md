@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-24
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:20Z
 title: Advancing the Study of Theology for Emerging Muslim Leaders
 slug: advancing-the-study-of-theology-for-emerging-muslim-leaders
 featured: false

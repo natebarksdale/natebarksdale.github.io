@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-05
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:52Z
 title: Looks like work
 slug: looks-like-work
 featured: false

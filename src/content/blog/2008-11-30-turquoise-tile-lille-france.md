@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-30
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-10
 title: Turquoise tile, Lille, France
 slug: turquoise-tile-lille-france
 featured: false

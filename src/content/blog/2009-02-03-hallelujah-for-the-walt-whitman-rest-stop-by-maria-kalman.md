@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-17T21:38:44Z
 title: Hallelujah for the Walt Whitman Rest Stop, by Maria Kalman
 slug: hallelujah-for-the-walt-whitman-rest-stop-by-maria-kalman
 featured: false

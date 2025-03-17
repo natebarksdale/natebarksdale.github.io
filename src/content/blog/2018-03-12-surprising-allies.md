@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:19Z
 title: Surprising Allies
 slug: surprising-allies
 featured: false

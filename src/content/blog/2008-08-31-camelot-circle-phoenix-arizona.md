@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-31
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-10
 title: Camelot Circle, Phoenix, Arizona
 slug: camelot-circle-phoenix-arizona
 featured: false

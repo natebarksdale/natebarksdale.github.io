@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-12
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:47Z
 title: A dirge revival
 slug: a-dirge-revival
 featured: false

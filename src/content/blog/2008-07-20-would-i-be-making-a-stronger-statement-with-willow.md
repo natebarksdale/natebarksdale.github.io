@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:16Z
 title: Would I be making a stronger statement with willow?
 slug: would-i-be-making-a-stronger-statement-with-willow
 featured: false

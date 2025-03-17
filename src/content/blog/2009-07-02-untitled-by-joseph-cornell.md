@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-02
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:53Z
 title: Untitled, by Joseph Cornell
 slug: untitled-by-joseph-cornell
 featured: false

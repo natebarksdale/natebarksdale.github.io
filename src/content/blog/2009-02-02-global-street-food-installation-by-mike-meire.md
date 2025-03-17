@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-17T21:38:44Z
 title: Global Street Food installation, by Mike Meiré
 slug: global-street-food-installation-by-mike-meire
 featured: false

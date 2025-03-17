@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:32Z
 title: Mountain Chief of Piegan Blackfeet, 1916
 slug: mountain-chief-of-piegan-blackfeet-1916
 featured: false

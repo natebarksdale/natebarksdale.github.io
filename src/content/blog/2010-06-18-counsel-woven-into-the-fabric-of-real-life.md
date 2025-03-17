@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-18
-modDatetime: 2025-03-14T21:18:08Z
+modDatetime: 2025-03-17T21:39:11Z
 title: Counsel woven into the fabric of real life
 slug: counsel-woven-into-the-fabric-of-real-life
 featured: false

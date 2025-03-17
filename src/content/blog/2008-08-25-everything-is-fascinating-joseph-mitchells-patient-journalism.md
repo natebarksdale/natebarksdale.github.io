@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:21Z
 title: Everything is fascinating - Joseph Mitchell’s patient journalism
 slug: everything-is-fascinating-joseph-mitchells-patient-journalism
 featured: false

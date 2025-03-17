@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-14T21:17:51Z
+modDatetime: 2025-03-17T21:38:20Z
 title: Whiskey Devil, decor crew, Burning Man Center Camp
 slug: whiskey-devil-decor-crew-burning-man-center-camp
 featured: false

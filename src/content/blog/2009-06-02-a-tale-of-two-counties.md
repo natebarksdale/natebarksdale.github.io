@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-02
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:51Z
 title: A tale of two counties
 slug: a-tale-of-two-counties
 featured: false

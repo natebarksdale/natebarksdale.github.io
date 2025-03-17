@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:44Z
 title: You might be in a recession if …
 slug: you-might-be-in-a-recession-if
 featured: false

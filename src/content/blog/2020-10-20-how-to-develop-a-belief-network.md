@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-10-20
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:20Z
 title: How to Develop a Belief Network
 slug: how-to-develop-a-belief-network
 featured: false

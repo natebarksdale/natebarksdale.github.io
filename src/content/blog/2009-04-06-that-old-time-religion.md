@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-06
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:48Z
 title: That Old-Time Religion
 slug: that-old-time-religion
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-30
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:48Z
 title: Everything, everywhere
 slug: everything-everywhere
 featured: false

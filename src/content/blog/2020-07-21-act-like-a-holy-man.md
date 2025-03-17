@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-07-21
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:20Z
 title: Act Like a Holy Man
 slug: act-like-a-holy-man
 featured: false

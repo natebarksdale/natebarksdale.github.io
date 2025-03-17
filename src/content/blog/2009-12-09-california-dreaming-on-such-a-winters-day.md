@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-09
-modDatetime: 2025-03-14T21:18:04Z
+modDatetime: 2025-03-17T21:39:01Z
 title: California dreaming, on such a winter’s day
 slug: california-dreaming-on-such-a-winters-day
 featured: false

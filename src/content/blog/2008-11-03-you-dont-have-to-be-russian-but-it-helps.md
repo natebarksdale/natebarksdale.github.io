@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:33Z
 title: You don’t have to be Russian, but it helps
 slug: you-dont-have-to-be-russian-but-it-helps
 featured: false

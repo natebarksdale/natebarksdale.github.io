@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-18
-modDatetime: 2025-03-14T21:18:09Z
+modDatetime: 2025-03-17T21:39:17Z
 title: Essays | The Cell Phone Gospel
 slug: essays-the-cell-phone-gospel
 featured: false

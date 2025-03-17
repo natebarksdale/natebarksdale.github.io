@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-09-01
-modDatetime: 2025-03-10T21:39:25Z
+modDatetime: 2025-03-17T21:38:10Z
 title: Decolonizing Harry
 slug: decolonizing-harry
 featured: false

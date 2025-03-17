@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-10-10
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:18Z
 title: The Illumination Tour
 slug: the-illumination-tour
 featured: false

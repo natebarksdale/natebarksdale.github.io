@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-07
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-10
 title: J. Donovan Storekeeper, Okarito, New Zealand
 slug: j-donovan-storekeeper-okarito-new-zealand
 featured: false

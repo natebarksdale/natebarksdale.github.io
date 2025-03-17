@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:06Z
 title: Portfolio | Eventide Funds
 slug: portfolio-eventide-funds
 featured: false

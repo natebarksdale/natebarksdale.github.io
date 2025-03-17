@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:36Z
 title: On Thanksgiving
 slug: on-thanksgiving
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-30
-modDatetime: 2025-03-14T21:18:09Z
+modDatetime: 2025-03-17T21:39:16Z
 title: Metaphor as metastasis
 slug: metaphor-as-metastasis
 featured: false

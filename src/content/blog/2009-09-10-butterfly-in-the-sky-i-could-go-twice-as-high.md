@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-10
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:56Z
 title: Butterfly in the sky, I could go twice as high
 slug: butterfly-in-the-sky-i-could-go-twice-as-high
 featured: false

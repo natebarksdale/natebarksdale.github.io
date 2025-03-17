@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:45Z
 title: Cathedral, by David LaChapelle
 slug: cathedral-by-david-lachapelle
 featured: false

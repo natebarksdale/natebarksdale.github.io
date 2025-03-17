@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-25
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-17T21:39:00Z
 title: The list doesn’t destroy culture, it creates it
 slug: the-list-doesnt-destroy-culture-it-creates-it
 featured: false

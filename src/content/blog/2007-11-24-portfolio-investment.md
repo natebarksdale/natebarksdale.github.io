@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-11-24
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:13Z
 title: Portfolio | Investment
 slug: portfolio-investment
 featured: false

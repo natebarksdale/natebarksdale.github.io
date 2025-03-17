@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-16
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:57Z
 title: garbage is spiritual
 slug: garbage-is-spiritual
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-18
-modDatetime: 2025-03-14T21:18:04Z
+modDatetime: 2025-03-17T21:38:59Z
 title: The sparrow and the phonograph
 slug: the-sparrow-and-the-phonograph
 featured: false

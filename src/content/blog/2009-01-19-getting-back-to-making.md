@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:42Z
 title: Getting back to making
 slug: getting-back-to-making
 featured: false

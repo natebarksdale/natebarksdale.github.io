@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-17T21:39:12Z
 title: Portfolio | Real Estate
 slug: portfolio-real-estate
 featured: false

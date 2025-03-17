@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-20
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-17T21:39:17Z
 title: Portfolio | Eventide Articles
 slug: portfolio-eventide-articles
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-17T21:38:12Z
 title: Mix CD | Connexcellent!
 slug: mix-cd-connexcellent
 featured: false

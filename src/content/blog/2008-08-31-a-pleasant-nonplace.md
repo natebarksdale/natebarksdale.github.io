@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-31
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:23Z
 title: A pleasant nonplace
 slug: a-pleasant-nonplace
 featured: false

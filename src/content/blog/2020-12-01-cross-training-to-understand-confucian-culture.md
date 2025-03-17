@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-12-01
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:21Z
 title: Cross-Training to Understand Confucian Culture
 slug: cross-training-to-understand-confucian-culture
 featured: false

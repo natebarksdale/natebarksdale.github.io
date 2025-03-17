@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-08
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:56Z
 title: Beach calligraphy by Andrew van der Merwe
 slug: beach-calligraphy-by-andrew-van-der-merwe
 featured: false

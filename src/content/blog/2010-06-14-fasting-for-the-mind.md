@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-14
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:11Z
 title: Fasting for the mind
 slug: fasting-for-the-mind
 featured: false

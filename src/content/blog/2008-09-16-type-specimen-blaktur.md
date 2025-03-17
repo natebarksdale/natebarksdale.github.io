@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:25Z
 title: Type specimen - Blaktur
 slug: type-specimen-blaktur
 featured: false

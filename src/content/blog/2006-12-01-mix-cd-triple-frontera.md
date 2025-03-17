@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2006-12-01
-modDatetime: 2025-03-14T21:17:48Z
+modDatetime: 2025-03-17T21:38:11Z
 title: Mix CD | Triple Frontera
 slug: mix-cd-triple-frontera
 featured: false

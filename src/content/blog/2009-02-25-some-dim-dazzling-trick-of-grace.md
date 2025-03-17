@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-25
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:46Z
 title: Some dim dazzling trick of grace
 slug: some-dim-dazzling-trick-of-grace
 featured: false

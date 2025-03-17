@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-11
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:19Z
 title: Newly-launched Renovatio magazine addresses big questions for Muslim audiences
 slug: newly-launched-renovatio-magazine-addresses-big-questions-for-muslim-audiences
 featured: false

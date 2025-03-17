@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-28
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-17T21:39:13Z
 title: Mix CD | Wisconsionable!
 slug: mix-cd-wisconsionable
 featured: false

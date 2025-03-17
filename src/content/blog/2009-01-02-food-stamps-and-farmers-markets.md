@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-02
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:40Z
 title: Food stamps and farmers markets
 slug: food-stamps-and-farmers-markets
 featured: false

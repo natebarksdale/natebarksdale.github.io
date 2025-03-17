@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2025-03-14T21:17:50Z
+modDatetime: 2025-03-17T21:38:18Z
 title: Tracking global warming, one garden at a time
 slug: tracking-global-warming-one-garden-at-a-time
 featured: false

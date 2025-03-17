@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-24
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-17T21:39:04Z
 title: Portfolio | StageGrade Logo
 slug: portfolio-stagegrade-logo
 featured: false

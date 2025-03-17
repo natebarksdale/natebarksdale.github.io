@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:24Z
 title: Your neighbor must be everyone
 slug: your-neighbor-must-be-everyone
 featured: false

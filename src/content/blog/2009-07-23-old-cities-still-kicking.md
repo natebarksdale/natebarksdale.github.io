@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-23
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:54Z
 title: Old cities, still kicking
 slug: old-cities-still-kicking
 featured: false

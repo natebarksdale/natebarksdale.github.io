@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-26
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:10Z
 title: Due finocchi, by Trevor Haddrell
 slug: due-finocchi-by-trevor-haddrell
 featured: false

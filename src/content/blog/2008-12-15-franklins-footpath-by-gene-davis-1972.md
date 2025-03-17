@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:38Z
 title: Franklin’s Footpath, by Gene Davis, 1972
 slug: franklins-footpath-by-gene-davis-1972
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-02-26
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:18Z
 title: Scientists in Synagogues
 slug: scientists-in-synagogues
 featured: false

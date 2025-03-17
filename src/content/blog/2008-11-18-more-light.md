@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:34Z
 title: More light!
 slug: more-light
 featured: false

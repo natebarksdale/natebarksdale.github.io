@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:44Z
 title: No more than an hour
 slug: no-more-than-an-hour
 featured: false

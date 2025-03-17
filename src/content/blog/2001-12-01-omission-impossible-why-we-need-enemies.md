@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-12-01
-modDatetime: 2025-03-14T21:17:48Z
+modDatetime: 2025-03-17T21:38:10Z
 title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false

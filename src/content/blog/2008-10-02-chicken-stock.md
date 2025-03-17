@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:28Z
 title: Chicken stock
 slug: chicken-stock
 featured: false

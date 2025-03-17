@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-26
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:40Z
 title: The Web before the Web was the Web
 slug: the-web-before-the-web-was-the-web
 featured: false

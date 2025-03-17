@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-27
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:48Z
 title: S C Road, Gandhinagar, Bangalore, India
 slug: s-c-road-gandhinagar-bangalore-india
 featured: false

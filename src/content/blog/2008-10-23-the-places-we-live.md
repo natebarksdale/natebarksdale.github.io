@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-23
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-17T21:38:31Z
 title: The places we live
 slug: the-places-we-live
 featured: false

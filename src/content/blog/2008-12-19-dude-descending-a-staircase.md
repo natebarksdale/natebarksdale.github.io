@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-17T21:38:39Z
 title: Dude descending a staircase
 slug: dude-descending-a-staircase
 featured: false

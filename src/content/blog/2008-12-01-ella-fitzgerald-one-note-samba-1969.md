@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Ella Fitzgerald, One Note Samba, 1969
 slug: ella-fitzgerald-one-note-samba-1969
 featured: false

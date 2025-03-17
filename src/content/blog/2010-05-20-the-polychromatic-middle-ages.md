@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-20
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:10Z
 title: The polychromatic Middle Ages
 slug: the-polychromatic-middle-ages
 featured: false

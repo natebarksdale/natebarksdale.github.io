@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-01-31
-modDatetime: 2025-03-17T15:44:53Z
+modDatetime: 2025-03-17T21:38:08Z
 title: Study of the Day | Ancestral Smoking Is Bad for You, Too
 slug: study-of-the-day-ancestral-smoking-is-bad-for-you-too
 featured: false

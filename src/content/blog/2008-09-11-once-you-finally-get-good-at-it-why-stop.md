@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:24Z
 title: Once you finally get good at it, why stop?
 slug: once-you-finally-get-good-at-it-why-stop
 featured: false

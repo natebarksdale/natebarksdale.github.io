@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-29
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:52Z
 title: Light breakfast, by David Sykes
 slug: light-breakfast-by-david-sykes
 featured: false

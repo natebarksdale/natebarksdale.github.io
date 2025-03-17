@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-17T21:38:37Z
 title: A timeline of food
 slug: a-timeline-of-food
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-13
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:50Z
 title: Why loot when you can fake?
 slug: why-loot-when-you-can-fake
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-18
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:50Z
 title: São Paulo, Brazil, by Carlos Cazalis
 slug: sao-paulo-brazil-by-carlos-cazalis
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-14
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:25Z
 title: No. 8 Rue Franklin, Nantes, France
 slug: no-8-rue-franklin-nantes-france
 featured: false

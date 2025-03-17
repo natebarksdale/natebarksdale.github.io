@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-08
-modDatetime: 2025-03-14T21:18:08Z
+modDatetime: 2025-03-17T21:39:13Z
 title: Class, power, and empathy
 slug: class-power-and-empathy
 featured: false

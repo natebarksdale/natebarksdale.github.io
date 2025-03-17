@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-11
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-17T21:39:01Z
 title: “Your logo saves lives!”
 slug: your-logo-saves-lives
 featured: false

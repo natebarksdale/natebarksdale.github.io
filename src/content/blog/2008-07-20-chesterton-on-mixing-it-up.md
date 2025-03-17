@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:16Z
 title: Chesterton on mixing it up
 slug: chesterton-on-mixing-it-up
 featured: false

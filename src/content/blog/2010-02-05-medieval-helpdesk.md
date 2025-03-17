@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-05
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:04Z
 title: Medieval helpdesk
 slug: medieval-helpdesk
 featured: false

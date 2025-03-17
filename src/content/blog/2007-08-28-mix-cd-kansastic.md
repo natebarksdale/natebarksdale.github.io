@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-14T21:17:48Z
+modDatetime: 2025-03-17T21:38:13Z
 title: Mix CD | Kansastic!
 slug: mix-cd-kansastic
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-20
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:50Z
 title: Our riches have buried our treasures
 slug: our-riches-have-buried-our-treasures
 featured: false

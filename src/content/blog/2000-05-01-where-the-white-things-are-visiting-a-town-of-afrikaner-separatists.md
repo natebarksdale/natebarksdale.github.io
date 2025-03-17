@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2000-05-01
-modDatetime: 2025-03-10T21:39:25Z
+modDatetime: 2025-03-17T21:38:10Z
 title: Where the White things are - Visiting a town of Afrikaner separatists
 slug: where-the-white-things-are-visiting-a-town-of-afrikaner-separatists
 featured: false

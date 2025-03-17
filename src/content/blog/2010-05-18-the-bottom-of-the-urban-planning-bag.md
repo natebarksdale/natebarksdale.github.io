@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-18
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-17T21:39:10Z
 title: The bottom of the urban planning bag
 slug: the-bottom-of-the-urban-planning-bag
 featured: false

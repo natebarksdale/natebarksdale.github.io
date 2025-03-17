@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:41Z
 title: Africa and missionaries, pt. 2
 slug: africa-and-missionaries-pt-2
 featured: false

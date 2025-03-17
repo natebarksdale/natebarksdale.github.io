@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2025-03-10T21:39:28Z
+modDatetime: 2025-03-17T21:39:14Z
 title: Portfolio | Introducing yoomi
 slug: portfolio-introducing-yoomi
 featured: false

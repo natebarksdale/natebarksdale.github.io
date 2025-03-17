@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-18
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:57Z
 title: How jobs stack up
 slug: how-jobs-stack-up
 featured: false

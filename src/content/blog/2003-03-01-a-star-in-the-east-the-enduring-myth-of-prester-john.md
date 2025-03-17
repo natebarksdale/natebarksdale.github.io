@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2003-03-01
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-17T21:38:10Z
 title: A star in the East- The enduring myth of Prester John
 slug: a-star-in-the-east-the-enduring-myth-of-prester-john
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-27
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:39:13Z
 title: Power and love
 slug: power-and-love
 featured: false

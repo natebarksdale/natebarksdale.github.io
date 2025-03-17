@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-21
-modDatetime: 2025-03-17T15:44:53Z
+modDatetime: 2025-03-17T21:38:08Z
 title: Study of the Day | Inequality and the Constitution
 slug: study-of-the-day-inequality-and-the-constitution
 featured: false

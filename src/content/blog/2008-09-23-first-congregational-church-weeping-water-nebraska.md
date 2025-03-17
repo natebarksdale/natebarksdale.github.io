@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-10
 title: First Congregational Church, Weeping Water, Nebraska
 slug: first-congregational-church-weeping-water-nebraska
 featured: false

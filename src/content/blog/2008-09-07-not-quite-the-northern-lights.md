@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-07
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-10
 title: Not quite the Northern Lights
 slug: not-quite-the-northern-lights
 featured: false

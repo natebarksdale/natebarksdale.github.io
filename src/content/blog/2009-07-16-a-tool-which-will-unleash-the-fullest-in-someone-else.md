@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-16
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:53Z
 title: A tool which will unleash the fullest in someone else
 slug: a-tool-which-will-unleash-the-fullest-in-someone-else
 featured: false

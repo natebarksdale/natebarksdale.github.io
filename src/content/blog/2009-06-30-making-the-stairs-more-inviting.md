@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-30
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:53Z
 title: Making the stairs more inviting
 slug: making-the-stairs-more-inviting
 featured: false

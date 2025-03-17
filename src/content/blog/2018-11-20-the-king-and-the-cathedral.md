@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-20
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:19Z
 title: The King and the Cathedral
 slug: the-king-and-the-cathedral
 featured: false

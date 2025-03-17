@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:28Z
 title: Give or take 100,000 words
 slug: give-or-take-100000-words
 featured: false

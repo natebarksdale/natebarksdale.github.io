@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-19
-modDatetime: 2025-03-14T21:18:04Z
+modDatetime: 2025-03-17T21:38:59Z
 title: Type the Sky, by Lisa Rienermann
 slug: type-the-sky-by-lisa-rienermann
 featured: false

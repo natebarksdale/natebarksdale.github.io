@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-15
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:05Z
 title: Even better than the real thing
 slug: even-better-than-the-real-thing
 featured: false

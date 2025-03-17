@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-17T21:38:41Z
 title: In search of the Easy Fret
 slug: in-search-of-the-easy-fret
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-31
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:48Z
 title: My Astronomical Romance
 slug: my-astronomical-romance
 featured: false

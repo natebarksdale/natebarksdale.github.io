@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-12
-modDatetime: 2025-03-10T21:39:27Z
+modDatetime: 2025-03-17T21:39:11Z
 title: Subtleties
 slug: subtleties
 featured: false

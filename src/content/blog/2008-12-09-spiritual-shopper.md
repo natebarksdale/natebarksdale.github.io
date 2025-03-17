@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:38Z
 title: Spiritual Shopper
 slug: spiritual-shopper
 featured: false

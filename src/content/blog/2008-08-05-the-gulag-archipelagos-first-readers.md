@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-14T21:17:50Z
+modDatetime: 2025-03-17T21:38:18Z
 title: The Gulag Archipelago’s first readers
 slug: the-gulag-archipelagos-first-readers
 featured: false

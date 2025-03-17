@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-05
-modDatetime: 2025-03-14T21:18:08Z
+modDatetime: 2025-03-17T21:39:12Z
 title: Thinking too much about strawberry jam
 slug: thinking-too-much-about-strawberry-jam
 featured: false

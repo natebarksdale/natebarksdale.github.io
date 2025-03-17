@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17T21:39:18Z
 title: High school debate turns to the Big Questions
 slug: high-school-debate-turns-to-the-big-questions
 featured: false

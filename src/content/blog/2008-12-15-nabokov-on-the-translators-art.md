@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-17T21:38:38Z
 title: Nabokov on the translator’s art
 slug: nabokov-on-the-translators-art
 featured: false

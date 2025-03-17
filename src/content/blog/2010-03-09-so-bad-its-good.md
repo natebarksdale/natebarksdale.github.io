@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-09
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:05Z
 title: So bad it’s good
 slug: so-bad-its-good
 featured: false

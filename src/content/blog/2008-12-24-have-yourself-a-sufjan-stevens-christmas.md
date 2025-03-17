@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-24
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:39Z
 title: Have yourself a Sufjan Stevens Christmas
 slug: have-yourself-a-sufjan-stevens-christmas
 featured: false

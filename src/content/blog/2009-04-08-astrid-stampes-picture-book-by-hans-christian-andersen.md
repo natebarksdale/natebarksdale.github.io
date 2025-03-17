@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-08
-modDatetime: 2025-03-10T19:42:14Z
+modDatetime: 2025-03-17T21:38:49Z
 title: Astrid Stampe’s Picture Book, by Hans Christian Andersen
 slug: astrid-stampes-picture-book-by-hans-christian-andersen
 featured: false

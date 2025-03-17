@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:29Z
 title: Naming and being
 slug: naming-and-being
 featured: false

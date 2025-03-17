@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:46Z
 title: It comes from sacrifice
 slug: it-comes-from-sacrifice
 featured: false

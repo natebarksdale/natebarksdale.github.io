@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-14T21:17:51Z
+modDatetime: 2025-03-17T21:38:19Z
 title: The claims we make on nature and beauty
 slug: the-claims-we-make-on-nature-and-beauty
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-01
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:07Z
 title: Map work by Shannon Rankin
 slug: map-work-by-shannon-rankin
 featured: false

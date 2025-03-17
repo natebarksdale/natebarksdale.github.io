@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-19
-modDatetime: 2025-03-10T18:29:21Z
+modDatetime: 2025-03-17T21:39:03Z
 title: Hot dogs of Latin America
 slug: hot-dogs-of-latin-america
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:15Z
 title: For English Studies, Koreans Say Goodbye to Dad
 slug: for-english-studies-koreans-say-goodbye-to-dad
 featured: false

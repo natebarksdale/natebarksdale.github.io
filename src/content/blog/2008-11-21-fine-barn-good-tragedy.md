@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:35Z
 title: Fine barn, good tragedy
 slug: fine-barn-good-tragedy
 featured: false

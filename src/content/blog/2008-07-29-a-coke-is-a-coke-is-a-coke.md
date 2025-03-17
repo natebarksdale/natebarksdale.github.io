@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-29
-modDatetime: 2025-03-14T21:17:50Z
+modDatetime: 2025-03-17T21:38:16Z
 title: A Coke is a Coke is a Coke
 slug: a-coke-is-a-coke-is-a-coke
 featured: false

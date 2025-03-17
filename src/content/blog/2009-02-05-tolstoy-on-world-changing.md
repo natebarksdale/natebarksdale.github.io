@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-05
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:45Z
 title: Tolstoy on world-changing
 slug: tolstoy-on-world-changing
 featured: false

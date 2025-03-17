@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-13
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:09Z
 title: To copy is human
 slug: to-copy-is-human
 featured: false

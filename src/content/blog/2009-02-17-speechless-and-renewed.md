@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-17
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:38:45Z
 title: Speechless and renewed
 slug: speechless-and-renewed
 featured: false

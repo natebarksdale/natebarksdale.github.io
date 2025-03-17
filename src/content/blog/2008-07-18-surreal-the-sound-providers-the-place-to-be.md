@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-17T21:38:15Z
 title: Surreal & the Sound Providers, “The Place to Be”
 slug: surreal-the-sound-providers-the-place-to-be
 featured: false

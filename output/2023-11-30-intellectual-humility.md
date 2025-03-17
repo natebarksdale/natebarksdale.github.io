@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-11-30
-modDatetime: 2025-03-17T14:31:12Z
+modDatetime: 2025-03-17T21:38:09Z
 title: Intellectual Humility
 slug: intellectual-humility
 featured: false

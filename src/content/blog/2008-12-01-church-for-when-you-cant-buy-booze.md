@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Church - for when you can’t buy booze
 slug: church-for-when-you-cant-buy-booze
 featured: false

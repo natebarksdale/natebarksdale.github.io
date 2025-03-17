@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-17
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:47Z
 title: Fujimori Festival
 slug: fujimori-festival
 featured: false

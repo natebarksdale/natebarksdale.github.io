@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-26
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:36Z
 title: The out-of-left-field kind of science
 slug: the-out-of-left-field-kind-of-science
 featured: false

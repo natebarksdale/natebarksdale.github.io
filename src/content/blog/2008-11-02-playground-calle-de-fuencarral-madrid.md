@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-02
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-10
 title: Playground, Calle de Fuencarral, Madrid
 slug: playground-calle-de-fuencarral-madrid
 featured: false

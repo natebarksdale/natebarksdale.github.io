@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-13
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:07Z
 title: To take a work of art & to lavish time on it
 slug: to-take-a-work-of-art-to-lavish-time-on-it
 featured: false

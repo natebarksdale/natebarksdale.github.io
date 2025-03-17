@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-04
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:08Z
 title: Sit up straight and tell me that!
 slug: sit-up-straight-and-tell-me-that
 featured: false

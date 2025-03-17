@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:32Z
 title: The counter-intuitive comparison of all things
 slug: the-counter-intuitive-comparison-of-all-things
 featured: false

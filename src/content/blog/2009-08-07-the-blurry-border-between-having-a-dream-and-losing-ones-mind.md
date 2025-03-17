@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-07
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:55Z
 title: The blurry border between having a dream and losing one’s mind
 slug: the-blurry-border-between-having-a-dream-and-losing-ones-mind
 featured: false

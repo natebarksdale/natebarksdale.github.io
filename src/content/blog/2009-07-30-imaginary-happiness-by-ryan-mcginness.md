@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-30
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:54Z
 title: Imaginary Happiness, by Ryan McGinness
 slug: imaginary-happiness-by-ryan-mcginness
 featured: false

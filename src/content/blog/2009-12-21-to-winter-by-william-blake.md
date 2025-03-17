@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-21
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:02Z
 title: To Winter, by William Blake
 slug: to-winter-by-william-blake
 featured: false

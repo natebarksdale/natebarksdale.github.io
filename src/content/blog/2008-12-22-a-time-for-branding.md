@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:39Z
 title: A time for branding
 slug: a-time-for-branding
 featured: false

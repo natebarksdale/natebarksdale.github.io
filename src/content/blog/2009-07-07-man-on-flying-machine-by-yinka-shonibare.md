@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-07
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:53Z
 title: Man on Flying Machine, by Yinka Shonibare
 slug: man-on-flying-machine-by-yinka-shonibare
 featured: false

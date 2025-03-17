@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:14Z
 title: Before and after, around the world
 slug: before-and-after-around-the-world
 featured: false

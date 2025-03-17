@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-05
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-17T21:38:33Z
 title: We the People, by the Staple Singers
 slug: we-the-people-by-the-staple-singers
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:23Z
 title: “Red Earth,” by Erika Larsen
 slug: red-earth-by-erika-larsen
 featured: false

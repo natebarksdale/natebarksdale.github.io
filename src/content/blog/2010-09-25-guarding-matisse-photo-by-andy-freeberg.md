@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-25
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-17T21:39:12Z
 title: Guarding Matisse, photo by Andy Freeberg
 slug: guarding-matisse-photo-by-andy-freeberg
 featured: false

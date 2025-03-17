@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:38:45Z
 title: To be united with the beauty that we see
 slug: to-be-united-with-the-beauty-that-we-see
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-17T21:38:47Z
 title: Bring the noise
 slug: bring-the-noise
 featured: false

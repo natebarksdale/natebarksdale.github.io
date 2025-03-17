@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-16
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:30Z
 title: Holy Monastery of Simonos Petra, Mt. Athos, Greece
 slug: holy-monastery-of-simonos-petra-mt-athos-greece
 featured: false

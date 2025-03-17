@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-11-13
-modDatetime: 2025-03-17T15:44:54Z
+modDatetime: 2025-03-17T21:38:09Z
 title: Study of the Day | Bad Education
 slug: study-of-the-day-bad-education
 featured: false

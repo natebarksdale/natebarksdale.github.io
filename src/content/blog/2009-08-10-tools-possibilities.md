@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-10
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:55Z
 title: Tools = possibilities
 slug: tools-possibilities
 featured: false

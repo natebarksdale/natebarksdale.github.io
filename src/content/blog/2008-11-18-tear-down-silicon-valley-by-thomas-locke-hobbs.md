@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:35Z
 title: Tear-down, Silicon Valley, by Thomas Locke Hobbs
 slug: tear-down-silicon-valley-by-thomas-locke-hobbs
 featured: false

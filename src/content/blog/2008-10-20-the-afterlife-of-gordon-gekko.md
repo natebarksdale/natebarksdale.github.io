@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:31Z
 title: The afterlife of Gordon Gekko
 slug: the-afterlife-of-gordon-gekko
 featured: false

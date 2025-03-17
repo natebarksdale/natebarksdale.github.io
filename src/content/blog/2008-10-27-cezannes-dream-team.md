@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-17T21:38:32Z
 title: Cezanne’s dream team
 slug: cezannes-dream-team
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-10-21
-modDatetime: 2025-03-17T21:10:30Z
+modDatetime: 2025-03-17T21:39:21Z
 title: Social Hostility Towards Religion Declined in 2019, According to Recent Research
 slug: social-hostility-towards-religion-declined-in-2019-according-to-recent-research
 featured: false

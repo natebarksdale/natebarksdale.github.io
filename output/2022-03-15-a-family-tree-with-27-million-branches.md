@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-03-15
-modDatetime: 2025-03-17T15:44:53Z
+modDatetime: 2025-03-17T21:38:08Z
 title: Study of the Day | A Family Tree With 27 Million Branches
 slug: study-of-the-day-a-family-tree-with-27-million-branches
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-10
 title: Make a fresh!
 slug: make-a-fresh
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:13Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false

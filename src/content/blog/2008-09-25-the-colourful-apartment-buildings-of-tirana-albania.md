@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:27Z
 title: The colourful apartment buildings of Tirana, Albania
 slug: the-colourful-apartment-buildings-of-tirana-albania
 featured: false

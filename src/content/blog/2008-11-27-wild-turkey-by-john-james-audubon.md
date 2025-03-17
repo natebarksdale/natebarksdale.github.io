@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:36Z
 title: Wild Turkey, by John James Audubon
 slug: wild-turkey-by-john-james-audubon
 featured: false

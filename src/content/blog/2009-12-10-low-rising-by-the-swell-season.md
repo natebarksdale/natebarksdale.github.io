@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-10
-modDatetime: 2025-03-14T21:18:04Z
+modDatetime: 2025-03-17T21:39:01Z
 title: Low Rising, by The Swell Season
 slug: low-rising-by-the-swell-season
 featured: false

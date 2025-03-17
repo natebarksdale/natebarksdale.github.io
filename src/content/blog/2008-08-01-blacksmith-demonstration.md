@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-14T21:17:50Z
+modDatetime: 2025-03-17T21:38:17Z
 title: Blacksmith demonstration
 slug: blacksmith-demonstration
 featured: false

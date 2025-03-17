@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-03-10
-modDatetime: 2025-03-17T15:44:54Z
+modDatetime: 2025-03-17T21:38:09Z
 title: Study of the Day | Future Selves, Future Others
 slug: study-of-the-day-future-selves-future-others
 featured: false

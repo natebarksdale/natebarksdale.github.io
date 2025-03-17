@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-03-14T21:17:50Z
+modDatetime: 2025-03-17T21:38:16Z
 title: Eighty percent of success ..
 slug: eighty-percent-of-success
 featured: false

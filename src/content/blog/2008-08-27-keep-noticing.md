@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:22Z
 title: Keep noticing!
 slug: keep-noticing
 featured: false

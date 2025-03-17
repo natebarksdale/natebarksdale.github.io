@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:02Z
 title: Bad News for Wood Boats
 slug: bad-news-for-wood-boats
 featured: false

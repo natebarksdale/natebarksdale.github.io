@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-01-13
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:20Z
 title: A Browsable, Theological Treasure-Chest
 slug: a-browsable-theological-treasure-chest
 featured: false

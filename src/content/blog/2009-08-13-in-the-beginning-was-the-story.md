@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-13
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:55Z
 title: In the beginning was the story
 slug: in-the-beginning-was-the-story
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-17T21:38:17Z
 title: “Blacksmith Shop”, by Czeslaw Milosz
 slug: blacksmith-shop-by-czeslaw-milosz
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:21Z
 title: Surfing Proust - Is nonfiction just easier to read?
 slug: surfing-proust-is-nonfiction-just-easier-to-read
 featured: false

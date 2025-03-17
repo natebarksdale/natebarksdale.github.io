@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:42Z
 title: Snark is what you make of it
 slug: snark-is-what-you-make-of-it
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2025-03-14T21:17:53Z
+modDatetime: 2025-03-17T21:38:25Z
 title: Reconciliation and the oval ball
 slug: reconciliation-and-the-oval-ball
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-25
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:03Z
 title: What food books say
 slug: what-food-books-say
 featured: false

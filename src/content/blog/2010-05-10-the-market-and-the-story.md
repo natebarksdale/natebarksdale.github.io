@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:09Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false

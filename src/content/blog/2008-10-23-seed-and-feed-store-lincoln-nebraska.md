@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-23
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-17T21:38:31Z
 title: Seed and feed store, Lincoln, Nebraska
 slug: seed-and-feed-store-lincoln-nebraska
 featured: false

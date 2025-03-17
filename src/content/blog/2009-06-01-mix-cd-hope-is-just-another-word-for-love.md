@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-01
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:51Z
 title: Mix CD | Hope Is Just Another Word for Love
 slug: mix-cd-hope-is-just-another-word-for-love
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-17T21:39:06Z
 title: Food culture and the Last Supper
 slug: food-culture-and-the-last-supper
 featured: false

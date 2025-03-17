@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2025-03-14T21:17:53Z
+modDatetime: 2025-03-17T21:38:26Z
 title: At most, sharing a pudding
 slug: at-most-sharing-a-pudding
 featured: false

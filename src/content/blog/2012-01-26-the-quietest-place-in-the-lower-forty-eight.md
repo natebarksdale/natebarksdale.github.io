@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-26
-modDatetime: 2025-03-14T21:18:09Z
+modDatetime: 2025-03-17T21:39:16Z
 title: The quietest place in the lower forty-eight
 slug: the-quietest-place-in-the-lower-forty-eight
 featured: false

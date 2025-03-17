@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-01
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:23Z
 title: If it seems wordish, use it
 slug: if-it-seems-wordish-use-it
 featured: false

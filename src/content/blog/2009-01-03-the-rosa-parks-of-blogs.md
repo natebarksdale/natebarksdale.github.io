@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:41Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false

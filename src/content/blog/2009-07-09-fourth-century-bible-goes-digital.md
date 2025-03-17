@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-09
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:53Z
 title: Fourth century Bible goes digital
 slug: fourth-century-bible-goes-digital
 featured: false

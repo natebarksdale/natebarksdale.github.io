@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-27
-modDatetime: 2025-03-14T21:18:08Z
+modDatetime: 2025-03-17T21:39:12Z
 title: Same goes for grace?
 slug: same-goes-for-grace
 featured: false

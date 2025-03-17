@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-05
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-10
 title: Odd Fellows Lawn, Sacramento, California
 slug: odd-fellows-lawn-sacramento-california
 featured: false

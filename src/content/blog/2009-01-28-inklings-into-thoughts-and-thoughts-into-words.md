@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:38:43Z
 title: Inklings into thoughts and thoughts into words
 slug: inklings-into-thoughts-and-thoughts-into-words
 featured: false

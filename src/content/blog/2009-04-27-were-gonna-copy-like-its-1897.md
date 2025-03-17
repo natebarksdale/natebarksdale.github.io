@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2025-03-14T21:18:00Z
+modDatetime: 2025-03-17T21:38:50Z
 title: We’re gonna copy like it’s 1897
 slug: were-gonna-copy-like-its-1897
 featured: false

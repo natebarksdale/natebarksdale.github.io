@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-02
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Between common and professional
 slug: between-common-and-professional
 featured: false

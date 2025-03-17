@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-31
-modDatetime: 2025-03-17T15:44:53Z
+modDatetime: 2025-03-17T21:38:09Z
 title: Study of the Day | Call and Response
 slug: study-of-the-day-call-and-response
 featured: false

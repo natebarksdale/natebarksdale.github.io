@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-12
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-17T21:38:34Z
 title: The mind is also a landscape
 slug: the-mind-is-also-a-landscape
 featured: false

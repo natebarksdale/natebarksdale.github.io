@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-11
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:52Z
 title: Verda with Her Yard Art, by Dave Jordano
 slug: verda-with-her-yard-art-by-dave-jordano
 featured: false

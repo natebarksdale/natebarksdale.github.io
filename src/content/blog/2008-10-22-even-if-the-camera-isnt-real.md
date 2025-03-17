@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-17T21:38:31Z
 title: Even if the camera isn’t real
 slug: even-if-the-camera-isnt-real
 featured: false

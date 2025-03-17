@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-05
-modDatetime: 2025-03-14T21:17:55Z
+modDatetime: 2025-03-17T21:38:33Z
 title: Inshallah
 slug: inshallah
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-16
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-10
 title: Ponte Vecchio, Florence, Italy
 slug: ponte-vecchio-florence-italy
 featured: false

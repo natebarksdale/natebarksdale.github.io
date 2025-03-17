@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-09-27
-modDatetime: 2025-03-17T15:44:52Z
+modDatetime: 2025-03-17T21:39:20Z
 title: An Evening Exploring the Unknown
 slug: an-evening-exploring-the-unknown
 featured: false

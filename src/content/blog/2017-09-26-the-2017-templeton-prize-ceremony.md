@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-09-26
-modDatetime: 2025-03-17T18:07:36Z
+modDatetime: 2025-03-17T21:39:18Z
 title: The 2017 Templeton Prize Ceremony
 slug: the-2017-templeton-prize-ceremony
 featured: false

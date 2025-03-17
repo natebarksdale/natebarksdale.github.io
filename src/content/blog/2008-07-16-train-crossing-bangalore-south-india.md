@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-10T19:08:47Z
+modDatetime: 2025-03-17T21:38:15Z
 title: Train crossing, Bangalore, South India
 slug: train-crossing-bangalore-south-india
 featured: false

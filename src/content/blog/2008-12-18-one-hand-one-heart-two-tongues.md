@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-17T21:38:39Z
 title: One hand, one heart, two tongues
 slug: one-hand-one-heart-two-tongues
 featured: false

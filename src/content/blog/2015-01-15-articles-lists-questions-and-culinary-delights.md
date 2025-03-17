@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2015-01-15
-modDatetime: 2025-03-10T21:39:29Z
+modDatetime: 2025-03-17T21:39:17Z
 title: Articles | Lists, Questions and Culinary Delights
 slug: articles-lists-questions-and-culinary-delights
 featured: false

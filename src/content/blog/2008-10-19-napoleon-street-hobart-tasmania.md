@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-19
-modDatetime: 2025-03-10T18:29:16Z
+modDatetime: 2025-03-10
 title: Napoleon Street, Hobart, Tasmania
 slug: napoleon-street-hobart-tasmania
 featured: false

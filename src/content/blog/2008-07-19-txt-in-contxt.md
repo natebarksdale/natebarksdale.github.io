@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-10T18:29:12Z
+modDatetime: 2025-03-17T21:38:16Z
 title: Txt in contxt
 slug: txt-in-contxt
 featured: false

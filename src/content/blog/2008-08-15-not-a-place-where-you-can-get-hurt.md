@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-15
-modDatetime: 2025-03-14T21:17:51Z
+modDatetime: 2025-03-17T21:38:19Z
 title: Not a place where you can get hurt
 slug: not-a-place-where-you-can-get-hurt
 featured: false

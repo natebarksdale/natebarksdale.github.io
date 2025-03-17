@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-26
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17T21:39:19Z
 title: Faith, Politics, and Intellectual Humility
 slug: faith-politics-and-intellectual-humility
 featured: false

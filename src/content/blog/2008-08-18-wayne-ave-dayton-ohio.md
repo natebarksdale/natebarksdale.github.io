@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-18
-modDatetime: 2025-03-14T21:17:51Z
+modDatetime: 2025-03-17T21:38:20Z
 title: Wayne Ave., Dayton, Ohio
 slug: wayne-ave-dayton-ohio
 featured: false

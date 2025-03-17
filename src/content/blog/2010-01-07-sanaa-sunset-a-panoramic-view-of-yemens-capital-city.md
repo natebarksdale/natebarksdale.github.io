@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-07
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:02Z
 title: Sana’a sunset - a panoramic view of Yemen’s capital city
 slug: sanaa-sunset-a-panoramic-view-of-yemens-capital-city
 featured: false

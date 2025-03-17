@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2000-09-01
-modDatetime: 2025-03-10T21:39:25Z
+modDatetime: 2025-03-17T21:38:10Z
 title: Roaring Lambs or bleating lions?
 slug: roaring-lambs-or-bleating-lions
 featured: false

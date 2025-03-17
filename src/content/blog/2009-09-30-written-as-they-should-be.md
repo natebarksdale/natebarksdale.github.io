@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-30
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:57Z
 title: Written as they should be
 slug: written-as-they-should-be
 featured: false

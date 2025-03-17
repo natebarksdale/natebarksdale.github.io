@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2025-03-10T18:29:19Z
+modDatetime: 2025-03-17T21:38:43Z
 title: ¿Por qué ser Carmelita Descalza?
 slug: por-que-ser-carmelita-descalza
 featured: false

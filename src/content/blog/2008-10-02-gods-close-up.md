@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:28Z
 title: God’s Close-Up
 slug: gods-close-up
 featured: false

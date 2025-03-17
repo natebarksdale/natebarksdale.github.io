@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-17
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-17T21:39:10Z
 title: Even if the hymns are impossible to sing
 slug: even-if-the-hymns-are-impossible-to-sing
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-07
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:09Z
 title: Language that does not forget the world of nouns
 slug: language-that-does-not-forget-the-world-of-nouns
 featured: false

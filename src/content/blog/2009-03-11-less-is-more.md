@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-11
-modDatetime: 2025-03-14T21:17:59Z
+modDatetime: 2025-03-17T21:38:46Z
 title: Less is more
 slug: less-is-more
 featured: false

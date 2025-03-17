@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:30Z
 title: Best book review opening ever
 slug: best-book-review-opening-ever
 featured: false

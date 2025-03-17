@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:29Z
 title: Investment instruments with lottery-like qualities
 slug: investment-instruments-with-lottery-like-qualities
 featured: false

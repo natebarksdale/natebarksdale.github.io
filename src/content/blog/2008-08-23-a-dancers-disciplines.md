@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:21Z
 title: A dancer’s disciplines
 slug: a-dancers-disciplines
 featured: false

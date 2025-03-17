@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-08
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:24Z
 title: Outdoor bookcases in Bonn, Germany
 slug: outdoor-bookcases-in-bonn-germany
 featured: false

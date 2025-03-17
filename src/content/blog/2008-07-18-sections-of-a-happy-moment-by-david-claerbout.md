@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:15Z
 title: Sections of a Happy Moment, by David Claerbout
 slug: sections-of-a-happy-moment-by-david-claerbout
 featured: false

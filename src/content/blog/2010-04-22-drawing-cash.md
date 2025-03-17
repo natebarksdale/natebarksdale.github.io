@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-22
-modDatetime: 2025-03-10T18:29:22Z
+modDatetime: 2025-03-17T21:39:08Z
 title: Drawing Cash
 slug: drawing-cash
 featured: false

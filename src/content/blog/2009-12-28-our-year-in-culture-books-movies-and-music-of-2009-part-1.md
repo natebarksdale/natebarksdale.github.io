@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-28
-modDatetime: 2025-03-10T19:04:05Z
+modDatetime: 2025-03-17T21:39:02Z
 title: Our year in culture - Books, movies, and music of 2009, part 1
 slug: our-year-in-culture-books-movies-and-music-of-2009-part-1
 featured: false

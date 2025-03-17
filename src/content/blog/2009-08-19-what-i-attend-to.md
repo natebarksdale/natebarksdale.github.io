@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-19
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:55Z
 title: What I attend to
 slug: what-i-attend-to
 featured: false

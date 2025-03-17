@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-17T18:35:33Z
+modDatetime: 2025-03-17T21:39:19Z
 title: Study of the Day | WOW, WHY, HOW?
 slug: study-of-the-day-wow-why-how
 featured: false

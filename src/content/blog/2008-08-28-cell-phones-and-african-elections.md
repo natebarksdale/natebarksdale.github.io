@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:22Z
 title: Cell phones and African elections
 slug: cell-phones-and-african-elections
 featured: false

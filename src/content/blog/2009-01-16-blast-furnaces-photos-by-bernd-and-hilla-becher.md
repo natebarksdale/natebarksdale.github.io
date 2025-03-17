@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-16
-modDatetime: 2025-03-10T18:29:18Z
+modDatetime: 2025-03-17T21:38:42Z
 title: Blast furnaces, photos by Bernd and Hilla Becher
 slug: blast-furnaces-photos-by-bernd-and-hilla-becher
 featured: false

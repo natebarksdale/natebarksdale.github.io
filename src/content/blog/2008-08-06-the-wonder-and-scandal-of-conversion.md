@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-10T18:29:13Z
+modDatetime: 2025-03-17T21:38:18Z
 title: The wonder (and scandal) of conversion
 slug: the-wonder-and-scandal-of-conversion
 featured: false

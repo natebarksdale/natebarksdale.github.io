@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-17T21:38:30Z
 title: Stone wall, Cuzco, Peru
 slug: stone-wall-cuzco-peru
 featured: false

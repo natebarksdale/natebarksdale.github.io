@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-19
-modDatetime: 2025-03-10T18:29:23Z
+modDatetime: 2025-03-17T21:39:12Z
 title: Cement bag graphics
 slug: cement-bag-graphics
 featured: false

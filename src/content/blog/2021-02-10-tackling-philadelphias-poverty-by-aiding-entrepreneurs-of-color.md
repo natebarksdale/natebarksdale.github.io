@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-02-10
-modDatetime: 2025-03-17T20:38:13Z
+modDatetime: 2025-03-17T21:39:21Z
 title: Tackling Philadelphia’s Poverty by Aiding Entrepreneurs of Color
 slug: tackling-philadelphias-poverty-by-aiding-entrepreneurs-of-color
 featured: false

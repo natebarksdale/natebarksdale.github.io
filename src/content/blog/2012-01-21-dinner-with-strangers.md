@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-21
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-17T21:39:15Z
 title: Dinner with strangers
 slug: dinner-with-strangers
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-06
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:07Z
 title: Unintentional Easter quotation of the day
 slug: unintentional-easter-quotation-of-the-day
 featured: false

@@ -314,120 +314,181 @@ p:not(:last-child)::after {
 
 /* Add this within your @layer base { ... } section */
   
-  /* LLM Chat styling - add within @layer base in src/styles/base.css */
-  blockquote[data-llm] {
-    @apply p-0 my-6 border rounded-xl overflow-hidden;
-    font-family: 'Faune', sans-serif;
-    font-style: normal;
-    font-size: 80%;
-    font-weight: normal;
-    border-left: none !important;
-    opacity: 1 !important;
-    border-color: rgba(0,0,0,0.1);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  }
+/* LLM Chat Styling System 
+ * Each LLM has a core theme color, with derived variations:
+ * - Header text: 100% theme color
+ * - Q chat bubbles: 25% theme color
+ * - A chat bubbles: white
+ * - Blockquote background: 10% theme color
+ */
 
-  /* LLM Chat styling - add within @layer base in src/styles/base.css */
-  blockquote[data-llm] {
-    @apply p-0 my-6 border rounded-xl overflow-hidden;
-    font-family: 'Faune', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    border-left: none !important;
-    opacity: 1 !important;
-    border-color: rgba(0,0,0,0.1);
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  }
+/* Base LLM Chat Styles */
+blockquote[data-llm] {
+  @apply p-0 my-6 border rounded-xl overflow-hidden;
+  font-family: 'Faune', sans-serif;
+  font-style: normal;
+  font-size: 80%;
+  font-weight: normal;
+  border-left: none !important;
+  opacity: 1 !important;
+  border-color: rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
 
-  /* More specific header styling for different LLMs */
-  /* purgecss: ignore next */
-  blockquote[data-llm] > .llm-header {
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 80% !important;
-    font-weight: normal !important;
-    text-transform: lowercase !important;
-    text-align: left !important;
-    padding: 8px 4px 8px 14px !important;
-    margin: 0 !important;
-    line-height: 1.2 !important;
-  }
-  
-  blockquote[data-llm] p {
-    @apply my-4 py-2 px-4 rounded-xl;
-  }
+/* Header styling - this is critical */
+blockquote[data-llm] .llm-header {
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 80% !important;
+  font-weight: normal !important;
+  text-transform: lowercase !important;
+  text-align: left !important;
+  padding: 8px 4px 8px 14px !important;
+  margin: 0 !important;
+  line-height: 1.2 !important;
+}
 
-  blockquote[data-llm] p[data-role="Q"] {
-    @apply ml-auto mr-4 bg-gray-200 text-gray-800;
-    max-width: 70%;
-    width: fit-content;
-    border-radius: 18px 18px 4px 18px;
-  }
+/* Message styling */
+blockquote[data-llm] p {
+  @apply my-4 py-2 px-4 rounded-xl;
+}
 
-  blockquote[data-llm] p[data-role="A"] {
-    @apply ml-4 mr-auto bg-white text-gray-800;
-    max-width: 90%;
-    width: fit-content;
-    border-radius: 18px 18px 18px 4px;
-  }
+blockquote[data-llm] p[data-role="Q"] {
+  @apply ml-auto mr-4;
+  max-width: 70%;
+  width: fit-content;
+  border-radius: 18px 18px 4px 18px;
+}
 
-  /* Claude - cream/beige with orange accent */
-  blockquote[data-llm="Claude"] {
-    background-color: #f6f5f1;
-  }
-  
-  blockquote[data-llm="Claude"] .llm-header {
-    color: #8d6a58 !important;
-  }
+blockquote[data-llm] p[data-role="A"] {
+  @apply ml-4 mr-auto;
+  background-color: white !important;
+  color: rgb(30, 30, 30) !important;
+  max-width: 90%;
+  width: fit-content;
+  border-radius: 18px 18px 18px 4px;
+}
 
-  /* ChatGPT - light gray with green accent */
-  blockquote[data-llm="ChatGPT"] {
-    background-color: #f7f7f8;
-  }
-  
-  blockquote[data-llm="ChatGPT"] .llm-header {
-    color: #10a37f !important;
-  }
+/* Empty paragraphs in blockquotes should be hidden */
+blockquote[data-llm] p:empty {
+  @apply hidden;
+}
 
-  /* Mistral - red theme */
-  blockquote[data-llm="Mistral"] {
-    background-color: #fef7f7;
-  }
-  
-  blockquote[data-llm="Mistral"] .llm-header {
-    color: #d1453b !important;
-  }
-  
-  blockquote[data-llm="Mistral"] p[data-role="Q"] {
-    background-color: #f8d7d5;
-  }
+/* ChatGPT - Green theme */
+blockquote[data-llm="ChatGPT"] {
+  background-color: rgba(16, 163, 127, 0.1); /* 10% of theme color */
+}
 
-  /* DeepSeek - blue/purple theme */
-  blockquote[data-llm="DeepSeek"] {
-    background-color: #f6f7fc;
-  }
-  
-  blockquote[data-llm="DeepSeek"] .llm-header {
-    color: #5770c7 !important;
-  }
-  
-  /* Gemini - blue theme */
-  blockquote[data-llm="Gemini"] {
-    background-color: #f3f7fc;
-  }
-  
-  blockquote[data-llm="Gemini"] .llm-header {
-    color: #4b87e2 !important;
-  }
+blockquote[data-llm="ChatGPT"] .llm-header {
+  color: rgb(16, 163, 127) !important; /* 100% theme color */
+}
 
-  /* Make code blocks inside LLM chats match the blog's code style but with proper context */
-  blockquote[data-llm] code {
-    @apply bg-skin-fill text-xs p-1 rounded;
-  }
-  
-  /* Empty paragraphs in blockquotes should be hidden */
-  blockquote[data-llm] p:empty {
-    @apply hidden;
-  }
+blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
+  background-color: rgba(16, 163, 127, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Claude - Beige/Orange theme */
+blockquote[data-llm="Claude"] {
+  background-color: rgba(141, 106, 88, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Claude"] .llm-header {
+  color: rgb(141, 106, 88) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Claude"] p[data-role="Q"] {
+  background-color: rgba(141, 106, 88, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Mistral - Red theme */
+blockquote[data-llm="Mistral"] {
+  background-color: rgba(209, 69, 59, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Mistral"] .llm-header {
+  color: rgb(209, 69, 59) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Mistral"] p[data-role="Q"] {
+  background-color: rgba(209, 69, 59, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Gemini - Blue theme */
+blockquote[data-llm="Gemini"] {
+  background-color: rgba(75, 135, 226, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Gemini"] .llm-header {
+  color: rgb(75, 135, 226) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Gemini"] p[data-role="Q"] {
+  background-color: rgba(75, 135, 226, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* DeepSeek - Purple theme */
+blockquote[data-llm="DeepSeek"] {
+  background-color: rgba(87, 112, 199, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="DeepSeek"] .llm-header {
+  color: rgb(87, 112, 199) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
+  background-color: rgba(87, 112, 199, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Bard - Colorful theme */
+blockquote[data-llm="Bard"] {
+  background-color: rgba(234, 67, 53, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Bard"] .llm-header {
+  color: rgb(234, 67, 53) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Bard"] p[data-role="Q"] {
+  background-color: rgba(234, 67, 53, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Llama - Purple theme */
+blockquote[data-llm="Llama"] {
+  background-color: rgba(153, 102, 255, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Llama"] .llm-header {
+  color: rgb(153, 102, 255) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Llama"] p[data-role="Q"] {
+  background-color: rgba(153, 102, 255, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Anthropic - Alternate Claude Theme */
+blockquote[data-llm="Anthropic"] {
+  background-color: rgba(175, 99, 82, 0.1); /* 10% of theme color */
+}
+
+blockquote[data-llm="Anthropic"] .llm-header {
+  color: rgb(175, 99, 82) !important; /* 100% theme color */
+}
+
+blockquote[data-llm="Anthropic"] p[data-role="Q"] {
+  background-color: rgba(175, 99, 82, 0.25) !important; /* 25% of theme color */
+  color: rgb(30, 30, 30) !important;
+}
+
+/* Make code blocks inside LLM chats match the blog's code style but with proper context */
+blockquote[data-llm] code {
+  @apply bg-skin-fill text-xs p-1 rounded;
+}
 
 }
 

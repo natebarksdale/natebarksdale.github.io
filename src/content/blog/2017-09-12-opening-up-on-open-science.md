@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-09-12
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:18Z
 title: Interview | Opening Up on Open Science
 slug: interview-opening-up-on-open-science
 featured: false

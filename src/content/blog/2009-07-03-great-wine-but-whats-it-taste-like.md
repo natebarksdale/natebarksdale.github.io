@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-03
-modDatetime: 2025-03-10T18:29:20Z
+modDatetime: 2025-03-17T21:38:53Z
 title: Great wine, but what’s it taste like?
 slug: great-wine-but-whats-it-taste-like
 featured: false

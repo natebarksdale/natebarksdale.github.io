@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-14
-modDatetime: 2025-03-14T21:18:02Z
+modDatetime: 2025-03-17T21:38:55Z
 title: The Shettima Kagu Qur’an
 slug: the-shettima-kagu-quran
 featured: false

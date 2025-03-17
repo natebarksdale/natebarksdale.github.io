@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-25
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:06Z
 title: Two clichés make us laugh. A hundred clichés move us
 slug: two-cliches-make-us-laugh-a-hundred-cliches-move-us
 featured: false

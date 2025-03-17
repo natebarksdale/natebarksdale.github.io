@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2025-03-14T21:17:53Z
+modDatetime: 2025-03-17T21:38:26Z
 title: Dave, Merredin, Western Australia, by Caitlin Harrison
 slug: dave-merredin-western-australia-by-caitlin-harrison
 featured: false

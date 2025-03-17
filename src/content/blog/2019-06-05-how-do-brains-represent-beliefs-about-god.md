@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-06-05
-modDatetime: 2025-03-17T15:44:51Z
+modDatetime: 2025-03-17T21:39:20Z
 title: How Do Brains Represent Beliefs About God?
 slug: how-do-brains-represent-beliefs-about-god
 featured: false

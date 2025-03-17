@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-10
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:11Z
 title: The Meandering Mississippi
 slug: the-meandering-mississippi
 featured: false

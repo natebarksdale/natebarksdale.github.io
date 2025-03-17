@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Blogs as ‘Cabinets of Wonder’
 slug: blogs-as-cabinets-of-wonder
 featured: false

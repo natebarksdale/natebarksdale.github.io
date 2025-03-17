@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-26
-modDatetime: 2025-03-14T21:18:05Z
+modDatetime: 2025-03-17T21:39:03Z
 title: Robots and the grace of presence
 slug: robots-and-the-grace-of-presence
 featured: false

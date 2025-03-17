@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2025-03-10T19:38:37Z
+modDatetime: 2025-03-17T21:38:43Z
 title: Cape Canaveral, by Conor Oberst and the Mystic Valley Band
 slug: cape-canaveral-by-conor-oberst-and-the-mystic-valley-band
 featured: false

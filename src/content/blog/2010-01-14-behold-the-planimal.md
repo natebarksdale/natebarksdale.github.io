@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-14
-modDatetime: 2025-03-10T20:19:39Z
+modDatetime: 2025-03-17T21:39:02Z
 title: Behold, the Planimal!
 slug: behold-the-planimal
 featured: false

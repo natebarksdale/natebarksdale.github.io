@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-02-08
-modDatetime: 2025-03-14T21:18:09Z
+modDatetime: 2025-03-17T21:39:16Z
 title: Good art in dark times
 slug: good-art-in-dark-times
 featured: false

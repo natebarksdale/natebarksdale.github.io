@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-27
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:10Z
 title: OK, and now can we get one with the torn shirt? Thanks!
 slug: ok-and-now-can-we-get-one-with-the-torn-shirt-thanks
 featured: false

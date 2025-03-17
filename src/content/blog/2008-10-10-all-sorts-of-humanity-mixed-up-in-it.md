@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-10
-modDatetime: 2025-03-14T21:17:54Z
+modDatetime: 2025-03-17T21:38:30Z
 title: All sorts of humanity mixed up in it
 slug: all-sorts-of-humanity-mixed-up-in-it
 featured: false

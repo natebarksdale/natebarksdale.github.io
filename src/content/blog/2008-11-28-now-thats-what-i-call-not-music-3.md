@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-28
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-17T21:38:36Z
 title: Now That’s What I Call Not Music 3!
 slug: now-thats-what-i-call-not-music-3
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-11-03
-modDatetime: 2025-03-17T21:10:30Z
+modDatetime: 2025-03-17T21:38:08Z
 title: What Does a 1,800-year-old Buddhist Classic Have to Say about Quantum Physics and the Nature of Reality?
 slug: what-does-a-1800-year-old-buddhist-classic-have-to-say-about-quantum-physics-and-the-nature-of-reality
 featured: false

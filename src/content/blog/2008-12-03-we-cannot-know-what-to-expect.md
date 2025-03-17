@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:37Z
 title: We cannot know what to expect
 slug: we-cannot-know-what-to-expect
 featured: false

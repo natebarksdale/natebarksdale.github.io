@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-25
-modDatetime: 2025-03-14T21:18:03Z
+modDatetime: 2025-03-17T21:38:57Z
 title: Ode to a mangosteen
 slug: ode-to-a-mangosteen
 featured: false

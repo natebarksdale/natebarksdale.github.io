@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-09
-modDatetime: 2025-03-14T21:18:07Z
+modDatetime: 2025-03-17T21:39:11Z
 title: Everyday South Africans and their bicycles
 slug: everyday-south-africans-and-their-bicycles
 featured: false

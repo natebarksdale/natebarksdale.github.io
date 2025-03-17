@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-12
-modDatetime: 2025-03-10T18:29:17Z
+modDatetime: 2025-03-17T21:38:38Z
 title: A xerox on the face of eternity
 slug: a-xerox-on-the-face-of-eternity
 featured: false

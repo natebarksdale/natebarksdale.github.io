@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-10T19:04:04Z
+modDatetime: 2025-03-17T21:38:14Z
 title: Beyond Bollywood - Shillong’s love affair with western music
 slug: beyond-bollywood-shillongs-love-affair-with-western-music
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2025-03-10T18:29:14Z
+modDatetime: 2025-03-17T21:38:25Z
 title: The trouble with online maps
 slug: the-trouble-with-online-maps
 featured: false

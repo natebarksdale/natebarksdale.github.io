@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2005-04-28
-modDatetime: 2025-03-14T21:17:48Z
+modDatetime: 2025-03-17T21:38:11Z
 title: Mix CD | Entomology
 slug: mix-cd-entomology
 featured: false

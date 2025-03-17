@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-28
-modDatetime: 2025-03-10T18:29:15Z
+modDatetime: 2025-03-10
 title: Old Hwy 52, Rural Hall, North Carolina
 slug: old-hwy-52-rural-hall-north-carolina
 featured: false

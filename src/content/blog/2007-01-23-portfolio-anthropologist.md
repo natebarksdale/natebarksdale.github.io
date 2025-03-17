@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-01-23
-modDatetime: 2025-03-10T21:39:26Z
+modDatetime: 2025-03-17T21:38:11Z
 title: Portfolio | Anthropologist
 slug: portfolio-anthropologist
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-09-21
-modDatetime: 2025-03-17T20:59:32Z
+modDatetime: 2025-03-17T21:39:21Z
 title: Early-Career Astrophysicists and Social Scientists Will Have a Front-Row Seat for the Vera C. Rubin Observatory’s Groundbreaking Night Sky Survey
 slug: early-career-astrophysicists-and-social-scientists-will-have-a-front-row-seat-for-the-vera-c-rubin-observatorys-groundbreaking-night-sky-survey
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Heaven on earth in plastic
 slug: heaven-on-earth-in-plastic
 featured: false

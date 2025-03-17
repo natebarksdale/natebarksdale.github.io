@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:35Z
 title: Bodies in motion and at rest
 slug: bodies-in-motion-and-at-rest
 featured: false

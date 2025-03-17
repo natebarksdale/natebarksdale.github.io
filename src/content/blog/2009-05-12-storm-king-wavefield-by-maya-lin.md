@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-12
-modDatetime: 2025-03-14T21:18:01Z
+modDatetime: 2025-03-17T21:38:50Z
 title: Storm King Wavefield, by Maya Lin
 slug: storm-king-wavefield-by-maya-lin
 featured: false

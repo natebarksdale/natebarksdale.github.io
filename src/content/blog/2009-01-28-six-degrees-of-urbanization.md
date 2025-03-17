@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-14T21:17:58Z
+modDatetime: 2025-03-17T21:38:43Z
 title: Six degrees of urbanization
 slug: six-degrees-of-urbanization
 featured: false

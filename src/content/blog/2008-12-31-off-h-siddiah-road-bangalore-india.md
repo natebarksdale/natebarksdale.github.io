@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-31
-modDatetime: 2025-03-14T21:17:57Z
+modDatetime: 2025-03-17T21:38:40Z
 title: Off H Siddiah Road, Bangalore, India
 slug: off-h-siddiah-road-bangalore-india
 featured: false

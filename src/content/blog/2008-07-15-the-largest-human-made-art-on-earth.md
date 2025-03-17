@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-14T21:17:49Z
+modDatetime: 2025-03-17T21:38:14Z
 title: The Largest Human-Made Art on Earth
 slug: the-largest-human-made-art-on-earth
 featured: false

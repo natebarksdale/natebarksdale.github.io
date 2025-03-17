@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2025-03-14T14:53:29Z
+modDatetime: 2025-03-17T21:39:14Z
 title: We can has cheeseburger!
 slug: we-can-has-cheeseburger
 featured: false

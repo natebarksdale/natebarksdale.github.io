@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-29
-modDatetime: 2025-03-14T21:18:06Z
+modDatetime: 2025-03-17T21:39:06Z
 title: The right book at the right time
 slug: the-right-book-at-the-right-time
 featured: false

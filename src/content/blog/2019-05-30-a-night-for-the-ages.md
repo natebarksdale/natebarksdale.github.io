@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-05-30
-modDatetime: 2025-03-17T18:07:03Z
+modDatetime: 2025-03-17T21:39:19Z
 title: A Night for the Ages
 slug: a-night-for-the-ages
 featured: false

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-21
-modDatetime: 2025-03-14T21:17:52Z
+modDatetime: 2025-03-17T21:38:20Z
 title: The Rosetta Disk
 slug: the-rosetta-disk
 featured: false

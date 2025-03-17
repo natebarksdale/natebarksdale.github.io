@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-12
-modDatetime: 2025-03-14T21:18:09Z
+modDatetime: 2025-03-17T21:39:14Z
 title: Knowing the end of the story
 slug: knowing-the-end-of-the-story
 featured: false

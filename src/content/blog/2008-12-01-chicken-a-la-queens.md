@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-14T21:17:56Z
+modDatetime: 2025-03-17T21:38:37Z
 title: Chicken à la Queens
 slug: chicken-a-la-queens
 featured: false
