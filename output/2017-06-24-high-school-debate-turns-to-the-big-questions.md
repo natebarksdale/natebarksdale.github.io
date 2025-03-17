@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-17T18:35:33Z
-title: Grant Profile | High school debate turns to the Big Questions
-slug: grant-profile-high-school-debate-turns-to-the-big-questions
+modDatetime: 2025-03-17T15:44:51Z
+title: High school debate turns to the Big Questions
+slug: high-school-debate-turns-to-the-big-questions
 featured: false
 draft: false
 description: Does science leave room for free will? High school debaters have some ideas.

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-07
-modDatetime: 2025-03-17T18:35:33Z
+modDatetime: 2025-03-17T18:07:03Z
 title: NOVA Wonders
 slug: nova-wonders
 featured: false
