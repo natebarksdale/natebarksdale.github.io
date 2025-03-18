@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-17
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-18T20:45:57Z
 title: Speechless and renewed
 slug: speechless-and-renewed
 featured: false
@@ -13,9 +13,10 @@ tags:
   - 🌍 Society
   - 💬 Communication
 haiku: |
-  Words flow like water,  
-  Boundless in quiet renewal,  
-  Yet still a whisper.
+  No lyric ever
+  Stopped a tank, and yet, yet, it
+  Is unlimited.
+
 coordinates: [53.349805, -6.26031]
 ---
 

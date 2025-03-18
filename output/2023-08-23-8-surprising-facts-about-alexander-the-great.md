@@ -1,21 +1,21 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-08-23
-modDatetime: 2025-03-18
+modDatetime: 2025-03-18T20:45:57Z
 title: 8 Surprising Facts about Alexander the Great
 slug: 8-surprising-facts-about-alexander-the-great
 featured: false
 draft: false
-description: [Alexander the Great](https://www.history.com/topics/ancient-rome/alexander-the-great), the ancient Macedonian ruler, is known as one of the greatest military s...
+description: “If I were not Alexander, I would be Diogenes.”
 emoji: 📝
 tags:
   - 🇭 History.com
   - 📚 Lists
   - 💬 Narratives
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
+  No worlds to conquer
+  India, the outer bound
+  Babylon for death.
 coordinates: [51.509865, -0.118092]
 ---
 

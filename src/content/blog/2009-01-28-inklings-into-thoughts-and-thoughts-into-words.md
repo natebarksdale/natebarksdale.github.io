@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-17T21:38:43Z
+modDatetime: 2025-03-18T20:45:57Z
 title: Inklings into thoughts and thoughts into words
 slug: inklings-into-thoughts-and-thoughts-into-words
 featured: false
@@ -12,9 +12,9 @@ tags:
   - ✍️ Literature
   - 🖊️ Editing
 haiku: |
-  Words flow like water,  
-  From thoughts to ink and paper,  
-  Art in every form.
+  Thoughts into words and 
+  Words into metal and print  
+  And ink never palls.
 coordinates: [40.7831, -73.9712]
 ---
 

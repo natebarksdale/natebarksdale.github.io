@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18T20:45:57Z
 title: Study of the Day | Rediscovering the Greek Revolution’s Roots in Classical Liberalism
 slug: study-of-the-day-rediscovering-the-greek-revolutions-roots-in-classical-liberalism
 featured: false
@@ -10,12 +10,11 @@ description: March 25, 2021 will mark the bicentennial of the struggle for indep
 emoji: 📝
 tags:
   - 🌀 Templeton
-  - 🥤 Soft Drinks
   - 💬 Narratives
 haiku: |
-  Words flow like water,
+  Greek revolutions
   Thoughts captured in black and white,
-  Stories come alive.
+  Now two hundred years.
 coordinates: [51.509865, -0.118092]
 ---
 

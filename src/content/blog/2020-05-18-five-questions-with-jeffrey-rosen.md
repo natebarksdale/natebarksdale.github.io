@@ -15,9 +15,9 @@ tags:
   - 📖 Articles
   - 🌀 Templeton
 haiku: |
-  Words flow like water,
-  Thoughts captured in black and white,
-  Stories come alive.
+  The Constitution
+  Born in Philadelphia
+  Now in all places.
 coordinates: [51.509865, -0.118092]
 ---
 
