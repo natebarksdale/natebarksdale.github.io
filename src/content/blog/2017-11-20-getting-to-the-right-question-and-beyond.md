@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-11-20
-modDatetime: 2025-03-17T21:39:18Z
+modDatetime: 2025-03-18T16:35:35Z
 title: Getting to the Right Question — and Beyond
 slug: getting-to-the-right-question-and-beyond
 featured: false
