@@ -1,181 +1,165 @@
-// Completely restructured llm-chat-formatter.js
+// Simple, direct LLM Chat formatter
 document.addEventListener("DOMContentLoaded", function () {
-  processLLMChats();
+  formatLLMChats();
 
-  // Re-run on page transitions if using Astro's view transitions
-  document.addEventListener("astro:page-load", processLLMChats);
+  // Also handle Astro view transitions
+  document.addEventListener("astro:page-load", formatLLMChats);
 });
 
-function processLLMChats() {
-  // Find all blockquotes
+function formatLLMChats() {
+  console.log("Formatting LLM chats...");
+  // Find all blockquotes that might be LLM chats
   const blockquotes = document.querySelectorAll("blockquote");
 
   blockquotes.forEach(blockquote => {
     // Skip if already processed
     if (blockquote.hasAttribute("data-processed")) return;
 
-    // Get all paragraphs
+    // Store all original content
+    const originalContent = blockquote.innerHTML;
     const paragraphs = blockquote.querySelectorAll("p");
-    if (!paragraphs.length) return;
 
-    // Check first paragraph for LLM identifier pattern
-    const firstP = paragraphs[0];
-    const textContent = firstP.textContent.trim();
+    // Check if this is an LLM chat by looking for {LLM} and {Q}/{A} markers
+    let isLLMChat = false;
+    let llmName = "Generic";
 
-    // Match the format "{ChatGPT}" exactly
-    const llmMatch = textContent.match(/^{([^}]+)}$/);
+    // Check first paragraph for LLM name
+    if (paragraphs.length > 0) {
+      const firstPText = paragraphs[0].textContent.trim();
+      const llmMatch = firstPText.match(/^{([^}]+)}$/);
 
-    let hasQAFormat = false;
-
-    // Check if any paragraph has Q/A format
-    for (let i = 0; i < paragraphs.length; i++) {
-      const pText = paragraphs[i].textContent.trim();
-      if (pText.match(/^{[QA]}/)) {
-        hasQAFormat = true;
-        break;
+      if (llmMatch) {
+        llmName = llmMatch[1];
+        isLLMChat = true;
       }
     }
 
-    if ((llmMatch && llmMatch[1]) || hasQAFormat) {
-      // Determine LLM name
-      let llmName = "Generic";
-      if (llmMatch && llmMatch[1]) {
-        llmName = llmMatch[1].trim();
-      }
-
-      // Set LLM attribute
-      blockquote.setAttribute("data-llm", llmName);
-
-      // Create a completely new structure
-      restructureChatContent(blockquote, llmName);
-
-      console.log(`Processed LLM chat: ${llmName}`);
-    }
-
-    // Mark as processed to avoid repeated processing
-    blockquote.setAttribute("data-processed", "true");
-  });
-}
-
-function restructureChatContent(blockquote, llmName) {
-  // Get all content
-  const originalContent = blockquote.innerHTML;
-
-  // Clear the blockquote
-  blockquote.innerHTML = "";
-
-  // Create header
-  const header = document.createElement("div");
-  header.className = `llm-header llm-header-${llmName.toLowerCase()}`;
-  header.textContent = llmName;
-  blockquote.appendChild(header);
-
-  // Create message container
-  const messageContainer = document.createElement("div");
-  messageContainer.className = "message-container";
-  blockquote.appendChild(messageContainer);
-
-  // Parse content into messages
-  const tempDiv = document.createElement("div");
-  tempDiv.innerHTML = originalContent;
-
-  // Get paragraphs from the temp container
-  const paragraphs = tempDiv.querySelectorAll("p");
-
-  // Skip first paragraph if it's the LLM identifier
-  let startIndex = 0;
-  if (
-    paragraphs.length > 0 &&
-    paragraphs[0].textContent.trim().match(/^{[^}]+}$/)
-  ) {
-    startIndex = 1;
-  }
-
-  let currentMessage = null;
-  let currentRole = null;
-
-  for (let i = startIndex; i < paragraphs.length; i++) {
-    const p = paragraphs[i];
-    const text = p.textContent.trim();
-
-    // Check for Q/A markers
-    const qaMatch = text.match(/^{([QA])}/);
-
-    if (qaMatch) {
-      // New message section
-      currentRole = qaMatch[1];
-
-      // Create new message div
-      currentMessage = document.createElement("div");
-      currentMessage.className = "message";
-      currentMessage.setAttribute("data-role", currentRole);
-      messageContainer.appendChild(currentMessage);
-
-      // Remove the {Q} or {A} marker and add the content
-      const content = p.innerHTML.replace(/^{[QA]}/, "").trim();
-
-      // Check if there's a code block
-      if (p.querySelector("pre")) {
-        // Handle special case with code block
-        const parts = content.split(/<pre/);
-        if (parts.length > 1) {
-          // Add text before code block
-          const textPart = document.createElement("div");
-          textPart.innerHTML = parts[0];
-          currentMessage.appendChild(textPart);
-
-          // Add code block
-          const codeBlock = document.createElement("pre");
-          codeBlock.innerHTML = "<pre" + parts.slice(1).join("<pre");
-          currentMessage.appendChild(codeBlock);
-        } else {
-          currentMessage.innerHTML = content;
+    // Also check for Q/A patterns if LLM name not found
+    if (!isLLMChat) {
+      for (let i = 0; i < paragraphs.length; i++) {
+        if (paragraphs[i].textContent.trim().match(/^{[QA]}/)) {
+          isLLMChat = true;
+          break;
         }
-      } else {
-        currentMessage.innerHTML = content;
-      }
-    } else if (currentMessage) {
-      // This is a continuation of the previous message or a code block
-
-      // Check if it's a code block
-      if (p.querySelector("pre")) {
-        // It's a code block, add it directly
-        currentMessage.appendChild(p.querySelector("pre"));
-      } else if (p.textContent.trim() !== "") {
-        // Regular text, append with spacing
-        const spacer = document.createElement("br");
-        currentMessage.appendChild(spacer);
-
-        // Add a small gap before appending more text
-        const spacerDiv = document.createElement("div");
-        spacerDiv.style.height = "0.5em";
-        currentMessage.appendChild(spacerDiv);
-
-        // Append the content
-        const contentDiv = document.createElement("div");
-        contentDiv.innerHTML = p.innerHTML;
-        currentMessage.appendChild(contentDiv);
-      }
-    }
-  }
-
-  // Fix code blocks to ensure they're properly contained
-  messageContainer.querySelectorAll("pre").forEach(pre => {
-    const parent = pre.parentElement;
-
-    // If pre is not directly in a message div, move it
-    if (!parent.classList.contains("message")) {
-      // Find closest message ancestor
-      const messageParent = pre.closest(".message");
-      if (messageParent) {
-        messageParent.appendChild(pre);
       }
     }
 
-    // Ensure code within pre is properly styled
-    const code = pre.querySelector("code");
-    if (code) {
-      code.style.backgroundColor = "transparent";
+    if (!isLLMChat) return;
+
+    console.log(`Found LLM chat: ${llmName}`);
+
+    // Mark this as an LLM chat
+    blockquote.setAttribute("data-llm", llmName);
+    blockquote.setAttribute("data-processed", "true");
+
+    // Clear blockquote content to rebuild it
+    blockquote.innerHTML = "";
+
+    // Add the header
+    const header = document.createElement("div");
+    header.className = "llm-header";
+    header.textContent = llmName;
+    blockquote.appendChild(header);
+
+    // Create chat container for messages
+    const chatContainer = document.createElement("div");
+    chatContainer.className = "chat-container";
+    blockquote.appendChild(chatContainer);
+
+    // Parse the original content
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(originalContent, "text/html");
+    const elements = doc.body.children;
+
+    // Skip the first paragraph if it's the LLM name
+    let startIndex = 0;
+    if (
+      elements.length > 0 &&
+      elements[0].tagName === "P" &&
+      elements[0].textContent.trim().match(/^{[^}]+}$/)
+    ) {
+      startIndex = 1;
     }
+
+    // Process content elements
+    let currentBubble = null;
+    let currentRole = null;
+    let inCodeBlock = false;
+    let codeContent = "";
+    let codeLanguage = "";
+
+    for (let i = startIndex; i < elements.length; i++) {
+      const element = elements[i];
+
+      // Skip empty paragraphs
+      if (element.tagName === "P" && element.textContent.trim() === "") {
+        continue;
+      }
+
+      // Handle code blocks specially
+      if (element.tagName === "PRE") {
+        if (currentBubble) {
+          currentBubble.appendChild(element.cloneNode(true));
+        } else {
+          // Orphaned code block - create a generic bubble
+          const bubble = document.createElement("div");
+          bubble.className = "chat-bubble a-bubble";
+          bubble.appendChild(element.cloneNode(true));
+          chatContainer.appendChild(bubble);
+        }
+        continue;
+      }
+
+      // Handle regular paragraphs
+      if (element.tagName === "P") {
+        const text = element.textContent.trim();
+        const qaMatch = text.match(/^{([QA])}/);
+
+        if (qaMatch) {
+          // This is a new Q or A message
+          currentRole = qaMatch[1];
+
+          // Create a new chat bubble
+          currentBubble = document.createElement("div");
+          currentBubble.className = `chat-bubble ${currentRole.toLowerCase()}-bubble`;
+          chatContainer.appendChild(currentBubble);
+
+          // Add content without the {Q} or {A} marker
+          const cleanContent = element.innerHTML.replace(/^{[QA]}/, "").trim();
+
+          // Handle possible code inside paragraph
+          if (cleanContent.includes("<pre")) {
+            // Split at the pre tag
+            const parts = cleanContent.split(/<pre/);
+            if (parts[0]) {
+              const textPart = document.createElement("div");
+              textPart.innerHTML = parts[0];
+              currentBubble.appendChild(textPart);
+            }
+            // The code part will be added separately
+            const preElement = element.querySelector("pre");
+            if (preElement) {
+              currentBubble.appendChild(preElement.cloneNode(true));
+            }
+          } else {
+            // Regular text
+            const textPart = document.createElement("div");
+            textPart.innerHTML = cleanContent;
+            currentBubble.appendChild(textPart);
+          }
+        } else if (currentBubble) {
+          // This is a continuation of the previous message
+          const spacer = document.createElement("br");
+          currentBubble.appendChild(spacer);
+
+          // Add the content
+          const contentDiv = document.createElement("div");
+          contentDiv.innerHTML = element.innerHTML;
+          currentBubble.appendChild(contentDiv);
+        }
+      }
+    }
+
+    console.log("Completed formatting LLM chat!");
   });
 }

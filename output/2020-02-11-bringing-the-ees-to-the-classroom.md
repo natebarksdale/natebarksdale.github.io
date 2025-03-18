@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2020-02-11
 modDatetime: 2025-03-17
 title: Grant Profile | Bringing the EES to the Classroom
 slug: grant-profile-bringing-the-ees-to-the-classroom

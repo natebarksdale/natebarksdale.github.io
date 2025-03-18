@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17T22:26:26Z
+pubDatetime: 2018-05-17
+modDatetime: 2025-03-17
 title: Grant Profile | Models of Providence - an Abrahamic inquiry
 slug: grant-profile-models-of-providence-an-abrahamic-inquiry
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2018-02-12
 modDatetime: 2025-03-17
 title: Grant Profile | Coalition of Freedom
 slug: grant-profile-coalition-of-freedom

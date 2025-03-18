@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2019-01-14
 modDatetime: 2025-03-17
-title: Grant Profile | A Scientific Approach to Living in Love: A Framework for the Future
+title: Grant Profile | A Scientific Approach to Living in Love
 slug: grant-profile-a-scientific-approach-to-living-in-love-a-framework-for-the-future
 featured: false
 draft: false

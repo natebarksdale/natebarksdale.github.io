@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2018-08-07
 modDatetime: 2025-03-17
 title: Grant Profile | Does Self-Giving Love Require an Evolutionary World? Evolutionary Theodicy in Light of the Mystical Tradition
 slug: grant-profile-does-self-giving-love-require-an-evolutionary-world-evolutionary-theodicy-in-light-of-the-mystical-tradition

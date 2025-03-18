@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2018-10-05
 modDatetime: 2025-03-17
 title: Grant Profile | Consciousness and creativity in the Neolithic at Çatalhöyük, Turkey
 slug: grant-profile-consciousness-and-creativity-in-the-neolithic-at-catalhoyuk-turkey

@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2018-07-06
 modDatetime: 2025-03-17
 title: Grant Profile | Creating a Society for the Study of Cultural Evolution
 slug: grant-profile-creating-a-society-for-the-study-of-cultural-evolution

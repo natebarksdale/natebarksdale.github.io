@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2019-12-02
 modDatetime: 2025-03-17
 title: Grant Profile | Christianity and Social Change in Contemporary Africa
 slug: grant-profile-christianity-and-social-change-in-contemporary-africa

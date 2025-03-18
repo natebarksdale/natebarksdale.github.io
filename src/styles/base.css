@@ -332,7 +332,9 @@ p:not(:last-child)::after {
 
 /* Fixed CSS for LLM chat bubbles with proper alignment */
 
-/* Base blockquote styling */
+/* Simple, Direct CSS for LLM Chat Formatting */
+
+/* Base LLM Chat Styles */
 blockquote[data-llm] {
   @apply p-0 my-6 border rounded-xl overflow-hidden;
   font-family: 'Faune', sans-serif;
@@ -342,148 +344,187 @@ blockquote[data-llm] {
   border-left: none !important;
   opacity: 1 !important;
   border-color: rgba(0,0,0,0.1);
-  display: flex;
-  flex-direction: column;
+}
+
+/* ChatGPT - Grey theme */
+blockquote[data-llm="ChatGPT"] {
+  background-color: rgba(229,231,235, 0.25); /* 10% of theme color */
+}
+
+/* Claude - Beige/Orange theme */
+blockquote[data-llm="Claude"] {
+  background-color: rgba(218, 119, 86, 0.1); /* 10% of theme color */
+}
+
+/* Mistral - Red theme */
+blockquote[data-llm="Mistral"] {
+  background-color: rgba(209, 69, 59, 0.1); /* 10% of theme color */
+}
+
+/* Gemini - Blue theme */
+blockquote[data-llm="Gemini"] {
+  background-color: rgba(75, 135, 226, 0.1); /* 10% of theme color */
+}
+
+/* Generic LLM - Neutral theme */
+blockquote[data-llm="Generic"] {
+  background-color: rgba(240, 240, 245, 0.25); /* Slightly different from ChatGPT */
 }
 
 /* Header styling */
 blockquote[data-llm] .llm-header {
-  font-family: 'IBM Plex Mono', monospace !important;
-  font-size: 80% !important;
-  font-weight: normal !important;
-  text-transform: lowercase !important;
-  text-align: left !important;
-  padding: 8px 4px 8px 14px !important;
-  margin: 0 !important;
-  line-height: 1.2 !important;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 80%;
+  font-weight: normal;
+  text-transform: lowercase;
+  text-align: left;
+  padding: 8px 4px 8px 14px;
+  margin: 0;
+  line-height: 1.2;
 }
 
-/* Message container - use flex for proper alignment */
-blockquote[data-llm] .message-container {
+/* Header colors for different LLMs */
+blockquote[data-llm="ChatGPT"] .llm-header {
+  color: rgb(60, 60, 61); /* 100% theme color */
+}
+
+blockquote[data-llm="Claude"] .llm-header {
+  color: rgb(218, 119, 86); /* 100% theme color */
+}
+
+blockquote[data-llm="Mistral"] .llm-header {
+  color: rgb(209, 69, 59); /* 100% theme color */
+}
+
+blockquote[data-llm="Gemini"] .llm-header {
+  color: rgb(75, 135, 226); /* 100% theme color */
+}
+
+blockquote[data-llm="Generic"] .llm-header {
+  color: rgb(80, 80, 95); /* Slightly bluer gray to distinguish */
+}
+
+/* Essential message container styling */
+blockquote[data-llm] .chat-container {
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding: 0.5rem 0;
+  padding: 8px;
 }
 
-/* Base message styling */
-blockquote[data-llm] .message {
-  padding: 0.7em 1em;
-  margin: 0.5em 1em;
+/* Q and A bubbles - core styling */
+blockquote[data-llm] .chat-bubble {
+  position: relative;
+  margin: 8px 0;
+  padding: 12px 16px;
   border-radius: 18px;
-  max-width: 80%;
-  width: auto;
+  max-width: 70%;
+  width: fit-content;
   word-break: break-word;
-  overflow-wrap: break-word;
 }
 
-/* Question bubble styling */
-blockquote[data-llm] .message[data-role="Q"] {
+/* Q bubbles - right aligned */
+blockquote[data-llm] .chat-bubble.q-bubble {
   align-self: flex-end;
-  background-color: rgba(240, 240, 240, 0.9);
-  color: rgb(30, 30, 30);
+  margin-left: auto;
+  margin-right: 16px;
+  background-color: rgba(229, 231, 235, 0.9);
   border-radius: 18px 18px 4px 18px;
 }
 
-/* Answer bubble styling */
-blockquote[data-llm] .message[data-role="A"] {
+/* A bubbles - left aligned */
+blockquote[data-llm] .chat-bubble.a-bubble {
   align-self: flex-start;
+  margin-right: auto;
+  margin-left: 16px;
   background-color: white;
-  color: rgb(30, 30, 30);
   border-radius: 18px 18px 18px 4px;
 }
 
-/* Code block styling */
-blockquote[data-llm] .message pre {
-  margin: 0.75em 0;
-  padding: 0.75em;
-  border-radius: 0.5em;
-  width: 100%;
+/* Handle code blocks in chat bubbles */
+blockquote[data-llm] .chat-bubble pre {
+  margin: 12px 0 4px 0;
+  padding: 12px;
+  border-radius: 8px;
   overflow-x: auto;
-  background-color: rgba(30, 30, 30, 0.03);
+  background-color: rgba(30, 30, 30, 0.05);
   border: 1px solid rgba(30, 30, 30, 0.1);
-  position: relative;
 }
 
-/* Code styling by LLM type */
-blockquote[data-llm="ChatGPT"] .message pre {
+/* Code block styling by LLM type */
+blockquote[data-llm="ChatGPT"] .chat-bubble pre {
   background-color: rgba(240, 240, 240, 0.7);
   border-color: rgba(200, 200, 200, 0.8);
 }
 
-blockquote[data-llm="Claude"] .message pre {
+blockquote[data-llm="Claude"] .chat-bubble pre {
   background-color: rgba(245, 242, 240, 0.7);
   border-color: rgba(218, 119, 86, 0.2);
 }
 
-blockquote[data-llm="Mistral"] .message pre {
+blockquote[data-llm="Mistral"] .chat-bubble pre {
   background-color: rgba(250, 240, 240, 0.7);
   border-color: rgba(209, 69, 59, 0.2);
 }
 
-blockquote[data-llm="Gemini"] .message pre {
+blockquote[data-llm="Gemini"] .chat-bubble pre {
   background-color: rgba(240, 245, 250, 0.7);
   border-color: rgba(75, 135, 226, 0.2);
 }
 
-blockquote[data-llm="Generic"] .message pre,
-blockquote:not([data-llm]) .message pre {
+blockquote[data-llm="Generic"] .chat-bubble pre {
   background-color: rgba(245, 245, 250, 0.7);
   border-color: rgba(200, 200, 230, 0.4);
 }
 
-/* Code inside pre styling */
-blockquote[data-llm] .message pre code {
+/* Code styling */
+blockquote[data-llm] .chat-bubble pre code {
   background-color: transparent;
   padding: 0;
   font-size: 0.85em;
   line-height: 1.5;
   white-space: pre;
+  font-family: monospace;
 }
 
-/* Copy button styling */
-blockquote[data-llm] .message pre .copy-code {
-  opacity: 0;
+/* Copy button */
+blockquote[data-llm] .chat-bubble pre .copy-code {
   position: absolute;
-  right: 0.5em;
-  top: 0.5em;
-  font-size: 0.7em;
-  transition: opacity 0.2s ease;
-  background-color: rgba(255, 255, 255, 0.7);
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  top: 8px;
+  right: 8px;
+  padding: 2px 6px;
+  background: rgba(255,255,255,0.8);
   border-radius: 4px;
-  padding: 2px 5px;
-  cursor: pointer;
+  font-size: 0.7em;
+  opacity: 0;
+  transition: opacity 0.2s;
 }
 
-blockquote[data-llm] .message pre:hover .copy-code {
-  opacity: 0.7;
+blockquote[data-llm] .chat-bubble pre:hover .copy-code {
+  opacity: 0.8;
 }
 
-blockquote[data-llm] .message pre .copy-code:hover {
+blockquote[data-llm] .chat-bubble pre .copy-code:hover {
   opacity: 1;
 }
 
-/* LLM-specific header colors */
-blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(60, 60, 61);
+/* Empty paragraphs in blockquotes should be hidden */
+blockquote[data-llm] p:empty {
+  display: none;
 }
 
-blockquote[data-llm="Claude"] .llm-header {
-  color: rgb(218, 119, 86);
+/* Fix for elements inside bubbles */
+blockquote[data-llm] .chat-bubble > * {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
-blockquote[data-llm="Mistral"] .llm-header {
-  color: rgb(209, 69, 59);
+blockquote[data-llm] .chat-bubble > *:first-child {
+  margin-top: 0;
 }
 
-blockquote[data-llm="Gemini"] .llm-header {
-  color: rgb(75, 135, 226);
-}
-
-blockquote[data-llm="Generic"] .llm-header,
-blockquote:not([data-llm]) .llm-header {
-  color: rgb(80, 80, 95);
+blockquote[data-llm] .chat-bubble > *:last-child {
+  margin-bottom: 0;
 }
 
 }

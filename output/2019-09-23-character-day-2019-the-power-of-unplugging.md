@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2019-09-23
 modDatetime: 2025-03-17
-title: Grant Profile | CHARACTER DAY 2019: THE POWER OF UNPLUGGING
+title: Grant Profile | The Power of Unplugging
 slug: grant-profile-character-day-2019-the-power-of-unplugging
 featured: false
 draft: false

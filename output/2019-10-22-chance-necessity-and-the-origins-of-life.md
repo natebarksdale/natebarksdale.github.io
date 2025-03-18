@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
+pubDatetime: 2019-10-22
 modDatetime: 2025-03-17
 title: Grant Profile | Chance, Necessity, and the Origins of Life
 slug: grant-profile-chance-necessity-and-the-origins-of-life

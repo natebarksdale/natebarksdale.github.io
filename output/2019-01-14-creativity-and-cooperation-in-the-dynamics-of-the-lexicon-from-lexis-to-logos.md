@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17T22:26:26Z
+pubDatetime: 2019-01-14
+modDatetime: 2025-03-17
 title: Grant Profile | Creativity and Cooperation in the Dynamics of the Lexicon - from Lexis to Logos
 slug: grant-profile-creativity-and-cooperation-in-the-dynamics-of-the-lexicon-from-lexis-to-logos
 featured: false
