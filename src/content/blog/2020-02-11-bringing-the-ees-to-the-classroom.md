@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-11
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Bringing the EES to the Classroom
-slug: grant-profile-bringing-the-ees-to-the-classroom
-featured: false
-draft: false
+slug: bringing-the-ees-to-the-classroom
+featured: False
+draft: False
 description: There’s more to inheritance than genes, and more to adaptation than selection
 emoji: 📚
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Darwin's legacy blooms,  
   Cultural threads weave through genes,  
   Symphony unfinished.
+
 coordinates: [56.3417, -2.7943]
 ---
 

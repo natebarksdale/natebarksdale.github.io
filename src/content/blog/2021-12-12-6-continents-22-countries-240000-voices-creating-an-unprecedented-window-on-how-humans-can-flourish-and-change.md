@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-12
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: 6 Continents, 22 Countries, 240,000 Voices - Creating an Unprecedented Window on How Humans Can Flourish and Change
-slug: study-of-the-day-6-continents-22-countries-240000-voices-creating-an-unprecedented-window-on-how-humans-can-flourish-and-change
-featured: false
-draft: false
+slug: 6-continents-22-countries-240000-voices-creating-an-unprecedented-window-on-how-humans-can-flourish-and-change
+featured: False
+draft: False
 description: Discover how a groundbreaking study explores global human well-being through the diverse lenses of 240,000 individuals from 22 countries.
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Across six continents,  
   Lives weave through data's vast loom—  
   Human threads flourish.
+
 coordinates: [31.5497, -97.1143]
 ---
 

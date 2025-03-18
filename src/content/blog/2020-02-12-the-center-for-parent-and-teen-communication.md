@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-12
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: The Center for Parent and Teen Communication
-slug: grant-profile-the-center-for-parent-and-teen-communication
-featured: false
-draft: false
+slug: the-center-for-parent-and-teen-communication
+featured: False
+draft: False
 description: Aided by loving, balanced parenting, adolescence is much more than something to be gotten through
 emoji: 👪
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Teen spirit blossoms,  
   Guidance with love, not just fears,  
   Growth through dialogue.
+
 coordinates: [39.952583, -75.165222]
 ---
 

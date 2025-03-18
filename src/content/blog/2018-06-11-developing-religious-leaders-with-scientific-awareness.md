@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-11
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Developing Religious Leaders with Scientific Awareness
-slug: grant-profile-developing-religious-leaders-with-scientific-awareness
-featured: false
-draft: false
+slug: developing-religious-leaders-with-scientific-awareness
+featured: False
+draft: False
 description: Research fellowships to rebuild bridges between modern science and Islamic thought
 emoji: 🕌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Bridging faith and science,  
   In Cambridge's halls, thoughts weave,  
   New leaders perceive.
+
 coordinates: [52.2053, 0.1218]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-15
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Shadow Banking
-slug: essays-shadow-banking
-featured: false
-draft: false
+slug: shadow-banking
+featured: False
+draft: False
 description: Reflecting on JPMorgan Chase's historic penalty reveals both accountability and the limitations of new financial regulations.
 emoji: 💰
 tags:
@@ -18,7 +18,8 @@ haiku: |
   Chase pays for its sins,  
   Regulations hold their ground,  
   Yet risks still abound.
-coordinates: [40.7128, -74.0060]
+
+coordinates: [40.7128, -74.006]
 ---
 
 [![](@assets/images/ozy.png)](http://www.ozy.com)

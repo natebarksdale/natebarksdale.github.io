@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-17
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Models of Providence - an Abrahamic inquiry
-slug: grant-profile-models-of-providence-an-abrahamic-inquiry
-featured: false
-draft: false
+slug: models-of-providence-an-abrahamic-inquiry
+featured: False
+draft: False
 description: Bridging gaps through an interfaith investigation into the problems and possibilities of randomness
 emoji: 🎲
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Dice cast in the skies,  
   Randomness meets divine eyes,  
   Faith questions the hows.
+
 coordinates: [42.9634, -85.6681]
 ---
 

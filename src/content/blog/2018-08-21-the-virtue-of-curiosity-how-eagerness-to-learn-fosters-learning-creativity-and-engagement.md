@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-21
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The Virtue of Curiosity
-slug: grant-profile-the-virtue-of-curiosity
-featured: false
-draft: false
+slug: the-virtue-of-curiosity
+featured: False
+draft: False
 description: A quartet of researchers are using computer games and brain scans to measure — and manipulate — our desire to know.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Curiosity leads,  
   Impulse blooms into knowing,  
   Creativity's seed.
+
 coordinates: [40.8075, -73.9626]
 ---
 

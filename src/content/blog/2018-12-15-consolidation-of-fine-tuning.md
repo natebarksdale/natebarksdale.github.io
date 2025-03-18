@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-12-15
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Consolidation of Fine-Tuning
-slug: grant-profile-consolidation-of-fine-tuning
-featured: false
-draft: false
+slug: consolidation-of-fine-tuning
+featured: False
+draft: False
 description: Building a field guide to ‘fine tuning’ across disciplines.
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Constants finely poised,  
   Universe whispers of life,  
   Depth in each number.
+
 coordinates: [51.752, -1.2577]
 ---
 

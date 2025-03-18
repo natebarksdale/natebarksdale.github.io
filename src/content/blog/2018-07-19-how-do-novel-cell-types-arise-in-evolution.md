@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-19
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: How do novel cell types arise in evolution?
-slug: grant-profile-how-do-novel-cell-types-arise-in-evolution
-featured: false
-draft: false
+slug: how-do-novel-cell-types-arise-in-evolution
+featured: False
+draft: False
 description: A new theory offers insight into an evolutionary puzzle
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Ancient cells evolve,  
   Decidual secrets told,  
   Life's fabric unfolds.
+
 coordinates: [41.3163, -72.9223]
 ---
 

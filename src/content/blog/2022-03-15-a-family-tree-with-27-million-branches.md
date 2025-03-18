@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-03-15
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: A Family Tree With 27 Million Branches
-slug: study-of-the-day-a-family-tree-with-27-million-branches
-featured: false
-draft: false
+slug: a-family-tree-with-27-million-branches
+featured: False
+draft: False
 description: A new technique lets researchers plumb oceans of human genetic data to produce the largest ever family tree — and they’re just getting started.
 emoji: 🌳
 tags:
@@ -17,6 +17,7 @@ haiku: |
   In summer's old page,  
   Cousins' whispered vows echo—  
   Leaves of lineage fall.
+
 coordinates: [52.3555, -1.1743]
 ---
 

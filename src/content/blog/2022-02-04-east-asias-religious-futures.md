@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-04
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: East Asia’s Religious Futures
-slug: study-of-the-day-east-asias-religious-futures
-featured: false
-draft: false
+slug: east-asias-religious-futures
+featured: False
+draft: False
 description: Explore how six East Asian countries shape the future of global religion in a groundbreaking survey revealing trends and transformations.
 emoji: 🔮
 tags:
@@ -17,6 +17,7 @@ haiku: |
   East Asia's faith mapped,  
   Surveying souls, beliefs spread—  
   Futures woven tight.
+
 coordinates: [35.0, 105.0]
 ---
 

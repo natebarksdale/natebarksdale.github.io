@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-05-13
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: The Dangerous Myth of the Male Breadwinner
-slug: study-of-the-day-the-dangerous-myth-of-the-male-breadwinner
-featured: false
-draft: false
+slug: the-dangerous-myth-of-the-male-breadwinner
+featured: False
+draft: False
 description: Explore how the myth of the male breadwinner, backed by historical and academic narratives, shaped societal views on family roles and gender dynamics.
 emoji: 👨
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Hunters in the past,  
   Men claimed the meat, myths were cast,  
   Breadwinners recast.
+
 coordinates: [51.509865, -0.118092]
 ---
 

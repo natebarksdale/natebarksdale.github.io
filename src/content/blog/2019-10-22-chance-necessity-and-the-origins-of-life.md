@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-22
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Chance, Necessity, and the Origins of Life
-slug: grant-profile-chance-necessity-and-the-origins-of-life
-featured: false
-draft: false
+slug: chance-necessity-and-the-origins-of-life
+featured: False
+draft: False
 description: Minerals may offer a key to understanding how common life is in the universe
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Life whispers in depths,  
   Chemical dance sparks being—  
   Stars may hold its breath.
+
 coordinates: [38.9072, -77.0369]
 ---
 

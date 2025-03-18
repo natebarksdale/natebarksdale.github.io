@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-10-25
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: What Is Fine Tuning?
-slug: study-of-the-day-what-is-fine-tuning
-featured: false
-draft: false
+slug: what-is-fine-tuning
+featured: False
+draft: False
 description: Explore the enigmatic concept of fine tuning, where the universe's precise constants intriguingly align to support life, sparking debates across science and philosophy.
 emoji: 🎯
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cosmic balance poised,  
   Life dances on narrow threads,  
   Stars align for breath.
+
 coordinates: [51.509865, -0.118092]
 ---
 

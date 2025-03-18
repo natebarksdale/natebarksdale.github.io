@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-12
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Isabele Ealet
-slug: essays-isabele-ealet
-featured: false
-draft: false
+slug: isabele-ealet
+featured: False
+draft: False
 description: Exploring the unexpected rise of a female leader in the male-dominated world of commodity trading.
 emoji: 👩‍💼
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Femme in a man’s world,  
   Commodities whisper bold,  
   Break the glass ceiling.
+
 coordinates: [48.8566, 2.3522]
 ---
 

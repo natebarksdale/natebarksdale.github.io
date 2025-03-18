@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-12-11
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: SelfBound - The Making of Human Consciousness
-slug: grant-profile-selfbound-the-making-of-human-consciousness
-featured: false
-draft: false
+slug: selfbound-the-making-of-human-consciousness
+featured: False
+draft: False
 description: How making makes us who we are
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Clay and mind entwined,  
   Self unfolds through creation,  
   Humanity's dance.
+
 coordinates: [51.752, -1.2577]
 ---
 

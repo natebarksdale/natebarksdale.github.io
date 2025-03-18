@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-09-23
 modDatetime: 2025-03-18 17:28:43+00:00
 title: The Power of Unplugging
-slug: grant-profile-the-power-of-unplugging
+slug: the-power-of-unplugging
 featured: False
 draft: False
 description: Encouraging people to spend one day a week screen-free

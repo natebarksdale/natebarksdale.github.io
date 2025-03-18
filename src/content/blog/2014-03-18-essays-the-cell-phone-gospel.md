@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-18
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: The Cell Phone Gospel
-slug: essays-the-cell-phone-gospel
-featured: false
-draft: false
+slug: the-cell-phone-gospel
+featured: False
+draft: False
 description: From a review of Assa Doron and Robin Jeffrey's study, a poignant observation on the surprising presence of technology amidst poverty in India.
 emoji: 📱
 tags:
@@ -15,7 +15,8 @@ haiku: |
   In dusty ruins,  
   A bright screen shines in contrast,  
   Hope in pockets found.
-coordinates: [28.6139, 77.2090]
+
+coordinates: [28.6139, 77.209]
 ---
 
 Books and Culture _'s legendary editor John Wilson reached out to me to review this academic study of mobile phones in India. It was a great chance to combine my varied interests, from my travel-guide editing days for_ Let's Go: India and Nepal _to my long-ago academic work on the history of technology._

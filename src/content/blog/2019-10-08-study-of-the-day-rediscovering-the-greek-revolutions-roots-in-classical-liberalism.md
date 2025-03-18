@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Rediscovering the Greek Revolution’s Roots in Classical Liberalism
-slug: study-of-the-day-rediscovering-the-greek-revolutions-roots-in-classical-liberalism
-featured: false
-draft: false
+slug: rediscovering-the-greek-revolutions-roots-in-classical-liberalism-1
+featured: False
+draft: False
 description: March 25, 2021 will mark the bicentennial of the struggle for independence that led to the creation of modern Greece.
 emoji: 📝
 tags:
@@ -15,6 +15,7 @@ haiku: |
   Greek revolutions
   Thoughts captured in black and white,
   Now two hundred years.
+
 coordinates: [51.509865, -0.118092]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-03-12
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Mental Healthcare, Virtue, and Human Flourishing
-slug: grant-profile-mental-healthcare-virtue-and-human-flourishing
-featured: false
-draft: false
+slug: mental-healthcare-virtue-and-human-flourishing
+featured: False
+draft: False
 description: Gratitude, humility, forgiveness, and other positive qualities may have a lot to offer in both psychological research and clinical practice.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Virtues bloom, minds heal,  
   Gratitude fosters deep growth,  
   Flourishing takes root.
+
 coordinates: [42.3505, -71.1054]
 ---
 

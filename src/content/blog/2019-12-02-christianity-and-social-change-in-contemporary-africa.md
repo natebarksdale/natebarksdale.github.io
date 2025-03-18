@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-12-02
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Christianity and Social Change in Contemporary Africa
-slug: grant-profile-christianity-and-social-change-in-contemporary-africa
-featured: false
-draft: false
+slug: christianity-and-social-change-in-contemporary-africa
+featured: False
+draft: False
 description: Across the continent, scholars are offering fresh insights into the dynamic role of religion in the lives of Africans
 emoji: 🙏
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Prayer mountains rise,  
   Voices blend, old and new truths,  
   Africa reshapes.
+
 coordinates: [8.5068, 4.5469]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-12-04
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Opportunity M - The Fast Track to Find Other Inhabited Worlds
-slug: grant-profile-opportunity-m-the-fast-track-to-find-other-inhabited-worlds
-featured: false
-draft: false
+slug: opportunity-m-the-fast-track-to-find-other-inhabited-worlds
+featured: False
+draft: False
 description: Deploying new tools in the search for planets capable of harboring life
 emoji: 🔭
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Kepler's quest now done,  
   Red dwarfs hold the secret keys,  
   New worlds whisper life.
+
 coordinates: [42.378, -71.116]
 ---
 

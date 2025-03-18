@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-04-23
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Freedom Forum Global Expansion
-slug: grant-profile-freedom-forum-global-expansion
-featured: false
-draft: false
+slug: freedom-forum-global-expansion
+featured: False
+draft: False
 description: From Oslo to Johannesburg and beyond, writing the next chapter for a storied human rights gathering
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Flag whispers of change,  
   Pastor’s voice stirs a nation,  
   Autumn ousts the old.
+
 coordinates: [-17.82772, 31.053028]
 ---
 

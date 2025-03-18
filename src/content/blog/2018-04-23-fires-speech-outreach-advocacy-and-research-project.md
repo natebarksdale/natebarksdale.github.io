@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-04-23
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: FIRE’s Speech, Outreach, Advocacy, and Research Project
-slug: grant-profile-fires-speech-outreach-advocacy-and-research-project
-featured: false
-draft: false
+slug: fires-speech-outreach-advocacy-and-research-project
+featured: False
+draft: False
 description: Longtime free speech advocates are working to keep the First Amendment relevant — and robustly protected — on college campuses
 emoji: 📢
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Voices clash, rights claimed,  
   Silenced speech finds its fierce guard,  
   Freedom's flame kindled.
+
 coordinates: [41.525031, -88.081725]
 ---
 

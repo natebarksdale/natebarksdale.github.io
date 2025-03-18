@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-22
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Jewish Philosophical Theology
-slug: grant-profile-jewish-philosophical-theology
-featured: false
-draft: false
+slug: jewish-philosophical-theology
+featured: False
+draft: False
 description: Looking for new insights about the nature of God in some of Judaism’s oldest sources
 emoji: 🕍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Ancient texts whisper,  
   Unveiling divine secrets,  
   God's nature questioned.
+
 coordinates: [31.7683, 35.2137]
 ---
 

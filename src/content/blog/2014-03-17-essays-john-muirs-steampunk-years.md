@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2014-03-17
 modDatetime: 2025-03-10 21:39:29+00:00
 title: John Muir's Steampunk Years
-slug: essays-john-muir-s-steampunk-years
+slug: john-muir-s-steampunk-years
 featured: False
 draft: False
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.

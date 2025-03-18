@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2020-08-14
 modDatetime: 2025-03-17
 title: Expanding Views of Cancer's Causes
-slug: grant-profile-expanding-views-of-cancer-s-causes
+slug: expanding-views-of-cancer-s-causes
 featured: False
 draft: False
 description: A blood test for early-stage cancer holds promise for treating the many cancers caused by the accumulated “bad luck” of multicellular living

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-21
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: String Theory and the Anthropic Universe
-slug: grant-profile-string-theory-and-the-anthropic-universe
-featured: false
-draft: false
+slug: string-theory-and-the-anthropic-universe
+featured: False
+draft: False
 description: Has flawed intuition created false support for the multiverse?
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cosmic laws align,  
   Infinite universes bloom,  
   Life whispers in void.
+
 coordinates: [51.509865, -0.118092]
 ---
 

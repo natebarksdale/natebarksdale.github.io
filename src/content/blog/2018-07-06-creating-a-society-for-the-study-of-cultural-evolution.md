@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-06
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Creating a Society for the Study of Cultural Evolution
-slug: grant-profile-creating-a-society-for-the-study-of-cultural-evolution
-featured: false
-draft: false
+slug: creating-a-society-for-the-study-of-cultural-evolution
+featured: False
+draft: False
 description: Forming connections and framing grand questions on the links between evolutionary inheritance and cultural change
 emoji: 🌐
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Culture shifts, seamless—  
   Fields merge, seeking common ground,  
   New society blooms.
+
 coordinates: [42.0884, -75.9694]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-09-24
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Chemistry to Life
-slug: grant-profile-chemistry-to-life
-featured: false
-draft: false
+slug: chemistry-to-life
+featured: False
+draft: False
 description: Harnessing the power of paradox to unravel how the first forms of life may have developed.
 emoji: 🧪
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Paradoxes spark thought,  
   Ancient RNA whispers,  
   Life stirs from chaos.
+
 coordinates: [51.509865, -0.118092]
 ---
 

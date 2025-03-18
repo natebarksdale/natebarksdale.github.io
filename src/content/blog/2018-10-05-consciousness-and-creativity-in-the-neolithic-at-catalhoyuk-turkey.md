@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-05
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Consciousness and creativity in the Neolithic at Çatalhöyük, Turkey
-slug: grant-profile-consciousness-and-creativity-in-the-neolithic-at-catalhoyuk-turkey
-featured: false
-draft: false
+slug: consciousness-and-creativity-in-the-neolithic-at-catalhoyuk-turkey
+featured: False
+draft: False
 description: Searching one of the world’s oldest settlements for clues about the development of human cognition
 emoji: 🏺
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Ancient walls whisper,  
   Neolithic dreams etched deep—  
   Çatalhöyük sleeps.
+
 coordinates: [37.6671, 32.8314]
 ---
 

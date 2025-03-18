@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: High school debate turns to the Big Questions
-slug: grant-profile-high-school-debate-turns-to-the-big-questions
-featured: false
-draft: false
+slug: high-school-debate-turns-to-the-big-questions-1
+featured: False
+draft: False
 description: Does science leave room for free will? High school debaters have some ideas.
 emoji: 🎓
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Debaters converge,  
   Probing science and free will—  
   Minds clash, truths unearth.
+
 coordinates: [33.5207, -86.8025]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-03-09
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Accurately Measuring Religious Belief and Attitudes Around the World
-slug: grant-profile-accurately-measuring-religious-belief-and-attitudes-around-the-world
-featured: false
-draft: false
+slug: accurately-measuring-religious-belief-and-attitudes-around-the-world
+featured: False
+draft: False
 description: Want to find out the prevalence of atheism? Maybe don’t ask.
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Beliefs hidden deep,  
   Unseen atheists whisper,  
   Truths in shadows leap.
+
 coordinates: [38.031713, -84.495136]
 ---
 

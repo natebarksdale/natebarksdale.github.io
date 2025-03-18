@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2018-10-05
 modDatetime: 2025-03-18 17:28:43+00:00
 title: The Case of “Secret Society” Religions
-slug: grant-profile-the-case-of-secret-society-religions
+slug: the-case-of-secret-society-religions
 featured: False
 draft: False
 description: Claiming supernatural power for their members and wielding lasting economic influence, secret societies may represent a key stage in human institution-building

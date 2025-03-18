@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-02-08
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: The Spiritual, Character, and Virtue Formation of Seminarians
-slug: grant-profile-the-spiritual-character-and-virtue-formation-of-seminarians
-featured: false
-draft: false
+slug: the-spiritual-character-and-virtue-formation-of-seminarians
+featured: False
+draft: False
 description: Seminary training makes for better theologians and ministers. But does it make them more loving, humble, or resilient?
 emoji: 🙏
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Seminaries mold souls,  
   Knowledge meets virtue's tough road,  
   Flaws in the faithful.
+
 coordinates: [33.9154, -117.9289]
 ---
 

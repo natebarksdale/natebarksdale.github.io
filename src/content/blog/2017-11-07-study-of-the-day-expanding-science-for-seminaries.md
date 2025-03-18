@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2017-11-07
 modDatetime: 2025-03-17
 title: Science for Seminaries
-slug: study-of-the-day-science-for-seminaries
+slug: science-for-seminaries
 featured: False
 draft: False
 description: Equipping tomorrow’s clergy to discuss scientific findings and technological advances — and the big questions they raise

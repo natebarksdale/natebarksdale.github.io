@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-29
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: How Does Religious Participation Affect Human Flourishing?
-slug: study-of-the-day-how-does-religious-participation-affect-human-flourishing
-featured: false
-draft: false
+slug: how-does-religious-participation-affect-human-flourishing-1
+featured: False
+draft: False
 description: New research to evaluate long-term links between spiritual practice and physical, mental and social well-being
 emoji: 📚
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Faith weaves through lives deep,  
   Happiness, health intertwine—  
   Flourishing souls seek.
+
 coordinates: [42.378, -71.116]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-01-31
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: Ancestral Smoking Is Bad for You, Too
-slug: study-of-the-day-ancestral-smoking-is-bad-for-you-too
-featured: false
-draft: false
+slug: ancestral-smoking-is-bad-for-you-too
+featured: False
+draft: False
 description: A new study links present-day health with childhood tobacco use three generations prior
 emoji: 🚬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Ancestors' smoke curls,  
   Granddaughters bear the weight, unseen—  
   Legacy's burden.
+
 coordinates: [51.4545, -2.5879]
 ---
 

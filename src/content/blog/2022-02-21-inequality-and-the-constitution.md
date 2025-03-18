@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-21
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: Inequality and the Constitution
-slug: study-of-the-day-inequality-and-the-constitution
-featured: false
-draft: false
+slug: inequality-and-the-constitution
+featured: False
+draft: False
 description: Explore how James M. Buchanan's public choice theory intersects with Madison's constitutional ideals, highlighting tensions in America's founding principles.
 emoji: 📜
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Rules bind the rulers,  
   Tension between ideals, real;  
   Each voice weighs the same.
+
 coordinates: [38.9072, -77.0369]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-10
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: The Everything Happens Project
-slug: grant-profile-the-everything-happens-project
-featured: false
-draft: false
+slug: the-everything-happens-project
+featured: False
+draft: False
 description: Fostering new and needed conversations about tragedy, hope, and beauty
 emoji: 🎗️
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Life's script falls away,  
   She pens truth in shadowed light,  
   Grace amidst the thorns.
+
 coordinates: [36.001426, -78.938229]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-02
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Automated Self-Control - The Neuropsychology of Developing Good Habits
-slug: grant-profile-automated-self-control-the-neuropsychology-of-developing-good-habits
-featured: false
-draft: false
+slug: automated-self-control-the-neuropsychology-of-developing-good-habits
+featured: False
+draft: False
 description: In praise of mindlessness
 emoji: 🧠
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Habits shape our path,  
   Silent keepers of the will,  
   Change fosters new growth.
+
 coordinates: [34.0224, -118.2851]
 ---
 

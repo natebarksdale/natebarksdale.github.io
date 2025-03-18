@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-01-28
 modDatetime: 2025-03-18 17:28:43+00:00
 title: Nudging Empathy
-slug: grant-profile-nudging-empathy
+slug: nudging-empathy
 featured: False
 draft: False
 description: New interventions may help people open up when confronted with others’ needs

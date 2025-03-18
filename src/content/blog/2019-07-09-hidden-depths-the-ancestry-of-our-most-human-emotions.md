@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-07-09
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Hidden Depths - The ancestry of our most human emotions
-slug: grant-profile-hidden-depths-the-ancestry-of-our-most-human-emotions
-featured: false
-draft: false
+slug: hidden-depths-the-ancestry-of-our-most-human-emotions
+featured: False
+draft: False
 description: Many of the social virtues we think of as unique to modern humans may have developed far earlier than previously thought.
 emoji: 🧬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Neanderthal depths,
   Compassion blooms in old bones—
   Humanity's roots.
+
 coordinates: [51.1657, 10.4515]
 ---
 

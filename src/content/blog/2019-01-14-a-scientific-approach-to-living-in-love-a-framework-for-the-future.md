@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-01-14
 modDatetime: 2025-03-18 17:28:43+00:00
 title: A Scientific Approach to Living in Love
-slug: grant-profile-a-scientific-approach-to-living-in-love
+slug: a-scientific-approach-to-living-in-love
 featured: False
 draft: False
 description: Kindling new connections in the study of friendship, romance, and affection

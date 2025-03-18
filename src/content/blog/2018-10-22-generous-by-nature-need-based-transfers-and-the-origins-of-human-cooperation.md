@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2018-10-22
 modDatetime: 2025-03-18 14:32:16+00:00
 title: Need-based transfers and the origins of human cooperation
-slug: grant-profile-need-based-transfers-and-the-origins-of-human-cooperation
+slug: need-based-transfers-and-the-origins-of-human-cooperation
 featured: False
 draft: False
 description: Giving without expecting repayment is not only more common than previously thought, it may also be more crucial for cultures to survive and flourish
