@@ -39,7 +39,7 @@ export default function SearchBar({ searchList }: Props) {
           { name: "title", weight: 1.0 }, // Highest priority
           { name: "description", weight: 0.8 }, // High priority
           { name: "data.tags", weight: 0.7 }, // Medium-high priority
-          { name: "content", weight: 0.5 }, // Medium priority
+          { name: "content", weight: 1.0 }, // Highest priority
         ],
         includeMatches: false, // Don't need matches for highlighting
         minMatchCharLength: 3, // Increased to 3 for stricter matching
