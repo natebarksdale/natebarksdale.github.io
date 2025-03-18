@@ -12,13 +12,28 @@ import getSortedPosts from "@utils/getSortedPosts";
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 const sortedPosts = getSortedPosts(posts);
 
-// List of items to search in
-const searchList = sortedPosts.map(({ data, slug }) => ({
-  title: data.title,
-  description: data.description,
-  data,
-  slug,
-}));
+// Enhanced searchList with content
+const searchList = await Promise.all(
+  sortedPosts.map(async ({ data, slug, body }) => {
+    // Extract content from the article body
+    // This is a simplified plain text extraction
+    const textContent = body
+      .replace(/```[\s\S]*?```/g, "") // Remove code blocks
+      .replace(/#{1,6}\s+[^\n]+/g, "") // Remove headings
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1") // Replace links with just the text
+      .replace(/!\[([^\]]*)\]\([^)]+\)/g, "") // Remove images
+      .replace(/[*_]{1,2}([^*_]+)[*_]{1,2}/g, "$1") // Remove bold/italic markdown
+      .slice(0, 5000); // Limit content length for performance
+
+    return {
+      title: data.title,
+      description: data.description,
+      data,
+      slug,
+      content: textContent,
+    };
+  })
+);
 ---
 
 <Layout title={`Search | ${SITE.title}`}>
@@ -34,6 +49,11 @@ const searchList = sortedPosts.map(({ data, slug }) => ({
 
 <style>
   #main-content {
-    @apply mx-auto w-full max-w-3xl px-4 pb-4;
+    @apply mx-auto w-full max-w-3xl px-4 pb-12;
+  }
+
+  /* Add some styling for the highlighted search terms */
+  :global(mark) {
+    @apply bg-skin-accent bg-opacity-20 px-1 py-0.5 rounded;
   }
 </style>
