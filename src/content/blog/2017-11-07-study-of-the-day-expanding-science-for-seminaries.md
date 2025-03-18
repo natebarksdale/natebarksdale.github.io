@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2017-11-07
 modDatetime: 2025-03-17
 title: Study of the Day | Science for Seminaries
-slug: study-of-the-day-expanding-science-for-seminaries
-featured: false
-draft: false
+slug: study-of-the-day-science-for-seminaries
+featured: False
+draft: False
 description: Equipping tomorrow’s clergy to discuss scientific findings and technological advances — and the big questions they raise
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Science meets the divine,  
   Seminaries embrace change,  
   New wisdom takes root.
+
 coordinates: [38.89511, -77.03637]
 ---
 

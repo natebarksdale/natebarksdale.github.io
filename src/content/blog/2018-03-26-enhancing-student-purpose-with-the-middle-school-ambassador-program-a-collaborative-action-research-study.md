@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2018-03-26
 modDatetime: 2025-03-17
 title: Grant Profile | Enhancing Student Purpose with the Middle School Ambassador Program
-slug: grant-profile-enhancing-student-purpose-with-the-middle-school-ambassador-program-a-collaborative-action-research-study
-featured: false
-draft: false
+slug: grant-profile-enhancing-student-purpose-with-the-middle-school-ambassador-program
+featured: False
+draft: False
 description: When testing is not enough…helping students define their purpose
 emoji: 🎓
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Students find their path,  
   Voices guide their noble quest,  
   Purpose blooms in youth.
+
 coordinates: [40.5008, -74.4474]
 ---
 
