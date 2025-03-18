@@ -20,7 +20,7 @@ haiku: |
 coordinates: [41.525031, -88.081725]
 ---
 
-For the John Templeton Foundation, I wrote about the critical fight for free speech on college campuses.
+For the John Templeton Foundation, I wrote about free speech on college campuses.
 
 > When Ivette Salazar, a student at Joliet Junior College in Chicago, saw conservative students passing out literature on the evils of socialism on her campus, she decided she wanted to share her own viewpoint and so began distributing pro-socialist fliers with the headline “Shut Down Capitalism.” Instead she was the one who was shut down, detained by campus police and questioned for 15-20 minutes. Her fliers were confiscated after she was told her First Amendment right to free speech only applied if college administrators approved.
 >

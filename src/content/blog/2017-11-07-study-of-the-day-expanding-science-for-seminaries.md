@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2017-11-07
 modDatetime: 2025-03-17
-title: Study of the Day | EXPANDING “SCIENCE FOR SEMINARIES”
+title: Study of the Day | Science for Seminaries
 slug: study-of-the-day-expanding-science-for-seminaries
 featured: false
 draft: false

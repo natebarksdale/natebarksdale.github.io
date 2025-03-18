@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about how string theory's vast universe landscape might just solve the mystery of our finely-tuned cosmos.
+For the John Templeton Foundation, I wrote about how string theory might just unravel some of the the mystery of our finely-tuned cosmos.
 
 > In recent years physicists and astronomers have demonstrated that the laws and constants that govern the cosmos must be structured in highly precise ways in order for intelligent life to emerge. As a result, if the universe that we observe is the only one there is, its existence in a form that can support intelligent life seems incredibly improbable. But if there are a great many universes — a concept known as a multiverse — it is more likely that one would exist that has just the improbable features needed to sustain intelligent life. It’s an idea whose implications ripple out from physics into philosophy and theology.
 >

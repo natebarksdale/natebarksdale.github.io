@@ -20,7 +20,7 @@ haiku: |
 coordinates: [52.2053, 0.1218]
 ---
 
-For the John Templeton Foundation, I wrote about the intersection of modern science and traditional Islamic thought in training religious leaders.
+For the John Templeton Foundation, I wrote about the intersection of modern science and traditional Islamic thought.
 
 > Asim Islam holds a graduate degree in medicine from the University of Cambridge and a Ph.D. in mathematics from Royal Holloway, University of London. He wrote his doctoral thesis on analytic number theory and is currently studying quantum field theory at Imperial College London. But he was also interested in what the Islamic philosophical tradition might contribute to his science-infused questions about the nature of human perception and self-awareness.
 >
