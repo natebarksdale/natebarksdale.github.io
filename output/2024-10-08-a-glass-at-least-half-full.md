@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-10-08
-modDatetime: 2025-03-17T21:38:09Z
-title: Study of the Day | A Glass at Least Half Full
+modDatetime: 2025-03-18T21:19:20Z
+title: A Glass at Least Half Full
 slug: study-of-the-day-a-glass-at-least-half-full
 featured: false
 draft: false

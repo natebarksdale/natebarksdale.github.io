@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-23
-modDatetime: 2025-03-17T21:39:17Z
-title: Essays | The Great Epizootic
+modDatetime: 2025-03-18T21:19:20Z
+title: The Great Epizootic
 slug: essays-the-great-epizootic
 featured: false
 draft: false

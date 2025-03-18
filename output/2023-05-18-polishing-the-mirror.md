@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-18
-modDatetime: 2025-03-17
-title: Study of the Day | Polishing the Mirror
+modDatetime: 2025-03-18T21:19:19Z
+title: Polishing the Mirror
 slug: study-of-the-day-polishing-the-mirror
 featured: false
 draft: false

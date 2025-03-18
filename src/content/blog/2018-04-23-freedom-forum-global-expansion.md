@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-04-23
-modDatetime: 2025-03-18T14:32:16Z
-title: Grant Profile | Freedom Forum Global Expansion
+modDatetime: 2025-03-18T21:19:20Z
+title: Freedom Forum Global Expansion
 slug: grant-profile-freedom-forum-global-expansion
 featured: false
 draft: false

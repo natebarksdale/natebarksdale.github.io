@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-05-13
-modDatetime: 2025-03-18T21:04:50Z
-title: Study of the Day | The Dangerous Myth of the Male Breadwinner
+modDatetime: 2025-03-18T21:19:23Z
+title: The Dangerous Myth of the Male Breadwinner
 slug: study-of-the-day-the-dangerous-myth-of-the-male-breadwinner
 featured: false
 draft: false

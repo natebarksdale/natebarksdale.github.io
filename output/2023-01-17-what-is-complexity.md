@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-01-17
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Complexity?
+modDatetime: 2025-03-18T21:19:19Z
+title: What Is Complexity?
 slug: study-of-the-day-what-is-complexity
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2019-01-28
 modDatetime: 2025-03-18 17:28:43+00:00
-title: Grant Profile | Nudging Empathy
+title: Nudging Empathy
 slug: grant-profile-nudging-empathy
 featured: False
 draft: False

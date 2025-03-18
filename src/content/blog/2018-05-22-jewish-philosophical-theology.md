@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-22
-modDatetime: 2025-03-18T14:32:16Z
-title: Grant Profile | Jewish Philosophical Theology
+modDatetime: 2025-03-18T21:19:21Z
+title: Jewish Philosophical Theology
 slug: grant-profile-jewish-philosophical-theology
 featured: false
 draft: false

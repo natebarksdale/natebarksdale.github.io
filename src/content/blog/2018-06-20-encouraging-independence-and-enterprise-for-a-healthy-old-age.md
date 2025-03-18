@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-20
-modDatetime: 2025-03-17
-title: Grant Profile | Encouraging independence and enterprise for a healthy old age
+modDatetime: 2025-03-18T21:19:21Z
+title: Encouraging independence and enterprise for a healthy old age
 slug: grant-profile-encouraging-independence-and-enterprise-for-a-healthy-old-age
 featured: false
 draft: false

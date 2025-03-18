@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2017-11-07
 modDatetime: 2025-03-17 15:44:51+00:00
-title: Grant Profile | Expanding Science for Seminaries
+title: Expanding Science for Seminaries
 slug: grant-profile-expanding-science-for-seminaries
 featured: False
 draft: False

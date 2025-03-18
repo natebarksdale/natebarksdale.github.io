@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-12-11
-modDatetime: 2025-03-18T14:08:05Z
-title: Grant Profile | SelfBound - The Making of Human Consciousness
+modDatetime: 2025-03-18T21:19:22Z
+title: SelfBound - The Making of Human Consciousness
 slug: grant-profile-selfbound-the-making-of-human-consciousness
 featured: false
 draft: false

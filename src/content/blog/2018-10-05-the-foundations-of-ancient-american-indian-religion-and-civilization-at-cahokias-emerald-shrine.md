@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-05
-modDatetime: 2025-03-18T17:28:43Z
-title: Grant Profile | The Foundations of Ancient American Indian Religion and Civilization at Cahokia’s Emerald Shrine
+modDatetime: 2025-03-18T21:19:21Z
+title: The Foundations of Ancient American Indian Religion and Civilization at Cahokia’s Emerald Shrine
 slug: grant-profile-the-foundations-of-ancient-american-indian-religion-and-civilization-at-cahokias-emerald-shrine
 featured: false
 draft: false

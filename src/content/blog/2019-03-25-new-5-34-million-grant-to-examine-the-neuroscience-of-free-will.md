@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2019-03-25
 modDatetime: 2025-03-17 18:07:03+00:00
-title: Grant Profile | Examining the Neuroscience of Free Will
+title: Examining the Neuroscience of Free Will
 slug: grant-profile-examining-the-neuroscience-of-free-will
 featured: False
 draft: False

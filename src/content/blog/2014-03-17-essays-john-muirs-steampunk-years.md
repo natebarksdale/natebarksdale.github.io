@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2014-03-17
 modDatetime: 2025-03-10 21:39:29+00:00
-title: Essays | John Muir's Steampunk Years
+title: John Muir's Steampunk Years
 slug: essays-john-muir-s-steampunk-years
 featured: False
 draft: False

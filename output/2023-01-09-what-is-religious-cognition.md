@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-01-09
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Religious Cognition?
+modDatetime: 2025-03-18T21:19:18Z
+title: What Is Religious Cognition?
 slug: study-of-the-day-what-is-religious-cognition
 featured: false
 draft: false

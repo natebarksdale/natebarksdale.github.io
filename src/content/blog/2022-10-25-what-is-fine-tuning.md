@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-10-25
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Fine Tuning?
+modDatetime: 2025-03-18T21:19:23Z
+title: What Is Fine Tuning?
 slug: study-of-the-day-what-is-fine-tuning
 featured: false
 draft: false

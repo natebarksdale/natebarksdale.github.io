@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2020-02-25
 modDatetime: 2025-03-18 17:45:11+00:00
-title: Grant Profile | Greater Good in Education
+title: Greater Good in Education
 slug: grant-profile-greater-good-in-education
 featured: False
 draft: False

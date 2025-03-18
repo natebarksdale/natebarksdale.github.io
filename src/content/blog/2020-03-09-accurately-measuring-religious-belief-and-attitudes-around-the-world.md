@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-03-09
-modDatetime: 2025-03-18T17:45:11Z
-title: Grant Profile | Accurately Measuring Religious Belief and Attitudes Around the World
+modDatetime: 2025-03-18T21:19:22Z
+title: Accurately Measuring Religious Belief and Attitudes Around the World
 slug: grant-profile-accurately-measuring-religious-belief-and-attitudes-around-the-world
 featured: false
 draft: false

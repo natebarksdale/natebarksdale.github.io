@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2014-03-19
 modDatetime: 2025-03-10 18:29:24+00:00
-title: Essays | We're All Makers Now
+title: We're All Makers Now
 slug: essays-we-re-all-makers-now
 featured: False
 draft: False

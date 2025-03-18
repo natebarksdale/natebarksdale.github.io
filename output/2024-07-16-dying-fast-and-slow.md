@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-07-16
-modDatetime: 2025-03-17T21:38:09Z
-title: Study of the Day | Dying Fast and Slow
+modDatetime: 2025-03-18T21:19:20Z
+title: Dying Fast and Slow
 slug: study-of-the-day-dying-fast-and-slow
 featured: false
 draft: false

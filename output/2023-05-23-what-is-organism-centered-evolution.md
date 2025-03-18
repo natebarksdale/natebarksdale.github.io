@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-23
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Organism-Centered Evolution?
+modDatetime: 2025-03-18T21:19:19Z
+title: What Is Organism-Centered Evolution?
 slug: study-of-the-day-what-is-organism-centered-evolution
 featured: false
 draft: false

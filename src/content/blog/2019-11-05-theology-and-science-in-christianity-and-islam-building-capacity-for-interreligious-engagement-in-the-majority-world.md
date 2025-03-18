@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-11-05
-modDatetime: 2025-03-18T13:56:40Z
-title: Grant Profile | Theology and Science in Christianity and Islam
+modDatetime: 2025-03-18T21:19:22Z
+title: Theology and Science in Christianity and Islam
 slug: grant-profile-theology-and-science-in-christianity-and-islam
 featured: false
 draft: false

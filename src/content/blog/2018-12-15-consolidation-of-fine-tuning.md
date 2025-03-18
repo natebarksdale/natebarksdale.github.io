@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-12-15
-modDatetime: 2025-03-18T17:28:43Z
-title: Grant Profile | Consolidation of Fine-Tuning
+modDatetime: 2025-03-18T21:19:21Z
+title: Consolidation of Fine-Tuning
 slug: grant-profile-consolidation-of-fine-tuning
 featured: false
 draft: false

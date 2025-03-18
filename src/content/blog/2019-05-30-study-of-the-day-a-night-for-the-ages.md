@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-05-30
-modDatetime: 2025-03-17
-title: Study of the Day | A Night for the Ages
+modDatetime: 2025-03-18T21:19:22Z
+title: A Night for the Ages
 slug: study-of-the-day-a-night-for-the-ages
 featured: false
 draft: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-03
-modDatetime: 2025-03-17
-title: Study of the Day | The Evolution of Cooperation
+modDatetime: 2025-03-18T21:19:22Z
+title: The Evolution of Cooperation
 slug: study-of-the-day-the-evolution-of-cooperation
 featured: false
 draft: false

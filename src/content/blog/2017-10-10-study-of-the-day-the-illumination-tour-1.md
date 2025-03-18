@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-10-10
-modDatetime: 2025-03-17
-title: Study of the Day | The Illumination Tour
+modDatetime: 2025-03-18T21:19:20Z
+title: The Illumination Tour
 slug: study-of-the-day-the-illumination-tour
 featured: false
 draft: false

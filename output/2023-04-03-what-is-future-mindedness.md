@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-04-03
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Future-Mindedness?
+modDatetime: 2025-03-18T21:19:19Z
+title: What Is Future-Mindedness?
 slug: study-of-the-day-what-is-future-mindedness
 featured: false
 draft: false

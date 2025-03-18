@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-29
-modDatetime: 2025-03-17
-title: Study of the Day | How Does Religious Participation Affect Human Flourishing?
+modDatetime: 2025-03-18T21:19:21Z
+title: How Does Religious Participation Affect Human Flourishing?
 slug: study-of-the-day-how-does-religious-participation-affect-human-flourishing
 featured: false
 draft: false

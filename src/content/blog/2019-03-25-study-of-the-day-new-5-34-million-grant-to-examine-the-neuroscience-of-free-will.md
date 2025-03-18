@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-03-25
-modDatetime: 2025-03-18T17:28:43Z
-title: Study of the Day | New $5.34 Million Grant to Examine the Neuroscience of Free Will
+modDatetime: 2025-03-18T21:19:22Z
+title: New $5.34 Million Grant to Examine the Neuroscience of Free Will
 slug: study-of-the-day-new-5-34-million-grant-to-examine-the-neuroscience-of-free-will
 featured: false
 draft: false

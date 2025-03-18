@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-06-28
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Epigenetics?
+modDatetime: 2025-03-18T21:19:19Z
+title: What Is Epigenetics?
 slug: study-of-the-day-what-is-epigenetics
 featured: false
 draft: false

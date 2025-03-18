@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-02-08
-modDatetime: 2025-03-18T21:04:49Z
-title: Study of the Day | The Power of Positive Self-Talk
+modDatetime: 2025-03-18T21:19:19Z
+title: The Power of Positive Self-Talk
 slug: study-of-the-day-the-power-of-positive-self-talk
 featured: false
 draft: false

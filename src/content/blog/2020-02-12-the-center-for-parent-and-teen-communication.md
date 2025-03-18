@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-12
-modDatetime: 2025-03-18T21:04:50Z
-title: Grant Profile | The Center for Parent and Teen Communication
+modDatetime: 2025-03-18T21:19:22Z
+title: The Center for Parent and Teen Communication
 slug: grant-profile-the-center-for-parent-and-teen-communication
 featured: false
 draft: false

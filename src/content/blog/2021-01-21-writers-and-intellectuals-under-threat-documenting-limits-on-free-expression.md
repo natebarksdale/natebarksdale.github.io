@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2021-01-21
 modDatetime: 2025-03-18 13:56:40+00:00
-title: Grant Profile | Writers and Intellectuals Under Threat
+title: Writers and Intellectuals Under Threat
 slug: grant-profile-writers-and-intellectuals-under-threat
 featured: False
 draft: False

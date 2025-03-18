@@ -194,9 +194,9 @@ class URLToMarkdownConverter:
         
         # Determine article type and format title accordingly
         if "grant/" in url:
-            article_data['title'] = f"Grant Profile | {title}"
+            article_data['title'] = f"{title}"
         elif "/news/" in url:
-            article_data['title'] = f"Study of the Day | {title}"
+            article_data['title'] = f"{title}"
         else:
             article_data['title'] = title
             

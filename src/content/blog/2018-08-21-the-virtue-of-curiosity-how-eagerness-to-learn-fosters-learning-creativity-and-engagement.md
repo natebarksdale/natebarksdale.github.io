@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-21
-modDatetime: 2025-03-18T17:28:43Z
-title: Grant Profile | The Virtue of Curiosity
+modDatetime: 2025-03-18T21:19:21Z
+title: The Virtue of Curiosity
 slug: grant-profile-the-virtue-of-curiosity
 featured: false
 draft: false

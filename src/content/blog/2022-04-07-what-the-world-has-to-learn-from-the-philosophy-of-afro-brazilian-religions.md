@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-04-07
-modDatetime: 2025-03-17
-title: Study of the Day | What the World Has to Learn from the Philosophy of Afro-Brazilian Religions
+modDatetime: 2025-03-18T21:19:23Z
+title: What the World Has to Learn from the Philosophy of Afro-Brazilian Religions
 slug: study-of-the-day-what-the-world-has-to-learn-from-the-philosophy-of-afro-brazilian-religions
 featured: false
 draft: false

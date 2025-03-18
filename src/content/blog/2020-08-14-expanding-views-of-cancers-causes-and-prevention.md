@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2020-08-14
 modDatetime: 2025-03-17
-title: Grant Profile | Expanding Views of Cancer's Causes
+title: Expanding Views of Cancer's Causes
 slug: grant-profile-expanding-views-of-cancer-s-causes
 featured: False
 draft: False

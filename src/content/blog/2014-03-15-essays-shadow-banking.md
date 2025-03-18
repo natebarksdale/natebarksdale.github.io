@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-15
-modDatetime: 2025-03-17T21:39:16Z
-title: Essays | Shadow Banking
+modDatetime: 2025-03-18T21:19:20Z
+title: Shadow Banking
 slug: essays-shadow-banking
 featured: false
 draft: false

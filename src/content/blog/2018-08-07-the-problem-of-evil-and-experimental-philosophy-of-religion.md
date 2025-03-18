@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T17:28:42Z
-title: Grant Profile | The Problem of Evil and Experimental Philosophy of Religion
+modDatetime: 2025-03-18T21:19:21Z
+title: The Problem of Evil and Experimental Philosophy of Religion
 slug: grant-profile-the-problem-of-evil-and-experimental-philosophy-of-religion
 featured: false
 draft: false

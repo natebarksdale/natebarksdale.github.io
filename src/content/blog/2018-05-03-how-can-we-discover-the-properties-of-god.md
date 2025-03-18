@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-03
-modDatetime: 2025-03-18T14:32:16Z
-title: Grant Profile | How can we discover the properties of God?
+modDatetime: 2025-03-18T21:19:20Z
+title: How can we discover the properties of God?
 slug: grant-profile-how-can-we-discover-the-properties-of-god
 featured: false
 draft: false

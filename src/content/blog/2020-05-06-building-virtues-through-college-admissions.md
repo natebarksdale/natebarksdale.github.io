@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-05-06
-modDatetime: 2025-03-17
-title: Grant Profile | Building Virtues through College Admissions
+modDatetime: 2025-03-18T21:19:22Z
+title: Building Virtues through College Admissions
 slug: grant-profile-building-virtues-through-college-admissions
 featured: false
 draft: false

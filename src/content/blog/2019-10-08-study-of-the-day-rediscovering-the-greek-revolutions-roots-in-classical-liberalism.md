@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-18T20:45:57Z
-title: Study of the Day | Rediscovering the Greek Revolution’s Roots in Classical Liberalism
+modDatetime: 2025-03-18T21:19:22Z
+title: Rediscovering the Greek Revolution’s Roots in Classical Liberalism
 slug: study-of-the-day-rediscovering-the-greek-revolutions-roots-in-classical-liberalism
 featured: false
 draft: false

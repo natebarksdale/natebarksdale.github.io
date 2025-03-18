@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-08-22
-modDatetime: 2025-03-17
-title: Study of the Day | What’s the Word?
+modDatetime: 2025-03-18T21:19:20Z
+title: What’s the Word?
 slug: study-of-the-day-whats-the-word
 featured: false
 draft: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-04-23
-modDatetime: 2025-03-17
-title: Grant Profile | FIRE’s Speech, Outreach, Advocacy, and Research Project
+modDatetime: 2025-03-18T21:19:20Z
+title: FIRE’s Speech, Outreach, Advocacy, and Research Project
 slug: grant-profile-fires-speech-outreach-advocacy-and-research-project
 featured: false
 draft: false

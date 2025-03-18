@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-17T21:39:18Z
-title: Grant Profile | High school debate turns to the Big Questions
+modDatetime: 2025-03-18T21:19:20Z
+title: High school debate turns to the Big Questions
 slug: grant-profile-high-school-debate-turns-to-the-big-questions
 featured: false
 draft: false

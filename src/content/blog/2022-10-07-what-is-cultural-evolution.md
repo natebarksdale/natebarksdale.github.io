@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-10-07
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Cultural Evolution?
+modDatetime: 2025-03-18T21:19:23Z
+title: What Is Cultural Evolution?
 slug: study-of-the-day-what-is-cultural-evolution
 featured: false
 draft: false

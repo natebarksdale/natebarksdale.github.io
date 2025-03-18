@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T17:28:42Z
-title: Grant Profile | Worship - A Jewish Philosophical Investigation
+modDatetime: 2025-03-18T21:19:21Z
+title: Worship - A Jewish Philosophical Investigation
 slug: grant-profile-worship-a-jewish-philosophical-investigation
 featured: false
 draft: false

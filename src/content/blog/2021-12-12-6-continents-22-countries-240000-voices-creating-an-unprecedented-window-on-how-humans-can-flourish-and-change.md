@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-12
-modDatetime: 2025-03-17T21:38:08Z
-title: Study of the Day | 6 Continents, 22 Countries, 240,000 Voices - Creating an Unprecedented Window on How Humans Can Flourish and Change
+modDatetime: 2025-03-18T21:19:22Z
+title: 6 Continents, 22 Countries, 240,000 Voices - Creating an Unprecedented Window on How Humans Can Flourish and Change
 slug: study-of-the-day-6-continents-22-countries-240000-voices-creating-an-unprecedented-window-on-how-humans-can-flourish-and-change
 featured: false
 draft: false

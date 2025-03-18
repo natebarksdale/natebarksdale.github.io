@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-06-12
-modDatetime: 2025-03-17
-title: Study of the Day | The Overconfidence Game
+modDatetime: 2025-03-18T21:19:19Z
+title: The Overconfidence Game
 slug: study-of-the-day-the-overconfidence-game
 featured: false
 draft: false

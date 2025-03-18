@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-09-22
-modDatetime: 2025-03-17
-title: Study of the Day | What Is Intellectual Humility?
+modDatetime: 2025-03-18T21:19:23Z
+title: What Is Intellectual Humility?
 slug: study-of-the-day-what-is-intellectual-humility
 featured: false
 draft: false

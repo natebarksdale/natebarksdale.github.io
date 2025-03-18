@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2018-10-05
 modDatetime: 2025-03-18 17:28:43+00:00
-title: Grant Profile | The Case of “Secret Society” Religions
+title: The Case of “Secret Society” Religions
 slug: grant-profile-the-case-of-secret-society-religions
 featured: False
 draft: False

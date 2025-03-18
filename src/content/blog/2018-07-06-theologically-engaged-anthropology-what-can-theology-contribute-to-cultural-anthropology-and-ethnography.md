@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-06
-modDatetime: 2025-03-18T13:56:39Z
-title: Grant Profile | Theologically-Engaged Anthropology
+modDatetime: 2025-03-18T21:19:21Z
+title: Theologically-Engaged Anthropology
 slug: grant-profile-theologically-engaged-anthropology
 featured: false
 draft: false

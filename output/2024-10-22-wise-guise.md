@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-10-22
-modDatetime: 2025-03-17
-title: Study of the Day | Wise Guise
+modDatetime: 2025-03-18T21:19:20Z
+title: Wise Guise
 slug: study-of-the-day-wise-guise
 featured: false
 draft: false

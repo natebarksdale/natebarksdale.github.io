@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-05-06
-modDatetime: 2025-03-18T17:45:11Z
-title: Grant Profile | Unfolding Quantum Intuition
+modDatetime: 2025-03-18T21:19:22Z
+title: Unfolding Quantum Intuition
 slug: grant-profile-unfolding-quantum-intuition
 featured: false
 draft: false

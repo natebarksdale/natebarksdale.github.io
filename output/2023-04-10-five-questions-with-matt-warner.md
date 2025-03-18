@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-04-10
-modDatetime: 2025-03-17
-title: Study of the Day | Q&A: Five Questions with Matt Warner
+modDatetime: 2025-03-18T21:19:19Z
+title: Q&A: Five Questions with Matt Warner
 slug: study-of-the-day-q-a-five-questions-with-matt-warner
 featured: false
 draft: false

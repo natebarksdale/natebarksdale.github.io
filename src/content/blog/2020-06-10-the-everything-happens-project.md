@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-10
-modDatetime: 2025-03-18T17:45:11Z
-title: Grant Profile | The Everything Happens Project
+modDatetime: 2025-03-18T21:19:22Z
+title: The Everything Happens Project
 slug: grant-profile-the-everything-happens-project
 featured: false
 draft: false

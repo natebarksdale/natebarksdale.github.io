@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-06-30
-modDatetime: 2025-03-17T21:38:09Z
-title: Study of the Day | How to Think Better | Q&A with Nathan Ballantyne
+modDatetime: 2025-03-18T21:19:19Z
+title: Q&A with Nathan Ballantyne
 slug: study-of-the-day-how-to-think-better-q-a-with-nathan-ballantyne
 featured: false
 draft: false

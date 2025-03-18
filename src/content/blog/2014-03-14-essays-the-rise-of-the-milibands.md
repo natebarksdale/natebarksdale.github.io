@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-14
-modDatetime: 2025-03-18T21:04:50Z
-title: Essays | The Rise of the Milibands
+modDatetime: 2025-03-18T21:19:20Z
+title: The Rise of the Milibands
 slug: essays-the-rise-of-the-milibands
 featured: false
 draft: false

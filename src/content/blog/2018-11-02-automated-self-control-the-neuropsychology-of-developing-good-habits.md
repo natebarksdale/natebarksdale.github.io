@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-02
-modDatetime: 2025-03-17
-title: Grant Profile | Automated Self-Control - The Neuropsychology of Developing Good Habits
+modDatetime: 2025-03-18T21:19:21Z
+title: Automated Self-Control - The Neuropsychology of Developing Good Habits
 slug: grant-profile-automated-self-control-the-neuropsychology-of-developing-good-habits
 featured: false
 draft: false

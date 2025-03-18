@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-04-05
-modDatetime: 2025-03-17
-title: Study of the Day | ‘The Best Form of Self-Interest’
+modDatetime: 2025-03-18T21:19:23Z
+title: ‘The Best Form of Self-Interest’
 slug: study-of-the-day-the-best-form-of-self-interest
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2018-10-22
 modDatetime: 2025-03-18 14:32:16+00:00
-title: Grant Profile | Need-based transfers and the origins of human cooperation
+title: Need-based transfers and the origins of human cooperation
 slug: grant-profile-need-based-transfers-and-the-origins-of-human-cooperation
 featured: False
 draft: False

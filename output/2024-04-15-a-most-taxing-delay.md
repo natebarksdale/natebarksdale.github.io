@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-04-15
-modDatetime: 2025-03-17T21:38:09Z
-title: Study of the Day | A Most Taxing Delay
+modDatetime: 2025-03-18T21:19:19Z
+title: A Most Taxing Delay
 slug: study-of-the-day-a-most-taxing-delay
 featured: false
 draft: false

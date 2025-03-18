@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-08
-modDatetime: 2025-03-17
-title: Study of the Day | $1.2M Project to Expand Latin American Philosophical Work
+modDatetime: 2025-03-18T21:19:22Z
+title: $1.2M Project to Expand Latin American Philosophical Work
 slug: study-of-the-day-1-2m-project-to-expand-latin-american-philosophical-work
 featured: false
 draft: false

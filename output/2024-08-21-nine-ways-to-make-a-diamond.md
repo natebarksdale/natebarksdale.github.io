@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-08-21
-modDatetime: 2025-03-17
-title: Study of the Day | Nine Ways to Make a Diamond
+modDatetime: 2025-03-18T21:19:20Z
+title: Nine Ways to Make a Diamond
 slug: study-of-the-day-nine-ways-to-make-a-diamond
 featured: false
 draft: false

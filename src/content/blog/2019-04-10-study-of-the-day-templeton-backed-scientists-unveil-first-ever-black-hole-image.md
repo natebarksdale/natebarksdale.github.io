@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-10
-modDatetime: 2025-03-18T17:28:43Z
-title: Study of the Day | Templeton-Backed Scientists Unveil First-Ever Black Hole Image
+modDatetime: 2025-03-18T21:19:22Z
+title: Templeton-Backed Scientists Unveil First-Ever Black Hole Image
 slug: study-of-the-day-templeton-backed-scientists-unveil-first-ever-black-hole-image
 featured: false
 draft: false

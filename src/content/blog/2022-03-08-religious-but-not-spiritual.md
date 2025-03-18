@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-03-08
-modDatetime: 2025-03-17
-title: Study of the Day | Religious but Not Spiritual
+modDatetime: 2025-03-18T21:19:23Z
+title: Religious but Not Spiritual
 slug: study-of-the-day-religious-but-not-spiritual
 featured: false
 draft: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-05-28
-modDatetime: 2025-03-17T21:38:09Z
-title: Study of the Day | A Rose By Any Other Name
+modDatetime: 2025-03-18T21:19:19Z
+title: A Rose By Any Other Name
 slug: study-of-the-day-a-rose-by-any-other-name
 featured: false
 draft: false

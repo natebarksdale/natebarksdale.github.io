@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-10
-modDatetime: 2025-03-18T17:28:42Z
-title: Grant Profile | The neurostimulation of belief
+modDatetime: 2025-03-18T21:19:21Z
+title: The neurostimulation of belief
 slug: grant-profile-the-neurostimulation-of-belief
 featured: false
 draft: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-02-04
-modDatetime: 2025-03-17T21:38:08Z
-title: Study of the Day | East Asia’s Religious Futures
+modDatetime: 2025-03-18T21:19:23Z
+title: East Asia’s Religious Futures
 slug: study-of-the-day-east-asias-religious-futures
 featured: false
 draft: false

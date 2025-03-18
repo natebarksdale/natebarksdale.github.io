@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-19
-modDatetime: 2025-03-18T17:28:42Z
-title: Grant Profile | How do novel cell types arise in evolution?
+modDatetime: 2025-03-18T21:19:21Z
+title: How do novel cell types arise in evolution?
 slug: grant-profile-how-do-novel-cell-types-arise-in-evolution
 featured: false
 draft: false

@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-01-18
-modDatetime: 2025-03-17
-title: Study of the Day | ‘Together in Our Differences’
+modDatetime: 2025-03-18T21:19:23Z
+title: ‘Together in Our Differences’
 slug: study-of-the-day-together-in-our-differences
 featured: false
 draft: false

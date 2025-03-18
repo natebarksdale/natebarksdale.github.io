@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-02-20
-modDatetime: 2025-03-17
-title: Study of the Day | Timeless Truths
+modDatetime: 2025-03-18T21:19:19Z
+title: Timeless Truths
 slug: study-of-the-day-timeless-truths
 featured: false
 draft: false

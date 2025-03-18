@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-09-24
-modDatetime: 2025-03-18T13:56:40Z
-title: Grant Profile | Using Big Data to Quantify and Cultivate Genius
+modDatetime: 2025-03-18T21:19:21Z
+title: Using Big Data to Quantify and Cultivate Genius
 slug: grant-profile-using-big-data-to-quantify-and-cultivate-genius
 featured: false
 draft: false

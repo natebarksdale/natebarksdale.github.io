@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-09-24
-modDatetime: 2025-03-18T17:28:43Z
-title: Grant Profile | Chemistry to Life
+modDatetime: 2025-03-18T21:19:21Z
+title: Chemistry to Life
 slug: grant-profile-chemistry-to-life
 featured: false
 draft: false

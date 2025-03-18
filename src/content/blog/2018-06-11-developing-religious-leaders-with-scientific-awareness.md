@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-11
-modDatetime: 2025-03-17
-title: Grant Profile | Developing Religious Leaders with Scientific Awareness
+modDatetime: 2025-03-18T21:19:21Z
+title: Developing Religious Leaders with Scientific Awareness
 slug: grant-profile-developing-religious-leaders-with-scientific-awareness
 featured: false
 draft: false

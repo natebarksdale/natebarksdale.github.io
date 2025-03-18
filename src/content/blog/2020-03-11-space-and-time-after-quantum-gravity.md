@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-03-11
-modDatetime: 2025-03-18T17:45:11Z
-title: Grant Profile | Space and Time After Quantum Gravity
+modDatetime: 2025-03-18T21:19:22Z
+title: Space and Time After Quantum Gravity
 slug: grant-profile-space-and-time-after-quantum-gravity
 featured: false
 draft: false

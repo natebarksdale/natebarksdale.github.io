@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-21
-modDatetime: 2025-03-18T14:08:05Z
-title: Grant Profile | String Theory and the Anthropic Universe
+modDatetime: 2025-03-18T21:19:20Z
+title: String Theory and the Anthropic Universe
 slug: grant-profile-string-theory-and-the-anthropic-universe
 featured: false
 draft: false

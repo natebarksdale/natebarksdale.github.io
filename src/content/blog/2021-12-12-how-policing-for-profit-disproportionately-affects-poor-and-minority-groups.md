@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-12
-modDatetime: 2025-03-17T21:38:08Z
-title: Study of the Day | How ‘Policing for Profit’ Disproportionately Affects Poor and Minority Groups
+modDatetime: 2025-03-18T21:19:22Z
+title: How ‘Policing for Profit’ Disproportionately Affects Poor and Minority Groups
 slug: study-of-the-day-how-policing-for-profit-disproportionately-affects-poor-and-minority-groups
 featured: false
 draft: false

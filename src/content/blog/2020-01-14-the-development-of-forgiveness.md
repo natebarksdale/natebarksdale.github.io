@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-01-14
-modDatetime: 2025-03-18T17:45:11Z
-title: Grant Profile | The Development of Forgiveness
+modDatetime: 2025-03-18T21:19:22Z
+title: The Development of Forgiveness
 slug: grant-profile-the-development-of-forgiveness
 featured: false
 draft: false

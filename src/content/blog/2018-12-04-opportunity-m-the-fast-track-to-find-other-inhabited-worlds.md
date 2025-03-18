@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-12-04
-modDatetime: 2025-03-18T14:32:16Z
-title: Grant Profile | Opportunity M - The Fast Track to Find Other Inhabited Worlds
+modDatetime: 2025-03-18T21:19:21Z
+title: Opportunity M - The Fast Track to Find Other Inhabited Worlds
 slug: grant-profile-opportunity-m-the-fast-track-to-find-other-inhabited-worlds
 featured: false
 draft: false

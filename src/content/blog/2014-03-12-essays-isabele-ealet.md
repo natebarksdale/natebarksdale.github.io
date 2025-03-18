@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-12
-modDatetime: 2025-03-17T21:39:16Z
-title: Essays | Isabele Ealet
+modDatetime: 2025-03-18T21:19:20Z
+title: Isabele Ealet
 slug: essays-isabele-ealet
 featured: false
 draft: false
