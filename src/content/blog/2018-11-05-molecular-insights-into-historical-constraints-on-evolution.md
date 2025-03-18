@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-05
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Molecular insights into historical constraints on evolution
-slug: grant-profile-molecular-insights-into-historical-constraints-on-evolution
-featured: false
-draft: false
+slug: molecular-insights-into-historical-constraints-on-evolution
+featured: False
+draft: False
 description: Replaying evolution’s early days in a lab — with resurrected, billion-year-old genes
 emoji: 🧬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Tape rewound, life's dance,  
   Molecular paths retread,  
   Nature's deep whispers.
+
 coordinates: [32.2226, -110.9747]
 ---
 

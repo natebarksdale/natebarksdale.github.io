@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2018-12-15
 modDatetime: 2025-03-18 17:28:43+00:00
 title: Motivational Consequences of Sanctifying Difficult Experiences
-slug: grant-profile-motivational-consequences-of-sanctifying-difficult-experiences
+slug: motivational-consequences-of-sanctifying-difficult-experiences
 featured: False
 draft: False
 description: From the hero’s journey to the walk-a-thon, the idea that suffering builds character may be a powerful tool for unlocking achievement.

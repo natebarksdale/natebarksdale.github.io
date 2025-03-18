@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-02-12
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Coalition of Freedom
-slug: grant-profile-coalition-of-freedom
-featured: false
-draft: false
+slug: coalition-of-freedom
+featured: False
+draft: False
 description: Twenty-first-century tools are making the United States’ founding document easier than ever to explore and understand
 emoji: 🇺🇸
 tags:
@@ -17,6 +17,7 @@ haiku: |
   In halls of freedom's past,  
   Voices debate, wisdom casts,  
   Liberty's roots hold fast.
+
 coordinates: [39.9489, -75.15]
 ---
 

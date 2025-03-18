@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The Problem of Evil and Experimental Philosophy of Religion
-slug: grant-profile-the-problem-of-evil-and-experimental-philosophy-of-religion
-featured: false
-draft: false
+slug: the-problem-of-evil-and-experimental-philosophy-of-religion
+featured: False
+draft: False
 description: What does it take for the idea of God to become philosophically untenable? It may depend on who you ask.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Evil shadows cast,  
   Deep doubts in divine good weave,  
   Philosophers quest.
+
 coordinates: [42.0723, -84.728]
 ---
 

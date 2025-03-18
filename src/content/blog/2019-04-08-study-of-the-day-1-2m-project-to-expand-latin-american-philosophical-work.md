@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-08
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: $1.2M Project to Expand Latin American Philosophical Work
-slug: study-of-the-day-1-2m-project-to-expand-latin-american-philosophical-work
-featured: false
-draft: false
+slug: 1-2m-project-to-expand-latin-american-philosophical-work
+featured: False
+draft: False
 description: Developing inroads for Latin American philosophers in a new and global interdisciplinary conversation
 emoji: 📚
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Latin minds converge,  
   Exploring deep free will paths,  
   Bogotá awakes.
+
 coordinates: [4.711, -74.0721]
 ---
 

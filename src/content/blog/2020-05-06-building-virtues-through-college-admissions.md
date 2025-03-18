@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-05-06
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Building Virtues through College Admissions
-slug: grant-profile-building-virtues-through-college-admissions
-featured: false
-draft: false
+slug: building-virtues-through-college-admissions
+featured: False
+draft: False
 description: Explore how Harvard's initiative reshapes college admissions by prioritizing ethical character and creating tailored tools for assessing student virtues.
 emoji: 🎓
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Virtues shape the youth,  
   Colleges seek deeper truths,  
   Character's new root.
+
 coordinates: [42.377, -71.1167]
 ---
 

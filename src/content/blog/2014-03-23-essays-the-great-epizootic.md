@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-23
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: The Great Epizootic
-slug: essays-the-great-epizootic
-featured: false
-draft: false
+slug: the-great-epizootic
+featured: False
+draft: False
 description: In October 1872, amid moments of change, a peculiar event begins with a horse sneezing near Toronto.
 emoji: 🐴
 tags:
@@ -18,6 +18,7 @@ haiku: |
   A sneeze in the night,  
   Horses caught in a strange fate,  
   History unfolds.
+
 coordinates: [43.7, -79.4]
 ---
 

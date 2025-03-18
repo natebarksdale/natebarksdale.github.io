@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-11-05
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Theology and Science in Christianity and Islam
-slug: grant-profile-theology-and-science-in-christianity-and-islam
-featured: false
-draft: false
+slug: theology-and-science-in-christianity-and-islam
+featured: False
+draft: False
 description: How do you get 10,000 books into the hands of students and scholars in dozens of countries? Logistics, logistics, logistics.
 emoji: 📚
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Books traverse the globe,  
   Bridging faiths with shared wisdom,  
   Knowledge lights new paths.
+
 coordinates: [42.9634, -85.6681]
 ---
 

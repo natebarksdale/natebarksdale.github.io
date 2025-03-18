@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-05
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The Foundations of Ancient American Indian Religion and Civilization at Cahokia’s Emerald Shrine
-slug: grant-profile-the-foundations-of-ancient-american-indian-religion-and-civilization-at-cahokias-emerald-shrine
-featured: false
-draft: false
+slug: the-foundations-of-ancient-american-indian-religion-and-civilization-at-cahokias-emerald-shrine
+featured: False
+draft: False
 description: A remote religious site offers clues about the birth of a unique North American metropolis
 emoji: 🌾
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Ancient city thrives,  
   Mounds rise where the spirits speak,  
   Roads link sacred sites.
+
 coordinates: [38.655, -90.0594]
 ---
 

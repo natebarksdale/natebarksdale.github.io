@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-14
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: The Rise of the Milibands
-slug: essays-the-rise-of-the-milibands
-featured: false
-draft: false
+slug: the-rise-of-the-milibands
+featured: False
+draft: False
 description: Exploring the sibling rivalry of Ed and David Miliband, a tale of ambition and political legacy.
 emoji: ⚔️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Brothers in the fray,  
   Shadows cast on leadership,  
   Politics divides.
+
 coordinates: [51.5074, -0.1278]
 ---
 

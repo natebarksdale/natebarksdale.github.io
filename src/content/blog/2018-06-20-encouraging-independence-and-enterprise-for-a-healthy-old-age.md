@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-06-20
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Encouraging independence and enterprise for a healthy old age
-slug: grant-profile-encouraging-independence-and-enterprise-for-a-healthy-old-age
-featured: false
-draft: false
+slug: encouraging-independence-and-enterprise-for-a-healthy-old-age
+featured: False
+draft: False
 description: Demographic shifts and rising costs may soon push a number of long-standing social safety nets into peril. An analysis of healthcare in the U.K. and its neighbors explores the problem — and some potential ways forward.
 emoji: 👵
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Aging Britain seeks,  
   Flexible care, best practices—  
   Health freedom beckons.
+
 coordinates: [51.5074, -0.1278]
 ---
 

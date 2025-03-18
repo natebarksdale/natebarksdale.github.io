@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-03
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: How can we discover the properties of God?
-slug: grant-profile-how-can-we-discover-the-properties-of-god
-featured: false
-draft: false
+slug: how-can-we-discover-the-properties-of-god
+featured: False
+draft: False
 description: A widely-used philosophical approach to theology may turn out to be less than perfect.
 emoji: 🤔
 tags:
@@ -16,6 +16,7 @@ haiku: |
   Seeking to define God,  
   Anselm's greatest being thought—  
   Perfect, beyond reach.
+
 coordinates: [51.2797, 1.0827]
 ---
 

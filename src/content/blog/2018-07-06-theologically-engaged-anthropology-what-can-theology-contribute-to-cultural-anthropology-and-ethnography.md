@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-06
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Theologically-Engaged Anthropology
-slug: grant-profile-theologically-engaged-anthropology
-featured: false
-draft: false
+slug: theologically-engaged-anthropology
+featured: False
+draft: False
 description: Anthropologists are sometimes ill-equipped to interpret the religious motivations of their subjects. A new initiative is trying to change that.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Mountains cradle faith,  
   New beliefs transform old ways,  
   Theology seeks.
+
 coordinates: [-5.416667, 143.083333]
 ---
 

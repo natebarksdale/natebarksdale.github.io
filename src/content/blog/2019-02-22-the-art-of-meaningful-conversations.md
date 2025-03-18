@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-02-22
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The Art of Meaningful Conversations
-slug: grant-profile-the-art-of-meaningful-conversations
-featured: false
-draft: false
+slug: the-art-of-meaningful-conversations
+featured: False
+draft: False
 description: Pushing the brain beyond its evolutionary constraints, one conversation at a time.
 emoji: 🗣️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Webcam streams merge thoughts,  
   Deep dialogues bridge the void—  
   Wisdom shared, souls grow.
+
 coordinates: [40.8148, -73.9613]
 ---
 

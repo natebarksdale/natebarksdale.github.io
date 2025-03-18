@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-10
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The neurostimulation of belief
-slug: grant-profile-the-neurostimulation-of-belief
-featured: false
-draft: false
+slug: the-neurostimulation-of-belief
+featured: False
+draft: False
 description: Using brain stimulation to test the relationship between intuition and religious belief
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Mind's ancient whispers,  
   Clash with cold rational light—  
   Beliefs flicker, change.
+
 coordinates: [51.5074, -0.1278]
 ---
 

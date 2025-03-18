@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-09-22
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: What Is Intellectual Humility?
-slug: study-of-the-day-what-is-intellectual-humility
-featured: false
-draft: false
+slug: what-is-intellectual-humility
+featured: False
+draft: False
 description: Explore the nuanced realm of intellectual humility, a vital virtue that balances curiosity and conviction, enhancing our understanding and discourse.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Balancing beliefs,  
   Curious of unseen flaws,  
   Virtue in thought blooms.
+
 coordinates: [51.509865, -0.118092]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-01-14
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: The Development of Forgiveness
-slug: grant-profile-the-development-of-forgiveness
-featured: false
-draft: false
+slug: the-development-of-forgiveness
+featured: False
+draft: False
 description: Studies shed light on how preschoolers recognize remorse in others and learn to forgive
 emoji: 🤝
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Mistakes stir guilt's voice,  
   Forgiveness heals, bonds renew,  
   Human grace flows deep.
+
 coordinates: [38.0336, -78.508]
 ---
 

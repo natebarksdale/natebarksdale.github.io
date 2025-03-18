@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2017-11-07
 modDatetime: 2025-03-17 15:44:51+00:00
 title: Expanding Science for Seminaries
-slug: grant-profile-expanding-science-for-seminaries
+slug: expanding-science-for-seminaries
 featured: False
 draft: False
 description: Equipping tomorrow’s clergy to discuss scientific findings and technological advances — and the big questions they raise

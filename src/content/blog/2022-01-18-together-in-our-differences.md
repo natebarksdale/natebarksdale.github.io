@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-01-18
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: ‘Together in Our Differences’
-slug: study-of-the-day-together-in-our-differences
-featured: false
-draft: false
+slug: together-in-our-differences
+featured: False
+draft: False
 description: New Pluralists are uniting activists, storytellers and funders to explore the paradox and promise of American diversity
 emoji: 🤝
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Diverse voices blend,  
   Conflicts weave through unity,  
   Hope dines at one table.
+
 coordinates: [37.0902, -95.7129]
 ---
 

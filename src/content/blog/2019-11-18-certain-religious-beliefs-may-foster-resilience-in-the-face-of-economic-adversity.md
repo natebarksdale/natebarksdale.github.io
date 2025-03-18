@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-11-18
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Certain Religious Beliefs May Foster Resilience in the Face of Economic Adversity
-slug: grant-profile-certain-religious-beliefs-may-foster-resilience-in-the-face-of-economic-adversity
-featured: false
-draft: false
+slug: certain-religious-beliefs-may-foster-resilience-in-the-face-of-economic-adversity
+featured: False
+draft: False
 description: Tilting a game’s odds in someone’s favor may increase their karmic beliefs
 emoji: 🙏
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Hard times stir deep faith,  
   Economic woes meet prayers,  
   Resilience blooms.
+
 coordinates: [38.0336, -78.508]
 ---
 

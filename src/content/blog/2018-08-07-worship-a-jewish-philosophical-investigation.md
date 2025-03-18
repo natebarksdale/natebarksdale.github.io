@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Worship - A Jewish Philosophical Investigation
-slug: grant-profile-worship-a-jewish-philosophical-investigation
-featured: false
-draft: false
+slug: worship-a-jewish-philosophical-investigation
+featured: False
+draft: False
 description: Practiced by billions of people but largely neglected by philosophers and social scientists, worship is ripe for a new wave of interdisciplinary study
 emoji: 🕍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Philosophic quest starts,  
   Worship's nature pondered deep,  
   Scholars gather thoughts.
+
 coordinates: [31.0461, 34.8516]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-14
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Creativity and Cooperation in the Dynamics of the Lexicon - from Lexis to Logos
-slug: grant-profile-creativity-and-cooperation-in-the-dynamics-of-the-lexicon-from-lexis-to-logos
-featured: false
-draft: false
+slug: creativity-and-cooperation-in-the-dynamics-of-the-lexicon-from-lexis-to-logos
+featured: False
+draft: False
 description: A word-by-word look at how we learn languages — and how we may change them in the process
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Words bloom like flowers,  
   Patterns weave through new lexicons,  
   Language endlessly grows.
+
 coordinates: [51.752, -1.2577]
 ---
 

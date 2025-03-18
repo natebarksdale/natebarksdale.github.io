@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-05-06
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Unfolding Quantum Intuition
-slug: grant-profile-unfolding-quantum-intuition
-featured: false
-draft: false
+slug: unfolding-quantum-intuition
+featured: False
+draft: False
 description: Citizen scientists are using gameplay to help scientists understand more about what makes us uniquely human.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Games guide through chaos,  
   Intuition and science blend,  
   New truths emerge clear.
+
 coordinates: [56.1629, 10.2039]
 ---
 

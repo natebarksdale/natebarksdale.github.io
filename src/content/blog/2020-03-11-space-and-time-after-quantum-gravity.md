@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-03-11
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: Space and Time After Quantum Gravity
-slug: grant-profile-space-and-time-after-quantum-gravity
-featured: false
-draft: false
+slug: space-and-time-after-quantum-gravity
+featured: False
+draft: False
 description: String theory, quantum loop gravity, and the philosophy of describing the indescribable
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Quantum threads weave space,  
   Beyond time’s firm grasp they float,  
   New cosmos whispers.
+
 coordinates: [41.8708, -87.6505]
 ---
 

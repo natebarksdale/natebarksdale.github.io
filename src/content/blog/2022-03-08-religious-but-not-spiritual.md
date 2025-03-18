@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-03-08
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: Religious but Not Spiritual
-slug: study-of-the-day-religious-but-not-spiritual
-featured: false
-draft: false
+slug: religious-but-not-spiritual
+featured: False
+draft: False
 description: Explore how "Never Have I Ever" blends humor with the complexities of Hindu identity in modern America, through the eyes of its vibrant protagonist, Devi.
 emoji: 🕌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Devi prays to gods,  
   Suburban altars gleam bright,  
   Cultural threads weave.
+
 coordinates: [34.1826, -118.4396]
 ---
 

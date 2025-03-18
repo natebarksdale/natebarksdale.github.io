@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-04-23
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Stanford Religious Liberty Clinic
-slug: grant-profile-stanford-religious-liberty-clinic
-featured: false
-draft: false
+slug: stanford-religious-liberty-clinic
+featured: False
+draft: False
 description: Discover how Stanford Law School's Religious Liberty Clinic, in partnership with the John Templeton Foundation, pioneers full-time legal education for defending and understanding religious freedoms.
 emoji: 🏛️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Liberty takes root,  
   Lawyers nurture sacred rights,  
   Faith blooms, unconfined.
+
 coordinates: [37.4275, -122.1697]
 ---
 

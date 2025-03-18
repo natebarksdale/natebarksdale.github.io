@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2018-03-26
 modDatetime: 2025-03-17
 title: Enhancing Student Purpose with the Middle School Ambassador Program
-slug: grant-profile-enhancing-student-purpose-with-the-middle-school-ambassador-program
+slug: enhancing-student-purpose-with-the-middle-school-ambassador-program
 featured: False
 draft: False
 description: When testing is not enough…helping students define their purpose

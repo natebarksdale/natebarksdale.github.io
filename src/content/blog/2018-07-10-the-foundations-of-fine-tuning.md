@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-10
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: The Foundations of Fine-Tuning
-slug: grant-profile-the-foundations-of-fine-tuning
-featured: false
-draft: false
+slug: the-foundations-of-fine-tuning
+featured: False
+draft: False
 description: Philosophy, physics, and the implications of an unlikely universe
 emoji: 🎲
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Royal flushes won,  
   Universes finely tuned,  
   Chance or design speaks?
+
 coordinates: [34.0224, -118.2851]
 ---
 

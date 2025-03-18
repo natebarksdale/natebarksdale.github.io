@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-04-05
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: ‘The Best Form of Self-Interest’
-slug: study-of-the-day-the-best-form-of-self-interest
-featured: false
-draft: false
+slug: the-best-form-of-self-interest
+featured: False
+draft: False
 description: Explore the profound acts of forgiveness within religious communities as they confront unfathomable tragedies with grace and compassion.
 emoji: 🕊️
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Amish hearts forgive,  
   Embrace the gunman's shadow,  
   Grace outshines the grief.
+
 coordinates: [39.997876, -76.063459]
 ---
 

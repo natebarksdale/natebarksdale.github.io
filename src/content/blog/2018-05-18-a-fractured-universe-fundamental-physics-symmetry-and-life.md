@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-05-18
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: A Fractured Universe – Fundamental Physics, Symmetry and Life
-slug: grant-profile-a-fractured-universe-fundamental-physics-symmetry-and-life
-featured: false
-draft: false
+slug: a-fractured-universe-fundamental-physics-symmetry-and-life
+featured: False
+draft: False
 description: Computer simulations may help tease apart why some aspects of our universe are symmetrical — and some aren’t
 emoji: 🌌
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Imperfect cosmos swirls,  
   Symmetries break, life emerges—  
   Universes dance.
+
 coordinates: [-33.8688, 150.6643]
 ---
 

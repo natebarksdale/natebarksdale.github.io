@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-12
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: How ‘Policing for Profit’ Disproportionately Affects Poor and Minority Groups
-slug: study-of-the-day-how-policing-for-profit-disproportionately-affects-poor-and-minority-groups
-featured: false
-draft: false
+slug: how-policing-for-profit-disproportionately-affects-poor-and-minority-groups
+featured: False
+draft: False
 description: Explore the impact of Philadelphia's civil forfeiture program, which targeted Black and low-income residents, revealing systemic injustices in asset seizure practices.
 emoji: 👮
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Seized homes, lives in shards,  
   Profit shadows justice's light,  
   Poor voices silenced.
+
 coordinates: [39.9526, -75.1652]
 ---
 

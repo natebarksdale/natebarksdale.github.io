@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-09-24
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Using Big Data to Quantify and Cultivate Genius
-slug: grant-profile-using-big-data-to-quantify-and-cultivate-genius
-featured: false
-draft: false
+slug: using-big-data-to-quantify-and-cultivate-genius
+featured: False
+draft: False
 description: Far from being solo achievers acknowledged for pure achievement, geniuses may be largely the products of their networks.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Data traces paths,  
   Seeking genius through the mist—  
   Nature or nurture?
+
 coordinates: [51.5074, -0.1278]
 ---
 

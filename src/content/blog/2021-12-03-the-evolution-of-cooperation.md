@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-12-03
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: The Evolution of Cooperation
-slug: study-of-the-day-the-evolution-of-cooperation
-featured: false
-draft: false
+slug: the-evolution-of-cooperation
+featured: False
+draft: False
 description: Explaining the evolution of cooperation — one of life’s most common, complex, and paradoxical phenomena
 emoji: 🤝
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cells unite as one,  
   Selfless acts weave strong bonds tight,  
   Nature's dance of trust.
+
 coordinates: [51.509865, -0.118092]
 ---
 

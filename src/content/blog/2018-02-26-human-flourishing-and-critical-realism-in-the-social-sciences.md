@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-02-26
-modDatetime: 2025-03-18T21:19:20Z
+modDatetime: 2025-03-18 21:19:20+00:00
 title: Human Flourishing and Critical Realism in the Social Sciences
-slug: grant-profile-human-flourishing-and-critical-realism-in-the-social-sciences
-featured: false
-draft: false
+slug: human-flourishing-and-critical-realism-in-the-social-sciences
+featured: False
+draft: False
 description: Building a network of young scholars to reconnect the social sciences with the big questions of human life and happiness
 emoji: 🌱
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Seeking human truths,  
   Science grapples with its soul—  
   Flourish or reduce.
+
 coordinates: [41.3083, -72.9279]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T21:19:21Z
+modDatetime: 2025-03-18 21:19:21+00:00
 title: Does Self-Giving Love Require an Evolutionary World? Evolutionary Theodicy in Light of the Mystical Tradition
-slug: grant-profile-does-self-giving-love-require-an-evolutionary-world-evolutionary-theodicy-in-light-of-the-mystical-tradition
-featured: false
-draft: false
+slug: does-self-giving-love-require-an-evolutionary-world-evolutionary-theodicy-in-light-of-the-mystical-tradition
+featured: False
+draft: False
 description: A harsh natural world may be a necessary condition for the practice of sacrificial love
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Evolution's dance,  
   Suffering seeds deep love's bloom,  
   God's mystery veiled.
+
 coordinates: [63.8258, 20.263]
 ---
 

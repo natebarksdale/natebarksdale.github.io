@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-10-07
-modDatetime: 2025-03-18T21:19:23Z
+modDatetime: 2025-03-18 21:19:23+00:00
 title: What Is Cultural Evolution?
-slug: study-of-the-day-what-is-cultural-evolution
-featured: false
-draft: false
+slug: what-is-cultural-evolution
+featured: False
+draft: False
 description: Explore how cultural evolution shapes societies and predicts future changes, from songbirds' trills to the spread of lactose tolerance.
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cultures shift and grow,  
   like songbirds' evolving trills—  
   genes weave through our past.
+
 coordinates: [1.2921, 36.8219]
 ---
 

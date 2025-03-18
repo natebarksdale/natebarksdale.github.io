@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-03-01
-modDatetime: 2025-03-18T21:19:22Z
+modDatetime: 2025-03-18 21:19:22+00:00
 title: One Million Years Ago, How Did Humans Think?
-slug: grant-profile-one-million-years-ago-how-did-humans-think
-featured: false
-draft: false
+slug: one-million-years-ago-how-did-humans-think
+featured: False
+draft: False
 description: Fossil digs and fMRIs offer new insights into the ways early humans lived and thought, more than a million years ago.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Ancient minds ponder,  
   Stone tools beneath starlit skies,  
   Brains evolve, wisdom rises.
+
 coordinates: [51.509865, -0.118092]
 ---
 
