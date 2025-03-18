@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-02-22
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T21:04:50Z
 title: New Project to Extend the Digital Reach of Classical Liberal Ideas
 slug: new-project-to-extend-the-digital-reach-of-classical-liberal-ideas
 featured: false
@@ -12,7 +12,7 @@ tags:
   - 🌀 Templeton
   - 🌐 Digital
   - 📊 Research
-  - 👩‍🏫 Education
+  - 🏫 Education
   - ⚖️ Ethics
 haiku: |
   Ideas weave through minds,  

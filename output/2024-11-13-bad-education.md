@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-11-13
-modDatetime: 2025-03-17T21:38:09Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Study of the Day | Bad Education
 slug: study-of-the-day-bad-education
 featured: false
@@ -10,7 +10,7 @@ description: Explore how self-discipline impacts educational outcomes and why it
 emoji: 📚
 tags:
   - 🌀 Templeton
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🧘‍♂️ Psychology
   - 📊 Research
 haiku: |

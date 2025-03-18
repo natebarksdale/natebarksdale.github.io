@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2022-05-13
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T21:04:50Z
 title: Study of the Day | The Dangerous Myth of the Male Breadwinner
 slug: study-of-the-day-the-dangerous-myth-of-the-male-breadwinner
 featured: false
@@ -11,7 +11,7 @@ emoji: 👨
 tags:
   - 🌀 Templeton
   - 🌍 Society
-  - 👩‍👧‍👦 Family
+  - � Family
   - ✝️ Christianity
 haiku: |
   Hunters in the past,  

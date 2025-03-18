@@ -12,7 +12,7 @@ tags:
   - 🌀 Templeton
   - 🧠 Psychology
   - 🥗 Virtue
-  - 👩‍🏫 Education
+  - 🏫 Education
 haiku: |
   Embrace the unknown,  
   In classrooms, humility—  

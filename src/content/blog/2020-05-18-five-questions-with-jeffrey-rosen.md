@@ -10,7 +10,7 @@ description: Explore how the National Constitution Center embraces remote educat
 emoji: 📝
 tags:
   - 🏛️ Government
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🌐 Digital
   - 📖 Articles
   - 🌀 Templeton

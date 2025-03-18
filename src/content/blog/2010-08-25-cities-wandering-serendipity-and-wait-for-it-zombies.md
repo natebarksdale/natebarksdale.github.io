@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-25
-modDatetime: 2010-08-25
+modDatetime: 2025-03-18T21:04:50Z
 title: Cities, wandering, serendipity and (wait for it) zombies
 slug: cities-wandering-serendipity-and-wait-for-it-zombies
 featured: false
@@ -11,7 +11,7 @@ emoji: 🧟‍♂️
 tags:
   - 🌍 Exploration
   - 🌀 Complexity
-  - 🕵️‍♂️ Identity
+  - 🕵 Identity
 haiku: |
   Zombies in hot pursuit,  
   Streets turn to paths unknown,  

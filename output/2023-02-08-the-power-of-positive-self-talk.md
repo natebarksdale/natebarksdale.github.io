@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-02-08
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T21:04:49Z
 title: Study of the Day | The Power of Positive Self-Talk
 slug: study-of-the-day-the-power-of-positive-self-talk
 featured: false
@@ -11,7 +11,7 @@ emoji: 🧠
 tags:
   - 🌀 Templeton
   - 🧘‍♂️ Psychology
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🧠 Psychology
 haiku: |
   Words shape our own minds,  

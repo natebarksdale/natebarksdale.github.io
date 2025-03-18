@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-01-28
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T21:04:50Z
 title: Training Faculty to Tackle the Big Questions of Today and Tomorrow
 slug: training-faculty-to-tackle-the-big-questions-of-today-and-tomorrow
 featured: false
@@ -10,7 +10,7 @@ description: A new round of fellowships will equip tenured philosophers and theo
 emoji: 🧠
 tags:
   - 🌀 Templeton
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🧠 Psychology
   - 🔍 Discoveries
 haiku: |

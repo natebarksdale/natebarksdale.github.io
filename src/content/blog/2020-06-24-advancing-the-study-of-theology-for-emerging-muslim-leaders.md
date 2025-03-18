@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-06-24
-modDatetime: 2025-03-17T21:39:20Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Advancing the Study of Theology for Emerging Muslim Leaders
 slug: advancing-the-study-of-theology-for-emerging-muslim-leaders
 featured: false
@@ -12,7 +12,7 @@ tags:
   - 🌀 Templeton
   - 🌙 Islam
   - ⛪ Religion
-  - 👩‍🏫 Education
+  - 🏫 Education
 haiku: |
   New seeds in old soil,  
   Scholars bridge faith and reason,  

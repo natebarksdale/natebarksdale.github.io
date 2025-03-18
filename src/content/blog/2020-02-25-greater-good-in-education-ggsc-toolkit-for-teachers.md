@@ -10,7 +10,7 @@ description: New website gives educators research-based practices for kinder, ha
 emoji: 🍎
 tags:
   - 🌀 Templeton
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🧠 Psychology
   - 🌐 Websites
 haiku: |

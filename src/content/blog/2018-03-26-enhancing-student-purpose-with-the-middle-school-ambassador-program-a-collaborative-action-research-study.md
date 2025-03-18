@@ -10,7 +10,7 @@ description: When testing is not enough…helping students define their purpose
 emoji: 🎓
 tags:
   - 🌀 Templeton
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🧠 Psychology
   - 🤝 Collaboration
 haiku: |

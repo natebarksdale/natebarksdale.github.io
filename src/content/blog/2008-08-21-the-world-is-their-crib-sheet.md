@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-21
-modDatetime: 2008-08-21
+modDatetime: 2025-03-18T21:04:50Z
 title: The world is their crib sheet
 slug: the-world-is-their-crib-sheet
 featured: false
@@ -10,7 +10,7 @@ description: A Sydney school is innovating exams by allowing online resources an
 emoji: 📱
 tags:
   - 🇦🇺 Australia
-  - 👩‍🏫 Education
+  - 🏫 Education
   - ⚖️ Choices
   - ⚖️ Ethics
 haiku: |

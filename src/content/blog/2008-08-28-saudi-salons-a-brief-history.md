@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-17T21:38:23Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Saudi salons - a brief history
 slug: saudi-salons-a-brief-history
 featured: false
@@ -10,7 +10,7 @@ description: Eman Al Nafjan explores the intriguing evolution of Saudi Arabian h
 emoji: ✂️
 tags:
   - 🌍 Culture
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🎉 Celebration
 haiku: |
   From fabric to style,  

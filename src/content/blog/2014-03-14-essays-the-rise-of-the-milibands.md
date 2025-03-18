@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-14
-modDatetime: 2025-03-17T21:39:16Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Essays | The Rise of the Milibands
 slug: essays-the-rise-of-the-milibands
 featured: false
@@ -12,7 +12,7 @@ tags:
   - 🇬🇧 London
   - 🗳️ Elections
   - 🤝 Families
-  - 👨‍👦 Parents
+  - 👪 Parents
 haiku: |
   Brothers in the fray,  
   Shadows cast on leadership,  

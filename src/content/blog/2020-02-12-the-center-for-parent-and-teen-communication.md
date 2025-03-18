@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-12
-modDatetime: 2025-03-18T17:45:11Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Grant Profile | The Center for Parent and Teen Communication
 slug: grant-profile-the-center-for-parent-and-teen-communication
 featured: false
@@ -11,7 +11,7 @@ emoji: 👪
 tags:
   - 🌀 Templeton
   - 👦 Teenagers
-  - 👨‍👦 Parents
+  - � Parents
   - 💬 Communication
 haiku: |
   Teen spirit blossoms,  

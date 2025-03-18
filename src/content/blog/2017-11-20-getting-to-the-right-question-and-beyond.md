@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-11-20
-modDatetime: 2025-03-18T16:35:35Z
+modDatetime: 2025-03-18T21:04:50Z
 title: Getting to the Right Question — and Beyond
 slug: getting-to-the-right-question-and-beyond
 featured: false
@@ -10,7 +10,7 @@ description: Can a creative technique that works for third-graders help grad stu
 emoji: 🤔
 tags:
   - 🌀 Templeton
-  - 👩‍🏫 Education
+  - 🏫 Education
   - 🔍 Discoveries
   - 📊 Research
 haiku: |
