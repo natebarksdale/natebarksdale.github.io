@@ -130,6 +130,7 @@ p:not(:last-child)::after {
     font-size: 85% !important; /* Slightly larger than current 70% */
     padding: 0.2em 0.4em !important; /* More padding for better readability */
     border-radius: 0.25rem !important; /* Rounded corners */
+  }
   code .copy-code {display:hidden;}
 
   .prose strong {font-size:70%;}
