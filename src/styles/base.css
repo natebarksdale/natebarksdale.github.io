@@ -376,12 +376,12 @@ blockquote[data-llm] p:empty {
 
 /* ChatGPT - Grey theme */
 blockquote[data-llm="ChatGPT"] {
-  background-color: rgba(144, 144, 144, 0.1); /* 10% of theme color */
+  background-color: rgba(229,231,235, 0.25); /* 10% of theme color */
 }
 
 
 blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
-  background-color: rgba(144, 144, 144, 0.25) !important; /* 25% of theme color */
+  background-color: rgba(229,231,235, 1) !important; /* 25% of theme color */
   color: rgb(30, 30, 30) !important;
 }
 
@@ -470,7 +470,7 @@ blockquote[data-llm] .llm-header {
 
 /* purgecss: ignore next */
 blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(144, 144, 144) !important; /* 100% theme color */
+  color: rgb(60, 60, 61) !important; /* 100% theme color */
 }
 
 blockquote[data-llm="Llama"] .llm-header {
