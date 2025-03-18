@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-08-21
+modDatetime: 2025-03-18T14:08:05Z
 title: Grant Profile | Special Issue and Sections in ‘The New Atlantis’ Dedicated to Big Questions
 slug: grant-profile-special-issue-and-sections-in-the-new-atlantis-dedicated-to-big-questions
 featured: false

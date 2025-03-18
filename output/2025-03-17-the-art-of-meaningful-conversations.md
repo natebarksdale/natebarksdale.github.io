@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2019-02-22
+modDatetime: 2025-03-18T14:08:05Z
 title: Grant Profile | The Art of Meaningful Conversations
 slug: grant-profile-the-art-of-meaningful-conversations
 featured: false

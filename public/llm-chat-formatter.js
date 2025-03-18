@@ -11,6 +11,9 @@ function processLLMChats() {
   const blockquotes = document.querySelectorAll("blockquote");
 
   blockquotes.forEach(blockquote => {
+    // Skip if already processed
+    if (blockquote.hasAttribute("data-processed")) return;
+
     // Get all paragraphs
     const paragraphs = blockquote.querySelectorAll("p");
     if (!paragraphs.length) return;
@@ -19,12 +22,12 @@ function processLLMChats() {
     const firstP = paragraphs[0];
     const textContent = firstP.textContent.trim();
 
-    // Match the format "{ChatGPT}" exactly as you showed
+    // Match the format "{ChatGPT}" exactly
     const llmMatch = textContent.match(/^{([^}]+)}$/);
 
     let hasQAFormat = false;
 
-    // Check if any paragraph has Q/A format even without LLM specified
+    // Check if any paragraph has Q/A format
     for (let i = 0; i < paragraphs.length; i++) {
       const pText = paragraphs[i].textContent.trim();
       if (pText.match(/^{[QA]}/)) {
@@ -49,12 +52,12 @@ function processLLMChats() {
       // Insert the header at the beginning of the blockquote
       blockquote.insertBefore(header, blockquote.firstChild);
 
-      // Process Q/A format including code blocks
+      // Process Q/A format
       processQAFormat(blockquote);
 
       console.log(`Processed LLM chat: ${llmName}`);
     } else if (hasQAFormat) {
-      // This is a Q/A format without specified LLM - apply Generic style
+      // Generic LLM style
       blockquote.setAttribute("data-llm", "Generic");
 
       // Create a header for Generic LLM
@@ -65,64 +68,84 @@ function processLLMChats() {
       // Insert the header at the beginning of the blockquote
       blockquote.insertBefore(header, blockquote.firstChild);
 
-      // Process Q/A format including code blocks
+      // Process Q/A format
       processQAFormat(blockquote);
 
       console.log("Processed Generic LLM chat");
     }
+
+    // Mark as processed to avoid repeated processing
+    blockquote.setAttribute("data-processed", "true");
   });
 }
 
-// Enhanced function to process Q/A format that handles code blocks properly
+// Process Q/A format with improved code block handling
 function processQAFormat(blockquote) {
-  // Process paragraphs for Q/A patterns
-  const paragraphs = blockquote.querySelectorAll("p");
+  const paragraphs = Array.from(blockquote.querySelectorAll("p"));
+
   let currentRole = null;
-  let currentParagraph = null;
 
-  paragraphs.forEach(p => {
-    const pText = p.textContent.trim();
+  // First pass: identify roles
+  for (let i = 0; i < paragraphs.length; i++) {
+    const p = paragraphs[i];
+    const text = p.textContent.trim();
 
-    // Match the format "{Q}Text" or "{A}Text" exactly
-    const qaMatch = pText.match(/^{([QA])}(.*)/);
+    // Check for Q/A markers
+    const qaMatch = text.match(/^{([QA])}/);
 
     if (qaMatch) {
-      // Start of a new Q or A section
+      // New Q/A section
       currentRole = qaMatch[1];
-      currentParagraph = p;
-
       p.setAttribute("data-role", currentRole);
-      // Remove the {Q} or {A} from the beginning
-      p.innerHTML = p.innerHTML.replace(/^{[QA]}/, "");
-    } else if (currentRole && currentParagraph) {
-      // This paragraph continues the previous Q/A section and isn't a role marker
-      // Check if this is a non-code paragraph that should be merged
-      if (!p.querySelector("pre") && !currentParagraph.querySelector("pre")) {
-        // Merge with previous paragraph of same role
-        currentParagraph.innerHTML += "<br><br>" + p.innerHTML;
-        p.remove();
-      } else {
-        // This paragraph contains a code block or follows one
-        // Set the same role as the current Q/A section
-        p.setAttribute("data-role", currentRole);
+
+      // Remove the {Q} or {A} prefix
+      p.innerHTML = p.innerHTML.replace(/^{[QA]}/, "").trim();
+    }
+  }
+
+  // Second pass: ensure code blocks are inside their parent Q/A paragraph
+  const codeBlocks = blockquote.querySelectorAll("pre");
+
+  codeBlocks.forEach(codeBlock => {
+    const parentP = codeBlock.closest("p");
+
+    // If code block's parent doesn't have a role, it might be a standalone block
+    if (parentP && !parentP.hasAttribute("data-role")) {
+      // Find the nearest preceding paragraph with a role
+      let prevSibling = parentP.previousElementSibling;
+      while (prevSibling && !prevSibling.hasAttribute("data-role")) {
+        prevSibling = prevSibling.previousElementSibling;
+      }
+
+      if (prevSibling) {
+        const role = prevSibling.getAttribute("data-role");
+
+        // Move this code block into the previous role paragraph
+        prevSibling.appendChild(document.createElement("br"));
+        prevSibling.appendChild(codeBlock);
+
+        // Remove the now-empty paragraph
+        if (parentP.textContent.trim() === "") {
+          parentP.remove();
+        }
       }
     }
   });
 
-  // Make sure code blocks are properly contained within their parent Q/A paragraphs
-  blockquote.querySelectorAll("pre").forEach(pre => {
-    const parentP = pre.closest("p");
-    if (parentP && !parentP.hasAttribute("data-role")) {
-      // Find the nearest previous paragraph with a role
-      let prevP = parentP.previousElementSibling;
-      while (prevP && !prevP.hasAttribute("data-role")) {
-        prevP = prevP.previousElementSibling;
-      }
+  // Final cleanup: remove empty paragraphs and set width
+  blockquote.querySelectorAll("p").forEach(p => {
+    if (p.textContent.trim() === "" && !p.querySelector("pre")) {
+      p.remove();
+    }
 
-      if (prevP) {
-        // Set the same role as the previous paragraph
-        const role = prevP.getAttribute("data-role");
-        parentP.setAttribute("data-role", role);
+    // Make Q bubbles fit their content
+    if (p.getAttribute("data-role") === "Q") {
+      // Count number of line breaks to determine if multi-line
+      const textContent = p.innerHTML;
+      const lineBreakCount = (textContent.match(/<br>/g) || []).length;
+
+      if (lineBreakCount === 0 && !p.querySelector("pre")) {
+        p.style.width = "max-content";
       }
     }
   });

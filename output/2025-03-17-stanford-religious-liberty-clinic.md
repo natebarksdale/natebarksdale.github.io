@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-04-23
+modDatetime: 2025-03-18T14:08:05Z
 title: Grant Profile | Stanford Religious Liberty Clinic
 slug: grant-profile-stanford-religious-liberty-clinic
 featured: false

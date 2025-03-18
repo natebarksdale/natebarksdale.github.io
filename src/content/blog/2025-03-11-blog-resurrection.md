@@ -185,7 +185,7 @@ Other LLM formats:
 >
 > {A}No problem!
 
-> {Deepseek}
+> {DeepSeek}
 >
 > {Q}What's a cool name for my dog?
 >
@@ -195,110 +195,100 @@ Other LLM formats:
 >
 > {A}No problem!
 
+## LLM Chat Markdown Format - Example
+
+````markdown
 > {ChatGPT}
-> {Q}How would I create a simple React component that displays a counter?
+> {Q}How do I add a code block to my Python project?
 >
-> {A}Here's a simple React counter component:
+> {A}You can add a code block to a Python project by following these steps:
 >
-> ```jsx
-> import React, { useState } from "react";
+> ```python
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 >
-> function Counter() {
->   const [count, setCount] = useState(0);
->
->   return (
->     <div className="counter">
->       <h2>Count: {count}</h2>
->       <button onClick={() => setCount(count - 1)}>-</button>
->       <button onClick={() => setCount(count + 1)}>+</button>
->       <button onClick={() => setCount(0)}>Reset</button>
->     </div>
->   );
-> }
->
-> export default Counter;
+> # Call the function
+> hello_world()
 > ```
 >
-> You can use this component in your app by importing it and adding it to your JSX:
+> Make sure to indent your code properly as Python is whitespace-sensitive.
 >
-> ```jsx
-> import Counter from "./Counter";
+> {Q}What about adding comments to my code?
 >
-> function App() {
->   return (
->     <div className="app">
->       <h1>My Counter App</h1>
->       <Counter />
->     </div>
->   );
-> }
+> {A}Python supports both single-line and multi-line comments:
+>
+> ```python
+> # This is a single-line comment
+>
+> """
+> This is a multi-line comment or docstring
+> that can span multiple lines of text
+> """
+>
+> def my_function():
+>     """This is a function docstring."""
+>     # This comment explains the next line
+>     return True
 > ```
 >
-> {Q}That looks great! Can I style the buttons to look better?
->
-> {A}Absolutely! Here's the same component with some added styling:
->
-> ```jsx
-> import React, { useState } from "react";
-> import "./Counter.css"; // We'll create this file next
->
-> function Counter() {
->   const [count, setCount] = useState(0);
->
->   return (
->     <div className="counter">
->       <h2>Count: {count}</h2>
->       <div className="counter-buttons">
->         <button onClick={() => setCount(count - 1)}>-</button>
->         <button onClick={() => setCount(count + 1)}>+</button>
->         <button className="reset-button" onClick={() => setCount(0)}>
->           Reset
->         </button>
->       </div>
->     </div>
->   );
-> }
->
-> export default Counter;
-> ```
->
-> And here's the CSS file (Counter.css):
->
-> ```css
-> .counter {
->   display: flex;
->   flex-direction: column;
->   align-items: center;
->   padding: 1rem;
->   border-radius: 8px;
->   background-color: #f8f9fa;
->   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-> }
->
-> .counter-buttons {
->   display: flex;
->   gap: 0.5rem;
-> }
->
-> button {
->   padding: 0.5rem 1rem;
->   border: none;
->   border-radius: 4px;
->   background-color: #0d6efd;
->   color: white;
->   cursor: pointer;
->   transition: background-color 0.2s;
-> }
->
-> button:hover {
->   background-color: #0b5ed7;
-> }
->
-> .reset-button {
->   background-color: #6c757d;
-> }
->
-> .reset-button:hover {
->   background-color: #5c636a;
-> }
-> ```
+> Good comments explain why rather than what the code is doing.
+````
+
+## Important Format Rules
+
+1. Start with `> {ModelName}` (e.g., `> {ChatGPT}`, `> {Claude}`)
+2. Each message starts with `> {Q}` or `> {A}`
+3. Separate messages with a blank line containing only `>`
+4. Place code blocks _directly after_ the text they belong to, without blank lines
+5. Start every line (including code) with `>`
+6. Use standard code block syntax: triple backticks with language name
+
+## Troubleshooting
+
+If your code isn't appearing correctly in chat bubbles:
+
+1. Check that the code block appears immediately after text (no blank line)
+2. Verify that every line of the code block starts with `>`
+3. Make sure the CSS changes are properly applied to your theme
+4. Check browser console for any JavaScript errors
+   > .counter {
+   > display: flex;
+   > flex-direction: column;
+   > align-items: center;
+   > padding: 1rem;
+   > border-radius: 8px;
+   > background-color: #f8f9fa;
+   > box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   > }
+   >
+   > .counter-buttons {
+   > display: flex;
+   > gap: 0.5rem;
+   > }
+   >
+   > button {
+   > padding: 0.5rem 1rem;
+   > border: none;
+   > border-radius: 4px;
+   > background-color: #0d6efd;
+   > color: white;
+   > cursor: pointer;
+   > transition: background-color 0.2s;
+   > }
+   >
+   > button:hover {
+   > background-color: #0b5ed7;
+   > }
+   >
+   > .reset-button {
+   > background-color: #6c757d;
+   > }
+   >
+   > .reset-button:hover {
+   > background-color: #5c636a;
+   > }
+   >
+   > ```
+   >
+   > ```
