@@ -433,11 +433,14 @@ function injectLLMChatStyles() {
         max-width: 70% !important;
         border-radius: 18px 18px 4px 18px !important;
         color: rgb(30, 30, 30) !important;
+        background-color: rgba(229, 231, 235, 0.9)
         width: auto !important;
       }
       
       /* Model-specific Q bubble colors - darker for better contrast */
-      blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
+      blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble,
+      blockquote[data-llm="chatgpt"] .chat-bubble.q-bubble,
+      blockquote[data-llm="Chatgpt"] .chat-bubble.q-bubble,  {
         background-color: rgba(229, 231, 235, 0.9) !important;
       }
       
