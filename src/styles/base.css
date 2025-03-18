@@ -387,25 +387,42 @@ blockquote[data-llm] .llm-header {
   line-height: 1.2;
 }
 
-/* Header colors for different LLMs */
-blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(60, 60, 61); /* 100% theme color */
+/* Header styling for each LLM type - case insensitive via CSS attribute selectors */
+blockquote[data-llm="ChatGPT"] .llm-header,
+blockquote[data-llm="Chatgpt"] .llm-header,
+blockquote[data-llm="chatgpt"] .llm-header {
+  color: rgb(60, 60, 61) !important;
 }
 
-blockquote[data-llm="Claude"] .llm-header {
-  color: rgb(218, 119, 86); /* 100% theme color */
+blockquote[data-llm="Claude"] .llm-header,
+blockquote[data-llm="claude"] .llm-header {
+  color: rgb(218, 119, 86) !important;
 }
 
-blockquote[data-llm="Mistral"] .llm-header {
-  color: rgb(209, 69, 59); /* 100% theme color */
+blockquote[data-llm="Mistral"] .llm-header,
+blockquote[data-llm="mistral"] .llm-header {
+  color: rgb(209, 69, 59) !important;
 }
 
-blockquote[data-llm="Gemini"] .llm-header {
-  color: rgb(75, 135, 226); /* 100% theme color */
+blockquote[data-llm="Gemini"] .llm-header,
+blockquote[data-llm="gemini"] .llm-header {
+  color: rgb(75, 135, 226) !important;
 }
 
-blockquote[data-llm="Generic"] .llm-header {
-  color: rgb(80, 80, 95); /* Slightly bluer gray to distinguish */
+blockquote[data-llm="Llama"] .llm-header,
+blockquote[data-llm="llama"] .llm-header {
+  color: rgb(153, 102, 255) !important;
+}
+
+blockquote[data-llm="DeepSeek"] .llm-header,
+blockquote[data-llm="Deepseek"] .llm-header,
+blockquote[data-llm="deepseek"] .llm-header {
+  color: rgb(87, 112, 199) !important;
+}
+
+blockquote[data-llm="Generic"] .llm-header,
+blockquote[data-llm="generic"] .llm-header {
+  color: rgb(80, 80, 95) !important;
 }
 
 /* Essential message container styling */
@@ -539,25 +556,42 @@ blockquote[data-llm] .chat-bubble pre code {
   }
   
   /* LLM-specific header colors */
-  blockquote[data-llm="ChatGPT"] .llm-header {
-    color: rgb(60, 60, 61) !important;
-  }
-  
-  blockquote[data-llm="Claude"] .llm-header {
-    color: rgb(218, 119, 86) !important;
-  }
-  
-  blockquote[data-llm="Mistral"] .llm-header {
-    color: rgb(209, 69, 59) !important;
-  }
-  
-  blockquote[data-llm="Gemini"] .llm-header {
-    color: rgb(75, 135, 226) !important;
-  }
-  
-  blockquote[data-llm="Generic"] .llm-header {
-    color: rgb(80, 80, 95) !important;
-  }
+  blockquote[data-llm="ChatGPT"] .llm-header,
+blockquote[data-llm="Chatgpt"] .llm-header,
+blockquote[data-llm="chatgpt"] .llm-header {
+  color: rgb(60, 60, 61) !important;
+}
+
+blockquote[data-llm="Claude"] .llm-header,
+blockquote[data-llm="claude"] .llm-header {
+  color: rgb(218, 119, 86) !important;
+}
+
+blockquote[data-llm="Mistral"] .llm-header,
+blockquote[data-llm="mistral"] .llm-header {
+  color: rgb(209, 69, 59) !important;
+}
+
+blockquote[data-llm="Gemini"] .llm-header,
+blockquote[data-llm="gemini"] .llm-header {
+  color: rgb(75, 135, 226) !important;
+}
+
+blockquote[data-llm="Llama"] .llm-header,
+blockquote[data-llm="llama"] .llm-header {
+  color: rgb(153, 102, 255) !important;
+}
+
+blockquote[data-llm="DeepSeek"] .llm-header,
+blockquote[data-llm="Deepseek"] .llm-header,
+blockquote[data-llm="deepseek"] .llm-header {
+  color: rgb(87, 112, 199) !important;
+}
+
+blockquote[data-llm="Generic"] .llm-header,
+blockquote[data-llm="generic"] .llm-header {
+  color: rgb(80, 80, 95) !important;
+}
   
   /* Critical: chat container must be flex */
   blockquote[data-llm] .chat-container {
@@ -739,34 +773,41 @@ blockquote[data-llm] .llm-header {
 }
 
 /* purgecss: ignore next */
-blockquote[data-llm="ChatGPT"] .llm-header {
-  color: rgb(60, 60, 61) !important; /* 100% theme color */
+blockquote[data-llm="ChatGPT"] .llm-header,
+blockquote[data-llm="Chatgpt"] .llm-header,
+blockquote[data-llm="chatgpt"] .llm-header {
+  color: rgb(60, 60, 61) !important;
 }
 
-blockquote[data-llm="Llama"] .llm-header {
-  color: rgb(153, 102, 255) !important; /* 100% theme color */
+blockquote[data-llm="Claude"] .llm-header,
+blockquote[data-llm="claude"] .llm-header {
+  color: rgb(218, 119, 86) !important;
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="DeepSeek"] .llm-header {
-  color: rgb(87, 112, 199) !important; /* 100% theme color */
+blockquote[data-llm="Mistral"] .llm-header,
+blockquote[data-llm="mistral"] .llm-header {
+  color: rgb(209, 69, 59) !important;
 }
 
-/* purgecss: ignore next */
-blockquote[data-llm="Claude"] .llm-header {
-  color: rgb(218, 119, 86) !important; /* 100% theme color */
+blockquote[data-llm="Gemini"] .llm-header,
+blockquote[data-llm="gemini"] .llm-header {
+  color: rgb(75, 135, 226) !important;
 }
-/* purgecss: ignore next */
-blockquote[data-llm="Mistral"] .llm-header {
-  color: rgb(209, 69, 59) !important; /* 100% theme color */
+
+blockquote[data-llm="Llama"] .llm-header,
+blockquote[data-llm="llama"] .llm-header {
+  color: rgb(153, 102, 255) !important;
 }
-/* purgecss: ignore next */
-blockquote[data-llm="Llama"] .llm-header {
-  color: rgb(153, 102, 255) !important; /* 100% theme color */
+
+blockquote[data-llm="DeepSeek"] .llm-header,
+blockquote[data-llm="Deepseek"] .llm-header,
+blockquote[data-llm="deepseek"] .llm-header {
+  color: rgb(87, 112, 199) !important;
 }
-/* purgecss: ignore next */
-blockquote[data-llm="Gemini"] .llm-header {
-  color: rgb(75, 135, 226) !important; /* 100% theme color */
+
+blockquote[data-llm="Generic"] .llm-header,
+blockquote[data-llm="generic"] .llm-header {
+  color: rgb(80, 80, 95) !important;
 }
 
 /* Header styling for Generic LLM */
