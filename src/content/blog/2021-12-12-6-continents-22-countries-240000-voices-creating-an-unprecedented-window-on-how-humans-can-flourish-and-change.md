@@ -20,7 +20,7 @@ haiku: |
 coordinates: [31.5497, -97.1143]
 ---
 
-For the John Templeton Foundation, I wrote about a groundbreaking study investigating the dynamic interplay of well-being factors across global populations.
+For the John Templeton Foundation, I wrote about a study investigating the interplay of well-being factors across global populations.
 
 > How and why do people’s happiness, health, purpose, faith, virtue, and relationships change over the course of their lives? How do these aspects of what it means to be human vary within cultures and across countries? An ambitious multi-year, worldwide study will track 240,000 adults and teens in 22 countries to give researchers an unprecedented window into human well-being, providing data to answer those questions and many others. The Global Flourishing Study (GFS) will afford social scientists new opportunities to investigate questions about how love, generosity, forgiveness, religion, spirituality, and well-being change and interact across a broad array of human cultures and demographics.
 >

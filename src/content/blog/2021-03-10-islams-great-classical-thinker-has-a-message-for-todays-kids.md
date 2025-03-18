@@ -21,7 +21,7 @@ haiku: |
 coordinates: [52.4862, -1.8904]
 ---
 
-For the John Templeton Foundation, I wrote about how ancient wisdom from a celebrated Islamic thinker is being used to nurture virtue among children today.
+For the John Templeton Foundation, I wrote about the Ghazali Children's Project.
 
 > At a school in Birmingham, England, children take a handful of sand and let it slip through their fingers and onto the floor. This, they learn, represents how hard it is to take back something that has been said. In rural Pakistan, children float overladen paper boats in a trough, watching how they eventually turn over and sink. This illustrates how nothing remains with us after death except the state of our hearts. In Singapore, students color golden hearts flecked with smudges. This, they learn, is a sign of how innate goodness can be covered up by wrong actions, and then re-polished to shine.
 >

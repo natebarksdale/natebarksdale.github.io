@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote an exploration into the mysterious endurance of cooperative behavior across species.
+For the John Templeton Foundation, I wrote an exploration of cooperative behavior across species.
 
 > It’s easy to take cooperation for granted. Children team up to complete a project on time. Neighbors help each other mend fences. Colleagues share ideas and resources. The very fabric of human society depends upon working together. Cooperation is also ubiquitous in the natural world: lions collaborate on hunts, flowers share nectar with bees, and even bacteria produce essential resources that benefit their neighbors. But cooperation goes beyond mere *quid pro qu*o — mutual aid for mutual benefit — and also takes the form of extreme self-denial. Worker ants give up reproduction to help their colony, and humans’ very bodies – like the bodies of all multicellular organisms – are the product of cooperative self-sacrifice. In a sense, all forty trillion cells in the human body sacrifice themselves in order for the few sperm or egg cells to pass on. This sort of cooperation presents a profound puzzle that dates back to Darwin: if traits persist or disappear according to their contributions to reproductive fitness, why would a trait — like resource-sharing or self-sacrificial behavior — that could reduce or eliminate an organism’s reproductive ability ever manage to stick around?
 >
