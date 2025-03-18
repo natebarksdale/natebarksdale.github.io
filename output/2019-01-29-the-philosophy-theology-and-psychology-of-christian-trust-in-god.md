@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-29
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | The Philosophy, Theology, and Psychology of Christian Trust in God
 slug: grant-profile-the-philosophy-theology-and-psychology-of-christian-trust-in-god
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [42.3355, -71.1685]
 ---
 
-For the John Templeton Foundation, I wrote about the intricate interplay of belief and trust in the Christian understanding of faith in God.
+For the John Templeton Foundation, I wrote about the interplay of belief and trust in the Christian understanding of faith.
 
 > When negotiating nuclear disarmament deals with the Soviet Union, Ronald Reagan was fond of quoting a Russian proverb that said, “Trust, but verify.” The paradox inherent in that statement hints at some of the complexity of trust — are you really trusting someone if you also ask for outside verification? When trust takes on a religious dimension, the complexities multiply. Is trust in God the same as the trust that occurs between individuals? Is it equivalent to (or does it even require) unwavering belief?
 >

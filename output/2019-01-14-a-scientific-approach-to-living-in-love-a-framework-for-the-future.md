@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-14
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | A Scientific Approach to Living in Love
 slug: grant-profile-a-scientific-approach-to-living-in-love-a-framework-for-the-future
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [35.9049, -79.0469]
 ---
 
-For the John Templeton Foundation, I wrote about bridging methodologies in love research to enhance our understanding of romantic relationships.
+For the John Templeton Foundation, I wrote about love scholars.
 
 > As a scholar of love, University of North Carolina social psychologist Sara Algoe studies the links between emotions, relationships and health to understand what makes for high-quality romantic bonds. As she studies the nature of love, she’s also become something of a matchmaker in her field, working to connect sociologists, psychologists, and other scientists who study love.  Algoe believes that it’s essential to share their approaches, insights, and data in order to help increase our understanding of what love is and how it works.
 >

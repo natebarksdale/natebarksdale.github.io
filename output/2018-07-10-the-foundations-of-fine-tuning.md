@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-10
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:42Z
 title: Grant Profile | The Foundations of Fine-Tuning
 slug: grant-profile-the-foundations-of-fine-tuning
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [34.0224, -118.2851]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing implications of seemingly impossible cosmic coincidences.
+For the John Templeton Foundation, I wrote about the implications of seemingly impossible cosmic coincidences.
 
 > A woman enters a casino, sits down at a high-stakes poker table, and draws a royal flush. She cashes in her winnings, walks to the casino next door, and does the same thing. Then she goes to a third casino and draws a third royal flush. What is a dispassionate observer to make of this scenario? Is it merely a highly improbable occurrence (although no more improbable — just more lucrative — than drawing the same losing hand three times over)? Casinos may believe that in general one person in a thousand is a cheater while the rest play with random hands. But the fact of our player’s lucky streak should significantly shift the likelihood that the alternative ‘cheater’ hypothesis is correct.
 >

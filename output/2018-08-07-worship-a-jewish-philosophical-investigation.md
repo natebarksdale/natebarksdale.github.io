@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T13:56:40Z
+modDatetime: 2025-03-18T17:28:42Z
 title: Grant Profile | Worship - A Jewish Philosophical Investigation
 slug: grant-profile-worship-a-jewish-philosophical-investigation
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [31.0461, 34.8516]
 ---
 
-For the John Templeton Foundation, I wrote about the surprisingly sparse philosophical exploration of Jewish worship.
+For the John Templeton Foundation, I wrote about Jewish philosophy.
 
 > When philosophers Aaron Segal and Sam Lebens set out to compile a comprehensive list of philosophical treatments of religious worship, they were surprised at just how little they found. “If you compile a bibliography on nearly any other concept in the philosophy of religion, it’ll have hundreds or thousands of entries,” Segal says. Their bibliography on the philosophy of worship turned up a mere 13 entries. “You just have a dearth of material, but it’s not for want of interesting questions. It’s just something that seems to be crying out for philosophical investigation.”
 >

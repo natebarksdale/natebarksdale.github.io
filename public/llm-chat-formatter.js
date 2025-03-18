@@ -1,4 +1,4 @@
-// Enhanced LLM Chat Formatter with Model-Specific Q Bubbles
+// Refined LLM Chat Formatter with Model-Specific Q Bubbles
 // and Improved Layout Flexibility
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -142,7 +142,12 @@ function formatLLMChats() {
         }
       } else if (el.tagName === "PRE" && currentBubble) {
         // Add code block to current message
-        currentBubble.appendChild(el.cloneNode(true));
+        const codeBlock = el.cloneNode(true);
+
+        // Add copy button to code blocks
+        addCopyButtonToCodeBlock(codeBlock);
+
+        currentBubble.appendChild(codeBlock);
       }
     }
 
@@ -155,7 +160,14 @@ function formatLLMChats() {
       let wasProcessed = false;
 
       for (const processedBlock of processedCodeBlocks) {
-        if (processedBlock.innerHTML === block.element.innerHTML) {
+        // Check if the content matches (excluding the copy button)
+        const processedContent = processedBlock.innerHTML.replace(
+          /<button.*?<\/button>/g,
+          ""
+        );
+        const blockContent = block.element.innerHTML;
+
+        if (processedContent === blockContent) {
           wasProcessed = true;
           break;
         }
@@ -163,7 +175,9 @@ function formatLLMChats() {
 
       if (!wasProcessed && currentBubble) {
         // Add this code block to the most recent bubble
-        currentBubble.appendChild(block.element);
+        const codeBlock = block.element.cloneNode(true);
+        addCopyButtonToCodeBlock(codeBlock);
+        currentBubble.appendChild(codeBlock);
       }
     }
 
@@ -184,6 +198,46 @@ function formatLLMChats() {
 
     console.log("Completed formatting chat");
   });
+}
+
+// Helper function to add copy button to code blocks
+function addCopyButtonToCodeBlock(codeBlock) {
+  const copyBtn = document.createElement("button");
+  copyBtn.className = "copy-code-btn";
+  copyBtn.textContent = "Copy";
+  copyBtn.setAttribute("aria-label", "Copy code to clipboard");
+
+  // Add click event to copy the code
+  copyBtn.addEventListener("click", function () {
+    // Get the code text without the button
+    const code = codeBlock.textContent;
+
+    // Copy to clipboard
+    navigator.clipboard
+      .writeText(code)
+      .then(() => {
+        // Success feedback
+        const originalText = copyBtn.textContent;
+        copyBtn.textContent = "Copied!";
+
+        // Reset after 2 seconds
+        setTimeout(() => {
+          copyBtn.textContent = originalText;
+        }, 2000);
+      })
+      .catch(err => {
+        console.error("Failed to copy code: ", err);
+        copyBtn.textContent = "Error";
+
+        // Reset after 2 seconds
+        setTimeout(() => {
+          copyBtn.textContent = "Copy";
+        }, 2000);
+      });
+  });
+
+  // Add to the beginning of the code block so it appears at the top
+  codeBlock.insertBefore(copyBtn, codeBlock.firstChild);
 }
 
 // Style injector function
@@ -231,7 +285,7 @@ function injectLLMChatStyles() {
     background-color: rgba(240, 240, 245, 0.25) !important;
   }
   
-  /* Header styling */
+  /* Header styling - no background */
   blockquote[data-llm] .llm-header {
     font-family: 'IBM Plex Mono', monospace !important;
     font-size: 80% !important;
@@ -256,9 +310,8 @@ function injectLLMChatStyles() {
     top: 8px !important;
     left: 14px !important;
     padding: 4px 8px !important;
-    background-color: rgba(255, 255, 255, 0.9) !important;
     border-radius: 12px !important;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+    /* No background or box-shadow */
   }
   
   /* LLM-specific header colors */
@@ -312,25 +365,25 @@ function injectLLMChatStyles() {
     width: auto !important;
   }
   
-  /* Model-specific Q bubble colors */
+  /* Model-specific Q bubble colors - darker for better contrast */
   blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
     background-color: rgba(229, 231, 235, 0.9) !important;
   }
   
   blockquote[data-llm="Claude"] .chat-bubble.q-bubble {
-    background-color: rgba(242, 230, 225, 0.9) !important;
+    background-color: rgba(230, 190, 175, 0.9) !important;
   }
   
   blockquote[data-llm="Mistral"] .chat-bubble.q-bubble {
-    background-color: rgba(242, 225, 225, 0.9) !important;
+    background-color: rgba(230, 180, 180, 0.9) !important;
   }
   
   blockquote[data-llm="Gemini"] .chat-bubble.q-bubble {
-    background-color: rgba(225, 235, 245, 0.9) !important;
+    background-color: rgba(180, 210, 240, 0.9) !important;
   }
   
   blockquote[data-llm="Generic"] .chat-bubble.q-bubble {
-    background-color: rgba(230, 230, 235, 0.9) !important;
+    background-color: rgba(210, 210, 225, 0.9) !important;
   }
   
   /* A bubbles - LEFT aligned, full width for long content */
@@ -362,6 +415,7 @@ function injectLLMChatStyles() {
     background-color: rgba(30, 30, 30, 0.05) !important;
     border: 1px solid rgba(30, 30, 30, 0.1) !important;
     width: 100% !important;
+    position: relative !important;
   }
   
   /* Model-specific code block styling */
@@ -399,6 +453,30 @@ function injectLLMChatStyles() {
     line-height: 1.5 !important;
     white-space: pre !important;
     font-family: monospace !important;
+  }
+  
+  /* Copy button styling - directly on the code block */
+  blockquote[data-llm] .chat-bubble pre .copy-code-btn {
+    position: absolute !important;
+    top: 8px !important;
+    right: 8px !important;
+    padding: 2px 8px !important;
+    font-size: 11px !important;
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+    border-radius: 4px !important;
+    color: rgba(0, 0, 0, 0.7) !important;
+    cursor: pointer !important;
+    opacity: 0 !important;
+    transition: opacity 0.2s ease !important;
+  }
+  
+  blockquote[data-llm] .chat-bubble pre:hover .copy-code-btn {
+    opacity: 1 !important;
+  }
+  
+  blockquote[data-llm] .chat-bubble pre .copy-code-btn:hover {
+    background-color: rgba(255, 255, 255, 0.95) !important;
   }
   
   /* Override default blockquote styling */
@@ -509,7 +587,10 @@ function debugLLMChats() {
         // Verify each code block is in a bubble
         codeBlocks.forEach((code, i) => {
           const inBubble = code.closest(".chat-bubble") !== null;
-          console.log(`Code block #${i + 1} in bubble: ${inBubble}`);
+          const hasButton = code.querySelector(".copy-code-btn") !== null;
+          console.log(
+            `Code block #${i + 1} in bubble: ${inBubble}, has copy button: ${hasButton}`
+          );
         });
       }
     }

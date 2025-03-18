@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-21
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | The Virtue of Curiosity
 slug: grant-profile-the-virtue-of-curiosity
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [40.8075, -73.9626]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing role curiosity plays in enhancing our learning, creativity, and overall engagement.
+For the John Templeton Foundation, I wrote about the role curiosity plays in enhancing our learning, creativity, and overall engagement.
 
 > Daphna Shohamy, a professor of neuroscience at Columbia University, came to the study of curiosity through an appropriately roundabout way. A few years ago she was working with Caroline Marvin, a researcher at her lab, investigating the neural basis of impulsivity. “We were thinking about all the ways in which people act impulsively,” Shohamy says, “trying to understand the intersection between impulsivity and learning — is impulsivity a *problem* with learning, or is it *crucial* to learning?” If it was the latter, they realized, they were really talking about curiosity, the subjective impulse to *know*.
 >

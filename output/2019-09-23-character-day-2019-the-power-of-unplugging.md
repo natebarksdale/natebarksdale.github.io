@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-09-23
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | The Power of Unplugging
 slug: grant-profile-character-day-2019-the-power-of-unplugging
 featured: false
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [37.7749, -122.4194]
 ---
 
-For the John Templeton Foundation, I wrote about the enlightening experience of disconnecting to focus on character development.
+For the John Templeton Foundation, I wrote about the power of a tech sabbath.
 
 > Since the early days of the World Wide Web, Tiffany Shlain has been a master at recognizing, celebrating, and expanding the ways that growing global connectivity can allow people to learn and enjoy new things. In 1996, Shlain founded the [Webby Awards](https://www.webbyawards.com), considered the Oscars for the Internet, to honor the best of what the Web was beginning to make possible. In the early 2000s, Shlain shifted to filmmaking, making her mark at festivals like Sundance and Tribeca with documentaries and short films.
 >

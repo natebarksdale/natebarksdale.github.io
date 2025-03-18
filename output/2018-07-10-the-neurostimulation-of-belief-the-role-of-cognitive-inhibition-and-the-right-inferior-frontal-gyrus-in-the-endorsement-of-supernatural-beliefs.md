@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-07-10
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:42Z
 title: Grant Profile | The neurostimulation of belief
 slug: grant-profile-the-neurostimulation-of-belief
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.5074, -0.1278]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing intersection of neurostimulation and supernatural belief.
+For the John Templeton Foundation, I wrote about the intersection of neurostimulation and supernatural belief.
 
 > One of the Enlightenment’s key legacies has been the rise of a secular, even atheistic, approach to human reason, in which belief in the supernatural is seen as distinct from and often antithetical to rational thought. Over the past decade, a number of scientific studies have been published supporting the so-called Intuitive Belief Hypothesis, which associates intuitive thinking styles with religious belief — some even suggesting that priming people to think more analytically suppresses their supernatural beliefs.
 >

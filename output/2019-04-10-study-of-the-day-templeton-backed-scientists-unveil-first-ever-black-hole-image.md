@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-04-10
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T17:28:43Z
 title: Study of the Day | Templeton-Backed Scientists Unveil First-Ever Black Hole Image
 slug: study-of-the-day-templeton-backed-scientists-unveil-first-ever-black-hole-image
 featured: false
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [38.89511, -77.03637]
 ---
 
-For the John Templeton Foundation, I wrote about the groundbreaking capture of a black hole’s shadow.
+For the John Templeton Foundation, I wrote about the unveiling of the first-ever photograph of a black hole (or at least of its event horizon), made using a telescope the size of the earth. I got to be there in person for the actual unveiling.
 
 > Scientists unveiled the first-ever image captured of a black hole on April 10, a landmark achievement that was supported in part by a [$7.2 million grant](https://www.templeton.org/grant/the-black-hole-initiative-towards-a-center-for-interdisciplinary-research) from the John Templeton Foundation. The image, which shows the light-ringed dark shadow of the black hole at the center of Messier 87 (M87), a massive galaxy in the Virgo star cluster, was captured using the Event Horizon Telescope (EHT), an array of seven observatories around the globe linked to create an earth-sized super-telescope.
 >

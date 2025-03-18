@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-09-24
-modDatetime: 2025-03-17
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | Chemistry to Life
 slug: grant-profile-chemistry-to-life
 featured: false
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the enigmatic origins of life and the chemical conundrums that puzzle today's scientists.
+For the John Templeton Foundation, I wrote about the origins of life and the chemical conundrums that puzzle today's scientists.
 
 > The philosopher Søren Kierkegaard famously referred to paradoxes as “grandiose thoughts in embryo.” When a paradox creates a logical roadblock in a given line of thinking, Kierkegaard saw that it could hold the potential for a profound breakthrough.
 >

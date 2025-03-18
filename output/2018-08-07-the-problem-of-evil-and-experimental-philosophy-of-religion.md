@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-07
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:42Z
 title: Grant Profile | The Problem of Evil and Experimental Philosophy of Religion
 slug: grant-profile-the-problem-of-evil-and-experimental-philosophy-of-religion
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [42.0723, -84.728]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing intersection of experimental philosophy and the enduring challenge of evil.
+For the John Templeton Foundation, I wrote about the intersection of experimental philosophy and the enduring challenge of evil.
 
 > During the second half of the 20th century, a cohort of philosophers, most notably 2017 Templeton Prize winner Alvin Plantinga, developed what many regard as a definitive rebuttal of the so-called Logical Argument from Evil. That argument holds that the existence of evil is logically incompatible with the possibility of an all-knowing, all-powerful, all-good God. The rebuttal goes like this: since it is possible that some evil exists as a necessary condition for some greater good (such as affording humans free will to choose between right and wrong), the existence of evil is not logically incompatible with God’s existence.
 >

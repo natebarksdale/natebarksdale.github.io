@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-05
-modDatetime: 2025-03-18T13:56:39Z
+modDatetime: 2025-03-18T17:28:43Z
 title: Grant Profile | The Case of “Secret Society” Religions
 slug: grant-profile-the-role-of-religion-in-social-change-the-case-of-secret-society-religions
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [58.5953, 25.0136]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing role secret societies might have played in shaping early human societies.
+For the John Templeton Foundation, I wrote about the role secret societies might have played in shaping early human societies.
 
 > Several thousand years ago in what is now Estonia, a child was buried with a flute made from a bird’s bone and with crane wings placed in his or her hands. Too young to have likely been a shaman or initiate, the child — whose elaborately arranged grave was excavated by archaeologists in the 1970s — was probably a member of a secret society, says Brian Hayden, an anthropologist at Simon Fraser University in British Columbia. In anthropological parlance, secret societies are a type of elite quasi-religious organization seen time and again in cultures that are on the transition point from small, kinship-based egalitarian hunter-gatherer bands into more complex and hierarchical societies.
 >

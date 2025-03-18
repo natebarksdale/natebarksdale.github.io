@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-21
-modDatetime: 2025-03-18T14:08:05Z
-title: Grant Profile | Special Issue and Sections in ‘The New Atlantis’ Dedicated to Big Questions
+modDatetime: 2025-03-18T17:28:42Z
+title: Special Issue and Sections in ‘The New Atlantis’ Dedicated to Big Questions
 slug: grant-profile-special-issue-and-sections-in-the-new-atlantis-dedicated-to-big-questions
 featured: false
 draft: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the profound inquiries into science and ethics featured in 'The New Atlantis.'
+For the John Templeton Foundation, I wrote about the profound inquiries into science and ethics featured in _The New Atlantis._
 
 > Are we alone in the cosmos, and if so, how should we think of ourselves? What do the insights of evolutionary theory mean for ethics? Is the so-called replication crisis a sign that modern science is self-correcting or that it has dangerously lost its way? How does the evolving theory of information in physics change the way we understand ourselves and the world? In a world dominated by Twitter conversations, addressing big questions in ways that require more than 280 characters is difficult. Tackling them requires careful, deliberate reflection, multiple vantage points, and an approach that aims to be both of-the-moment and timeless.
 >
