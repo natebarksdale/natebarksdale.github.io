@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-05
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Grant Profile | The Case of “Secret Society” Religions
-slug: grant-profile-the-role-of-religion-in-social-change-the-case-of-secret-society-religions
-featured: false
-draft: false
+slug: grant-profile-the-case-of-secret-society-religions
+featured: False
+draft: False
 description: Claiming supernatural power for their members and wielding lasting economic influence, secret societies may represent a key stage in human institution-building
 emoji: 🕊️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Child with crane wings lies,  
   Secret rites shape ancient tribes,  
   Whispers shape the bones.
+
 coordinates: [58.5953, 25.0136]
 ---
 

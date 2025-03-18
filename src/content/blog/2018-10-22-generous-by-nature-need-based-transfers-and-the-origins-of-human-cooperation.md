@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-10-22
-modDatetime: 2025-03-18T14:32:16Z
+modDatetime: 2025-03-18 14:32:16+00:00
 title: Grant Profile | Need-based transfers and the origins of human cooperation
-slug: grant-profile-generous-by-nature-need-based-transfers-and-the-origins-of-human-cooperation
-featured: false
-draft: false
+slug: grant-profile-need-based-transfers-and-the-origins-of-human-cooperation
+featured: False
+draft: False
 description: Giving without expecting repayment is not only more common than previously thought, it may also be more crucial for cultures to survive and flourish
 emoji: 🤝
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Osotua binds deep,  
   Generosity flows wide,  
   Cooperation blooms.
+
 coordinates: [1.2921, 36.8219]
 ---
 

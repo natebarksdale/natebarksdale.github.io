@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-12-15
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Grant Profile | Motivational Consequences of Sanctifying Difficult Experiences
-slug: grant-profile-sanctifying-everyday-difficulties-motivational-consequences-of-sanctifying-difficult-experiences
-featured: false
-draft: false
+slug: grant-profile-motivational-consequences-of-sanctifying-difficult-experiences
+featured: False
+draft: False
 description: From the hero’s journey to the walk-a-thon, the idea that suffering builds character may be a powerful tool for unlocking achievement.
 emoji: 🌟
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Endure the hard path,  
   Character grows, souls ascend—  
   Suffering ennobles.
+
 coordinates: [34.0224, -118.2851]
 ---
 

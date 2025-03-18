@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-09-23
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Grant Profile | The Power of Unplugging
-slug: grant-profile-character-day-2019-the-power-of-unplugging
-featured: false
-draft: false
+slug: grant-profile-the-power-of-unplugging
+featured: False
+draft: False
 description: Encouraging people to spend one day a week screen-free
 emoji: 🔌
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Unplug, reconnect,  
   Films spark deep character talks,  
   Worldwide minds unite.
+
 coordinates: [37.7749, -122.4194]
 ---
 
