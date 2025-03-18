@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState, useMemo } from "react";
 import mapboxgl from "mapbox-gl";
 
 interface MapViewProps {
@@ -438,18 +438,18 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   return (
     <>
       <div ref={mapContainer} className="w-full h-[600px]" />
-      <div className="mt-8 text-center">
+      <div className="mt-4 text-center">
         <h2 className="text-lg font-semibold mb-3">Map Projections</h2>
-        <div className="flex flex-wrap gap-4 justify-center">
+        <div className="flex flex-wrap gap-2 justify-center">
           {projections.map(proj => (
             <button
               key={proj.id}
               onClick={() => changeProjection(proj.value)}
-              className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
+              className={`px-3 py-2 text-sm relative transition-colors hover:text-skin-accent border rounded
                 ${
                   currentProjection === proj.value
-                    ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
-                    : "text-skin-base"
+                    ? "text-skin-accent border-skin-accent"
+                    : "text-skin-base border-transparent"
                 }`}
             >
               {currentProjection === "lambertConformalConic" &&
