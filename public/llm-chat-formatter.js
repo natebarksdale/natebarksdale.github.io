@@ -1,48 +1,48 @@
-// Refined LLM Chat Formatter with Model-Specific Q Bubbles
-// and Improved Layout Flexibility - Case Insensitive Version
+// Improved LLM Chat Formatter with Model-Specific Styling
+// and Simplified Case-Insensitive Implementation
 
 document.addEventListener("DOMContentLoaded", function () {
   formatLLMChats();
+  // Support Astro's partial page hydration
   document.addEventListener("astro:page-load", formatLLMChats);
 });
 
 // Standardize LLM name formatting
 function normalizeLLMName(name) {
-  // Map of lowercase keys to proper display format
+  // Map of lowercase keys to proper capitalized display format for data attributes
   const llmNameMap = {
-    chatgpt: "chatgpt",
-    claude: "claude",
-    mistral: "mistral",
-    gemini: "gemini",
-    llama: "llama",
-    deepseek: "deepseek",
-    generic: "generic",
+    chatgpt: "ChatGPT",
+    claude: "Claude",
+    mistral: "Mistral",
+    gemini: "Gemini",
+    llama: "Llama",
+    deepseek: "DeepSeek",
+    generic: "Generic",
   };
 
   // Normalize to lowercase for matching
   const normalizedName = name.trim().toLowerCase();
 
-  // Return the mapped name or the original in lowercase if no mapping exists
-  return llmNameMap[normalizedName] || normalizedName;
+  // Return the mapped name with proper capitalization or fallback to Generic
+  return llmNameMap[normalizedName] || "Generic";
 }
 
 function formatLLMChats() {
   console.log("Formatting LLM chats...");
 
-  // First inject the styles
+  // First inject the styles to ensure they take precedence
   injectLLMChatStyles();
 
-  // Find all blockquotes
-  const blockquotes = document.querySelectorAll("blockquote");
+  // Find all blockquotes that haven't been processed yet
+  const blockquotes = document.querySelectorAll(
+    "blockquote:not([data-processed])"
+  );
 
   blockquotes.forEach(blockquote => {
-    // Skip if already processed or not an LLM chat
-    if (blockquote.hasAttribute("data-processed")) return;
-
     let isLLMChat = false;
-    let llmName = "generic";
+    let llmName = "Generic";
 
-    // Look for LLM markers
+    // Look for LLM markers in the first paragraph
     const paragraphs = blockquote.querySelectorAll("p");
 
     // Check first paragraph for LLM name
@@ -51,13 +51,13 @@ function formatLLMChats() {
       const llmMatch = firstPText.match(/^{([^}]+)}$/);
 
       if (llmMatch) {
-        // Normalize the LLM name for case-insensitivity
+        // Normalize the LLM name with proper capitalization
         llmName = normalizeLLMName(llmMatch[1]);
         isLLMChat = true;
       }
     }
 
-    // Also check for Q/A markers
+    // Also check for Q/A markers if no LLM name was found
     if (!isLLMChat) {
       for (const p of paragraphs) {
         if (p.textContent.trim().match(/^{[QA]}/)) {
@@ -67,18 +67,16 @@ function formatLLMChats() {
       }
     }
 
+    // Skip if not an LLM chat
     if (!isLLMChat) return;
 
     console.log(`Processing LLM chat: ${llmName}`);
 
-    // Capitalize first letter for data attribute (for consistency with CSS selectors)
-    const llmAttribute = llmName.charAt(0).toUpperCase() + llmName.slice(1);
-
-    // Mark as LLM chat
-    blockquote.setAttribute("data-llm", llmAttribute);
+    // Mark as LLM chat and processed
+    blockquote.setAttribute("data-llm", llmName);
     blockquote.setAttribute("data-processed", "true");
 
-    // Step 1: Grab all content & save code blocks
+    // Step 1: Save code blocks for later reinsertion
     const savedCodeBlocks = [];
     blockquote.querySelectorAll("pre").forEach((pre, index) => {
       savedCodeBlocks.push({
@@ -95,10 +93,10 @@ function formatLLMChats() {
     const chatContainer = document.createElement("div");
     chatContainer.className = "chat-container";
 
-    // Add header (we'll position it later based on first message)
+    // Add header (with lowercase display for aesthetic reasons)
     const header = document.createElement("div");
     header.className = "llm-header";
-    header.textContent = llmName.toLowerCase(); // Always lowercase display
+    header.textContent = llmName.toLowerCase();
 
     // Step 3: Parse content
     const tempDiv = document.createElement("div");
@@ -157,7 +155,7 @@ function formatLLMChats() {
           const contentDiv = document.createElement("div");
           contentDiv.innerHTML = el.innerHTML;
 
-          // Add a line break before appending
+          // Add a line break before appending if needed
           if (currentBubble.childNodes.length > 0) {
             currentBubble.appendChild(document.createElement("br"));
           }
@@ -175,16 +173,14 @@ function formatLLMChats() {
       }
     }
 
-    // Step 4: Handle loose code blocks
-    // Find all pre elements in the chat container
+    // Step 4: Handle any code blocks that weren't properly processed
     const processedCodeBlocks = chatContainer.querySelectorAll("pre");
 
-    // Check if any code blocks weren't processed
     for (const block of savedCodeBlocks) {
       let wasProcessed = false;
 
       for (const processedBlock of processedCodeBlocks) {
-        // Check if the content matches (excluding the copy button)
+        // Check if this code block was already added
         const processedContent = processedBlock.innerHTML.replace(
           /<button.*?<\/button>/g,
           ""
@@ -197,8 +193,8 @@ function formatLLMChats() {
         }
       }
 
+      // If not processed and we have a current bubble, add it
       if (!wasProcessed && currentBubble) {
-        // Add this code block to the most recent bubble
         const codeBlock = block.element.cloneNode(true);
         addCopyButtonToCodeBlock(codeBlock);
         currentBubble.appendChild(codeBlock);
@@ -207,7 +203,7 @@ function formatLLMChats() {
 
     // Step 5: Determine header position based on first message
     if (firstMessageRole === "Q") {
-      // Create a special header wrapper for Q-first chats
+      // Create a wrapper for Q-first chats to position header correctly
       const headerWrapper = document.createElement("div");
       headerWrapper.className = "header-wrapper q-first";
       headerWrapper.appendChild(header);
@@ -227,7 +223,9 @@ function formatLLMChats() {
 // Helper function to add copy button to code blocks
 function addCopyButtonToCodeBlock(codeBlock) {
   // First, remove any existing copy buttons
-  const existingButtons = codeBlock.querySelectorAll(".copy-code");
+  const existingButtons = codeBlock.querySelectorAll(
+    ".copy-code, .copy-code-btn"
+  );
   existingButtons.forEach(btn => btn.remove());
 
   // Create new copy button
@@ -238,7 +236,7 @@ function addCopyButtonToCodeBlock(codeBlock) {
 
   // Add click event to copy the code
   copyBtn.addEventListener("click", function () {
-    // Get the code text (get the textContent of each non-button element)
+    // Get the code text (excluding the button)
     let code = "";
     for (const node of codeBlock.childNodes) {
       if (node.nodeType === Node.TEXT_NODE) {
@@ -257,19 +255,14 @@ function addCopyButtonToCodeBlock(codeBlock) {
       .writeText(code)
       .then(() => {
         // Success feedback
-        const originalText = copyBtn.textContent;
         copyBtn.textContent = "Copied!";
-
-        // Reset after 2 seconds
         setTimeout(() => {
-          copyBtn.textContent = originalText;
+          copyBtn.textContent = "Copy";
         }, 2000);
       })
       .catch(err => {
         console.error("Failed to copy code: ", err);
         copyBtn.textContent = "Error";
-
-        // Reset after 2 seconds
         setTimeout(() => {
           copyBtn.textContent = "Copy";
         }, 2000);
@@ -280,29 +273,12 @@ function addCopyButtonToCodeBlock(codeBlock) {
   codeBlock.insertBefore(copyBtn, codeBlock.firstChild);
 }
 
-// Add this CSS rule to hide the original copy button
-function addHideCopyButtonStyle() {
-  const style = document.createElement("style");
-  style.id = "hide-original-copy-button";
-  style.textContent = `
-          blockquote[data-llm] .chat-bubble pre .copy-code {
-            display: none !important;
-          }
-        `;
-  document.head.appendChild(style);
-}
-
-// Call this function in your main formatter
-addHideCopyButtonStyle();
-
-// Style injector function
+// Style injector function with fixed CSS syntax
 function injectLLMChatStyles() {
   const styleEl = document.createElement("style");
   styleEl.id = "llm-chat-forced-styles";
 
   styleEl.textContent = `
-      /* Forced Chat Styles with !important flags */
-      
       /* Foundation styles for the chat container */
       blockquote[data-llm] {
         padding: 0 !important;
@@ -374,7 +350,6 @@ function injectLLMChatStyles() {
         left: 14px !important;
         padding: 4px 8px !important;
         border-radius: 12px !important;
-        /* No background or box-shadow */
       }
       
       /* LLM-specific header colors */
@@ -433,14 +408,12 @@ function injectLLMChatStyles() {
         max-width: 70% !important;
         border-radius: 18px 18px 4px 18px !important;
         color: rgb(30, 30, 30) !important;
-        background-color: rgba(229, 231, 235, 0.9)
+        background-color: rgba(229, 231, 235, 0.9) !important;
         width: auto !important;
       }
       
       /* Model-specific Q bubble colors - darker for better contrast */
-      blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble,
-      blockquote[data-llm="chatgpt"] .chat-bubble.q-bubble,
-      blockquote[data-llm="Chatgpt"] .chat-bubble.q-bubble,  {
+      blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
         background-color: rgba(229, 231, 235, 0.9) !important;
       }
       
@@ -591,7 +564,12 @@ function injectLLMChatStyles() {
           align-self: flex-start !important;
         }
       }
-        `;
+      
+      /* Hide any original copy buttons */
+      blockquote[data-llm] .chat-bubble pre .copy-code {
+        display: none !important;
+      }
+    `;
 
   // Remove any existing version
   const existing = document.getElementById("llm-chat-forced-styles");
@@ -606,7 +584,7 @@ function injectLLMChatStyles() {
   return "LLM Chat styles injected!";
 }
 
-// Debug helper function
+// Add a debug helper for troubleshooting
 function debugLLMChats() {
   console.group("LLM Chat Debug Information");
 
@@ -633,75 +611,36 @@ function debugLLMChats() {
       console.log(`Header text: "${header.textContent}"`);
     }
 
-    // Check header position
-    const headerWrapper = chat.querySelector(".header-wrapper.q-first");
-    console.log(
-      `Header position: ${headerWrapper ? "Q-first (floating)" : "Standard"}`
-    );
+    // Check bubbles and their computed styles
+    const qBubbles = chat.querySelectorAll(".q-bubble");
+    const aBubbles = chat.querySelectorAll(".a-bubble");
 
-    // Check chat container
-    const container = chat.querySelector(".chat-container");
-    console.log(`Chat container: ${container ? "Found" : "MISSING"}`);
+    console.log(`Q bubbles: ${qBubbles.length}`);
+    console.log(`A bubbles: ${aBubbles.length}`);
 
-    // Count and check bubbles
-    if (container) {
-      const qBubbles = container.querySelectorAll(".q-bubble");
-      const aBubbles = container.querySelectorAll(".a-bubble");
-
-      console.log(`Q bubbles: ${qBubbles.length}`);
-      console.log(`A bubbles: ${aBubbles.length}`);
-
-      // Check bubble styling
-      if (qBubbles.length > 0) {
-        const firstQ = qBubbles[0];
-        const qStyle = window.getComputedStyle(firstQ);
-        console.log("Q bubble styles:", {
-          "background-color": qStyle.backgroundColor,
-          "align-self": qStyle.alignSelf,
-          "max-width": qStyle.maxWidth,
-          width: qStyle.width,
-        });
-      }
-
-      if (aBubbles.length > 0) {
-        const firstA = aBubbles[0];
-        const aStyle = window.getComputedStyle(firstA);
-        console.log("A bubble styles:", {
-          "background-color": aStyle.backgroundColor,
-          "align-self": aStyle.alignSelf,
-          "max-width": aStyle.maxWidth,
-          width: aStyle.width,
-        });
-      }
-
-      // Check code blocks
-      const codeBlocks = container.querySelectorAll("pre");
-      console.log(`Code blocks: ${codeBlocks.length}`);
-
-      if (codeBlocks.length > 0) {
-        // Verify each code block is in a bubble
-        codeBlocks.forEach((code, i) => {
-          const inBubble = code.closest(".chat-bubble") !== null;
-          const hasButton = code.querySelector(".copy-code-btn") !== null;
-          console.log(
-            `Code block #${i + 1} in bubble: ${inBubble}, has copy button: ${hasButton}`
-          );
-        });
-      }
+    // Check bubble styling
+    if (qBubbles.length > 0) {
+      const firstQ = qBubbles[0];
+      const qStyle = window.getComputedStyle(firstQ);
+      console.log("Q bubble styles:", {
+        "background-color": qStyle.backgroundColor,
+        "align-self": qStyle.alignSelf,
+        "max-width": qStyle.maxWidth,
+        width: qStyle.width,
+      });
     }
 
     console.groupEnd();
   });
 
   console.groupEnd();
-
-  return "Debug complete. Check console for details.";
+  return "Debug complete. Check browser console for details.";
 }
 
-// Expose debug function globally
+// Expose the debug function globally
 window.debugLLMChats = debugLLMChats;
 
-// Add this to ensure original copy buttons stay hidden
+// Ensure original copy buttons stay hidden (as a safeguard)
 setInterval(() => {
   document
     .querySelectorAll("blockquote[data-llm] .chat-bubble pre .copy-code")
