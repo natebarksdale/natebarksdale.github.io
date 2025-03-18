@@ -371,8 +371,6 @@ blockquote[data-llm="Generic"] {
   background-color: rgba(240, 240, 245, 0.25); /* Slightly different from ChatGPT */
 }
 
-}
-
 /* Header styling */
 blockquote[data-llm] .llm-header {
   font-family: 'IBM Plex Mono', monospace;
@@ -485,6 +483,7 @@ blockquote[data-llm] .chat-bubble pre code {
   padding: 0;
   font-size: 0.85em;
   line-height: 1.5;/* Forced Chat Styles with !important flags */
+}
 
   /* Foundation styles for the chat container */
   blockquote[data-llm] {
@@ -695,6 +694,9 @@ blockquote[data-llm] .chat-bubble pre code {
   blockquote[data-llm]::after {
     content: none !important;
   }
+
+}
+
   
   /* Ensure bubbles are properly positioned in flex container */
   @media screen and (min-width: 100px) {
@@ -711,7 +713,6 @@ blockquote[data-llm] .chat-bubble pre code {
     }
   }
 
-}
 
 @layer components {
   .display-none {
