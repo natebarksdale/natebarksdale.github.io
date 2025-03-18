@@ -6,7 +6,7 @@ title: What is the world’s oldest democracy?
 slug: what-is-the-worlds-oldest-democracy
 featured: false
 draft: false
-description: Explore the roots and debates surrounding the world’s oldest democracy, from ancient Athens to Viking-led parliaments.
+description: Explore the roots and debates surrounding the world’s oldest democracies, from ancient Athens to Viking-led parliaments.
 emoji: 🏛️
 tags:
   - 🇭 History.com
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [64.9631, -19.0208]
 ---
 
-For the History Channel, I wrote about the intriguing quest to identify the world's earliest democracy.
+For the History Channel, I wrote about the challenges of identifying the world's earliest democracy.
 
 > The term democracy, which means “rule by the people,” was coined by the Greeks of ancient Athens to describe their city-state’s system of self-rule, which reached its golden age around 430 B.C. under the skilled orator and politician Pericles. It is probable that the Athenians were not the first group of people to adopt such a system (a few places in India have traditions of local democracy that claim earlier origins) but because the Greeks named it, they have a good claim at being the “first” democracy, even though large portions of Athenian society—most notably women and slaves—could not participate.
 >

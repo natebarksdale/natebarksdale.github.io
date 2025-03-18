@@ -20,7 +20,7 @@ haiku: |
 coordinates: [1.2921, 36.8219]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing ways cultures transform and shape the course of human and animal societies.
+For the John Templeton Foundation, I wrote about the ways cultures transform and shape the course of human and animal societies.
 
 > The term “evolution” is used to draw a parallel between cultural changes and changes that occur in genetic evolution. Sometimes cultures seem to evolve relatively independent of obvious genetic evolution, as when different people in different parts of the world form diverging languages, styles of clothing or religious practices, or when [songbirds’ distinctive trills](https://www.templeton.org/news/what-do-birdsongs-and-hip-hop-have-in-common-cultural-evolution) change over time. At other times, cultural evolution can lay the groundwork for genetic change: [6,000 years ago,](https://www.science.org/content/article/humans-were-drinking-milk-they-could-digest-it) people living in what is now Kenya and Sudan were consuming dairy products even though they lacked a key “milk gene” allowing them to digest them. But when the mutation arrived, the already-existing cultural practice made it advantageous, allowing it to spread throughout the population.
 >

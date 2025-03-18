@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the History Channel, I wrote about How Drive‑Thru Dining Changed Fast Food.
+For the History Channel, I wrote about the drive-through (Irish public radio even interviewed me based on this piece).
 
 > Dining out got a new look in 1948, thanks to a 100-square foot burger shack perched next to a circular Baldwin Park, California, driveway. There, five cooks worked behind glass walls assembling take-out meals for motorists, lured by the sign assuring “NO DELAY” and a restaurant name that promised exactly what it delivered: In-N-Out.
 >

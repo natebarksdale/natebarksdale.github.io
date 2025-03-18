@@ -6,7 +6,7 @@ title: 7 Things You May Not Know About the Ming Dynasty
 slug: 7-things-you-may-not-know-about-the-ming-dynasty
 featured: false
 draft: false
-description: Explore seven fascinating insights about the Ming Dynasty, from its humble beginnings to the majestic Forbidden City.
+description: “Zijin Cheng,” means “Purple Forbidden City,” a colorful reference not to the city’s walls but to the night sky.
 emoji: 🏯
 tags:
   - 🇭 History.com

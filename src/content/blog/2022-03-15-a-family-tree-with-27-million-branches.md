@@ -20,7 +20,7 @@ haiku: |
 coordinates: [52.3555, -1.1743]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing pursuit of mapping a massive family tree spanning 27 million connections.
+For the John Templeton Foundation, I wrote about mapping a massive family tree.
 
 > One day in the summer of 1873 an English barrister opened the pages of the “Pall Mall Gazette” to leaf through the society wedding pages, noticed a union announced between two people with the same last name, and commenced wondering what the chances were that the couple were first cousins, as his own parents had been. So began one of the first endeavors in genetic genealogy, the attempt to reconstruct family trees en masse by analyzing sheaves of gathered data.
 >

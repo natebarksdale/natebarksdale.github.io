@@ -20,7 +20,7 @@ haiku: |
 coordinates: [-22.906847, -43.172896]
 ---
 
-For the John Templeton Foundation, I wrote about the profound insights Afro-Brazilian religious philosophies offer to global spiritual understanding.
+For the John Templeton Foundation, I wrote about Afro-Brazilian religious philosophies.
 
 > Seu Silva was enjoying an ordinary middle-class Brazilian life before the spirits intervened. One night he awoke with a start to find himself sitting on a grave in a cemetery miles from home. Another time he woke up shirtless, standing in the surf. He sought professional help before eventually being directed to a man who worked with spirits, who fell into a trance and diagnosed his condition: the *exu *Tranca Rua (the trickster spirit of an ancient defrocked Portuguese priest) was responsible for the nighttime journeys, and the spirits were calling Seu Silva to serve them as a medium. Seu Silva accepted the summons, and eventually became the founder and leader of the House of Father John, a center of the Umbanda religion in the suburbs of Rio de Janeiro, where he serves the faithful by giving voice to helpful spirits who mediate between practitioners and deities.
 >

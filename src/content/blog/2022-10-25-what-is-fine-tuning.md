@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the captivating implications of our universe’s seemingly precise conditions for life.
+For the John Templeton Foundation, I wrote about the implications of our universe’s seemingly precise conditions for life.
 
 > The term is commonly applied to the idea that our universe’s fundamental physical constants are uniquely and inexplicably suited to the evolution of intelligent life. Scientists, philosophers and religious thinkers have used the concept of “fine tuning” to describe a variety of physical or biological systems ranging from bacterial anatomy to the Big Bang, often as a launching point for broader scientific, philosophical or theological questions.
 >

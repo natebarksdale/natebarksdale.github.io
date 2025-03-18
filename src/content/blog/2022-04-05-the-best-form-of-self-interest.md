@@ -21,7 +21,7 @@ haiku: |
 coordinates: [39.997876, -76.063459]
 ---
 
-For the John Templeton Foundation, I wrote about the profound capacity for forgiveness within religious communities.
+For the John Templeton Foundation, I wrote about forgiveness within religious communities.
 
 > Tragedy struck the Old Order Amish community of Nickel Mines, Pennsylvania on October 2, 2006, when a gunman stormed into a schoolhouse, taking hostages and shooting ten girls, killing five, before taking his own life. In the days that followed, members of the community known for living separately from the wider culture made an extraordinary series of public acts and statements, as leaders exhorted the community not to hate the killer — “We must not think evil of this man,” said the grandfather of one of the murdered girls. The day after the victims’ funeral, several members of the Amish community [attended the killer’s burial service](https://www.npr.org/templates/story/story.php?storyId=14900930), where they embraced his widow. Members of the community later collected donations to help support the widow and her three young children.
 >

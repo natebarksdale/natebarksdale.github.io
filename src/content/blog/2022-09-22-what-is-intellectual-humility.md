@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the delicate balance and broader implications of intellectual humility.
+For the John Templeton Foundation, I wrote about intellectual humility.
 
 > It’s a concept that can be described in multiple ways. One group of psychologists [recently defined it](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9244574/) as “a virtuous balance between intellectual arrogance (overvaluing one’s beliefs) and intellectual diffidence (undervaluing one’s beliefs),” that is “distinct from general humility, modesty, perspective-taking and open-mindedness.” A leading science journalist notes its role in the scientific method and [sums it up](https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication) as “about being actively curious about your blind spots.”
 >

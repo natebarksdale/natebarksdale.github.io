@@ -21,7 +21,7 @@ haiku: |
 coordinates: [14.6349, -90.5069]
 ---
 
-For the History Channel, I wrote about the deep roots and transformative journey of pumpkin pie in American culture.
+For the History Channel, I wrote about pumpkin pie in American culture.
 
 > It’s hard to imagine an American [Thanksgiving](https://www.history.com/topics/thanksgiving/history-of-thanksgiving) table without the ubiquitous orange-crusted custard made from strained, spiced and twice-cooked squash.
 >

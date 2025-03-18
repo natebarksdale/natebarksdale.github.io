@@ -20,7 +20,7 @@ haiku: |
 coordinates: [34.1826, -118.4396]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing intersection of religious identity and personal spirituality.
+For the John Templeton Foundation, I wrote about the intersection of religious identity and personal spirituality.
 
 > The shot opens the interior of a suburban home: a framed picture of the elephant-headed Lord Ganesh. The camera pans down to a small altar with images of other deities (Lakshmi, Shiva, Hanuman) and ceremonial objects. A teenager’s voice intones: “Hey Gods, it’s Devi Vishwakumar, your favorite Hindu girl in the San Fernando Valley. What’s a-poppin?”
 >
