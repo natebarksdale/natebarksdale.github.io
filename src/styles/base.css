@@ -466,7 +466,7 @@ blockquote[data-llm] .chat-bubble.q-bubble {
   align-self: flex-end;
   margin-left: auto;
   max-width: 70%;
-  border-radius: 18px 18px 4px 18px;
+  border-radius: 18px;
   color: rgb(30, 30, 30);
   background-color: rgba(229, 231, 235, 0.9);
   width: auto;
@@ -506,7 +506,7 @@ blockquote[data-llm] .chat-bubble.a-bubble {
   align-self: flex-start;
   margin-right: auto;
   background-color: white;
-  border-radius: 18px 18px 18px 4px;
+  border-radius: 18px;
   color: rgb(30, 30, 30);
   width: auto;
   max-width: calc(100% - 24px);

@@ -188,25 +188,37 @@ class MarkdownHeaderProcessor:
                 if 'draft' not in header_dict:
                     updated_values['draft'] = False
                     
-                # Description
+                # Description - only generate if missing
                 if 'description' not in header_dict or not header_dict.get('description'):
-                    updated_values['description'] = self.generate_description(post_content, title)
+                    description_result = self.generate_description(post_content, title)
+                    if description_result:  # Only add if a valid result was generated
+                        updated_values['description'] = description_result
                     
-                # Emoji
+                # Emoji - only generate if missing
                 if 'emoji' not in header_dict:
-                    updated_values['emoji'] = self.generate_emoji(post_content, title)
+                    emoji_result = self.generate_emoji(post_content, title)
+                    if emoji_result:  # Only add if a valid result was generated
+                        updated_values['emoji'] = emoji_result
                     
-                # Tags
+                # Tags - only generate if missing
                 if 'tags' not in header_dict or not header_dict.get('tags'):
-                    updated_values['tags'] = self.generate_tags(post_content, title)
+                    tags_result = self.generate_tags(post_content, title)
+                    if tags_result:  # Only add if valid results were generated
+                        updated_values['tags'] = tags_result
                     
-                # Haiku
+                # Haiku - only generate if missing
                 if 'haiku' not in header_dict:
-                    updated_values['haiku'] = self.generate_haiku(post_content, title)
+                    haiku_result = self.generate_haiku(post_content, title)
+                    if haiku_result and haiku_result != "Words flow like water,\nThoughts captured in black and white,\nStories come alive.":
+                        # Only add if it's not the fallback value
+                        updated_values['haiku'] = haiku_result
                     
-                # Coordinates
+                # Coordinates - only generate if missing
                 if 'coordinates' not in header_dict:
-                    updated_values['coordinates'] = self.generate_coordinates(post_content, title)
+                    coords_result = self.generate_coordinates(post_content, title)
+                    # Only add if it's not the fallback London coordinates
+                    if coords_result and not (coords_result[0] == 51.509865 and coords_result[1] == -0.118092):
+                        updated_values['coordinates'] = coords_result
                 
                 # If nothing needs updating, return early
                 if not updated_values:
@@ -320,12 +332,26 @@ class MarkdownHeaderProcessor:
                 new_header['featured'] = False
                 new_header['draft'] = True  # Set draft to true by default for new files
                 
-                # Generate fields using LLM
-                new_header['description'] = self.generate_description(content, title)
-                new_header['emoji'] = self.generate_emoji(content, title)
-                new_header['tags'] = self.generate_tags(content, title)
-                new_header['haiku'] = self.generate_haiku(content, title)
-                new_header['coordinates'] = self.generate_coordinates(content, title)
+                # Generate fields using LLM and only include if valid results are returned
+                description_result = self.generate_description(content, title)
+                if description_result:
+                    new_header['description'] = description_result
+                
+                emoji_result = self.generate_emoji(content, title)
+                if emoji_result:
+                    new_header['emoji'] = emoji_result
+                
+                tags_result = self.generate_tags(content, title)
+                if tags_result:
+                    new_header['tags'] = tags_result
+                
+                haiku_result = self.generate_haiku(content, title)
+                if haiku_result and haiku_result != "Words flow like water,\nThoughts captured in black and white,\nStories come alive.":
+                    new_header['haiku'] = haiku_result
+                
+                coords_result = self.generate_coordinates(content, title)
+                if coords_result and not (coords_result[0] == 51.509865 and coords_result[1] == -0.118092):
+                    new_header['coordinates'] = coords_result
                 
                 # Format the new header manually
                 header_lines = []
@@ -445,11 +471,10 @@ class MarkdownHeaderProcessor:
                 return response.text.strip()
             except Exception as e:
                 print(f"Error generating description with Gemini: {str(e)}")
+                return None  # Return None instead of fallback
         
-        # Fallback: Use first 160 chars of content
-        clean_content = re.sub(r'#.*?\n', '', content)  # Remove headers
-        clean_content = re.sub(r'\n+', ' ', clean_content)  # Replace newlines with spaces
-        return clean_content.strip()[:160] + "..."
+        # Return None for fallback case too, to prevent overwriting
+        return None
 
     def generate_emoji(self, content, title):
         """Generate an appropriate emoji for the post."""
@@ -472,15 +497,16 @@ class MarkdownHeaderProcessor:
                 return emoji
             except Exception as e:
                 print(f"Error generating emoji with Gemini: {str(e)}")
+                return None  # Return None instead of fallback
         
-        # Fallback emoji
-        return "📝"
+        # Return None for fallback case too, to prevent overwriting
+        return None
 
     def generate_tags(self, content, title):
         """Generate appropriate tags for the post from the approved list."""
         if not self.approved_tags:
-            print("Warning: No approved tags found. Using fallback tags.")
-            return ["📝 Writing", "🔖 Blog"]
+            print("Warning: No approved tags found. Skipping tag generation.")
+            return None  # Return None instead of fallback
             
         if self.gemini:
             try:
@@ -511,18 +537,16 @@ class MarkdownHeaderProcessor:
                 if valid_tags:
                     return valid_tags[:5]
                 else:
-                    # If no valid tags were returned, select a few random ones from the approved list
-                    import random
-                    sample_size = min(3, len(self.approved_tags))
-                    return random.sample(self.approved_tags, sample_size)
+                    # If no valid tags were returned, return None instead of random fallbacks
+                    print("No valid tags returned from Gemini. Skipping tag generation.")
+                    return None
                     
             except Exception as e:
                 print(f"Error generating tags with Gemini: {str(e)}")
+                return None  # Return None instead of fallback
         
-        # Fallback: use the first few approved tags if available
-        if self.approved_tags:
-            return self.approved_tags[:3]
-        return ["📝 Writing", "🔖 Blog"]
+        # Return None for fallback case too, to prevent overwriting
+        return None
 
     def generate_haiku(self, content, title):
         """Generate a haiku related to the post."""
@@ -548,9 +572,10 @@ class MarkdownHeaderProcessor:
                 return haiku
             except Exception as e:
                 print(f"Error generating haiku with Gemini: {str(e)}")
+                return None  # Return None instead of fallback
         
-        # Fallback haiku
-        return "Words flow like water,\nThoughts captured in black and white,\nStories come alive."
+        # Return None for fallback case too, to prevent overwriting
+        return None
 
     def generate_coordinates(self, content, title):
         """Generate coordinates if the post seems to be about a specific location."""
@@ -563,22 +588,30 @@ class MarkdownHeaderProcessor:
                 First few paragraphs:
                 {content[:500]}
                 
-                If there is no specific location mentioned, return the coordinates for London, UK [51.509865, -0.118092].
-                Return only the coordinates in the format [latitude, longitude].
+                If there is no specific location mentioned, explicitly respond with "NO_LOCATION".
+                Otherwise, return only the coordinates in the format [latitude, longitude].
                 """
                 response = self.gemini.generate_content(prompt)
                 coords_text = response.text.strip()
+                
+                # Check if the response indicates no location
+                if "NO_LOCATION" in coords_text.upper():
+                    return None
+                    
                 # Extract coordinates with regex
                 coords_match = re.search(r'\[(-?\d+\.?\d*),\s*(-?\d+\.?\d*)\]', coords_text)
                 if coords_match:
                     lat = float(coords_match.group(1))
                     lon = float(coords_match.group(2))
                     return [lat, lon]
+                else:
+                    return None  # No valid coordinates found
             except Exception as e:
                 print(f"Error generating coordinates with Gemini: {str(e)}")
+                return None  # Return None instead of fallback
         
-        # Fallback coordinates (London)
-        return [51.509865, -0.118092]
+        # Return None for fallback case too, to prevent overwriting
+        return None
         
     def rename_file_if_needed(self, file_path, slug, pub_date=None):
         """Rename the file based on slug and publication date, but only for new files without date-based naming.
