@@ -20,7 +20,7 @@ haiku: |
 coordinates: [8.5068, 4.5469]
 ---
 
-For the John Templeton Foundation, I wrote about the dynamic interplay of Christianity and societal transformation across Africa.
+For the John Templeton Foundation, I wrote about new insights in the study of African religious practices.
 
 > In the Yorubaland region of southwestern Nigeria, hundreds of thousands of Christian and Muslim pilgrims visit Ori-Oke — “prayer mountains” — for meditation, prayer and religious rituals. Although Ori-Oke sites often had previous roles in the practice of traditional local religions, the revival of their importance draws deeply on Christian traditions. The result is a vital form of African Christianity, typical of religious shifts happening around the continent. The groundbreaking anthropological study of [Ori-Oke and its meanings](https://books.google.com/books/about/Ori_Oke_Spirituality_and_Social_Change_i.html?id=SnYZvAEACAAJ), published in 2018, was conducted by researchers from the nearby University of Ilorin, Patrick Nwosu, Lemuel Odeh, Akiti Alamu, and A.Y. Mohammed. The study was part of a continent-wide project to generate new insights into the theology and anthropology of present-day African religious practices by providing resources to researchers working at dozens of African universities, including both flagship national universities and regional institutions. The two-year, $2-million-dollar grant was overseen by Calvin University’s Nagel Institute for the Study of World Christianity with funding from the John Templeton Foundation.
 >

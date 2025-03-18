@@ -21,7 +21,7 @@ haiku: |
 coordinates: [42.9634, -85.6681]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing interplay between science and theology in fostering interreligious dialogue.
+For the John Templeton Foundation, I wrote about a unique effort to bring theological knowledge where it's needed most.
 
 > The stories of science and theology can be told, at least in part, as the story of the grand movement of books. Throughout the Judeo-Christian and Islamic worlds, key texts such as scriptures, metaphysical treatises, or mathematical proofs were carried from their points of origin to distant centers of learning where they were copied, translated, and used as the basis for more scholarship — and ultimately more books.
 >

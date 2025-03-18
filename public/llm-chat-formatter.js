@@ -202,6 +202,11 @@ function formatLLMChats() {
 
 // Helper function to add copy button to code blocks
 function addCopyButtonToCodeBlock(codeBlock) {
+  // First, remove any existing copy buttons
+  const existingButtons = codeBlock.querySelectorAll(".copy-code");
+  existingButtons.forEach(btn => btn.remove());
+
+  // Create new copy button
   const copyBtn = document.createElement("button");
   copyBtn.className = "copy-code-btn";
   copyBtn.textContent = "Copy";
@@ -209,8 +214,19 @@ function addCopyButtonToCodeBlock(codeBlock) {
 
   // Add click event to copy the code
   copyBtn.addEventListener("click", function () {
-    // Get the code text without the button
-    const code = codeBlock.textContent;
+    // Get the code text (get the textContent of each non-button element)
+    let code = "";
+    for (const node of codeBlock.childNodes) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        code += node.textContent;
+      } else if (
+        node.nodeType === Node.ELEMENT_NODE &&
+        !node.classList.contains("copy-code") &&
+        !node.classList.contains("copy-code-btn")
+      ) {
+        code += node.textContent;
+      }
+    }
 
     // Copy to clipboard
     navigator.clipboard
@@ -239,6 +255,21 @@ function addCopyButtonToCodeBlock(codeBlock) {
   // Add to the beginning of the code block so it appears at the top
   codeBlock.insertBefore(copyBtn, codeBlock.firstChild);
 }
+
+// Add this CSS rule to hide the original copy button
+function addHideCopyButtonStyle() {
+  const style = document.createElement("style");
+  style.id = "hide-original-copy-button";
+  style.textContent = `
+      blockquote[data-llm] .chat-bubble pre .copy-code {
+        display: none !important;
+      }
+    `;
+  document.head.appendChild(style);
+}
+
+// Call this function in your main formatter
+addHideCopyButtonStyle();
 
 // Style injector function
 function injectLLMChatStyles() {

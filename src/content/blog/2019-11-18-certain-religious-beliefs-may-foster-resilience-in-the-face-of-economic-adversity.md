@@ -21,7 +21,7 @@ haiku: |
 coordinates: [38.0336, -78.508]
 ---
 
-For the John Templeton Foundation, I wrote about the intricate link between economic struggles and spiritual resilience.
+For the John Templeton Foundation, I wrote about the link between economic struggles and spiritual resilience.
 
 > Do economic hard times drive people to turn to religion for strength and solace? It’s a common notion, whether advocated from the pulpit or satirized by folk singers crooning about “pie in the sky when you die.” But until now, relatively little social scientific research has been conducted on how exactly religious views and economics are interrelated on an individual level. Do people’s economic realities make it more likely that they will hold certain religious beliefs? Does the answer to this question vary depending on people’s perceptions of how stable their economic situations are? Are some kinds of beliefs particularly well-suited to providing resilience during economic hardship? University of Virginia psychologist Jazmin Brown-Iannuzzi and Will Gervais are exploring such questions as part of a multi-year project to investigate correlations between people’s religious beliefs and how they think about their past, present, and future economic situations, and to test the causal relation between economic outcomes and different aspects of religious belief.
 >

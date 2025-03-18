@@ -19,7 +19,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the evolving lessons of the Greek revolution.
+For the John Templeton Foundation, I wrote about the evolving lessons of the Greek Revolution.
 
 > March 25, 2021 will mark the bicentennial of the struggle for independence that led to the creation of modern Greece. Over the next two years, the Center for Liberal Studies – Markos Dragoumis (KEFiM), an Athens-based think tank, will undertake a multipart outreach campaign funded by the John Templeton Foundation that aims to shed new light on the classical liberal origins of the modern Greek nation-state.
 >
