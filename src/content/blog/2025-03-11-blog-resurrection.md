@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
 title: Blog
-slug: blog-resurrection
+slug: blog
 featured: True
 draft: False
 tags:
@@ -14,6 +14,7 @@ haiku: |
   Old words find new home,
   Past thoughts revived, take new breath,
   Making culture bloom.
+
 coordinates: [51.509865, -0.118092]
 ---
 
