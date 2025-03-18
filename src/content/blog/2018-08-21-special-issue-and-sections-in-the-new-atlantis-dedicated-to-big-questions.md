@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-08-21
-modDatetime: 2025-03-18T17:28:42Z
+modDatetime: 2025-03-18 17:28:42+00:00
 title: Special Issue and Sections in ‘The New Atlantis’ Dedicated to Big Questions
-slug: grant-profile-special-issue-and-sections-in-the-new-atlantis-dedicated-to-big-questions
-featured: false
-draft: false
+slug: special-issue-and-sections-in-the-new-atlantis-dedicated-to-big-questions
+featured: False
+draft: False
 description: Slowing down the discourse on the meanings of today’s fast-paced technological and scientific change.
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   In cosmos' vastness,  
   Science probes deep, ethics stir—  
   New truths, timeless quest.
+
 coordinates: [51.509865, -0.118092]
 ---
 

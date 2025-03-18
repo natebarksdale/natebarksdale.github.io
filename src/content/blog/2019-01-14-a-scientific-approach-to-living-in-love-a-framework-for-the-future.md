@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-14
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Grant Profile | A Scientific Approach to Living in Love
-slug: grant-profile-a-scientific-approach-to-living-in-love-a-framework-for-the-future
-featured: false
-draft: false
+slug: grant-profile-a-scientific-approach-to-living-in-love
+featured: False
+draft: False
 description: Kindling new connections in the study of friendship, romance, and affection
 emoji: ❤️
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Bridging hearts and minds,  
   Emotions weave through science,  
   Love's framework takes shape.
+
 coordinates: [35.9049, -79.0469]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2018-11-02
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Free Will, Moral Responsibility, Divine Providence, and Human Relationships with God
-slug: grant-profile-free-will-moral-responsibility-divine-providence-and-human-relationships-with-god
-featured: false
-draft: false
+slug: free-will-moral-responsibility-divine-providence-and-human-relationships-with-god
+featured: False
+draft: False
 description: Who gets to play the blame game?
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Blame cast upon us,  
   Yet shaped by divine hands—  
   Can fault truly lie?
+
 coordinates: [55.9533, -3.1883]
 ---
 

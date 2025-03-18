@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-01-28
-modDatetime: 2025-03-18T17:28:43Z
+modDatetime: 2025-03-18 17:28:43+00:00
 title: Grant Profile | Nudging Empathy
-slug: grant-profile-nudging-empathy-harnessing-motivation-to-create-sustainable-empathic-choices
-featured: false
-draft: false
+slug: grant-profile-nudging-empathy
+featured: False
+draft: False
 description: New interventions may help people open up when confronted with others’ needs
 emoji: 🤲
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Empathy's decline,  
   Nurtured hearts renew the bond,  
   Hope in each effort.
+
 coordinates: [40.7982, -77.8599]
 ---
 
