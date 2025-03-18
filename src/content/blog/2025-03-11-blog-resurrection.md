@@ -211,7 +211,7 @@ Other LLM formats:
 > Python code
 > ```
 
-> {Mistral}
+> {Amelia}
 >
 > {Q}Hey LLM, what's a-poppin?
 >

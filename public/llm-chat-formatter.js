@@ -1,10 +1,30 @@
 // Refined LLM Chat Formatter with Model-Specific Q Bubbles
-// and Improved Layout Flexibility
+// and Improved Layout Flexibility - Case Insensitive Version
 
 document.addEventListener("DOMContentLoaded", function () {
   formatLLMChats();
   document.addEventListener("astro:page-load", formatLLMChats);
 });
+
+// Standardize LLM name formatting
+function normalizeLLMName(name) {
+  // Map of lowercase keys to proper display format
+  const llmNameMap = {
+    chatgpt: "chatgpt",
+    claude: "claude",
+    mistral: "mistral",
+    gemini: "gemini",
+    llama: "llama",
+    deepseek: "deepseek",
+    generic: "generic",
+  };
+
+  // Normalize to lowercase for matching
+  const normalizedName = name.trim().toLowerCase();
+
+  // Return the mapped name or the original in lowercase if no mapping exists
+  return llmNameMap[normalizedName] || normalizedName;
+}
 
 function formatLLMChats() {
   console.log("Formatting LLM chats...");
@@ -20,7 +40,7 @@ function formatLLMChats() {
     if (blockquote.hasAttribute("data-processed")) return;
 
     let isLLMChat = false;
-    let llmName = "Generic";
+    let llmName = "generic";
 
     // Look for LLM markers
     const paragraphs = blockquote.querySelectorAll("p");
@@ -31,7 +51,8 @@ function formatLLMChats() {
       const llmMatch = firstPText.match(/^{([^}]+)}$/);
 
       if (llmMatch) {
-        llmName = llmMatch[1];
+        // Normalize the LLM name for case-insensitivity
+        llmName = normalizeLLMName(llmMatch[1]);
         isLLMChat = true;
       }
     }
@@ -50,8 +71,11 @@ function formatLLMChats() {
 
     console.log(`Processing LLM chat: ${llmName}`);
 
+    // Capitalize first letter for data attribute (for consistency with CSS selectors)
+    const llmAttribute = llmName.charAt(0).toUpperCase() + llmName.slice(1);
+
     // Mark as LLM chat
-    blockquote.setAttribute("data-llm", llmName);
+    blockquote.setAttribute("data-llm", llmAttribute);
     blockquote.setAttribute("data-processed", "true");
 
     // Step 1: Grab all content & save code blocks
@@ -74,7 +98,7 @@ function formatLLMChats() {
     // Add header (we'll position it later based on first message)
     const header = document.createElement("div");
     header.className = "llm-header";
-    header.textContent = llmName;
+    header.textContent = llmName.toLowerCase(); // Always lowercase display
 
     // Step 3: Parse content
     const tempDiv = document.createElement("div");
@@ -261,10 +285,10 @@ function addHideCopyButtonStyle() {
   const style = document.createElement("style");
   style.id = "hide-original-copy-button";
   style.textContent = `
-      blockquote[data-llm] .chat-bubble pre .copy-code {
-        display: none !important;
-      }
-    `;
+        blockquote[data-llm] .chat-bubble pre .copy-code {
+          display: none !important;
+        }
+      `;
   document.head.appendChild(style);
 }
 
@@ -277,260 +301,294 @@ function injectLLMChatStyles() {
   styleEl.id = "llm-chat-forced-styles";
 
   styleEl.textContent = `
-  /* Forced Chat Styles with !important flags */
-  
-  /* Foundation styles for the chat container */
-  blockquote[data-llm] {
-    padding: 0 !important;
-    margin: 1.5rem 0 !important;
-    border: 1px solid rgba(0, 0, 0, 0.1) !important;
-    border-radius: 0.75rem !important;
-    overflow: hidden !important;
-    font-family: 'Faune', sans-serif !important;
-    font-style: normal !important;
-    font-size: 80% !important;
-    font-weight: normal !important;
-    border-left: none !important;
-    opacity: 1 !important;
-    background-color: rgba(250, 250, 250, 0.5) !important;
-  }
-  
-  /* Model-specific backgrounds */
-  blockquote[data-llm="ChatGPT"] {
-    background-color: rgba(229, 231, 235, 0.25) !important;
-  }
-  
-  blockquote[data-llm="Claude"] {
-    background-color: rgba(218, 119, 86, 0.1) !important;
-  }
-  
-  blockquote[data-llm="Mistral"] {
-    background-color: rgba(209, 69, 59, 0.1) !important;
-  }
-  
-  blockquote[data-llm="Gemini"] {
-    background-color: rgba(75, 135, 226, 0.1) !important;
-  }
-  
-  blockquote[data-llm="Generic"] {
-    background-color: rgba(240, 240, 245, 0.25) !important;
-  }
-  
-  /* Header styling - no background */
-  blockquote[data-llm] .llm-header {
-    font-family: 'IBM Plex Mono', monospace !important;
-    font-size: 80% !important;
-    font-weight: normal !important;
-    text-transform: lowercase !important;
-    text-align: left !important;
-    padding: 8px 4px 8px 14px !important;
-    margin: 0 !important;
-    line-height: 1.2 !important;
-  }
-  
-  /* Header wrapper for Q-first chats */
-  blockquote[data-llm] .header-wrapper.q-first {
-    position: relative !important;
-    height: 0 !important;
-    overflow: visible !important;
-    z-index: 1 !important;
-  }
-  
-  blockquote[data-llm] .header-wrapper.q-first .llm-header {
-    position: absolute !important;
-    top: 8px !important;
-    left: 14px !important;
-    padding: 4px 8px !important;
-    border-radius: 12px !important;
-    /* No background or box-shadow */
-  }
-  
-  /* LLM-specific header colors */
-  blockquote[data-llm="ChatGPT"] .llm-header {
-    color: rgb(60, 60, 61) !important;
-  }
-  
-  blockquote[data-llm="Claude"] .llm-header {
-    color: rgb(218, 119, 86) !important;
-  }
-  
-  blockquote[data-llm="Mistral"] .llm-header {
-    color: rgb(209, 69, 59) !important;
-  }
-  
-  blockquote[data-llm="Gemini"] .llm-header {
-    color: rgb(75, 135, 226) !important;
-  }
-  
-  blockquote[data-llm="Generic"] .llm-header {
-    color: rgb(80, 80, 95) !important;
-  }
-  
-  /* Critical: chat container must be flex */
-  blockquote[data-llm] .chat-container {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-    padding: 8px !important;
-  }
-  
-  /* Basic chat bubble styles */
-  blockquote[data-llm] .chat-bubble {
-    display: block !important;
-    position: relative !important;
-    margin: 8px 12px !important;
-    padding: 12px 16px !important;
-    border-radius: 18px !important;
-    box-sizing: border-box !important;
-    word-break: break-word !important;
-    overflow-wrap: break-word !important;
-  }
-  
-  /* Q bubbles - RIGHT aligned with model-specific colors */
-  blockquote[data-llm] .chat-bubble.q-bubble {
-    align-self: flex-end !important;
-    margin-left: auto !important; 
-    max-width: 70% !important;
-    border-radius: 18px 18px 4px 18px !important;
-    color: rgb(30, 30, 30) !important;
-    width: auto !important;
-  }
-  
-  /* Model-specific Q bubble colors - darker for better contrast */
-  blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
-    background-color: rgba(229, 231, 235, 0.9) !important;
-  }
-  
-  blockquote[data-llm="Claude"] .chat-bubble.q-bubble {
-    background-color: rgba(230, 190, 175, 0.9) !important;
-  }
-  
-  blockquote[data-llm="Mistral"] .chat-bubble.q-bubble {
-    background-color: rgba(230, 180, 180, 0.9) !important;
-  }
-  
-  blockquote[data-llm="Gemini"] .chat-bubble.q-bubble {
-    background-color: rgba(180, 210, 240, 0.9) !important;
-  }
-  
-  blockquote[data-llm="Generic"] .chat-bubble.q-bubble {
-    background-color: rgba(210, 210, 225, 0.9) !important;
-  }
-  
-  /* A bubbles - LEFT aligned, full width for long content */
-  blockquote[data-llm] .chat-bubble.a-bubble {
-    align-self: flex-start !important;
-    margin-right: auto !important;
-    background-color: white !important;
-    border-radius: 18px 18px 18px 4px !important;
-    color: rgb(30, 30, 30) !important;
-    width: auto !important;
-    max-width: calc(100% - 24px) !important; /* Full width minus margins */
-  }
-  
-  /* Inline code */
-  blockquote[data-llm] .chat-bubble code {
-    background-color: rgba(0, 0, 0, 0.05) !important;
-    padding: 0.1em 0.3em !important;
-    border-radius: 3px !important;
-    font-size: 0.9em !important;
-  }
-  
-  /* Code blocks */
-  blockquote[data-llm] .chat-bubble pre {
-    display: block !important;
-    margin: 12px 0 4px 0 !important;
-    padding: 12px !important;
-    border-radius: 8px !important;
-    overflow-x: auto !important;
-    background-color: rgba(30, 30, 30, 0.05) !important;
-    border: 1px solid rgba(30, 30, 30, 0.1) !important;
-    width: 100% !important;
-    position: relative !important;
-  }
-  
-  /* Model-specific code block styling */
-  blockquote[data-llm="ChatGPT"] .chat-bubble pre {
-    background-color: rgba(240, 240, 240, 0.7) !important;
-    border-color: rgba(200, 200, 200, 0.8) !important;
-  }
-  
-  blockquote[data-llm="Claude"] .chat-bubble pre {
-    background-color: rgba(245, 242, 240, 0.7) !important;
-    border-color: rgba(218, 119, 86, 0.2) !important;
-  }
-  
-  blockquote[data-llm="Mistral"] .chat-bubble pre {
-    background-color: rgba(250, 240, 240, 0.7) !important;
-    border-color: rgba(209, 69, 59, 0.2) !important;
-  }
-  
-  blockquote[data-llm="Gemini"] .chat-bubble pre {
-    background-color: rgba(240, 245, 250, 0.7) !important;
-    border-color: rgba(75, 135, 226, 0.2) !important;
-  }
-  
-  blockquote[data-llm="Generic"] .chat-bubble pre {
-    background-color: rgba(245, 245, 250, 0.7) !important;
-    border-color: rgba(200, 200, 230, 0.4) !important;
-  }
-  
-  /* Fix code inside pre */
-  blockquote[data-llm] .chat-bubble pre code {
-    background-color: transparent !important;
-    padding: 0 !important;
-    border: none !important;
-    font-size: 0.85em !important;
-    line-height: 1.5 !important;
-    white-space: pre !important;
-    font-family: monospace !important;
-  }
-  
-  /* Copy button styling - directly on the code block */
-  blockquote[data-llm] .chat-bubble pre .copy-code-btn {
-    position: absolute !important;
-    top: 8px !important;
-    right: 8px !important;
-    padding: 2px 8px !important;
-    font-size: 11px !important;
-    background-color: rgba(255, 255, 255, 0.8) !important;
-    border: 1px solid rgba(0, 0, 0, 0.1) !important;
-    border-radius: 4px !important;
-    color: rgba(0, 0, 0, 0.7) !important;
-    cursor: pointer !important;
-    opacity: 0 !important;
-    transition: opacity 0.2s ease !important;
-  }
-  
-  blockquote[data-llm] .chat-bubble pre:hover .copy-code-btn {
-    opacity: 1 !important;
-  }
-  
-  blockquote[data-llm] .chat-bubble pre .copy-code-btn:hover {
-    background-color: rgba(255, 255, 255, 0.95) !important;
-  }
-  
-  /* Override default blockquote styling */
-  blockquote[data-llm]::before,
-  blockquote[data-llm]::after {
-    content: none !important;
-  }
-  
-  /* Ensure bubbles are properly positioned in flex container */
-  @media screen and (min-width: 100px) {
+    /* Forced Chat Styles with !important flags */
+    
+    /* Foundation styles for the chat container */
+    blockquote[data-llm] {
+      padding: 0 !important;
+      margin: 1.5rem 0 !important;
+      border: 1px solid rgba(0, 0, 0, 0.1) !important;
+      border-radius: 0.75rem !important;
+      overflow: hidden !important;
+      font-family: 'Faune', sans-serif !important;
+      font-style: normal !important;
+      font-size: 80% !important;
+      font-weight: normal !important;
+      border-left: none !important;
+      opacity: 1 !important;
+      background-color: rgba(250, 250, 250, 0.5) !important;
+    }
+    
+    /* Model-specific backgrounds */
+    blockquote[data-llm="ChatGPT"] {
+      background-color: rgba(229, 231, 235, 0.25) !important;
+    }
+    
+    blockquote[data-llm="Claude"] {
+      background-color: rgba(218, 119, 86, 0.1) !important;
+    }
+    
+    blockquote[data-llm="Mistral"] {
+      background-color: rgba(209, 69, 59, 0.1) !important;
+    }
+    
+    blockquote[data-llm="Gemini"] {
+      background-color: rgba(75, 135, 226, 0.1) !important;
+    }
+    
+    blockquote[data-llm="Llama"] {
+      background-color: rgba(153, 102, 255, 0.1) !important;
+    }
+    
+    blockquote[data-llm="DeepSeek"] {
+      background-color: rgba(87, 112, 199, 0.1) !important;
+    }
+    
+    blockquote[data-llm="Generic"] {
+      background-color: rgba(240, 240, 245, 0.25) !important;
+    }
+    
+    /* Header styling - no background */
+    blockquote[data-llm] .llm-header {
+      font-family: 'IBM Plex Mono', monospace !important;
+      font-size: 80% !important;
+      font-weight: normal !important;
+      text-transform: lowercase !important;
+      text-align: left !important;
+      padding: 8px 4px 8px 14px !important;
+      margin: 0 !important;
+      line-height: 1.2 !important;
+    }
+    
+    /* Header wrapper for Q-first chats */
+    blockquote[data-llm] .header-wrapper.q-first {
+      position: relative !important;
+      height: 0 !important;
+      overflow: visible !important;
+      z-index: 1 !important;
+    }
+    
+    blockquote[data-llm] .header-wrapper.q-first .llm-header {
+      position: absolute !important;
+      top: 8px !important;
+      left: 14px !important;
+      padding: 4px 8px !important;
+      border-radius: 12px !important;
+      /* No background or box-shadow */
+    }
+    
+    /* LLM-specific header colors */
+    blockquote[data-llm="ChatGPT"] .llm-header {
+      color: rgb(60, 60, 61) !important;
+    }
+    
+    blockquote[data-llm="Claude"] .llm-header {
+      color: rgb(218, 119, 86) !important;
+    }
+    
+    blockquote[data-llm="Mistral"] .llm-header {
+      color: rgb(209, 69, 59) !important;
+    }
+    
+    blockquote[data-llm="Gemini"] .llm-header {
+      color: rgb(75, 135, 226) !important;
+    }
+    
+    blockquote[data-llm="Llama"] .llm-header {
+      color: rgb(153, 102, 255) !important;
+    }
+    
+    blockquote[data-llm="DeepSeek"] .llm-header {
+      color: rgb(87, 112, 199) !important;
+    }
+    
+    blockquote[data-llm="Generic"] .llm-header {
+      color: rgb(80, 80, 95) !important;
+    }
+    
+    /* Critical: chat container must be flex */
     blockquote[data-llm] .chat-container {
       display: flex !important;
+      flex-direction: column !important;
+      width: 100% !important;
+      padding: 8px !important;
     }
     
+    /* Basic chat bubble styles */
+    blockquote[data-llm] .chat-bubble {
+      display: block !important;
+      position: relative !important;
+      margin: 8px 12px !important;
+      padding: 12px 16px !important;
+      border-radius: 18px !important;
+      box-sizing: border-box !important;
+      word-break: break-word !important;
+      overflow-wrap: break-word !important;
+    }
+    
+    /* Q bubbles - RIGHT aligned with model-specific colors */
     blockquote[data-llm] .chat-bubble.q-bubble {
       align-self: flex-end !important;
+      margin-left: auto !important; 
+      max-width: 70% !important;
+      border-radius: 18px 18px 4px 18px !important;
+      color: rgb(30, 30, 30) !important;
+      width: auto !important;
     }
     
+    /* Model-specific Q bubble colors - darker for better contrast */
+    blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
+      background-color: rgba(229, 231, 235, 0.9) !important;
+    }
+    
+    blockquote[data-llm="Claude"] .chat-bubble.q-bubble {
+      background-color: rgba(230, 190, 175, 0.9) !important;
+    }
+    
+    blockquote[data-llm="Mistral"] .chat-bubble.q-bubble {
+      background-color: rgba(230, 180, 180, 0.9) !important;
+    }
+    
+    blockquote[data-llm="Gemini"] .chat-bubble.q-bubble {
+      background-color: rgba(180, 210, 240, 0.9) !important;
+    }
+    
+    blockquote[data-llm="Llama"] .chat-bubble.q-bubble {
+      background-color: rgba(220, 200, 255, 0.9) !important;
+    }
+    
+    blockquote[data-llm="DeepSeek"] .chat-bubble.q-bubble {
+      background-color: rgba(200, 210, 240, 0.9) !important;
+    }
+    
+    blockquote[data-llm="Generic"] .chat-bubble.q-bubble {
+      background-color: rgba(210, 210, 225, 0.9) !important;
+    }
+    
+    /* A bubbles - LEFT aligned, full width for long content */
     blockquote[data-llm] .chat-bubble.a-bubble {
       align-self: flex-start !important;
+      margin-right: auto !important;
+      background-color: white !important;
+      border-radius: 18px 18px 18px 4px !important;
+      color: rgb(30, 30, 30) !important;
+      width: auto !important;
+      max-width: calc(100% - 24px) !important; /* Full width minus margins */
     }
-  }
-    `;
+    
+    /* Inline code */
+    blockquote[data-llm] .chat-bubble code {
+      background-color: rgba(0, 0, 0, 0.05) !important;
+      padding: 0.1em 0.3em !important;
+      border-radius: 3px !important;
+      font-size: 0.9em !important;
+    }
+    
+    /* Code blocks */
+    blockquote[data-llm] .chat-bubble pre {
+      display: block !important;
+      margin: 12px 0 4px 0 !important;
+      padding: 12px !important;
+      border-radius: 8px !important;
+      overflow-x: auto !important;
+      background-color: rgba(30, 30, 30, 0.05) !important;
+      border: 1px solid rgba(30, 30, 30, 0.1) !important;
+      width: 100% !important;
+      position: relative !important;
+    }
+    
+    /* Model-specific code block styling */
+    blockquote[data-llm="ChatGPT"] .chat-bubble pre {
+      background-color: rgba(240, 240, 240, 0.7) !important;
+      border-color: rgba(200, 200, 200, 0.8) !important;
+    }
+    
+    blockquote[data-llm="Claude"] .chat-bubble pre {
+      background-color: rgba(245, 242, 240, 0.7) !important;
+      border-color: rgba(218, 119, 86, 0.2) !important;
+    }
+    
+    blockquote[data-llm="Mistral"] .chat-bubble pre {
+      background-color: rgba(250, 240, 240, 0.7) !important;
+      border-color: rgba(209, 69, 59, 0.2) !important;
+    }
+    
+    blockquote[data-llm="Gemini"] .chat-bubble pre {
+      background-color: rgba(240, 245, 250, 0.7) !important;
+      border-color: rgba(75, 135, 226, 0.2) !important;
+    }
+    
+    blockquote[data-llm="Llama"] .chat-bubble pre {
+      background-color: rgba(245, 240, 255, 0.7) !important;
+      border-color: rgba(153, 102, 255, 0.2) !important;
+    }
+    
+    blockquote[data-llm="DeepSeek"] .chat-bubble pre {
+      background-color: rgba(240, 245, 255, 0.7) !important;
+      border-color: rgba(87, 112, 199, 0.2) !important;
+    }
+    
+    blockquote[data-llm="Generic"] .chat-bubble pre {
+      background-color: rgba(245, 245, 250, 0.7) !important;
+      border-color: rgba(200, 200, 230, 0.4) !important;
+    }
+    
+    /* Fix code inside pre */
+    blockquote[data-llm] .chat-bubble pre code {
+      background-color: transparent !important;
+      padding: 0 !important;
+      border: none !important;
+      font-size: 0.85em !important;
+      line-height: 1.5 !important;
+      white-space: pre !important;
+      font-family: monospace !important;
+    }
+    
+    /* Copy button styling - directly on the code block */
+    blockquote[data-llm] .chat-bubble pre .copy-code-btn {
+      position: absolute !important;
+      top: 8px !important;
+      right: 8px !important;
+      padding: 2px 8px !important;
+      font-size: 11px !important;
+      background-color: rgba(255, 255, 255, 0.8) !important;
+      border: 1px solid rgba(0, 0, 0, 0.1) !important;
+      border-radius: 4px !important;
+      color: rgba(0, 0, 0, 0.7) !important;
+      cursor: pointer !important;
+      opacity: 0 !important;
+      transition: opacity 0.2s ease !important;
+    }
+    
+    blockquote[data-llm] .chat-bubble pre:hover .copy-code-btn {
+      opacity: 1 !important;
+    }
+    
+    blockquote[data-llm] .chat-bubble pre .copy-code-btn:hover {
+      background-color: rgba(255, 255, 255, 0.95) !important;
+    }
+    
+    /* Override default blockquote styling */
+    blockquote[data-llm]::before,
+    blockquote[data-llm]::after {
+      content: none !important;
+    }
+    
+    /* Ensure bubbles are properly positioned in flex container */
+    @media screen and (min-width: 100px) {
+      blockquote[data-llm] .chat-container {
+        display: flex !important;
+      }
+      
+      blockquote[data-llm] .chat-bubble.q-bubble {
+        align-self: flex-end !important;
+      }
+      
+      blockquote[data-llm] .chat-bubble.a-bubble {
+        align-self: flex-start !important;
+      }
+    }
+      `;
 
   // Remove any existing version
   const existing = document.getElementById("llm-chat-forced-styles");
@@ -568,6 +626,9 @@ function debugLLMChats() {
     // Check header
     const header = chat.querySelector(".llm-header");
     console.log(`Header: ${header ? "Found" : "MISSING"}`);
+    if (header) {
+      console.log(`Header text: "${header.textContent}"`);
+    }
 
     // Check header position
     const headerWrapper = chat.querySelector(".header-wrapper.q-first");
