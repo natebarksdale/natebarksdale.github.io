@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-25
-modDatetime: 2025-03-18T14:32:16Z
+modDatetime: 2025-03-18T17:45:11Z
 title: Grant Profile | Greater Good in Education
 slug: grant-profile-greater-good-in-education-ggsc-toolkit-for-teachers
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [37.8715, -122.273]
 ---
 
-For the John Templeton Foundation, I wrote about how an innovative educational toolkit is enhancing the well-being of teachers and students alike.
+For the John Templeton Foundation, I wrote about an innovative educational toolkit.
 
 > Like many educators, Vicki Zakrzewski entered her profession with passion, but found that her initial excitement was drained by the difficulties she faced during the years she spent as a schoolteacher and administrator. In 2012, having recently completed a Ph.D. in education, Zakrzewski helped to establish the education program at U.C. Berkeley’s Greater Good Science Center, tasked with the mission of helping educators understand and apply research-backed insights into the psychology, sociology, and neuroscience of well-being — not only for their students, but also for themselves. “In my experience in the trenches, I came very close to burnout — it’s just an enormously difficult and stressful job. So when I started the education program at Greater Good, I came in knowing that we had to address the adults,” Zakrzewski says. Her Ph.D. research had underscored the ways that organizational psychology — the study of how to create viable, thriving school cultures — was essential to helping students flourish as individuals. “I knew that teachers and school leaders were not getting this training,” she says.
 >

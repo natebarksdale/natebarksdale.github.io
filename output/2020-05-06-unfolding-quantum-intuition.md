@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-05-06
-modDatetime: 2025-03-18T13:56:40Z
+modDatetime: 2025-03-18T17:45:11Z
 title: Grant Profile | Unfolding Quantum Intuition
 slug: grant-profile-unfolding-quantum-intuition
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [56.1629, 10.2039]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing intersection of human intuition and quantum physics.
+For the John Templeton Foundation, I wrote about the intersection of human intuition and quantum physics.
 
 > When the novel coronavirus arrived in the borders of Randomberg, a special “Corona Minister” was appointed to decide how to respond, choosing when to enact and relax interventions and restrictions — from information campaigns to closed borders and full quarantine — to balance public health, economic prosperity, and civil liberties. Randomberg is a fictional polity created for an interactive game where users take the role of Corona Minister, switching policies on and off as the coronavirus timeline advances and as indicators change for population health, economy, mental health, and civil rights. The purpose of the “[Corona Minister” game](https://www.scienceathome.org/games/corona-minister-game/) — designed by the Denmark-based citizen science gaming website [ScienceAtHome](https://www.scienceathome.org) — is less to provide a fully accurate epidemiological simulation for COVID-19 than to help players understand the kinds of trade-offs involved in guiding a society through a pandemic. Jacob Sherson, a physicist at Aarhus University who launched and leads ScienceAtHome says that his team created Corona Minister as a much more complicated version of the classic “[trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)” dilemma, a thought experiment weighing the ethics and consequences of intervention in an unfolding tragedy. “The big problems that we have today involve both technical components and social aspects, psychological and sociological aspects, individual and collective aspects,” Sherson says. “We really need to understand the interplays between technology, individual cognition, and coordination on a grander scale, to see how we can do what you might call public democracy in new ways.”
 >

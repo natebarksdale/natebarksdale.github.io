@@ -636,3 +636,12 @@ function debugLLMChats() {
 
 // Expose debug function globally
 window.debugLLMChats = debugLLMChats;
+
+// Add this to ensure original copy buttons stay hidden
+setInterval(() => {
+  document
+    .querySelectorAll("blockquote[data-llm] .chat-bubble pre .copy-code")
+    .forEach(btn => {
+      btn.style.display = "none";
+    });
+}, 1000);
