@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
-title: Blog Resurrection
+title: Blog
 slug: blog-resurrection
 featured: True
 draft: False
@@ -154,7 +154,9 @@ Other LLM formats:
 > {Q}What's a cool `name` for my dog?
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 >
 > {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
@@ -164,7 +166,9 @@ Other LLM formats:
 > {A}No problem!
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 
 > {Claude}
@@ -176,7 +180,9 @@ Other LLM formats:
 > {Q}What's a cool `name` for my dog?
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 >
 > {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
@@ -186,7 +192,9 @@ Other LLM formats:
 > {A}No problem!
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 
 > {Gemini}
@@ -198,7 +206,9 @@ Other LLM formats:
 > {Q}What's a cool `name` for my dog?
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 >
 > {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
@@ -208,7 +218,9 @@ Other LLM formats:
 > {A}No problem!
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 
 > {Amelia}
@@ -220,7 +232,9 @@ Other LLM formats:
 > {Q}What's a cool `name` for my dog?
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 >
 > {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
@@ -230,7 +244,9 @@ Other LLM formats:
 > {A}No problem!
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 
 > {DeepSeek}
@@ -242,7 +258,9 @@ Other LLM formats:
 > {Q}What's a cool `name` for my dog?
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 >
 > {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
@@ -252,12 +270,15 @@ Other LLM formats:
 > {A}No problem!
 >
 > ```python
-> Python code
+> # This is a simple Python function
+> def hello_world():
+>     print("Hello, World!")
 > ```
 
 ## LLM Chat Markdown Format - Example
 
 > {ChatGPT}
+>
 > {Q}How do I add a code block to my Python project?
 >
 > {A}You can add a code block to a Python project by following these steps:
