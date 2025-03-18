@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-02-26
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | Human Flourishing and Critical Realism in the Social Sciences
 slug: grant-profile-human-flourishing-and-critical-realism-in-the-social-sciences
 featured: false

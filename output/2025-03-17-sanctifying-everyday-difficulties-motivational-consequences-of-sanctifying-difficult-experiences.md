@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17T22:26:26Z
+pubDatetime: 2018-12-15
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | Motivational Consequences of Sanctifying Difficult Experiences
 slug: grant-profile-sanctifying-everyday-difficulties-motivational-consequences-of-sanctifying-difficult-experiences
 featured: false

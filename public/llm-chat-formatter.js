@@ -1,4 +1,4 @@
-// Enhanced llm-chat-formatter.js with better code block handling
+// Completely restructured llm-chat-formatter.js
 document.addEventListener("DOMContentLoaded", function () {
   processLLMChats();
 
@@ -36,42 +36,20 @@ function processLLMChats() {
       }
     }
 
-    if (llmMatch && llmMatch[1]) {
-      // Process specified LLM format
-      const llmName = llmMatch[1].trim();
+    if ((llmMatch && llmMatch[1]) || hasQAFormat) {
+      // Determine LLM name
+      let llmName = "Generic";
+      if (llmMatch && llmMatch[1]) {
+        llmName = llmMatch[1].trim();
+      }
+
+      // Set LLM attribute
       blockquote.setAttribute("data-llm", llmName);
 
-      // Create a header element for the LLM name
-      const header = document.createElement("div");
-      header.className = `llm-header llm-header-${llmName.toLowerCase()}`;
-      header.textContent = llmName;
-
-      // Remove the first paragraph with the LLM name
-      firstP.remove();
-
-      // Insert the header at the beginning of the blockquote
-      blockquote.insertBefore(header, blockquote.firstChild);
-
-      // Process Q/A format
-      processQAFormat(blockquote);
+      // Create a completely new structure
+      restructureChatContent(blockquote, llmName);
 
       console.log(`Processed LLM chat: ${llmName}`);
-    } else if (hasQAFormat) {
-      // Generic LLM style
-      blockquote.setAttribute("data-llm", "Generic");
-
-      // Create a header for Generic LLM
-      const header = document.createElement("div");
-      header.className = "llm-header llm-header-generic";
-      header.textContent = "Chat";
-
-      // Insert the header at the beginning of the blockquote
-      blockquote.insertBefore(header, blockquote.firstChild);
-
-      // Process Q/A format
-      processQAFormat(blockquote);
-
-      console.log("Processed Generic LLM chat");
     }
 
     // Mark as processed to avoid repeated processing
@@ -79,14 +57,44 @@ function processLLMChats() {
   });
 }
 
-// Process Q/A format with improved code block handling
-function processQAFormat(blockquote) {
-  const paragraphs = Array.from(blockquote.querySelectorAll("p"));
+function restructureChatContent(blockquote, llmName) {
+  // Get all content
+  const originalContent = blockquote.innerHTML;
 
+  // Clear the blockquote
+  blockquote.innerHTML = "";
+
+  // Create header
+  const header = document.createElement("div");
+  header.className = `llm-header llm-header-${llmName.toLowerCase()}`;
+  header.textContent = llmName;
+  blockquote.appendChild(header);
+
+  // Create message container
+  const messageContainer = document.createElement("div");
+  messageContainer.className = "message-container";
+  blockquote.appendChild(messageContainer);
+
+  // Parse content into messages
+  const tempDiv = document.createElement("div");
+  tempDiv.innerHTML = originalContent;
+
+  // Get paragraphs from the temp container
+  const paragraphs = tempDiv.querySelectorAll("p");
+
+  // Skip first paragraph if it's the LLM identifier
+  let startIndex = 0;
+  if (
+    paragraphs.length > 0 &&
+    paragraphs[0].textContent.trim().match(/^{[^}]+}$/)
+  ) {
+    startIndex = 1;
+  }
+
+  let currentMessage = null;
   let currentRole = null;
 
-  // First pass: identify roles
-  for (let i = 0; i < paragraphs.length; i++) {
+  for (let i = startIndex; i < paragraphs.length; i++) {
     const p = paragraphs[i];
     const text = p.textContent.trim();
 
@@ -94,59 +102,80 @@ function processQAFormat(blockquote) {
     const qaMatch = text.match(/^{([QA])}/);
 
     if (qaMatch) {
-      // New Q/A section
+      // New message section
       currentRole = qaMatch[1];
-      p.setAttribute("data-role", currentRole);
 
-      // Remove the {Q} or {A} prefix
-      p.innerHTML = p.innerHTML.replace(/^{[QA]}/, "").trim();
+      // Create new message div
+      currentMessage = document.createElement("div");
+      currentMessage.className = "message";
+      currentMessage.setAttribute("data-role", currentRole);
+      messageContainer.appendChild(currentMessage);
+
+      // Remove the {Q} or {A} marker and add the content
+      const content = p.innerHTML.replace(/^{[QA]}/, "").trim();
+
+      // Check if there's a code block
+      if (p.querySelector("pre")) {
+        // Handle special case with code block
+        const parts = content.split(/<pre/);
+        if (parts.length > 1) {
+          // Add text before code block
+          const textPart = document.createElement("div");
+          textPart.innerHTML = parts[0];
+          currentMessage.appendChild(textPart);
+
+          // Add code block
+          const codeBlock = document.createElement("pre");
+          codeBlock.innerHTML = "<pre" + parts.slice(1).join("<pre");
+          currentMessage.appendChild(codeBlock);
+        } else {
+          currentMessage.innerHTML = content;
+        }
+      } else {
+        currentMessage.innerHTML = content;
+      }
+    } else if (currentMessage) {
+      // This is a continuation of the previous message or a code block
+
+      // Check if it's a code block
+      if (p.querySelector("pre")) {
+        // It's a code block, add it directly
+        currentMessage.appendChild(p.querySelector("pre"));
+      } else if (p.textContent.trim() !== "") {
+        // Regular text, append with spacing
+        const spacer = document.createElement("br");
+        currentMessage.appendChild(spacer);
+
+        // Add a small gap before appending more text
+        const spacerDiv = document.createElement("div");
+        spacerDiv.style.height = "0.5em";
+        currentMessage.appendChild(spacerDiv);
+
+        // Append the content
+        const contentDiv = document.createElement("div");
+        contentDiv.innerHTML = p.innerHTML;
+        currentMessage.appendChild(contentDiv);
+      }
     }
   }
 
-  // Second pass: ensure code blocks are inside their parent Q/A paragraph
-  const codeBlocks = blockquote.querySelectorAll("pre");
+  // Fix code blocks to ensure they're properly contained
+  messageContainer.querySelectorAll("pre").forEach(pre => {
+    const parent = pre.parentElement;
 
-  codeBlocks.forEach(codeBlock => {
-    const parentP = codeBlock.closest("p");
-
-    // If code block's parent doesn't have a role, it might be a standalone block
-    if (parentP && !parentP.hasAttribute("data-role")) {
-      // Find the nearest preceding paragraph with a role
-      let prevSibling = parentP.previousElementSibling;
-      while (prevSibling && !prevSibling.hasAttribute("data-role")) {
-        prevSibling = prevSibling.previousElementSibling;
-      }
-
-      if (prevSibling) {
-        const role = prevSibling.getAttribute("data-role");
-
-        // Move this code block into the previous role paragraph
-        prevSibling.appendChild(document.createElement("br"));
-        prevSibling.appendChild(codeBlock);
-
-        // Remove the now-empty paragraph
-        if (parentP.textContent.trim() === "") {
-          parentP.remove();
-        }
+    // If pre is not directly in a message div, move it
+    if (!parent.classList.contains("message")) {
+      // Find closest message ancestor
+      const messageParent = pre.closest(".message");
+      if (messageParent) {
+        messageParent.appendChild(pre);
       }
     }
-  });
 
-  // Final cleanup: remove empty paragraphs and set width
-  blockquote.querySelectorAll("p").forEach(p => {
-    if (p.textContent.trim() === "" && !p.querySelector("pre")) {
-      p.remove();
-    }
-
-    // Make Q bubbles fit their content
-    if (p.getAttribute("data-role") === "Q") {
-      // Count number of line breaks to determine if multi-line
-      const textContent = p.innerHTML;
-      const lineBreakCount = (textContent.match(/<br>/g) || []).length;
-
-      if (lineBreakCount === 0 && !p.querySelector("pre")) {
-        p.style.width = "max-content";
-      }
+    // Ensure code within pre is properly styled
+    const code = pre.querySelector("code");
+    if (code) {
+      code.style.backgroundColor = "transparent";
     }
   });
 }

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2021-03-01
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | One Million Years Ago, How Did Humans Think?
 slug: grant-profile-one-million-years-ago-how-did-humans-think
 featured: false

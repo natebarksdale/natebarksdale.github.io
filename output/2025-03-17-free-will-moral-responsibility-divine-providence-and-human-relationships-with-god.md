@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-11-02
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | Free Will, Moral Responsibility, Divine Providence, and Human Relationships with God
 slug: grant-profile-free-will-moral-responsibility-divine-providence-and-human-relationships-with-god
 featured: false

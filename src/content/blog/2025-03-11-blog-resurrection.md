@@ -147,57 +147,116 @@ Other LLM formats:
 
 > {ChatGPT}
 >
-> {Q}What's a cool name for my dog?
+> {Q}Hey LLM, what's a-poppin?
 >
-> {A}Fido or rex -- which do you like?
+> {A}Oh, you know.
 >
-> {Q}Rex is pretty good. Thanks!
+> {Q}What's a cool `name` for my dog?
+>
+> ```python
+> Python code
+> ```
+>
+> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
+>
+> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
 >
 > {A}No problem!
+>
+> ```python
+> Python code
+> ```
 
 > {Claude}
 >
-> {Q}What's a cool name for my dog?
+> {Q}Hey LLM, what's a-poppin?
 >
-> {A}Fido or rex -- which do you like?
+> {A}Oh, you know.
 >
-> {Q}Rex is pretty good. Thanks!
+> {Q}What's a cool `name` for my dog?
+>
+> ```python
+> Python code
+> ```
+>
+> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
+>
+> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
 >
 > {A}No problem!
+>
+> ```python
+> Python code
+> ```
 
 > {Gemini}
 >
-> {Q}What's a cool name for my dog?
+> {Q}Hey LLM, what's a-poppin?
 >
-> {A}Fido or rex -- which do you like?
+> {A}Oh, you know.
 >
-> {Q}Rex is pretty good. Thanks!
+> {Q}What's a cool `name` for my dog?
+>
+> ```python
+> Python code
+> ```
+>
+> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
+>
+> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
 >
 > {A}No problem!
+>
+> ```python
+> Python code
+> ```
 
 > {Mistral}
 >
-> {Q}What's a cool name for my dog?
+> {Q}Hey LLM, what's a-poppin?
 >
-> {A}Fido or rex -- which do you like?
+> {A}Oh, you know.
 >
-> {Q}Rex is pretty good. Thanks!
+> {Q}What's a cool `name` for my dog?
+>
+> ```python
+> Python code
+> ```
+>
+> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
+>
+> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
 >
 > {A}No problem!
+>
+> ```python
+> Python code
+> ```
 
 > {DeepSeek}
 >
-> {Q}What's a cool name for my dog?
+> {Q}Hey LLM, what's a-poppin?
 >
-> {A}Fido or rex -- which do you like?
+> {A}Oh, you know.
 >
-> {Q}Rex is pretty good. Thanks!
+> {Q}What's a cool `name` for my dog?
+>
+> ```python
+> Python code
+> ```
+>
+> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
+>
+> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
 >
 > {A}No problem!
+>
+> ```python
+> Python code
+> ```
 
 ## LLM Chat Markdown Format - Example
 
-````markdown
 > {ChatGPT}
 > {Q}How do I add a code block to my Python project?
 >
@@ -233,7 +292,6 @@ Other LLM formats:
 > ```
 >
 > Good comments explain why rather than what the code is doing.
-````
 
 ## Important Format Rules
 

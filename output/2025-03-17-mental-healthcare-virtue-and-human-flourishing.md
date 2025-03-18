@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2020-03-12
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | Mental Healthcare, Virtue, and Human Flourishing
 slug: grant-profile-mental-healthcare-virtue-and-human-flourishing
 featured: false

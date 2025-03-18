@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2021-03-10
+modDatetime: 2025-03-18T14:32:16Z
 title: Grant Profile | Islam’s Great Classical Thinker Has a Message for Today’s Kids
 slug: grant-profile-islams-great-classical-thinker-has-a-message-for-todays-kids
 featured: false

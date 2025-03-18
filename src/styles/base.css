@@ -330,7 +330,9 @@ p:not(:last-child)::after {
  * - Blockquote background: 10% theme color
  */
 
-/* Base LLM Chat Styles */
+/* Fixed CSS for LLM chat bubbles with proper alignment */
+
+/* Base blockquote styling */
 blockquote[data-llm] {
   @apply p-0 my-6 border rounded-xl overflow-hidden;
   font-family: 'Faune', sans-serif;
@@ -340,11 +342,11 @@ blockquote[data-llm] {
   border-left: none !important;
   opacity: 1 !important;
   border-color: rgba(0,0,0,0.1);
-  /* box-shadow: 0 2px 8px rgba(0,0,0,0.05); */
+  display: flex;
+  flex-direction: column;
 }
 
-/* Header styling - this is critical */
-/* purgecss: ignore next */
+/* Header styling */
 blockquote[data-llm] .llm-header {
   font-family: 'IBM Plex Mono', monospace !important;
   font-size: 80% !important;
@@ -356,267 +358,132 @@ blockquote[data-llm] .llm-header {
   line-height: 1.2 !important;
 }
 
-/* Message styling */
-blockquote[data-llm] p {
-  @apply my-4 py-2 px-4 rounded-xl;
+/* Message container - use flex for proper alignment */
+blockquote[data-llm] .message-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0.5rem 0;
 }
 
-blockquote[data-llm] p[data-role="Q"] {
-  @apply ml-auto mr-4;
-  max-width: 70%;
-  width: fit-content;
+/* Base message styling */
+blockquote[data-llm] .message {
+  padding: 0.7em 1em;
+  margin: 0.5em 1em;
+  border-radius: 18px;
+  max-width: 80%;
+  width: auto;
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Question bubble styling */
+blockquote[data-llm] .message[data-role="Q"] {
+  align-self: flex-end;
+  background-color: rgba(240, 240, 240, 0.9);
+  color: rgb(30, 30, 30);
   border-radius: 18px 18px 4px 18px;
 }
 
-blockquote[data-llm] p[data-role="A"] {
-  @apply ml-4 mr-auto;
-  background-color: white !important;
-  color: rgb(30, 30, 30) !important;
-  max-width: 90%;
-  width: fit-content;
+/* Answer bubble styling */
+blockquote[data-llm] .message[data-role="A"] {
+  align-self: flex-start;
+  background-color: white;
+  color: rgb(30, 30, 30);
   border-radius: 18px 18px 18px 4px;
 }
 
-/* Empty paragraphs in blockquotes should be hidden */
-blockquote[data-llm] p:empty {
-  @apply hidden;
+/* Code block styling */
+blockquote[data-llm] .message pre {
+  margin: 0.75em 0;
+  padding: 0.75em;
+  border-radius: 0.5em;
+  width: 100%;
+  overflow-x: auto;
+  background-color: rgba(30, 30, 30, 0.03);
+  border: 1px solid rgba(30, 30, 30, 0.1);
+  position: relative;
 }
 
-/* Generic LLM style - will be used as fallback/default */
-blockquote[data-llm="Generic"], 
-blockquote[data-role="Q"],
-blockquote[data-role="A"] {
-  background-color: rgba(240, 240, 245, 0.25); /* Slightly different from ChatGPT */
-  @apply p-0 my-6 border rounded-xl overflow-hidden;
-  font-family: 'Faune', sans-serif;
-  font-style: normal;
-  font-size: 80%;
-  font-weight: normal;
-  border-left: none !important;
-  opacity: 1 !important;
-  border-color: rgba(0,0,0,0.1);
+/* Code styling by LLM type */
+blockquote[data-llm="ChatGPT"] .message pre {
+  background-color: rgba(240, 240, 240, 0.7);
+  border-color: rgba(200, 200, 200, 0.8);
 }
 
-/* Message styling for Generic and unspecified LLM chats */
-blockquote[data-llm="Generic"] p[data-role="Q"],
-blockquote:not([data-llm]) p[data-role="Q"] {
-  @apply ml-auto mr-4;
-  background-color: rgba(240, 240, 245, 0.9) !important; /* Slightly different from ChatGPT */
-  color: rgb(30, 30, 30) !important;
-  max-width: 70%;
-  width: fit-content;
-  border-radius: 18px 18px 4px 18px;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  padding: 0.5em 1em;
+blockquote[data-llm="Claude"] .message pre {
+  background-color: rgba(245, 242, 240, 0.7);
+  border-color: rgba(218, 119, 86, 0.2);
 }
 
-blockquote[data-llm="Generic"] p[data-role="A"],
-blockquote:not([data-llm]) p[data-role="A"] {
-  @apply ml-4 mr-auto;
-  background-color: white !important;
-  color: rgb(30, 30, 30) !important;
-  max-width: 90%;
-  width: fit-content;
-  border-radius: 18px 18px 18px 4px;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  padding: 0.5em 1em;
+blockquote[data-llm="Mistral"] .message pre {
+  background-color: rgba(250, 240, 240, 0.7);
+  border-color: rgba(209, 69, 59, 0.2);
 }
 
-/* Also ensure these styles work when no LLM is specified */
-blockquote:not([data-llm]) p[data-role="Q"],
-blockquote:not([data-llm]) p[data-role="A"] {
-  @apply my-4 py-2 px-4 rounded-xl;
+blockquote[data-llm="Gemini"] .message pre {
+  background-color: rgba(240, 245, 250, 0.7);
+  border-color: rgba(75, 135, 226, 0.2);
 }
 
-/* ChatGPT - Grey theme */
-blockquote[data-llm="ChatGPT"] {
-  background-color: rgba(229,231,235, 0.25); /* 10% of theme color */
+blockquote[data-llm="Generic"] .message pre,
+blockquote:not([data-llm]) .message pre {
+  background-color: rgba(245, 245, 250, 0.7);
+  border-color: rgba(200, 200, 230, 0.4);
 }
 
-
-blockquote[data-llm="ChatGPT"] p[data-role="Q"] {
-  background-color: rgba(229,231,235, 1) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
+/* Code inside pre styling */
+blockquote[data-llm] .message pre code {
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.85em;
+  line-height: 1.5;
+  white-space: pre;
 }
 
-/* Claude - Beige/Orange theme */
-blockquote[data-llm="Claude"] {
-  background-color: rgba(218, 119, 86, 0.1); /* 10% of theme color */
+/* Copy button styling */
+blockquote[data-llm] .message pre .copy-code {
+  opacity: 0;
+  position: absolute;
+  right: 0.5em;
+  top: 0.5em;
+  font-size: 0.7em;
+  transition: opacity 0.2s ease;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 2px 5px;
+  cursor: pointer;
 }
 
-
-
-blockquote[data-llm="Claude"] p[data-role="Q"] {
-  background-color: rgba(218, 119, 86, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
+blockquote[data-llm] .message pre:hover .copy-code {
+  opacity: 0.7;
 }
 
-/* Mistral - Red theme */
-blockquote[data-llm="Mistral"] {
-  background-color: rgba(209, 69, 59, 0.1); /* 10% of theme color */
+blockquote[data-llm] .message pre .copy-code:hover {
+  opacity: 1;
 }
 
-
-blockquote[data-llm="Mistral"] p[data-role="Q"] {
-  background-color: rgba(209, 69, 59, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
+/* LLM-specific header colors */
+blockquote[data-llm="ChatGPT"] .llm-header {
+  color: rgb(60, 60, 61);
 }
 
-/* Gemini - Blue theme */
-blockquote[data-llm="Gemini"] {
-  background-color: rgba(75, 135, 226, 0.1); /* 10% of theme color */
+blockquote[data-llm="Claude"] .llm-header {
+  color: rgb(218, 119, 86);
 }
 
-blockquote[data-llm="Gemini"] p[data-role="Q"] {
-  background-color: rgba(75, 135, 226, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
+blockquote[data-llm="Mistral"] .llm-header {
+  color: rgb(209, 69, 59);
 }
 
-/* DeepSeek - Purple theme */
-blockquote[data-llm="DeepSeek"] {
-  background-color: rgba(87, 112, 199, 0.1); /* 10% of theme color */
+blockquote[data-llm="Gemini"] .llm-header {
+  color: rgb(75, 135, 226);
 }
 
-
-blockquote[data-llm="DeepSeek"] p[data-role="Q"] {
-  background-color: rgba(87, 112, 199, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
-}
-
-
-/* Llama - Purple theme */
-blockquote[data-llm="Llama"] {
-  background-color: rgba(153, 102, 255, 0.1); /* 10% of theme color */
-}
-
-
-blockquote[data-llm="Llama"] p[data-role="Q"] {
-  background-color: rgba(153, 102, 255, 0.25) !important; /* 25% of theme color */
-  color: rgb(30, 30, 30) !important;
-}
-
-/* Core styles for blockquotes and chat bubbles */
-blockquote[data-llm] {
-  @apply p-0 my-6 border rounded-xl overflow-hidden;
-  font-family: 'Faune', sans-serif;
-  font-style: normal;
-  font-size: 80%;
-  font-weight: normal;
-  border-left: none !important;
-  opacity: 1 !important;
-  border-color: rgba(0,0,0,0.1);
-}
-
-/* Correct message styling - CRITICAL FIXES */
-blockquote[data-llm] p[data-role] {
-  @apply my-4 py-2 px-4 rounded-xl;
-  display: inline-block; /* This allows bubbles to fit content */
-}
-
-blockquote[data-llm] p[data-role="Q"] {
-  @apply ml-auto mr-4;
-  max-width: 70%;
-  width: max-content !important; /* Only as wide as needed */
-  border-radius: 18px 18px 4px 18px;
-}
-
-blockquote[data-llm] p[data-role="A"] {
-  @apply ml-4 mr-auto;
-  background-color: white !important;
-  color: rgb(30, 30, 30) !important;
-  max-width: 90%;
-  width: max-content !important; /* Only as wide as needed */
-  border-radius: 18px 18px 18px 4px;
-}
-
-/* Code block styling within chat bubbles - NEW APPROACH */
-blockquote[data-llm] p[data-role] pre {
-  display: block !important;
-  width: 100% !important;
-  margin: 0.75em 0 !important;
-  padding: 0.75em !important;
-  border-radius: 0.5em !important;
-  overflow-x: auto !important;
-  background-color: rgba(30, 30, 30, 0.03) !important;
-  border: 1px solid rgba(30, 30, 30, 0.1) !important;
-  position: relative !important;
-  box-sizing: border-box !important;
-}
-
-/* Fix for A bubbles specifically */
-blockquote[data-llm] p[data-role="A"] pre {
-  background-color: rgba(245, 245, 250, 0.7) !important;
-}
-
-/* Specific styling for different LLM types */
-/* ChatGPT specific code theme */
-blockquote[data-llm="ChatGPT"] p[data-role] pre {
-  background-color: rgba(240, 240, 240, 0.7) !important;
-  border-color: rgba(200, 200, 200, 0.8) !important;
-}
-
-/* Claude specific code theme */
-blockquote[data-llm="Claude"] p[data-role] pre {
-  background-color: rgba(245, 242, 240, 0.7) !important;
-  border-color: rgba(218, 119, 86, 0.2) !important;
-}
-
-/* Mistral specific code theme */
-blockquote[data-llm="Mistral"] p[data-role] pre {
-  background-color: rgba(250, 240, 240, 0.7) !important;
-  border-color: rgba(209, 69, 59, 0.2) !important;
-}
-
-/* Gemini specific code theme */
-blockquote[data-llm="Gemini"] p[data-role] pre {
-  background-color: rgba(240, 245, 250, 0.7) !important;
-  border-color: rgba(75, 135, 226, 0.2) !important;
-}
-
-/* Generic LLM specific code theme */
-blockquote[data-llm="Generic"] p[data-role] pre,
-blockquote:not([data-llm]) p[data-role] pre {
-  background-color: rgba(245, 245, 250, 0.7) !important;
-  border-color: rgba(200, 200, 230, 0.4) !important;
-}
-
-/* Ensure code inside pre has proper styling */
-blockquote[data-llm] p[data-role] pre code {
-  background-color: transparent !important;
-  padding: 0 !important;
-  font-size: 0.85em !important;
-  line-height: 1.5 !important;
-  white-space: pre !important;
-}
-
-/* Hide copy button by default and show on hover */
-blockquote[data-llm] p[data-role] pre .copy-code {
-  opacity: 0 !important;
-  position: absolute !important;
-  right: 0.5em !important;
-  top: 0.5em !important;
-  font-size: 0.7em !important;
-  transition: opacity 0.2s ease !important;
-  background-color: rgba(255, 255, 255, 0.7) !important;
-  border: 1px solid rgba(0, 0, 0, 0.1) !important;
-  border-radius: 4px !important;
-  padding: 2px 5px !important;
-  cursor: pointer !important;
-}
-
-blockquote[data-llm] p[data-role] pre:hover .copy-code {
-  opacity: 0.7 !important;
-}
-
-blockquote[data-llm] p[data-role] pre .copy-code:hover {
-  opacity: 1 !important;
-}
-
-/* Make code blocks inside LLM chats match the blog's code style but with proper context */
-blockquote[data-llm] code {
-  @apply bg-skin-fill text-xs p-1 rounded;
+blockquote[data-llm="Generic"] .llm-header,
+blockquote:not([data-llm]) .llm-header {
+  color: rgb(80, 80, 95);
 }
 
 }
