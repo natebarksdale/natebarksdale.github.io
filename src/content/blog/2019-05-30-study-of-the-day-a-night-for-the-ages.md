@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-05-30
 modDatetime: 2025-03-18 21:19:22+00:00
 title: A Night for the Ages
-slug: a-night-for-the-ages-2
+slug: a-night-for-the-ages-1
 featured: False
 draft: False
 description: Marcelo Gleiser receives the 2019 Templeton Prize at the Met, blending ancient myths with cutting-edge cosmology in an unforgettable ceremony.
