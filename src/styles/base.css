@@ -257,6 +257,14 @@ p:not(:last-child)::after {
   tfoot td:first-child {
     padding-left: 0.5714286em;
   }
+
+  .prose h2 {
+    @apply text-xl !important; /* Match the text-xl size that your body content uses */
+    font-size: inherit !important; /* Inherit the font size from parent */
+    margin-top: 1.5em !important; /* Maintain good spacing */
+    margin-bottom: 0.5em !important; /* Reduce bottom margin */
+  }
+
   .prose h2#table-of-contents {
     @apply mb-2;
   }
@@ -374,6 +382,54 @@ blockquote[data-llm] p:empty {
   @apply hidden;
 }
 
+/* Generic LLM style - will be used as fallback/default */
+blockquote[data-llm="Generic"], 
+blockquote[data-role="Q"],
+blockquote[data-role="A"] {
+  background-color: rgba(240, 240, 245, 0.25); /* Slightly different from ChatGPT */
+  @apply p-0 my-6 border rounded-xl overflow-hidden;
+  font-family: 'Faune', sans-serif;
+  font-style: normal;
+  font-size: 80%;
+  font-weight: normal;
+  border-left: none !important;
+  opacity: 1 !important;
+  border-color: rgba(0,0,0,0.1);
+}
+
+/* Message styling for Generic and unspecified LLM chats */
+blockquote[data-llm="Generic"] p[data-role="Q"],
+blockquote:not([data-llm]) p[data-role="Q"] {
+  @apply ml-auto mr-4;
+  background-color: rgba(240, 240, 245, 0.9) !important; /* Slightly different from ChatGPT */
+  color: rgb(30, 30, 30) !important;
+  max-width: 70%;
+  width: fit-content;
+  border-radius: 18px 18px 4px 18px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+}
+
+blockquote[data-llm="Generic"] p[data-role="A"],
+blockquote:not([data-llm]) p[data-role="A"] {
+  @apply ml-4 mr-auto;
+  background-color: white !important;
+  color: rgb(30, 30, 30) !important;
+  max-width: 90%;
+  width: fit-content;
+  border-radius: 18px 18px 18px 4px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 0.5em 1em;
+}
+
+/* Also ensure these styles work when no LLM is specified */
+blockquote:not([data-llm]) p[data-role="Q"],
+blockquote:not([data-llm]) p[data-role="A"] {
+  @apply my-4 py-2 px-4 rounded-xl;
+}
+
 /* ChatGPT - Grey theme */
 blockquote[data-llm="ChatGPT"] {
   background-color: rgba(229,231,235, 0.25); /* 10% of theme color */
@@ -441,6 +497,71 @@ blockquote[data-llm="Llama"] p[data-role="Q"] {
   color: rgb(30, 30, 30) !important;
 }
 
+/* Code blocks inside LLM chat bubbles */
+blockquote[data-llm] p[data-role="A"] pre,
+blockquote[data-llm] p[data-role="Q"] pre {
+  margin: 0.75em 0;
+  padding: 0.75em;
+  border-radius: 0.5em;
+  max-width: 100%;
+  overflow-x: auto;
+  background-color: rgba(30, 30, 30, 0.03);
+  border: 1px solid rgba(30, 30, 30, 0.1);
+}
+
+/* ChatGPT specific code theme */
+blockquote[data-llm="ChatGPT"] p[data-role] pre {
+  background-color: rgba(220, 220, 220, 0.5);
+  border-color: rgba(200, 200, 200, 0.8);
+}
+
+/* Claude specific code theme */
+blockquote[data-llm="Claude"] p[data-role] pre {
+  background-color: rgba(218, 119, 86, 0.05);
+  border-color: rgba(218, 119, 86, 0.2);
+}
+
+/* Mistral specific code theme */
+blockquote[data-llm="Mistral"] p[data-role] pre {
+  background-color: rgba(209, 69, 59, 0.05);
+  border-color: rgba(209, 69, 59, 0.2);
+}
+
+/* Gemini specific code theme */
+blockquote[data-llm="Gemini"] p[data-role] pre {
+  background-color: rgba(75, 135, 226, 0.05);
+  border-color: rgba(75, 135, 226, 0.2);
+}
+
+/* Generic LLM specific code theme */
+blockquote[data-llm="Generic"] p[data-role] pre,
+blockquote:not([data-llm]) p[data-role] pre {
+  background-color: rgba(240, 240, 245, 0.3);
+  border-color: rgba(200, 200, 230, 0.4);
+}
+
+/* Code blocks inside LLM chats should preserve their code styling */
+blockquote[data-llm] p[data-role] pre code {
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.85em;
+  line-height: 1.5;
+  tab-size: 2;
+  white-space: pre;
+}
+
+/* Ensure code copy button appears correctly */
+blockquote[data-llm] p[data-role] pre .copy-code {
+  opacity: 0.6;
+  font-size: 0.7em;
+  right: 0.5em;
+  top: 0.5em;
+}
+
+blockquote[data-llm] p[data-role] pre:hover .copy-code {
+  opacity: 1;
+}
+
 /* Make code blocks inside LLM chats match the blog's code style but with proper context */
 blockquote[data-llm] code {
   @apply bg-skin-fill text-xs p-1 rounded;
@@ -497,4 +618,19 @@ blockquote[data-llm="Llama"] .llm-header {
 /* purgecss: ignore next */
 blockquote[data-llm="Gemini"] .llm-header {
   color: rgb(75, 135, 226) !important; /* 100% theme color */
+}
+
+/* Header styling for Generic LLM */
+/* purgecss: ignore next */
+blockquote[data-llm="Generic"] .llm-header,
+blockquote:not([data-llm]) .llm-header {
+  font-family: 'IBM Plex Mono', monospace !important;
+  font-size: 80% !important;
+  font-weight: normal !important;
+  text-transform: lowercase !important;
+  text-align: left !important;
+  padding: 8px 4px 8px 14px !important;
+  margin: 0 !important;
+  line-height: 1.2 !important;
+  color: rgb(80, 80, 95) !important; /* Slightly bluer gray to distinguish */
 }

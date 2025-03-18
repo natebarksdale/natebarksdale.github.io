@@ -195,8 +195,110 @@ Other LLM formats:
 >
 > {A}No problem!
 
-{Deepseek}
-{Q}What's a cool name for my dog?
-{A}Fido or rex -- which do you like?
-{Q}Rex is pretty good. Thanks!
-{A}No problem!
+> {ChatGPT}
+> {Q}How would I create a simple React component that displays a counter?
+>
+> {A}Here's a simple React counter component:
+>
+> ```jsx
+> import React, { useState } from "react";
+>
+> function Counter() {
+>   const [count, setCount] = useState(0);
+>
+>   return (
+>     <div className="counter">
+>       <h2>Count: {count}</h2>
+>       <button onClick={() => setCount(count - 1)}>-</button>
+>       <button onClick={() => setCount(count + 1)}>+</button>
+>       <button onClick={() => setCount(0)}>Reset</button>
+>     </div>
+>   );
+> }
+>
+> export default Counter;
+> ```
+>
+> You can use this component in your app by importing it and adding it to your JSX:
+>
+> ```jsx
+> import Counter from "./Counter";
+>
+> function App() {
+>   return (
+>     <div className="app">
+>       <h1>My Counter App</h1>
+>       <Counter />
+>     </div>
+>   );
+> }
+> ```
+>
+> {Q}That looks great! Can I style the buttons to look better?
+>
+> {A}Absolutely! Here's the same component with some added styling:
+>
+> ```jsx
+> import React, { useState } from "react";
+> import "./Counter.css"; // We'll create this file next
+>
+> function Counter() {
+>   const [count, setCount] = useState(0);
+>
+>   return (
+>     <div className="counter">
+>       <h2>Count: {count}</h2>
+>       <div className="counter-buttons">
+>         <button onClick={() => setCount(count - 1)}>-</button>
+>         <button onClick={() => setCount(count + 1)}>+</button>
+>         <button className="reset-button" onClick={() => setCount(0)}>
+>           Reset
+>         </button>
+>       </div>
+>     </div>
+>   );
+> }
+>
+> export default Counter;
+> ```
+>
+> And here's the CSS file (Counter.css):
+>
+> ```css
+> .counter {
+>   display: flex;
+>   flex-direction: column;
+>   align-items: center;
+>   padding: 1rem;
+>   border-radius: 8px;
+>   background-color: #f8f9fa;
+>   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+> }
+>
+> .counter-buttons {
+>   display: flex;
+>   gap: 0.5rem;
+> }
+>
+> button {
+>   padding: 0.5rem 1rem;
+>   border: none;
+>   border-radius: 4px;
+>   background-color: #0d6efd;
+>   color: white;
+>   cursor: pointer;
+>   transition: background-color 0.2s;
+> }
+>
+> button:hover {
+>   background-color: #0b5ed7;
+> }
+>
+> .reset-button {
+>   background-color: #6c757d;
+> }
+>
+> .reset-button:hover {
+>   background-color: #5c636a;
+> }
+> ```
