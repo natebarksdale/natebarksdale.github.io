@@ -1,5 +1,5 @@
-// Complete LLM Chat Formatter with Forced Styling
-// This is a single file you can include in your project
+// Enhanced LLM Chat Formatter with Model-Specific Q Bubbles
+// and Improved Layout Flexibility
 
 document.addEventListener("DOMContentLoaded", function () {
   formatLLMChats();
@@ -67,16 +67,14 @@ function formatLLMChats() {
     const originalHTML = blockquote.innerHTML;
     blockquote.innerHTML = "";
 
-    // Add header
-    const header = document.createElement("div");
-    header.className = "llm-header";
-    header.textContent = llmName;
-    blockquote.appendChild(header);
-
     // Create chat container
     const chatContainer = document.createElement("div");
     chatContainer.className = "chat-container";
-    blockquote.appendChild(chatContainer);
+
+    // Add header (we'll position it later based on first message)
+    const header = document.createElement("div");
+    header.className = "llm-header";
+    header.textContent = llmName;
 
     // Step 3: Parse content
     const tempDiv = document.createElement("div");
@@ -84,6 +82,7 @@ function formatLLMChats() {
 
     let currentRole = null;
     let currentBubble = null;
+    let firstMessageRole = null;
 
     // Track the paragraph elements and their positions
     const elements = [];
@@ -115,6 +114,12 @@ function formatLLMChats() {
         if (qaMatch) {
           // New Q/A section
           currentRole = qaMatch[1];
+
+          // Track first message role
+          if (firstMessageRole === null) {
+            firstMessageRole = currentRole;
+          }
+
           currentBubble = document.createElement("div");
           currentBubble.className = `chat-bubble ${currentRole.toLowerCase()}-bubble`;
           chatContainer.appendChild(currentBubble);
@@ -161,6 +166,21 @@ function formatLLMChats() {
         currentBubble.appendChild(block.element);
       }
     }
+
+    // Step 5: Determine header position based on first message
+    if (firstMessageRole === "Q") {
+      // Create a special header wrapper for Q-first chats
+      const headerWrapper = document.createElement("div");
+      headerWrapper.className = "header-wrapper q-first";
+      headerWrapper.appendChild(header);
+      blockquote.appendChild(headerWrapper);
+    } else {
+      // For A-first or no messages, use standard header position
+      blockquote.appendChild(header);
+    }
+
+    // Finally add the chat container
+    blockquote.appendChild(chatContainer);
 
     console.log("Completed formatting chat");
   });
@@ -223,6 +243,24 @@ function injectLLMChatStyles() {
     line-height: 1.2 !important;
   }
   
+  /* Header wrapper for Q-first chats */
+  blockquote[data-llm] .header-wrapper.q-first {
+    position: relative !important;
+    height: 0 !important;
+    overflow: visible !important;
+    z-index: 1 !important;
+  }
+  
+  blockquote[data-llm] .header-wrapper.q-first .llm-header {
+    position: absolute !important;
+    top: 8px !important;
+    left: 14px !important;
+    padding: 4px 8px !important;
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    border-radius: 12px !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+  }
+  
   /* LLM-specific header colors */
   blockquote[data-llm="ChatGPT"] .llm-header {
     color: rgb(60, 60, 61) !important;
@@ -256,35 +294,54 @@ function injectLLMChatStyles() {
   blockquote[data-llm] .chat-bubble {
     display: block !important;
     position: relative !important;
-    margin: 8px 0 !important;
+    margin: 8px 12px !important;
     padding: 12px 16px !important;
     border-radius: 18px !important;
-    max-width: 70% !important;
     box-sizing: border-box !important;
     word-break: break-word !important;
     overflow-wrap: break-word !important;
   }
   
-  /* Q bubbles - RIGHT aligned */
+  /* Q bubbles - RIGHT aligned with model-specific colors */
   blockquote[data-llm] .chat-bubble.q-bubble {
     align-self: flex-end !important;
     margin-left: auto !important; 
-    margin-right: 16px !important;
-    background-color: rgba(229, 231, 235, 0.9) !important;
+    max-width: 70% !important;
     border-radius: 18px 18px 4px 18px !important;
     color: rgb(30, 30, 30) !important;
     width: auto !important;
   }
   
-  /* A bubbles - LEFT aligned */
+  /* Model-specific Q bubble colors */
+  blockquote[data-llm="ChatGPT"] .chat-bubble.q-bubble {
+    background-color: rgba(229, 231, 235, 0.9) !important;
+  }
+  
+  blockquote[data-llm="Claude"] .chat-bubble.q-bubble {
+    background-color: rgba(242, 230, 225, 0.9) !important;
+  }
+  
+  blockquote[data-llm="Mistral"] .chat-bubble.q-bubble {
+    background-color: rgba(242, 225, 225, 0.9) !important;
+  }
+  
+  blockquote[data-llm="Gemini"] .chat-bubble.q-bubble {
+    background-color: rgba(225, 235, 245, 0.9) !important;
+  }
+  
+  blockquote[data-llm="Generic"] .chat-bubble.q-bubble {
+    background-color: rgba(230, 230, 235, 0.9) !important;
+  }
+  
+  /* A bubbles - LEFT aligned, full width for long content */
   blockquote[data-llm] .chat-bubble.a-bubble {
     align-self: flex-start !important;
     margin-right: auto !important;
-    margin-left: 16px !important;
     background-color: white !important;
     border-radius: 18px 18px 18px 4px !important;
     color: rgb(30, 30, 30) !important;
     width: auto !important;
+    max-width: calc(100% - 24px) !important; /* Full width minus margins */
   }
   
   /* Inline code */
@@ -305,6 +362,32 @@ function injectLLMChatStyles() {
     background-color: rgba(30, 30, 30, 0.05) !important;
     border: 1px solid rgba(30, 30, 30, 0.1) !important;
     width: 100% !important;
+  }
+  
+  /* Model-specific code block styling */
+  blockquote[data-llm="ChatGPT"] .chat-bubble pre {
+    background-color: rgba(240, 240, 240, 0.7) !important;
+    border-color: rgba(200, 200, 200, 0.8) !important;
+  }
+  
+  blockquote[data-llm="Claude"] .chat-bubble pre {
+    background-color: rgba(245, 242, 240, 0.7) !important;
+    border-color: rgba(218, 119, 86, 0.2) !important;
+  }
+  
+  blockquote[data-llm="Mistral"] .chat-bubble pre {
+    background-color: rgba(250, 240, 240, 0.7) !important;
+    border-color: rgba(209, 69, 59, 0.2) !important;
+  }
+  
+  blockquote[data-llm="Gemini"] .chat-bubble pre {
+    background-color: rgba(240, 245, 250, 0.7) !important;
+    border-color: rgba(75, 135, 226, 0.2) !important;
+  }
+  
+  blockquote[data-llm="Generic"] .chat-bubble pre {
+    background-color: rgba(245, 245, 250, 0.7) !important;
+    border-color: rgba(200, 200, 230, 0.4) !important;
   }
   
   /* Fix code inside pre */
@@ -376,6 +459,12 @@ function debugLLMChats() {
     // Check header
     const header = chat.querySelector(".llm-header");
     console.log(`Header: ${header ? "Found" : "MISSING"}`);
+
+    // Check header position
+    const headerWrapper = chat.querySelector(".header-wrapper.q-first");
+    console.log(
+      `Header position: ${headerWrapper ? "Q-first (floating)" : "Standard"}`
+    );
 
     // Check chat container
     const container = chat.querySelector(".chat-container");
