@@ -60,7 +60,7 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
               8,
               8,
             ],
-            "circle-color": "#de1d8d",
+            "circle-color": "#e60000", // Changed from magenta to red
             "circle-stroke-width": 1.5,
             "circle-stroke-color": "#ffffff",
           },
@@ -78,7 +78,7 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
           if (!map.current || !popup.current || !e.features?.[0]) return;
 
           const coordinates = e.features[0].geometry.coordinates.slice();
-          const { title, slug } = e.features[0].properties;
+          const { title, slug, haiku } = e.features[0].properties;
 
           // Ensure that if the map is zoomed out such that multiple
           // copies of the feature are visible, the popup appears
@@ -87,10 +87,14 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
           }
 
-          // Create popup content
+          // Format haiku with line breaks if it exists
+          const formattedHaiku = haiku ? haiku.replace(/\n/g, "<br>") : "";
+
+          // Create popup content including the haiku
           const popupHTML = `
             <div class="popup-content cursor-pointer">
               <h3 class="text-sm font-semibold uppercase tracking-wide text-skin-accent">${title}</h3>
+              ${formattedHaiku ? `<p class="text-sm mt-1 leading-tight" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
             </div>
           `;
 
