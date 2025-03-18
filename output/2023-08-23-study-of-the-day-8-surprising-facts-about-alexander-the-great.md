@@ -1,0 +1,28 @@
+---
+author: Nate Barksdale
+pubDatetime: 2023-08-23
+modDatetime: 2025-03-18
+title: Study of the Day | 8 Surprising Facts about Alexander the Great
+slug: study-of-the-day-8-surprising-facts-about-alexander-the-great
+featured: false
+draft: false
+description: [Alexander the Great](https://www.history.com/topics/ancient-rome/alexander-the-great), the ancient Macedonian ruler, is known as one of the greatest military s...
+emoji: 📝
+tags:
+  - 🌀 Templeton
+  - 📚 Lists
+  - 💬 Narratives
+haiku: |
+  Words flow like water,
+  Thoughts captured in black and white,
+  Stories come alive.
+coordinates: [51.509865, -0.118092]
+---
+
+For the John Templeton Foundation, I wrote about Study of the Day | 8 Surprising Facts about Alexander the Great.
+
+> [Alexander the Great](https://www.history.com/topics/ancient-rome/alexander-the-great), the ancient Macedonian ruler, is known as one of the greatest military strategists in history. Through his repeated conquests, he built the largest empire in the ancient world and is remembered as brilliant, charismatic and ruthless.
+>
+> Alexander’s father, Philip II of Macedon, hired [Aristotle](https://www.history.com/topics/ancient-greece/aristotle), one of history’s greatest philosophers,, to educate the 13-year-old prince. Little is known about Alexander’s three-year tutelage but presumably by the end of it Aristotle’s wise but worldly approach had sunk in. According to legend, while still a prince in Greece, Alexander sought out the famed ascetic Diogenes the Cynic, who rejected social niceties and slept in a large clay jar. Alexander approached the thinker in a public plaza, asking Diogenes if there was anything he in his great riches could do for him. “Yes,” Diogenes replied, “stand aside; you’re blocking my sun.” Alexander was charmed by Diogenes’ refusal to be impressed, stating, “If I were not Alexander, I would be Diogenes.”
+
+[Read more at templeton.org](https://www.history.com/news/eight-surprising-facts-about-alexander-the-great)
