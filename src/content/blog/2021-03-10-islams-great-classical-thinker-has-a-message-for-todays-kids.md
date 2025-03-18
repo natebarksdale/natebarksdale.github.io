@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-03-10
-modDatetime: 2025-03-18T21:04:50Z
+modDatetime: 2025-03-18T21:05:46Z
 title: Islam’s Great Classical Thinker Has a Message for Today’s Kids
 slug: islams-great-classical-thinker-has-a-message-for-todays-kids
 featured: false
@@ -14,11 +14,7 @@ tags:
   - 🌙 Islam
   - 🥗 Virtue
   - 👶 Children
-haiku: |
-  Sand slips through small hands,  
-  Paper boats sink, hearts remain—  
-  Ghazali's wisdom glows.
-coordinates: [52.4862, -1.8904]
+  - 💡 Wisdom
 ---
 
 For the John Templeton Foundation, I wrote about the Ghazali Children's Project.
