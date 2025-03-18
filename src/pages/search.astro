@@ -15,8 +15,7 @@ const sortedPosts = getSortedPosts(posts);
 // Enhanced searchList with content
 const searchList = await Promise.all(
   sortedPosts.map(async ({ data, slug, body }) => {
-    // Extract content from the article body
-    // This is a simplified plain text extraction
+    // Extract content from the article body - simplified plain text extraction
     const textContent = body
       .replace(/```[\s\S]*?```/g, "") // Remove code blocks
       .replace(/#{1,6}\s+[^\n]+/g, "") // Remove headings
@@ -40,7 +39,8 @@ const searchList = await Promise.all(
   <Header activeNav="search" />
   <Breadcrumbs />
   <main id="main-content">
-    <div class="mt-8">
+    <h1 class="text-2xl font-serif sm:text-3xl">Search</h1>
+    <div class="mt-4">
       <SearchBar client:load searchList={searchList} />
     </div>
   </main>
@@ -50,10 +50,5 @@ const searchList = await Promise.all(
 <style>
   #main-content {
     @apply mx-auto w-full max-w-3xl px-4 pb-12;
-  }
-
-  /* Add some styling for the highlighted search terms */
-  :global(mark) {
-    @apply bg-skin-accent bg-opacity-20 px-1 py-0.5 rounded;
   }
 </style>
