@@ -3,9 +3,9 @@ author: Nate Barksdale
 pubDatetime: 2020-08-14
 modDatetime: 2025-03-17
 title: Grant Profile | Expanding Views of Cancer's Causes
-slug: grant-profile-expanding-views-of-cancers-causes-and-prevention
-featured: false
-draft: false
+slug: grant-profile-expanding-views-of-cancer-s-causes
+featured: False
+draft: False
 description: A blood test for early-stage cancer holds promise for treating the many cancers caused by the accumulated “bad luck” of multicellular living
 emoji: 🔬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Cells divide, mutate—  
   Fate’s lottery of cancer,  
   Beyond mere risks laid.
+
 coordinates: [39.3289, -76.6208]
 ---
 

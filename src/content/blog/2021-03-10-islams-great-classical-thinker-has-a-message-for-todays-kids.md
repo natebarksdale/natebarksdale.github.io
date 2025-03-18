@@ -1,24 +1,24 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2021-03-10
-modDatetime: 2025-03-18T14:32:16Z
-title: Grant Profile | Islam’s Great Classical Thinker Has a Message for Today’s Kids
-slug: grant-profile-islams-great-classical-thinker-has-a-message-for-todays-kids
-featured: false
-draft: false
-description: Teaching character, virtue, and inner dignity
-through the Ghazali Children’s Project
-emoji: 📚
+pubDatetime: 2025-03-18
+modDatetime: 2025-03-18
+title: For the John Templeton Foundation, I wrote about t
+slug: for-the-john-templeton-foundation-i-wrote-about-t
+featured: False
+draft: False
+description: Explore how the Ghazali Children's Project uses hands-on lessons, like sifting sand and sinking boats, to teach profound spiritual truths to children.
+emoji: ⏳
 tags:
-  - 🌀 Templeton
+  - ⛪ Religion
   - 🌙 Islam
-  - 🥗 Virtue
+  - 👩‍🏫 Education
   - 👶 Children
+  - 💡 Wisdom
 haiku: |
-  Sand slips through small hands,  
-  Paper boats sink, hearts remain—  
-  Ghazali's wisdom glows.
-coordinates: [52.4862, -1.8904]
+  Words flow like water,
+  Thoughts captured in black and white,
+  Stories come alive.
+coordinates: [51.509865, -0.118092]
 ---
 
 For the John Templeton Foundation, I wrote about the Ghazali Children's Project.
