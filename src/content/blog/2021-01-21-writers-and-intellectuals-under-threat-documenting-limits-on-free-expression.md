@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-01-21
-modDatetime: 2025-03-18T13:56:40Z
+modDatetime: 2025-03-18 13:56:40+00:00
 title: Grant Profile | Writers and Intellectuals Under Threat
-slug: grant-profile-writers-and-intellectuals-under-threat-documenting-limits-on-free-expression
-featured: false
-draft: false
+slug: grant-profile-writers-and-intellectuals-under-threat
+featured: False
+draft: False
 description: A New Toolkit for Activists Fighting to Document Repression and Protect Free Expression
 emoji: 🔗
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Words behind cold bars,  
   Silenced minds still dream of light,  
   Ink flows, unbroken.
+
 coordinates: [39.9334, 32.8597]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2020-02-25
-modDatetime: 2025-03-18T17:45:11Z
+modDatetime: 2025-03-18 17:45:11+00:00
 title: Grant Profile | Greater Good in Education
-slug: grant-profile-greater-good-in-education-ggsc-toolkit-for-teachers
-featured: false
-draft: false
+slug: grant-profile-greater-good-in-education
+featured: False
+draft: False
 description: New website gives educators research-based practices for kinder, happier schools
 emoji: 🍎
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Passion fuels her path,  
   In schools, well-being blooms forth—  
   Seeds of knowledge sown.
+
 coordinates: [37.8715, -122.273]
 ---
 
