@@ -14,6 +14,11 @@ tags:
   - 👩‍🏫 Education
   - 👶 Children
   - 💡 Wisdom
+haiku: |
+  Sands slip through fingers,
+  Hearts like boats on burdened seas,
+  Truths taught to young minds.
+coordinates: [52.4862, -1.8904]
 ---
 
 For the John Templeton Foundation, I wrote about the Ghazali Children's Project.
