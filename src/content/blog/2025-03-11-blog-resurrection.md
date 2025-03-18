@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
 title: Blog
-slug: blog-resurrection
+slug: blog
 featured: True
 draft: False
 tags:
