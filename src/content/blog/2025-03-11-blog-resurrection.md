@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
-title: Blog
+title: Blog Resurrection
 slug: blog
 featured: True
 draft: False
@@ -34,7 +34,11 @@ I new I had the content in there somewhere, and that I wanted to break out the p
 
 > {ChatGPT}
 >
-> {Q}I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format: {"ID":"863","post_author":"1","post_date":"2009-05-26 ... [followed by more json]
+> {Q}I have a json export from my old blog that I want to format and split into separate markdown files, one for each blog post. Here's an example of the json export format:
+>
+> ```json
+> {"ID":"863","post_author":"1","post_date":"2009-05-26 ...
+> ```
 
 ... and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
 
@@ -42,7 +46,9 @@ After some more back and forth (ChatGPT provided both sample code and bullet-poi
 
 > {ChatGPT}
 >
-> {Q}Cool. How would I test the script on my Mac?
+> {Q} Cool. How would I test the script on my Mac?
+>
+> {A} Try the following python file ...
 
 I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
 
@@ -57,7 +63,7 @@ I followed the instructions and ... it didn't work. Hence more digging into the 
 In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
 
 > {ChatGPT}
-> {Q}I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
+> {Q} I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
 
 Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
 
@@ -67,42 +73,44 @@ Resurrection is a tricky business, and I knew that many of the things I had link
 
 > {ChatGPT}
 >
-> {A}```
-
-    		# Process non-image links
-    		md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
-    		for m in re.finditer(md_link_pattern, modified_content):
-    			link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
-    			link_url = raw_link_url.split()[0]
-
-    			if is_link_broken(link_url, filepath):
-    				stripped_url = strip_query_params(link_url)
-    				if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
-    					replacement_url = stripped_url
-    					print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
-    				else:
-    					wayback_url = check_wayback_link(link_url)
-    					if wayback_url:
-    						replacement_url = wayback_url
-    						print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
-    					else:
-    						site_name = extract_site_name(link_url)
-    						search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
-    						replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
-    						print(f"Replaced {link_url} with Google search: {replacement_url}")
-
-    				modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
-    				link_replacements_made = True
-
-    				if modified_content != content_no_pub:
-    					with open(filepath, "w", encoding="utf-8") as f:
-    						f.write(modified_content)
-    					new_filepath = os.path.join(fixed_links_folder, filename)
-    					if os.path.exists(filepath):
-    						os.rename(filepath, new_filepath)
-    						print(f"Moved {filename} to fixed_links folder")
-    				else:
-    					print(f"No broken non-image links fixed in {filename}; file left in place.")```
+> {A}
+>
+> ```python
+>    		# Process non-image links
+>    		md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
+>    		for m in re.finditer(md_link_pattern, modified_content):
+>    			link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
+>    			link_url = raw_link_url.split()[0]
+>
+>    			if is_link_broken(link_url, filepath):
+>    				stripped_url = strip_query_params(link_url)
+>    				if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
+>    					replacement_url = stripped_url
+>    					print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
+>    				else:
+>    					wayback_url = check_wayback_link(link_url)
+>    					if wayback_url:
+>    						replacement_url = wayback_url
+>    						print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
+>    					else:
+>    						site_name = extract_site_name(link_url)
+>    						search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
+>    						replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
+>    						print(f"Replaced {link_url} with Google search: {replacement_url}")
+>
+>    				modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
+>    				link_replacements_made = True
+>
+>    				if modified_content != content_no_pub:
+>    					with open(filepath, "w", encoding="utf-8") as f:
+>    						f.write(modified_content)
+>    					new_filepath = os.path.join(fixed_links_folder, filename)
+>    					if os.path.exists(filepath):
+>    						os.rename(filepath, new_filepath)
+>    						print(f"Moved {filename} to fixed_links folder")
+>    				else:
+>    					print(f"No broken non-image links fixed in {filename}; file left in place.")
+> ```
 
 And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
 
@@ -112,11 +120,7 @@ One thing I realized is that AstroBlog needs each Markdown file to contain a des
 
 Ah, but looking at text and coming up with a plausible summary is just the sort of thing that LLMs excel at, if only I could automate the prompting. I realized I could do just that, using [Simon Willison](https://simonwillison.net)'s [LLM Plugin](https://llm.datasette.io/en/stable/index.html), which gives a command-line interface for LLM requests. Once it's set up (and you've authorized it to a funded LLM account) you can type things like
 
-```
-
-llm "Eight hilariously incorrect facts about Martin Van Buren"
-
-```
+`llm "Eight hilariously incorrect facts about Martin Van Buren"`
 
 and get a result. In this case, I had ChatGPT help me figure out how to make a Python script that would:
 
@@ -143,232 +147,3 @@ In London there's a nice plaque marking the site of the Fortune of War, a pub at
 Trying to pull my own blog back from online death (and the growing stench of link rot) has seemed, over the past few weeks, to be an enterprise both dubious and thrilling. It's fun seeing my old, un-remembered posts and remarks. And I'm learning a bit of anatomy as well — about what works, and doesn't, with the current tools on hand.
 
 One of the recurring features on the Culture Making blog was what Andy and I called the Five Questions (taken, of course from the book), where each week we'd interrogate a cultural artifact, asking what it says about the world, what it makes possible, or impossible, or difficult, and what new culture is created in response. This new era for the old material asks, and answers, those questions in so many ways — ways I hope to explore a bit more in the site's current resurrected state.
-
-Other LLM formats:
-
-> {ChatGPT}
->
-> {Q}Hey LLM, what's a-poppin?
->
-> {A}Oh, you know.
->
-> {Q}What's a cool `name` for my dog?
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
->
-> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
->
-> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
->
-> {A}No problem!
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
-
-> {Claude}
->
-> {Q}Hey LLM, what's a-poppin?
->
-> {A}Oh, you know.
->
-> {Q}What's a cool `name` for my dog?
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
->
-> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
->
-> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
->
-> {A}No problem!
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
-
-> {Gemini}
->
-> {Q}Hey LLM, what's a-poppin?
->
-> {A}Oh, you know.
->
-> {Q}What's a cool `name` for my dog?
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
->
-> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
->
-> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
->
-> {A}No problem!
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
-
-> {Amelia}
->
-> {Q}Hey LLM, what's a-poppin?
->
-> {A}Oh, you know.
->
-> {Q}What's a cool `name` for my dog?
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
->
-> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
->
-> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
->
-> {A}No problem!
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
-
-> {DeepSeek}
->
-> {Q}Hey LLM, what's a-poppin?
->
-> {A}Oh, you know.
->
-> {Q}What's a cool `name` for my dog?
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
->
-> {A}Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like? Fido or rex -- which do you like?
->
-> {Q}Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks! Rex is pretty good. Thanks!
->
-> {A}No problem!
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
-> ```
-
-## LLM Chat Markdown Format - Example
-
-> {ChatGPT}
->
-> {Q}How do I add a code block to my Python project?
->
-> {A}You can add a code block to a Python project by following these steps:
->
-> ```python
-> # This is a simple Python function
-> def hello_world():
->     print("Hello, World!")
->
-> # Call the function
-> hello_world()
-> ```
->
-> Make sure to indent your code properly as Python is whitespace-sensitive.
->
-> {Q}What about adding comments to my code?
->
-> {A}Python supports both single-line and multi-line comments:
->
-> ```python
-> # This is a single-line comment
->
-> """
-> This is a multi-line comment or docstring
-> that can span multiple lines of text
-> """
->
-> def my_function():
->     """This is a function docstring."""
->     # This comment explains the next line
->     return True
-> ```
->
-> Good comments explain why rather than what the code is doing.
-
-## Important Format Rules
-
-1. Start with `> {ModelName}` (e.g., `> {ChatGPT}`, `> {Claude}`)
-2. Each message starts with `> {Q}` or `> {A}`
-3. Separate messages with a blank line containing only `>`
-4. Place code blocks _directly after_ the text they belong to, without blank lines
-5. Start every line (including code) with `>`
-6. Use standard code block syntax: triple backticks with language name
-
-## Troubleshooting
-
-If your code isn't appearing correctly in chat bubbles:
-
-1. Check that the code block appears immediately after text (no blank line)
-2. Verify that every line of the code block starts with `>`
-3. Make sure the CSS changes are properly applied to your theme
-4. Check browser console for any JavaScript errors
-   > .counter {
-   > display: flex;
-   > flex-direction: column;
-   > align-items: center;
-   > padding: 1rem;
-   > border-radius: 8px;
-   > background-color: #f8f9fa;
-   > box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-   > }
-   >
-   > .counter-buttons {
-   > display: flex;
-   > gap: 0.5rem;
-   > }
-   >
-   > button {
-   > padding: 0.5rem 1rem;
-   > border: none;
-   > border-radius: 4px;
-   > background-color: #0d6efd;
-   > color: white;
-   > cursor: pointer;
-   > transition: background-color 0.2s;
-   > }
-   >
-   > button:hover {
-   > background-color: #0b5ed7;
-   > }
-   >
-   > .reset-button {
-   > background-color: #6c757d;
-   > }
-   >
-   > .reset-button:hover {
-   > background-color: #5c636a;
-   > }
-   >
-   > ```
-   >
-   > ```

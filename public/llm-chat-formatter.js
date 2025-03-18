@@ -406,7 +406,7 @@ function injectLLMChatStyles() {
         align-self: flex-end !important;
         margin-left: auto !important; 
         max-width: 70% !important;
-        border-radius: 18px 18px 4px 18px !important;
+        border-radius: 18px !important;
         color: rgb(30, 30, 30) !important;
         background-color: rgba(229, 231, 235, 0.9) !important;
         width: auto !important;
@@ -446,7 +446,7 @@ function injectLLMChatStyles() {
         align-self: flex-start !important;
         margin-right: auto !important;
         background-color: white !important;
-        border-radius: 18px 18px 18px 4px !important;
+        border-radius: 18px !important;
         color: rgb(30, 30, 30) !important;
         width: auto !important;
         max-width: calc(100% - 24px) !important; /* Full width minus margins */

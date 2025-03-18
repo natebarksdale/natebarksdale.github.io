@@ -127,7 +127,7 @@ p:not(:last-child)::after {
 
   .prose code {
     @apply bg-gray-200 text-gray-800 font-mono; /* Darker text on a light gray background */
-    font-size: 85% !important; /* Slightly larger than current 70% */
+    font-size: 70% !important; /* Slightly larger than current 70% */
     padding: 0.2em 0.4em !important; /* More padding for better readability */
     border-radius: 0.25rem !important; /* Rounded corners */
   }
