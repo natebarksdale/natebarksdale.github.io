@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2017-06-24
 modDatetime: 2025-03-18 21:19:20+00:00
 title: High school debate turns to the Big Questions
-slug: high-school-debate-turns-to-the-big-questions-1
+slug: high-school-debate-turns-to-the-big-questions-2
 featured: False
 draft: False
 description: Does science leave room for free will? High school debaters have some ideas.

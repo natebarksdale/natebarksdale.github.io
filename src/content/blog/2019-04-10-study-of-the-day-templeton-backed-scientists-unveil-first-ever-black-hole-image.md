@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-04-10
 modDatetime: 2025-03-18 21:19:22+00:00
 title: Templeton-Backed Scientists Unveil First-Ever Black Hole Image
-slug: templeton-backed-scientists-unveil-first-ever-black-hole-image-1
+slug: templeton-backed-scientists-unveil-first-ever-black-hole-image-2
 featured: False
 draft: False
 description: Discover how scientists, backed by a $7.2 million grant, captured the first-ever image of a black hole, unveiling the mysteries of Messier 87.

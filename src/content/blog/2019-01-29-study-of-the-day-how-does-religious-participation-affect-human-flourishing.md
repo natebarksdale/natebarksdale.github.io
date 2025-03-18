@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2019-01-29
 modDatetime: 2025-03-18 21:19:21+00:00
 title: How Does Religious Participation Affect Human Flourishing?
-slug: how-does-religious-participation-affect-human-flourishing-1
+slug: how-does-religious-participation-affect-human-flourishing-2
 featured: False
 draft: False
 description: New research to evaluate long-term links between spiritual practice and physical, mental and social well-being

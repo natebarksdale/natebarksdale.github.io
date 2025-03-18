@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2017-10-10
 modDatetime: 2025-03-18 21:19:20+00:00
 title: The Illumination Tour
-slug: the-illumination-tour-1
+slug: the-illumination-tour-2
 featured: False
 draft: False
 description: When what seems like “the ultimate curse” becomes “the ultimate state of being.”
