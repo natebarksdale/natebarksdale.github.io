@@ -3,7 +3,6 @@ import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
-import Datetime from "@components/Datetime";
 import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -65,14 +64,27 @@ const currentIndex = sortedPosts.findIndex(p => p.slug === post.slug);
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
 const url = new URL(Astro.url.pathname, Astro.site).toString();
+
+// Format dates
+function formatDate(date) {
+  return new Date(date).toLocaleDateString(LOCALE.langTag, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
+}
+
+const formattedPubDate = formatDate(pubDatetime);
+let dateDisplay = `${formattedPubDate}`;
+
+if (modDatetime && modDatetime > pubDatetime) {
+  const formattedModDate = formatDate(modDatetime);
+  dateDisplay = `${formattedPubDate}, updated ${formattedModDate}`;
+}
 ---
 
 <Layout {...layoutProps}>
   <Header />
-
-  <!-- <div class="progress-container fixed top-0 z-10 h-1 w-full bg-skin-fill">
-    <div class="progress-bar h-1 w-0 bg-skin-accent" id="myBar"></div>
-  </div> -->
 
   <div class="mx-auto flex w-full max-w-3xl justify-start px-2">
     <button
@@ -88,7 +100,6 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
   </div>
   <main id="main-content">
     <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
-    <Datetime pubDatetime={pubDatetime} size="lg" className="mt-2 mb-4" />
 
     {
       post.data.coordinates && !post.data.ogImage && !hasContentImages && (
@@ -108,109 +119,11 @@ const url = new URL(Astro.url.pathname, Astro.site).toString();
     >
       <Content />
 
-      {
-        modDatetime && modDatetime > pubDatetime && (
-          <div class="mt-8 italic opacity-80">
-            Updated:{" "}
-            {modDatetime.toLocaleDateString(LOCALE.langTag, {
-              year: "numeric",
-              month: "short",
-              day: "numeric",
-            })}
-          </div>
-        )
-      }
+      <!-- Date display moved here, after content -->
+      <div class="date-info mt-8 italic opacity-80">
+        {dateDisplay}
+      </div>
     </article>
-
-    <!-- <script>
-      // Add emoji processing on the client side
-      document.addEventListener("DOMContentLoaded", function () {
-        // A function to process emojis in HTML content
-        function wrapEmojisInHTML(container) {
-          // Walk through all text nodes
-          const treeWalker = document.createTreeWalker(
-            container,
-            NodeFilter.SHOW_TEXT,
-            null,
-            false
-          );
-
-          const textNodes = [];
-          let currentNode;
-
-          // Collect all text nodes
-          while ((currentNode = treeWalker.nextNode())) {
-            textNodes.push(currentNode);
-          }
-
-          // Simpler emoji regex that works in browser JavaScript
-          const emojiRegex = /(\p{Emoji})/gu;
-
-          // Process each text node
-          textNodes.forEach(textNode => {
-            // Skip if parent is already an emoji span
-            if (
-              textNode.parentNode &&
-              textNode.parentNode.classList &&
-              textNode.parentNode.classList.contains("emoji")
-            ) {
-              return;
-            }
-
-            const text = textNode.nodeValue;
-            if (!text) return;
-
-            try {
-              const emojiMatches = [...text.matchAll(emojiRegex)];
-
-              if (emojiMatches && emojiMatches.length > 0) {
-                const fragment = document.createDocumentFragment();
-                let lastIndex = 0;
-
-                emojiMatches.forEach(match => {
-                  // Add text before emoji
-                  if (match.index > lastIndex) {
-                    fragment.appendChild(
-                      document.createTextNode(
-                        text.substring(lastIndex, match.index)
-                      )
-                    );
-                  }
-
-                  // Create wrapped emoji
-                  const emojiSpan = document.createElement("span");
-                  emojiSpan.className = "emoji";
-                  emojiSpan.textContent = match[0];
-                  fragment.appendChild(emojiSpan);
-
-                  lastIndex = match.index + match[0].length;
-                });
-
-                // Add any remaining text
-                if (lastIndex < text.length) {
-                  fragment.appendChild(
-                    document.createTextNode(text.substring(lastIndex))
-                  );
-                }
-
-                // Replace original text node with our processed fragment
-                if (textNode.parentNode) {
-                  textNode.parentNode.replaceChild(fragment, textNode);
-                }
-              }
-            } catch (e) {
-              console.error("Error processing emojis:", e);
-            }
-          });
-        }
-
-        // Process the article content
-        const articleContent = document.querySelector("#article");
-        if (articleContent) {
-          wrapEmojisInHTML(articleContent);
-        }
-      });
-    </script> -->
 
     <ul class="my-8">
       {tags.map(tag => <Tag tag={slugifyStr(tag)} tagName={tag} />)}
