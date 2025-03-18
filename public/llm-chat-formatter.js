@@ -1,4 +1,4 @@
-// Updated llm-chat-formatter.js to handle generic Q/A formats
+// Enhanced llm-chat-formatter.js with better code block handling
 document.addEventListener("DOMContentLoaded", function () {
   processLLMChats();
 
@@ -49,7 +49,7 @@ function processLLMChats() {
       // Insert the header at the beginning of the blockquote
       blockquote.insertBefore(header, blockquote.firstChild);
 
-      // Process Q/A format
+      // Process Q/A format including code blocks
       processQAFormat(blockquote);
 
       console.log(`Processed LLM chat: ${llmName}`);
@@ -65,7 +65,7 @@ function processLLMChats() {
       // Insert the header at the beginning of the blockquote
       blockquote.insertBefore(header, blockquote.firstChild);
 
-      // Process Q/A format
+      // Process Q/A format including code blocks
       processQAFormat(blockquote);
 
       console.log("Processed Generic LLM chat");
@@ -73,23 +73,57 @@ function processLLMChats() {
   });
 }
 
-// Separate function to process Q/A format
+// Enhanced function to process Q/A format that handles code blocks properly
 function processQAFormat(blockquote) {
   // Process paragraphs for Q/A patterns
-  blockquote.querySelectorAll("p").forEach(p => {
+  const paragraphs = blockquote.querySelectorAll("p");
+  let currentRole = null;
+  let currentParagraph = null;
+
+  paragraphs.forEach(p => {
     const pText = p.textContent.trim();
 
-    // Match the format "{Q}Text" or "{A}Text" exactly as shown in your example
+    // Match the format "{Q}Text" or "{A}Text" exactly
     const qaMatch = pText.match(/^{([QA])}(.*)/);
 
     if (qaMatch) {
-      const role = qaMatch[1];
-      const content = qaMatch[2];
+      // Start of a new Q or A section
+      currentRole = qaMatch[1];
+      currentParagraph = p;
 
-      p.setAttribute("data-role", role);
-
+      p.setAttribute("data-role", currentRole);
       // Remove the {Q} or {A} from the beginning
       p.innerHTML = p.innerHTML.replace(/^{[QA]}/, "");
+    } else if (currentRole && currentParagraph) {
+      // This paragraph continues the previous Q/A section and isn't a role marker
+      // Check if this is a non-code paragraph that should be merged
+      if (!p.querySelector("pre") && !currentParagraph.querySelector("pre")) {
+        // Merge with previous paragraph of same role
+        currentParagraph.innerHTML += "<br><br>" + p.innerHTML;
+        p.remove();
+      } else {
+        // This paragraph contains a code block or follows one
+        // Set the same role as the current Q/A section
+        p.setAttribute("data-role", currentRole);
+      }
+    }
+  });
+
+  // Make sure code blocks are properly contained within their parent Q/A paragraphs
+  blockquote.querySelectorAll("pre").forEach(pre => {
+    const parentP = pre.closest("p");
+    if (parentP && !parentP.hasAttribute("data-role")) {
+      // Find the nearest previous paragraph with a role
+      let prevP = parentP.previousElementSibling;
+      while (prevP && !prevP.hasAttribute("data-role")) {
+        prevP = prevP.previousElementSibling;
+      }
+
+      if (prevP) {
+        // Set the same role as the previous paragraph
+        const role = prevP.getAttribute("data-role");
+        parentP.setAttribute("data-role", role);
+      }
     }
   });
 }

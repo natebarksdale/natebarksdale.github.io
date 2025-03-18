@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-02-08
+modDatetime: 2025-03-18T13:56:39Z
 title: Grant Profile | The Spiritual, Character, and Virtue Formation of Seminarians
 slug: grant-profile-the-spiritual-character-and-virtue-formation-of-seminarians
 featured: false

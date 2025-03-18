@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2018-07-10
+modDatetime: 2025-03-18T13:56:39Z
 title: Grant Profile | The Foundations of Fine-Tuning
 slug: grant-profile-the-foundations-of-fine-tuning
 featured: false

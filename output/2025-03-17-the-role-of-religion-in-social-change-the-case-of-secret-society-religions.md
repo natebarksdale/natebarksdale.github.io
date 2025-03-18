@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17T22:26:27Z
+pubDatetime: 2018-10-05
+modDatetime: 2025-03-18T13:56:39Z
 title: Grant Profile | The Case of “Secret Society” Religions
 slug: grant-profile-the-role-of-religion-in-social-change-the-case-of-secret-society-religions
 featured: false

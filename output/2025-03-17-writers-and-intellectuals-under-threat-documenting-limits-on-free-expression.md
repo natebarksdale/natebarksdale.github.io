@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2021-01-21
+modDatetime: 2025-03-18T13:56:40Z
 title: Grant Profile | Writers and Intellectuals Under Threat: Documenting Limits on Free Expression
 slug: grant-profile-writers-and-intellectuals-under-threat-documenting-limits-on-free-expression
 featured: false

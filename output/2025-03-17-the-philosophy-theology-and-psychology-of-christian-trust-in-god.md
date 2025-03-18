@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-17
-modDatetime: 2025-03-17
+pubDatetime: 2019-01-29
+modDatetime: 2025-03-18T13:56:39Z
 title: Grant Profile | The Philosophy, Theology, and Psychology of Christian Trust in God
 slug: grant-profile-the-philosophy-theology-and-psychology-of-christian-trust-in-god
 featured: false
