@@ -31,7 +31,7 @@ const { frontmatter } = Astro.props;
 
 <style>
   /* Add styles to match homepage font sizing */
-  #about p:first-of-type,
+  :global(#about p),
   :global(#about > ul:first-of-type li) {
     @apply font-serif my-2 text-2xl;
   }
@@ -44,7 +44,7 @@ const { frontmatter } = Astro.props;
 
   /* Create tile layout for sections */
   :global(#about h1) {
-    @apply font-serif text-xl font-medium mt-8 mb-2;
+    @apply font-serif text-3xl font-medium mt-8 mb-2;
   }
 
   /* Create section tiles with heading and content */
@@ -61,11 +61,11 @@ const { frontmatter } = Astro.props;
 
     /* Each section (h1 + content until next h1) becomes a tile */
     :global(#about div.section-tile) {
-      @apply w-[48%] mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
+      @apply w-[48%] mb-8 p-6 rounded-lg transition-all duration-300;
     }
 
     :global(#about div.section-tile:hover) {
-      @apply bg-gray-50 dark:bg-gray-800 shadow-md border-gray-200 dark:border-gray-600;
+      @apply bg-gray-50 dark:bg-gray-800 shadow-md;
     }
 
     /* Style the headings inside tiles */
