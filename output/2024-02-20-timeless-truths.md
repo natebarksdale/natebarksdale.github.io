@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-02-20
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-19T15:18:51Z
 title: Timeless Truths
 slug: study-of-the-day-timeless-truths
 featured: false
 draft: false
-description: Explore how thinkers from Einstein to ancient philosophers challenge the very existence of time, unveiling a mind-bending paradox at the heart of our reality.
+description: Does time even exist? Investigating a mind-bending paradox at the heart of our reality.
 emoji: 🕰️
 tags:
   - 🌀 Templeton
@@ -19,7 +19,7 @@ haiku: |
 coordinates: [20.5937, 78.9629]
 ---
 
-For the John Templeton Foundation, I wrote about the intriguing notion that time itself might be an illusion.
+For the John Templeton Foundation, I wrote about the notion that time itself might be an illusion.
 
 > For Albert Einstein’s 70th birthday, his friend and walking companion Kurt Gödel gave the physicist [an unusual gift](https://www.newyorker.com/magazine/2005/02/28/time-bandits-2): an exacting mathematical proof, rooted in Einstein’s own theory of relativity, that time could not exist (Gödel’s wife had knitted Einstein a birthday sweater, but decided not to give it). Gödel’s offering was a 20th-century variant of a metaphysical conclusion that certain philosophers have reached before: one of the most intuitively obvious aspects of our lived experience, time itself, might be a logical impossibility.
 >

@@ -1,28 +1,25 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-04-24
-modDatetime: 2025-03-17
+modDatetime: 2025-03-19T15:18:51Z
 title: Forgiveness
 slug: forgiveness
 featured: false
 draft: false
-description: Explore the power and complexity of forgiveness in this thought-provoking piece that transcends language barriers.
+description: Exploring the science of forgiveness.
 emoji: 🕊️
 tags:
   - 🌀 Templeton
   - ❤️ Forgiveness
-  - ✍️ Translation
 haiku: |
-  Language bridge spans,
-  Words weave forgiveness, unite,
-  Hearts blend, borders fade.
+  Former enemies
+  Eat at one table.
+  So much more to learn.
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the transformative power of forgiveness in personal growth.
+For the John Templeton Foundation, I wrote about the transformative power of forgiveness.
 
-> Templeton.org is in English. Only a few pages are translated into other languages.
->
-> Usted está viendo Templeton.org en español. Tenga en cuenta que solamente hemos traducido algunas páginas a su idioma. El resto permanecen en inglés.
+> During the late 1990s, in the aftermath of the fall of Communism, Nelson Mandela’s election in South Africa, and an easing of the conflict in Northern Ireland, the world faced a new era in which former enemies tried to work with each other. Forgiveness took on new significance beyond religion, with which it had often been associated. The John Templeton Foundation issued a call for proposals that resulted in 20 funded grants, establishment of the non-profit organization, A Campaign for Forgiveness Research, which funded eight additional grants, and a total of almost $10 million put toward research on forgiveness. By 2005, this infusion of research money had moved the scientific study of forgiveness from 58 studies (1997) to over 1,100 published articles in 2005. Now, 15 years later, as we take stock of the benefits, we find that research has continued not just to grow, but to accelerate.
 
 [Read more at templeton.org](https://www.templeton.org/discoveries/forgiveness)

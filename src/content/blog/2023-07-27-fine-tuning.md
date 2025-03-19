@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-07-27
-modDatetime: 2025-03-17
-title: Fine-Tuning
-slug: fine-tuning
+modDatetime: 2025-03-19T15:18:52Z
+title: Fine-Tuning and Foundational Questions
+slug: fine-tuning-and-foundational-questions
 featured: false
 draft: false
 description: Is the universe fine-tuned for life? The Foundational Questions Institute (FQXi) reviews the latest research.

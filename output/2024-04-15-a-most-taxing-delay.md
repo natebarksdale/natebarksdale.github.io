@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-04-15
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-19T15:18:51Z
 title: A Most Taxing Delay
 slug: study-of-the-day-a-most-taxing-delay
 featured: false
 draft: false
-description: Explore the timeless struggle with tax procrastination and its costly psychological underpinnings in "A Most Taxing Delay."
+description: Why, oh why, do we wait? Tax procrastination and its costly psychological underpinnings.
 emoji: ⏳
 tags:
   - 🌀 Templeton
