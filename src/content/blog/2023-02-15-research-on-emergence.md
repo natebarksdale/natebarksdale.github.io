@@ -22,6 +22,6 @@ coordinates: [51.509865, -0.118092]
 
 For the John Templeton Foundation, I wrote about emergence.
 
->Take a look at the natural world around you. What do you see? In living organisms, complexity is immediately evident. But in simple objects, such as a balloon filled with air, the appearance is deceptive and masks complex inner workings. Even the most imaginative person can scarcely envision the countless little dramas playing out as air molecules bounce and ram and swirl. There are more interactions in a thimbleful of air than across the entire Internet, and more in one second than in all of human history. This is where Research on Emergence comes into play.
+> Take a look at the natural world around you. What do you see? In living organisms, complexity is immediately evident. But in simple objects, such as a balloon filled with air, the appearance is deceptive and masks complex inner workings. Even the most imaginative person can scarcely envision the countless little dramas playing out as air molecules bounce and ram and swirl. There are more interactions in a thimbleful of air than across the entire Internet, and more in one second than in all of human history. This is where Research on Emergence comes into play.
 
 [Read more at templeton.org](https://www.templeton.org/discoveries/emergence-research)

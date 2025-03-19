@@ -109,17 +109,23 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
             if (!map.current || !popup.current || !e.features?.[0]) return;
 
             const coordinates = e.features[0].geometry.coordinates.slice();
-            const { title, slug } = e.features[0].properties;
+            const { title, slug, haiku } = e.features[0].properties;
 
             // Ensure the popup appears over the right point
             while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
               coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
             }
 
+            // Format haiku with line breaks if it exists
+            const formattedHaiku = haiku
+              ? `<p class="text-sm mt-1 italic leading-tight font-serif">${haiku.replace(/\n/g, "<br>")}</p>`
+              : "";
+
             // Create popup content
             const popupHTML = `
               <div class="popup-content cursor-pointer">
                 <h3 class="text-sm font-semibold uppercase tracking-wide text-skin-accent">${title}</h3>
+                ${formattedHaiku}
               </div>
             `;
 

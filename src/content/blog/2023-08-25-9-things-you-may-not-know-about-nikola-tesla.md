@@ -20,7 +20,7 @@ haiku: |
 coordinates: [40.7128, -74.006]
 ---
 
-For the History Channel, I wrote about the lesser-known yet captivating aspects of Nikola Tesla's life and work.
+For the History Channel, I wrote about some of the lesser-known aspects of Nikola Tesla's life and work.
 
 > The defining event of young Nikola’s childhood was the day he witnessed the death of his older brother Dane in a riding accident. In the years following the tragedy, Tesla (the son and grandson of Serbian Orthodox priests) began seeing visions of the air around him “filled with tongues of living flame.” As an adolescent Tesla learned to exercise his willpower to control the visions, but in later life he would spend much of his time feeding and, he claimed, mystically communicating with New York City’s pigeons.
 >

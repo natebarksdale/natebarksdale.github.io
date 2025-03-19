@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.1789, -1.8262]
 ---
 
-For the History Channel, I wrote an engaging exploration into the lesser-known aspects of the Magna Carta's history and influence.
+For the History Channel, I wrote an engaging exploration into the lesser-known aspects of Magna Carta's history and influence.
 
 > [Magna Carta](https://www.history.com/topics/european-history/magna-carta) was an agreement between King John and a group of English barons in response to years of the king’s misrule and excessive taxation. Despite a closing line suggesting the charter was “Given by [John’s] hand,” the charter was more or less forced on him by the barons. Many 19th-century historians suggested that the charter was written by one of its most influential signers, Archbishop of Canterbury Stephen Langton. However, the document’s exact wording was likely the product of months of back-and-forth negotiations between the king and his noblemen.
 >

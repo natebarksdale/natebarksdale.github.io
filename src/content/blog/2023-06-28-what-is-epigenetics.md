@@ -6,7 +6,7 @@ title: What Is Epigenetics?
 slug: study-of-the-day-what-is-epigenetics
 featured: false
 draft: false
-description: Explore how epigenetics shapes our biology beyond DNA, influencing traits across generations through mechanisms like DNA methylation.
+description: How epigenetics shapes our biology beyond DNA, influencing traits across generations through mechanisms like DNA methylation.
 emoji: 🧬
 tags:
   - 🌀 Templeton

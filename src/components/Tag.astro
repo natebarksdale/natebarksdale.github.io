@@ -2,6 +2,7 @@
 export interface Props {
   tag: string;
   size?: "sm" | "lg";
+  tagName?: string;
 }
 
 function splitEmojiTag(tagName) {
@@ -29,7 +30,7 @@ function splitEmojiTag(tagName) {
 
 const { tag, tagName, size = "sm" } = Astro.props;
 const displayTag = tagName ?? tag ?? "";
-const { emoji, text } = splitEmojiTag(tagName);
+const { emoji, text } = splitEmojiTag(displayTag);
 ---
 
 <li class={`inline-block ${size === "sm" ? "my-1 " : "my-3 mx-1"}`}>
@@ -46,9 +47,19 @@ const { emoji, text } = splitEmojiTag(tagName);
 
 <style>
   a {
-    @apply relative hover:-top-0.5 hover:text-skin-accent hover:animate-bounce focus-visible:p-1;
+    @apply relative hover:-top-0.5 hover:text-skin-accent focus-visible:p-1;
   }
   a svg {
     @apply -mr-5 h-6 w-6 scale-95 text-skin-base opacity-80 group-hover:fill-skin-accent;
+  }
+
+  /* Add a slight highlight on hover for better interaction feedback */
+  a:hover {
+    @apply animate-pulse;
+  }
+
+  /* Display emoji slightly larger for better visibility */
+  .emoji {
+    @apply text-lg mr-1;
   }
 </style>

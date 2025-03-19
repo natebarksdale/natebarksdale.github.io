@@ -6,7 +6,7 @@ title: What Is Future-Mindedness?
 slug: study-of-the-day-what-is-future-mindedness
 featured: false
 draft: false
-description: Explore how future-mindedness, a blend of memory and imagination, shapes our decisions and survival strategies through "mental time travel."
+description: Prospection, a blend of memory and imagination, shapes our decisions and survival strategies through "mental time travel."
 emoji: 🔮
 tags:
   - 🌀 Templeton
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about how our minds journey through time to shape our future experiences.
+For the John Templeton Foundation, I wrote about prospection.
 
 > It’s something that so many organisms do that it’s been described as a core organizing principle of animal and human behavior. Countless animals use prospection to adapt their behavior to their environments, allowing them to improve their chances of finding food or a mate, and to avoid danger. It’s also something humans seem to be especially good at: thinking about the future helps us make decisions, set and achieve goals, and cultivate cooperation and generosity.
 >

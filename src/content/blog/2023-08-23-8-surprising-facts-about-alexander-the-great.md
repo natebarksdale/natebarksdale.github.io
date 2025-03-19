@@ -19,7 +19,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the History Channel, I wrote about 8 Surprising Facts about Alexander the Great.
+For the History Channel, I wrote about Alexander the Great.
 
 > [Alexander the Great](https://www.history.com/topics/ancient-rome/alexander-the-great), the ancient Macedonian ruler, is known as one of the greatest military strategists in history. Through his repeated conquests, he built the largest empire in the ancient world and is remembered as brilliant, charismatic and ruthless.
 >

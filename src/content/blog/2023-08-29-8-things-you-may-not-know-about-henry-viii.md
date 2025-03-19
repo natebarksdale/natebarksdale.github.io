@@ -6,7 +6,7 @@ title: 8 Things You May Not Know About Henry VIII
 slug: 8-things-you-may-not-know-about-henry-viii
 featured: false
 draft: false
-description: Dive into the lesser-known facets of Henry VIII, from his fierce defense of faith to his tumultuous marital dramas.
+description: Defender of the faith? Yes. Of his wives? Not so much.
 emoji: 👑
 tags:
   - 🇭 History.com
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the History Channel, I wrote about the lesser-known aspects of Henry VIII's complex legacy.
+For the History Channel, I wrote about Henry VIII's complex life and legacy.
 
 > In 1521, [Henry VIII](https://www.history.com/topics/european-history/henry-viii) published a book-length excoriation of the German Protestant reformer [Martin Luther](https://www.history.com/topics/black-history/martin-luther-king-jr), referring to Luther as “a venomous serpent, a pernicious plague, infernal wolf, an infectious soul, a detestable trumpeter of pride, calumnies and schism.” In recognition of Henry’s forceful piety, Pope Leo X awarded him the title “Fidei defensor,” or Defender of the Faith. But scarcely a decade later, Henry led a schism of his own, cleaving the [Church of England](https://www.history.com/topics/european-history/church-of-england) from the wider Catholic Church after Pope Clement VII refused to annul Henry’s 16-year marriage to Catherine of Aragon.
 >

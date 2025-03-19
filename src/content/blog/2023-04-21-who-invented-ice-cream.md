@@ -6,7 +6,7 @@ title: Who Invented Ice Cream?
 slug: who-invented-ice-cream
 featured: false
 draft: false
-description: Explore the intriguing origins of ice cream, from ancient China to American tables, and uncover the frosty journey of history's favorite frozen delight.
+description: From ancient China to American tables, uncover the frosty journey of history's favorite frozen delight.
 emoji: 🍦
 tags:
   - 🇭 History.com
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [34.0, 42.0]
 ---
 
-For the History Channel, I wrote about the intriguing origins and historical journey of ice cream.
+For the History Channel, I wrote about my favorite frozen treat.
 
 > According to popular legend, ice cream was invented by the ancient Chinese, brought to Italy by [Marco Polo](https://www.history.com/topics/exploration/marco-polo), to France by [Catherine de Medici](https://www.history.com/topics/renaissance/medici-family), and thence to America by [Thomas Jefferson](https://www.history.com/news/thomas-jefferson-americas-pioneering-gourmand). The truth, however, about summer’s favorite chilled dairy treat is a bit more difficult to pin down.
 >

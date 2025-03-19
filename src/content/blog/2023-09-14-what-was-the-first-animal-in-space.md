@@ -20,7 +20,7 @@ haiku: |
 coordinates: [31.8024, -106.256]
 ---
 
-For the History Channel, I wrote about the pioneering insects and animals that first ventured into space.
+For the History Channel, I wrote about the pioneering insects and animals that first ventured into space (not that they had a choice).
 
 > Though far less famous than later non-human astronauts, the first animals in space were a group of fruit flies, launched to an altitude of 42 miles at the tip of a V-2 rocket, developed and used by the Germans during World War II and later by American military scientists on February 20, 1947. The flies, members of the often-studied species Drosophila melanogaster, made their journey alongside packets of rye and cotton seeds as part of an experiment to study the effects of cosmic rays on living organisms. The flies’ container parachuted to the ground, and the insects were retrieved in perfect health.
 >

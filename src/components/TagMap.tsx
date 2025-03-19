@@ -94,7 +94,7 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
           const popupHTML = `
             <div class="popup-content cursor-pointer">
               <h3 class="text-sm font-semibold uppercase tracking-wide text-skin-accent">${title}</h3>
-              ${formattedHaiku ? `<p class="text-sm mt-1 leading-tight" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
+              ${formattedHaiku ? `<p class="text-sm mt-1 leading-tight italic" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
             </div>
           `;
 

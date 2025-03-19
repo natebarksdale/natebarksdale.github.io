@@ -20,7 +20,7 @@ haiku: |
 coordinates: [48.8566, 2.3522]
 ---
 
-For the History Channel, I wrote about the pioneering women whose intellectual brilliance earned them Nobel Prizes.
+For the History Channel, I wrote about the pioneering women awarded Nobel Prizes.
 
 > When it comes to record-setting Nobel Prize recipients, there’s Marie Curie and there’s everyone else. The Polish-French scientist was the first woman to share a Nobel Prize (the 1903 physics award, with her husband Pierre and fellow French scientist Henri Becquerel, for their pioneering work on radioactivity) and was also the first woman to receive an unshared Nobel, the 1911 chemistry prize, for her discovery of the elements radium and polonium. That makes her the only person ever to win Nobel Prizes in two different sciences. As if that weren’t enough, four of her family members are also Nobel laureates. In addition to Pierre, her daughter and son-in-law shared the 1935 chemistry prize, while another son-in-law was the director of UNICEF when it won the 1965 peace prize.
 >

@@ -21,7 +21,7 @@ haiku: |
 coordinates: [32.5434, 44.4237]
 ---
 
-For the History Channel, I wrote about historical rulers whose eccentricities tipped into madness.
+For the History Channel, I wrote about historical rulers whose eccentricities tended towards insanity.
 
 > The granddaddy of all mad kings is King Nebuchadnezzar, the [Babylonian ](https://www.history.com/topics/ancient-middle-east/babylon)ruler whose first-person account of a seven-year descent into animal-like insanity is one of the most fascinating sections of the Old Testament book of Daniel. According to that account, the arrogant king was struck down for his disbelief in the Hebrews’ God, leaving his palace and living in the wild. The Biblical story of Nebuchadnezzar’s madness became the framework through which royal insanity was seen in the Judeo-Christian world.
 >
