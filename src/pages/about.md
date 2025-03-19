@@ -3,7 +3,14 @@ layout: ../layouts/AboutLayout.astro
 title: "About "
 ---
 
+## Let Me Solve Your Problems
+
 I have more than a decade of experience providing friendly and elegant visual and textual problem-solving for clients from finance and tech startups to large nonprofits and big media companies. I’m based in Washington, DC but work with clients all over.
+I have an A.B. from Harvard in the History of Science (with coursework in physics, computer science and design), and have long been interested in making connections between different disciplines — bridging visuals and text, art and commerce, reason and wonder.
+I love working with clients to find the best expression of their vision, and to deliver results that are both excellent and humane.
+If you think I might be a good match for your team or project, get in touch at info@natebarksdale.xyz
+
+Select clients and projects
 
 ## The History Channel
 
@@ -16,17 +23,23 @@ writing fact-checking editing script review
 
 ## Eventide Asset Management
 
+_Graphic design for web and print, data-wrangling, document production management_
+
 I worked with Eventide Asset Management to design and reliably update dozens of excitingly boring quarterly and annual documents quickly, accurately, and on-brand.
 I created backend task management systems to adapt document design, content and compliance workflows as Eventide has grown from a startup with a few million in assets under management to an established family of mutual funds managing more than $6 billion in clients’ ethical investments.
 design project management workflow low-code html/css/php adobe site maintenance
 
 ## The John Templeton Foundation
 
+_Science writing_
+
 I've profiled people and projects investigating the universe's biggest mysteries for The John Templeton Foundation's website.
 I've loved the challenge of diving deep with experts on topics ranging from Big Bang cosmology to human evolution to philosophy and theology, and finding ways to explain just how fascinating it is for the general reader.
 features interviews blog posts study of the day
 
 ## Envoy and Homefront
+
+_Graphic design, product design, early-stage brainstorming_
 
 I worked on design and prototyping for Envoy and Homefront, two San Francisco-based seed stage startups investigating the potential for technologies to change the way we eat, live, and care for our loved ones.
 figma InVision html/css Adobe Suite
