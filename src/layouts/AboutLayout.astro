@@ -20,7 +20,7 @@ const { frontmatter } = Astro.props;
   <Breadcrumbs />
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
-      <h1 class="text-2xl font-serif sm:text-3xl mt-1 mb-2 normal-case">
+      <h1 class="text-3xl font-serif sm:text-5xl mt-1 mb-2 normal-case">
         {frontmatter.title}
       </h1>
       <slot />
@@ -28,3 +28,82 @@ const { frontmatter } = Astro.props;
   </main>
   <Footer />
 </Layout>
+
+<style>
+  /* Add styles to match homepage font sizing */
+  #about p:first-of-type {
+    @apply font-serif my-2 text-2xl;
+  }
+
+  /* Two-column layout for sections after intro paragraph */
+  :global(#about h1) {
+    @apply font-serif text-xl font-medium mt-8 mb-2;
+  }
+
+  :global(#about h1:not(:first-of-type)) {
+    @apply sm:w-1/4 sm:float-left sm:clear-left;
+  }
+
+  :global(#about h1 + p) {
+    @apply sm:w-3/4 sm:float-right;
+  }
+
+  :global(#about h1 + p + p) {
+    @apply sm:w-3/4 sm:float-right;
+  }
+
+  :global(#about ul) {
+    @apply sm:w-3/4 sm:ml-auto;
+  }
+
+  /* Animation styles */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  #about > * {
+    animation: fadeIn 0.5s ease-out forwards;
+    opacity: 0;
+  }
+
+  #about > *:nth-child(1) {
+    animation-delay: 0.1s;
+  }
+  #about > *:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+  #about > *:nth-child(3) {
+    animation-delay: 0.3s;
+  }
+  #about > *:nth-child(4) {
+    animation-delay: 0.4s;
+  }
+  #about > *:nth-child(5) {
+    animation-delay: 0.5s;
+  }
+  #about > *:nth-child(6) {
+    animation-delay: 0.6s;
+  }
+  #about > *:nth-child(7) {
+    animation-delay: 0.7s;
+  }
+  #about > *:nth-child(8) {
+    animation-delay: 0.8s;
+  }
+  #about > *:nth-child(9) {
+    animation-delay: 0.9s;
+  }
+  #about > *:nth-child(10) {
+    animation-delay: 1s;
+  }
+  #about > *:nth-child(n + 11) {
+    animation-delay: 1.1s;
+  }
+</style>
