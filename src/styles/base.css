@@ -201,6 +201,31 @@ p:not(:last-child)::after {
     @apply flex min-h-[100svh] flex-col bg-skin-fill font-serif text-skin-base 
     selection:bg-skin-accent selection:bg-opacity-70 selection:text-skin-inverted;
   }
+  
+  /* Work with Me styling */
+  .work-with-me-link {
+    @apply px-3 py-1 rounded-md font-medium;
+    background-color: #FFF3BF; /* Warm yellow */
+    color: rgba(var(--color-text-base), 0.9);
+    transition: background-color 0.2s ease;
+  }
+  
+  .work-with-me-link:hover {
+    background-color: #FFE066; /* Slightly darker yellow on hover */
+  }
+  
+  .work-with-me-link.active {
+    @apply fancy-underline;
+    background-color: #FFE066;
+  }
+  
+  /* Mobile banner-button for Work with Me */
+  .mobile-work-banner {
+    @apply block w-full max-w-3xl mx-auto text-center py-3 px-4 my-4 rounded-md font-medium;
+    background-color: #FFF3BF; /* Warm yellow */
+    color: rgba(var(--color-text-base), 0.9);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
   section,
   footer {
     @apply mx-auto max-w-3xl px-4;

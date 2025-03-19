@@ -24,7 +24,7 @@ const navItems = [
     path: "/map",
   },
   {
-    name: "About",
+    name: "Work with Me",
     path: "/about",
   },
 ];
@@ -76,8 +76,11 @@ const navItems = [
             <a href="/map" class={activeNav === "map" ? "active" : ""}> Map </a>
           </li>
           <li>
-            <a href="/about/" class={activeNav === "about" ? "active" : ""}>
-              About
+            <a
+              href="/about/"
+              class={`work-with-me-link ${activeNav === "about" ? "active" : ""}`}
+            >
+              Work with Me
             </a>
           </li>
           <li>
@@ -104,6 +107,8 @@ const navItems = [
     </div>
   </div>
   <Hr />
+  {/* Mobile banner-button for Work with Me */}
+  <a href="/about/" class="mobile-work-banner sm:hidden"> Work with Me </a>
 </header>
 
 <style>
