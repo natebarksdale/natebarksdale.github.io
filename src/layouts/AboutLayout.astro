@@ -153,9 +153,9 @@ const { frontmatter } = Astro.props;
     const aboutSection = document.getElementById("about");
     if (!aboutSection) return;
 
-    // Skip the main heading (h1 that's the title)
-    const mainHeading = aboutSection.querySelector("h1");
-    if (!mainHeading) return;
+    // // Skip the main heading (h1 that's the title)
+    // const mainHeading = aboutSection.querySelector("h1");
+    // if (!mainHeading) return;
 
     // Get all h1 elements after the main heading
     const headings = Array.from(aboutSection.querySelectorAll("h1")).filter(
