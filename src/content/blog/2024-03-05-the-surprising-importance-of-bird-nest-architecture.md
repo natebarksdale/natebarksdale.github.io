@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2024-03-05
 modDatetime: 2025-03-18T21:19:19Z
 title: The Surprising Importance of Bird Nest Architecture
-slug: study-of-the-day-the-surprising-importance-of-bird-nest-architecture
+slug: the-surprising-importance-of-bird-nest-architecture
 featured: false
 draft: false
 description: Explore how birds' nest designs reveal an evolutionary arms race driven by the cunning strategies of brood parasites like cuckoos.

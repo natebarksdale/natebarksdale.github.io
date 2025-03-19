@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-01-15
+pubDatetime: 2014-08-14
 modDatetime: 2025-03-18
 title: 10 Famous Elephants From History
 slug: 10-famous-elephants-from-history

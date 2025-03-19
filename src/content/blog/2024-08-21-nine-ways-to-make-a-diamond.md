@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2024-08-21
 modDatetime: 2025-03-18T21:19:20Z
 title: Nine Ways to Make a Diamond
-slug: study-of-the-day-nine-ways-to-make-a-diamond
+slug: nine-ways-to-make-a-diamond
 featured: false
 draft: false
 description: Explore how minerals shape life on Earth and beyond in our latest study, revealing nine unique ways to create a diamond.

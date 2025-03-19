@@ -3,10 +3,10 @@ author: Nate Barksdale
 pubDatetime: 2024-10-22
 modDatetime: 2025-03-18T21:19:20Z
 title: Wise Guise
-slug: study-of-the-day-wise-guise
+slug: wise-guise
 featured: false
 draft: false
-description: Explore the timeless quest for wisdom and a groundbreaking study revealing how different cultures surprisingly agree on its core attributes.
+description: People have been debating what counts as wisdom for a long, long time. Indeed, arguably the oldest literature we have is wisdom literature.
 emoji: 🧠
 tags:
   - 🌀 Templeton

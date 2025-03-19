@@ -1,6 +1,6 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2024-11-15
+pubDatetime: 2014-08-29
 modDatetime: 2025-03-18
 title: Where Hamburgers Began—and How They Became an Iconic American Food
 slug: where-hamburgers-began-and-how-they-became-an-iconic-american-food
