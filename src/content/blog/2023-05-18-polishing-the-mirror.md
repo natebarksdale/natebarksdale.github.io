@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-18
-modDatetime: 2025-03-18 21:19:19+00:00
+modDatetime: 2025-03-19T16:27:38Z
 title: Polishing the Mirror
 slug: polishing-the-mirror
-featured: False
-draft: False
+featured: false
+draft: false
 description: Explore how Rumi's poetic mirrors reflect the soulful journey of Sufism, blending divine love with psychological insights.
 emoji: 🪞
 tags:
@@ -17,7 +17,6 @@ haiku: |
   Mirror reflects truth,
   Polished by love’s tender rub,
   Wisdom shines in depths.
-
 coordinates: [32.4279, 53.688]
 ---
 
