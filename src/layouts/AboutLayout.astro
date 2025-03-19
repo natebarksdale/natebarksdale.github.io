@@ -31,9 +31,14 @@ const { frontmatter } = Astro.props;
 
 <style>
   /* Add styles to match homepage font sizing */
-  :global(#about p),
+  :global(#about p:first-of-type),
+  :global(#about p:second-of-type),
   :global(#about > ul:first-of-type li) {
     @apply font-serif my-2 text-2xl;
+  }
+  :global(#about p:second-of-type) {
+    @apply px-3 py-1 rounded-md;
+    background-color: #fff9dd; /* Warm yellow */
   }
 
   /* Format first section as full width */
