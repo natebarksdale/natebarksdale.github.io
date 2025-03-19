@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-17
+modDatetime: 2025-03-19T13:58:10Z
 title: Rediscovering the Greek Revolution’s Roots in Classical Liberalism
 slug: rediscovering-the-greek-revolutions-roots-in-classical-liberalism
 featured: false
@@ -11,7 +11,6 @@ emoji: 📜
 tags:
   - 🌀 Templeton
   - 🌍 History
-  - 🇹🇷 Turkey
   - ✍️ Translation
 haiku: |
   Bicentennial light,  
