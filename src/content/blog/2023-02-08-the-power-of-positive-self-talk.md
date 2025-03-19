@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-02-08
-modDatetime: 2025-03-19T14:32:38Z
+modDatetime: 2025-03-19 14:32:38+00:00
 title: The Power of Positive Self-Talk
-slug: study-of-the-day-the-power-of-positive-self-talk
-featured: false
-draft: false
+slug: the-power-of-positive-self-talk
+featured: False
+draft: False
 description: Discover how Ethan Kross applies groundbreaking psychology to transform middle school education with the power of positive self-talk.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Words shape our own minds,  
   Whispered strength in class echoes,  
   Calm amid the storm.
+
 coordinates: [42.280826, -83.743038]
 ---
 

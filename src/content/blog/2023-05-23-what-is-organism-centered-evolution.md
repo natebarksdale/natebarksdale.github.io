@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-23
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: What Is Organism-Centered Evolution?
-slug: study-of-the-day-what-is-organism-centered-evolution
-featured: false
-draft: false
+slug: what-is-organism-centered-evolution
+featured: False
+draft: False
 description: Explore how organisms evolve beyond genetics, delving into forces like epigenetics and cultural behaviors that shape their development and adaptation.
 emoji: 🧬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Genes weave life's fabric,  
   Beyond DNA, life shapes  
   Its own paths to thrive.
+
 coordinates: [51.509865, -0.118092]
 ---
 
