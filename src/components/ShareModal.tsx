@@ -57,8 +57,8 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
       },
     },
     {
-      name: "Twitter",
-      href: `https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`,
+      name: "Email",
+      href: `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(description + "\n\n" + url)}`,
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -67,7 +67,8 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
           stroke-linejoin="round"
         >
           <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-          <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"></path>
+          <rect x="3" y="5" width="18" height="14" rx="2"></rect>
+          <polyline points="3 7 12 13 21 7"></polyline>
         </svg>
       ),
     },
@@ -90,6 +91,27 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
         </svg>
       ),
     },
+    {
+      name: "Bluesky",
+      href: `https://bsky.app/intent/compose?text=${encodeURIComponent(title + "\n\n" + url)}`,
+      icon: (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="icon-tabler"
+        >
+          <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+          <path d="M6.335 5.144c-1.654 -1.199 -4.335 -2.127 -4.335 .826c0 .59 .35 4.953 .556 5.661c.713 2.463 3.13 2.75 5.444 2.369c-4.045 .665 -4.889 3.208 -2.667 5.41c1.03 1.018 1.913 1.59 2.667 1.59c2 0 3.134 -2.769 3.5 -3.5c.333 -.667 .5 -1.167 .5 -1.5c0 .333 .167 .833 .5 1.5c.366 .731 1.5 3.5 3.5 3.5c.754 0 1.637 -.571 2.667 -1.59c2.222 -2.203 1.378 -4.746 -2.667 -5.41c2.314 .38 4.73 .094 5.444 -2.369c.206 -.708 .556 -5.072 .556 -5.661c0 -2.953 -2.68 -2.025 -4.335 -.826c-2.293 1.662 -4.76 5.048 -5.665 6.856c-.905 -1.808 -3.372 -5.194 -5.665 -6.856z" />
+        </svg>
+      ),
+    },
   ];
 
   return (
@@ -106,7 +128,7 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
           <line x1="8.7" y1="10.7" x2="15.3" y2="7.3"></line>
           <line x1="8.7" y1="13.3" x2="15.3" y2="16.7"></line>
         </svg>
-        Share this post
+        Share this Post
       </button>
 
       {isOpen && (
@@ -129,7 +151,7 @@ const ShareModal: React.FC<ShareModalProps> = ({ url, title, description }) => {
               </svg>
             </button>
 
-            <h3 className="text-xl font-semibold mb-4">Share this post</h3>
+            <h3 className="text-xl font-semibold mb-4">Share this Post</h3>
             <div className="flex flex-col gap-3">
               {shareLinks.map(link =>
                 link.onClick ? (

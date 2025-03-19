@@ -4,6 +4,7 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
 import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
+import ShareModal from "@components/ShareModal";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
@@ -128,13 +129,12 @@ if (modDatetime && modDatetime > pubDatetime) {
     </ul>
 
     <div class="flex flex-row items-center justify-between gap-6 my-8">
-      <a
-        href="#"
-        id="share-link"
-        class="focus-outline whitespace-nowrap py-1 hover:opacity-75"
-      >
-        Share this post
-      </a>
+      <ShareModal
+        client:load
+        url={url}
+        title={title}
+        description={description || ""}
+      />
 
       <button
         id="back-to-top"
@@ -280,42 +280,5 @@ if (modDatetime && modDatetime > pubDatetime) {
   }
   backToTop();
 
-  /** Handle sharing functionality */
-  function setupShareLink() {
-    document
-      .querySelector("#share-link")
-      ?.addEventListener("click", async e => {
-        e.preventDefault();
-        const currentUrl = window.location.href;
-
-        if (navigator.share) {
-          // Use Web Share API if available
-          try {
-            await navigator.share({
-              title: document.title,
-              url: currentUrl,
-            });
-          } catch (err) {
-            console.error("Error sharing:", err);
-          }
-        } else {
-          // Fallback to copying the URL
-          try {
-            await navigator.clipboard.writeText(currentUrl);
-
-            // Show visual feedback
-            const shareLink = document.querySelector("#share-link");
-            const originalText = shareLink.textContent;
-            shareLink.textContent = "Link copied!";
-
-            setTimeout(() => {
-              shareLink.textContent = originalText;
-            }, 2000);
-          } catch (err) {
-            console.error("Failed to copy URL:", err);
-          }
-        }
-      });
-  }
-  setupShareLink();
+  // Share functionality handled by ShareModal component
 </script>
