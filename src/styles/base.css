@@ -645,3 +645,53 @@ blockquote:not([data-llm]) .llm-header {
   line-height: 1.2 !important;
   color: rgb(80, 80, 95) !important; /* Slightly bluer gray to distinguish */
 }
+
+/* MapView Component Fixes */
+.map-component-container {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.map-controls {
+  position: relative;
+  z-index: 20;
+  background-color: rgb(var(--color-fill));
+  width: 100%;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border-top: 1px solid rgba(var(--color-text-base), 0.1);
+}
+
+/* Ensure map container doesn't hide elements below it */
+#map-container {
+  position: relative;
+  overflow: visible;
+  z-index: 10;
+}
+
+/* Set a proper stacking context for map elements */
+.mapboxgl-map {
+  z-index: 1;
+}
+
+/* Make sure popups appear above the map */
+.mapboxgl-popup {
+  z-index: 30;
+}
+
+/* Make MapView controls more touch-friendly on mobile */
+@media (max-width: 640px) {
+  .map-controls button {
+    padding: 0.5rem 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Ensure slider controls are easier to use on mobile */
+  .map-controls input[type="range"] {
+    height: 2rem;
+  }
+}

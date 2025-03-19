@@ -31,29 +31,17 @@ const geojson = {
 // Updated variable name to match what's in the environment
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
+// Debug logs
 console.log("Server-side token check:", {
-  token: mapboxToken,
+  token: mapboxToken ? "[PRESENT]" : "[MISSING]",
   hasToken: !!mapboxToken,
-  envKeys: Object.keys(import.meta.env),
 });
-
-// Debug log to verify coordinates
-console.log(
-  "GeoJSON features:",
-  geojson.features.map(f => ({
-    title: f.properties.title,
-    coordinates: f.geometry.coordinates,
-    originalCoords: posts.find(p => p.data.title === f.properties.title)?.data
-      .coordinates,
-  }))
-);
 ---
 
 <script>
   // Log client-side environment variables
   console.log("Client-side env check:", {
     hasToken: !!import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN,
-    envKeys: Object.keys(import.meta.env),
   });
 </script>
 
@@ -64,10 +52,7 @@ console.log(
     <h1 class="mt-1 mb-2 inline-block font-serif text-2xl sm:text-3xl">
       Posts Around the World
     </h1>
-    <div
-      class="w-full overflow-hidden bg-skin-fill mt-4"
-      style="height: 600px;"
-    >
+    <div id="map-container" class="w-full mt-4 mb-6">
       <MapView
         client:only="react"
         geojson={geojson}
@@ -82,4 +67,28 @@ console.log(
   main {
     @apply mx-auto w-full max-w-3xl px-4 pb-12;
   }
+
+  /* Add a defined height constraint and overflow handling to the map container */
+  #map-container {
+    @apply relative;
+    min-height: 600px;
+    margin-bottom: 300px; /* Add extra margin below the map container */
+  }
 </style>
+
+<script>
+  // Add additional script to ensure the page layout is maintained
+  document.addEventListener("DOMContentLoaded", () => {
+    // Ensure the content below the map is visible by adding a class to the map container
+    const mapContainer = document.getElementById("map-container");
+    if (mapContainer) {
+      mapContainer.classList.add("map-loaded");
+    }
+
+    // Log page structure for debugging
+    console.log(
+      "Main content elements:",
+      document.querySelectorAll("#main-content > *").length
+    );
+  });
+</script>

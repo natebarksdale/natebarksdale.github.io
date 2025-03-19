@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState, useMemo } from "react";
 import mapboxgl from "mapbox-gl";
 
 interface MapViewProps {
@@ -167,6 +167,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   const [parallel2, setParallel2] = useState(40); // Default second standard parallel
   const [projectionDescription, setProjectionDescription] =
     useState<string>("");
+  const [isMapLoaded, setIsMapLoaded] = useState(false);
   const [descriptionIndexes, setDescriptionIndexes] = useState<{
     [key: string]: number;
   }>({
@@ -204,7 +205,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   };
 
   const changeProjection = (projection: ProjectionType) => {
-    if (!map.current) return;
+    if (!map.current || !isMapLoaded) return;
 
     let params;
 
@@ -212,18 +213,38 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
       // Randomize Lambert parameters when selecting Lambert
       params = randomizeLambertParams();
 
-      map.current.setProjection({
-        name: projection,
-        center: [0, params.center],
-        parallels: [params.parallel1, params.parallel2],
-      });
+      try {
+        map.current.setProjection({
+          name: projection,
+          center: [0, params.center],
+          parallels: [params.parallel1, params.parallel2],
+        });
+      } catch (error) {
+        console.error("Error setting Lambert projection:", error);
+        // Fall back to a more reliable projection if Lambert fails
+        map.current.setProjection("winkelTripel");
+        setCurrentProjection("winkelTripel");
+        return;
+      }
 
       // Update the description based on new parameters
       setProjectionDescription(
         getLambertDescription(params.center, params.parallel1, params.parallel2)
       );
     } else {
-      map.current.setProjection(projection);
+      try {
+        map.current.setProjection(projection);
+      } catch (error) {
+        console.error(`Error setting ${projection} projection:`, error);
+        // Fall back to a more reliable projection
+        try {
+          map.current.setProjection("mercator");
+          setCurrentProjection("mercator");
+        } catch (e) {
+          console.error("Failed to set fallback projection:", e);
+        }
+        return;
+      }
 
       // For non-Lambert projections, get a random description from the array
       if (projection in projectionDescriptions) {
@@ -243,31 +264,44 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
     const isGlobe = projection === "globe";
     const newZoom = isGlobe ? 1.5 : 0.8;
 
-    map.current.easeTo({
-      zoom: newZoom,
-      bearing: projection === "albers" ? 160 : 0, // Rotate Albers 160 degrees clockwise
-      duration: 1500,
-    });
+    try {
+      map.current.easeTo({
+        zoom: newZoom,
+        bearing: projection === "albers" ? 160 : 0, // Rotate Albers 160 degrees clockwise
+        duration: 1500,
+      });
+    } catch (error) {
+      console.error("Error adjusting map view:", error);
+    }
   };
 
   const updateLambertProjection = () => {
-    if (!map.current || currentProjection !== "lambertConformalConic") return;
+    if (
+      !map.current ||
+      !isMapLoaded ||
+      currentProjection !== "lambertConformalConic"
+    )
+      return;
 
-    map.current.setProjection({
-      name: "lambertConformalConic",
-      center: [0, center],
-      parallels: [parallel1, parallel2],
-    });
+    try {
+      map.current.setProjection({
+        name: "lambertConformalConic",
+        center: [0, center],
+        parallels: [parallel1, parallel2],
+      });
 
-    // Update description when Lambert parameters change
-    setProjectionDescription(
-      getLambertDescription(center, parallel1, parallel2)
-    );
+      // Update description when Lambert parameters change
+      setProjectionDescription(
+        getLambertDescription(center, parallel1, parallel2)
+      );
+    } catch (error) {
+      console.error("Error updating Lambert projection:", error);
+    }
   };
 
   useEffect(() => {
     updateLambertProjection();
-  }, [center, parallel1, parallel2]);
+  }, [center, parallel1, parallel2, isMapLoaded]);
 
   // Set initial projection description
   useEffect(() => {
@@ -280,10 +314,13 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   useEffect(() => {
     if (!mapContainer.current || !mapboxToken) return;
 
+    let mapInstance: mapboxgl.Map | null = null;
+
     try {
       mapboxgl.accessToken = mapboxToken;
 
-      map.current = new mapboxgl.Map({
+      // Create new map instance
+      mapInstance = new mapboxgl.Map({
         container: mapContainer.current,
         style: "mapbox://styles/mapbox/light-v11",
         center: [0, 20],
@@ -293,162 +330,198 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
         attributionControl: false,
       });
 
-      map.current.on("load", () => {
-        if (!map.current) return;
+      // Store the map instance in the ref
+      map.current = mapInstance;
 
-        map.current.setPaintProperty("background-color", "#faf8f3");
+      // Handle map load event
+      mapInstance.on("load", () => {
+        if (!mapInstance) return;
 
-        map.current.addSource("posts", {
-          type: "geojson",
-          data: geojson,
-        });
+        try {
+          // Set background color
+          mapInstance.setPaintProperty(
+            "background",
+            "background-color",
+            "#faf8f3"
+          );
 
-        map.current.addLayer({
-          id: "posts-circles",
-          type: "circle",
-          source: "posts",
-          paint: {
-            "circle-radius": [
-              "interpolate",
-              ["linear"],
-              ["zoom"],
-              0,
-              6, // Increased from 3 for better mobile tapping
-              4,
-              8, // Increased from 5
-              8,
-              12, // Increased from 8
-              12,
-              15, // Increased from 10
-              16,
-              18, // Increased from 12
-            ],
-            "circle-color": "#e60000",
-            "circle-stroke-width": [
-              "interpolate",
-              ["linear"],
-              ["zoom"],
-              0,
-              1.5, // Increased from 1
-              4,
-              2, // Increased from 1.5
-              8,
-              2.5, // Increased from 2
-              12,
-              3, // Increased from 2.5
-            ],
-            "circle-stroke-color": "#ffffff",
-          },
-        });
-
-        // Create popup but don't add to map yet
-        popup.current = new mapboxgl.Popup({
-          closeButton: false,
-          closeOnClick: false,
-          maxWidth: "300px",
-        });
-
-        // Show popup on click
-        map.current.on("click", "posts-circles", e => {
-          if (!map.current || !popup.current || !e.features?.[0]) return;
-
-          const coordinates = e.features[0].geometry.coordinates.slice();
-          const { title, slug, haiku } = e.features[0].properties;
-
-          // Ensure that if the map is zoomed out such that multiple
-          // copies of the feature are visible, the popup appears
-          // over the copy being pointed to.
-          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-          }
-
-          // Format haiku with line breaks
-          const formattedHaiku = haiku
-            ? haiku.replace(/\n/g, "<br>")
-            : "No haiku available";
-
-          // Create popup content with styled title and formatted haiku
-          const popupHTML = `
-            <div class="popup-content cursor-pointer">
-              <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
-              <p class="text-lg leading-relaxed" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>
-            </div>
-          `;
-
-          popup.current
-            .setLngLat(coordinates)
-            .setHTML(popupHTML)
-            .addTo(map.current);
-
-          // Add click event listener to the popup content
-          const popupElement = popup.current.getElement();
-          const popupContentElement =
-            popupElement.querySelector(".popup-content");
-          if (popupContentElement) {
-            popupContentElement.addEventListener("click", () => {
-              // Use client-side navigation
-              const link = document.createElement("a");
-              link.href = `/posts/${slug}`;
-              link.click();
-            });
-          }
-        });
-
-        // Close popup when clicking outside of it
-        map.current.on("click", e => {
-          if (!map.current || !popup.current) return;
-
-          // Check if the click was on a marker
-          const features = map.current.queryRenderedFeatures(e.point, {
-            layers: ["posts-circles"],
+          // Add GeoJSON source for posts
+          mapInstance.addSource("posts", {
+            type: "geojson",
+            data: geojson,
           });
 
-          // If no features were clicked (i.e., clicked outside markers and popup)
-          if (features.length === 0) {
-            popup.current.remove();
-          }
-        });
+          // Add circle layer for posts
+          mapInstance.addLayer({
+            id: "posts-circles",
+            type: "circle",
+            source: "posts",
+            paint: {
+              "circle-radius": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                0,
+                6,
+                4,
+                8,
+                8,
+                12,
+                12,
+                15,
+                16,
+                18,
+              ],
+              "circle-color": "#e60000",
+              "circle-stroke-width": [
+                "interpolate",
+                ["linear"],
+                ["zoom"],
+                0,
+                1.5,
+                4,
+                2,
+                8,
+                2.5,
+                12,
+                3,
+              ],
+              "circle-stroke-color": "#ffffff",
+            },
+          });
 
-        // Change cursor to pointer when hovering over a point
-        map.current.on("mouseenter", "posts-circles", () => {
-          if (!map.current) return;
-          map.current.getCanvas().style.cursor = "pointer";
-        });
+          // Create popup but don't add to map yet
+          popup.current = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false,
+            maxWidth: "300px",
+          });
 
-        map.current.on("mouseleave", "posts-circles", () => {
-          if (!map.current) return;
-          map.current.getCanvas().style.cursor = "";
-        });
+          // Show popup on click
+          mapInstance.on("click", "posts-circles", e => {
+            if (!mapInstance || !popup.current || !e.features?.[0]) return;
+
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const { title, slug, haiku } = e.features[0].properties;
+
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+              coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            // Format haiku with line breaks
+            const formattedHaiku = haiku
+              ? haiku.replace(/\n/g, "<br>")
+              : "No haiku available";
+
+            // Create popup content with styled title and formatted haiku
+            const popupHTML = `
+              <div class="popup-content cursor-pointer">
+                <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
+                <p class="text-lg leading-relaxed" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>
+              </div>
+            `;
+
+            popup.current
+              .setLngLat(coordinates)
+              .setHTML(popupHTML)
+              .addTo(mapInstance);
+
+            // Add click event listener to the popup content
+            const popupElement = popup.current.getElement();
+            const popupContentElement =
+              popupElement.querySelector(".popup-content");
+            if (popupContentElement) {
+              popupContentElement.addEventListener("click", () => {
+                // Use client-side navigation
+                window.location.href = `/posts/${slug}`;
+              });
+            }
+          });
+
+          // Close popup when clicking outside of it
+          mapInstance.on("click", e => {
+            if (!mapInstance || !popup.current) return;
+
+            // Check if the click was on a marker
+            const features = mapInstance.queryRenderedFeatures(e.point, {
+              layers: ["posts-circles"],
+            });
+
+            // If no features were clicked (i.e., clicked outside markers and popup)
+            if (features.length === 0) {
+              popup.current.remove();
+            }
+          });
+
+          // Change cursor to pointer when hovering over a point
+          mapInstance.on("mouseenter", "posts-circles", () => {
+            if (!mapInstance) return;
+            mapInstance.getCanvas().style.cursor = "pointer";
+          });
+
+          mapInstance.on("mouseleave", "posts-circles", () => {
+            if (!mapInstance) return;
+            mapInstance.getCanvas().style.cursor = "";
+          });
+
+          // Mark map as loaded
+          setIsMapLoaded(true);
+        } catch (error) {
+          console.error("Error setting up map layers:", error);
+        }
+      });
+
+      // Handle map errors
+      mapInstance.on("error", e => {
+        console.error("Mapbox error:", e);
       });
     } catch (error) {
       console.error("Error initializing map:", error);
     }
 
+    // Clean up on unmount
     return () => {
-      if (map.current) {
-        map.current.remove();
+      if (mapInstance) {
+        mapInstance.remove();
+        map.current = null;
+        setIsMapLoaded(false);
       }
     };
   }, [geojson, mapboxToken]);
 
   return (
-    <>
-      <div ref={mapContainer} className="w-full h-[600px]" />
-      Below map div.
-      <div className="mt-8 text-center">
-        Below next div.
+    <div className="map-component-container">
+      {/* Map container with 600px height */}
+      <div
+        ref={mapContainer}
+        className="w-full h-[600px] relative"
+        style={{
+          minHeight: "600px",
+          position: "relative",
+          overflow: "hidden",
+        }}
+      />
+
+      {/* UI controls - wrapped in a separate div */}
+      <div
+        className="map-controls mt-4 pt-4 text-center"
+        id="map-projection-controls"
+      >
         <h2 className="text-lg font-semibold mb-3">Map Projections</h2>
-        Below H2.
-        <div className="flex flex-wrap gap-4 justify-center">
+
+        <div className="flex flex-wrap gap-2 justify-center">
           {projections.map(proj => (
             <button
               key={proj.id}
               onClick={() => changeProjection(proj.value)}
-              className={`px-2 py-1 text-sm relative transition-colors hover:text-skin-accent
+              className={`px-3 py-2 text-sm relative transition-colors hover:text-skin-accent border rounded
                 ${
                   currentProjection === proj.value
-                    ? "text-skin-accent after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-skin-accent"
-                    : "text-skin-base"
+                    ? "text-skin-accent border-skin-accent"
+                    : "text-skin-base border-transparent"
                 }`}
             >
               {currentProjection === "lambertConformalConic" &&
@@ -458,13 +531,16 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             </button>
           ))}
         </div>
-        {/* Display projection description */}
+
+        {/* Projection description */}
         {projectionDescription && (
           <div className="mt-4 max-w-2xl mx-auto text-sm italic text-skin-base opacity-80 px-4">
             {projectionDescription}
           </div>
         )}
-        {currentProjection === "lambertConformalConic" && (
+
+        {/* Lambert controls */}
+        {currentProjection === "lambertConformalConic" && isMapLoaded && (
           <div className="mt-6 max-w-xl mx-auto px-4">
             <div className="mb-4">
               <label className="block text-sm mb-2">
@@ -508,7 +584,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
           </div>
         )}
       </div>
-    </>
+    </div>
   );
 };
 

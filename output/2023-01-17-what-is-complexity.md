@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-01-17
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-19T14:32:38Z
 title: What Is Complexity?
 slug: study-of-the-day-what-is-complexity
 featured: false
@@ -20,10 +20,8 @@ haiku: |
 coordinates: [51.509865, -0.118092]
 ---
 
-For the John Templeton Foundation, I wrote about the intricate dance between order and chaos in complex systems.
+For the John Templeton Foundation, I wrote about the science of complexity.
 
-> It can be used to study biological, physical, and cognitive systems, as well as aspects of human society and technology.
->
 > As the number of  components in a system increases, measures for its complexity can change in linear or exponential ways. (A system of 20 objects has twice as many parts as a system with 10, but more than 60 times as many possible groups of 5 parts compared to the smaller system). Some kinds of complexity can be termed “disorganized” — with a greater number of parts and connections yielding greater amounts of chaos and unpredictability. (Probability and statistics can still be helpful in understanding disorganized systems). Other types of complexity are deemed “organized” — they have non-random-seeming, correlated features, allowing the system to be thought of as a single object. In computer science, an algorithm’s *computational complexity* refers to the amount of resources required to execute it. One of the outstanding questions in this field is whether there are any classes of problems that are too complex ever to be solved.
 
 [Read more at templeton.org](https://www.templeton.org/news/what-is-complexity)
