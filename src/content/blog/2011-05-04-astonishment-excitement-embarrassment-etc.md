@@ -56,7 +56,7 @@ In a speech that sets the whole plot in motion, Cooper's Professor Bertram Potts
 
 All of which calls to mind what is perhaps my favorite infographic ever, printed in the introduction to Wentworth and Flexner's 1960 [_Dictionary of American Slang_](https://www.google.com/search?q=%22_Dictionary%20of%20American%20Slang_%22%20amazon.com):
 
-![](<(@assets/images/slang-daisy.jpg)>)
+![](@assets/images/slang-daisy.jpg)
 
 [_Dict. of Am. Sl._](https://www.google.com/search?q=%22_Dict.%20of%20Am.%20Sl._%22%20amazon.com)
 
