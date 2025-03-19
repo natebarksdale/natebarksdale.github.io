@@ -296,11 +296,7 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
       map.current.on("load", () => {
         if (!map.current) return;
 
-        map.current.setPaintProperty(
-          "background",
-          "background-color",
-          "#faf8f3"
-        );
+        map.current.setPaintProperty("background-color", "#faf8f3");
 
         map.current.addSource("posts", {
           type: "geojson",
@@ -438,8 +434,11 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
   return (
     <>
       <div ref={mapContainer} className="w-full h-[600px]" />
+      Below map div.
       <div className="mt-8 text-center">
+        Below next div.
         <h2 className="text-lg font-semibold mb-3">Map Projections</h2>
+        Below H2.
         <div className="flex flex-wrap gap-4 justify-center">
           {projections.map(proj => (
             <button
@@ -459,14 +458,12 @@ const MapView: React.FC<MapViewProps> = ({ geojson, mapboxToken }) => {
             </button>
           ))}
         </div>
-
         {/* Display projection description */}
         {projectionDescription && (
           <div className="mt-4 max-w-2xl mx-auto text-sm italic text-skin-base opacity-80 px-4">
             {projectionDescription}
           </div>
         )}
-
         {currentProjection === "lambertConformalConic" && (
           <div className="mt-6 max-w-xl mx-auto px-4">
             <div className="mb-4">
