@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-06-28
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: What Is Epigenetics?
-slug: study-of-the-day-what-is-epigenetics
-featured: false
-draft: false
+slug: what-is-epigenetics
+featured: False
+draft: False
 description: How epigenetics shapes our biology beyond DNA, influencing traits across generations through mechanisms like DNA methylation.
 emoji: 🧬
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Genes shape not alone,  
   Life's script altered by our past,  
   Echoes through offspring.
+
 coordinates: [51.509865, -0.118092]
 ---
 

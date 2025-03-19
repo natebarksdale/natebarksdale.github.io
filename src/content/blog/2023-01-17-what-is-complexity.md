@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-01-17
-modDatetime: 2025-03-19T14:32:38Z
+modDatetime: 2025-03-19 14:32:38+00:00
 title: What Is Complexity?
-slug: study-of-the-day-what-is-complexity
-featured: false
-draft: false
+slug: what-is-complexity
+featured: False
+draft: False
 description: Explore the intriguing world of complexity, where chaos meets order and simple systems reveal bewildering possibilities.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Systems grow, chaos blooms,  
   Intricate webs spun tightly,  
   Complex truths unfurl.
+
 coordinates: [51.509865, -0.118092]
 ---
 

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-04-03
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: What Is Future-Mindedness?
-slug: study-of-the-day-what-is-future-mindedness
-featured: false
-draft: false
+slug: what-is-future-mindedness
+featured: False
+draft: False
 description: Prospection, a blend of memory and imagination, shapes our decisions and survival strategies through "mental time travel."
 emoji: 🔮
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Future minds wander,  
   Memory's path leads ahead—  
   Silent thoughts take flight.
+
 coordinates: [51.509865, -0.118092]
 ---
 

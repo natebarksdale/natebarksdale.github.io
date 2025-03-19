@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-02-15
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: What Is Emergence?
-slug: study-of-the-day-what-is-emergence
-featured: false
-draft: false
+slug: what-is-emergence
+featured: False
+draft: False
 description: Explore the fascinating concept of emergence, where simple elements unfold into complex systems, from galaxies to societies. Delve into the debate between weak and strong emergence, revealing the mysteries of existence.
 emoji: 🌀
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Simple to complex,
   Galaxies spin, life emerges—
   Nature's deep secrets.
+
 coordinates: [51.509865, -0.118092]
 ---
 

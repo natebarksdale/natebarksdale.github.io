@@ -1,23 +1,22 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-04-10
-modDatetime: 2025-03-18T21:19:19Z
-title: Q&A: Five Questions with Matt Warner
-slug: study-of-the-day-q-a-five-questions-with-matt-warner
-featured: false
-draft: false
-description: Matt Warner, president of Atlas Network, talks about promoting global freedom and human flourishing.
-emoji: 🌍
+pubDatetime: 2025-03-19
+modDatetime: 2025-03-19
+title: For the John Templeton Foundation, I interviewed M
+slug: for-the-john-templeton-foundation-i-interviewed-m
+featured: False
+draft: False
+description: Matt Warner discusses his journey into entrepreneurship and development, sparked by his work with immigrant communities, in this exclusive interview. Learn what that experience taught him.
+emoji: 🤝
 tags:
-  - 🌀 Templeton
-  - 🌍 Globalization
-  - 💼 Leadership
-  - 📚 Archives
+  - 🌱 Entrepreneurship
+  - 🌍 Development
+  - 💼 Business
+  - 💵 Philanthropy
 haiku: |
-  Ideas bridge the world,  
-  Free markets bloom, barriers fall,  
-  Freedom's roots grow deep.
-coordinates: [38.89511, -77.03637]
+  Brooklyn's lessons learned,
+  Helping hands shape destiny,
+  Growth blooms from kind acts.
 ---
 
 For the John Templeton Foundation, I interviewed Matt Warner.

@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-06-30
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: Q&A with Nathan Ballantyne
-slug: how-to-think-better-with-nathan-ballantyne
-featured: false
-draft: false
+slug: q-a-with-nathan-ballantyne
+featured: False
+draft: False
 description: Nathan Ballantyne shares insights on enhancing human judgment.
 emoji: 🤔
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Mind's journey unfolds,  
   Limiting thoughts challenged deep,  
   Wisdom's path revealed.
+
 coordinates: [33.424564, -111.928001]
 ---
 

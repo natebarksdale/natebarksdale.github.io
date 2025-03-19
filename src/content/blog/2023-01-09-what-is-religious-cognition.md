@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-01-09
-modDatetime: 2025-03-18T21:19:18Z
+modDatetime: 2025-03-18 21:19:18+00:00
 title: What Is Religious Cognition?
-slug: study-of-the-day-what-is-religious-cognition
-featured: false
-draft: false
+slug: what-is-religious-cognition
+featured: False
+draft: False
 description: Explore how beliefs in the divine shape our lives and decisions, in this deep dive into the underexplored field of religious cognition.
 emoji: 🧠
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Minds trace the divine,  
   Beliefs shape life's vast tapestry,  
   Truth veiled in shadows.
+
 coordinates: [51.509865, -0.118092]
 ---
 

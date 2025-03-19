@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-31
-modDatetime: 2025-03-18T21:19:19Z
+modDatetime: 2025-03-18 21:19:19+00:00
 title: Call and Response
-slug: study-of-the-day-call-and-response
-featured: false
-draft: false
+slug: call-and-response
+featured: False
+draft: False
 description: How music's rhythmic bonds shape social behaviors and foster connections, from toddlers to adults.
 emoji: 🎵
 tags:
@@ -18,6 +18,7 @@ haiku: |
   Music binds the heart,  
   Synchronized beats build bridges,  
   Harmony flows deep.
+
 coordinates: [32.794, 34.9896]
 ---
 
