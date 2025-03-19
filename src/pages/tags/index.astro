@@ -11,7 +11,8 @@ import getUniqueTags from "@utils/getUniqueTags";
 import { SITE } from "@config";
 
 const posts = await getCollection("blog");
-const tags = getUniqueTags(posts);
+// Filter tags to only show those with 3 or more posts
+const tags = getUniqueTags(posts, 3);
 
 // Generate GeoJSON data for each tag
 const tagGeoJsonMap: Record<string, { geojson: any; count: number }> = {};
@@ -33,6 +34,7 @@ for (const { tag, tagName } of tags) {
     properties: {
       title: post.data.title,
       slug: post.slug,
+      haiku: post.data.haiku || "", // Add haiku property to be displayed in popover
     },
   }));
 
@@ -74,13 +76,15 @@ const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
       )
     }
 
-    <ul class="mt-8">
-      {
-        tags.map(({ tag, tagName }) => (
-          <Tag tag={tag} tagName={tagName} size="lg" />
-        ))
-      }
-    </ul>
+    <div class="tag-list-container mt-8">
+      <ul class="tag-list">
+        {
+          tags.map(({ tag, tagName }) => (
+            <Tag tag={tag} tagName={tagName} size="lg" />
+          ))
+        }
+      </ul>
+    </div>
   </main>
   <Footer />
 </Layout>
@@ -110,5 +114,29 @@ const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
 <style>
   #main-content {
     @apply mx-auto w-full max-w-3xl px-4 pb-4;
+  }
+
+  .tag-list-container {
+    @apply max-h-[300px] overflow-y-auto border border-gray-200 rounded p-4;
+    /* Add scrollbar styling that works across browsers */
+    scrollbar-width: thin;
+    scrollbar-color: rgba(0, 0, 0, 0.2) transparent;
+  }
+
+  .tag-list-container::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .tag-list-container::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .tag-list-container::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+  }
+
+  .tag-list {
+    @apply text-center;
   }
 </style>
