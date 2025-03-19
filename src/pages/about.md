@@ -3,7 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About "
 ---
 
-## Let Me Solve Your Problems
+## Elegant Problem-Solving
+
+- Interdisciplinary writer, editor, and fact-checker, skilled at getting your prose or mine to be informative, concise, factual, and on tone.
+- Design problem-solver skilled at making information elegant, organized and accessible.
+- Researching and experimenting with Artifical Intelligence tools to understand what they're good for, where they miss the mark, and how those answers are in flux.
 
 I have more than a decade of experience providing friendly and elegant visual and textual problem-solving for clients from finance and tech startups to large nonprofits and big media companies. I’m based in Washington, DC but work with clients all over.
 I have an A.B. from Harvard in the History of Science (with coursework in physics, computer science and design), and have long been interested in making connections between different disciplines — bridging visuals and text, art and commerce, reason and wonder.
