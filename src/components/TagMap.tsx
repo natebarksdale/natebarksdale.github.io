@@ -27,6 +27,9 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
         attributionControl: false,
       });
 
+      // Detect if the device is likely mobile
+      const isMobile = window.matchMedia("(max-width: 768px)").matches;
+
       map.current.on("load", () => {
         if (!map.current) return;
 
@@ -69,58 +72,124 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
         // Create popup but don't add to map yet
         popup.current = new mapboxgl.Popup({
           closeButton: false,
-          closeOnClick: true,
-          maxWidth: "250px",
+          closeOnClick: false, // Changed to false to match MapView behavior
+          maxWidth: "300px", // Increased to match MapView
         });
 
-        // Show popup on hover
-        map.current.on("mouseenter", "tag-posts-circles", e => {
-          if (!map.current || !popup.current || !e.features?.[0]) return;
+        if (isMobile) {
+          // On mobile: show popup on tap, close on tap elsewhere
+          map.current.on("click", "tag-posts-circles", e => {
+            if (!map.current || !popup.current || !e.features?.[0]) return;
 
-          const coordinates = e.features[0].geometry.coordinates.slice();
-          const { title, slug, haiku } = e.features[0].properties;
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const { title, slug, haiku } = e.features[0].properties;
 
-          // Ensure that if the map is zoomed out such that multiple
-          // copies of the feature are visible, the popup appears
-          // over the copy being pointed to.
-          while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-          }
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+              coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
 
-          // Format haiku with line breaks if it exists
-          const formattedHaiku = haiku ? haiku.replace(/\n/g, "<br>") : "";
+            // Format haiku with line breaks if it exists
+            const formattedHaiku = haiku ? haiku.replace(/\n/g, "<br>") : "";
 
-          // Create popup content including the haiku
-          const popupHTML = `
-            <div class="popup-content cursor-pointer">
-              <h3 class="text-sm font-semibold uppercase tracking-wide text-skin-accent">${title}</h3>
-              ${formattedHaiku ? `<p class="text-sm mt-1 leading-tight italic" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
-            </div>
-          `;
+            // Create popup content with larger text to match MapView
+            const popupHTML = `
+              <div class="popup-content cursor-pointer">
+                <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
+                ${formattedHaiku ? `<p class="text-lg leading-relaxed" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
+              </div>
+            `;
 
-          popup.current
-            .setLngLat(coordinates)
-            .setHTML(popupHTML)
-            .addTo(map.current);
+            popup.current
+              .setLngLat(coordinates)
+              .setHTML(popupHTML)
+              .addTo(map.current);
 
-          // Add click event listener to the popup content
-          const popupElement = popup.current.getElement();
-          const popupContentElement =
-            popupElement.querySelector(".popup-content");
-          if (popupContentElement) {
-            popupContentElement.addEventListener("click", () => {
-              // Navigate to the post
-              window.location.href = `/posts/${slug}`;
+            // Add click event listener to the popup content
+            const popupElement = popup.current.getElement();
+            const popupContentElement =
+              popupElement.querySelector(".popup-content");
+            if (popupContentElement) {
+              popupContentElement.addEventListener("click", () => {
+                // Navigate to the post
+                window.location.href = `/posts/${slug}`;
+              });
+            }
+          });
+
+          // Close popup when clicking outside of a feature
+          map.current.on("click", e => {
+            if (!map.current || !popup.current) return;
+
+            // Check if the click was on a marker
+            const features = map.current.queryRenderedFeatures(e.point, {
+              layers: ["tag-posts-circles"],
             });
-          }
-        });
 
-        // Close popup when leaving a feature
-        map.current.on("mouseleave", "tag-posts-circles", () => {
-          if (popup.current) popup.current.remove();
-        });
+            // If no features were clicked (i.e., clicked outside markers and popup)
+            if (features.length === 0) {
+              popup.current.remove();
+            }
+          });
+        } else {
+          // On desktop: show popup on hover
+          map.current.on("mouseenter", "tag-posts-circles", e => {
+            if (!map.current || !popup.current || !e.features?.[0]) return;
 
-        // Change cursor to pointer when hovering over a point
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const { title, slug, haiku } = e.features[0].properties;
+
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+              coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            // Format haiku with line breaks if it exists
+            const formattedHaiku = haiku ? haiku.replace(/\n/g, "<br>") : "";
+
+            // Create popup content with larger text to match MapView
+            const popupHTML = `
+              <div class="popup-content cursor-pointer">
+                <h3 class="text-lg font-semibold uppercase tracking-wide mb-2 text-skin-accent">${title}</h3>
+                ${formattedHaiku ? `<p class="text-lg leading-relaxed" style="font-family: 'DovesType-Text', serif;">${formattedHaiku}</p>` : ""}
+              </div>
+            `;
+
+            popup.current
+              .setLngLat(coordinates)
+              .setHTML(popupHTML)
+              .addTo(map.current);
+
+            // Add click event listener to the popup content
+            const popupElement = popup.current.getElement();
+            const popupContentElement =
+              popupElement.querySelector(".popup-content");
+            if (popupContentElement) {
+              popupContentElement.addEventListener("click", () => {
+                // Navigate to the post
+                window.location.href = `/posts/${slug}`;
+              });
+            }
+          });
+
+          // Close popup when leaving a feature
+          map.current.on("mouseleave", "tag-posts-circles", () => {
+            if (popup.current) popup.current.remove();
+          });
+
+          // Make points clickable to navigate to posts
+          map.current.on("click", "tag-posts-circles", e => {
+            if (!e.features?.[0]) return;
+            const { slug } = e.features[0].properties;
+            window.location.href = `/posts/${slug}`;
+          });
+        }
+
+        // Change cursor to pointer when hovering over a point (both mobile and desktop)
         map.current.on("mouseenter", "tag-posts-circles", () => {
           if (!map.current) return;
           map.current.getCanvas().style.cursor = "pointer";
@@ -129,13 +198,6 @@ const TagMap: React.FC<TagMapProps> = ({ geojson, mapboxToken }) => {
         map.current.on("mouseleave", "tag-posts-circles", () => {
           if (!map.current) return;
           map.current.getCanvas().style.cursor = "";
-        });
-
-        // Make points clickable to navigate to posts
-        map.current.on("click", "tag-posts-circles", e => {
-          if (!e.features?.[0]) return;
-          const { slug } = e.features[0].properties;
-          window.location.href = `/posts/${slug}`;
         });
       });
     } catch (error) {

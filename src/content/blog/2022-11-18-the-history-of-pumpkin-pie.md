@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2022-11-18
-modDatetime: 2025-03-18
+pubDatetime: 2014-11-21
+modDatetime: 2025-03-20T14:57:35Z
 title: The History of Pumpkin Pie
 slug: the-history-of-pumpkin-pie
 featured: false

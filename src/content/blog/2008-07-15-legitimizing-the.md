@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2008-07-15
 modDatetime: 2025-03-10 18:29:12+00:00
-title: Legitimizing the ß
-slug: legitimizing-the-ss
+title: Legitimizing the Eszett
+slug: legitimizing-the-eszett
 featured: False
 draft: False
 description: An exploration of the recognition and preservation of unique European letters on the internet, including the Eszett in Germany.

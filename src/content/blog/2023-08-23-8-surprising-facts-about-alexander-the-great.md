@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-08-23
-modDatetime: 2025-03-18T20:45:57Z
-title: 8 Surprising Facts about Alexander the Great
-slug: 8-surprising-facts-about-alexander-the-great
+pubDatetime: 2014-05-13
+modDatetime: 2025-03-20T14:57:36Z
+title: Eight Surprising Facts about Alexander the Great
+slug: eight-surprising-facts-about-alexander-the-great
 featured: false
 draft: false
 description: “If I were not Alexander, I would be Diogenes.”
-emoji: 📝
+emoji: 🐎
 tags:
   - 🇭 History.com
   - 📚 Lists

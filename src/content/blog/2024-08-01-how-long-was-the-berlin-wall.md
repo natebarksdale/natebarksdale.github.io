@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2024-08-01
-modDatetime: 2025-03-18
+pubDatetime: 2014-11-05
+modDatetime: 2025-03-20T14:57:37Z
 title: How Long Was the Berlin Wall?
 slug: how-long-was-the-berlin-wall
 featured: false

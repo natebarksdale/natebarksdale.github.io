@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-09-14
-modDatetime: 2025-03-18
+pubDatetime: 2015-04-29
+modDatetime: 2025-03-20T14:57:36Z
 title: What was the first animal in space?
 slug: what-was-the-first-animal-in-space
 featured: false

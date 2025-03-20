@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-10-05
-modDatetime: 2025-03-18
+pubDatetime: 2014-12-19
+modDatetime: 2025-03-20T14:57:37Z
 title: The History of Christmas Pudding
 slug: the-history-of-christmas-pudding
 featured: false

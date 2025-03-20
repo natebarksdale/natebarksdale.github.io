@@ -50,7 +50,7 @@ const navItems = [
       </a>
       <nav id="nav-menu">
         <button
-          class="hamburger-menu focus-outline"
+          class="hamburger-menu focus-outline yellow-highlight-mobile"
           aria-label="Open Menu"
           aria-expanded="false"
           aria-controls="menu-items"
@@ -107,8 +107,7 @@ const navItems = [
     </div>
   </div>
   <Hr />
-  {/* Mobile banner-button for Work with Me */}
-  <a href="/about/" class="mobile-work-banner sm:hidden"> Work with Me </a>
+  {/* Remove mobile banner-button for Work with Me */}
 </header>
 
 <style>
@@ -127,6 +126,14 @@ const navItems = [
   .hamburger-menu {
     @apply self-end p-2 sm:hidden;
   }
+
+  /* Add yellow highlight to hamburger menu on mobile */
+  .yellow-highlight-mobile {
+    @apply rounded-md;
+    background-color: #fff9dd; /* Warm yellow to match desktop Work with Me */
+    padding: 0.5rem !important;
+  }
+
   .hamburger-menu svg {
     @apply h-6 w-6 scale-125 fill-skin-base;
   }

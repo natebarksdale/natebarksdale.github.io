@@ -32,14 +32,16 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     <section id="hero">
       <h1>What Comes Next_</h1>
       <p>
-        I've been thinking a lot about, and experimenting a lot with, the uses
-        of AI — its promises, possibilities, pitfalls, and especially its
-        uncanny (in many senses) insights into the shape of the human cultural
-        corpus. ¶ Large Language models work in the principle of a predicting
-        the next element in sequence of tokens — of words and fragments: given
-        what came before, what comes next? ¶ The posts here combine older work
-        and new, in the form of a collage, an experimenter's log, and a
-        commonplace book.
+        <span style="color:rgb(0,0,0,0.25)">¶</span> I've been thinking a lot about,
+        and experimenting a lot with, the uses of AI — its promises, possibilities,
+        pitfalls, and especially its uncanny (in many senses) insights into the shape
+        of the human cultural corpus. <span style="color:rgb(0,0,0,0.25)"
+          >¶</span
+        > Large Language models work in the principle of a predicting the next element
+        in sequence of tokens — of words and fragments: given what came before, what
+        comes next? <span style="color:rgb(0,0,0,0.25)">¶</span> The posts here combine
+        older work and new, in the form of a collage, an experimenter's log, and
+        a commonplace book.
       </p>
     </section>
 
@@ -90,7 +92,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         <>
           <Hr />
           <section id="archive-posts">
-            <h2>Archived</h2>
+            <h2>Archive</h2>
             <ul>
               {archivePosts.map(({ data, slug }) => (
                 <Card

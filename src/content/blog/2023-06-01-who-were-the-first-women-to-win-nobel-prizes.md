@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-06-01
-modDatetime: 2025-03-18
+pubDatetime: 2014-10-08
+modDatetime: 2025-03-20T14:57:36Z
 title: Who Were the First Women to Win Nobel Prizes?
 slug: who-were-the-first-women-to-win-nobel-prizes
 featured: false

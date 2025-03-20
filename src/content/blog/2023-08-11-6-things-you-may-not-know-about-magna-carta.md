@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-08-11
-modDatetime: 2025-03-18
-title: 6 Things You May Not Know About Magna Carta
-slug: 6-things-you-may-not-know-about-magna-carta
+pubDatetime: 2014-06-15
+modDatetime: 2025-03-20T14:57:36Z
+title: Six Things You May Not Know About Magna Carta
+slug: six-things-you-may-not-know-about-magna-carta
 featured: false
 draft: false
 description: Discover six intriguing aspects of Magna Carta, a charter that shaped modern democracy, forged under duress and rich historical negotiation.

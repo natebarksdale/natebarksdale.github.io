@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2008-08-27
-title: 26 Alphabet Trucks, by Eric Tabuchi
-slug: 26-alphabet-trucks-by-eric-tabuchi
+modDatetime: 2025-03-20T14:57:34Z
+title: Twenty-six Alphabet Trucks, by Eric Tabuchi
+slug: twenty-six-alphabet-trucks-by-eric-tabuchi
 featured: false
 draft: false
 description: A playful exploration of typography through clever photographs of letters found on various objects.

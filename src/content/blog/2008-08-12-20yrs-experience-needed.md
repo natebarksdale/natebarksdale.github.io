@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-12
-modDatetime: 2008-08-12
-title: 20yrs experience needed
-slug: 20yrs-experience-needed
+modDatetime: 2025-03-20T14:57:34Z
+title: Twenty years experience needed
+slug: twenty-years-experience-needed
 featured: false
 draft: false
 description: Brian Eno reflects on the deep-rooted theatrical traditions and community spirit of Oberammergau.

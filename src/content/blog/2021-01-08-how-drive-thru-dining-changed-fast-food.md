@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2021-01-08
-modDatetime: 2025-03-18
+pubDatetime: 2014-05-16
+modDatetime: 2025-03-20T14:57:35Z
 title: How Drive‑Thru Dining Changed Fast Food
 slug: how-drive-thru-dining-changed-fast-food
 featured: false

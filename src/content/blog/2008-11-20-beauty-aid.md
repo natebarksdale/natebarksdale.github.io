@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2025-03-17T21:38:35Z
+modDatetime: 2025-03-20T14:57:34Z
 title: Beauty aid
 slug: beauty-aid
 featured: false
 draft: false
 description: Beauty salons become safe havens for women, creating a vital space for discussions on domestic violence.
-emoji: 💇‍♀️
+emoji: 💇
 tags:
   - ✨ Beauty
   - ❤️ Kindness

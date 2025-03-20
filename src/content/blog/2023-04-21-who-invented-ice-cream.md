@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-04-21
-modDatetime: 2025-03-18
+pubDatetime: 2023-04-17
+modDatetime: 2025-03-20T14:57:36Z
 title: Who Invented Ice Cream?
 slug: who-invented-ice-cream
 featured: false

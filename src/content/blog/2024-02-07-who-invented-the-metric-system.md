@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2024-02-07
-modDatetime: 2025-03-18
+pubDatetime: 2014-07-16
+modDatetime: 2025-03-20T14:57:37Z
 title: Who invented the metric system?
 slug: who-invented-the-metric-system
 featured: false

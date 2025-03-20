@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-08-29
-modDatetime: 2025-03-18
-title: 8 Things You May Not Know About Henry VIII
-slug: 8-things-you-may-not-know-about-henry-viii
+pubDatetime: 2014-12-16
+modDatetime: 2025-03-20T14:57:36Z
+title: Eight Things You May Not Know About Henry VIII
+slug: eight-things-you-may-not-know-about-henry-viii
 featured: false
 draft: false
 description: Defender of the faith? Yes. Of his wives? Not so much.

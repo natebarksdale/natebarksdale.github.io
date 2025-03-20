@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2018-08-23
-modDatetime: 2025-03-18
+pubDatetime: 2014-08-22
+modDatetime: 2025-03-20T14:57:35Z
 title: How Canned Food Revolutionized The Way We Eat
 slug: how-canned-food-revolutionized-the-way-we-eat
 featured: false

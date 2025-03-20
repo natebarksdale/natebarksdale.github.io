@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-21
-modDatetime: 2025-03-17T21:38:50Z
+modDatetime: 2025-03-20T14:57:34Z
 title: To arrr is human
 slug: to-arrr-is-human
 featured: false
 draft: false
 description: Exploring our fascination with pirates reveals deeper existential themes about boundaries and identity.
-emoji: 🏴‍☠️
+emoji: ☠️
 tags:
   - 🌍 Society
   - ⚖️ Ethics

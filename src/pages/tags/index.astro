@@ -11,8 +11,8 @@ import getUniqueTags from "@utils/getUniqueTags";
 import { SITE } from "@config";
 
 const posts = await getCollection("blog");
-// Filter tags to only show those with 3 or more posts
-const tags = getUniqueTags(posts, 3);
+// Filter tags to only show those with 3 or more posts, sorted by most recent use
+const tags = getUniqueTags(posts, 3, true);
 
 // Generate GeoJSON data for each tag
 const tagGeoJsonMap: Record<string, { geojson: any; count: number }> = {};
@@ -61,29 +61,33 @@ const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
   <Header activeNav="tags" />
   <Breadcrumbs />
   <main id="main-content">
-    {
-      hasGeotaggedPosts && (
-        <div class="my-6">
-          <TagsMap
-            client:load
-            allTagsGeoJson={tagGeoJsonMap}
-            mapboxToken={mapboxToken}
-          />
-          <p class="text-xs text-center mt-1 text-gray-500">
-            Hover over tags to see related locations
-          </p>
-        </div>
-      )
-    }
+    <div class="tags-page-container">
+      {/* Sticky map container */}
+      {
+        hasGeotaggedPosts && (
+          <div class="map-container sticky-map">
+            <TagsMap
+              client:load
+              allTagsGeoJson={tagGeoJsonMap}
+              mapboxToken={mapboxToken}
+            />
+            <p class="text-xs text-center mt-1 text-gray-500">
+              Hover over tags to see related locations
+            </p>
+          </div>
+        )
+      }
 
-    <div class="tag-list-container mt-8">
-      <ul class="tag-list">
-        {
-          tags.map(({ tag, tagName }) => (
-            <Tag tag={tag} tagName={tagName} size="lg" />
-          ))
-        }
-      </ul>
+      {/* Tags list that scrolls beneath the map */}
+      <div class="tag-list-container">
+        <ul class="tag-list">
+          {
+            tags.map(({ tag, tagName }) => (
+              <Tag tag={tag} tagName={tagName} size="lg" />
+            ))
+          }
+        </ul>
+      </div>
     </div>
   </main>
   <Footer />
@@ -116,13 +120,27 @@ const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
     @apply mx-auto w-full max-w-3xl px-4 pb-4;
   }
 
-  .tag-list-container {
-    @apply max-h-[300px] overflow-y-auto border border-gray-200 rounded p-4;
-    /* Add scrollbar styling that works across browsers */
-    scrollbar-width: thin;
-    scrollbar-color: rgba(0, 0, 0, 0.2) transparent;
+  /* Create a container for the tags page layout */
+  .tags-page-container {
+    @apply flex flex-col gap-6;
+    min-height: 80vh; /* Ensure there's enough room to scroll */
   }
 
+  /* Make the map sticky at the top of the viewport */
+  .sticky-map {
+    @apply sticky top-4 z-10 bg-white rounded-lg p-4;
+    box-shadow:
+      0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+
+  /* Style the tag list container - remove max-height limit since we want natural scrolling */
+  .tag-list-container {
+    @apply border border-gray-200 rounded-lg p-6;
+    /* No need for overflow-y since the whole page will scroll now */
+  }
+
+  /* Keep scrollbar styles for older browsers that might apply them anyway */
   .tag-list-container::-webkit-scrollbar {
     width: 8px;
   }

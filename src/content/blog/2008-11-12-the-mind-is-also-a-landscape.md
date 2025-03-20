@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-12
-modDatetime: 2025-03-17T21:38:34Z
+modDatetime: 2025-03-20T14:57:34Z
 title: The mind is also a landscape
 slug: the-mind-is-also-a-landscape
 featured: false
 draft: false
 description: An exploration of the harmonious relationship between walking, thought, and the world around us, inspired by Rebecca Solnit's reflections.
-emoji: 🚶‍♂️
+emoji: 🚶
 tags:
   - 🌍 Exploration
   - 🌅 Reflection

@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-06-01
-modDatetime: 2025-03-18
-title: 6 Modern Capitals With Ancient Roots
-slug: 6-modern-capitals-with-ancient-roots
+pubDatetime: 2014-10-21
+modDatetime: 2025-03-20T14:57:36Z
+title: Six Modern Capitals With Ancient Roots
+slug: six-modern-capitals-with-ancient-roots
 featured: false
 draft: false
 description: Explore how six capitals, including Athens and Beirut, have evolved from ancient roots to modern metropolises, blending rich histories with contemporary life.

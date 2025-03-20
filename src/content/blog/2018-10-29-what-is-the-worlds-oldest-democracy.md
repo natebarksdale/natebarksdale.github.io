@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2018-10-29
-modDatetime: 2025-03-18
+pubDatetime: 2014-11-03
+modDatetime: 2025-03-20T14:57:35Z
 title: What is the world’s oldest democracy?
 slug: what-is-the-worlds-oldest-democracy
 featured: false

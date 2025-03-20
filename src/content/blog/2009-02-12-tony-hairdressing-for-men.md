@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-20T14:57:34Z
 title: Tony Hairdressing for Men
 slug: tony-hairdressing-for-men
 featured: false
 draft: false
 description: Here's a glimpse into a stylish establishment in Westminster
-emoji: 🧑‍🎤
+emoji: 🧑
 tags:
   - 🇬🇧 London
   - 🌆 Urban Spaces

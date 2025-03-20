@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-08-25
-modDatetime: 2025-03-18
-title: 9 Things You May Not Know About Nikola Tesla
-slug: 9-things-you-may-not-know-about-nikola-tesla
+pubDatetime: 2014-09-09
+modDatetime: 2025-03-20T14:57:36Z
+title: Nine Things You May Not Know About Nikola Tesla
+slug: nine-things-you-may-not-know-about-nikola-tesla
 featured: false
 draft: false
 description: Discover nine surprising facets of Nikola Tesla's life, from mystical visions to fierce conflicts with Edison.
-emoji: 🔦
+emoji: ⚡
 tags:
   - 🇭 History.com
   - ⚙️ Engineering

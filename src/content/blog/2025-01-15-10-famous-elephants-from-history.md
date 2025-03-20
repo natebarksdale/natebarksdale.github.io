@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-08-14
-modDatetime: 2025-03-18
-title: 10 Famous Elephants From History
-slug: 10-famous-elephants-from-history
+modDatetime: 2025-03-20T14:57:37Z
+title: Ten Famous Elephants From History
+slug: ten-famous-elephants-from-history
 featured: false
 draft: false
 description: Explore the colossal impact of 10 historic elephants, from war behemoths to symbols of regal diplomacy.

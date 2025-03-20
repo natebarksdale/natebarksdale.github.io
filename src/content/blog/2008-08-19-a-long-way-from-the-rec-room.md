@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-17T21:38:20Z
+modDatetime: 2025-03-20T14:57:34Z
 title: A long way from the rec room
 slug: a-long-way-from-the-rec-room
 featured: false
 draft: false
 description: A humorous take on the chaotic nature of doubles table tennis from Robert Weintraub.
-emoji: 🤜🤛
+emoji: 🏓
 tags:
   - 🎯 Focus
   - 🎭 Entertainment

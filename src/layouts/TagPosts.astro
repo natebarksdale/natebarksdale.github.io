@@ -50,16 +50,54 @@ const geojson = {
 // Should we show the map? Only if we have posts with coordinates
 const showMap = taggedPostsWithCoordinates.length > 0;
 
+// Expanded tag data with descriptions for selected tags
+interface TagData {
+  emoji: string;
+  text: string;
+  description?: string;
+}
+
 // Let's use a hardcoded mapping approach to ensure consistent emoji rendering
 // This avoids any issues with character encoding or server-side processing
-const emojiTagMap: Record<string, { emoji: string; text: string }> = {
-  manuscripts: { emoji: "🏺", text: "Manuscripts" },
+// Now includes optional descriptions for selected tags
+const tagDataMap: Record<string, TagData> = {
+  manuscripts: {
+    emoji: "🏺",
+    text: "Manuscripts",
+    description:
+      "Explorations of ancient and medieval manuscripts, their history, preservation, and cultural significance.",
+  },
+  technology: {
+    emoji: "💻",
+    text: "Technology",
+    description:
+      "Posts examining the interplay between technological innovation and human culture, focusing on both historical and contemporary perspectives.",
+  },
+  travel: {
+    emoji: "✈️",
+    text: "Travel",
+    description:
+      "Journeys across continents and cultures, with observations on local customs, architecture, food, and the human experience of place.",
+  },
+  history: {
+    emoji: "📜",
+    text: "History",
+    description:
+      "Delving into lesser-known historical narratives, moments of cultural significance, and the threads that connect past to present.",
+  },
+  art: {
+    emoji: "🎨",
+    text: "Art",
+    description:
+      "Reflections on visual art, music, literature and other creative expressions across cultures and time periods.",
+  },
   // Add more mappings as needed for other tag categories
 };
 
-// Get the tag info - either from our map or construct a default
+// Get the tag info with possible description
 // For server-side rendering, we'll pass the full tag name to the H1 element
 // The emoji processing will be done by client-side JavaScript after page load
+const tagData = tagDataMap[tag] || {};
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
@@ -72,6 +110,17 @@ const emojiTagMap: Record<string, { emoji: string; text: string }> = {
       id="tag-title"
       transition={tag}
     />
+
+    {/* Show tag description if available */}
+    {
+      tagData.description && (
+        <div class="tag-description mb-6 mt-2">
+          <p class="text-lg font-serif text-gray-700 italic leading-relaxed">
+            {tagData.description}
+          </p>
+        </div>
+      )
+    }
 
     {/* Show the map only if we have posts with coordinates */}
     {

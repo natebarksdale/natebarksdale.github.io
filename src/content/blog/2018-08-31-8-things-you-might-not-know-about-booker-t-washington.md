@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2018-08-31
-modDatetime: 2025-03-18T18:32:25Z
-title: 8 Things You Might Not Know about Booker T. Washington
-slug: 8-things-you-might-not-know-about-booker-t-washington
+pubDatetime: 2015-06-09
+modDatetime: 2025-03-20T14:57:35Z
+title: Eight Things You Might Not Know about Booker T. Washington
+slug: eight-things-you-might-not-know-about-booker-t-washington
 featured: false
 draft: false
 description: For starters, he chose his own last name.

@@ -1,13 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-20
-modDatetime: 2025-03-17T21:38:59Z
+modDatetime: 2025-03-20T14:57:35Z
 title: The peril of sainthood
 slug: the-peril-of-sainthood
 featured: false
 draft: false
 description: A powerful reminder that complexity lies behind our identities, as Dorothy Day states, "Don't call me a saint. I don't want to be dismissed so easily."
-emoji: 🙅‍♀️
+emoji: 😇
 tags:
   - ✍️ Literature
   - ⚖️ Ethics

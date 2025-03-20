@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-11
-modDatetime: 2025-03-17T21:38:42Z
-title: 5th St., Alamedia, California
-slug: 5th-st-alamedia-california
+modDatetime: 2025-03-20T14:57:34Z
+title: Fifth St., Alamedia, California
+slug: fifth-st-alamedia-california
 featured: false
 draft: false
 description: I can't help but appreciate the charming blend of mission style and art nouveau curves in this side-yard, showcasing the friendship between these two houses.

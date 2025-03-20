@@ -7,7 +7,7 @@ slug: isabele-ealet
 featured: False
 draft: False
 description: Exploring the unexpected rise of a female leader in the male-dominated world of commodity trading.
-emoji: 👩‍💼
+emoji: 💰
 tags:
   - 💼 Business
   - 💼 Capitalism

@@ -4,6 +4,7 @@ import Breadcrumbs from "@components/Breadcrumbs.astro";
 import Footer from "@components/Footer.astro";
 import Header from "@components/Header.astro";
 import Layout from "./Layout.astro";
+import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
 
 export interface Props {
   frontmatter: {
@@ -13,6 +14,10 @@ export interface Props {
 }
 
 const { frontmatter } = Astro.props;
+
+// Get DC coordinates for the work location
+const dcCoordinates = [38.9159, -77.0423]; // 1819 Newton St NW, Washington DC 20010
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 ---
 
 <Layout title={`${frontmatter.title} | ${SITE.title}`}>
@@ -25,6 +30,15 @@ const { frontmatter } = Astro.props;
       </h1>
       <slot />
     </section>
+
+    {/* Hidden MapIllustration to be used in the intro tile */}
+    <div class="hidden">
+      <MapIllustrationWrapper
+        title="Work with Me"
+        coordinates={dcCoordinates}
+        mapboxToken={mapboxToken}
+      />
+    </div>
   </main>
   <Footer />
 </Layout>
@@ -56,9 +70,27 @@ const { frontmatter } = Astro.props;
       @apply flex flex-wrap justify-between after:content-[''] after:w-[48%];
     }
 
-    /* First tile (intro) is full-width */
+    /* First tile (intro) is full-width and has two columns */
     :global(#about div.intro-tile) {
       @apply w-full mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
+      /* Add grid layout for the intro tile */
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas:
+        "heading heading"
+        "content map";
+      gap: 1.5rem;
+    }
+
+    /* Position elements within the intro tile */
+    :global(#about div.intro-tile h1) {
+      grid-area: heading;
+    }
+
+    :global(#about div.intro-tile .map-container) {
+      grid-area: map;
+      min-height: 200px;
+      margin-top: 1.5rem;
     }
 
     /* Each section (h1 + content until next h1) becomes a tile */
@@ -66,14 +98,26 @@ const { frontmatter } = Astro.props;
       @apply w-[48%] mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
     }
 
+    /* The last tile (full-width) takes the entire row */
+    :global(#about div.section-tile.full-width-tile) {
+      @apply w-full;
+    }
+
     :global(#about div.section-tile:hover),
     :global(#about div.intro-tile:hover) {
       @apply bg-gray-50 dark:bg-gray-800 shadow-md border-gray-200 dark:border-gray-600;
     }
 
-    /* Style the headings inside tiles */
+    /* Style the headings inside tiles - WITHOUT bottom borders */
     :global(#about div.section-tile h1) {
-      @apply mb-4 pb-2 border-b border-gray-200 dark:border-gray-700;
+      @apply mb-4;
+    }
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 639px) {
+    :global(#about div.intro-tile .map-container) {
+      margin: 1.5rem 0;
     }
   }
 
@@ -130,11 +174,14 @@ const { frontmatter } = Astro.props;
   }
 </style>
 
-<script>
+<script is:inline>
   // This script wraps each section (h1 + content until next h1) into a section-tile div
-  document.addEventListener("DOMContentLoaded", () => {
+  function createTileLayout() {
     const aboutSection = document.getElementById("about");
     if (!aboutSection) return;
+
+    // Skip if tiles are already created
+    if (aboutSection.querySelector(".intro-tile")) return;
 
     // Skip the main heading (h1 that's the title)
     const mainHeading = aboutSection.querySelector("h1");
@@ -157,11 +204,27 @@ const { frontmatter } = Astro.props;
       nextEl = nextEl.nextElementSibling;
     }
 
-    // Clone the intro elements and add to intro tile
+    // Create a container for the intro content
+    const introContent = document.createElement("div");
+    introContent.className = "intro-content";
+    introContent.style.gridArea = "content";
+
+    // Clone the intro elements and add to intro content
     introElements.forEach(el => {
       const clone = el.cloneNode(true);
-      introTile.appendChild(clone);
+      introContent.appendChild(clone);
     });
+
+    // Add the intro content to the intro tile
+    introTile.appendChild(introContent);
+
+    // Add a map container for the MapIllustration
+    const mapContainer = document.createElement("div");
+    mapContainer.className = "map-container";
+    mapContainer.innerHTML = `
+      <div id="map-illustration-container"></div>
+    `;
+    introTile.appendChild(mapContainer);
 
     // Elements to remove (now that we've cloned them)
     const elementsToRemove = [mainHeading, ...introElements];
@@ -176,6 +239,11 @@ const { frontmatter } = Astro.props;
     headings.forEach((heading, index) => {
       const tile = document.createElement("div");
       tile.className = "section-tile";
+
+      // Make the last tile full width (add a special class)
+      if (index === headings.length - 1) {
+        tile.classList.add("full-width-tile");
+      }
 
       // Clone the heading to add to the tile
       const headingClone = heading.cloneNode(true);
@@ -208,5 +276,46 @@ const { frontmatter } = Astro.props;
     sectionTiles.forEach(({ tile }) => {
       aboutSection.appendChild(tile);
     });
-  });
+  }
+
+  // Run immediately
+  createTileLayout();
+
+  // Also run on DOM content loaded to ensure it works even if script loads before DOM
+  document.addEventListener("DOMContentLoaded", createTileLayout);
+
+  // Also run when Astro page updates without a full reload
+  document.addEventListener("astro:page-load", createTileLayout);
+
+  // Function to move the MapIllustration into the correct container
+  function moveMapIllustration() {
+    setTimeout(() => {
+      const mapContainer = document.getElementById(
+        "map-illustration-container"
+      );
+      const originalMap = document.querySelector(
+        '.map-container[data-debug="wrapper-mounted"]'
+      );
+
+      if (mapContainer && originalMap) {
+        // Clone the original map and move it to our container
+        const mapClone = originalMap.cloneNode(true);
+        mapContainer.appendChild(mapClone);
+
+        // Hide the original
+        originalMap.closest(".hidden")?.classList.add("hidden-permanent");
+      }
+    }, 100); // Small delay to ensure elements are available
+  }
+
+  // Run the map movement function
+  moveMapIllustration();
+  document.addEventListener("DOMContentLoaded", moveMapIllustration);
+  document.addEventListener("astro:page-load", moveMapIllustration);
 </script>
+
+<style is:global>
+  .hidden-permanent {
+    display: none !important;
+  }
+</style>

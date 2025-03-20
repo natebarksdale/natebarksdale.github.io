@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2025-03-17T21:38:50Z
-title: 47 kinds of greens
-slug: 47-kinds-of-greens
+modDatetime: 2025-03-20T14:57:34Z
+title: Forty-seven kinds of greens
+slug: forty-seven-kinds-of-greens
 featured: false
 draft: false
 description: Reflecting on the insights of Fran Osseo-Asare about the complexity of African cuisines and the risks of ethnocentrism.

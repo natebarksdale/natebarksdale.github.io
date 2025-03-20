@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2023-08-22
-modDatetime: 2025-03-18
-title: 10 (Allegedly) Mad Monarchs
-slug: 10-allegedly-mad-monarchs
+pubDatetime: 2014-11-04
+modDatetime: 2025-03-20T14:57:36Z
+title: Ten (Allegedly) Mad Monarchs
+slug: ten-allegedly-mad-monarchs
 featured: false
 draft: false
 description: Explore the outlandish tales of ten monarchs whose reigns teetered on the edge of madness, from Nebuchadnezzar's wild descent to Caligula's bizarre decrees.
