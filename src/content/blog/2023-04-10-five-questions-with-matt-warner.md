@@ -1,11 +1,11 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-04-10
-modDatetime: 2025-03-20T14:57:36Z
+modDatetime: 2025-03-20 14:57:36+00:00
 title: Five Questions with Matt Warner
-slug: study-of-the-day-q-a-five-questions-with-matt-warner
-featured: false
-draft: false
+slug: five-questions-with-matt-warner
+featured: False
+draft: False
 description: Matt Warner, president of Atlas Network, talks about promoting global freedom and human flourishing.
 emoji: 🌍
 tags:
@@ -17,6 +17,7 @@ haiku: |
   Ideas bridge the world,  
   Free markets bloom, barriers fall,  
   Freedom's roots grow deep.
+
 coordinates: [38.89511, -77.03637]
 ---
 
