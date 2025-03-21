@@ -52,7 +52,14 @@ const showMap = taggedPostsWithCoordinates.length > 0;
 
 // Get the tag info with possible description from the centralized tag data map
 // For server-side rendering, we'll use the consistent tag data
-const tagData = tagDataMap[tag.toLowerCase()] || {};
+// Remove any emoji from the tag for lookup
+const plainTag = tag
+  .replace(
+    /^[\p{Emoji}|\p{Emoji_Presentation}|\p{Extended_Pictographic}]+\s*/u,
+    ""
+  )
+  .toLowerCase();
+const tagData = tagDataMap[plainTag] || {};
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>

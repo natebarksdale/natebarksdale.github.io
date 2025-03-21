@@ -26,7 +26,8 @@ const getUniqueTags = (
     );
 
     post.data.tags?.forEach(tag => {
-      const slugTag = slugifyStr(tag);
+      // First strip emoji, then slugify, then convert to lowercase for consistency
+      const slugTag = slugifyStr(tag).toLowerCase();
       tagOccurrences[slugTag] = (tagOccurrences[slugTag] || 0) + 1;
 
       // Update the last used date if this post is more recent
@@ -40,10 +41,10 @@ const getUniqueTags = (
   const tags: Tag[] = filteredPosts
     .flatMap(post => post.data.tags || [])
     .map(tag => ({
-      tag: slugifyStr(tag),
+      tag: slugifyStr(tag).toLowerCase(),
       tagName: tag,
-      count: tagOccurrences[slugifyStr(tag)] || 0,
-      lastUsed: tagLastUsed[slugifyStr(tag)] || new Date(0),
+      count: tagOccurrences[slugifyStr(tag).toLowerCase()] || 0,
+      lastUsed: tagLastUsed[slugifyStr(tag).toLowerCase()] || new Date(0),
     }))
     .filter(
       (value, index, self) =>

@@ -11,9 +11,11 @@ export async function getStaticPaths() {
   const tags = getUniqueTags(posts);
 
   return tags.map(({ tag, tagName }) => {
+    // Ensure tag is lowercase for consistent URL generation
+    const lowerTag = tag.toLowerCase();
     return {
-      params: { tag },
-      props: { tag, tagName, posts },
+      params: { tag: lowerTag },
+      props: { tag: lowerTag, tagName, posts },
     };
   });
 }

@@ -18,12 +18,14 @@ export async function getStaticPaths() {
   const tags = getUniqueTags(posts);
 
   return tags.flatMap(({ tag, tagName }) => {
-    const tagPosts = getPostsByTag(posts, tag);
+    // Ensure tag is lowercase for consistent URL generation
+    const lowerTag = tag.toLowerCase();
+    const tagPosts = getPostsByTag(posts, lowerTag);
     const totalPages = getPageNumbers(tagPosts.length);
 
     return totalPages.map(page => ({
-      params: { tag, page },
-      props: { tag, tagName },
+      params: { tag: lowerTag, page },
+      props: { tag: lowerTag, tagName },
     }));
   });
 }

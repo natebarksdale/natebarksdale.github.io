@@ -21,7 +21,7 @@ const tagInfo = tagDataMap[tag.toLowerCase()] || {
 
 <li class={`inline-block ${size === "sm" ? "my-1 " : "my-3 mx-1"}`}>
   <a
-    href={`/tags/${tag}/`}
+    href={`/tags/${tag.toLowerCase()}/`}
     transition:name={tag}
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
     data-tag-name={tagName ?? tag}
