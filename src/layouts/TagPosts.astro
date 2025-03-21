@@ -52,13 +52,10 @@ const showMap = taggedPostsWithCoordinates.length > 0;
 
 // Get the tag info with possible description from the centralized tag data map
 // For server-side rendering, we'll use the consistent tag data
-// Remove any emoji from the tag for lookup
-const plainTag = tag
-  .replace(
-    /^[\p{Emoji}|\p{Emoji_Presentation}|\p{Extended_Pictographic}]+\s*/u,
-    ""
-  )
-  .toLowerCase();
+import { stripEmoji } from "../utils/stripEmoji";
+
+// Get the plain text version of the tag
+const plainTag = stripEmoji(tag).toLowerCase();
 const tagData = tagDataMap[plainTag] || {};
 ---
 

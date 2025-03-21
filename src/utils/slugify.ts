@@ -1,15 +1,15 @@
 import { slug as slugger } from "github-slugger";
 
-export const slugifyStr = (str: string) => {
-  // First, strip out any emoji characters at the beginning of the string
-  // This regex matches emoji characters at the start of the string
-  const strippedEmoji = str.replace(
-    /^[\p{Emoji}|\p{Emoji_Presentation}|\p{Extended_Pictographic}]+\s*/u,
-    ""
-  );
+import { stripEmoji } from "./stripEmoji";
 
-  // Now slugify the string
-  const slugified = slugger(strippedEmoji);
+export const slugifyStr = (str: string) => {
+  if (!str) return "";
+
+  // Extract plain text by removing emoji
+  const plainText = stripEmoji(str);
+
+  // Now slugify the plain text
+  const slugified = slugger(plainText);
 
   // Remove any leading hyphens
   return slugified.replace(/^-+/, "");
