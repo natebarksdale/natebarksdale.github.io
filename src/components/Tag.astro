@@ -5,32 +5,18 @@ export interface Props {
   tagName?: string;
 }
 
-function splitEmojiTag(tagName) {
-  if (!tagName || typeof tagName !== "string") return { emoji: "", text: "" };
-
-  // Try multiple regex patterns for better emoji detection
-  const patterns = [
-    /^(\p{Emoji}+)/u,
-    /^(\p{Extended_Pictographic}+)/u,
-    /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
-  ];
-
-  for (const pattern of patterns) {
-    const match = tagName.match(pattern);
-    if (match && match[1]) {
-      return {
-        emoji: match[1],
-        text: tagName.slice(match[1].length).trim(),
-      };
-    }
-  }
-
-  return { emoji: "", text: tagName };
-}
+// Import the tag data map to access emoji and description data
+import { tagDataMap } from "../config";
 
 const { tag, tagName, size = "sm" } = Astro.props;
 const displayTag = tagName ?? tag ?? "";
-const { emoji, text } = splitEmojiTag(displayTag);
+
+// Get emoji and text from our centralized tag data map if available
+// This ensures consistency across the site
+const tagInfo = tagDataMap[tag.toLowerCase()] || {
+  emoji: "",
+  text: displayTag,
+};
 ---
 
 <li class={`inline-block ${size === "sm" ? "my-1 " : "my-3 mx-1"}`}>
@@ -40,8 +26,8 @@ const { emoji, text } = splitEmojiTag(displayTag);
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
     data-tag-name={tagName ?? tag}
   >
-    {emoji && <span class="emoji">{emoji}</span>}
-    <span class="tag-text">{text}</span>
+    {tagInfo.emoji && <span class="emoji">{tagInfo.emoji}</span>}
+    <span class="tag-text">{tagInfo.text}</span>
   </a>
 </li>
 

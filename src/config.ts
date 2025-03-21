@@ -1,5 +1,47 @@
 import type { Site, SocialObjects } from "./types";
 
+// Interface for tag data
+export interface TagData {
+  emoji: string;
+  text: string;
+  description?: string;
+}
+
+// Define a centralized tag data map with descriptions
+export const tagDataMap: Record<string, TagData> = {
+  manuscripts: {
+    emoji: "🏺",
+    text: "Manuscripts",
+    description:
+      "Explorations of ancient and medieval manuscripts, their history, preservation, and cultural significance.",
+  },
+  technology: {
+    emoji: "⚙️",
+    text: "Technology",
+    description:
+      "Posts examining the interplay between technological innovation and human culture, focusing on both historical and contemporary perspectives.",
+  },
+  travel: {
+    emoji: "✈️",
+    text: "Travel",
+    description:
+      "Journeys across continents and cultures, with observations on local customs, architecture, food, and the human experience of place.",
+  },
+  history: {
+    emoji: "📜",
+    text: "History",
+    description:
+      "Delving into lesser-known historical narratives, moments of cultural significance, and the threads that connect past to present.",
+  },
+  art: {
+    emoji: "🎨",
+    text: "Art",
+    description:
+      "Reflections on visual art, music, literature and other creative expressions across cultures and time periods.",
+  },
+  // Add more mappings as needed for other tag categories
+};
+
 export const SITE: Site = {
   website: "https://natebarksdale.github.io/", // replace this with your deployed domain
   author: "Nate Barksdale",

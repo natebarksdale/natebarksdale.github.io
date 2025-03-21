@@ -1,5 +1,7 @@
 ---
 // EmojiHeading.astro - A component to handle headings with emoji prefixes
+import { tagDataMap } from "../config";
+
 export interface Props {
   text: string;
   level?: 1 | 2 | 3 | 4 | 5 | 6;
@@ -10,32 +12,45 @@ export interface Props {
 
 const { text, level = 1, class: className = "", id, transition } = Astro.props;
 
-// Function to detect and split emoji from text
-function splitEmojiFromText(content: string) {
-  if (!content) return { emoji: null, text: content };
+// Try to get emoji from tag data map first (for consistency in tag pages)
+let emoji = null;
+let displayText = text;
 
-  // Try multiple emoji detection patterns
-  const patterns = [
-    /^(\p{Emoji}+)/u,
-    /^(\p{Extended_Pictographic}+)/u,
-    /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
-  ];
+// If this is a known tag (like on tag pages), use the emoji from our map
+if (transition && tagDataMap[transition.toLowerCase()]) {
+  emoji = tagDataMap[transition.toLowerCase()].emoji;
+  displayText = tagDataMap[transition.toLowerCase()].text;
+} else {
+  // Otherwise, try to split emoji from text
+  function splitEmojiFromText(content: string) {
+    if (!content) return { emoji: null, text: content };
 
-  for (const pattern of patterns) {
-    const match = content.match(pattern);
-    if (match && match[1]) {
-      return {
-        emoji: match[1],
-        text: content.slice(match[1].length).trim(),
-      };
+    // Try multiple emoji detection patterns
+    const patterns = [
+      /^(\p{Emoji}+)/u,
+      /^(\p{Extended_Pictographic}+)/u,
+      /^([\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}]+)/u,
+    ];
+
+    for (const pattern of patterns) {
+      const match = content.match(pattern);
+      if (match && match[1]) {
+        return {
+          emoji: match[1],
+          text: content.slice(match[1].length).trim(),
+        };
+      }
     }
+
+    return { emoji: null, text: content };
   }
 
-  return { emoji: null, text: content };
+  // Process the content if not from the tag map
+  const { emoji: detectedEmoji, text: remainingText } =
+    splitEmojiFromText(text);
+  emoji = detectedEmoji;
+  displayText = remainingText || text;
 }
-
-// Process the content
-const { emoji, text: remainingText } = splitEmojiFromText(text);
 
 // Generate the appropriate heading tag
 const HeadingTag = `h${level}`;
@@ -55,5 +70,5 @@ const transitionAttr = transition ? { "transition:name": transition } : {};
       </span>
     )
   }
-  {remainingText}
+  {displayText}
 </HeadingTag>
