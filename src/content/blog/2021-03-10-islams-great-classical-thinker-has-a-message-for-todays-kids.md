@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2021-03-10
 modDatetime: 2025-03-20
 title: An Islamic classical thinker with a message for kids of today
-slug: islams-great-classical-thinker-has-a-message-for-todays-kids
+slug: an-islamic-classical-thinker-with-a-message-for-kids-of-today
 featured: False
 draft: False
 description: Discover how the Ghazali Children's Project uses hands-on lessons, like spilling sand, to teach profound spiritual and ethical concepts to children.
@@ -18,6 +18,7 @@ haiku: |
   Sand slips through the hand,
   Paper boats sink, lessons learned,
   Hearts remain at death.
+
 coordinates: [52.4862, -1.8904]
 ---
 
