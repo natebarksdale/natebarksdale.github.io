@@ -18,6 +18,7 @@ haiku: |
   Sand slips through the hand,
   Paper boats sink, lessons learned,
   Hearts remain at death.
+coordinates: [52.4862, -1.8904]
 ---
 
 For the John Templeton Foundation, I wrote about the Ghazali Children's Project.
