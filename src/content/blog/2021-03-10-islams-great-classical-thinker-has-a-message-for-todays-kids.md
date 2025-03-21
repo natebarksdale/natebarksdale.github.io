@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-20
+pubDatetime: 2021-03-10
 modDatetime: 2025-03-20
-title: For the John Templeton Foundation, I wrote about t
-slug: for-the-john-templeton-foundation-i-wrote-about-t
+title: An Islamic classical thinker with a message for kids of today
+slug: islams-great-classical-thinker-has-a-message-for-todays-kids
 featured: False
 draft: False
 description: Discover how the Ghazali Children's Project uses hands-on lessons, like spilling sand, to teach profound spiritual and ethical concepts to children.
