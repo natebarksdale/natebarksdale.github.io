@@ -128,15 +128,11 @@ const hasGeotaggedPosts = Object.values(tagGeoJsonMap).some(
 
   /* Make the map sticky at the top of the viewport */
   .sticky-map {
-    @apply sticky top-4 z-10 bg-white rounded-lg p-4;
-    box-shadow:
-      0 4px 6px -1px rgba(0, 0, 0, 0.1),
-      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    @apply sticky top-0 z-10 bg-white rounded-lg p-4;
   }
 
   /* Style the tag list container - remove max-height limit since we want natural scrolling */
   .tag-list-container {
-    @apply border border-gray-200 rounded-lg p-6;
     /* No need for overflow-y since the whole page will scroll now */
   }
 

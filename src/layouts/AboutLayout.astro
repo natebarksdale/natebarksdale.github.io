@@ -73,12 +73,13 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     /* First tile (intro) is full-width and has two columns */
     :global(#about div.intro-tile) {
       @apply w-full mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
-      /* Add grid layout for the intro tile */
+      /* Change to a single column layout for better map display */
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr;
       grid-template-areas:
-        "heading heading"
-        "content map";
+        "heading"
+        "content"
+        "map";
       gap: 1.5rem;
     }
 
@@ -89,8 +90,21 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     :global(#about div.intro-tile .map-container) {
       grid-area: map;
-      min-height: 200px;
+      width: 100%;
+      min-height: 300px; /* Increase height for better visibility */
       margin-top: 1.5rem;
+    }
+
+    :global(#about div.intro-tile .map-container #map-illustration-container) {
+      width: 100%;
+      height: 100%;
+    }
+
+    :global(
+        #about div.intro-tile .map-container #map-illustration-container > *
+      ) {
+      width: 100% !important;
+      height: 100% !important;
     }
 
     /* Each section (h1 + content until next h1) becomes a tile */
@@ -287,7 +301,6 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
   // Also run when Astro page updates without a full reload
   document.addEventListener("astro:page-load", createTileLayout);
 
-  // Function to move the MapIllustration into the correct container
   function moveMapIllustration() {
     setTimeout(() => {
       const mapContainer = document.getElementById(
@@ -298,15 +311,47 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
       );
 
       if (mapContainer && originalMap) {
-        // Clone the original map and move it to our container
-        const mapClone = originalMap.cloneNode(true);
-        mapContainer.appendChild(mapClone);
+        // Clone the original map's contents rather than the container itself
+        const mapContent =
+          originalMap.querySelector('[id^="mapbox-container"]') ||
+          originalMap.firstElementChild;
+
+        if (mapContent) {
+          // Clone the content and ensure it has full width
+          const mapClone = mapContent.cloneNode(true);
+          mapClone.style.width = "100%";
+          mapClone.style.height = "100%";
+
+          // Clear and append
+          mapContainer.innerHTML = "";
+          mapContainer.appendChild(mapClone);
+
+          // Add a class to indicate it's been processed
+          mapContainer.classList.add("map-processed");
+        }
 
         // Hide the original
         originalMap.closest(".hidden")?.classList.add("hidden-permanent");
       }
-    }, 100); // Small delay to ensure elements are available
+    }, 200); // Slightly longer delay to ensure elements are rendered
   }
+
+  // Make sure MapboxGL recalculates size after the map is moved
+  document.addEventListener("astro:page-load", () => {
+    setTimeout(() => {
+      // Force map resize if Mapbox has a resize method
+      const map = document.querySelector(
+        '.map-processed [id^="mapbox-container"]'
+      );
+      if (
+        map &&
+        window.mapboxMap &&
+        typeof window.mapboxMap.resize === "function"
+      ) {
+        window.mapboxMap.resize();
+      }
+    }, 500);
+  });
 
   // Run the map movement function
   moveMapIllustration();
