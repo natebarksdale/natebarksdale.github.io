@@ -10,6 +10,8 @@ import TagMap from "@components/TagMap";
 import Pagination from "@components/Pagination.astro";
 import EmojiHeading from "@components/EmojiHeading.astro";
 import { SITE, tagDataMap } from "@config";
+import { stripEmoji } from "../utils/stripEmoji";
+import { slugifyStr } from "../utils/slugify";
 
 export interface Props {
   currentPage: number;
@@ -52,8 +54,6 @@ const showMap = taggedPostsWithCoordinates.length > 0;
 
 // Get the tag info with possible description from the centralized tag data map
 // For server-side rendering, we'll use the consistent tag data
-import { stripEmoji } from "../utils/stripEmoji";
-
 // Get the plain text version of the tag
 const plainTag = stripEmoji(tag).toLowerCase();
 const tagData = tagDataMap[plainTag] || {};
@@ -111,10 +111,10 @@ const tagData = tagDataMap[plainTag] || {};
   <Pagination
     {currentPage}
     {totalPages}
-    prevUrl={`/tags/${tag}${
+    prevUrl={`/tags/${slugifyStr(tag)}${
       currentPage - 1 !== 1 ? "/" + (currentPage - 1) : ""
     }/`}
-    nextUrl={`/tags/${tag}/${currentPage + 1}/`}
+    nextUrl={`/tags/${slugifyStr(tag)}/${currentPage + 1}/`}
   />
 
   <Footer noMarginTop={totalPages > 1} />
