@@ -22,7 +22,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
 <Layout title={`${frontmatter.title} | ${SITE.title}`}>
   <Header activeNav="about" />
-  <Breadcrumbs />
+  <!-- <Breadcrumbs /> -->
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-3xl font-serif sm:text-5xl my-4 sm:my-8 normal-case">
@@ -32,7 +32,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     </section>
 
     {/* Hidden MapIllustration to be used in the intro tile */}
-    <div class="hidden">
+    <div class="relative w-full mb-8">
       <MapIllustrationWrapper
         title="Work with Me"
         coordinates={dcCoordinates}
