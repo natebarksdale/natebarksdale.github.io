@@ -108,7 +108,7 @@ p:not(:last-child)::after {
 
   /* Add this to your existing global styles */
   
-.fancy-underline {
+.underline {
   background: linear-gradient(0deg, rgba(var(--color-accent), 0.3) 0%, rgba(var(--color-accent), 0.3) 100%);
   background-position: 0 100%;
   background-repeat: no-repeat;
@@ -119,6 +119,7 @@ p:not(:last-child)::after {
     0 0.1em var(--color-fill),
     0 -0.1em var(--color-fill);
   text-decoration: none;
+  text-decoration-line: none;
 }
 
   
