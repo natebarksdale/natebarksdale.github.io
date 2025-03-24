@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
-title: Blog Resurrection
-slug: blog-resurrection
+title: Back from the Grave
+slug: back-from-the-grave
 featured: True
 draft: False
 tags:
@@ -65,6 +65,7 @@ I followed the instructions and ... it didn't work. Hence more digging into the 
 In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
 
 > {ChatGPT}
+>
 > {Q} I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
 
 Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
