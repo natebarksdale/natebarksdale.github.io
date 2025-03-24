@@ -14,17 +14,39 @@ const { tag, tagName, size = "sm" } = Astro.props;
 const displayTag = tagName ?? tag ?? "";
 
 // Get the plain text version of the tag for data lookup
-const plainTag = stripEmoji(tag).toLowerCase();
+const plainTag = stripEmoji(displayTag).toLowerCase();
 
 // Get the correct URL-safe tag slug
 const tagSlug = slugifyStr(tag);
 
-// Get emoji and text from our centralized tag data map if available
-// This ensures consistency across the site
-const tagInfo = tagDataMap[plainTag] || {
-  emoji: "",
-  text: displayTag,
-};
+// First try to get emoji and text from our centralized tag data map
+const tagInfo = tagDataMap[plainTag];
+
+// If not found in the map, try to extract emoji from the tag name itself
+let emoji = "";
+let text = displayTag;
+
+if (tagInfo) {
+  // Use data from the map
+  emoji = tagInfo.emoji;
+  text = tagInfo.text;
+} else {
+  // Extract emoji from the beginning of the tag name if present
+  const emojiMatch = displayTag.match(
+    /^([\p{Emoji}\p{Emoji_Component}\p{Emoji_Modifier}\p{Emoji_Presentation}\u{FE00}-\u{FE0F}]+)/gu
+  );
+
+  if (emojiMatch && emojiMatch[0]) {
+    emoji = emojiMatch[0];
+    text = stripEmoji(displayTag).trim();
+  }
+
+  // If we stripped everything, use original text
+  if (!text) {
+    text = displayTag;
+    emoji = ""; // Reset emoji if all we had was an emoji
+  }
+}
 ---
 
 <li class={`inline-block ${size === "sm" ? "my-1 " : "my-3 mx-1"}`}>
@@ -34,8 +56,8 @@ const tagInfo = tagDataMap[plainTag] || {
     class={`${size === "sm" ? "text-sm" : "text-lg"} pr-2 group`}
     data-tag-name={tagName ?? tag}
   >
-    {tagInfo.emoji && <span class="emoji">{tagInfo.emoji}</span>}
-    <span class="tag-text">{tagInfo.text}</span>
+    {emoji && <span class="emoji">{emoji}</span>}
+    <span class="tag-text">{text}</span>
   </a>
 </li>
 
