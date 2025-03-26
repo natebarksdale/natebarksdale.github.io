@@ -179,6 +179,7 @@ p:not(:last-child)::after {
     --color-text-base: 40, 39, 40;
     --color-accent: 230, 0, 0;
     --color-card: 230, 230, 230;
+    --color-test: 255, 242, 176;
     --color-card-muted: 205, 205, 205;
     --color-border: 236, 233, 233;
   }

@@ -98,7 +98,7 @@ module.exports = {
           },
           'a': {
             'text-decoration': 'none !important',
-            'background': 'linear-gradient(180deg, rgb(var(--color-accent) / 0.5) 50%, rgb(var(--color-accent) / 0.5) 75%) !important',
+            'background': 'linear-gradient(180deg, rgb(var(--color-test) / 0.5) 50%, rgb(var(--color-accent) / 0.5) 75%) !important',
             'background-position': '0 85% !important',
             'background-repeat': 'no-repeat !important',
             'background-size': '100% 0.4em !important',
