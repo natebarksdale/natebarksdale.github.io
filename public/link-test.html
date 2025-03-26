@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link Test</title>
+  <link rel="stylesheet" href="/custom-styles.css">
+  <!-- Note: In a real page, Tailwind styling would be applied, but for this test 
+       we're just checking if the styles are visible through browser inspector -->
+</head>
+<body>
+  <h1>Link Test Page</h1>
+  
+  <p>This is a regular paragraph with a <a href="#" class="fancy-underline">fancy-underline link</a> in it.</p>
+  
+  <p>This is a regular paragraph with a <a href="#" class="fancy-underline no-underline">fancy-underline no-underline link</a> in it.</p>
+  
+  <p>This is a regular paragraph with a <a href="#">regular link</a> in it.</p>
+  
+  <div class="prose">
+    <p>This is a prose paragraph with a <a href="#">prose link</a> in it.</p>
+  </div>
+  
+  <div style="margin-top: 2rem;">
+    <a href="#" class="active">Active nav link</a>
+  </div>
+</body>
+</html>

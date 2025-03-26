@@ -231,7 +231,7 @@ p:not(:last-child)::after {
     @apply mx-auto max-w-3xl px-4;
   }
   a {
-    @apply outline-2 outline-offset-1 outline-skin-fill fancy-underline
+    @apply outline-2 outline-offset-1 outline-skin-fill fancy-underline no-underline
     focus-visible:no-underline focus-visible:outline-dashed;
   }
   
@@ -261,7 +261,7 @@ p:not(:last-child)::after {
   .prose {
     @apply prose-headings:!mb-3 prose-headings:!text-skin-base prose-headings:uppercase prose-headings:text-xl
     prose-h3:italic prose-p:!text-skin-base 
-    prose-a:!text-skin-base prose-a:!fancy-underline prose-a:fancy-underline prose-a:!no-underline
+    prose-a:!text-skin-base prose-a:!fancy-underline prose-a:!no-underline
     hover:prose-a:text-skin-accent prose-blockquote:!border-l-skin-accent prose-blockquote:border-opacity-50 prose-blockquote:opacity-80
     prose-figcaption:!text-skin-base prose-figcaption:opacity-70
     prose-strong:!text-skin-base
