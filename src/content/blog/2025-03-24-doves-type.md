@@ -31,7 +31,6 @@ The bridge was bouncing less, I presume, at the end of 1916, when the printer T.
 
 Perhaps most famous — or at least most-screenshotted—output of Cobden-Sanderson and his partner Emery Walker's enterprise is the Doves Press edition of the Bible, printed in five volumes between 1903 and 1905. It's opening page looks like this:
 
-![](@assets/images/inthebeginning.png)
 _Opening lines of the Book of Genesis from the Doves Type Bible, 1903_
 
 The Doves Press was known for its singular typeface, which was commissioned by Cobden-Sanderson, who gave detailed instructions for an adaptation of the 15th-century letterforms of Venetian printers Nicolas Jenson and Jacobus Rubeus to fit his particular Arts and Crafts Movement-infused vision for an elegant artistic typeface. (Indeed, Cobden-Sanderson coined the term when in 1887 he suggested the name for the newly formed Arts and Crafts Exhibition Society.)
