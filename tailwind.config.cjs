@@ -121,16 +121,16 @@ module.exports = {
       addUtilities({
         '.fancy-underline': {
           'text-decoration': 'none !important',
-          'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
-          'background-position': '0 85% !important',
-          'background-repeat': 'no-repeat !important',
-          'background-size': '100% 0.4em !important',
-           'text-shadow': [
-            '0.1em 0 var(--color-fill)',
-            '-0.1em 0 var(--color-fill)',
-            '0 0.1em var(--color-fill)',
-            '0 -0.1em var(--color-fill)'
-          ].join(',') + ' !important',
+          // 'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
+          // 'background-position': '0 85% !important',
+          // 'background-repeat': 'no-repeat !important',
+          // 'background-size': '100% 0.4em !important',
+          //  'text-shadow': [
+          //   '0.1em 0 var(--color-fill)',
+          //   '-0.1em 0 var(--color-fill)',
+          //   '0 0.1em var(--color-fill)',
+          //   '0 -0.1em var(--color-fill)'
+          // ].join(',') + ' !important',
         },
       })
     },
