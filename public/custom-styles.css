@@ -31,7 +31,7 @@
 
 /* Enhanced styling for fancy-underline */
 .fancy-underline,
-.prose a {
+.prose p a, .prose blockquote a {
   text-decoration: none !important;
   background: linear-gradient(180deg, rgba(230, 0, 0, 0.2) 0%, rgba(230, 0, 0, 0.2) 75%) !important;
   background-position: 0 85% !important;
