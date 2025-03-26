@@ -96,43 +96,43 @@ module.exports = {
               content: 'none',
             },
           },
-          'a': {
-            'text-decoration': 'none !important',
-            // 'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
-            // 'background-position': '0 85% !important',
-            // 'background-repeat': 'no-repeat !important',
-            // 'background-size': '100% 0.4em !important',
-            // 'transition' : 'background-size .4s ease',
-            'text-shadow': [
-              '0.1em 0 var(--color-fill)',
-              '-0.1em 0 var(--color-fill)',
-              '0 0.1em var(--color-fill)',
-              '0 -0.1em var(--color-fill)'
-            ].join(',') + ' !important',
-            '&:hover': {
-              'color': 'rgb(var(--color-accent)) !important',
-              'background-size': '100% 50% !important',
-            },
-          },
+          // 'a': {
+          //   'text-decoration': 'none !important',
+          //   'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
+          //   'background-position': '0 85% !important',
+          //   'background-repeat': 'no-repeat !important',
+          //   'background-size': '100% 0.4em !important',
+          //   'transition' : 'background-size .4s ease',
+          //   'text-shadow': [
+          //     '0.1em 0 var(--color-fill)',
+          //     '-0.1em 0 var(--color-fill)',
+          //     '0 0.1em var(--color-fill)',
+          //     '0 -0.1em var(--color-fill)'
+          //   ].join(',') + ' !important',
+          //   '&:hover': {
+          //     'color': 'rgb(var(--color-accent)) !important',
+          //     'background-size': '100% 50% !important',
+          //   },
+          // },
         },
       },
     }),
-    function({ addUtilities, theme }) {
-      addUtilities({
-        '.fancy-underline': {
-          'text-decoration': 'none !important',
-          // 'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
-          // 'background-position': '0 85% !important',
-          // 'background-repeat': 'no-repeat !important',
-          // 'background-size': '100% 0.4em !important',
-           'text-shadow': [
-            '0.1em 0 var(--color-fill)',
-            '-0.1em 0 var(--color-fill)',
-            '0 0.1em var(--color-fill)',
-            '0 -0.1em var(--color-fill)'
-          ].join(',') + ' !important',
-        },
-      })
-    },
+    // function({ addUtilities, theme }) {
+    //   addUtilities({
+    //     '.fancy-underline': {
+    //       'text-decoration': 'none !important',
+    //       'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
+    //       'background-position': '0 85% !important',
+    //       'background-repeat': 'no-repeat !important',
+    //       'background-size': '100% 0.4em !important',
+    //        'text-shadow': [
+    //         '0.1em 0 var(--color-fill)',
+    //         '-0.1em 0 var(--color-fill)',
+    //         '0 0.1em var(--color-fill)',
+    //         '0 -0.1em var(--color-fill)'
+    //       ].join(',') + ' !important',
+    //     },
+    //   })
+    // },
   ],
 };
