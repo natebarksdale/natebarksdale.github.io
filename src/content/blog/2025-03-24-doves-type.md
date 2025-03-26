@@ -14,6 +14,11 @@ tags:
   - 🏛️ Architecture
   - 🏢 Buildings
   - 🏗️ Construction
+haiku: |
+  Old bridge starts to sway,
+  River flows beneath the weight,
+  Timeless, fragile span.
+coordinates: [51.4905, -0.2332]
 ---
 
 ## A Colophin of Sorts
