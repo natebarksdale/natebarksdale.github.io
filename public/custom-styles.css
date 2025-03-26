@@ -44,6 +44,8 @@
     0 -0.1em var(--color-fill) !important;
 }
 
+
+
 /* Style active navigation links */
 
 nav a {
@@ -58,6 +60,9 @@ nav a {
     0 0.1em var(--color-fill),
     0 -0.1em var(--color-fill) !important;
 }
+
+#top-nav-wrap a, h2 a, h3 a {background:none;}
+
 
 nav a.active {
   text-decoration: none !important;
