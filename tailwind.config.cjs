@@ -121,7 +121,7 @@ module.exports = {
       addUtilities({
         '.fancy-underline': {
           'text-decoration': 'none !important',
-          'background': 'linear-gradient(180deg, rgb(var(--color-accent) / 0.5) 50%, rgb(var(--color-accent) / 0.5) 75%) !important',
+          'background': 'linear-gradient(180deg,transparent 62%,#ffd3c4 0) 50%/0 75% no-repeat !important',
           'background-position': '0 85% !important',
           'background-repeat': 'no-repeat !important',
           'background-size': '100% 0.4em !important',

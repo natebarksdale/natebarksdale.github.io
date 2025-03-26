@@ -15,23 +15,17 @@ export const tagDataMap: Record<string, TagData> = {
     description:
       "The John Templeton Foundation exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
   },
-  technology: {
+  historychannel: {
     emoji: "⚙️",
-    text: "Technology",
+    text: "The History Channel",
     description:
       "Posts examining the interplay between technological innovation and human culture, focusing on both historical and contemporary perspectives.",
   },
-  travel: {
-    emoji: "✈️",
-    text: "Travel",
+  what_comes_next_: {
+    emoji: "➿",
+    text: "What Comes Next_",
     description:
-      "Journeys across continents and cultures, with observations on local customs, architecture, food, and the human experience of place.",
-  },
-  history: {
-    emoji: "📜",
-    text: "History",
-    description:
-      "Delving into lesser-known historical narratives, moments of cultural significance, and the threads that connect past to present.",
+      "Thoughts on AI, predictive text, technological metaphors, and the string of thought.",
   },
   art: {
     emoji: "🎨",
