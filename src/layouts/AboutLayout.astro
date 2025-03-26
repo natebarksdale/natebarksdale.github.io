@@ -49,7 +49,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
     @apply font-serif my-2 text-2xl;
   }
 
-  :global(#about div.intro-tile p:nth-child(3)) {
+  :global(#about div.intro-tile p:nth-child(1)) {
     @apply px-4 py-2 rounded-md my-4;
     background-color: #fff9dd; /* Warm yellow */
   }
@@ -71,7 +71,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     /* First tile (intro) is full-width and has two columns */
     :global(#about div.intro-tile) {
-      @apply w-full mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
+      @apply w-full mb-8 transition-all duration-300
       /* Change to a single column layout for better map display */
       display: grid;
       grid-template-columns: 1fr;
