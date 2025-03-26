@@ -71,7 +71,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     /* First tile (intro) is full-width and has two columns */
     :global(#about div.intro-tile) {
-      @apply w-full mb-8
+      @apply w-full mb-8 rounded-lg transition-all duration-300;
       /* Change to a single column layout for better map display */
       display: grid;
       grid-template-columns: 1fr;
