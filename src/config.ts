@@ -13,7 +13,7 @@ export const tagDataMap: Record<string, TagData> = {
     emoji: "🌀",
     text: "The John Templeton Foundation",
     description:
-      "The John Templeton Foundation exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
+      "The <a href='https://www.templeton.org'>John Templeton Foundation</a> exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
   },
   historychannel: {
     emoji: "⚙️",

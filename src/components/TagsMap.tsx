@@ -285,17 +285,17 @@ const TagsMap: React.FC<TagsMapProps> = ({ allTagsGeoJson, mapboxToken }) => {
           // Dramatically different styling for active vs inactive
           if (isActive) {
             // Active tag gets full opacity and larger size
-            map.current!.setPaintProperty(layerId, "circle-radius", 8);
+            map.current!.setPaintProperty(layerId, "circle-radius", 5);
             map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
             map.current!.setPaintProperty(layerId, "circle-opacity", 1);
             map.current!.setPaintProperty(layerId, "circle-stroke-width", 2);
             map.current!.setPaintProperty(layerId, "circle-stroke-opacity", 1);
           } else {
             // Inactive tags get very low opacity
-            map.current!.setPaintProperty(layerId, "circle-radius", 1);
+            map.current!.setPaintProperty(layerId, "circle-radius", 2);
             map.current!.setPaintProperty(layerId, "circle-color", "#e60000");
             map.current!.setPaintProperty(layerId, "circle-opacity", 0.1);
-            map.current!.setPaintProperty(layerId, "circle-stroke-width", 1);
+            map.current!.setPaintProperty(layerId, "circle-stroke-width", 0);
             map.current!.setPaintProperty(
               layerId,
               "circle-stroke-opacity",
