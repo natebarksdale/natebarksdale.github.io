@@ -98,10 +98,11 @@ module.exports = {
           },
           'a': {
             'text-decoration': 'none !important',
-            'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%) !important',
+            'background': 'linear-gradient(180deg, rgb(var(--color-accent) / 0.5) 50%, rgb(var(--color-accent) / 0.5) 75%) !important',
             'background-position': '0 85% !important',
             'background-repeat': 'no-repeat !important',
             'background-size': '100% 0.4em !important',
+            'transition' : 'background-size .4s ease',
             'text-shadow': [
               '0.1em 0 var(--color-fill)',
               '-0.1em 0 var(--color-fill)',
@@ -110,6 +111,7 @@ module.exports = {
             ].join(',') + ' !important',
             '&:hover': {
               'color': 'rgb(var(--color-accent)) !important',
+              'background-size': '100% 50% !important',
             },
           },
         },
@@ -119,7 +121,7 @@ module.exports = {
       addUtilities({
         '.fancy-underline': {
           'text-decoration': 'none !important',
-          'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%) !important',
+          'background': 'linear-gradient(180deg, rgb(var(--color-accent) / 0.5) 50%, rgb(var(--color-accent) / 0.5) 75%) !important',
           'background-position': '0 85% !important',
           'background-repeat': 'no-repeat !important',
           'background-size': '100% 0.4em !important',
