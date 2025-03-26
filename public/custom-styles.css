@@ -44,8 +44,6 @@
     0 -0.1em var(--color-fill) !important;
 }
 
-.prose p a, .prose blockquote a
-
 /* Style active navigation links */
 
 nav a {
