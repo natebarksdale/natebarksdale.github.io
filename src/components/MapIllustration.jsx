@@ -155,7 +155,7 @@ const MapIllustration = ({
         <motion.img
           src={mapUrl}
           alt="Map"
-          className="w-full h-full object-cover filter grayscale contrast-200 opacity-75 brightness-200 mix-blend-hard-light"
+          className="w-full h-full object-cover filter grayscale contrast-200 opacity-25 blur-3xl brightness-200 mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}
