@@ -13,6 +13,10 @@ tags:
   - 😂 Humor
   - 💡 Innovation
   - 🌐 Internet
+haiku: |
+  Dishes gleam, thought sparks
+  Linked limericks weave a strange web
+  Useless, wordy fun
 ---
 
 Last night while doing the dishes, a billion-dollar thought flashed before my eyes: what if you had an encyclopedia that was entirely made of limericks! Where each entry had highlighted links that led to further limericks, each with their own limerick links. How wonderful and useless that would be!
