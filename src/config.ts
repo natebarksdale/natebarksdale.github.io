@@ -16,10 +16,10 @@ export const tagDataMap: Record<string, TagData> = {
       "The [John Templeton Foundation](https://www.templeton.org) exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
   },
   historychannel: {
-    emoji: "⚙️",
+    emoji: "🇭",
     text: "The History Channel",
     description:
-      "Posts examining the interplay between technological innovation and human culture, focusing on both historical and contemporary perspectives.",
+      "I've been writing, editing and fact-checking pieces for The History Channel (largely [History.com](https://www.history.com), but also the History Here app and the occasional project for what goes on TV as well, since 2012.",
   },
   what_comes_next_: {
     emoji: "➿",
