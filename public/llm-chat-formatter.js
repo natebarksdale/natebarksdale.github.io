@@ -283,7 +283,7 @@ function injectLLMChatStyles() {
       blockquote[data-llm] {
         padding: 0 !important;
         margin: 1.5rem 0 !important;
-        border: 1px solid rgba(0, 0, 0, 0.1) !important;
+        // border: 1px solid rgba(0, 0, 0, 0.1) !important;
         border-radius: 0.75rem !important;
         overflow: hidden !important;
         font-family: 'Faune', sans-serif !important;

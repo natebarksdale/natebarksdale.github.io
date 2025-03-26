@@ -100,6 +100,7 @@ p:not(:last-child)::after {
   .font-serif em {
     font-family: "EB Garamond";
     font-style: italic;
+    font-size: 95%;
   }
   .font-serif b, .font-serif strong {
     font-family: "Faune";
