@@ -207,24 +207,23 @@ p:not(:last-child)::after {
   /* Work with Me styling */
   .work-with-me-link {
     @apply px-3 py-1 rounded-md font-medium;
-    background-color: #fff9dd; /* Warm yellow */
+    background-color: #fff9dd !important; /* Warm yellow */
     color: rgba(var(--color-text-base), 0.9);
     transition: background-color 0.2s ease;
   }
   
   .work-with-me-link:hover {
-    background-color: #ffeeac; /* Slightly darker yellow on hover */
+    background-color: #ffec9f; /* Slightly darker yellow on hover */
   }
   
   .work-with-me-link.active {
-    @apply fancy-underline;
     background-color: #ffec9f;
   }
   
   /* Mobile banner-button for Work with Me */
   .mobile-work-banner {
     @apply block w-full max-w-3xl mx-auto py-3 px-4 my-4 rounded-md font-medium;
-    background-color: #fff9dd; /* Warm yellow */
+    background-color: #fff9dd !important; /* Warm yellow */
     color: rgba(var(--color-text-base), 0.9);
   }
   section,
