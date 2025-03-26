@@ -10,6 +10,10 @@ modDatetime: 2025-03-26
 slug: test-links-page
 description: Testing out a new fancy underline style for links. See the CSS code behind a subtle, translucent red underline effect in action.
 emoji: 🔬
+haiku: |
+  Soft red line appears
+  Link style test now confirms
+  Code shows its design
 ---
 
 ## Testing Link Styles
