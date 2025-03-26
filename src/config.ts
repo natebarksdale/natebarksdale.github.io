@@ -9,11 +9,11 @@ export interface TagData {
 
 // Define a centralized tag data map with descriptions
 export const tagDataMap: Record<string, TagData> = {
-  manuscripts: {
-    emoji: "🏺",
-    text: "Manuscripts",
+  templeton: {
+    emoji: "🌀",
+    text: "The John Templeton Foundation",
     description:
-      "Explorations of ancient and medieval manuscripts, their history, preservation, and cultural significance.",
+      "The John Templeton Foundation exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
   },
   technology: {
     emoji: "⚙️",
