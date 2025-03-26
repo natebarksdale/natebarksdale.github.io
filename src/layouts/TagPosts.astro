@@ -12,6 +12,7 @@ import EmojiHeading from "@components/EmojiHeading.astro";
 import { SITE, tagDataMap } from "@config";
 import { stripEmoji } from "../utils/stripEmoji";
 import { slugifyStr } from "../utils/slugify";
+import { parseMarkdownLinks } from "../utils/parseMarkdownLinks";
 
 export interface Props {
   currentPage: number;
@@ -74,9 +75,10 @@ const tagData = tagDataMap[plainTag] || {};
     {
       tagData.description && (
         <div class="tag-description mb-6 mt-2">
-          <p class="text-lg font-serif text-gray-700 italic leading-relaxed">
-            {tagData.description}
-          </p>
+          <p
+            class="text-lg font-serif text-gray-700 italic leading-relaxed"
+            set:html={parseMarkdownLinks(tagData.description)}
+          ></p>
         </div>
       )
     }

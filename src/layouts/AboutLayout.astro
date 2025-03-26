@@ -108,7 +108,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     /* Each section (h1 + content until next h1) becomes a tile */
     :global(#about div.section-tile) {
-      @apply w-[48%] mb-8 p-6 rounded-lg transition-all duration-300 border border-gray-100 dark:border-gray-700;
+      @apply w-[48%] mb-8 rounded-lg transition-all duration-300;
     }
 
     /* The last tile (full-width) takes the entire row */
@@ -118,7 +118,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     :global(#about div.section-tile:hover),
     :global(#about div.intro-tile:hover) {
-      @apply bg-gray-50 dark:bg-gray-800 shadow-md border-gray-200 dark:border-gray-600;
+      @apply bg-gray-50 shadow-md;
     }
 
     /* Style the headings inside tiles - WITHOUT bottom borders */
