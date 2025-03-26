@@ -1,11 +1,15 @@
 ---
 title: Test Links Page
 author: Nathan Barksdale
-pubDatetime: 2025-03-26T09:30:00.000Z
-featured: false
-draft: false
+pubDatetime: 2025-03-26 09:30:00+00:00
+featured: False
+draft: False
 tags:
   - test
+modDatetime: 2025-03-26
+slug: test-links-page
+description: Testing out a new fancy underline style for links. See the CSS code behind a subtle, translucent red underline effect in action.
+emoji: 🔬
 ---
 
 ## Testing Link Styles
