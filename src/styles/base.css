@@ -217,7 +217,7 @@ p:not(:last-child)::after {
   }
   
   .work-with-me-link.active {
-    background-color: #ffec9f;
+    background: #fff9dd !important;
   }
   
   /* Mobile banner-button for Work with Me */

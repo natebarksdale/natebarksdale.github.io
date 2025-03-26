@@ -387,6 +387,7 @@ function injectLLMChatStyles() {
         flex-direction: column !important;
         width: 100% !important;
         padding: 8px !important;
+        border: none;
       }
       
       /* Basic chat bubble styles */
