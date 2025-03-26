@@ -97,19 +97,19 @@ module.exports = {
             },
           },
           'a': {
-            'text-decoration': 'none',
-            'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%)',
-            'background-position': '0 85%',
-            'background-repeat': 'no-repeat',
-            'background-size': '100% 0.4em',
+            'text-decoration': 'none !important',
+            'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%) !important',
+            'background-position': '0 85% !important',
+            'background-repeat': 'no-repeat !important',
+            'background-size': '100% 0.4em !important',
             'text-shadow': [
               '0.1em 0 var(--color-fill)',
               '-0.1em 0 var(--color-fill)',
               '0 0.1em var(--color-fill)',
               '0 -0.1em var(--color-fill)'
-            ].join(','),
+            ].join(',') + ' !important',
             '&:hover': {
-              color: 'rgb(var(--color-accent))',
+              'color': 'rgb(var(--color-accent)) !important',
             },
           },
         },
@@ -118,16 +118,17 @@ module.exports = {
     function({ addUtilities, theme }) {
       addUtilities({
         '.fancy-underline': {
-          'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%)',
-          'background-position': '0 85%',
-          'background-repeat': 'no-repeat',
-          'background-size': '100% 0.4em',
+          'text-decoration': 'none !important',
+          'background': 'linear-gradient(0deg, rgb(var(--color-accent) / 0.5) 0%, rgb(var(--color-accent) / 0.5) 100%) !important',
+          'background-position': '0 85% !important',
+          'background-repeat': 'no-repeat !important',
+          'background-size': '100% 0.4em !important',
           'text-shadow': [
             '0.1em 0 var(--color-fill)',
             '-0.1em 0 var(--color-fill)',
             '0 0.1em var(--color-fill)',
             '0 -0.1em var(--color-fill)'
-          ].join(','),
+          ].join(',') + ' !important',
         },
       })
     },

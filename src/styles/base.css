@@ -279,7 +279,7 @@ p:not(:last-child)::after {
     prose-img:border-skin-line prose-hr:!border-skin-line;
   }
   .prose a {
-    @apply break-words hover:!text-skin-accent;
+    @apply break-words hover:!text-skin-accent fancy-underline !no-underline;
   }
   .prose thead th:first-child,
   tbody td:first-child,

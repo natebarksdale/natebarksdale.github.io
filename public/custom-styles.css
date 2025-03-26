@@ -28,3 +28,32 @@
   font-size: 0.9em;
   text-align: right;
 }
+
+/* Enhanced styling for fancy-underline */
+.fancy-underline,
+.prose a {
+  text-decoration: none !important;
+  background: linear-gradient(0deg, rgba(230, 0, 0, 0.5) 0%, rgba(230, 0, 0, 0.5) 100%) !important;
+  background-position: 0 85% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.4em !important;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill) !important;
+}
+
+/* Style active navigation links */
+nav a.active {
+  text-decoration: none !important;
+  background: linear-gradient(0deg, rgba(230, 0, 0, 0.5) 0%, rgba(230, 0, 0, 0.5) 100%) !important;
+  background-position: 0 85% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.4em !important;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill) !important;
+}
