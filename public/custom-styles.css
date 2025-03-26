@@ -31,7 +31,7 @@
 
 /* Enhanced styling for fancy-underline */
 .fancy-underline,
-.prose p > a, .prose blockquote > a {
+.prose p a, .prose blockquote a {
   text-decoration: none !important;
   background: linear-gradient(180deg, rgba(230, 0, 0, 0.2) 0%, rgba(230, 0, 0, 0.2) 75%) !important;
   background-position: 0 85% !important;
@@ -43,6 +43,8 @@
     0 0.1em var(--color-fill),
     0 -0.1em var(--color-fill) !important;
 }
+
+.prose p a, .prose blockquote a
 
 /* Style active navigation links */
 
