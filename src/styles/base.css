@@ -235,20 +235,7 @@ p:not(:last-child)::after {
     @apply outline-2 outline-offset-1 outline-skin-fill fancy-underline no-underline
     focus-visible:no-underline focus-visible:outline-dashed;
   }
-  
-  .underline-highlight {
-    @apply relative cursor-pointer;
-    z-index: 1;
-  
-    /* Define the gradient with matching stop positions */
-    background: linear-gradient(
-      180deg,
-      transparent 62%,
-      rgb(var(--color-accent)) 62%
-    ) 50%/0 75% no-repeat;
-    
-    transition: background-size 0.4s ease;
-  }
+
 
 
   svg {
