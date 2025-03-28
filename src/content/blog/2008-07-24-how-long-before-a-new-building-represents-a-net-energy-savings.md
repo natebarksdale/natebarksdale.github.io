@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-28T15:31:36Z
+modDatetime: 2025-03-28T17:15:28Z
 title: How long before a new building represents a net energy savings?
 slug: how-long-before-a-new-building-represents-a-net-energy-savings
 featured: false
@@ -23,6 +23,7 @@ coordinates: [37.7749, -122.4194]
 ---
 
 An embodied-energy argument against teardowns. I'd love to see my economist friends take a whack at this idea, factoring in the opportunity costs of spending more money to keep an old building going
+
 a [kottke.org](http://www.kottke.org/remainder/08/07/16110.html) post, 23 July 2008
 
 > Constructing new LEED-certified green buildings is all well and good, but if they’re further from your workers’ homes and you have to tear down perfectly good old buildings to do so, [the hoped-for energy savings are wasted](http://www.preservationnation.org/magazine/2008/january-february/cautionary-tale.html)

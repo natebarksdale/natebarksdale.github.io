@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-03-28T15:31:36Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Victorian leeches to the rescue!
 slug: victorian-leeches-to-the-rescue
 featured: false
@@ -24,6 +24,7 @@ coordinates: [-33.8121, 151.2152]
 ---
 
 I have to admit half the fun in the article are a couple of easy-for-Americans misreads that (erroneously) place the action in the late 19th century. But it's also pleasing to see the old debunked medical "superstitions" rebunked now and again
+
 a [3quarksdaily](https://www.google.com/search?q=%223quarksdaily%22%203quarksdaily.blogs.com) post by Abbas Raza, 26 July 2008
 
 > Kate Benson in the _Sydney Morning Herald_ :

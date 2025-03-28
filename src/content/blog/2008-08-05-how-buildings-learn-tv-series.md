@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T15:31:37Z
+modDatetime: 2025-03-28T17:15:28Z
 title: How Buildings Learn TV series
 slug: how-buildings-learn-tv-series
 featured: false
@@ -21,6 +21,7 @@ coordinates: [51.7548, -1.2550]
 ---
 
 Haven't watched the videos yet, but I can vouch for the book, which Andy references enthusiasticly in Chapter 3 of _Culture Making_
+
 a [kottke.org](http://www.kottke.org/08/08/how-buildings-learn-tv-series) post, 5 July 2008
 
 > In 1997, the BBC aired a three-hour documentary based on Stewart Brand’s book, [How Buildings Learn](https://www.google.com/search?q=%22How%20Buildings%20Learn%22%20amazon.com). Brand has posted the whole program on Google Video in six 30-minute parts: [part one](https://www.google.com/search?q=%22part%20one%22%20video.google.com), [part two](http://web.archive.org/web/20120525044049/http://video.google.com/videoplay?docid=5088653796598486022), [part three](http://web.archive.org/web/20120525043857/http://video.google.com/videoplay?docid=6141960341438553915), [part four](http://web.archive.org/web/20120525043700/http://video.google.com/videoplay?docid=-8761299882173964035), [part five](http://web.archive.org/web/20120525044339/http://video.google.com/videoplay?docid=5407846553590755822), [part six](http://web.archive.org/web/20120525044915/http://video.google.com/videoplay?docid=2283224496826631552)

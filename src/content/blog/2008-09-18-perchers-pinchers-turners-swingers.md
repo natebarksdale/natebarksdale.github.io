@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2025-03-28T15:31:42Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Perchers, pinchers, turners, swingers
 slug: perchers-pinchers-turners-swingers
 featured: false
@@ -38,4 +38,7 @@ A glorious celebration of the toaster in its various vintage forms. The [photo g
 > - **Pop-Ups** The bread automatically jumps out of the top
 > - **Drop/Turn-Ups** The bread has been raised manually
 > - **Flat Beds** The toast lies on a grille
->   from "[Toaster Specification](http://www.toastermuseum.com/scripts/05indepth/ind_specs01.html)," [www.toastermuseum.com](http://www.toastermuseum.com/scripts/05indepth/ind_specs01.html) :: via [Cool Hunting](http://web.archive.org/web/20090512193532/http://www.coolhunting.com:80/archives/2008/07/the_online_toas.php)
+
+---
+
+[Read more at templeton.org] from "[Toaster Specification](http://www.toastermuseum.com/scripts/05indepth/ind_specs01.html)," [www.toastermuseum.com](http://www.toastermuseum.com/scripts/05indepth/ind_specs01.html) :: via [Cool Hunting](http://web.archive.org/web/20090512193532/http://www.coolhunting.com:80/archives/2008/07/the_online_toas.php)

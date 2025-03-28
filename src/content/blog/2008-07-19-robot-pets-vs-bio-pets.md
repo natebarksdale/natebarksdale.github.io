@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-28T15:31:36Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Robot pets vs. bio pets
 slug: robot-pets-vs-bio-pets
 featured: false

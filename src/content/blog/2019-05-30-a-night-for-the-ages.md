@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-05-30
-modDatetime: 2025-03-28T15:32:15Z
+modDatetime: 2025-03-28T17:15:31Z
 title: A Night for the Ages
 slug: a-night-for-the-ages
 featured: false
@@ -26,4 +26,7 @@ For the John Templeton Foundation, I wrote about Marcelo Gleiser's Templeton Pri
 > The writer and physician Oliver Sacks once described 2019 Templeton Prize laureate Marcelo Gleiser as having “a spaciousness of mind large enough to embrace both primordial creation myths and the latest advances in contemporary astronomy and cosmology.” It would thus be difficult to think of a more fitting venue than the one where Gleiser received his prize on May 29 in the Egyptian Wing of New York’s Metropolitan Museum of Art.
 >
 > Hundreds of attendees braved a heavy spring rainstorm to ascend the Met’s front steps and file past the colossal, nearly 4,000-year-old statue of a seated Middle Kingdom pharaoh, past mummies and amulets and arrestingly lifelike funerary paintings, and into the mid-20th-century Grace Rainey Rogers Auditorium, where the ceremony was held.
-> [Read more at templeton.org](https://www.templeton.org/news/a-night-for-the-ages)
+
+---
+
+[Read more at templeton.org](https://www.templeton.org/news/a-night-for-the-ages)

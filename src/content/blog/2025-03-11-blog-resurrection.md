@@ -40,8 +40,11 @@ I new I had the content in there somewhere, and that I wanted to break out the p
 > ```json
 > {"ID":"863","post_author":"1","post_date":"2009-05-26 ...
 > ```
->
-> ... and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
+
+---
+
+[Read more at templeton.org].. and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
+
 > After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
 > {Q} Cool. How would I test the script on my Mac?
 > {A} Try the following python file ...
@@ -65,37 +68,75 @@ Resurrection is a tricky business, and I knew that many of the things I had link
 > {A}
 >
 > ```python
->    		# Process non-image links
->    		md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
->    		for m in re.finditer(md_link_pattern, modified_content):
->    			link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
->    			link_url = raw_link_url.split()[0]
->    			if is_link_broken(link_url, filepath):
->    				stripped_url = strip_query_params(link_url)
->    				if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
->    					replacement_url = stripped_url
->    					print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
->    				else:
->    					wayback_url = check_wayback_link(link_url)
->    					if wayback_url:
->    						replacement_url = wayback_url
->    						print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
->    					else:
->    						site_name = extract_site_name(link_url)
->    						search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
->    						replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
->    						print(f"Replaced {link_url} with Google search: {replacement_url}")
->    				modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
->    				link_replacements_made = True
->    				if modified_content != content_no_pub:
->    					with open(filepath, "w", encoding="utf-8") as f:
->    						f.write(modified_content)
->    					new_filepath = os.path.join(fixed_links_folder, filename)
->    					if os.path.exists(filepath):
->    						os.rename(filepath, new_filepath)
->    						print(f"Moved {filename} to fixed_links folder")
->    					print(f"No broken non-image links fixed in {filename}; file left in place.")
+>
+> ```
+
+---
+
+## [Read more at templeton.org] # Process non-image links
+
+## [Read more at templeton.org] md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
+
+## [Read more at templeton.org] for m in re.finditer(md_link_pattern, modified_content):
+
+## [Read more at templeton.org] link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
+
+## [Read more at templeton.org] link_url = raw_link_url.split()[0]
+
+## [Read more at templeton.org] if is_link_broken(link_url, filepath):
+
+## [Read more at templeton.org] stripped_url = strip_query_params(link_url)
+
+## [Read more at templeton.org] if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
+
+## [Read more at templeton.org] replacement_url = stripped_url
+
+## [Read more at templeton.org] print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
+
+## [Read more at templeton.org] else:
+
+## [Read more at templeton.org] wayback_url = check_wayback_link(link_url)
+
+## [Read more at templeton.org] if wayback_url:
+
+## [Read more at templeton.org] replacement_url = wayback_url
+
+## [Read more at templeton.org] print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
+
+## [Read more at templeton.org] else:
+
+## [Read more at templeton.org] site_name = extract_site_name(link_url)
+
+## [Read more at templeton.org] search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
+
+## [Read more at templeton.org] replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
+
+## [Read more at templeton.org] print(f"Replaced {link_url} with Google search: {replacement_url}")
+
+## [Read more at templeton.org] modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
+
+## [Read more at templeton.org] link_replacements_made = True
+
+## [Read more at templeton.org] if modified_content != content_no_pub:
+
+## [Read more at templeton.org] with open(filepath, "w", encoding="utf-8") as f:
+
+## [Read more at templeton.org] f.write(modified_content)
+
+## [Read more at templeton.org] new_filepath = os.path.join(fixed_links_folder, filename)
+
+## [Read more at templeton.org] if os.path.exists(filepath):
+
+## [Read more at templeton.org] os.rename(filepath, new_filepath)
+
+## [Read more at templeton.org] print(f"Moved {filename} to fixed_links folder")
+
+[Read more at templeton.org] print(f"No broken non-image links fixed in {filename}; file left in place.")
+
 > And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
+>
+> ```
+>
 > ```
 
 ## LLMs Summoning LLMs

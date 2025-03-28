@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Bolivia’s volunteer zebras
 slug: bolivias-volunteer-zebras
 featured: false
@@ -25,8 +25,8 @@ coordinates: [-16.5000, -68.1193]
 
 A fun quick way to address (or at least bring attention to) a public safety concern. It does seem like the zebra costumes' restricted vision might be a problem. Also ironic given that real-life zebras' stripes function as camouflage ..
 
-> > a [kottke.org](http://www.kottke.org/remainder/08/06/15786.html) post, 8 June 2008
-> >
+a [kottke.org](http://www.kottke.org/remainder/08/06/15786.html) post, 8 June 2008
+
 > > ---
 > >
 > > > [A video clip of La Paz, Bolivia’s crossing guard zebras](http://www.lonelyplanet.tv/Clip.aspx?key=F6C841FC760DECE9), the Cebra Voluntaria. Traffic in La Paz is so dangerous that its mayor started a program to have youths dressed as zebras help people across the city’s busiest intersections. From [the recent issue of Monocle](https://www.google.com/search?q=%22the%20recent%20issue%20of%20Monocle%22%20monocle.com):

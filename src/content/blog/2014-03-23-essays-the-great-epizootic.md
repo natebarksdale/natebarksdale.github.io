@@ -27,4 +27,7 @@ coordinates: [43.7, -79.4]
 > _This is my favorite of the short pieces I wrote for Ozy.com last year_
 >
 > It was early October 1872. Ulysses S. Grant was in the White House, Susan B. Anthony was getting ready to cast her first, illegal vote, Jay Gould and Cornelius Vanderbilt were making a killing in railroads and giving the Gilded Age its gilt, and somewhere outside of Toronto, a horse sneezed
-> Read more of my article here: [The Great Epizootic | Flashback | OZY](https://www.google.com/search?q=%22The%20Great%20Epizootic%20%7C%20Flashback%20%7C%20OZY%22%20ozy.com)
+
+---
+
+Read more of my article here: [The Great Epizootic | Flashback | OZY](https://www.google.com/search?q=%22The%20Great%20Epizootic%20%7C%20Flashback%20%7C%20OZY%22%20ozy.com)

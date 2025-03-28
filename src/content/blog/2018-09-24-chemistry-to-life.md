@@ -25,4 +25,7 @@ For the John Templeton Foundation, I wrote about the origins of life and the che
 > The philosopher Søren Kierkegaard famously referred to paradoxes as “grandiose thoughts in embryo.” When a paradox creates a logical roadblock in a given line of thinking, Kierkegaard saw that it could hold the potential for a profound breakthrough.
 >
 > When today’s chemists and geologists attempt to understand the conditions under which the first life emerged on earth around four billion years ago, they tend to focus on RNA, which is the most basic family of molecules capable of two requirements for life: metabolism and reproduction. But in explaining how the first RNA might have been formed, they run up against a handful of seemingly intractable paradoxes.
-> [Read more at templeton.org](https://www.templeton.org/grant/chemistry-to-life)
+
+---
+
+[Read more at templeton.org](https://www.templeton.org/grant/chemistry-to-life)

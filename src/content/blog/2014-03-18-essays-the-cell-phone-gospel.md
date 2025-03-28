@@ -24,4 +24,7 @@ Books and Culture _'s legendary editor John Wilson reached out to me to review t
 >
 > > He had one of those large Samsung smart phones; it was so uncanny and out of place. There amongst the dust, pillars and rubble of a building site was this person, dressed very poorly, holding and obviously enjoying his smart phone. He was using one of its applications, but I'm not sure which
 > > Whenever a modern technology leaps the barriers and takes root in places that had never been kind to its precursors, things can seem uncanny indeed, at least to those on the outside
-> > Read more at [Books and Culture: The Cell Phone Gospel](http://www.booksandculture.com/articles/2013/sepoct/cell-phone-gospel.html)
+
+---
+
+Read more at [Books and Culture: The Cell Phone Gospel](http://www.booksandculture.com/articles/2013/sepoct/cell-phone-gospel.html)

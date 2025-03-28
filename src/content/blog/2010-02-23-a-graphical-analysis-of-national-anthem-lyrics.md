@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2025-03-28T16:06:44Z
+modDatetime: 2025-03-28T17:15:30Z
 title: A graphical analysis of national anthem lyrics
 slug: a-graphical-analysis-of-national-anthem-lyrics
 featured: false
@@ -45,7 +45,11 @@ I've seen a lot of _Les 20 Heures_ over the years, enough to notice how certain 
 > May your reign Continue for a thousand, eight thousand generations, Until the pebbles Grow into boulders Lush with moss
 > Japan's competition in the oldest-anthem race is from the Netherlands, whose "[Het Wilhelmus](http://en.wikipedia.org/wiki/Het_Wilhelmus)" dates to the sixteenth century but has been considered a national song for much of its history. It is still the third-longest anthem, whose length is due to the fact that it is an acrostic, with the first letter of each stanza combining to reveal the name of the Dutch republic's founding leader, Wilhelmus von Nassouwe. The entire poem is autobiographical, narrated (a bit paradoxically) by the man known to history as [William the Silent](http://en.wikipedia.org/wiki/William_the_Silent). Now let's look at a series of frequency maps for certain words. The numbers in the legend are normalized to instances per thousand anthem-words. [hang1column width="710"]![](@assets/images/anthems_13.jpg)[/hang1column] I found it a little surprising that Canada beats out the United States in frequency of references to [Land, God and Freedom](http://en.wikipedia.org/wiki/O_Canada)—this in spite of the "Land of the free and the home of the brave" closer to every verse of "[The Star-Spangled Banner](http://en.wikipedia.org/wiki/The_Star-Spangled_Banner)." But the freedom-singingest anthem of all is "[Stand and Sing of Zambia, Proud and Free](http://en.wikipedia.org/wiki/Stand_and_Sing_of_Zambia,_Proud_and_Free)." No anthem mentions America particularly frequently, but it is interesting that every one that does is in South America, or as they call it, [América](http://es.wikipedia.org/wiki/Am%C3%A9rica_%28desambiguaci%C3%B3n%29). Nobody north of the [Darién Gap](http://en.wikipedia.org/wiki/Dari%C3%A9n_Gap) seems to've felt a similar need. Now let's consider another quartet: [hang1column width="710"]![](@assets/images/anthems_14.jpg)[/hang1column] It's nice to have proof that anthems mention life more than death, especially given the question of bloodthirstiness that got me started on this research. I fear that the Enemies quadrant of the above chart may be a little misleading—not that the Chinese anthem isn't all about enemies, but rather that other anthems just don't use the word directly all that much. For instance, here's a passage from the "[Himno Nacional de la República de Bolivia](https://www.google.com/search?q=%22Himno%20Nacional%20de%20la%20Rep%C3%BAblica%20de%20Bolivia%22)":
 > If a foreigner may, any given day even attempt to subjugate Bolivia, let him prepare for a fatal destiny, which menaces such brave aggressor. For the sons of the mighty Bolívar have sworn, thousands upon thousands of times, to die rather than see the country's majestic banner humiliated
-> ... and one from the final stanza of the [Italian anthem](http://en.wikipedia.org/wiki/Il_Canto_degli_Italiani):
+
+---
+
+[Read more at templeton.org].. and one from the final stanza of the [Italian anthem](http://en.wikipedia.org/wiki/Il_Canto_degli_Italiani):
+
 > Mercenary swords, they're feeble reeds. The Austrian eagle Has already lost its plumes
 > When it comes to bloodthirstiness, it isn't enough to talk about battle, weapons ("Farmers their axes sharpened / whenever an army advanced"—[Norway](http://en.wikipedia.org/wiki/Ja,_vi_elsker_dette_landet)), enemies, death, or even things being soaked in blood, whether the land ("The blood of our sires which hallows the sod"—[Belize](http://en.wikipedia.org/wiki/Land_of_the_Free)) or the flag ("Ever since the day when her lofty banner, In letters of blood, wrote 'Freedom'"—[El Salvador](http://en.wikipedia.org/wiki/National_Anthem_of_El_Salvador)). Anyway, much of the death-talk is about dying for one's own country ("to die for the fatherland is to live"—[Cuba](http://en.wikipedia.org/wiki/La_Bayamesa); "O Martyrs! Your cries echo in the ears of time"—[Iran](http://en.wikipedia.org/wiki/Sorud-e_Melli-e_Iran)), rather than killing for it. When I asked my friends to guess which country had the most violent and bloodthirsty national anthem, a few guessed the United States, what with the rockets and the bombs. The anthem's [third stanza](http://en.wikipedia.org/wiki/The_Star-Spangled_Banner#Lyrics) does add details less comfortable for a Fourth of July reenactment, noting that the blood of the invading enemy "has washed out their foul footsteps' pollution." All that said, though, I think my own country's anthem doesn't quite come close to, say, the all-or-nothing apocalypticism of [Burma's anthem](http://en.wikipedia.org/wiki/Kaba_Ma_Kyei) ("Until the world ends up shattering, long lives Burma!"), or that of [Mexico](http://en.wikipedia.org/wiki/Himno_Nacional_Mexicano):
 > O, Motherland, ere your children, defenseless bend their neck beneath the yoke, may your fields be watered with blood, may their foot be printed in blood. And may your temples, palaces and towers collapse with horrid clamor
@@ -53,7 +57,11 @@ I've seen a lot of _Les 20 Heures_ over the years, enough to notice how certain 
 > Our flag, red with the blood of victory, bears the spirit of the country. The distant rumbling of the guns mingles with our marching song. The path to glory is built by the bodies of our foes
 > We're a long way from simply plucking the Austrian eagle now. The [Algerian anthem](http://en.wikipedia.org/wiki/Kassaman) goes still further. It opens like this:
 > We swear by the lightning that destroys, By the streams of generous blood being shed,
-> ... and pounds things home with a for-anthems-rare burst of 20th-century technology:
+
+---
+
+[Read more at templeton.org].. and pounds things home with a for-anthems-rare burst of 20th-century technology:
+
 > When we spoke, none listened to us, So we have taken the noise of gunpowder as our rhythm And the sound of machine guns as our melody
 > It is interesting to note that these last two are anthems that were written during their respective countries' struggles against French colonial rule; one wonders whether there was a conscious effort on the part of the songwriters to out-Marseillaise the Marseillaise. But do they succeed? I'd shift the prize but for that last minor-key line before the clarion call to arms:
 > _Ils viennent jusque dans nos bras_ _\_\_Égorger nos fils, nos compagnes!_ They come up to our arms To slit the throats of our sons and wives!

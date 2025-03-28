@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-28T15:31:47Z
+modDatetime: 2025-03-28T17:15:29Z
 title: What are the Japanese up to right now?
 slug: what-are-the-japanese-up-to-right-now
 featured: false

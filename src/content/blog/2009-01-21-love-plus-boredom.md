@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-21
-modDatetime: 2025-03-28T15:31:53Z
+modDatetime: 2025-03-28T17:15:29Z
 title: Love plus boredom
 slug: love-plus-boredom
 featured: false
@@ -21,6 +21,7 @@ coordinates: [40.7128, -74.0060]
 ---
 
 What having to wait through thousands and thousands of red lights can make possible
+
 a [Fed by Birds](http://web.archive.org/web/20140813200427/http://www.fedbybirds.com/2009/01/please_respond_to_my_enquiries.html) post, 17 January 2009
 
 > ![image](http://culture-making.com/media/pc2_front.jpg)

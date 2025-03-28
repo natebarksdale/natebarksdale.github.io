@@ -28,4 +28,6 @@ For the John Templeton Foundation, I wrote about the outdated notion of the male
 
 from the perspective of mid-twentieth-century middle-class North America, the ideal of a nuclear family with a male breadwinner and a female homemaker, made possible by postwar prosperity and an increased separation between the workplace and the home, found convenient support from a variety of apologists. Politicians and pastors argued that it represented an expression of ‘traditional family values’ tied up with [stylized visions of patriotism and Christian virtue](https://bookshop.org/books/jesus-and-john-wayne-how-white-evangelicals-corrupted-a-faith-and-fractured-a-nation-9781631499050/9781631495731). Even secular academics supported many of the same conclusions about ‘traditional’ human family roles.
 
-> [Read more at templeton.org](https://www.templeton.org/news/the-dangerous-myth-of-the-male-breadwinner)
+---
+
+[Read more at templeton.org](https://www.templeton.org/news/the-dangerous-myth-of-the-male-breadwinner)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T17:15:29Z
 title: The counter-intuitive comparison of all things
 slug: the-counter-intuitive-comparison-of-all-things
 featured: false
@@ -22,6 +22,7 @@ coordinates: [40.7128, -74.0060]
 ---
 
 The video, for all its self-knowingly unironic earnestness (parse that!) is a little longwinded, and at times sounds like an unedited section of a Wes Anderson opening act—but I must say it fared exceedingly well with the small test audience I forwarded the link to yesterday. And, as Andy points out in the book, culture making is all about not just creating new stuff, but about careful and thoughtful cultivation and celebration of the good stuff that's already there
+
 a [kottke.org](http://www.kottke.org/08/10/the-counterintuitive-comparison-of-all-things) post, 29 October 2008
 
 > The goal of the creators of The Big Chart, The Counter-Intuitive Comparison Institute of North America (CICINA), is to find the single best thing in the world through an NCAA basketball tournament-style bracketing system. [This video explains their plans](http://web.archive.org/web/20090505080403/http://homepage.mac.com:80/clintwynn/thebigchart/thebigchart.html)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-12
-modDatetime: 2025-03-28T16:06:45Z
+modDatetime: 2025-03-28T17:15:30Z
 title: Subtleties
 slug: subtleties
 featured: false
@@ -46,7 +46,11 @@ Subtitles precede the movies, having had a long and healthy career in printed ma
 > Every month or two my friends will get a late-night email from me containing a fuzzy picture of my TV screen frozen in a moment in which the subtle subtitle machinery has gone wrong. The film in question is usually from India; Bollywood movies (and their regional equivalents) present a unique subtitling situation. First of all, the target idiom is generally a variety of Indian English, which of course makes sense given the speech of both translator and average viewer, meaning that even perfect execution will often look odd to American eyes. Secondly, Indian movies are generally quite long, and I've noticed that the quality of the subtitles generally plummets by the time you enter the third hour of the film: grammar goes slack, dialogue becomes terse, there are long awkward stretches where you hear voices but see no words. I figure the screen translation economics work out such that somewhere around the one hundred twentieth minute, anyone still watching is sufficiently committed to the film that there's no additional return on investment for perfecting the subtitles that remain. I imagine a video editing suite somewhere in the suburbs of Mumbai or Chennai, where the key moment arrives and the lead translator hands off the balance of the film to some sub-subtitler and heads outside for a well-deserved _masala dosa_. [![](@assets/images/subtitles_8.jpg)](@assets/images/subtitles_8.jpg)
 > A third-hour subtitle from _Alai Payuthey_ (Tamil, 2000)
 > Finally, though, the greatest amount of South Asian subtitle strangeness often boils down to Article 12 of the Code: "Songs must be subtitled where relevant." It's in their songs that Indian films dip deepest into translation-defying metaphor. There's only so much that can be done: the words may correspond but the underlying sentiment remains amusingly, thrillingly novel. [![](@assets/images/subtitles_9.jpg)](@assets/images/subtitles_9.jpg)
-> Romantic song lyric from _Mullum Malarum_ (Tamil, 1978)
+
+---
+
+[Read more at templeton.org]omantic song lyric from _Mullum Malarum_ (Tamil, 1978)
+
 > "I love watching movies with subtitles," a friend told me recently. "They make me feel so smart!" There's something to that observation, especially when one knows enough of the film's language to pick out familiar words as the translations flash by on the screen's lower third. When I watch a film like Fatih Akin's wonderful _The Edge of Heaven_ , my high school German comes streaming back. At least, it seems that way. I get the pleasant surface recall without the work of actually stringing sentences together on my own. _Das wird viel,_ um, _schwerer sein?_ [![](@assets/images/subtitles_10.jpg)](@assets/images/subtitles_10.jpg)
 > Speaking German in _The Edge of Heaven_ (2007)
 > Sometimes I take the smartness game too far and try to watch a film in one language I've studied, with the DVD subtitles set in another (say, a Hindi film with Spanish subs). The end result is usually a headache-inducing mental tug-of-war that yields, if such a thing is possible, negative comprehension. I ask myself, why would a person do that? Not to feel smarter, certainly not to get more out of the movie. Could it be that I love watching movies with subtitles because they make me feel dumber?

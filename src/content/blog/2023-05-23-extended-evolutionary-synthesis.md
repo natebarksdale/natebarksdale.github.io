@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-05-23
-modDatetime: 2025-03-28T15:32:17Z
+modDatetime: 2025-03-28T17:15:33Z
 title: Extended Evolutionary Synthesis
 slug: extended-evolutionary-synthesis
 featured: false
@@ -26,4 +26,7 @@ For the John Templeton Foundation, I wrote about the Extended Evolutionary Synth
 > Students taking their first course in evolutionary biology will often find that evolution is not what they expected. To address questions like “why do dinosaurs have feathers” or “how does this parasite come to have a life cycle through ants, birds, and cows,” they will learn that they need to look past the complex features and zoom in on where the evolutionary action actually lies: at the level of genes. Instead of studying how these traits develop and function, the students will find themselves busily calculating the relative numbers of gene variants and squinting over alignments of genetic sequences.
 >
 > Evolutionary theory—as it is practiced today—is about changes in the genetic makeup of populations. It’s about random genetic mutations and their recombinations, about the long reach of genes into the selective environment, and about the faithful transmission of genetic information across generations. To explain the evolution of phenotypes is to explain the evolution of their underlying genes.
-> [Read more at templeton.org](https://www.templeton.org/discoveries/extended-evolutionary-synthesis)
+
+---
+
+[Read more at templeton.org](https://www.templeton.org/discoveries/extended-evolutionary-synthesis)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-30
-modDatetime: 2025-03-28T15:31:37Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Skyscrapers not to scale
 slug: skyscrapers-not-to-scale
 featured: false
@@ -20,6 +20,7 @@ coordinates: [20.5937, 78.9629]
 ---
 
 Of course in this rendering, Asia -- where the real population-concentration action's happening -- is just a bunch of spikes on the horizon
+
 a [post](http://blog.longnow.org/2008/07/13/data-globes/) by Alexander Ross, [The Long Now Blog](http://blog.longnow.org/), 13 July 2008
 
 > [![](http://www.culture-making.com/media/375127836_24ef15f878.jpg)](http://www.flickr.com/photos/arenamontanus/375127836/in/set-72157594509798466/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T17:15:28Z
 title: The rage of stickers
 slug: the-rage-of-stickers
 featured: false

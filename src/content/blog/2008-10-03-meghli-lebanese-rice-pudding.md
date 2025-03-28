@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-28T15:31:44Z
+modDatetime: 2025-03-28T17:15:29Z
 title: Meghli (Lebanese Rice pudding)
 slug: meghli-lebanese-rice-pudding
 featured: false
@@ -21,6 +21,7 @@ coordinates: [33.8547, 35.8623]
 ---
 
 This looks tasty, especially once I figured out the green slivers weren't avocado
+
 a [Hommus & Tabbouli](http://hommuswtabbouli.blogspot.com/) post, by Mag, 15 July 2008 :: via [Global Voices Online](http://globalvoicesonline.org/2008/09/30/lebanon-hommus-and-tabbouli/)
 
 > ![](http://www.culture-making.com/media/meghli.jpg)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-12-03
-modDatetime: 2025-03-28T15:32:15Z
+modDatetime: 2025-03-28T17:15:32Z
 title: Five Questions with Betül Kaçar
 slug: five-questions-with-betul-kacar
 featured: false
@@ -29,4 +29,7 @@ For the John Templeton Foundation, I wrote about how ancient DNA unlocks secrets
 >
 > I immigrated to the United States from Istanbul, Turkey when I was 20 years old to start a biochemistry PhD at the Emory University School of Medicine in Atlanta. I was eager and perhaps should have been a bit afraid, but I was young and ignorant. In a way it’s a good thing — you don’t want to overthink these things, and I was just so excited about the scientific scene at Emory.
 > I’d first visited the U.S. a year earlier, on a Howard Hughes Medical Institute summer undergraduate research fellowship. I fell absolutely in love with the pace, the intensity, and the passion of witnessing a bunch of scientists getting together in a room (with no windows, oftentimes!) and voluntarily spending hours learning about a question that is so specific. It was extremely inspirational — I knew that I was hooked for life.
-> [Read more at templeton.org](https://www.templeton.org/news/qa-five-questions-with-betul-kacar)
+
+---
+
+[Read more at templeton.org](https://www.templeton.org/news/qa-five-questions-with-betul-kacar)

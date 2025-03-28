@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T16:06:31Z
+modDatetime: 2025-03-28T17:15:28Z
 title: Edge-notched cards
 slug: edge-notched-cards
 featured: false
@@ -27,4 +27,7 @@ That great lover of paper ephemera Nicholson Baker would likely note all the ext
 > > ![](http://media.tumblr.com/1MfGe5umUackm0hmMTT3hYsV_500.jpg)
 >
 > [Edge-notched cards](http://www.kk.org/thetechnium/archives/2008/06/one_dead_media.php) were invented in 1896. These are index cards with holes on their edges, which can be selectively slotted to indicate traits or categories, or in our language today, to act as a field. Before the advent of computers were one of the few ways you could sort large databases for more than one term at once.
-> a [more than 95 theses](http://web.archive.org/web/20081203221319/http://ayjay.tumblr.com/post/38804565) post by Alan Jacobs
+
+---
+
+[Read more at templeton.org] [more than 95 theses](http://web.archive.org/web/20081203221319/http://ayjay.tumblr.com/post/38804565) post by Alan Jacobs
