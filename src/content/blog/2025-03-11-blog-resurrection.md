@@ -1,14 +1,14 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-11
-modDatetime: 2025-03-11 19:54:16+00:00
-title: Back from the Grave
-slug: back-from-the-grave
-featured: True
+pubDatetime: 2025-03-28
+modDatetime: 2025-03-28
+title: ## When is the past worth saving, and how do we go
+slug: when-is-the-past-worth-saving-and-how-do-we-go
+featured: False
 draft: False
 tags:
-  - 🗣🗣️ Language
-  - 🇨🇳 China
+  - 📚 Preservation
+  - 📚 Archives
   - 🌐 Blogging
   - ➿ What Comes Next\_
   - 🤖 AI
