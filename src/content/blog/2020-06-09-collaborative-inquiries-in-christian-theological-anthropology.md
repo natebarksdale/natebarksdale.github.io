@@ -19,6 +19,7 @@ haiku: |
   New light on old truths.
 
 coordinates: [41.7056, -86.2353]
+slug: collaborative-inquiries-in-christian-theological-anthropology
 ---
 
 slug: collaborative-inquiries-in-christian-theological-anthropology

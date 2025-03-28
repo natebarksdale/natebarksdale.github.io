@@ -1,25 +1,19 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-11
-modDatetime: 2025-03-11 19:54:16+00:00
-title: Back from the Grave
-slug: back-from-the-grave
-featured: True
+pubDatetime: 2025-03-28
+modDatetime: 2025-03-28
+title: ## When is the past worth saving, and how do we go
+slug: when-is-the-past-worth-saving-and-how-do-we-go
+featured: False
 draft: False
 tags:
-  - 🗣🗣️ Language
-  - 🇨🇳 China
+  - 📚 Preservation
+  - 📚 Archives
   - 🌐 Blogging
-  - ➿ What Comes Next\_
-  - 🤖 AI
-  description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
-  emoji: ✍️
-haiku: |
-  Old words find new home,
-  Past thoughts revived, take new breath,
-  Making culture bloom.
-
-coordinates: [51.509865, -0.118092]
+  - ♻️ Repurposing
+  - ⚖️ Choices
+description: Migrating a vast archive sparks questions about preserving past work. Explore the choices and methods for deciding what truly matters.
+emoji: 🗂️
 ---
 
 ## When is the past worth saving, and how do we go about it it?

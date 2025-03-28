@@ -1,4 +1,14 @@
 ---
+author: Nate Barksdale
+pubDatetime: 2025-03-28
+modDatetime: 2025-03-28
+title: ---
+slug: untitled-post
+featured: False
+draft: True
+---
+
+---
 
 author: Nate Barksdale
 pubDatetime: 2025-03-26
