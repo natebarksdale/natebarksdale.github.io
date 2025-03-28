@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T17:15:28Z
+modDatetime: 2025-03-28T21:15:51Z
 title: Edge-notched cards
 slug: edge-notched-cards
 featured: false
@@ -30,4 +30,4 @@ That great lover of paper ephemera Nicholson Baker would likely note all the ext
 
 ---
 
-[Read more at templeton.org] [more than 95 theses](http://web.archive.org/web/20081203221319/http://ayjay.tumblr.com/post/38804565) post by Alan Jacobs
+a [more than 95 theses](http://web.archive.org/web/20081203221319/http://ayjay.tumblr.com/post/38804565) post by Alan Jacobs

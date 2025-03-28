@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T17:15:28Z
+modDatetime: 2025-03-28T21:15:51Z
 title: Sandbag challenge
 slug: sandbag-challenge
 featured: false
@@ -27,7 +27,7 @@ I wonder whether they could even out the results by getting the engineers to wri
 
 ---
 
-[Read more at templeton.org]esearchers at the University of Manitoba conducted [an experiment](https://www.google.com/search?q=%22an%20experiment%22%20apegm.mb.ca) (PDF) in which they asked two groups—one made up of professional engineers, the other of volunteers given standard instructions—to construct a dike using standard sandbags. The professionals were able to create a sandbag dike 12 feet tall that proved quite effective. But the 6-foot-tall dike prepared by the unsupervised volunteers failed when the water reached its peak level.
+Researchers at the University of Manitoba conducted [an experiment](https://www.google.com/search?q=%22an%20experiment%22%20apegm.mb.ca) (PDF) in which they asked two groups—one made up of professional engineers, the other of volunteers given standard instructions—to construct a dike using standard sandbags. The professionals were able to create a sandbag dike 12 feet tall that proved quite effective. But the 6-foot-tall dike prepared by the unsupervised volunteers failed when the water reached its peak level.
 
 ---
 

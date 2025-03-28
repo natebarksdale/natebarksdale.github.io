@@ -31,4 +31,4 @@ Is persistence in spite of uncoolness a sign that a cultural artifact is genuine
 
 ---
 
-[Read more at templeton.org] from "[Why the Death of S.U.V.’s?](http://freakonomics.blogs.nytimes.com/2008/12/24/why-the-death-of-suvs/)," by Steven D. Levitt, [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2008/12/24/why-the-death-of-suvs/), 24 December 2008
+from "[Why the Death of S.U.V.’s?](http://freakonomics.blogs.nytimes.com/2008/12/24/why-the-death-of-suvs/)," by Steven D. Levitt, [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2008/12/24/why-the-death-of-suvs/), 24 December 2008
