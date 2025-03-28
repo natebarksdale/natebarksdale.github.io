@@ -4,14 +4,15 @@ pubDatetime: 2025-03-26
 modDatetime: 2025-03-26
 title: Limerickipedia
 slug: limerickipedia
-featured: True
+featured: False
 draft: False
 description: Imagine an encyclopedia built only from limericks, each linking to more!
 emoji: 🤪
 tags:
   - ✍️ Poetry
   - 😂 Humor
-  - 💡 Innovation
+  - 🤖 Experiments
+  - 🤖 Claude
   - 🌐 Internet
 haiku: |
   Dishes gleam, thought sparks
@@ -20,7 +21,11 @@ haiku: |
 ---
 
 Last night while doing the dishes, a billion-dollar thought flashed before my eyes: what if you had an encyclopedia that was entirely made of limericks! Where each entry had highlighted links that led to further limericks, each with their own limerick links. How wonderful and useless that would be!
+
+tldr; I built it: [Limerickipedia](https://limerickipedia.vercel.app)
+
 Visions of vibe-coding danced in my head as I scrubbed the pots and loaded the silverware. My initial idea was to prompt Claude to create a sort of back-end script that would start from a seed limerick, identify its nouns, and then go about querying an LLM to generate limericks on those topics. I figured you could let the thing chug away to create a few thousand entries to create a universe that could be navigated by the user until they got bored, which I imagine would be pretty fast.
+
 By this morning, I began to wonder if you could do this all on the fly, with the new limericks being created only after the link was clicked on. I wondered if this might not be a proper site at all, but could live as a Claude artifact.
 
 > {Claude}
@@ -62,7 +67,7 @@ More problems, of course, arose:
 
 > {Claude}
 >
-> I have it running, but the api only returns the first line of the limerick, and without highlighting any words ever (I'm using free models so this could be the issue, but it's the same for all of them)
+> {Q} I have it running, but the api only returns the first line of the limerick, and without highlighting any words ever (I'm using free models so this could be the issue, but it's the same for all of them)
 
 It was like this for cycle after cycle: one issue fixed, new issue emerges, and Claude was unfailingly apologetic and patient as we moved through it. Occasionally Claude would add or delete features without being asked — it was always minor, and probably the same thing would happen if I was interacting with a human developer to fix my requests.
 
@@ -72,6 +77,6 @@ Up till now I had been doing everything via my Claude Pro account, but the chat 
 
 ## Conclusions
 
-This is addictive — being able to go from a wild idea to a working prototype so quickly was awesome. But, like many addictive things, it winds up demanding a bit more of you than the initial dopamine rush might indicate. Pre-LLMs I would have assumed this was something that would take a pro developer a day or two, so it would've been out of my league. Post-LLMs, I figured it would probably work but definitely overestimated how much it would still require of me (it took most of a workday babysitting the AI prompts). And even with the resorting to Claude Code in the end, there were still a lot of things I had to think hard to be precise about — both in describing what I wanted and what wasn't working, and in pulling in outside ideas gleaned from my general cloud of tech knowledge to effectively talk like a software project manager (e.g. it seems like you keep getting stuck trying X. Would it make sense to try this random thing I remember reading about recently in a tech artcile?.
+This is addictive — being able to go from a wild idea to a working prototype so quickly was awesome. But, like many addictive things, it winds up demanding a bit more of you than the initial dopamine rush might indicate. Pre-LLMs I would have assumed this was something that would take a pro developer a day or two, so it would've been out of my league. Post-LLMs, I figured it would probably work but definitely overestimated how much it would still require of me (it took most of a workday babysitting the AI prompts). And even with the resorting to Claude Code in the end, there were still a lot of things I had to think hard to be precise about — both in describing what I wanted and what wasn't working, and in pulling in outside ideas gleaned from my general cloud of tech knowledge to effectively talk like a software project manager (e.g. it seems like you keep getting stuck trying X. Would it make sense to try this random thing I remember reading about recently in a tech article?).
 
 Also — here again with the addictive angle — I want to make Limirickipedia _even better_ at doing its peculiar useless thing.
