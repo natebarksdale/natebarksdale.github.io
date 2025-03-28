@@ -10,7 +10,7 @@ tags:
   - 📚 Preservation
   - 📚 Archives
   - 🌐 Blogging
-  - ➿ What Comes Next\_
+  - ➿ What Comes Next_
   - 🤖 AI
 description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
 emoji: ✍️
