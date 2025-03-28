@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-28T15:31:38Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Abu Ali, Shabbos Goy
 slug: abu-ali-shabbos-goy
 featured: false
@@ -31,4 +31,7 @@ A fascinating fable of cultural connection (and not-quite-connection). I wonder 
 > Since observant Jews can’t ask for help, they use a special code with Abu Ali. If they need the air conditioner turned on, they tell him that it’s hot. If they need a light turned on or a fuse changed, they say that it’s dark
 > Abu Ali charges about $10 per visit. If he has to rush a pregnant woman to the hospital — something he said he sometimes has to do three or for times each Sabbath — it costs about $30
 > The families aren’t supposed to pay him for his services, so the community set up a box outside the neighborhood synagogue where people can put the money. If Abu Ali has to come collect directly, it costs an extra $5.
-> from "[In Jerusalem, Muslim handles Sabbath chores for Jews](https://www.google.com/search?q=%22In%20Jerusalem%2C%20Muslim%20handles%20Sabbath%20chores%20for%20Jews%22%20mcclatchydc.com)," by Dion Nissenbaum, [McClatchy Newspapers](http://web.archive.org/web/20250131135541/https://www.mcclatchydc.com/), 7 August 2008
+
+---
+
+from "[In Jerusalem, Muslim handles Sabbath chores for Jews](https://www.google.com/search?q=%22In%20Jerusalem%2C%20Muslim%20handles%20Sabbath%20chores%20for%20Jews%22%20mcclatchydc.com)," by Dion Nissenbaum, [McClatchy Newspapers](http://web.archive.org/web/20250131135541/https://www.mcclatchydc.com/), 7 August 2008

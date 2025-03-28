@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2025-03-28T15:31:50Z
+modDatetime: 2025-03-28T16:06:38Z
 title: One hand, one heart, two tongues
 slug: one-hand-one-heart-two-tongues
 featured: false
@@ -29,4 +29,7 @@ A revival of _West Side Story_ , directed by the 90-year-old author of the 1957 
 > Lin-Manuel Miranda, creator of the recent hit musical [In The Heights](http://www.intheheightsthemusical.com/), which focuses on a poor neighbourhood of Manhattan's Washington Heights faced with gentrification, was recruited to rewrite the lyrics. The Sharks sing in Spanish, with English surtitles, while the delinquent Jets sing in English
 > Laurents was given the idea of a bi-lingual show after his companion, Tom Hatcher, who died two years ago, saw an all-Spanish staging of the musical in Colombia in which the Sharks – the Capulets of Shakespeare's play – were transformed into heroes, the Jets into villains
 > Laurents intends to make the new version darker and more threatening than previous stagings, certainly more so than the film, of which he is disparaging. "I thought the whole thing was terrible. Day-Glo costumes and fake accents!" he told the Washington Post
-> from "[A bilingual version of _West Side Story_ gives the Sharks their due](http://www.guardian.co.uk/stage/2008/dec/16/west-side-story-sharks-jets)," by Ed Pilkington, [guardian.co.uk](http://www.guardian.co.uk/stage/2008/dec/16/west-side-story-sharks-jets), 16 December 2008
+
+---
+
+from "[A bilingual version of _West Side Story_ gives the Sharks their due](http://www.guardian.co.uk/stage/2008/dec/16/west-side-story-sharks-jets)," by Ed Pilkington, [guardian.co.uk](http://www.guardian.co.uk/stage/2008/dec/16/west-side-story-sharks-jets), 16 December 2008

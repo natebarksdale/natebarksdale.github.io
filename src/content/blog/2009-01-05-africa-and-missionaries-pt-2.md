@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T15:31:51Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Africa and missionaries, pt. 2
 slug: africa-and-missionaries-pt-2
 featured: false
@@ -28,4 +28,7 @@ From a three-article series that the _New York Times_ ran Christmas week. A love
 >
 > After the Mass, however, one member of the congregation, Virginia Ballard, gestured toward the Nigerian priest and confided in Father Venters, “I can’t understand what he said, but he’s a sweet young man.”
 > Mrs. Ballard went on to praise Father Ibemere’s knowledge of the Bible, his capacity to remember the names of congregants, his willingness to teach the Americans about his home in Nigeria. “He is a holy man,” she concluded, “and we are honored to have him.”
-> from "[Serving U.S. Parishes, Fathers Without Borders](http://web.archive.org/web/20210505202756/http://www.nytimes.com/2008/12/28/us/28priest.html?pagewanted=4)," by Laurie Goodstein, [_The New York TImes_](http://web.archive.org/web/20210505202756/http://www.nytimes.com/2008/12/28/us/28priest.html?pagewanted=4), 27 December 2008
+
+---
+
+from "[Serving U.S. Parishes, Fathers Without Borders](http://web.archive.org/web/20210505202756/http://www.nytimes.com/2008/12/28/us/28priest.html?pagewanted=4)," by Laurie Goodstein, [_The New York TImes_](http://web.archive.org/web/20210505202756/http://www.nytimes.com/2008/12/28/us/28priest.html?pagewanted=4), 27 December 2008

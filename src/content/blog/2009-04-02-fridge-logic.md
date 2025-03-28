@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-02
-modDatetime: 2025-03-28T15:31:56Z
+modDatetime: 2025-03-28T16:06:40Z
 title: Fridge logic
 slug: fridge-logic
 featured: false
@@ -28,4 +28,7 @@ From a collection of tv-writer jargon. The good bit: it's cool to learn the name
 > "Commuter flight."  
 > "Could she make the drive to the airport in time?"  
 > "That's fridge logic."Note that you're not trying to be lazy here--you're just dealing with the fact that every line of exposition is a line that isn't active or particularly interesting, and you only get so many of those in 44 minutes before your show is now boring. Logically flawless, but boring
-> from "[Writing: Jargon Preservation 4](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html)," by Rogers, [Kung Fu Monkey](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html), 28 April 2005 :: via [Schott's Vocab](http://schott.blogs.nytimes.com/2009/03/28/elsewhere-movie-jargon-preservation/)
+
+---
+
+from "[Writing: Jargon Preservation 4](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html)," by Rogers, [Kung Fu Monkey](http://kfmonkey.blogspot.com/2005/04/writing-jargon-preservation-4.html), 28 April 2005 :: via [Schott's Vocab](http://schott.blogs.nytimes.com/2009/03/28/elsewhere-movie-jargon-preservation/)

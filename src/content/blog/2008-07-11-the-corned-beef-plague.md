@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-28T15:31:34Z
+modDatetime: 2025-03-28T16:06:31Z
 title: The corned beef plague
 slug: the-corned-beef-plague
 featured: false
@@ -29,4 +29,7 @@ The Pacific Islands affinity for processed, canned meats dates, in large part, t
 >
 > And small Pacific nations top World Health Organization lists, with 94.5 percent of people in tiny Nauru classed as overweight, leading to chronic diabetes problems on the island.
 > The Federated States of Micronesia (91.1 percent), the Cook Islands (90.9 percent), Tonga (90.8 percent) and Niue (81.7 percent) rounded out the WHO top five, while the United States came in at number nine, with 74.1 percent overweight or obese
-> from ”[Australia vies with Pacific, U.S. to be fattest](https://www.google.com/search?q=%22Australia%20vies%20with%20Pacific%2C%20U.S.%20to%20be%20fattest%22%20reuters.com)”, by Rob Taylor, [Reuters](http://web.archive.org/web/20250209184254/https://www.reuters.com/), 19 June 2008
+
+---
+
+from ”[Australia vies with Pacific, U.S. to be fattest](https://www.google.com/search?q=%22Australia%20vies%20with%20Pacific%2C%20U.S.%20to%20be%20fattest%22%20reuters.com)”, by Rob Taylor, [Reuters](http://web.archive.org/web/20250209184254/https://www.reuters.com/), 19 June 2008

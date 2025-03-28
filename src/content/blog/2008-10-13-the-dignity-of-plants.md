@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-13
-modDatetime: 2025-03-28T15:31:44Z
+modDatetime: 2025-03-28T16:06:35Z
 title: The dignity of plants
 slug: the-dignity-of-plants
 featured: false
@@ -36,4 +36,7 @@ I think this is getting at something important, though perhaps from the wrong an
 > “We couldn’t start laughing and tell the government we’re not going to do anything about it,” says Markus Schefer, a member of the ethics panel and a professor of law at the University of Basel. “The constitution requires it.”
 > In April, the team published a 22-page treatise on “the moral consideration of plants for their own sake.” It stated that vegetation has an inherent value and that it is immoral to arbitrarily harm plants by, say, “decapitation of wildflowers at the roadside without rational reason.”
 > On the question of genetic modification, most of the panel argued that the dignity of plants could be safeguarded “as long as their independence, i.e., reproductive ability and adaptive ability, are ensured.” In other words: It’s wrong to genetically alter a plant and render it sterile.
-> from "[Switzerland's Green Power Revolution: Ethicists Ponder Plants' Rights](https://www.google.com/search?q=%22Switzerland%27s%20Green%20Power%20Revolution%3A%20Ethicists%20Ponder%20Plants%27%20Rights%22%20online.wsj.com)," by Gautum Naik, [_The Wall Street Journal_](https://www.google.com/search?q=%22_The%20Wall%20Street%20Journal_%22%20online.wsj.com), 10 October 2008 :: thanks Emily!
+
+---
+
+from "[Switzerland's Green Power Revolution: Ethicists Ponder Plants' Rights](https://www.google.com/search?q=%22Switzerland%27s%20Green%20Power%20Revolution%3A%20Ethicists%20Ponder%20Plants%27%20Rights%22%20online.wsj.com)," by Gautum Naik, [_The Wall Street Journal_](https://www.google.com/search?q=%22_The%20Wall%20Street%20Journal_%22%20online.wsj.com), 10 October 2008 :: thanks Emily!

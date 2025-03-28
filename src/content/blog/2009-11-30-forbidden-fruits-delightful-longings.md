@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2025-03-28T15:32:04Z
+modDatetime: 2025-03-28T16:06:42Z
 title: Forbidden fruits, delightful longings
 slug: forbidden-fruits-delightful-longings
 featured: false
@@ -11,7 +11,7 @@ emoji: 🍈
 tags:
   - ✨ Wonder
   - 💡 Design
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🇨🇳 China
   - 🌍 Culture-Making.com

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-09
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: The first assimilation
 slug: the-first-assimilation
 featured: false
@@ -28,4 +28,7 @@ A cultural adaption strategy for those who find themselves doubly in the minorit
 >
 > In his best Mexican Spanish, the Salvadoran asked: ¿Tienen trabajo? (Do you have work?) When asked where he was born, he swallowed his pride and answered: Puebla, Mexico. The job was his. For three days, Rivera scrubbed plates in conspicuous silence. He knew the Mexican cooks were onto him. Especially the one from Puebla. “I would stay up late wondering, ‘What if they discover me? What if they take my job away? What if they beat me up?’“ Rivera said
 > Twenty years later, those fears have vanished but the 35-year-old continues to pretend. Life in Southern California is just less complicated as a Mexican, he says. Fitting in is easier. He introduces himself as Mexican. He says his closest friends are from Mexico and he eats nothing but Mexican food. Rivera and thousands of other Central and South American immigrants have left their native countries only to arrive in an American city dominated by Mexicans, who comprise L.A.’s largest Latino group and have access to most of the jobs sought by immigrants. The metropolis drives many to Mexicanize, to degrees big and small, often before they start to Americanize.
-> from "[Central American immigrants adopt Mexican ways in U.S.](http://web.archive.org/web/20081207014127/http://www.latimes.com:80/news/local/la-me-salvadoran3-2008nov03,0,5647680.story?)," by Esmeralda Bermudez, [_Los Angeles Times_](http://web.archive.org/web/20081207014127/http://www.latimes.com:80/news/local/la-me-salvadoran3-2008nov03,0,5647680.story?), 3 November 2008
+
+---
+
+from "[Central American immigrants adopt Mexican ways in U.S.](http://web.archive.org/web/20081207014127/http://www.latimes.com:80/news/local/la-me-salvadoran3-2008nov03,0,5647680.story?)," by Esmeralda Bermudez, [_Los Angeles Times_](http://web.archive.org/web/20081207014127/http://www.latimes.com:80/news/local/la-me-salvadoran3-2008nov03,0,5647680.story?), 3 November 2008

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Snark is what you make of it
 slug: snark-is-what-you-make-of-it
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: Alan Jacobs reflects on the divisive nature of snark in criticism and its impact on discourse.
 emoji: 🤷‍♂️
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 🗣️ Language
   - ⚔️ Enemies

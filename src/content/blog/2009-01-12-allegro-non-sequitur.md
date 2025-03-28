@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Allegro non sequitur
 slug: allegro-non-sequitur
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: From Alex Ross, a commentary on Bernstein and Shostakovich intertwined with YouTube's vibrant discussion.
 emoji: 🎺
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 📝 Writing
   - 🎭 Entertainment

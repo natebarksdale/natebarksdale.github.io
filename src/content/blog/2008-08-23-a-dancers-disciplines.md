@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: A dancer’s disciplines
 slug: a-dancers-disciplines
 featured: false
@@ -28,4 +28,7 @@ There's a wide yet tempting gap between copying or consuming (in this case, pass
 > She has obeyed the laws of her craft, its “order,” and so earns the right to improvise in a way that reveals the beauty of the craft. I have obeyed none and so earn the right only to look like a fool
 > My temptation based on my minimal experience and training is to say: “I caaan’t do it. It’s too hard. You can do it because of course you’re better than I.” In saying this I sanction both my ignorance and my unwillingness to learn about the craft
 > Maybe if I simply imitate her movements, I say to myself, then perhaps I can dance like her. But without adopting the disciplines of modern dance I will not become a person for whom the movements and graces of modern dance come “naturally.” I will simply be attempting to behaviorally conform
-> from "[A Disciplined (disciple) Artist: Part 1](http://artspastor.blogspot.com/2008/08/disciplined-artist-part-1.html)," by David Taylor, [Diary of an Arts Pastor](http://artspastor.blogspot.com/2008/08/disciplined-artist-part-1.html), 23 August 2008
+
+---
+
+from "[A Disciplined (disciple) Artist: Part 1](http://artspastor.blogspot.com/2008/08/disciplined-artist-part-1.html)," by David Taylor, [Diary of an Arts Pastor](http://artspastor.blogspot.com/2008/08/disciplined-artist-part-1.html), 23 August 2008

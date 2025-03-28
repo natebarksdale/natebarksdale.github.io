@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-28T15:31:34Z
+modDatetime: 2025-03-28T16:06:31Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false
@@ -27,4 +27,7 @@ A British director's remix of Leonardo's Last Supper. I suppose you'd have to se
 >
 > To at least one of the world’s experts on Da Vinci, Greenaway’s work amounted to cultural vandalism. But to others it may have saved The Last Supper’s reputation from The Da Vinci Code, Dan Brown’s blockbuster novel, which frustrated many experts by reducing the painting’s hidden meanings to a plot device
 > “It has reconsecrated the painting after Dan Brown deconsecrated it,” said Vittorio Sgarbi, a leading art critic and former head of arts for the Milan local government.
-> from ”[Greenway’s hi-tech gadgetry highlights Da Vinci for the laptop generation](http://film.guardian.co.uk/news/story/0,,2288390,00.html?gusrc=rss&feed=networkfront)”, by Robert Booth, [guardian.co.uk Film](http://film.guardian.co.uk), 2 July 2008
+
+---
+
+from ”[Greenway’s hi-tech gadgetry highlights Da Vinci for the laptop generation](http://film.guardian.co.uk/news/story/0,,2288390,00.html?gusrc=rss&feed=networkfront)”, by Robert Booth, [guardian.co.uk Film](http://film.guardian.co.uk), 2 July 2008

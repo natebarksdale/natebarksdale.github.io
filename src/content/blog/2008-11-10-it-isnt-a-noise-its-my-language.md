@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-10
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: “It isn’t a noise, it’s my language”
 slug: it-isnt-a-noise-its-my-language
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: A tribute to Miriam Makeba, Mama Africa, who imparts a vital lesson in isiXhosa pronunciation through her music.
 emoji: 🎤
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🦁 Africa
   - 🌍 Culture-Making.com
   - 🌍 Culture

@@ -9,7 +9,7 @@ draft: False
 description: Exploring the sibling rivalry of Ed and David Miliband, a tale of ambition and political legacy.
 emoji: ⚔️
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🇬🇧 London
   - 🗳️ Elections
   - 🤝 Families

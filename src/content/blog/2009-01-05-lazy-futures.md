@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T15:31:51Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Lazy futures
 slug: lazy-futures
 featured: false
@@ -28,4 +28,7 @@ I wonder, how much does the same critique apply to Lazy Utopias and—more cruci
 >
 > Why doesn't the dystopian vision ever include sunshine and children playing in its ruins? Why does it not include [the constant, untiring efforts of most people to do what they can with what they have to improve their situations](http://web.archive.org/web/20150908022031/http://www.worldchanging.com/archives/008208.html)? Why are most people in the dystopian future always powerless to change anything? I could go on, but you get the point
 > The biggest problem with dystopian fiction is not its pessimism. I do think there's a serious issue about who's interests are best served by making people fear the future, but I think the biggest problem with most dystopian fiction is its laziness and derivative quality. Lazy futures act like visionary static, crackling and dirtying the signal-to-noise ratio, making it harder not only for truly insightful futures to be found, but corrupting the ability of normal people to see why those visions are worth understanding
-> from "[Lazy Dystopias](http://web.archive.org/web/20121205200238/http://www.worldchanging.com/archives/009257.html)," by Alex Steffen, [Worldchanging](http://web.archive.org/web/20121205200238/http://www.worldchanging.com/archives/009257.html), 29 December 2008
+
+---
+
+from "[Lazy Dystopias](http://web.archive.org/web/20121205200238/http://www.worldchanging.com/archives/009257.html)," by Alex Steffen, [Worldchanging](http://web.archive.org/web/20121205200238/http://www.worldchanging.com/archives/009257.html), 29 December 2008

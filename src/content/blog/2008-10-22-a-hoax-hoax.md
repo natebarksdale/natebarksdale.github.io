@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2025-03-28T15:31:45Z
+modDatetime: 2025-03-28T16:06:35Z
 title: A hoax hoax
 slug: a-hoax-hoax
 featured: false
@@ -27,4 +27,7 @@ A famous broadcasting hoax reconsidered: it turns out it wasn't particularly eas
 >
 > Yet the media are not as powerful as most think, and the real story behind “The War of the Worlds” is a bit more complex. The panic was neither as widespread nor as serious as many have believed at the time or since
 > Nobody died of fright or was killed in the panic, nor could any suicides be traced to the broadcast. Hospital emergency-room visits did not spike, nor, surprisingly, did calls to the police outside of a select few jurisdictions. The streets were never flooded with a terrified citizenry. Ben Gross, the radio columnist of the New York _Daily News,_ later remembered a “lack of turmoil in front of CBS” that contrasted notably with the crowded, chaotic scene inside the building. Telephone lines in New York City and a few other cities were jammed, as the primitive infrastructure of the era couldn’t handle the load, but it appears that almost all the panic that evening was as ephemeral as the nationwide broadcast itself, and not nearly as widespread. That iconic image of the farmer with a gun, ready to shoot the aliens? It was staged for _Life_ magazine
-> from "[The Hyped Panic Over 'War of the Worlds'](http://web.archive.org/web/20210929012502/http://www.chronicle.com/temp/reprint.php?id=fwn6zpjwm6trlsgy8kjcr6lxrhxffm1w)," by Michael J. Socolow, [ChronicleReview.com](http://web.archive.org/web/20210929012502/http://www.chronicle.com/temp/reprint.php?id=fwn6zpjwm6trlsgy8kjcr6lxrhxffm1w), 24 October 2008 :: via [NYTimes.com Ideas blog](http://ideas.blogs.nytimes.com/2008/10/22/the-myth-of-war-of-the-worlds/)
+
+---
+
+from "[The Hyped Panic Over 'War of the Worlds'](http://web.archive.org/web/20210929012502/http://www.chronicle.com/temp/reprint.php?id=fwn6zpjwm6trlsgy8kjcr6lxrhxffm1w)," by Michael J. Socolow, [ChronicleReview.com](http://web.archive.org/web/20210929012502/http://www.chronicle.com/temp/reprint.php?id=fwn6zpjwm6trlsgy8kjcr6lxrhxffm1w), 24 October 2008 :: via [NYTimes.com Ideas blog](http://ideas.blogs.nytimes.com/2008/10/22/the-myth-of-war-of-the-worlds/)

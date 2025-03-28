@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-08
-modDatetime: 2025-03-28T15:31:44Z
+modDatetime: 2025-03-28T16:06:35Z
 title: Oktoberlost
 slug: oktoberlost
 featured: false
@@ -27,4 +27,7 @@ Insight into the cultural world of Munich's Oktoberfest, via its lost and found 
 > For those who haven’t, a look at the lost and found register evokes the raucous celebrations
 > Members of staff found 680 identity cards and passports, 410 wallets, 360 keys, 265 spectacles, 280 mobile phones and 80 cameras, one set of diving goggles, one set of angel’s wings, a superman costume and four wedding rings. A long-haired Dachshund was also found roaming the festival ground, but was later reclaimed by its owner
 > “For the first time, no dentures were found,” the Munich city press department said with a mixture of surprise and disappointment. “Is this a sign of demographic change, good dental hygiene or a higher rate of tooth implants?”
-> from "[End-of-Oktoberfest Statistics: 6.6 Million Liters of Beer, 104 Oxen and No False Teeth](http://www.spiegel.de/international/zeitgeist/0,1518,582509,00.html)," [SPIEGEL ONLINE](http://www.spiegel.de/international/zeitgeist/0,1518,582509,00.html), 6 October 2008 :: via [Polymeme](http://polymeme.com/)
+
+---
+
+from "[End-of-Oktoberfest Statistics: 6.6 Million Liters of Beer, 104 Oxen and No False Teeth](http://www.spiegel.de/international/zeitgeist/0,1518,582509,00.html)," [SPIEGEL ONLINE](http://www.spiegel.de/international/zeitgeist/0,1518,582509,00.html), 6 October 2008 :: via [Polymeme](http://polymeme.com/)

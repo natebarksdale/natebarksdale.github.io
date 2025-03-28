@@ -10,7 +10,7 @@ description: Explore how cultural evolution shapes societies and predicts future
 emoji: 🌍
 tags:
   - 🧬 Genetics
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🦁 Africa
   - 🌀 Templeton
   - 🌍 Culture

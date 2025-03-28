@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-05
-modDatetime: 2025-03-28T15:32:06Z
+modDatetime: 2025-03-28T16:06:44Z
 title: Medieval helpdesk
 slug: medieval-helpdesk
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: A humorous reflection on the challenges of cultural products in the modern tech landscape, reminiscent of bygone debates on books and technology.
 emoji: 🎭
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📖 Books

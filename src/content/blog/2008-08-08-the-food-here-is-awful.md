@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-28T15:31:38Z
+modDatetime: 2025-03-28T16:06:32Z
 title: “The food here is awful!”
 slug: the-food-here-is-awful
 featured: false
@@ -29,4 +29,7 @@ Sudhir Venkatesh takes a millionaire on a quest for philanthropic education for 
 > Curtis laughed. He asked Michael if he’d like some chicken and beans. Michael said, “No thank you,” and sat on the cold linoleum floor. He was silent
 > “How much does a banana cost,” Curtis asked Michael. Michael looked embarrassed, unable to answer
 > “You don’t know, do you!” Curtis laughed. “See fruit is expensive; raw food is too much for low income people. And we don’t always have a fridge, so you got to keep things in cans. That way it can move with you. And one thing you need to know: low income people _always_ are on the move — not just squatters, all low income folks.”
-> from "[Michael, Meet Curtis: Philanthropy Gets Personal](http://freakonomics.blogs.nytimes.com/2008/08/06/michael-meet-curtis-philanthropy-gets-personal/)", by Sudhir Venkatesh, [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com//), 6 August 2008
+
+---
+
+from "[Michael, Meet Curtis: Philanthropy Gets Personal](http://freakonomics.blogs.nytimes.com/2008/08/06/michael-meet-curtis-philanthropy-gets-personal/)", by Sudhir Venkatesh, [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com//), 6 August 2008

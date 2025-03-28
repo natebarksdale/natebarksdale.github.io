@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: Tokyo vintage
 slug: tokyo-vintage
 featured: false
@@ -26,4 +26,7 @@ I guess the transcontinental vintage clothing trade counts as a form of cultivat
 >
 > The story is credible for the simple reason that Tokyo has now reached a point where it’s safe to call it Planet Vintage. Among the 400-plus shops scattered over the city, myths like this abound
 > The good news is that it’s not all rumor and folklore - according to a fashion stylist, Keiko Okura, “the quality of Tokyo vintage products are unmatched.”
-> from "[Toyko hones its vintage clothing market](https://www.google.com/search?q=%22Toyko%20hones%20its%20vintage%20clothing%20market%22%20iht.com)," by Kaori Shoji, [_International Herald-Tribune_](https://www.google.com/search?q=%22_International%20Herald-Tribune_%22%20iht.com), 18 August 2008
+
+---
+
+from "[Toyko hones its vintage clothing market](https://www.google.com/search?q=%22Toyko%20hones%20its%20vintage%20clothing%20market%22%20iht.com)," by Kaori Shoji, [_International Herald-Tribune_](https://www.google.com/search?q=%22_International%20Herald-Tribune_%22%20iht.com), 18 August 2008

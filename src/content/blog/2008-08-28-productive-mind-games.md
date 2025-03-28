@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-28T15:31:40Z
+modDatetime: 2025-03-28T16:06:34Z
 title: Productive mind games
 slug: productive-mind-games
 featured: false
@@ -27,4 +27,7 @@ More news from the exciting (really!) field of Behavioral Economics
 >
 > _Stop compulsive gambling._ Over the past decade, several states, including Illinois, Indiana, and Missouri, have enacted laws enabling gambling addicts to put themselves on a list that bans them from entering casinos or collecting gambling winnings. The underlying thought is that many people who have self-control problems are aware of their shortcomings and want to overcome them. Sometimes recreational gamblers can do this on their own or with their friends; sometimes private institutions can help them. But addicted gamblers might do best if they have a way to enlist the support of the state
 > _Dollar a day._ Teenage pregnancy is a serious problem, and girls who have one child, at, say, 18, often become pregnant again within a year or two. Several cities, including Greensboro, North Carolina, have experimented with a “dollar-a-day” program, by which teenage girls with a baby receive a dollar for each day that they are not pregnant. Thus far the results have been extremely promising. A dollar a day is a trivial amount to the city, even for a year or two, so the plan’s total cost is extremely low, but the small recurring payment is just enough to encourage some teenage mothers to take steps to avoid getting pregnant again. And because taxpayers end up paying a significant amount for many children born to teenagers, the costs appear to be far less than the benefits. Many people are touting “dollar a day” as a model program.
-> from "[Tricking People into Doing the Right Thing](http://web.archive.org/web/20090620065711/http://www.goodmagazine.com:80/section/Provocations/tricking_people_into_doing_the_right_thing1)," by Richard Thaler and Cass Sunstein, [_GOOD Magazine_](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./), 28 August 2008
+
+---
+
+from "[Tricking People into Doing the Right Thing](http://web.archive.org/web/20090620065711/http://www.goodmagazine.com:80/section/Provocations/tricking_people_into_doing_the_right_thing1)," by Richard Thaler and Cass Sunstein, [_GOOD Magazine_](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./), 28 August 2008

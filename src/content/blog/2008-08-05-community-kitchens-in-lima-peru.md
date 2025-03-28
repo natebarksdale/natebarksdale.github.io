@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T15:46:14Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Community kitchens in Lima, Peru
 slug: community-kitchens-in-lima-peru
 featured: false
@@ -30,4 +30,7 @@ This reminds me of the community ovens that I've heard about in North Africa and
 > But this is no charity. Obaldina Quilca and Veronica Zelaya – who are on cooking duty today – are also beneficiaries of one of the estimated 5,000 community kitchens run by women in Peru’s capital, Lima.
 > The kitchens started in the 1970s and persisted through the ‘80s and ‘90s, through dictatorship, terrorism, and hyperinflation that brought Peru to its knees. And now that global food prices have put basic staples out of reach for families across the region, the kitchens that feed an estimated half million residents of metropolitan Lima every day are again providing a refuge.
 > But their work goes well beyond survival; the kitchens have become a vehicle for collective action, giving women the self-esteem to denounce government shortcomings and demand change. They have risen as one of the most significant women’s organizations in Latin America, and today are on the forefront of protests demanding solutions to a cost of living that many say is reversing recent progress in reducing poverty.
-> from "[Peru's women unite in kitchen — and beyond](http://www.csmonitor.com/2008/0729/p01s01-woam.html)," by Sara Miller Llana, [_Christian Science Monitor_](http://www.csmonitor.com/), 28 July 2008 :: via [La Plaza](http://web.archive.org/web/20210421143919/https://latimesblogs.latimes.com/laplaza/2008/07/community-kitch.html)
+
+---
+
+from "[Peru's women unite in kitchen — and beyond](http://www.csmonitor.com/2008/0729/p01s01-woam.html)," by Sara Miller Llana, [_Christian Science Monitor_](http://www.csmonitor.com/), 28 July 2008 :: via [La Plaza](http://web.archive.org/web/20210421143919/https://latimesblogs.latimes.com/laplaza/2008/07/community-kitch.html)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2006-12-01
-modDatetime: 2025-03-28T15:31:34Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Mix CD | Triple Frontera
 slug: mix-cd-triple-frontera
 featured: false
@@ -10,7 +10,7 @@ description: Celebrating the diverse identities and cultural richness of the Tri
 emoji: 🌍
 tags:
   - 💿 Mix CDs
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🧉 South America
   - 🌍 Identity
 haiku: |

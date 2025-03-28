@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-28T15:32:11Z
+modDatetime: 2025-03-28T16:06:46Z
 title: Best. Toys. Ever?
 slug: best-toys-ever
 featured: false
@@ -26,4 +26,7 @@ My old friend Jonathan continues lovingly subverting Wired.com's tech-toy-heavy 
 >
 > First off, playing with Dirt is actually [good for you](http://web.archive.org/web/20250104094506/https://www.nytimes.com/2009/01/27/health/27brod.html). It’s even sort of edible (in the way that Play-doh and crayons are edible). But some studies have shown that kids who play with Dirt have stronger immune systems than those who don’t. So even if it means doing some more laundry (Dirt is notorious for the stains it causes) it might be worth getting your kids some Dirt
 > So what can you do with Dirt? Well, it’s great for digging and piling and making piles. We’ve got a number of outdoor toys in our backyard, but my kids spend most of their time outside just playing with Dirt. Use it with [Stick](https://www.google.com/search?q=%22Stick%22) as a large-format ephemeral art form. (didn’t I tell you how versatile Stick was?) Dirt makes a great play surface for toy trucks and cars. Need something a little gloopier? Just add water and—presto!—you’ve got Mud!
-> from "[The 5 Best Toys of All Time](http://web.archive.org/web/20140301111836/http://www.wired.com:80/geekdad/2011/01/the-5-best-toys-of-all-time/all/1)," by Jonathan Liu, [Wired.com's Geekdad](http://web.archive.org/web/20140301111836/http://www.wired.com:80/geekdad/2011/01/the-5-best-toys-of-all-time/all/1), 31 January 2011
+
+---
+
+from "[The 5 Best Toys of All Time](http://web.archive.org/web/20140301111836/http://www.wired.com:80/geekdad/2011/01/the-5-best-toys-of-all-time/all/1)," by Jonathan Liu, [Wired.com's Geekdad](http://web.archive.org/web/20140301111836/http://www.wired.com:80/geekdad/2011/01/the-5-best-toys-of-all-time/all/1), 31 January 2011

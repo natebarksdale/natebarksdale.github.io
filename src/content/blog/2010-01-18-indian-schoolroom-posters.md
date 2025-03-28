@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-18
-modDatetime: 2025-03-28T15:32:05Z
+modDatetime: 2025-03-28T16:06:43Z
 title: Indian schoolroom posters
 slug: indian-schoolroom-posters
 featured: false
@@ -10,7 +10,7 @@ description: "Reflecting on the curious and vibrant world of Indian educational 
 emoji: 🏫
 tags:
   - ✨ Wonder
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Identity

@@ -10,7 +10,7 @@ description: A reflection on the evolution of language and the inclusion of new 
 emoji: 📜
 tags:
   - ✨ Wonder
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 📝 Writing
   - 🌐 Blogging

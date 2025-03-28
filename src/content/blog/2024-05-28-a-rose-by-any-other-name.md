@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-05-28
-modDatetime: 2025-03-28T15:32:18Z
+modDatetime: 2025-03-28T16:06:47Z
 title: A Rose By Any Other Name
 slug: a-rose-by-any-other-name
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: Explore how a groundbreaking study using paint chips reveals universal patterns in how cultures distinguish colors.
 emoji: 🎨
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🎨 Colors
   - 📊 Surveys

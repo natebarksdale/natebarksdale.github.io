@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2025-03-28T15:31:44Z
+modDatetime: 2025-03-28T16:06:35Z
 title: Investment instruments with lottery-like qualities
 slug: investment-instruments-with-lottery-like-qualities
 featured: false
@@ -26,4 +26,7 @@ Ah, the two-week gap between when this post was written and this week's [financi
 >
 > Similarly, states could promote and offer more games that appeal to wealthier players, such as Powerball, and not those popular with poorer players, such as instant scratch-off tickets. Another obvious solution, though one that is even less likely to be implemented, would be for the state to increase the payout on the tickets, and perhaps to increase the number of moderate size prizes.
 > Finally, a third option would be for financial institutions to issue investment instruments that have lottery-like qualities (for example, offered in small amounts, available at many convenient points of purchase, provide a small chance of a large upside) but offer a positive rate of return, providing the pleasure of playing the lottery without the steep cost. In many other countries "prize bonds" or other savings instruments are available that pay lottery winnings in place of, or in addition to, regular interest. Regulations in the United States have stymied the development of such offerings.
-> from "[Lotteries](http://web.archive.org/web/20101213021355/http://scienceblogs.com:80/cortex/2008/09/lotteries_1.php)," by Jonah Lehrer (interviewing George Loewenstein), [The Frontal Cortex](http://web.archive.org/web/20101213021355/http://scienceblogs.com:80/cortex/2008/09/lotteries_1.php), 15 September 2008 :: via Ben
+
+---
+
+from "[Lotteries](http://web.archive.org/web/20101213021355/http://scienceblogs.com:80/cortex/2008/09/lotteries_1.php)," by Jonah Lehrer (interviewing George Loewenstein), [The Frontal Cortex](http://web.archive.org/web/20101213021355/http://scienceblogs.com:80/cortex/2008/09/lotteries_1.php), 15 September 2008 :: via Ben

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2025-03-28T15:31:38Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Your church home on the range
 slug: your-church-home-on-the-range
 featured: false
@@ -25,4 +25,7 @@ Well since the first setting for worshiping Jesus involved a stable and a manger
 >
 > Some evangelical Christians have questioned whether the churches only offer gimmicks and fail to provide a meaningful spiritual experience
 > But pastors and churchgoers said their services are divinely inspired. Like the suburban megachurches that beckon teenagers with gospel-themed rap and rock music, cowboy sanctuaries promote country-western worship while seeking to attract those who find traditional rural church settings unattractive
-> from "[Where prayers come with a twang](http://web.archive.org/web/20080830085650/http://www.chicagotribune.com/features/religion/chi-cowboy-church-04-aug04,0,1328205.story)," by E.A. Torriero, [_Chicago Tribune_](http://www.chicagotribune.com/), 4 August 2008
+
+---
+
+from "[Where prayers come with a twang](http://web.archive.org/web/20080830085650/http://www.chicagotribune.com/features/religion/chi-cowboy-church-04-aug04,0,1328205.story)," by E.A. Torriero, [_Chicago Tribune_](http://www.chicagotribune.com/), 4 August 2008

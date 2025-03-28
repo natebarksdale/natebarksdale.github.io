@@ -10,7 +10,7 @@ description: A fascinating exploration of endangered click languages and cutting
 emoji: 🗣️
 tags:
   - ⚛️ Physics
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🇿🇦 South Africa
   - 🦁 Africa
   - 🌍 Culture-Making.com

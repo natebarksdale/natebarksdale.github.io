@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T15:31:51Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Africa and missionaries, pt. 1
 slug: africa-and-missionaries-pt-1
 featured: false
@@ -29,4 +29,7 @@ Reading this, I find my usual lines of agreement and objection a bit confounded:
 >
 > I used to avoid this truth by applauding - as you can - the practical work of mission churches in Africa. It's a pity, I would say, that salvation is part of the package, but Christians black and white, working in Africa, do heal the sick, do teach people to read and write; and only the severest kind of secularist could see a mission hospital or school and say the world would be better without it. I would allow that if faith was needed to motivate missionaries to help, then, fine: but what counted was the help, not the faith.
 > But this doesn't fit the facts. Faith does more than support the missionary; it is also transferred to his flock. This is the effect that matters so immensely, and which I cannot help observing.
-> from "[As an atheist, I truly believe Africa needs God](http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article5400568.ece?print=yes&randnum=1230419042141)," by Matthew Parris, [_The Times_](http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article5400568.ece?print=yes&randnum=1230419042141), 27 December 2008 :: thanks Ben!
+
+---
+
+from "[As an atheist, I truly believe Africa needs God](http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article5400568.ece?print=yes&randnum=1230419042141)," by Matthew Parris, [_The Times_](http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article5400568.ece?print=yes&randnum=1230419042141), 27 December 2008 :: thanks Ben!

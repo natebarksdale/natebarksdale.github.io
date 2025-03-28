@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: More than playgrounds
 slug: more-than-playgrounds
 featured: false
@@ -29,4 +29,7 @@ The Boston Schoolyard Initiative aims to transform the city's largely paved-over
 > The teachers on hand during the tour made it easy for visitors to imagine children’s delight in the outdoor classroom at the William Monroe Trotter Elementary School in Boston’s Dorchester neighborhood. Third-grade teacher Christine Whittemore’s face lit up as she explained the concept of the garden she stood in: Corn, beans, and squash all grow in one plot – a “three sisters” garden like the kind the Wampanoag Indians showed to the Pilgrims. It ties in well with social studies lessons, she said
 > The area used to be a vacant, trashy lot and now nurtures plants that attract butterflies. A square wooden pole sports a weather vane and thermometers, so students can correlate temperature to where the sun is
 > “[The kids] sort of recognize this as kind of a special place. They’re quieter, more orderly,” Ms. Whittemore said.
-> from "[Boston's newest classrooms: schoolyards](http://www.csmonitor.com/2008/0820/p03s03-usgn.html)," by Stacy Teicher Khadroo, [_Christian Science Monitor_](http://www.csmonitor.com/), 20 August 2008
+
+---
+
+from "[Boston's newest classrooms: schoolyards](http://www.csmonitor.com/2008/0820/p03s03-usgn.html)," by Stacy Teicher Khadroo, [_Christian Science Monitor_](http://www.csmonitor.com/), 20 August 2008

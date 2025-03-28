@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Getting back to making
 slug: getting-back-to-making
 featured: false
@@ -26,4 +26,7 @@ Lifehacker is probably one of my most-read blogs that doesn't translate into man
 > As the years passed, Lifehacker became my online alter ego, my professional identity, my work and my play. I happily gave up time I'd normally spend on creative side projects to the site, because it was my primary outlet for the two things I love most: software and writing. But as our staff and audience grew, the news chase intensified, and management duties piled up. I started writing and coding less and air traffic-controlling, copy-editing, budgeting, doing PR, and assigning stories to my writers more. While that all has been great experience I am lucky to have under my belt, it's time for me to recalibrate how I'm spending my days. As someone [put well](http://twitter.com/RandySmithCan/status/1102321915), it's time to mitigate the urgent to focus on the important
 >
 > The bottom line is this: for someone who loves making things on the web, spending 100% of the time blogging about what other people are making is simply untenable
-> from "[Letter From The Editor: So Long, and Thanks for All the Fish](http://lifehacker.com/5132674/)," by Gina Trapani, [Lifehacker](http://lifehacker.com/5132674/), 16 January 2009 :: via [Daring Fireball](http://daringfireball.net/linked/2009/01/17/gina-trapani)
+
+---
+
+from "[Letter From The Editor: So Long, and Thanks for All the Fish](http://lifehacker.com/5132674/)," by Gina Trapani, [Lifehacker](http://lifehacker.com/5132674/), 16 January 2009 :: via [Daring Fireball](http://daringfireball.net/linked/2009/01/17/gina-trapani)

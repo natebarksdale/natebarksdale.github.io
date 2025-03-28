@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-04
-modDatetime: 2025-03-28T15:31:41Z
+modDatetime: 2025-03-28T16:06:34Z
 title: Depressed, minority church-going teens
 slug: depressed-minority-church-going-teens
 featured: false
@@ -31,4 +31,7 @@ High church attendance correlates with lower rates of depression—unless, this 
 > Asian-American adolescents who reported high levels of participation in their church had the highest number of depressive symptoms among teens of their race
 > Likewise, Latino adolescents who were highly active in their church were more depressed than their peers who went to church less often. Females of all races and ethnic groups were also more likely to have symptoms of depression than males overall
 > Setting all other factors aside, the results suggest that participating in religion at high levels may be detrimental to some teens because of the tensions they face in balancing the conflicting ideals and customs of their religion with those of mainstream culture, said Richard Petts, co-author of the study, who did the work as a doctoral student in sociology at Ohio State University
-> from "[Participating in religion may make adolescents from certain races more depressed](http://esciencenews.com/articles/2008/09/03/participating.religion.may.make.adolescents.certain.races.more.depressed)," by Jenna McGuire, [Ohio State Research News](http://web.archive.org/web/20160626131342/http://researchnews.osu.edu:80/archive/racerelig.htm), 3 September 2008 :: via [NYTimes.com Freakonomics blog](http://freakonomics.blogs.nytimes.com/2008/09/04/the-freak-est-links-164/)
+
+---
+
+from "[Participating in religion may make adolescents from certain races more depressed](http://esciencenews.com/articles/2008/09/03/participating.religion.may.make.adolescents.certain.races.more.depressed)," by Jenna McGuire, [Ohio State Research News](http://web.archive.org/web/20160626131342/http://researchnews.osu.edu:80/archive/racerelig.htm), 3 September 2008 :: via [NYTimes.com Freakonomics blog](http://freakonomics.blogs.nytimes.com/2008/09/04/the-freak-est-links-164/)

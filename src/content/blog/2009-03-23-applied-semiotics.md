@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2025-03-28T15:31:56Z
+modDatetime: 2025-03-28T16:06:39Z
 title: Applied semiotics
 slug: applied-semiotics
 featured: false
@@ -26,4 +26,7 @@ This reminds me of the time I had to explain "American-style Easter" to a Kenyan
 
 > ![image](http://culture-making.com/media/peeps.jpg)The Easter drugstore aesthetic is not unlike Midwestern casual apparel circa 1987, filled with pastels, baby animals and references to Jesus. Fluffy bunnies and just-hatched chicks come as colouring books, pinwheels, picture frames, candles, barrettes and bobble-head figurines. Manufacturers clearly abide by a simple holiday marketing formula with two primary modes: 1\. Turn symbols into candy;  
 > 2\. Turn candy into symbols.To satisfy the first, we've got chocolate praying hands (three inches high, with attached religious card), an enormous solid chocolate cross, candy cross bracelets, lollipops printed with "He Lives" and chewy candies shaped like sandals, called ["Walking With Jesus" Gummy Treats](https://www.google.com/search?q=%22%22Walking%20With%20Jesus%22%20Gummy%20Treats%22%20orientaltrading.com).The second category includes the usual holiday favourites: carrot-shaped bags of orange M&Ms, foam cartons full of malt-chocolate eggs, hollow chocolate bunnies and [marshmallow Peeps](http://web.archive.org/web/20200112021509/https://www.marshmallowpeeps.com/) in lurid colours. The cutie-pie marshmallows appear to be the most irresistible: Just Born, the company that produces Peeps, reports annual sales of $1.5 billion. There's even a sugar-free version
-> from "[A Night with My Peeps](http://web.archive.org/web/20150919111014/http://moreintelligentlife.com/blog/easter-peeps)," by Molly Young, [More Intelligent Life](http://web.archive.org/web/20150919111014/http://moreintelligentlife.com/blog/easter-peeps), 22 March 2009
+
+---
+
+from "[A Night with My Peeps](http://web.archive.org/web/20150919111014/http://moreintelligentlife.com/blog/easter-peeps)," by Molly Young, [More Intelligent Life](http://web.archive.org/web/20150919111014/http://moreintelligentlife.com/blog/easter-peeps), 22 March 2009

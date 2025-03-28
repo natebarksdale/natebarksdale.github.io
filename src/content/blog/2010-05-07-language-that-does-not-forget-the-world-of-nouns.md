@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-07
-modDatetime: 2025-03-28T15:32:09Z
+modDatetime: 2025-03-28T16:06:45Z
 title: Language that does not forget the world of nouns
 slug: language-that-does-not-forget-the-world-of-nouns
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: Sven Birkerts reflects on the enduring value of novels in a digital age where concentration is a challenge to be fought for.
 emoji: 📚
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📝 Writing
@@ -24,4 +24,7 @@ coordinates: [42.3601, -71.0589]
 What are novels for, in the age of Google and neuropsychology and what not else? Sven Birkerts takes a long reflective stab at the question. His conclusions are tentative but nonetheless resonant: "Concentration is no longer a given; it has to be strategized, fought for. But when it is achieved it can yield experiences that are more rewarding for being singular and hard-won
 
 > What thou lovest well remains—and for me it is language in this condition of alert, sensuous precision, language that does not forget the world of nouns. I’m thinking that one part of this project will need to be a close reading of and reflection upon certain passages that are for me certifiably great. I have to find occasion to ask—and examine closely—what happens when a string of words gets something exactly right
-> from "[Reading in a Digital Age](https://www.google.com/search?q=%22Reading%20in%20a%20Digital%20Age%22%20theamericanscholar.org)," by Sven Birkerts, [_The American Scholar_](http://web.archive.org/web/20250124173432/https://theamericanscholar.org/reading-in-a-digital-age/), Spring 2010 :: via [languagehat](http://www.languagehat.com/archives/003858.php)
+
+---
+
+from "[Reading in a Digital Age](https://www.google.com/search?q=%22Reading%20in%20a%20Digital%20Age%22%20theamericanscholar.org)," by Sven Birkerts, [_The American Scholar_](http://web.archive.org/web/20250124173432/https://theamericanscholar.org/reading-in-a-digital-age/), Spring 2010 :: via [languagehat](http://www.languagehat.com/archives/003858.php)

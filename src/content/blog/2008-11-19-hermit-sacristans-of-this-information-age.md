@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-28T15:31:47Z
+modDatetime: 2025-03-28T16:06:36Z
 title: Hermit-sacristans of this information age
 slug: hermit-sacristans-of-this-information-age
 featured: false
@@ -27,4 +27,7 @@ It's easy to think of the hermit as someone who chooses to remove themselves fro
 >
 > “Merton’s model of the hermit life does not exhaust the phenomenon within Western Christianity. Historically speaking, the hermit life was embraced by far more people than the limited number of professed monks whose spiritual growth had taken them beyond the life of the [coenobium](https://www.google.com/search?q=%22coenobium%22%20saints.sqpn.com). For example, hermit shrine keepers were numerous throughout Christian cultures for centuries; most of these were simple laity without whom many pilgrimage sites would simply not have existed, and their identity has not yet found a modern voice. The massively popular pilgrimage churches of traditional Catholicism had at their heart the hermit-sacristan who tended the lamps and swept the floors. The professed hermit monk, the monastic hermit order, and the shrine hermit all found expression in the legal and the architectural boundaries of medieval and early modern societies.”
 > Perhaps lay bloggers, photographers, and Wikipedists can be considered the hermit-sacristans of this information age, quietly tending our quirky little shrines that attract pilgrims who seek to escape the self-referential obsessions of the cloistered academies and the hourly tolling of alarm bells from the cathedrals of the major media
-> from "[On the Vital Role of Hermits](http://faroutliers.blogspot.com/2008/11/on-vital-role-of-hermits.html)," by Joel, [Far Outliers](http://faroutliers.blogspot.com/2008/11/on-vital-role-of-hermits.html), 15 November 2008
+
+---
+
+from "[On the Vital Role of Hermits](http://faroutliers.blogspot.com/2008/11/on-vital-role-of-hermits.html)," by Joel, [Far Outliers](http://faroutliers.blogspot.com/2008/11/on-vital-role-of-hermits.html), 15 November 2008

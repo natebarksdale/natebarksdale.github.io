@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-28T15:31:37Z
+modDatetime: 2025-03-28T16:06:32Z
 title: The wonder (and scandal) of conversion
 slug: the-wonder-and-scandal-of-conversion
 featured: false
@@ -10,7 +10,7 @@ description: An exploration of the complex nature of conversion and identity, il
 emoji: 🕊️
 tags:
   - ✨ Wonder
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🇨🇳 China
   - 🌍 Culture-Making.com
   - ⛪ Religion
@@ -31,4 +31,7 @@ Of course, as the second half of the article notes, conversion is not always so 
 >
 > For people of an artistic bent, the catalyst is often a religious image which serves as a window into a new reality. One recurring theme in conversion stories is that cultural forms which are, on the face of it, foreign to the convert somehow feel familiar, like a homecoming. That, the convert feels, “is what I have always believed without being fully aware of it.”
 > Take Jennie Baker, an ethnic Chinese nurse who moved from Malaysia to England. She was an evangelical, practising but not quite satisfied with a Christianity that eschews aids to worship such as pictures, incense or elaborate rites. When she first walked into an Orthodox church, and took in the icons that occupied every inch of wall-space, everything in this “new” world made sense to her, and some teachings, like the idea that every home should have a corner for icons and prayer, resonated with her Asian heritage. Soon she and her English husband helped establish a Greek Orthodox parish in Lancashire.
-> from "[The moment of truth](http://www.economist.com/displayStory.cfm?story_id=11784873)," [_The Economist_](http://www.economist.com/displayStory.cfm?story_id=11784873), 24 July 2008
+
+---
+
+from "[The moment of truth](http://www.economist.com/displayStory.cfm?story_id=11784873)," [_The Economist_](http://www.economist.com/displayStory.cfm?story_id=11784873), 24 July 2008

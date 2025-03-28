@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-24
-modDatetime: 2025-03-28T15:31:56Z
+modDatetime: 2025-03-28T16:06:40Z
 title: Babel bubbles
 slug: babel-bubbles
 featured: false
@@ -10,7 +10,7 @@ description: An exploration of linguistic expressions for incomprehensibility ac
 emoji: 🌐
 tags:
   - ✡️ Judaism
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🇨🇳 China
   - 🌍 Culture-Making.com
   - 🌍 Culture

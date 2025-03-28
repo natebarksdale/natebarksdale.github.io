@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-07
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: Getting beyond “I don’t know”
 slug: getting-beyond-i-dont-know
 featured: false
@@ -28,4 +28,7 @@ Earlier today in Kenya, my friend Megan hosted the Nairobi launch party for her 
 >
 > When I worked for five years with former street children, our organization’s biggest costs per child were bread and sanitary pads. I realized this was a national problem, that girls across the country went through horrible things during their periods
 > This to me was a question of social justice. The poverty that mires 64% of Kenyans is unjust. To allow girls and their future families to sink further into poverty because they lack the funds necessary to stem the flow of their monthly menstruation and sit out of school four days a month—I cannot be the person who knows but remains on the sidelines. I believe the words of my high school mentor, Denise Fuller, who said, “the easiest words for someone to say are ‘I don’t know’. Because, once we know, we are required to do something.”
-> from a [blog post](https://www.google.com/search?q=%22blog%20post%22%20zanaafrica.org) by Megan White, [ZanaA :: Tools for Transformation](https://www.google.com/search?q=%22ZanaA%20%3A%3A%20Tools%20for%20Transformation%22%20zanaafrica.org), 10 September, 2008
+
+---
+
+from a [blog post](https://www.google.com/search?q=%22blog%20post%22%20zanaafrica.org) by Megan White, [ZanaA :: Tools for Transformation](https://www.google.com/search?q=%22ZanaA%20%3A%3A%20Tools%20for%20Transformation%22%20zanaafrica.org), 10 September, 2008

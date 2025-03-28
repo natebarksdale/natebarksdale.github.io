@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-12
-modDatetime: 2025-03-28T15:32:09Z
+modDatetime: 2025-03-28T16:06:45Z
 title: Subtleties
 slug: subtleties
 featured: false
@@ -12,7 +12,7 @@ tags:
   - ✨ Wonder
   - 🧪 Chemistry
   - 📺 Television
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - ✍️ Translation
   - 🎥 Film

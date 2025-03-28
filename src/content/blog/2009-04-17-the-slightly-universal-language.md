@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-17
-modDatetime: 2025-03-28T15:31:57Z
+modDatetime: 2025-03-28T16:06:40Z
 title: The slightly universal language?
 slug: the-slightly-universal-language
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: A study reveals the nuanced relationship between music and emotion across cultures, highlighting its effectiveness in conveying feelings with some limitations.
 emoji: 🎶
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🦁 Africa
   - 🌍 Culture-Making.com
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-28T15:31:36Z
+modDatetime: 2025-03-28T16:06:32Z
 title: It takes a village to ruin a country
 slug: it-takes-a-village-to-ruin-a-country
 featured: false
@@ -28,4 +28,7 @@ A story that ran a couple of weeks ago, nearer the high-point of Zimbabwe's gove
 >
 > Then Mugabe told the gathering he planned to give up power in a televised speech to the nation the next day, according to the written notes of one participant that were corroborated by two other people with direct knowledge of the meeting
 > But Zimbabwe’s military chief, Gen. Constantine Chiwenga, responded that the choice was not Mugabe’s alone to make. According to two firsthand accounts of the meeting, Chiwenga told Mugabe his military would take control of the country to keep him in office or the president could contest a runoff election, directed in the field by senior army officers supervising a military-style campaign against the opposition
-> from "[Inside Mugabe's Violent Crackdown](http://web.archive.org/web/20230601024558/https://www.washingtonpost.com/wp-dyn/content/article/2008/07/04/AR2008070402771.html)," by Craig Timberg, [_The Washington Post_](http://web.archive.org/web/20250210152953/https://www.washingtonpost.com/), 5 July 2008
+
+---
+
+from "[Inside Mugabe's Violent Crackdown](http://web.archive.org/web/20230601024558/https://www.washingtonpost.com/wp-dyn/content/article/2008/07/04/AR2008070402771.html)," by Craig Timberg, [_The Washington Post_](http://web.archive.org/web/20250210152953/https://www.washingtonpost.com/), 5 July 2008

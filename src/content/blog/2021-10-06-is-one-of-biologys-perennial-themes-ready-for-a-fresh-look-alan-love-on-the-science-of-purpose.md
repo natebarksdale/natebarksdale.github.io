@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-10-06
-modDatetime: 2025-03-28T15:32:16Z
+modDatetime: 2025-03-28T16:06:46Z
 title: Is One of Biology’s Perennial Themes Ready For a Fresh Look? Alan Love on the Science of Purpose.
 slug: is-one-of-biologys-perennial-themes-ready-for-a-fresh-look-alan-love-on-the-science-of-purpose
 featured: false
@@ -10,7 +10,7 @@ description: University of Minnesota philosopher Alan Love studies the interplay
 emoji: 🔬
 tags:
   - 🦠 Biology
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🧬 Biology
   - 🌍 Evolution

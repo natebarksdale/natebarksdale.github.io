@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T15:31:34Z
+modDatetime: 2025-03-28T16:06:31Z
 title: All-the-way House
 slug: all-the-way-house
 featured: false
@@ -28,4 +28,7 @@ A Hollywood take on aftercare—and a pretty inspring one at that
 >
 > What she chooses is to provide the kids at her shelter with the closest thing to a comfortable middle-class childhood that they have ever had. All of their needs are met, and many of their desires as well. They are flown into Los Angeles from all over the country, and delivered to the shelter in a cab. Upon their arrival, kids are assigned a semi-private bedroom, and issued either a CD player or a DVD player.
 > First, Children of the Night takes care of the basics: each girl is assigned a caseworker. She is sent to a doctor for a full physical, to an off-site therapist, to a dentist. She is also enrolled in school, which is right on-site, and fully accredited. Residents at COTN get haircuts and manicures at high-end salons that volunteer their services. They attend workshops, where professionals drop in to teach them photography, yoga, meditation, acting, screenwriting, and dance.
-> from [All-the-way House](http://web.archive.org/web/20090228171414/http://www.goodmagazine.com:80/section/Features/all-the-way_house), by Kimberley Sevik, [Good Magazine](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./)
+
+---
+
+from [All-the-way House](http://web.archive.org/web/20090228171414/http://www.goodmagazine.com:80/section/Features/all-the-way_house), by Kimberley Sevik, [Good Magazine](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./)

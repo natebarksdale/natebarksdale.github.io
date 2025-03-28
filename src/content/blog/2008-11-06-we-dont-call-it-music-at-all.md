@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -34,4 +34,7 @@ A prescient projection of cultural change, from Edward Bellamy's late-19th-centu
 > ‘To me!’ she exclaimed, laughing. ‘Did you think I was going to play or sing to you?’
 > ‘I hoped so, certainly,’ I replied
 > Seeing that I was a little abashed, she subdued her merriment and explained. ‘Of course, we all sing nowadays as a matter of course in the training of the voice, and some learn to play instruments for their private amusement; but the professional music is so much grander and more perfect than any performance of ours, and so easily commanded when we wish to hear it, that we don’t think of calling our singing or playing music at all.
-> from _[Looking Backward, 2000-1887](http://books.google.com/books?id=oVQLAAAAIAAJ&printsec=frontcover&dq=bellamy+looking+backward&ei=ovwRSb_WHIPWsgOn95WgDw#PPA87,M1),_ by Edward Bellamy, 1887 :: via [_The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933_](http://books.google.com/books?id=7jvtvGbatv4C&printsec=frontcover&dq=soundscape+of+modernity&ei=9f4RSdJagYKyA9v-xYgE), by Emily Thompson
+
+---
+
+from _[Looking Backward, 2000-1887](http://books.google.com/books?id=oVQLAAAAIAAJ&printsec=frontcover&dq=bellamy+looking+backward&ei=ovwRSb_WHIPWsgOn95WgDw#PPA87,M1),_ by Edward Bellamy, 1887 :: via [_The Soundscape of Modernity: Architectural Acoustics and the Culture of Listening in America, 1900–1933_](http://books.google.com/books?id=7jvtvGbatv4C&printsec=frontcover&dq=soundscape+of+modernity&ei=9f4RSdJagYKyA9v-xYgE), by Emily Thompson

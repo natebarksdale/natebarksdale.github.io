@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-02-24
-modDatetime: 2025-03-28T15:32:16Z
+modDatetime: 2025-03-28T16:06:46Z
 title: $2.9 Million to Globalize the Philosophy of Religion
 slug: 2-9-million-to-globalize-the-philosophy-of-religion
 featured: false
@@ -10,7 +10,7 @@ description: Amplifying new voices and uncovering important scholarship beyond t
 emoji: 🌍
 tags:
   - ✡️ Judaism
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - ⛪ Religion
   - ✍️ Translation

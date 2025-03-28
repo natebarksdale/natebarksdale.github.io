@@ -9,7 +9,7 @@ draft: False
 description: A word-by-word look at how we learn languages — and how we may change them in the process
 emoji: 🧠
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🎨 Creativity
   - 🗣️ Language

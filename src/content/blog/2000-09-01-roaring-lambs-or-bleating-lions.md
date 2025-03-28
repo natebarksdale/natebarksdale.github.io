@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2000-09-01
-modDatetime: 2025-03-28T15:31:33Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Roaring Lambs or bleating lions?
 slug: roaring-lambs-or-bleating-lions
 featured: false
@@ -11,7 +11,7 @@ emoji: 🎶
 tags:
   - 📺 Television
   - 📖 Bible
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🇿🇦 South Africa
   - 🥑 Central America

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Beyond Bollywood - Shillong’s love affair with western music
 slug: beyond-bollywood-shillongs-love-affair-with-western-music
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: Reflecting the rich musical heritage of Shillong, where rock and gospel blend seamlessly in a unique cultural tapestry.
 emoji: 🎶
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - ⛪ Religion
   - 🌍 Culture
@@ -28,4 +28,7 @@ Many of the early missionaries to this corner of NE India were Welsh — I suspe
 > On Mr. Dylan’s birthday weekend a visitor could drive down a narrow, rain-soaked road and hear young men with guitars serenading, or stumble upon thousands gathered under a Christian revival tent, singing modern gospel in their native Khasi. On a football field, at twilight, you might be pulled into a mosh pit of teenagers dancing to a Naga tribal blues guitarist, or on a Sunday morning find schoolchildren in a chorus of 19th-century hymns in a prim Presbyterian church
 > “God has given us a special gift — the gift of singing,” marveled the Rev. J. Fortis Jyrwa of the Khasi Jaintia Presbyterian Assembly here
 > Many theories are offered for Shillong’s fascination with rock and the blues. Some argue that the area’s indigenous Khasi traditions are deeply rooted in song and rhyme. Some credit the 19th-century Christian missionaries who came from Britain and the United States, introduced the English language, hymns and gospel music and in turn made the heart ripe for rock. Some say the northeast, remote and in many pockets, gripped by anti-Indian separatist movements, has not been as saturated by Hindi film music as the rest of India.
-> from "[Town in India Rocks (No Use to Wonder Why, Babe)](http://web.archive.org/web/20230603024640/http://www.nytimes.com/2008/06/23/arts/music/23dylan.html)," by Somini Sengupta, [_The New York Times_](http://www.nytimes.com/), 23 June 2008
+
+---
+
+from "[Town in India Rocks (No Use to Wonder Why, Babe)](http://web.archive.org/web/20230603024640/http://www.nytimes.com/2008/06/23/arts/music/23dylan.html)," by Somini Sengupta, [_The New York Times_](http://www.nytimes.com/), 23 June 2008

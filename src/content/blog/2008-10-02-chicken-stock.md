@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-28T15:31:44Z
+modDatetime: 2025-03-28T16:06:35Z
 title: Chicken stock
 slug: chicken-stock
 featured: false
@@ -24,4 +24,7 @@ Andy Warhol—who along with being a painter of soup cans was a volunteer at sou
 > [Campbell Soup Co.](http://finance.yahoo.com/q?s=CPB) was the only stock in the S&P 500 that escaped yesterday’s historic sell-off. That’s right: 499 fell, and just one rose
 >
 > Could there be a clearer metaphor for Americans refocusing on the basics after a decade of greed and excess?
-> from "[Goodbye 1 Billion Salary Hello Campbell Soup](http://finance.yahoo.com/tech-ticker/article/81526/Goodbye-1-Billion-Salary-Hello-Campbell-Soup?tickers=^dji,^gspc,^ixic,cpb)," by Henry Blodget, [Yahoo! Finance](http://finance.yahoo.com/tech-ticker/article/81526/Goodbye-1-Billion-Salary-Hello-Campbell-Soup?tickers=^dji,^gspc,^ixic,cpb), 30 September 2008 :: via [The .plan](http://jamesjchoi.blogspot.com/2008/09/countercyclical-stock.html)
+
+---
+
+from "[Goodbye 1 Billion Salary Hello Campbell Soup](http://finance.yahoo.com/tech-ticker/article/81526/Goodbye-1-Billion-Salary-Hello-Campbell-Soup?tickers=^dji,^gspc,^ixic,cpb)," by Henry Blodget, [Yahoo! Finance](http://finance.yahoo.com/tech-ticker/article/81526/Goodbye-1-Billion-Salary-Hello-Campbell-Soup?tickers=^dji,^gspc,^ixic,cpb), 30 September 2008 :: via [The .plan](http://jamesjchoi.blogspot.com/2008/09/countercyclical-stock.html)

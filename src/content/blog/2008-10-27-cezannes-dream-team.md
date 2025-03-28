@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-28T15:31:45Z
+modDatetime: 2025-03-28T16:06:36Z
 title: Cezanne’s dream team
 slug: cezannes-dream-team
 featured: false
@@ -27,4 +27,7 @@ I've seen this article cited in a number of blogs this past week; generally the 
 > But for Zola, Cézanne would have remained an unhappy banker’s son in Provence; but for Pissarro, he would never have learned how to paint; but for Vollard (at the urging of Pissarro, Renoir, Degas, and Monet), his canvases would have rotted away in some attic; and, but for his father, Cézanne’s long apprenticeship would have been a financial impossibility. That is an extraordinary list of patrons. The first three—Zola, Pissarro, and Vollard—would have been famous even if Cézanne never existed, and the fourth was an unusually gifted entrepreneur who left Cézanne four hundred thousand francs when he died. Cézanne didn’t just have help. He had a dream team in his corner
 >
 > This is the final lesson of the late bloomer: his or her success is highly contingent on the efforts of others
-> from "[Annals of Culture: Late Bloomers](http://www.newyorker.com/reporting/2008/10/20/081020fa_fact_gladwell?currentPage=all)," by Malcom Gladwell, [_The New Yorker_](http://www.newyorker.com/reporting/2008/10/20/081020fa_fact_gladwell?currentPage=all), 20 October 2008
+
+---
+
+from "[Annals of Culture: Late Bloomers](http://www.newyorker.com/reporting/2008/10/20/081020fa_fact_gladwell?currentPage=all)," by Malcom Gladwell, [_The New Yorker_](http://www.newyorker.com/reporting/2008/10/20/081020fa_fact_gladwell?currentPage=all), 20 October 2008

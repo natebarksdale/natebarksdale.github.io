@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Rich objects
 slug: rich-objects
 featured: false
@@ -28,4 +28,7 @@ On cultural artifacts, the science of child development, and the child's develop
 > Since this was the early days of computer culture, there was also talk of new objects. Some people identified with their computers, experiencing these machines as extensions of themselves. For them, computers were useful for thinking about larger questions, questions of determinism and free will, of mind and mechanism ..
 > Objects don’t nudge every child toward science, but for some, a rich object world is the best way to give science a chance. Given the opportunity, children will make intimate connections, connections they must construct on their own ..
 > If we attend to young scientists’ romance with objects, we are encouraged to make children comfortable with the idea that falling in love with things is part of what we expect of them. We are encouraged to introduce the periodic table as poetry and LEGOs as a form of art
-> from "[The Romance of Objects](http://www.seedmagazine.com/news/2009/01/sherry_turkle_on_the_romance_o.php)," by Sherry Turkle, [_Seed_](http://www.seedmagazine.com/news/2009/01/sherry_turkle_on_the_romance_o.php), 9 January 2009
+
+---
+
+from "[The Romance of Objects](http://www.seedmagazine.com/news/2009/01/sherry_turkle_on_the_romance_o.php)," by Sherry Turkle, [_Seed_](http://www.seedmagazine.com/news/2009/01/sherry_turkle_on_the_romance_o.php), 9 January 2009

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-10-22
-modDatetime: 2025-03-28T15:32:18Z
+modDatetime: 2025-03-28T16:06:47Z
 title: Wise Guise
 slug: wise-guise
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: People have been debating what counts as wisdom for a long, long time. Indeed, arguably the oldest literature we have is wisdom literature.
 emoji: 🧠
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 💡 Wisdom
   - 🌍 Culture

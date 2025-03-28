@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-08
-modDatetime: 2025-03-28T15:32:02Z
+modDatetime: 2025-03-28T16:06:42Z
 title: And the universal language is ... field hockey
 slug: and-the-universal-language-is-field-hockey
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: "Having watched 'Chak De! India' recently, I found it an entertaining take on the sports underdog narrative, enriched by its cultural nuances."
 emoji: 🏑
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Diversity

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-08-16
-modDatetime: 2025-03-28T15:32:16Z
+modDatetime: 2025-03-28T16:06:46Z
 title: India’s Patchwork Pluralism
 slug: indias-patchwork-pluralism
 featured: false
@@ -10,7 +10,7 @@ description: A groundbreaking nationwide survey explores what Indians believe ab
 emoji: 🧩
 tags:
   - 💡 Design
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🌍 Society
   - ⛪ Religion

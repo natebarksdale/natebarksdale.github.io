@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-02-18
-modDatetime: 2025-03-28T15:32:11Z
+modDatetime: 2025-03-28T16:06:46Z
 title: Citation Needed
 slug: citation-needed
 featured: false
@@ -11,7 +11,7 @@ emoji: 📖
 tags:
   - ✨ Wonder
   - 💡 Design
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🧉 South America
   - 🦁 Africa

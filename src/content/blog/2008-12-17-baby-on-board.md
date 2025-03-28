@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-17
-modDatetime: 2025-03-28T15:31:50Z
+modDatetime: 2025-03-28T16:06:38Z
 title: Baby on board
 slug: baby-on-board
 featured: false
@@ -29,4 +29,7 @@ Here's an innovative approach to creating lifesaving medical equipment that can 
 > In truth, experts say, the developing world doesn’t need more incubators. It needs incubators that work. Over the years, thousands have been donated from rich nations, only to end up in “incubator graveyards” — most broken, some never opened. According to a 2007 study from Duke University, 96 percent of foreign-donated medical equipment fails within five years of donation — mostly because of electrical problems, like voltage surges or brownouts or broken knobs, or because of training problems, like neglecting to send user manuals along with the devices
 > To compensate for this philanthropic shortsightedness, medical staffs either crank up the temperature in “incubator rooms” to 100 degrees or more, or swaddle babies in plastic to hold in body heat. Such makeshift solutions led the Boston team to ask: How can we make an incubator for the developing world that will get fixed? . .
 > In his discussions with doctors who practice in impoverished settings, Dr. Rosen learned that no matter how remote the locale, there always seemed to be a Toyota 4Runner in working order. It was his “Aha!” moment, he recalled later: Why not make the incubator out of new or used car parts, and teach local auto mechanics to be medical technologists?
-> from "[Looking Under the Hood and Seeing an Incubator](http://web.archive.org/web/20240701231104/https://www.nytimes.com/2008/12/16/health/16incubators.html)," by Madeline Drexler, [NYTimes.com](http://web.archive.org/web/20240701231104/https://www.nytimes.com/2008/12/16/health/16incubators.html), 15 December 2008
+
+---
+
+from "[Looking Under the Hood and Seeing an Incubator](http://web.archive.org/web/20240701231104/https://www.nytimes.com/2008/12/16/health/16incubators.html)," by Madeline Drexler, [NYTimes.com](http://web.archive.org/web/20240701231104/https://www.nytimes.com/2008/12/16/health/16incubators.html), 15 December 2008

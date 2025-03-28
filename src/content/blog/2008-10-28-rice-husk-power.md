@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: Rice husk power
 slug: rice-husk-power
 featured: false
@@ -28,4 +28,7 @@ Here's a cool-sounding example of a company developing for-profit "meso-power" s
 > Rice husk is [cellulosic](http://en.wikipedia.org/wiki/Cellulose), which means it can be heated up and released for energy – the gas released is similar to methane. It also contains silica, which is released as a waste product when burned
 > So, why is this interesting? If you took a map of the world’s energy poor areas and compare it to a map of rice producing areas, these two maps would look nearly identical. So we use husk to make electricity. The gas we make out of the husk is filtered, then run through a diesel-like engine to generate power.
 > Like I said, farmers throw away or burn rice husk – releasing methane into the atmosphere. This is an opportunity too. We’re working with the Indian government on getting our [Clean Development Mechanism](http://en.wikipedia.org/wiki/Clean_Development_Mechanism) certification to sell carbon credits associated with our plants. And the silica – which is the other waste product – is sold to concrete manufacturers. So we take agricultural waste and turn it into electricity, minerals and carbon credits
-> from "[Rice Power to the People With Husk Power Systems](http://web.archive.org/web/20140529090355/http://www.worldchanging.com/archives/008923.html)," by Robert Katz, [WorldChanging](http://web.archive.org/web/20140529090355/http://www.worldchanging.com/archives/008923.html), 28 October 2008
+
+---
+
+from "[Rice Power to the People With Husk Power Systems](http://web.archive.org/web/20140529090355/http://www.worldchanging.com/archives/008923.html)," by Robert Katz, [WorldChanging](http://web.archive.org/web/20140529090355/http://www.worldchanging.com/archives/008923.html), 28 October 2008

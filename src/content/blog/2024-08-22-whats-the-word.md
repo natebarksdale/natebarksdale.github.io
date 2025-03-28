@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-08-22
-modDatetime: 2025-03-28T15:32:18Z
+modDatetime: 2025-03-28T16:06:47Z
 title: What’s the Word?
 slug: whats-the-word
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: How gossip evolved from a term of kinship to a tool for social bonding and information sharing, tracing its journey from Shakespeare to evolutionary psychology.
 emoji: 🗣️
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🗣️ Language
   - 🧘‍♂️ Psychology

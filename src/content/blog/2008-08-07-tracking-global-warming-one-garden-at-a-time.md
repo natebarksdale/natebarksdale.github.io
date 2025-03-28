@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2025-03-28T15:31:38Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Tracking global warming, one garden at a time
 slug: tracking-global-warming-one-garden-at-a-time
 featured: false
@@ -27,4 +27,7 @@ The Internet's so great for taking the observational expertise and puttering pot
 >
 > Though some plant experts already have noticed certain species popping up unseasonably early, gardeners may be ideal for observing the subtle waxing of summers or waning of winters. They fill their plots with plants best suited to the weather, so for many, responding to climate change is simply a matter of common sense
 > “There’s something about being in the dirt that puts things in perspective,” said Gina Garrison of Forest Park, who plans to monitor plants for BudBurst next spring. “Since planting my garden, I’ve looked into climate change more, looked into what would happen.”
-> from "[Local gardeners do their part to record possible 'global weirding](http://web.archive.org/web/20080809175046/http://www.chicagotribune.com:80/features/lifestyle/green/chi-budburst_05aug05,0,3640493.story),'" by Tim De Chant, [_Chicago Tribune_](http://www.chicagotribune.com/), 5 August 2008
+
+---
+
+from "[Local gardeners do their part to record possible 'global weirding](http://web.archive.org/web/20080809175046/http://www.chicagotribune.com:80/features/lifestyle/green/chi-budburst_05aug05,0,3640493.story),'" by Tim De Chant, [_Chicago Tribune_](http://www.chicagotribune.com/), 5 August 2008

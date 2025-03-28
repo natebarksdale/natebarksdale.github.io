@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Edge-notched cards
 slug: edge-notched-cards
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: An exploration of the forgotten art of organizing knowledge through edge-notched cards, a precursor to modern data sorting methods.
 emoji: 📇
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 📚 Archives
   - 📖 Articles

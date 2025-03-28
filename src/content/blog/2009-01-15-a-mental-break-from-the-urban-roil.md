@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-15
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: A mental break from the urban roil
 slug: a-mental-break-from-the-urban-roil
 featured: false
@@ -28,4 +28,7 @@ When I first read the first paragraphs of this, I thought: hmm, this doesn't bod
 > Now scientists have begun to examine how the city affects the brain, and the results are chastening. Just being in an urban environment, they have found, impairs our basic mental processes. After spending a few minutes on a crowded city street, the brain is less able to hold things in memory, and suffers from reduced self-control. While it’s long been recognized that city life is exhausting—that’s why Picasso left Paris—this new research suggests that cities actually dull our thinking, sometimes dramatically so
 > “The mind is a limited machine,"says Marc Berman, a psychologist at the University of Michigan and lead author of a new study that measured the cognitive deficits caused by a short urban walk. “And we’re beginning to understand the different ways that a city can exceed those limitations.”
 > One of the main forces at work is a stark lack of nature, which is surprisingly beneficial for the brain. Studies have demonstrated, for instance, that hospital patients recover more quickly when they can see trees from their windows, and that women living in public housing are better able to focus when their apartment overlooks a grassy courtyard. Even these fleeting glimpses of nature improve brain performance, it seems, because they provide a mental break from the urban roil.
-> from "[How the city hurts your brain](http://web.archive.org/web/20160318031439/http://www.boston.com/bostonglobe/ideas/articles/2009/01/04/how_the_city_hurts_your_brain/)," by Jonah Lerner, [_The Boston Globe_](http://web.archive.org/web/20160318031439/http://www.boston.com/bostonglobe/ideas/articles/2009/01/04/how_the_city_hurts_your_brain/), 2 January 2009 :: via [Crooked Timber](http://crookedtimber.org/2009/01/11/the-metropolis-and-mental-life/)
+
+---
+
+from "[How the city hurts your brain](http://web.archive.org/web/20160318031439/http://www.boston.com/bostonglobe/ideas/articles/2009/01/04/how_the_city_hurts_your_brain/)," by Jonah Lerner, [_The Boston Globe_](http://web.archive.org/web/20160318031439/http://www.boston.com/bostonglobe/ideas/articles/2009/01/04/how_the_city_hurts_your_brain/), 2 January 2009 :: via [Crooked Timber](http://crookedtimber.org/2009/01/11/the-metropolis-and-mental-life/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-28T15:31:38Z
+modDatetime: 2025-03-28T16:06:33Z
 title: DIY country, DIY university
 slug: diy-country-diy-university
 featured: false
@@ -27,4 +27,7 @@ Another example of "if it isn't a colored nation-box on the world map, it doesn'
 > Despite its poverty, Somaliland and the region offer investment opportunities for those brave enough to return
 > Half of Somaliland's cabinet and lawmakers are former refugees who came back mainly from Europe and America. Former refugees have also become small-factory owners or created businesses, for example, in telecommunications
 > Ibrahim has even bigger dreams: he wants to fashion future leaders. "We don't have leaders in our country but we have managers. Our aim is to produce visionary leaders in future who can bring back hope and amalgamate our people. There is a huge appetite for such leadership and we hope to be the source," he said
-> from "[Former refugees launch university in Somaliland](http://www.csmonitor.com/2008/0812/p12s01-woaf.html)," by Hussein Ali Nur and Guled Mohamed, Reuters :: via [csmonitor.com](http://www.csmonitor.com/2008/0812/p12s01-woaf.html)
+
+---
+
+from "[Former refugees launch university in Somaliland](http://www.csmonitor.com/2008/0812/p12s01-woaf.html)," by Hussein Ali Nur and Guled Mohamed, Reuters :: via [csmonitor.com](http://www.csmonitor.com/2008/0812/p12s01-woaf.html)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2025-03-28T15:31:45Z
+modDatetime: 2025-03-28T16:06:35Z
 title: The afterlife of Gordon Gekko
 slug: the-afterlife-of-gordon-gekko
 featured: false
@@ -26,4 +26,7 @@ We can never really predict what the effects, and interpretations, of our cultur
 >
 > A typical example would be a business executive or a younger studio development person spouting something that goes like this: “The movie changed my life. Once I saw it I knew that I wanted to get into such and such business. I wanted to be like Gordon Gekko.”
 > The flattery is disarming and ego-stoking, but then neurons fire and alarm bells go off. “You have succeeded with this movie, but you’ve also failed. You gave these people hope to become greater asses than they may already be.”
-> from "['Wall Street's' message was not 'Greed is Good'](http://web.archive.org/web/20090211214902/http://www.latimes.com:80/entertainment/news/movies/la-ca-wallstreet5-2008oct05,0,478549.story)," by Stanley Weiser, [_Los Angeles Times_](http://web.archive.org/web/20090211214902/http://www.latimes.com:80/entertainment/news/movies/la-ca-wallstreet5-2008oct05,0,478549.story), 5 October 2008 :: via [NYTimes Ideas blog](http://ideas.blogs.nytimes.com/2008/10/19/the-moral-hazard-of-creating-gordon-gekko/)
+
+---
+
+from "['Wall Street's' message was not 'Greed is Good'](http://web.archive.org/web/20090211214902/http://www.latimes.com:80/entertainment/news/movies/la-ca-wallstreet5-2008oct05,0,478549.story)," by Stanley Weiser, [_Los Angeles Times_](http://web.archive.org/web/20090211214902/http://www.latimes.com:80/entertainment/news/movies/la-ca-wallstreet5-2008oct05,0,478549.story), 5 October 2008 :: via [NYTimes Ideas blog](http://ideas.blogs.nytimes.com/2008/10/19/the-moral-hazard-of-creating-gordon-gekko/)

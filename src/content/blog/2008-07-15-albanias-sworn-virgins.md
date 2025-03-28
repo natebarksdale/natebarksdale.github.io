@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Albania’s sworn virgins
 slug: albanias-sworn-virgins
 featured: false
@@ -28,4 +28,7 @@ Interesting example of gender fluidity in a very traditional culture. (Well, per
 >
 > The sworn virgin was born of social necessity in an agrarian region plagued by war and death. If the patriarch of the family died with no male heirs, unmarried women in the family could find themselves alone and powerless. By taking an oath of virginity, women could take on the role of men as head of the family, carry a weapon, own property and move freely
 > They dress like men, adopt a male swagger and spend their lives in the company of other men.
-> from "[Sworn to virginity and living as men in Albania](http://web.archive.org/web/20090303215715/http://iht.com:80/articles/2008/06/23/europe/virgins.php?)", by Dan Bilefsky, [_International Herald-Tribune_](http://www.iht.com), 23 June 2008
+
+---
+
+from "[Sworn to virginity and living as men in Albania](http://web.archive.org/web/20090303215715/http://iht.com:80/articles/2008/06/23/europe/virgins.php?)", by Dan Bilefsky, [_International Herald-Tribune_](http://www.iht.com), 23 June 2008

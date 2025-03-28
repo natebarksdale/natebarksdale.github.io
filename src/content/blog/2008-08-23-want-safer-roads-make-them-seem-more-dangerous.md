@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: Want safer roads? Make them seem more dangerous
 slug: want-safer-roads-make-them-seem-more-dangerous
 featured: false
@@ -28,4 +28,7 @@ Note that when there are fewer traffic signs, suddenly there are more driver (an
 >
 > As I watched the intricate social ballet that occurred as cars and bikes slowed to enter the circle (pedestrians were meant to cross at crosswalks placed a bit before the intersection), Monderman performed a favorite trick. He walked, backward and with eyes closed, into the Laweiplein. The traffic made its way around him. No one honked, he wasn’t struck. Instead of a binary, mechanistic process—stop, go—the movement of traffic and pedestrians in the circle felt human and ­organic
 > A year after the change, the results of this “extreme makeover” were striking: Not only had congestion decreased in the ­intersection—­buses spent less time waiting to get through, for ­example—­but there were half as many accidents, even though total car traffic was up by a third. Students from a local engineering college who studied the intersection reported that both drivers and, unusually, cyclists were using ­signals—­of the electronic or hand ­variety—­more often. They also found, in surveys, that residents, despite the measurable increase in safety, perceived the place to be more dangerous. This was music to Monderman’s ears. If they had not felt less secure, he said, he “would have changed it immediately.”
-> from "[The Traffic Guru](https://www.google.com/search?q=%22The%20Traffic%20Guru%22%20wilsoncenter.org)," by Tom Vanderbilt, [_Wilson Quarterly_](https://www.google.com/search?q=%22_Wilson%20Quarterly_%22%20wilsoncenter.org), Summer 2008 :: via [Boing Boing](http://web.archive.org/web/20240910185040/https://boingboing.net/2008/08/21/profile-of-hans-mond.html)
+
+---
+
+from "[The Traffic Guru](https://www.google.com/search?q=%22The%20Traffic%20Guru%22%20wilsoncenter.org)," by Tom Vanderbilt, [_Wilson Quarterly_](https://www.google.com/search?q=%22_Wilson%20Quarterly_%22%20wilsoncenter.org), Summer 2008 :: via [Boing Boing](http://web.archive.org/web/20240910185040/https://boingboing.net/2008/08/21/profile-of-hans-mond.html)

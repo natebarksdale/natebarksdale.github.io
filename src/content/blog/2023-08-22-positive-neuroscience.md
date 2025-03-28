@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-08-22
-modDatetime: 2025-03-28T15:32:17Z
+modDatetime: 2025-03-28T16:06:47Z
 title: Positive Neuroscience
 slug: positive-neuroscience
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: How our brains are wired for joy, resilience, and well-being.
 emoji: 🧠
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🧠 Neuroscience
   - 🧘‍♂️ Psychology

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-28T15:31:36Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Would I be making a stronger statement with willow?
 slug: would-i-be-making-a-stronger-statement-with-willow
 featured: false
@@ -29,4 +29,7 @@ Real artists ship, dam it!
 > “What do I have to say—as a beaver and as an artist?” he added.
 > After much thought, Messner decided to reconstruct the anterior section of the dam with poplar wood on Tuesday, after he finished “highly necessary” preparatory work chewing the branches into uniform-sized interlocking sticks. Yet such tasks struck fellow lodge members as excessive.
 > “Get to work, get to work, build the dam, build the dam,” Cyril Kyree said as he dragged a number of logs into the shallow lick of river where the rest of the lodge has built their nests. “Chew-chew-chew. Need a mate. Build the dam.”
-> from ”[Beaver Overthinking Dam](http://web.archive.org/web/20100314214908/http://www.theonion.com:80/content/news/beaver_overthinking_dam)”, [_The Onion_](http://www.theonion.com/), 19 April 2006 :: via [3quarksdaily](https://www.google.com/search?q=%223quarksdaily%22%203quarksdaily.com)
+
+---
+
+from ”[Beaver Overthinking Dam](http://web.archive.org/web/20100314214908/http://www.theonion.com:80/content/news/beaver_overthinking_dam)”, [_The Onion_](http://www.theonion.com/), 19 April 2006 :: via [3quarksdaily](https://www.google.com/search?q=%223quarksdaily%22%203quarksdaily.com)

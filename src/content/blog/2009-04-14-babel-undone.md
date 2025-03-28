@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-14
-modDatetime: 2025-03-28T15:31:57Z
+modDatetime: 2025-03-28T16:06:40Z
 title: Babel undone
 slug: babel-undone
 featured: false
@@ -12,7 +12,7 @@ tags:
   - 🌙 Islam
   - ✡️ Judaism
   - 📺 Television
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🇫🇷 France
   - 🇨🇳 China

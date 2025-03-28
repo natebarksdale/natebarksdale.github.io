@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:32Z
 title: Aztec ‘noisemakers’ reconsidered
 slug: aztec-noisemakers-reconsidered
 featured: false
@@ -30,4 +30,7 @@ You gotta love the sort of patience required for endeavors like this
 > Velazquez meticulously researches each noisemaker before replicating it. He travels across Mexico to examine newly unearthed wind instruments, some dating back to 400 B.C. and shaped like animals or deities. He studies reliefs and scans 500-year-old Spanish chronicles
 > But making replicas is only part of the work. Then he has to figure out how to play them. He’ll blow into some holes and plug others, or press the instrument to his lips and flutter his tongue. Sometimes he puts the noisemaker inside his mouth and blows, fluctuating the air from his lungs
 > He experimented with one frog-shaped whistle for a year before discovering its inner croak.
-> from ”[Researchers make noises of pre-Columbian society](https://www.google.com/search?q=%22Researchers%20make%20noises%20of%20pre-Columbian%20society%22%20news.wired.com)”, by Julie Watson, [Wired News/AP](https://www.google.com/search?q=%22Wired%20News/AP%22%20news.wired.com), 29 June 2008
+
+---
+
+from ”[Researchers make noises of pre-Columbian society](https://www.google.com/search?q=%22Researchers%20make%20noises%20of%20pre-Columbian%20society%22%20news.wired.com)”, by Julie Watson, [Wired News/AP](https://www.google.com/search?q=%22Wired%20News/AP%22%20news.wired.com), 29 June 2008

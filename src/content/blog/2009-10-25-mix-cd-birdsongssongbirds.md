@@ -11,7 +11,7 @@ emoji: 🐦
 tags:
   - 💿 Mix CDs
   - 💡 Design
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Ecology
   - 🎶 Activities
   - 🎵 Music

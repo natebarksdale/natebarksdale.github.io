@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-28T15:32:04Z
+modDatetime: 2025-03-28T16:06:42Z
 title: You had me at 'hello'
 slug: you-had-me-at-hello
 featured: false
@@ -10,7 +10,7 @@ description: An exploration of how the word "hello" transcended technology and c
 emoji: 📞
 tags:
   - 🌙 Islam
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🧉 South America
   - 🇫🇷 France

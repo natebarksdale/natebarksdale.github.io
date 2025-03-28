@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-09
-modDatetime: 2025-03-28T15:32:00Z
+modDatetime: 2025-03-28T16:06:41Z
 title: Fourth century Bible goes digital
 slug: fourth-century-bible-goes-digital
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: A celebration of the cultural preservation efforts at the monastery on Mt. Sinai, highlighting the digitization of the Codex Sinaiticus, the oldest existing copy of the Bible.
 emoji: 📜
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🦁 Africa
   - 🌍 Culture-Making.com

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-28T15:31:54Z
+modDatetime: 2025-03-28T16:06:39Z
 title: The noisy, crowded past
 slug: the-noisy-crowded-past
 featured: false
@@ -29,4 +29,7 @@ It's interesting to stop and ponder (as I'm able to do in my quiet, private work
 >
 > But not more solitary. In country and city alike, whole families slept in single rooms, often sharing those rooms with animals. Only the enormously wealthy could spread out into multiple rooms. (It’s worth remembering that throughout human history the vast majority of couples have had to have sex in the same room, and often in the same bed, with other people.) And all of these noisy and crowded conditions that we see in our studies of the European past are, of course, present-day realities for many people today; perhaps most humans on the planet
 > As Diana Webb has recently shown in her new book _Privacy and Solitude: The Medieval Discovery of Personal Space_ — reviewed [here](https://www.google.com/search?q=%22here%22%20is.gd) — medieval Europeans in general simply accepted their lack of “personal space,” but others valued it and desired it sufficiently to retreat from the world, as hermits and anchorites, in order to get it. But these were necessarily special cases. Until the nineteenth century in Europe and other economically developed parts of the world, very few people have been able to find either solitude or silence
-> from "[The sound of silence](http://web.archive.org/web/20090309101216/http://culture11.com:80/blogs/textpatterns/2009/01/25/the-sound-of-silence/)," by Alan Jacobs, [Text Patterns](http://web.archive.org/web/20090309101216/http://culture11.com:80/blogs/textpatterns/2009/01/25/the-sound-of-silence/), 25 January 2009
+
+---
+
+from "[The sound of silence](http://web.archive.org/web/20090309101216/http://culture11.com:80/blogs/textpatterns/2009/01/25/the-sound-of-silence/)," by Alan Jacobs, [Text Patterns](http://web.archive.org/web/20090309101216/http://culture11.com:80/blogs/textpatterns/2009/01/25/the-sound-of-silence/), 25 January 2009

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-28T15:31:40Z
+modDatetime: 2025-03-28T16:06:33Z
 title: Eating clay in Haiti
 slug: eating-clay-in-haiti
 featured: false
@@ -25,4 +25,7 @@ On the one hand this is simple—a heartbreaking example of how rising food pric
 > At first sight the business resembles a thriving pottery. In a dusty courtyard women mould clay and water into hundreds of little platters and lay them out to harden under the Caribbean sun. The craftsmanship is rough and the finished products are uneven. But customers do not object. This is Cité Soleil, Haiti’s most notorious slum, and these platters are not to hold food. They are food. Brittle and gritty—and as revolting as they sound—these are “mud cakes”. For years they have been consumed by impoverished pregnant women seeking calcium, a risky and medically unproven supplement, but now the cakes have become a staple for entire families
 >
 > It is not for the taste and nutrition—smidgins of salt and margarine do not disguise what is essentially dirt, and the Guardian can testify that the aftertaste lingers - but because they are the cheapest and increasingly only way to fill bellies. “It stops the hunger,” said Marie-Carmelle Baptiste, 35, a producer, eyeing up her stock laid out in rows. She did not embroider their appeal. “You eat them when you have to.”
-> from "[Haiti: Mud cakes become staple diet as cost of food soars beyond a family's reach](http://www.guardian.co.uk/world/2008/jul/29/food.internationalaidanddevelopment)," by Rory Carroll, [Guardian.co.uk](http://www.guardian.co.uk/), 29 July 2008 :: via [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/08/25/haitis-mud-cakes/)
+
+---
+
+from "[Haiti: Mud cakes become staple diet as cost of food soars beyond a family's reach](http://www.guardian.co.uk/world/2008/jul/29/food.internationalaidanddevelopment)," by Rory Carroll, [Guardian.co.uk](http://www.guardian.co.uk/), 29 July 2008 :: via [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/08/25/haitis-mud-cakes/)

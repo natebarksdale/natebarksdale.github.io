@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-28T15:31:46Z
+modDatetime: 2025-03-28T16:06:36Z
 title: Tough luck, Mel
 slug: tough-luck-mel
 featured: false
@@ -32,4 +32,7 @@ A fable of conflicting values and the mistaken assumption that Hollywood would h
 >
 > A visit to the semi-desert area can see its potential. The flat scrubland nestles between giant mountains under clear blue skies. There are hidden valleys cut by tributaries to the mighty Orange River, and one mountain resembling the doomed Israeli fortress of Masada
 > But the filmmakers underestimated the will of the local 5,000-strong population who put the spiritual value of the land over any potential economic gain and nixed the plan last month. “No money in the world can buy this land,” says Ina Basson, secretary of the Pella Community Forum. “It is ours and has sentimental value. Our forefathers fought the Germans for this land and had to battle to keep it. They have spilled blood for the land and for us, and it is not for sale. “[The producers] said Mel Gibson and Halle Berry would fly in to do movies, and that Tiger Woods would design the golf course,” adds Ms. Basson. “We don’t care about them. We want to live here.”
-> from "[Africans say 'no deal' to $14 million movie studio](http://www.csmonitor.com/2008/1031/p07s01-woaf.html)," by Ian Evans, [_Christian Science Monitor_](http://www.csmonitor.com/2008/1031/p07s01-woaf.html), 31 October, 2008
+
+---
+
+from "[Africans say 'no deal' to $14 million movie studio](http://www.csmonitor.com/2008/1031/p07s01-woaf.html)," by Ian Evans, [_Christian Science Monitor_](http://www.csmonitor.com/2008/1031/p07s01-woaf.html), 31 October, 2008

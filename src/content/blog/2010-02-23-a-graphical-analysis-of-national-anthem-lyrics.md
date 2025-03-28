@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2025-03-28T15:32:07Z
+modDatetime: 2025-03-28T16:06:44Z
 title: A graphical analysis of national anthem lyrics
 slug: a-graphical-analysis-of-national-anthem-lyrics
 featured: false
@@ -11,7 +11,7 @@ emoji: 🎶
 tags:
   - ✨ Wonder
   - 💡 Design
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🍷 Europe
   - 🇿🇦 South Africa
   - 🇲🇽 Mexico

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:31Z
 title: The Largest Human-Made Art on Earth
 slug: the-largest-human-made-art-on-earth
 featured: false
@@ -30,4 +30,7 @@ Ephemeral, large-scale art by artist Jim Denevan
 > Even though esthetically it's a welcome addition to the landscape, it is also a sort of a transient mark - like a cloud, or a river-bed. Immense in its scope, and lasting only a moment in the large scale of things
 > We asked the artist, how long did this stupendous artwork last?
 > "Completely erased in a rainstorm the next week… It felt strange to work so hard and not see tide come in. But rains did come which is sort of the same thing
-> from "[The Largest Human-Made Art on Earth](http://www.darkroastedblend.com/2008/06/largest-human-made-art-on-earth.html)," [Dark Roasted Blend](http://www.darkroastedblend.com/), 21 June, 2008
+
+---
+
+from "[The Largest Human-Made Art on Earth](http://www.darkroastedblend.com/2008/06/largest-human-made-art-on-earth.html)," [Dark Roasted Blend](http://www.darkroastedblend.com/), 21 June, 2008

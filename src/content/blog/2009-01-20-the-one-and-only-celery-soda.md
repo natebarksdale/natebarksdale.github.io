@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-28T15:31:53Z
+modDatetime: 2025-03-28T16:06:39Z
 title: The one and only celery soda
 slug: the-one-and-only-celery-soda
 featured: false
@@ -30,4 +30,7 @@ For me Cel-Ray actually seems more plausible than some of the other regional Nor
 > “There are no plans to stop manufacturing Cel-Ray any time soon,” she echoes.
 > “Can you tell me anything else about Cel-Ray?” I ask
 > “It’s not popular,” she replies firmly.
-> from "[An Acquired Taste](http://web.archive.org/web/20090525002451/http://www.nextbook.org:80/cultural/feature.html?id=2575)," by Molly Young, [Nextbook](http://web.archive.org/web/20090525002451/http://www.nextbook.org:80/cultural/feature.html?id=2575), 14 January 2009 :: via [NYTimes Ideas Blog](http://ideas.blogs.nytimes.com/2009/01/16/who-needs-cream-soda/)
+
+---
+
+from "[An Acquired Taste](http://web.archive.org/web/20090525002451/http://www.nextbook.org:80/cultural/feature.html?id=2575)," by Molly Young, [Nextbook](http://web.archive.org/web/20090525002451/http://www.nextbook.org:80/cultural/feature.html?id=2575), 14 January 2009 :: via [NYTimes Ideas Blog](http://ideas.blogs.nytimes.com/2009/01/16/who-needs-cream-soda/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-12
-modDatetime: 2025-03-28T15:32:12Z
+modDatetime: 2025-03-28T16:06:46Z
 title: Knowing the end of the story
 slug: knowing-the-end-of-the-story
 featured: false
@@ -27,4 +27,7 @@ Turns out spoilers may not spoil much after all, at least with short stories. I 
 > Subjects significantly preferred the spoiled versions of ironic-twist stories, where, for example, it was revealed before reading that a condemned man's daring escape is all a fantasy before the noose snaps tight around his neck
 > The same held true for mysteries. Knowing ahead of time that Poirot will discover that the apparent target of attempted murder is, in fact, the perpetrator not only didn't hurt enjoyment of the story but actually improved it
 > Subjects liked the literary, evocative stories least overall, but still preferred the spoiled versions over the unspoiled ones.
-> from "[Spoiler alert: Stories are not spoiled by 'spoilers'](https://www.google.com/search?q=%22Spoiler%20alert%3A%20Stories%20are%20not%20spoiled%20by%20%27spoilers%27%22%20sciencedaily.com))," ScienceDaily, 10 August 2011
+
+---
+
+from "[Spoiler alert: Stories are not spoiled by 'spoilers'](https://www.google.com/search?q=%22Spoiler%20alert%3A%20Stories%20are%20not%20spoiled%20by%20%27spoilers%27%22%20sciencedaily.com))," ScienceDaily, 10 August 2011

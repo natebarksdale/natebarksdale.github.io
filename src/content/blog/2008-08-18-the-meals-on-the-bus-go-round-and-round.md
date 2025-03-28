@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-18
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: The meals on the bus go round and round
 slug: the-meals-on-the-bus-go-round-and-round
 featured: false
@@ -25,4 +25,7 @@ A great example of making the most of a captive audience (and somewhat lax board
 >
 > These gray-market vendors thrive on the ridership on Ecuador’s efficient and extensive bus system. In Cumandá terminal in [Quito](http://travel.nytimes.com/travel/guides/central-and-south-america/ecuador/quito/overview.html?inline=nyt-geo "Go to the Quito Travel Guide."), more than 30 competing bus companies vie for customers, shouting impending departures from their ticket windows, so the wait is never long and the price is right. Even at the extranjeros, or foreigners’, price, tickets average $1 per hour of travel (the American dollar has been the official currency since 2000). Besides the [music](http://travel.nytimes.com/travel/guides/music/overview.html?inline=nyt-classifier), all buses come with air-conditioning — and a chance to acquaint yourself with local culture and cuisine
 > On my recent three-and-a-half-hour bus journey down the Pan-American Highway, the ice-cream man was only one of dozens of people who jumped aboard at various stops as we beat a path southward from the capital city of Quito to the nation’s adventure mecca, Baños, through the valley known as Avenue of the Volcanoes. The vendors hawked everything from herbal cures to watches, but the real one-of-a-kind items were brought aboard by people clutching baskets or coolers, like the helado man. The homemade sweets and snacks they sell, along with the fast food cooked up at stands around markets and bus stations, offered a thorough sampling of regional specialties.
-> from "[Meals and Wheels on Ecuador’s Avenue of Volcanoes](https://www.google.com/search?q=%22Meals%20and%20Wheels%20on%20Ecuador%E2%80%99s%20Avenue%20of%20Volcanoes%22%20travel.nytimes.com)," by Martina Sheehan, [_New York TImes_](http://travel.nytimes.com/), 17 August 2008
+
+---
+
+from "[Meals and Wheels on Ecuador’s Avenue of Volcanoes](https://www.google.com/search?q=%22Meals%20and%20Wheels%20on%20Ecuador%E2%80%99s%20Avenue%20of%20Volcanoes%22%20travel.nytimes.com)," by Martina Sheehan, [_New York TImes_](http://travel.nytimes.com/), 17 August 2008

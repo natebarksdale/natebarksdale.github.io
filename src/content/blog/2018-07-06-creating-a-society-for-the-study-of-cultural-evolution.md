@@ -10,7 +10,7 @@ description: Forming connections and framing grand questions on the links betwee
 emoji: 🌐
 tags:
   - 🦠 Biology
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🌍 Culture
   - 🌍 Evolution

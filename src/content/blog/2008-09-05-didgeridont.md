@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-28T15:31:41Z
+modDatetime: 2025-03-28T16:06:34Z
 title: Didgeridon’t
 slug: didgeridont
 featured: false
@@ -28,4 +28,7 @@ Girls' empowerment hits a cultural snag down under, when _[The Daring Book for G
 > “It’s cultural ignorance and it’s a slap in the face to indigenous people and to indigenous writers who are actually writing in the field,” she said
 > The Australian edition replaces much of the original US content with material such as the rules for netball and a guide to surfing
 > The didgeridoo chapter reads: “Playing a didgeridoo appears deceptively simple, until you’ve got a ‘didge’ on your lips and no sound comes out. But a few easy instructions and you’ll be playing like a seasoned pro”
-> from "[Girls warned playing didgeridoo could cause infertility](http://web.archive.org/web/20120315214233/http://afp.google.com/article/ALeqM5ggfd5cyB6XFmhJImyfOPKe6lCbow)," AFP, 3 September 2008 :: via [Boing Boing](http://web.archive.org/web/20240723030700/https://boingboing.net/2008/09/04/girls-warned-playing.html)
+
+---
+
+from "[Girls warned playing didgeridoo could cause infertility](http://web.archive.org/web/20120315214233/http://afp.google.com/article/ALeqM5ggfd5cyB6XFmhJImyfOPKe6lCbow)," AFP, 3 September 2008 :: via [Boing Boing](http://web.archive.org/web/20240723030700/https://boingboing.net/2008/09/04/girls-warned-playing.html)

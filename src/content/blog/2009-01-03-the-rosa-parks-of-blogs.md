@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-28T15:31:51Z
+modDatetime: 2025-03-28T16:06:38Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -39,4 +39,7 @@ I love this sort of list-making: on the one hand, calling out a tired old cliche
 > [The Mini-me of oscillating tools](http://rosaparksofblogs.blogspot.com/2008/12/mini-me-of-oscillating-tools.html)  
 > [The James Brown of neurotransmitters](http://rosaparksofblogs.blogspot.com/2008/12/james-brown-of-neurotransmitters.html)  
 > [The Sarah Silverman of operating systems](http://rosaparksofblogs.blogspot.com/2008/12/sarah-silverman-of-operating-systems.html)
-> from [The Rosa Parks of Blogs](http://rosaparksofblogs.blogspot.com/), list of posts for December 2008 :: via [The Snowclones Database](http://snowclones.org/2008/12/30/a-couple-of-links/)
+
+---
+
+from [The Rosa Parks of Blogs](http://rosaparksofblogs.blogspot.com/), list of posts for December 2008 :: via [The Snowclones Database](http://snowclones.org/2008/12/30/a-couple-of-links/)

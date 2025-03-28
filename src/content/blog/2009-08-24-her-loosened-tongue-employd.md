@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-24
-modDatetime: 2025-03-28T15:32:01Z
+modDatetime: 2025-03-28T16:06:41Z
 title: Her loosened tongue employ’d
 slug: her-loosened-tongue-employd
 featured: false
@@ -10,7 +10,7 @@ description: This newsreel captures the remarkable story of Helen Keller's journ
 emoji: 💧
 tags:
   - ✨ Wonder
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - 🌍 Accessibility
   - 📝 Writing

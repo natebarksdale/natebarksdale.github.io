@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-01
-modDatetime: 2025-03-28T15:31:40Z
+modDatetime: 2025-03-28T16:06:34Z
 title: If it seems wordish, use it
 slug: if-it-seems-wordish-use-it
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: The creativity of language invites us to embrace innovative word usage without apology.
 emoji: 🌈
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🗣️ Language
@@ -27,4 +27,7 @@ Oddly, I've never been too enthused by the "there oughta be a word for X" genre 
 >
 > So, please, leave off the “not a real word” apologia. A far better (and dare I say, funner) technique is to jump in with both feet and use whatever word strikes your fancy. Instead of being defensive, demand that any who dare to quibble over your use prove that your word is, in fact, not a word
 > In short, if it seems wordish, use it. No apologies necessary
-> from "[Chillax](http://web.archive.org/web/20160305002533/http://www.boston.com/bostonglobe/ideas/articles/2008/08/03/chillax/)," by Erin McKean, [_Boston Globe_ op-ed](http://web.archive.org/web/20160305002533/http://www.boston.com/bostonglobe/ideas/articles/2008/08/03/chillax/), 3 August 2008 :: via [Boing Boing](http://web.archive.org/web/20230923142334/https://boingboing.net/2008/08/27/english-is-a-usermod.html)
+
+---
+
+from "[Chillax](http://web.archive.org/web/20160305002533/http://www.boston.com/bostonglobe/ideas/articles/2008/08/03/chillax/)," by Erin McKean, [_Boston Globe_ op-ed](http://web.archive.org/web/20160305002533/http://www.boston.com/bostonglobe/ideas/articles/2008/08/03/chillax/), 3 August 2008 :: via [Boing Boing](http://web.archive.org/web/20230923142334/https://boingboing.net/2008/08/27/english-is-a-usermod.html)

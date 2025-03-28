@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2025-03-28T15:31:37Z
+modDatetime: 2025-03-28T16:06:32Z
 title: From NASA to McDonald’s
 slug: from-nasa-to-mcdonalds
 featured: false
@@ -28,4 +28,7 @@ Performance artist Laurie Anderson on the importance of getting outside your own
 >  Yeah. I began to think, “How can I escape this trap of just experiencing what I expect?” I decided maybe I would just try to put myself in places where I don’t know what to do, what to say, or how to act. So, I did things like working at McDonald’s and on an Amish farm, which had no technology whatsoever.
 > **What do you need to “escape” from?**  
 >  At heart, I’m an anthropologist. I try to jump out of my skin. I normally see the world as an artist first, second as a New Yorker and third as a woman. That’s a perspective that I sometimes would like to escape. It’s why in my performances I use audio filters to change my voice. That’s a way to escape as well.
-> from [Laurie Anderson Q&A;](https://www.google.com/search?q=%22Laurie%20Anderson%20Q%26A%3B%22%20smithsonianmag.com), by Kenneth R. Fletcher, [_Smithsonian Magazine_](http://web.archive.org/web/20250206003458/https://www.smithsonianmag.com/), Auguest 2008 :: via [Boing Boing](http://web.archive.org/web/20240919042156/https://boingboing.net/2008/07/29/laurie-anderson-inte.html)
+
+---
+
+from [Laurie Anderson Q&A;](https://www.google.com/search?q=%22Laurie%20Anderson%20Q%26A%3B%22%20smithsonianmag.com), by Kenneth R. Fletcher, [_Smithsonian Magazine_](http://web.archive.org/web/20250206003458/https://www.smithsonianmag.com/), Auguest 2008 :: via [Boing Boing](http://web.archive.org/web/20240919042156/https://boingboing.net/2008/07/29/laurie-anderson-inte.html)

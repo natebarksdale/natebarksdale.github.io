@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T15:31:35Z
+modDatetime: 2025-03-28T16:06:31Z
 title: Room to Read
 slug: room-to-read
 featured: false
@@ -10,7 +10,7 @@ description: Room to Read is dedicated to providing education and resources, foc
 emoji: 📚
 tags:
   - ✨ Wonder
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - ❤️ Charity
   - 📖 Books
@@ -29,4 +29,7 @@ I wonder which children's books they wind up having translated into local langua
 >
 > **What does a $20 Donation do for Room to Read?**  
 >  This is a perfect price point. Twenty dollars is sufficient to sponsor a girl’s scholarship for one month. We can also print 20 local-language children books in languages that have never really had children’s books before. It’s one of the reasons there’s such an illiteracy problem in the developing world—there’s just no children’s book industry.
-> from ”[GOOD Q&A;: John Wood](http://web.archive.org/web/20090604090557/http://www.goodmagazine.com:80/section/Features/good_qa_john_wood)”, [GOOD Magazine](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./)
+
+---
+
+from ”[GOOD Q&A;: John Wood](http://web.archive.org/web/20090604090557/http://www.goodmagazine.com:80/section/Features/good_qa_john_wood)”, [GOOD Magazine](http://web.archive.org/web/20090106134638/http://www.goodmagazine.com./)

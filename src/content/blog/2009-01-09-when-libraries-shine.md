@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-28T15:31:52Z
+modDatetime: 2025-03-28T16:06:38Z
 title: When libraries shine
 slug: when-libraries-shine
 featured: false
@@ -24,4 +24,7 @@ One of the community benefits of the recession—provided there's funding for th
 >
 > New BPL president Amy Ryan said a baby story program at the Copley library has grown from fluctuating between 60 and 80 families to well over 100. Monthly visits to a free Internet homework tutoring service have doubled from 300 to 600. She said anecdotal reports indicate a spike in people using branch libraries to research new careers or returning to school. This is despite the BPL probably facing cuts, too
 > "Libraries are unfortunately used to this," Ryan said. "But the essential role of the library cannot be duplicated in anybody's home, when you consider the combination of manuals, books, and librarian expertise," Ryan said. "In down economic times, families aren't going out to spend a lot of money on books and movies. This is when the branches can shine as a community gathering place and at a time when people are seeking answers to life improvement
-> from "[The library - a recession sanctuary](http://web.archive.org/web/20150915143955/http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/01/03/the_library___a_recession_sanctuary/)," by Derrick Z. Jackson, [_The Boston Globe_](http://web.archive.org/web/20150915143955/http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/01/03/the_library___a_recession_sanctuary/), 3 January 2009 :: via [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2009/01/07/the-public-library-renaissance/)
+
+---
+
+from "[The library - a recession sanctuary](http://web.archive.org/web/20150915143955/http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/01/03/the_library___a_recession_sanctuary/)," by Derrick Z. Jackson, [_The Boston Globe_](http://web.archive.org/web/20150915143955/http://www.boston.com/bostonglobe/editorial_opinion/oped/articles/2009/01/03/the_library___a_recession_sanctuary/), 3 January 2009 :: via [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2009/01/07/the-public-library-renaissance/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2019-02-22
-modDatetime: 2025-03-28T15:32:14Z
+modDatetime: 2025-03-28T16:06:46Z
 title: New Project to Extend the Digital Reach of Classical Liberal Ideas
 slug: new-project-to-extend-the-digital-reach-of-classical-liberal-ideas
 featured: false
@@ -9,7 +9,7 @@ draft: false
 description: Explore how a new project is revolutionizing PPE education with cutting-edge digital content on core topics like market failure and public choice.
 emoji: 🎓
 tags:
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌀 Templeton
   - 🌐 Digital
   - 📊 Research

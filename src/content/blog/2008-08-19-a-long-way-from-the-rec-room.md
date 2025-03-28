@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: A long way from the rec room
 slug: a-long-way-from-the-rec-room
 featured: false
@@ -26,4 +26,7 @@ I've been so mesmerized by the online coverage of archery and weightlifting (no 
 >
 > In doubles table tennis, partners must alternate shots. That means the goal of any team is to sow confusion in the enemy—to make it so the player whose turn it is to hit has to get through his or her partner to do so. The highlight of a doubles match is when partners kick, trip, or smash into one another. I once saw a Malaysian duo knock heads so hard the match was delayed nearly half an hour. Also fun: when one player swings for the ball and hits his or her partner instead
 > Sadly, at the Olympic level, the players are too accomplished for this to happen. Maybe it’s just as well, then, that doubles has been eliminated as an Olympic event
-> from "[In praise of doubles table tennis](http://www.slate.com/id/2197722/?from=rss)," by Robert Weintraub, [_Slate_](http://www.slate.com/id/2197722/?from=rss), 18 August 2008
+
+---
+
+from "[In praise of doubles table tennis](http://www.slate.com/id/2197722/?from=rss)," by Robert Weintraub, [_Slate_](http://www.slate.com/id/2197722/?from=rss), 18 August 2008

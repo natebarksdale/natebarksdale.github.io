@@ -27,4 +27,7 @@ Pity the plight of vulnerable European letters! Really, though, one thing I love
 >
 > Kerstin Güthert, managing director of the Council for German Spelling Reform, said: “It’s up to the people to decide whether or not they will use it.”
 > Germany’s typographers, at least, are predicting its comeback and celebrating the Eszett’s new-found status.
-> from "['More than just a pumped up B': Germany celebrates recognition of the letter ß ](http://www.guardian.co.uk/world/2008/jun/27/germany?gusrc=rss&feed=networkfront)," by Kate Connolly, [guardian.co.uk](http://www.guardian.co.uk/), 27 June 2008
+
+---
+
+from "['More than just a pumped up B': Germany celebrates recognition of the letter ß ](http://www.guardian.co.uk/world/2008/jun/27/germany?gusrc=rss&feed=networkfront)," by Kate Connolly, [guardian.co.uk](http://www.guardian.co.uk/), 27 June 2008

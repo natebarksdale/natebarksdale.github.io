@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-28T15:31:41Z
+modDatetime: 2025-03-28T16:06:34Z
 title: Your neighbor must be everyone
 slug: your-neighbor-must-be-everyone
 featured: false
@@ -29,4 +29,7 @@ I'd really love to see a follow-up article on this one. Sheriff Curran's week in
 > Curran plans to live in a cell, eat jail food, mingle and talk with other inmates in common areas, while also attending numerous programs offered in the facility, including substance abuse counseling, parenting and educational classes, along with religious services. That immersion, he said, should give him more insight into everything from safety issues to what programs may be needed help inmates straighten out their lives and avoid future crimes
 > “My experience in the jail will help me to better understand our existing programming, as well as any possible unmet needs that exist in our programming,’’ said Curran, a 45-year-old former prosecutor elected sheriff in 2006
 > But Curran, a Roman Catholic, also frequently cited a spiritual desire to understand what inmates are going through and how their lives may be turned around. “In Lake County, we have embraced the scriptural mandate to love our neighbor. Your neighbor must be everyone if we are truly going to see peace on Earth,” he said. “In the eyes of society, I may be sheriff, but in God’s eyes, I am no better than anyone else.”
-> from "[Lake County Sheriff sentences himself to jail](http://web.archive.org/web/20091004192701/http://www.suntimes.com/news/metro/1117933,jail082108.article)," by Dan Rozek, [_Chicago Sun-Times_](http://web.archive.org/web/20091004192701/http://www.suntimes.com/news/metro/1117933,jail082108.article), 20 August 2008 :: via [NYTimes.com Freakanomics blog](http://freakonomics.blogs.nytimes.com/2008/09/04/we-need-more-sheriffs-like-this-one/)
+
+---
+
+from "[Lake County Sheriff sentences himself to jail](http://web.archive.org/web/20091004192701/http://www.suntimes.com/news/metro/1117933,jail082108.article)," by Dan Rozek, [_Chicago Sun-Times_](http://web.archive.org/web/20091004192701/http://www.suntimes.com/news/metro/1117933,jail082108.article), 20 August 2008 :: via [NYTimes.com Freakanomics blog](http://freakonomics.blogs.nytimes.com/2008/09/04/we-need-more-sheriffs-like-this-one/)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-28T15:31:39Z
+modDatetime: 2025-03-28T16:06:33Z
 title: Chain mosques
 slug: chain-mosques
 featured: false
@@ -10,7 +10,7 @@ description: Exploring how the rise of multi-site mosque chains mirrors the fast
 emoji: 🍔
 tags:
   - 🌙 Islam
-  - 🗣🗣️ Language
+  - 🗣️ Language
   - 🌍 Culture-Making.com
   - ⛪ Religion
   - 🌍 Culture
