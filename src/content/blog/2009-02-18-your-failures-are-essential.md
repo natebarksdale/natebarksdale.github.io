@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2009-02-18
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-28T14:39:14Z
 title: Your failures are essential
 slug: your-failures-are-essential
 featured: false
@@ -9,16 +10,17 @@ draft: false
 description: A reflection on the essential lessons learned from artistic failures and the journey towards creating impactful art.
 emoji: 🎨
 tags:
-  - 🌀 Complexity
-  - ❤️ Resilience
-  - 📖 Books
-  - 🎨 Art
-haiku: |
+
+- 🌍 Culture-Making.com
+- 🌀 Complexity
+- ❤️ Resilience
+- 📖 Books
+- 🎨 Art
+  haiku: |
   In failure we learn,  
-  The brush strokes of our journey,  
-  Art's truth softly speaks.
-coordinates: [37.7749, -122.4194]
----
+   The brush strokes of our journey,  
+   Art's truth softly speaks.
+  coordinates: [37.7749, -122.4194]
 
 > The function of the overwhelming majority of your artwork is simply to teach you how to make the small fraction of your artwork that soars. One of the basic and difficult lessons every artist must learn is that even the failed pieces are essential
 >

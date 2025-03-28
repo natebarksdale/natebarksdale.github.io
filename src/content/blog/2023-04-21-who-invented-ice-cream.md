@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2023-04-17
-modDatetime: 2025-03-20T14:57:36Z
+modDatetime: 2025-03-28T14:39:33Z
 title: Who Invented Ice Cream?
 slug: who-invented-ice-cream
 featured: false
@@ -9,22 +10,22 @@ draft: false
 description: From ancient China to American tables, uncover the frosty journey of history's favorite frozen delight.
 emoji: 🍦
 tags:
-  - 🇭 History.com
-  - 🍬 Desserts
-  - 🇨🇳 China
-  - 🇮🇹 Italy
-  - 🇫🇷 France
-haiku: |
+
+- 🍷 Europe
+- 🇭 History.com
+- 🍬 Desserts
+- 🇨🇳 China
+- 🇮🇹 Italy
+- 🇫🇷 France
+  haiku: |
   Ancient ice, sweet cold,  
-  Nero's honeyed treats unfold,  
-  Journey through ages.
-coordinates: [34.0, 42.0]
----
+   Nero's honeyed treats unfold,  
+   Journey through ages.
+  coordinates: [34.0, 42.0]
 
 For the History Channel, I wrote about my favorite frozen treat.
 
 > According to popular legend, ice cream was invented by the ancient Chinese, brought to Italy by [Marco Polo](https://www.history.com/topics/exploration/marco-polo), to France by [Catherine de Medici](https://www.history.com/topics/renaissance/medici-family), and thence to America by [Thomas Jefferson](https://www.history.com/news/thomas-jefferson-americas-pioneering-gourmand). The truth, however, about summer’s favorite chilled dairy treat is a bit more difficult to pin down.
 >
 > Iced drinks and desserts have been around since at least 4000 B.C., when nobles along the Euphrates River built icehouses to take the edge off the [Mesopotamian](https://www.history.com/topics/ancient-middle-east/mesopotamia) summer heat. Snow, likely used to cool wine, was sold in the streets of Athens in the fifth century B.C., while the Roman emperor [Nero](https://www.history.com/topics/ancient-history/nero) (A.D. 37–67) enjoyed iced refreshments laced with honey. Sources from the Tang dynasty in China describe a sweet drink made from iced, camphor-laced water buffalo milk.
-
-[Read more at history.com](https://www.history.com/news/where-do-ice-cream-sorbet-frozen-desserts-come-from)
+> [Read more at history.com](https://www.history.com/news/where-do-ice-cream-sorbet-frozen-desserts-come-from)

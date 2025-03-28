@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-17T21:38:41Z
+modDatetime: 2025-03-28T14:39:11Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -9,14 +10,17 @@ draft: false
 description: I love this sort of list-making
 emoji: ✨
 tags:
-  - ✍️ Literature
-  - 🌍 Culture
-haiku: |
+
+- ✨ Wonder
+- 📺 Television
+- 🌍 Culture-Making.com
+- ✍️ Literature
+- 🌍 Culture
+  haiku: |
   Cliches come alive,  
-  New forms from old ideas,  
-  Wonder in the words.
-coordinates: [40.7128, -74.0060]
----
+   New forms from old ideas,  
+   Wonder in the words.
+  coordinates: [40.7128, -74.0060]
 
 I love this sort of list-making: on the one hand, calling out a tired old cliche and making the case for better writing; but on the other, injecting new life and wonder into the same cliche. Reading through the list, and imagining (sometimes with great difficulty) the possible contexts becomes an exercise in wonder
 
@@ -36,7 +40,4 @@ I love this sort of list-making: on the one hand, calling out a tired old cliche
 > [The Mini-me of oscillating tools](http://rosaparksofblogs.blogspot.com/2008/12/mini-me-of-oscillating-tools.html)  
 > [The James Brown of neurotransmitters](http://rosaparksofblogs.blogspot.com/2008/12/james-brown-of-neurotransmitters.html)  
 > [The Sarah Silverman of operating systems](http://rosaparksofblogs.blogspot.com/2008/12/sarah-silverman-of-operating-systems.html)
-
----
-
-from [The Rosa Parks of Blogs](http://rosaparksofblogs.blogspot.com/), list of posts for December 2008 :: via [The Snowclones Database](http://snowclones.org/2008/12/30/a-couple-of-links/)
+> from [The Rosa Parks of Blogs](http://rosaparksofblogs.blogspot.com/), list of posts for December 2008 :: via [The Snowclones Database](http://snowclones.org/2008/12/30/a-couple-of-links/)

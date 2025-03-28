@@ -17,7 +17,7 @@ export const tagDataMap: Record<string, TagData> = {
   },
   historychannel: {
     emoji: "🇭",
-    text: "The History Channel",
+    text: "History.com",
     description:
       "I've been writing, editing and fact-checking pieces for The History Channel (largely [History.com](https://www.history.com), but also the History Here app and the occasional project for what goes on TV as well, since 2012.",
   },

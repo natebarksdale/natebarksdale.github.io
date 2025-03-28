@@ -1,4 +1,5 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2010-10-01
 modDatetime: 2025-03-10 21:39:28+00:00
@@ -9,16 +10,21 @@ draft: False
 description: An exploration of the connections between Africa and New York through music, including a unique take on Babatunde Olatunji's "Akiwowo."
 emoji: 🎶
 tags:
-  - 🌍 Culture
-  - 🇺🇸 United States
-  - 🎶 Activities
-haiku: |
+
+- 💿 Mix CDs
+- ✨ Wonder
+- 🍷 Europe
+- 🦁 Africa
+- 🇫🇷 France
+- 🌍 Culture
+- 🇺🇸 United States
+- 🎶 Activities
+  haiku: |
   Beats from far away,  
-  City lights and echoes blend,  
-  Cultures intertwine.
+   City lights and echoes blend,  
+   Cultures intertwine.
 
 coordinates: [40.7128, -74.006]
----
 
 #### Wimbo Zuri Catalog No. 054.1A10-1
 

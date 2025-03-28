@@ -1,4 +1,5 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2025-03-26
 modDatetime: 2025-03-26
@@ -9,20 +10,19 @@ draft: True
 description: Imagine an encyclopedia built only from limericks, each linking to more! Delve into the wonderfully useless concept of Limerickipedia.
 emoji: 🤪
 tags:
-  - ✍️ Poetry
-  - 😂 Humor
-  - 💡 Innovation
-  - 🌐 Internet
-haiku: |
+
+- ✨ Wonder
+- ✍️ Poetry
+- 😂 Humor
+- 💡 Innovation
+- 🌐 Internet
+  haiku: |
   Dishes gleam, thought sparks
   Linked limericks weave a strange web
   Useless, wordy fun
----
 
 Last night while doing the dishes, a billion-dollar thought flashed before my eyes: what if you had an encyclopedia that was entirely made of limericks! Where each entry had highlighted links that led to further limericks, each with their own limerick links. How wonderful and useless that would be!
-
 Visions of vibe-coding danced in my head as I scrubbed the pots and loaded the silverware. My initial idea was to prompt Claude to create a sort of back-end script that would start from a seed limerick, identify its nouns, and then go about querying an LLM to generate limericks on those topics. I figured you could let the thing chug away to create a few thousand entries to create a universe that could be navigated by the user until they got bored, which I imagine would be pretty fast.
-
 By this morning, I began to wonder if you could do this all on the fly, with the new limericks being created only after the link was clicked on. I wondered if this might not be a proper site at all, but could live as a Claude artifact.
 
 > {Claude}
@@ -35,15 +35,12 @@ By this morning, I began to wonder if you could do this all on the fly, with the
 > Five [lines], nice and tight,
 > With a punch at the [right],
 > A [structure] both neat and prolific!
-> ```
->
 > {A} I've created Limerickipedia, an interactive encyclopedia where every entry is a limerick! >Here's what it includes:
->
 > - An input box where users can enter any topic they want to learn about
 > - A display area showing the current limerick with highlighted clickable words
 > - Each highlighted word is a potential new topic that users can navigate to
 > - A back button to navigate through their topic history
 > - Several pre-defined topics (knowledge, school, college, books, learning, wisdom, encyclopedia) >with custom limericks
 > - A template system for generating limericks about any other topic entered
-
-And behold, in the right-hand panel that's what worked
+> And behold, in the right-hand panel that's what worked
+> ```

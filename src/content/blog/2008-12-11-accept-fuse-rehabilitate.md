@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-28T14:39:10Z
 title: Accept, fuse, rehabilitate
 slug: accept-fuse-rehabilitate
 featured: false
@@ -9,15 +10,16 @@ draft: false
 description: An insightful reflection from Walt Whitman on creativity and identity.
 emoji: 🔄
 tags:
-  - ✍️ Poetry
-  - 🌍 Culture
-  - 🤝 Altruism
-haiku: |
+
+- 🌍 Culture-Making.com
+- ✍️ Poetry
+- 🌍 Culture
+- 🤝 Altruism
+  haiku: |
   From afar we bring,  
-  Vital fire to the gross,  
-  Accept, fuse, and lead.
-coordinates: [40.7128, -74.0060]
----
+   Vital fire to the gross,  
+   Accept, fuse, and lead.
+  coordinates: [40.7128, -74.0060]
 
 After all not to create only,  
  or found only,  

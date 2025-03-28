@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-28T14:39:09Z
 title: On Thanksgiving
 slug: on-thanksgiving
 featured: false
@@ -9,15 +10,16 @@ draft: false
 description: Sarah Vowell offers a humorous observation about the irony of Thanksgiving celebrations and American independence.
 emoji: 🦃
 tags:
-  - 📝 Writing
-  - 🌍 Culture
-  - 🎉 Celebration
-haiku: |
+
+- 🌍 Culture-Making.com
+- 📝 Writing
+- 🌍 Culture
+- 🎉 Celebration
+  haiku: |
   Pilgrims once ventured,  
-  Now families gather close,  
-  Roots in different soil.
-coordinates: [39.8283, -98.5795]
----
+   Now families gather close,  
+   Roots in different soil.
+  coordinates: [39.8283, -98.5795]
 
 > It is curious that we Americans have a holiday—Thanksgiving—that’s all about people who left their homes for a life of their own choosing, a life that was different from their parents’ lives. And how do we celebrate it? By hanging out with our parents! It’s as if on the Fourth of July we honored our independence from the British by barbecuing crumpets
 >

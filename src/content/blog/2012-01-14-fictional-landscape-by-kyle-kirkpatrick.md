@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-17T21:39:15Z
+modDatetime: 2025-03-28T14:39:28Z
 title: fictional landscape, by Kyle Kirkpatrick
 slug: fictional-landscape-by-kyle-kirkpatrick
 featured: false
@@ -9,15 +10,16 @@ draft: false
 description: Pondering the allure of book-carving that resembles a miniature landscape model.
 emoji: 🏞️
 tags:
-  - 🎨 Art
-  - 📖 Books
-  - 🌍 Culture
-haiku: |
+
+- 🌍 Culture-Making.com
+- 🎨 Art
+- 📖 Books
+- 🌍 Culture
+  haiku: |
   Pages carved with care,  
-  Layers shaped like hills and woods,  
-  Art in every fold.
-coordinates: [51.5074, -0.1278]
----
+   Layers shaped like hills and woods,  
+   Art in every fold.
+  coordinates: [51.5074, -0.1278]
 
 I'm pondering why this example of book-carving seems more attractive than the standard version. I think it's because the books wind up resembling not just a landscape, but also an architect's model of a landscape, with its stairstep topographical-map layers.
 

@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-17T21:38:37Z
+modDatetime: 2025-03-28T14:39:09Z
 title: A timeline of food
 slug: a-timeline-of-food
 featured: false
@@ -9,20 +10,19 @@ draft: false
 description: A fascinating look at the timeline of food inventions and when certain dishes first came to be enjoyed.
 emoji: 🍽️
 tags:
-  - 🍳 Cooking
-  - 🍔 Fast Food
-  - 📖 Articles
-  - 🌍 History
-haiku: |
+
+- 🌍 Culture-Making.com
+- 🍳 Cooking
+- 🍔 Fast Food
+- 📖 Articles
+- 🌍 History
+  haiku: |
   Meals through the ages,  
-  Flavors tell of times long past,  
-  Taste the years unfold.
-coordinates: [40.7128, -74.0060]
----
+   Flavors tell of times long past,  
+   Taste the years unfold.
+  coordinates: [40.7128, -74.0060]
 
 The site also has links to cookbooks and recipes (referring to date of publication rather than conception—hence the arrival, only last year when the _New York Times_ found out about 'em, of [Kool-Aid pickles](http://www.foodtimeline.org/foodfaq2.html#koolaidpickles)) a [kottke.org](http://www.kottke.org/08/12/a-timeline-of-food) post, 2 December 2008
-
----
 
 > [The Food Timeline](http://www.foodtimeline.org/) shows which foods were invented when. Ok, not invented, exactly, but first eaten. A tasting menu:Pretzels, 5th century AD.  
 > Pork and beans, 1475.  

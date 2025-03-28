@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2008-12-19
+modDatetime: 2025-03-28T14:39:11Z
 title: Passport census
 slug: passport-census
 featured: false
@@ -9,16 +10,17 @@ draft: false
 description: A reflection on the representation of American diversity through its passport imagery.
 emoji: 🇺🇸
 tags:
-  - 🌍 Diversity
-  - 🇺🇸 United States
-  - 🏞️ National Parks
-  - 🎨 Art
-haiku: |
+
+- 🌍 Culture-Making.com
+- 🌍 Diversity
+- 🇺🇸 United States
+- 🏞️ National Parks
+- 🎨 Art
+  haiku: |
   Icons of our land,  
-  A tapestry of life,  
-  In pages we stand.
-coordinates: [37.0902, -95.7129]
----
+   A tapestry of life,  
+   In pages we stand.
+  coordinates: [37.0902, -95.7129]
 
 Used to be the passport was (or became, with travel) an album of other countries' weird juxtaposed iconography. For now, though, we can get the same without leaving home
 
@@ -39,7 +41,4 @@ Used to be the passport was (or became, with travel) an album of other countries
 > | Female Humans:   | 1      |
 >
 > Of the eleven men, nine are white. The other two are cowboys whose race is rendered indeterminate by their Stetson hats. The lone woman is the Statue of Liberty
-
----
-
-from "[Open Letter to Senator Clinton](http://web.archive.org/web/20090321104918/http://www.nplusonemag.com:80/delson-piece)," by Rudolph Delson, [n+1](http://web.archive.org/web/20090321104918/http://www.nplusonemag.com:80/delson-piece), 18 December 2008
+> from "[Open Letter to Senator Clinton](http://web.archive.org/web/20090321104918/http://www.nplusonemag.com:80/delson-piece)," by Rudolph Delson, [n+1](http://web.archive.org/web/20090321104918/http://www.nplusonemag.com:80/delson-piece), 18 December 2008

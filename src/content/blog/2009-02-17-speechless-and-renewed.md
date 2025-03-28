@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2009-02-17
-modDatetime: 2025-03-18T20:45:57Z
+modDatetime: 2025-03-28T14:39:14Z
 title: Speechless and renewed
 slug: speechless-and-renewed
 featured: false
@@ -9,16 +10,17 @@ draft: false
 description: A reflection on the dual nature of poetry's impact, highlighting both its limitations and its profound significance.
 emoji: ✍️
 tags:
-  - ✍️ Poetry
-  - 🌍 Society
-  - 💬 Communication
-haiku: |
+
+- 🌍 Culture-Making.com
+- ✍️ Poetry
+- 🌍 Society
+- 💬 Communication
+  haiku: |
   No lyric ever
   Stopped a tank, and yet, yet, it
   Is unlimited.
 
 coordinates: [53.349805, -6.26031]
----
 
 > In one sense the efficacy of poetry is nil — no lyric ever stopped a tank. In another sense, it is unlimited. It is like the writing in the sand in the face of which accusers and the accused are left speechless and renewed
 >

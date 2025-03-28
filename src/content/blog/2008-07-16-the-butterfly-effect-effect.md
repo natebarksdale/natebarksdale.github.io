@@ -1,7 +1,8 @@
 ---
+
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-17T21:38:14Z
+modDatetime: 2025-03-28T14:38:57Z
 title: The Butterfly Effect effect
 slug: the-butterfly-effect-effect
 featured: false
@@ -9,13 +10,16 @@ draft: false
 description: A nice parable of unintended consequences.
 emoji: 🦋
 tags:
-  - ⚖️ Choices
-haiku: |
+
+- ➗ Mathematics
+- 🇨🇳 China
+- 🌍 Culture-Making.com
+- ⚖️ Choices
+  haiku: |
   Butterfly whispers,  
-  Small changes ripple out wide,  
-  Chaos reigns in time.
-coordinates: [30.2672, -97.7431]
----
+   Small changes ripple out wide,  
+   Chaos reigns in time.
+  coordinates: [30.2672, -97.7431]
 
 A nice parable of unintended consequences
 
