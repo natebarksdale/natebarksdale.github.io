@@ -47,10 +47,15 @@ I new I had the content in there somewhere, and that I wanted to break out the p
 
 [Read more at templeton.org].. and entered into a dialogue with the LLM. Its predicted suggestion was to create a `Python` script that would handle the file formatting and generate the Markdown front matter block, in the necessary `YAML` formatting. I had a little back and forth where I showed it one of the sample Markdown-formatted posts that had come with the `AstroPages` blog template I was using.
 
-> After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
+After some more back and forth (ChatGPT provided both sample code and bullet-point explanations that gave me a sense that the code had been assembled to do what I was asking for), I was ready to ask:
+
+> {ChatGPT}
+>
 > {Q} Cool. How would I test the script on my Mac?
+>
 > {A} Try the following python file ...
-> I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
+
+I followed the instructions and ... it didn't work. Hence more digging into the current state of things with LLM coding:
 
 1. Prompt the LLM for code
 2. Plug it in
@@ -60,13 +65,19 @@ I new I had the content in there somewhere, and that I wanted to break out the p
 6. Repeat until the error messages stop coming.
 7. Then check to see if the code actually accomplishes what you were asking for
    In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
-   > {Q} I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
-   > Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
+
+> {ChatGPT}
+>
+> {Q} I ran it but it didn't convert anything. I'll attach the full json file -- do I need to update the python script?
+
+Back to the error dance until I got a version that ran. Then more back-and-forth pasting in the output I was getting and the output I wanted. Then dropping some of the sample Markdown files into my actual blog folder, doing a `git` push to GitHub Pages, where the site is living, flagging errors, pasting those back into the LLM, and so forth.
 
 ## Link Rot
 
 Resurrection is a tricky business, and I knew that many of the things I had linked back in my 2008-10 blogging heyday would have been rotted out. So I had the `LLM` come up with another python script that would go through each Markdown file, look for links, check those links, and then replace broken links with a working fallback. My initial idea was to just construct a simple Google search link from the link text itself, but in practice these searchers were usually not very useful. Instead, what I landed on was generating and then checking a Wayback Machine link for an archived version of whatever page I had linked. Only if this failed would we fall further back to a Google search.
 
+> {ChatGPT}
+>
 > {A}
 >
 > ```python
