@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Rice husk power
 slug: rice-husk-power
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring innovative ways to convert agricultural waste, specifically rice husks, into sustainable energy solutions for rural villages in India.
 emoji: ♻️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- ⚙️ Technology
-- ❤️ Charity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - ⚙️ Technology
+  - ❤️ Charity
+haiku: |
   From husks, power grows,  
-   Transforming waste into light,  
-   Nature’s cycle thrives.
-  coordinates: [20.5937, 78.9629]
+  Transforming waste into light,  
+  Nature’s cycle thrives.
+coordinates: [20.5937, 78.9629]
+---
 
 Here's a cool-sounding example of a company developing for-profit "meso-power" stations that take local agricultural waste and use it to generate electricity for rural villages in India
 

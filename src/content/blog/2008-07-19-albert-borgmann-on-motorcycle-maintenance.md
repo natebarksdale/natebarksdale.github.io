@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Albert Borgmann on motorcycle maintenance
 slug: albert-borgmann-on-motorcycle-maintenance
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The implications of advancing technology on our relationship with motorcycles and the care they require.
 emoji: 🏍️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- ⚙️ Technology
-- 🌍 Culture
-- 🌍 Society
-- 💡 Innovation
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - ⚙️ Technology
+  - 🌍 Culture
+  - 🌍 Society
+  - 💡 Innovation
+haiku: |
   Machines hum softly,  
-   Care fades in the digital,  
-   Hands no longer touch.
-  coordinates: [46.4149, -105.8437]
+  Care fades in the digital,  
+  Hands no longer touch.
+coordinates: [46.4149, -105.8437]
+---
 
 When a great number of motorcycle functions are regulated by microelectronic rather than mechanical devices, the thoughtful inspection and tuning of the cycle beside a shady curbstone in Miles City, Montana, will have become a thing of the past. They will be impossible and unnecessary. A call for caring makes sense only within a reform proposal that recognizes and fruitfully counters the technological tendency to disburden and disengage us from the care of things.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-08-21
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Nine Ways to Make a Diamond
 slug: nine-ways-to-make-a-diamond
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Explore how minerals shape life on Earth and beyond in our latest study, revealing nine unique ways to create a diamond.
 emoji: 💎
 tags:
-
-- 🦠 Biology
-- 🧪 Chemistry
-- 🌀 Templeton
-- 🌍 Environment
-- 🌱 Sustainability
-- 🔍 Discoveries
-  haiku: |
+  - 🦠 Biology
+  - 🧪 Chemistry
+  - 🌀 Templeton
+  - 🌍 Environment
+  - 🌱 Sustainability
+  - 🔍 Discoveries
+haiku: |
   Minerals whisper,  
-   Life's secret architects bloom—  
-   Stars seek their echoes.
-  coordinates: [51.509865, -0.118092]
+  Life's secret architects bloom—  
+  Stars seek their echoes.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the intertwined evolution of minerals and life on Earth.
 

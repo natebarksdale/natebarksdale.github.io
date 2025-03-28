@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-21
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Two things you’ve never considered drinking before, but may want to now
 slug: two-things-youve-never-considered-drinking-before-but-may-want-to-now
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of unique culinary gems, from unexpected olive oil vendors to cherished Filipino restaurants.
 emoji: 🫒
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🍴 Cuisine
-- 🇹🇷 Turkey
-- 🍷 Alcohol
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🍴 Cuisine
+  - 🇹🇷 Turkey
+  - 🍷 Alcohol
+haiku: |
   Taste of worlds collide,  
-   Hidden gems in city streets,  
-   Flavors that unite.
-  coordinates: [51.5290, -0.1062]
+  Hidden gems in city streets,  
+  Flavors that unite.
+coordinates: [51.5290, -0.1062]
+---
 
 Of course all these lists of "50 best things" are, even at their best, arbitrary and hyperbolic. But they're also fun—clearly scratching some itch in the collective mind of reader and writer. In the case of food/travel lists like this one, they really can be a treat
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-15
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:45Z
 title: The other Prohibition
 slug: the-other-prohibition
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of the history and complexities of tipping practices in America.
 emoji: 💵
 tags:
-
-- 🌍 Culture-Making.com
-- 💰 Commerce
-- ⚖️ Law
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💰 Commerce
+  - ⚖️ Law
+  - ⚖️ Ethics
+haiku: |
   From pennies to laws,  
-   Society's struggle flows,  
-   Tips in the balance.
-  coordinates: [33.7490, -84.3880]
+  Society's struggle flows,  
+  Tips in the balance.
+coordinates: [33.7490, -84.3880]
+---
 
 From a nice long article on the history and psychology of tipping—which is of course as much about the tipper's needs as it is the tipee's
 

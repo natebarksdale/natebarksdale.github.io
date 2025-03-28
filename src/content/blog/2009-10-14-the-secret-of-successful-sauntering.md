@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-14
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:02Z
 title: The secret of successful sauntering
 slug: the-secret-of-successful-sauntering
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflecting on the paradox of seeking solitude in nature during the turmoil of war through Thoreau's insights.
 emoji: 🌳
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ❤️ Kindness
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ❤️ Kindness
+haiku: |
   In war's shadowed time,  
-   A quest for holy ground calls,  
-   Solace in the woods.
-  coordinates: [40.8075, -73.9626]
+  A quest for holy ground calls,  
+  Solace in the woods.
+coordinates: [40.8075, -73.9626]
+---
 
 Earlier this week I was reading Dickens' [Bleak House](http://books.google.com/books?id=z3QZAAAAYAAJ&printsec=frontcover&dq=dickens+bleak+house&ei=ViTWSuiEN4uolQTmg6moAQ#v=onepage&q=&f=false) on my phone while I was waiting in the doctor's office, and it was leaving me more and more lost. So on a whim I switched over to Thoreau's essay, which I must have first heard about in Rebecca Solnit's wonderful book [Wanderlust: A History of Walking](https://www.google.com/search?q=%22Wanderlust%3A%20A%20History%20of%20Walking%22%20amazon.com) and immediately felt more and more found. Insurance companies should recommend this stuff. Just now, though, I've been struck less by the lovely prose and surprising etymologies than by when in American History his essay was published—that is, in the middle of the Civil War, a few months after Shiloh and a few months before Antietam, each battle having topped the sum of all previous American war deaths in a single day. An odd time for an essay on the wonders of getting away from people and out into the landscape? Or perhaps the perfect time
 

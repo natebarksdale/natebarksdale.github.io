@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-12
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: A dirge revival
 slug: a-dirge-revival
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the cultural decline and potential revival of traditional funeral dirges in the Volta region of northern Ghana.
 emoji: 🎶
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- 🎶 Activities
-- ❤️ Resilience
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - 🎶 Activities
+  - ❤️ Resilience
+haiku: |
   Echoes of the past,  
-   Songs of sorrow now renewed,  
-   Death's embrace lingers.
-  coordinates: [7.0805, -0.0520]
+  Songs of sorrow now renewed,  
+  Death's embrace lingers.
+coordinates: [7.0805, -0.0520]
+---
 
 The cultural fall and rise of the traditional funeral dirges performed in the Volta region of northern Ghana: brought low by Christianity and recording technology, brought back by the same
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-12
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: Subtleties
 slug: subtleties
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: Reflecting on the complexities of subtitles and their role in film enjoyment and cultural exploration.
 emoji: 🎬
 tags:
-
-- ✨ Wonder
-- 🧪 Chemistry
-- 📺 Television
-- 🗣🗣️ Language
-- 🍷 Europe
-- ✍️ Translation
-- 🎥 Film
-- 🌍 Culture
-- 🌐 Blogging
-  haiku: |
+  - ✨ Wonder
+  - 🧪 Chemistry
+  - 📺 Television
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - ✍️ Translation
+  - 🎥 Film
+  - 🌍 Culture
+  - 🌐 Blogging
+haiku: |
   Words dance on the screen,  
-   Colors guide through foreign tales,  
-   Lost in translation.
-  coordinates: [35.6895, 139.6917]
+  Colors guide through foreign tales,  
+  Lost in translation.
+coordinates: [35.6895, 139.6917]
+---
 
 [![](@assets/images/subtitles_1.jpg)](@assets/images/subtitles_1.jpg)
 Still from Fellini's _8½_ (1963). Not the movie I've been talking about, but you get the idea

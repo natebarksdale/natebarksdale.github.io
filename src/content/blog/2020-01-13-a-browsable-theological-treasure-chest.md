@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-01-13
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: A Browsable, Theological Treasure-Chest
 slug: a-browsable-theological-treasure-chest
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: The new St. Andrews Encyclopædia of Theology hopes to make complex theological topics accessible for people of all backgrounds
 emoji: 📚
 tags:
-
-- ⚛️ Physics
-- 🦁 Africa
-- 🌀 Templeton
-- ⛪ Religion
-- ✝️ Christianity
-- ✡️ Judaism
-- 🌙 Islam
-  haiku: |
+  - ⚛️ Physics
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ⛪ Religion
+  - ✝️ Christianity
+  - ✡️ Judaism
+  - 🌙 Islam
+haiku: |
   Ancient faiths distilled,  
-   A web of sacred knowledge,  
-   Worlds connect, minds bloom.
-  coordinates: [56.339775, -2.796721]
+  A web of sacred knowledge,  
+  Worlds connect, minds bloom.
+coordinates: [56.339775, -2.796721]
+---
 
 For the John Templeton Foundation, I wrote about creating a comprehensive online theological resource.
 

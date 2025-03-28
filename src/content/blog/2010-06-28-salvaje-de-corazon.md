@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-28
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Salvaje de Corazon
 slug: salvaje-de-corazon
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A chilling reminder of the unintended consequences our cultural creations can have.
 emoji: 📚
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- ⚔️ Enemies
-- 🌀 Complexity
-- ✝️ Christianity
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - ⚔️ Enemies
+  - 🌀 Complexity
+  - ✝️ Christianity
+haiku: |
   Words inspire shadows,  
-   Echoes of the wild heart,  
-   Paths we cannot choose.
-  coordinates: [19.7033, -102.2242]
+  Echoes of the wild heart,  
+  Paths we cannot choose.
+coordinates: [19.7033, -102.2242]
+---
 
 Yet another reminder that we have little control over how our cultural creations will be used once we push them out into the world. The [Onion-esque](https://www.google.com/search?q=%22Onion-esque%22%20theonion.com) headline on this article would be hilarious if it weren't so chilling
 

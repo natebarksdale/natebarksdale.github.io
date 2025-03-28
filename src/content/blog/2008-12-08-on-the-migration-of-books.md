@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-08
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: On the migration of books
 slug: on-the-migration-of-books
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Orhan Pamuk reflects on the meaningful connection between his reading journey and his father's library, evoking thoughts on the books we cherish and share.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Books
-- 🌍 Culture
-- ✍️ Literature
-- 📚 Archives
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Books
+  - 🌍 Culture
+  - ✍️ Literature
+  - 📚 Archives
+haiku: |
   In father's old books,  
-   Tales cherished and shared with joy,  
-   Hearts and minds take flight.
-  coordinates: [41.0082, 28.9784]
+  Tales cherished and shared with joy,  
+  Hearts and minds take flight.
+coordinates: [41.0082, 28.9784]
+---
 
 This lovely opening to the Turkish Nobel laureate's memoir of a lifetime of reading calls to mind the dialogue from C.S. Lewis's _[God in the Dock](http://books.google.com/books?id=fg8XtMnARZ8C&pg=PA123&dq=c.s.+lewis+%22library+in+heaven%22&ei=cYU9SauWE5TUlQSRxKzBBA)_ , about how our libraries in heaven will likely only contain the books we've given away or lent. But such books they'll be!
 

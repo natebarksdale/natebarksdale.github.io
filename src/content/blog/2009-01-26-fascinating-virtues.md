@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-26
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Fascinating virtues
 slug: fascinating-virtues
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: As a fan of Whit Stillman's films, I appreciate how they explore convention and virtue with a unique perspective.
 emoji: 🎬
 tags:
-
-- 📖 Bible
-- 🌍 Culture-Making.com
-- 🌍 Society
-  haiku: |
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+haiku: |
   Virtue and drama,  
-   Convention opens new ways,  
-   Fun in every frame.
-  coordinates: [40.7306, -73.9352]
+  Convention opens new ways,  
+  Fun in every frame.
+coordinates: [40.7306, -73.9352]
+---
 
 I, too, am quite a fan of Whit Stillman's films (despite the fact that they somehow make me simultaneoulsy think, "Dude, I'm such a WASP," and "Dude, I'm so not a WASP"). To my mind the best of the trio is _[The Last Days of Disco](http://web.archive.org/web/20250120053538/https://www.imdb.com/title/tt0120728/)_ , though who wouldn't also love a movie (_[Barcelona](http://web.archive.org/web/20250120082325/https://www.imdb.com/title/tt0109219/)_) whose IMDB reviews include one called—accurately, no less—"The Bible Dancer and the American Deer
 

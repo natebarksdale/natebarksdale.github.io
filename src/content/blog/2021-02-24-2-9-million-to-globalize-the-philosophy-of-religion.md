@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-02-24
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: $2.9 Million to Globalize the Philosophy of Religion
 slug: 2-9-million-to-globalize-the-philosophy-of-religion
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Amplifying new voices and uncovering important scholarship beyond the Christian and Anglophone worlds
 emoji: 🌍
 tags:
-
-- ✡️ Judaism
-- 🗣🗣️ Language
-- 🌀 Templeton
-- ⛪ Religion
-- ✍️ Translation
-- 🌍 Globalization
-- 🌙 Islam
-  haiku: |
+  - ✡️ Judaism
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - ⛪ Religion
+  - ✍️ Translation
+  - 🌍 Globalization
+  - 🌙 Islam
+haiku: |
   Religions worldwide bloom,  
-   Philosophy's diverse seeds—  
-   Wisdom's global light.
-  coordinates: [52.4862, -1.8904]
+  Philosophy's diverse seeds—  
+  Wisdom's global light.
+coordinates: [52.4862, -1.8904]
+---
 
 For the John Templeton Foundation, I wrote about a project to make the study of the philosophy of religion better match the global spectrum of religious approaches.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-17
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:10Z
 title: The daily grind
 slug: the-daily-grind
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of the impact of maize processing on Mexican culture and women's roles in society.
 emoji: 🌽
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚙️ Technology
-- ❤️ Resilience
-- 🌱 Sustainability
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚙️ Technology
+  - ❤️ Resilience
+  - 🌱 Sustainability
+haiku: |
   Grinding corn for taste,  
-   Women choose jobs over bliss,  
-   Change through small decisions.
-  coordinates: [23.6345, -102.5528]
+  Women choose jobs over bliss,  
+  Change through small decisions.
+coordinates: [23.6345, -102.5528]
+---
 
 To make tortillas the traditional way, first you have to cook the maize with something alkaline (cement, for instance), and then grind the wet grains by hand, kneeling on the floor with your metate. It takes about an hour to grind enough to feed one person for one day. Until fifty years ago, there was no effective widespread way to automate this process: every Mexican household would have one woman in the back room, grinding wet corn for five hours a day. Since then, things have changed—bringing great benefits, widespread social change, and some losses too
 

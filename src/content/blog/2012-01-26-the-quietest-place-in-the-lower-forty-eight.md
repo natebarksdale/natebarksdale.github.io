@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-26
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:12Z
 title: The quietest place in the lower forty-eight
 slug: the-quietest-place-in-the-lower-forty-eight
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This excerpt highlights the profound tranquility of Olympic National Park and its unique auditory experience in nature.
 emoji: 🌲
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌍 Environment
-- 🌅 Reflection
-- 🏞️ National Parks
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌍 Environment
+  - 🌅 Reflection
+  - 🏞️ National Parks
+haiku: |
   In quiet whispers,  
-   Nature sings its ancient song,  
-   Peace in every breath.
-  coordinates: [47.4602, -123.9776]
+  Nature sings its ancient song,  
+  Peace in every breath.
+coordinates: [47.4602, -123.9776]
+---
 
 Quiet, at least, when it comes to manmade noise. I like the quote from a neuroscientist earlier in the article: "Hearing is designed to get information from much farther away than your eyes can reach ... Hearing is not something that evolved so you can talk to me. It evolved so you can learn about your world." It tends to be best done, then, at a distance.
 

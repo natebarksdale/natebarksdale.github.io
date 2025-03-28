@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Mountain Chief of Piegan Blackfeet, 1916
 slug: mountain-chief-of-piegan-blackfeet-1916
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring the rich heritage of the Piegan Blackfeet and the innovative spirit captured in early recording technology.
 emoji: 🎤
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Indigenous Culture
-- 🎨 Art
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Indigenous Culture
+  - 🎨 Art
+haiku: |
   Voices from the past,  
-   Mountain Chief sings anew,  
-   Echoes through the years.
-  coordinates: [48.54, -113.16]
+  Mountain Chief sings anew,  
+  Echoes through the years.
+coordinates: [48.54, -113.16]
+---
 
 Although in this case the phonograph horn is used for recording, this photo's nonetheless an interesting visual precursor to the famous [Maxell tape ad](http://reel2reeltexas.com/vin80Maxell.jpg). Meanwhile, Wikipedia says that the Piegan Blackfeet these days live mostly on the larger Blackfeet Nation in northwestern Montana
 [![photo](http://culture-making.com/media/20061u.jpg)](http://www.shorpy.com/node/3582?size=_original)

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Africa and missionaries, pt. 2
 slug: africa-and-missionaries-pt-2
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A heartwarming exchange between cultures, showcasing the impact of priests serving in U.S. parishes and their connection to home.
 emoji: ✝️
 tags:
-
-- 📖 Bible
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ❤️ Charity
-- 🌍 Society
-  haiku: |
+  - 📖 Bible
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ❤️ Charity
+  - 🌍 Society
+haiku: |
   Priests cross the oceans,  
-   Teaching love, sharing wisdom,  
-   Unity in faith.
-  coordinates: [40.7128, -74.0060]
+  Teaching love, sharing wisdom,  
+  Unity in faith.
+coordinates: [40.7128, -74.0060]
+---
 
 From a three-article series that the _New York Times_ ran Christmas week. A lovely portrait of the sort of exchange that plays to the needs and strengths of both the sending and receiving cultures: priests come to the US to serve understaffed dioceses, whose members can then be brought into partnership to support development projects in their priests' home countries
 

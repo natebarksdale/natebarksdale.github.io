@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-02-20
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Timeless Truths
 slug: timeless-truths
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Does time even exist? Investigating a mind-bending paradox at the heart of our reality.
 emoji: 🕰️
 tags:
-
-- ➗ Mathematics
-- ⚛️ Physics
-- 🌀 Templeton
-- ⏰ Time
-- 📜 Ancient Texts
-  haiku: |
+  - ➗ Mathematics
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - ⏰ Time
+  - 📜 Ancient Texts
+haiku: |
   Einstein's gift questions,  
-   Philosophers doubt time's thread—  
-   Truths woven in stars.
-  coordinates: [20.5937, 78.9629]
+  Philosophers doubt time's thread—  
+  Truths woven in stars.
+coordinates: [20.5937, 78.9629]
+---
 
 For the John Templeton Foundation, I wrote about the notion that time itself might be an illusion.
 

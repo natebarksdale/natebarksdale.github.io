@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-01-28
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Training Faculty to Tackle the Big Questions of Today and Tomorrow
 slug: training-faculty-to-tackle-the-big-questions-of-today-and-tomorrow
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A new round of fellowships will equip tenured philosophers and theologians to dive deeply into the empirical sciences
 emoji: 🧠
 tags:
-
-- 🌀 Templeton
-- 🏫 Education
-- 🧠 Psychology
-- 🔍 Discoveries
-  haiku: |
+  - 🌀 Templeton
+  - 🏫 Education
+  - 🧠 Psychology
+  - 🔍 Discoveries
+haiku: |
   Universes unfold,  
-   Philosophers seek truths new,  
-   Science bridges minds.
-  coordinates: [40.0024, -75.2581]
+  Philosophers seek truths new,  
+  Science bridges minds.
+coordinates: [40.0024, -75.2581]
+---
 
 For the John Templeton Foundation, I wrote about how a new fellowship program is equipping scholars to explore interdisciplinary questions about life's greatest mysteries.
 

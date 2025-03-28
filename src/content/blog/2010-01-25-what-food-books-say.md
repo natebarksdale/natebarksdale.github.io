@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-25
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: What food books say
 slug: what-food-books-say
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A reflection on our complex relationship with food and cookbooks, revealing both knowledge and ignorance throughout history.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 🍳 Cooking
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🍳 Cooking
+  - 🌍 Culture
+haiku: |
   Shelves line with wisdom,  
-   Flavorful codes of our lives,  
-   Hungry for the past.
-  coordinates: [41.7632, -72.6734]
+  Flavorful codes of our lives,  
+  Hungry for the past.
+coordinates: [41.7632, -72.6734]
+---
 
 Our shelves of cookbooks are fascinating not so much as a body of knowledge, but as a body of ignorance: they contain what we don't know (or no longer know) about food, but our ignorance and aspirations take on very specific, trend-sensitive forms, a bit like—come to think of it—a good bundt pan waiting for batter
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-05-30
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: A Night for the Ages
 slug: a-night-for-the-ages
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Marcelo Gleiser receives the 2019 Templeton Prize at the Met, blending ancient myths with cutting-edge cosmology in an unforgettable ceremony.
 emoji: 🌌
 tags:
-
-- 🦁 Africa
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🏛️ Museums
-- ✍️ Literature
-  haiku: |
+  - 🦁 Africa
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🏛️ Museums
+  - ✍️ Literature
+haiku: |
   In ancient halls, stars  
-   Gleiser's mind spans myths and space,  
-   Rain mingles with time.
-  coordinates: [40.779437, -73.963244]
+  Gleiser's mind spans myths and space,  
+  Rain mingles with time.
+coordinates: [40.779437, -73.963244]
+---
 
 For the John Templeton Foundation, I wrote about Marcelo Gleiser's Templeton Prize celebration.
 

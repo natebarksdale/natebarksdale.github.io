@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-17
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Cheaper than a bottle of wine
 slug: cheaper-than-a-bottle-of-wine
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Celebrating the enduring legacy of Thonet's Model No. 14, a chair that revolutionized design and accessibility.
 emoji: 🪑
 tags:
-
-- ➗ Mathematics
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- 🪑 Chairs
-- 🌍 Culture
-  haiku: |
+  - ➗ Mathematics
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - 🪑 Chairs
+  - 🌍 Culture
+haiku: |
   Century of form,  
-   Simple wood unites us all,  
-   Seats for every soul.
-  coordinates: [51.0585, 14.5050]
+  Simple wood unites us all,  
+  Seats for every soul.
+coordinates: [51.0585, 14.5050]
+---
 
 "The world's most popular chair" turns 150
 

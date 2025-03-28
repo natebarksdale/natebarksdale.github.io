@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-31
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: Only a game, but not just a game
 slug: only-a-game-but-not-just-a-game
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A thoughtful reflection on the complexities of life mirrored in the nuances of test match cricket.
 emoji: 🏏
 tags:
-
-- 🌍 Culture-Making.com
-- 🎭 Tragedy
-- 🌍 Society
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎭 Tragedy
+  - 🌍 Society
+  - 🌍 Culture
+haiku: |
   Days stretch like sorrow,  
-   Drawn battles play out in time,  
-   Life’s rich game unfolds.
-  coordinates: [51.5145, -0.1425]
+  Drawn battles play out in time,  
+  Life’s rich game unfolds.
+coordinates: [51.5145, -0.1425]
+---
 
 The highest form of cricket, the test match, can take five days to play and can still end in a draw. This maddens many a baseball-raised, extra-innings-till-it's-over outsider, but nonetheless, this columnist argues, it's a very good, and very human thing
 

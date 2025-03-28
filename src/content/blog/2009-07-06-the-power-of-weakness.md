@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-06
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: The power of weakness
 slug: the-power-of-weakness
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: From Xavier Le Pichon, a reflection on the strength found in fragility and human connection.
 emoji: 🌱
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ❤️ Kindness
-- ❤️ Love
-- 💧 Rituals
-- 🌍 Diversity
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ❤️ Kindness
+  - ❤️ Love
+  - 💧 Rituals
+  - 🌍 Diversity
+haiku: |
   In fragile moments,  
-   Strength blooms through shared weakness,  
-   Love binds us as one.
-  coordinates: [46.1300, -1.1999]
+  Strength blooms through shared weakness,  
+  Love binds us as one.
+coordinates: [46.1300, -1.1999]
+---
 
 From a long and moving theological and philosophical essay about suffering and human society, by Xavier Le Pichon, a geophysicist (a key figure in the development of plate techtonics) who has lived for many years at [L'Arche](http://en.wikipedia.org/wiki/L%27Arche) and other communities centered around members who suffer from mental illness. He discusses the ideas in his essay in a wonderful 1hr public radio [interview](http://web.archive.org/web/20100724224744/http://speakingoffaith.publicradio.org:80/programs/2009/fragility/) here
 

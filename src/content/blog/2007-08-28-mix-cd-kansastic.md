@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Kansastic!
 slug: mix-cd-kansastic
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Celebrating the spirit of Kansas, inspired by my friends Jonathan and Robyn's move to western Kansas in 2007.
 emoji: 🌾
 tags:
-
-- 💿 Mix CDs
-- 🎵 Music
-- 🌆 Cities
-- 📝 Writing
-  haiku: |
+  - 💿 Mix CDs
+  - 🎵 Music
+  - 🌆 Cities
+  - 📝 Writing
+haiku: |
   Plains stretch far and wide,  
-   Friends create a melody,  
-   Kansas dreams collide.
-  coordinates: [39.0997, -98.5000]
+  Friends create a melody,  
+  Kansas dreams collide.
+coordinates: [39.0997, -98.5000]
+---
 
 #### Catalog No. 036.1A07-1
 

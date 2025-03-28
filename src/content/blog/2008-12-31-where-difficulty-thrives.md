@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-31
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Where difficulty thrives
 slug: where-difficulty-thrives
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: As a non-gamer, I find it interesting how the challenge of difficulty in video games parallels discussions in literature.
 emoji: 🎮
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-- 📖 Books
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+  - 📖 Books
+  - ⚖️ Choices
+haiku: |
   New art embraces  
-   A struggle revered now,  
-   Words too easy fade.
-  coordinates: [40.7128, -74.0060]
+  A struggle revered now,  
+  Words too easy fade.
+coordinates: [40.7128, -74.0060]
+---
 
 Non-gamer that I am, I feel less qualified to comment. Well, back to my difficult books I guess
 a [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/12/23/pm-edition-are-computer-games-art/) post, 23 December 2008

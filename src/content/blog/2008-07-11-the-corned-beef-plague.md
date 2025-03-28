@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: The corned beef plague
 slug: the-corned-beef-plague
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of obesity trends in the Pacific Islands and beyond.
 emoji: 🍖
 tags:
-
-- 🧬 Genetics
-- 🌍 Culture-Making.com
-- 🇦🇺 Australia
-- 🌍 Health
-- 🍔 Fast Food
-- 🌍 Culture
-- ⚖️ Ethics
-  haiku: |
+  - 🧬 Genetics
+  - 🌍 Culture-Making.com
+  - 🇦🇺 Australia
+  - 🌍 Health
+  - 🍔 Fast Food
+  - 🌍 Culture
+  - ⚖️ Ethics
+haiku: |
   Oceans bring us ease,  
-   Processed meats fill the tables,  
-   Health fades in the breeze.
-  coordinates: [-10.0000, 166.0000]
+  Processed meats fill the tables,  
+  Health fades in the breeze.
+coordinates: [-10.0000, 166.0000]
+---
 
 The Pacific Islands affinity for processed, canned meats dates, in large part, to World War II, which brought Spam and Marines to the region, though bio-anthropologists suggest that cultures built around long ocean voyages favor those with genetic predisposition to building ample fat reserves
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Give me a telenovela and I’ll give you a nation
 slug: give-me-a-telenovela-and-ill-give-you-a-nation
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of how telenovelas serve as both cultural mirrors and therapeutic narratives for countries, highlighting their unique emotional resonance and production values.
 emoji: 🎭
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📺 Television
-- 🤝 Collaboration
-- 🌆 Urban Spaces
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📺 Television
+  - 🤝 Collaboration
+  - 🌆 Urban Spaces
+haiku: |
   Stories intertwine,  
-   Love and loss in every frame,  
-   Healing through the screen.
-  coordinates: [55.7558, 37.6173]
+  Love and loss in every frame,  
+  Healing through the screen.
+coordinates: [55.7558, 37.6173]
+---
 
 Thoughts on drama, production values, and collective therapy from the director of the transglobal, peripatetic Telenovela Institute, studying the effect of Latin American TV soaps in Eastern Europe and around the world
 

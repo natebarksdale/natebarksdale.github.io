@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-10-22
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Wise Guise
 slug: wise-guise
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: People have been debating what counts as wisdom for a long, long time. Indeed, arguably the oldest literature we have is wisdom literature.
 emoji: 🧠
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 💡 Wisdom
-- 🌍 Culture
-- 📊 Surveys
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 💡 Wisdom
+  - 🌍 Culture
+  - 📊 Surveys
+haiku: |
   Ancient words whisper,  
-   Across lands wisdom echoes,  
-   Seek, yet it hides deep.
-  coordinates: [43.4723, -80.5449]
+  Across lands wisdom echoes,  
+  Seek, yet it hides deep.
+coordinates: [43.4723, -80.5449]
+---
 
 For the John Templeton Foundation, I wrote about the universal traits that define wisdom across different cultures.
 

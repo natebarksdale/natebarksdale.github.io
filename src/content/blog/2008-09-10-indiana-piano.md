@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-10
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Indiana piano
 slug: indiana-piano
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A glimpse into Lexo Toradze's vibrant community of Russian and Georgian pianists in South Bend, Indiana.
 emoji: 🎹
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🇷🇺 Russia
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🇷🇺 Russia
+haiku: |
   In South Bend they play,  
-   Russian hearts in American,  
-   Family of sound.
-  coordinates: [41.6834, -86.2520]
+  Russian hearts in American,  
+  Family of sound.
+coordinates: [41.6834, -86.2520]
+---
 
 Alexander "Lexo" Toradze is the center of a community of Russian and Georgian pianists—not in one the usual cosmopolitan centers, but in South Bend, Indiana
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-23
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,19 +9,20 @@ draft: False
 description: In October 1872, amid moments of change, a peculiar event begins with a horse sneezing near Toronto.
 emoji: 🐴
 tags:
-
-- 💡 Ozy.com
-- 🌍 History
-- 🌍 Society
-- 🗺️ States
-- 🇨🇦 Canada
-- ⚙️ Engineering
-  haiku: |
+  - 💡 Ozy.com
+  - 🌍 History
+  - 🌍 Society
+  - 🗺️ States
+  - 🇨🇦 Canada
+  - ⚙️ Engineering
+haiku: |
   A sneeze in the night,  
-   Horses caught in a strange fate,  
-   History unfolds.
+  Horses caught in a strange fate,  
+  History unfolds.
 
 coordinates: [43.7, -79.4]
+---
+
 [![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _This is my favorite of the short pieces I wrote for Ozy.com last year_

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Part of why we’re holding off, for the moment, on hosting traditional comments on this site
 slug: part-of-why-were-holding-off-for-the-moment-on-hosting-traditional-comments-on-this-site
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on Rozanov's critique of Herzen and the paradox of emotional impact in literature.
 emoji: 😢
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- ⚖️ Ethics
-- 🌍 Culture
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 💬 Communication
+haiku: |
   Words stir deep emotions,  
-   Sane minds can't make hearts tremble,  
-   Tears by prose’s touch.
-  coordinates: [55.7558, 37.6173]
+  Sane minds can't make hearts tremble,  
+  Tears by prose’s touch.
+coordinates: [55.7558, 37.6173]
+---
 
 Full disclosure: I have no clue who Rozanov or Herzen are either. Off to Wikipedia ..
 a tumblr post by [Keith Gessen](http://keithgessen.tumblr.com/post/43521561/young-girls-crying), 25 July 2008

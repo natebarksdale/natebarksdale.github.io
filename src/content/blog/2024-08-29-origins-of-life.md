@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-08-29
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Origins of Life
 slug: origins-of-life
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the fascinating theories behind the origins of life, delving into scientific insights and philosophical inquiries that challenge our understanding of existence.
 emoji: 🌍
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- 🌍 Evolution
-- 🌌 Astronomy
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - 🌍 Evolution
+  - 🌌 Astronomy
+haiku: |
   Life's deep origins,
   Words bridge gaps, binding cultures,
   Understanding blooms.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the intriguing quest to understand how life began.
 

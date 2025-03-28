@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Community you can smell
 slug: community-you-can-smell
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the essence of true community beyond virtual connections.
 emoji: 👃
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 📰 Media
-- 📱 Social Networks
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 📰 Media
+  - 📱 Social Networks
+haiku: |
   In person we bond,  
-   Senses awaken to life,  
-   Smell of the real world.
-  coordinates: [40.7831, -119.2046]
+  Senses awaken to life,  
+  Smell of the real world.
+coordinates: [40.7831, -119.2046]
+---
 
 > People talk about an Internet community, but that’s not a community to my mind. Community doesn’t happen until you smell people.
 >

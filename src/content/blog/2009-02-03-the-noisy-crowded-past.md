@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:54Z
 title: The noisy, crowded past
 slug: the-noisy-crowded-past
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Reflecting on the contrasts of solitude and noise throughout human history, Alan Jacobs delves into the complexities of personal space.
 emoji: 🏞️
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Society
-- ⚒️ Blacksmiths
-- 🌅 Reflection
-- 🧠 Psychology
-- 🎭 Irony
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - ⚒️ Blacksmiths
+  - 🌅 Reflection
+  - 🧠 Psychology
+  - 🎭 Irony
+haiku: |
   In crowded silence,  
-   Rooms filled with lives intertwine,  
-   Yearning for stillness.
-  coordinates: [51.5074, -0.1278]
+  Rooms filled with lives intertwine,  
+  Yearning for stillness.
+coordinates: [51.5074, -0.1278]
+---
 
 It's interesting to stop and ponder (as I'm able to do in my quiet, private workspace) the possibilities opened up, and closed off, by an age in which, for many of us, both solitude and non-solitude are often just a matter of closing a door or flipping a switch
 

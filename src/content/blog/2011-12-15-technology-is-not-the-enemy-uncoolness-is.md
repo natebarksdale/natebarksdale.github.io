@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-12-15
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Technology is not the enemy (uncoolness is)
 slug: technology-is-not-the-enemy-uncoolness-is
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: An exploration of how technology's role in language preservation is changing perceptions among indigenous communities.
 emoji: 🌍
 tags:
-
-- 📺 Television
-- 🗣🗣️ Language
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🌍 Indigenous Culture
-- ⚙️ Technology
-- 💡 Innovation
-- 📝 Writing
-  haiku: |
+  - 📺 Television
+  - 🗣🗣️ Language
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🌍 Indigenous Culture
+  - ⚙️ Technology
+  - 💡 Innovation
+  - 📝 Writing
+haiku: |
   Voices from the past,  
-   Digital paths intertwine,  
-   Cultures rise anew.
-  coordinates: [36.1613, -105.5732]
+  Digital paths intertwine,  
+  Cultures rise anew.
+coordinates: [36.1613, -105.5732]
+---
 
 Some languages are making a comeback thanks to a strong desire on the part of speakers to send one another text messages in them. For endangered scripts, the revival will be longer in coming, till smartphones work their way cheaply into the right eager hands.
 

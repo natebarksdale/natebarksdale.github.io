@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-17
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:31:59Z
 title: Fashion fasts and feasts
 slug: fashion-fasts-and-feasts
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the concept of sustainable fashion through creativity and an enduring uniform, Sheena Matheiken's Uniform Project champions both style and social impact.
 emoji: 👗
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌱 Sustainability
-- ❤️ Kindness
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌱 Sustainability
+  - ❤️ Kindness
+  - 🌍 Culture
+haiku: |
   One dress, seven ways,  
-   Style and purpose intertwined,  
-   Fashion with a cause.
-  coordinates: [19.0760, 72.8777]
+  Style and purpose intertwined,  
+  Fashion with a cause.
+coordinates: [19.0760, 72.8777]
+---
 
 Sheena Matheiken's Uniform Project is the latest in a series of web-documented undertakings wherein a young woman wears the same dress every day for a month, a season, a year. Interestingly, though though all the project descriptions circle the same themes of beauty, image, creativity, consumption, discipline, feminism and femininity, each one winds up having its unique angle. Andrea Rosen's [A–Z Uniforms](http://www.andrearosengallery.com/exhibitions/2004_1_andrea-zittel/) (1991–2002) has a definite performance-art edge; Alex Martin's [Brown Dress](http://web.archive.org/web/20201109033157/http://www.littlebrowndress.com/brown%20dress%20archive%20home.htm) (2005–06) called itself "a one-woman show against fashion"; Tala Strauss wrote last year about her month-long Dress Project [in terms of contemplation, fasting, and liturgy](http://web.archive.org/web/20231224004134/https://www.curatormagazine.com/talastrauss/the-dress-project/). The Uniform Project, in just its 48th day, consistently puts creativity and cuteness at the forefront, perhaps bending the sustainability goal to make way for an endless parade of accessories that are at times so comprehensive as to render the actual uniform superfluous. Interesting that the repeated-dresses in all these projects were dark colored and generally simple (perhaps at least partway explaining why the participants all report all being surprised at how few of their colleagues noticed the fashion-repeats; presumably a Lime Green Dress Project might play out a little differently. Or maybe not.)
 

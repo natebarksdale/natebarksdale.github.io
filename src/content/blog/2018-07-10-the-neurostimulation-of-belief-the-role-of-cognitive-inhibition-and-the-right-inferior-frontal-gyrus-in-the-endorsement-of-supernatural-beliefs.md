@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-07-10
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Using brain stimulation to test the relationship between intuition and religious belief
 emoji: 🧠
 tags:
-
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 🧘‍♂️ Psychology
-- ⛪ Religion
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 🧘‍♂️ Psychology
+  - ⛪ Religion
+haiku: |
   Mind's ancient whispers,  
-   Clash with cold rational light—  
-   Beliefs flicker, change.
+  Clash with cold rational light—  
+  Beliefs flicker, change.
 
 coordinates: [51.5074, -0.1278]
+---
+
 For the John Templeton Foundation, I wrote about the intersection of neurostimulation and supernatural belief.
 
 > One of the Enlightenment’s key legacies has been the rise of a secular, even atheistic, approach to human reason, in which belief in the supernatural is seen as distinct from and often antithetical to rational thought. Over the past decade, a number of scientific studies have been published supporting the so-called Intuitive Belief Hypothesis, which associates intuitive thinking styles with religious belief — some even suggesting that priming people to think more analytically suppresses their supernatural beliefs.

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-25
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Med students, majority culture, and alternative medicine
 slug: med-students-majority-culture-and-alternative-medicine
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the contrasting views of non-white medical students on alternative medicine reveals deeper cultural dynamics at play.
 emoji: 🌎
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Diversity
-- 🤝 Collaboration
-- 🗳️ Politics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Diversity
+  - 🤝 Collaboration
+  - 🗳️ Politics
+haiku: |
   Cultures collide here,  
-   Healing paths diverge from roots,  
-   Tradition lost still.
-  coordinates: [37.0902, -95.7129]
+  Healing paths diverge from roots,  
+  Tradition lost still.
+coordinates: [37.0902, -95.7129]
+---
 
 What might be behind non-white medical students being proportionally less interested in studying contemporary alternative medicine? Perhaps the cultural leap of signing on to western/majority-culture medical orthodoxy inherently involves leaving minority-culture views and techniques behind. Or perhaps, too, there's just the fact that, for many minority-background med students, alternative medicine lacks the exotic allure it might hold, at least these days, for their white counterparts
 

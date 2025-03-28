@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: Who’s a good dog?
 slug: whos-a-good-dog
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A look into the fascinating and cultural trend of pet names in L.A. County.
 emoji: 🐕
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📖 Articles
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📖 Articles
+haiku: |
   Fluffy names abound,  
-   Chihuahuas reign supreme,  
-   Lucky dogs are found.
-  coordinates: [34.0522, -118.2437]
+  Chihuahuas reign supreme,  
+  Lucky dogs are found.
+coordinates: [34.0522, -118.2437]
+---
 
 This was the top graphical item on today's LA Times website. A little disturbing that something so fluffy is the main news. But it's undeniably fascinating ... and, of course, undeniably cultural
 

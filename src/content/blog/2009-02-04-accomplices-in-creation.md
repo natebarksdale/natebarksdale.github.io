@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-04
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Accomplices in creation
 slug: accomplices-in-creation
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Virginia Woolf explores the intricate relationship between readers and texts, urging us to engage as co-creators rather than mere critics.
 emoji: 📚
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌀 Complexity
-- ⚖️ Choices
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌀 Complexity
+  - ⚖️ Choices
+haiku: |
   Co-creation thrives,  
-   Words woven with empathy,  
-   Readers craft the tale.
-  coordinates: [51.5085, -0.1257]
+  Words woven with empathy,  
+  Readers craft the tale.
+coordinates: [51.5085, -0.1257]
+---
 
 Woolf argues that a good reader needs to approach a text as a co-creator rather than a simple consumer or even a critic (though keep reading her essay ... eventually the time arrives to mount the judge's bench)
 

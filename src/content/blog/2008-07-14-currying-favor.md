@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Currying favor
 slug: currying-favor
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on how the global journey of curry began with its roots in India and transformed into a culinary phenomenon.
 emoji: 🍛
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🔄 Commitment
-- 📝 Writing
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🔄 Commitment
+  - 📝 Writing
+haiku: |
   Spices cross the seas,  
-   From kitchens, secrets unfold,  
-   Cultures blend in taste.
-  coordinates: [20.5937, 78.9629]
+  From kitchens, secrets unfold,  
+  Cultures blend in taste.
+coordinates: [20.5937, 78.9629]
+---
 
 A nice parable of a creation far outpacing its creator
 

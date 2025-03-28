@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-30
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Making the stairs more inviting
 slug: making-the-stairs-more-inviting
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring how building design and small nudges can encourage more people to take the stairs rather than the elevator.
 emoji: 🏢
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- 🌍 Health
-- 🏛️ Architecture
-- 🧠 Psychology
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - 🌍 Health
+  - 🏛️ Architecture
+  - 🧠 Psychology
+haiku: |
   Rise up sturdy steps,  
-   With music and a view,  
-   Choose health every time.
-  coordinates: [41.8781, -87.6298]
+  With music and a view,  
+  Choose health every time.
+coordinates: [41.8781, -87.6298]
+---
 
 The only downside I see to this is if stairwell music winds up with as bad a rep as its elevator cousin
 

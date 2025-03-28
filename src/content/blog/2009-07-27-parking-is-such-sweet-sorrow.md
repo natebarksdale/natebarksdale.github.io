@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-27
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Parking is such sweet sorrow
 slug: parking-is-such-sweet-sorrow
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A thought-provoking examination of how infrastructure shapes cultural expectations, particularly in the case of Disney Hall and its parking garage's financial burdens.
 emoji: 🎭
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🚗 Cars
-- ⚙️ Engineering
-- ⚒️ Blacksmiths
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🚗 Cars
+  - ⚙️ Engineering
+  - ⚒️ Blacksmiths
+haiku: |
   Infrastructure binds,  
-   Parking dictates the art's pulse,  
-   Culture shaped by stone.
-  coordinates: [34.0406, -118.2500]
+  Parking dictates the art's pulse,  
+  Culture shaped by stone.
+coordinates: [34.0406, -118.2500]
+---
 
 Fascinating example of infrastructure mandating (and at the same time limiting) the culture of a particular place, from the journal of the University of California's Transportation Center. Includes this quote from urban historian Lewis Mumford: "The right to access every building in the city by private motorcar, in an age where everyone owns such a vehicle, is actually the right to destroy the city
 

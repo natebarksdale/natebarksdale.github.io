@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-05-16
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: How Drive‑Thru Dining Changed Fast Food
 slug: how-drive-thru-dining-changed-fast-food
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore how a small 1948 burger shack revolutionized fast food with drive-thru dining, setting the stage for a global phenomenon.
 emoji: 🍔
 tags:
-
-- 🇭 History.com
-- 🍔 Fast Food
-- 🇺🇸 United States
-- 🚗 Cars
-  haiku: |
+  - 🇭 History.com
+  - 🍔 Fast Food
+  - 🇺🇸 United States
+  - 🚗 Cars
+haiku: |
   Burgers glide through glass,  
-   "No Delay" in neon lights—  
-   Drive-thru revolution.
-  coordinates: [51.509865, -0.118092]
+  "No Delay" in neon lights—  
+  Drive-thru revolution.
+coordinates: [51.509865, -0.118092]
+---
 
 For the History Channel, I wrote about the drive-through (Irish public radio even interviewed me based on this piece).
 

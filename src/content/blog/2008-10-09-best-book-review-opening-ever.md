@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Best book review opening ever
 slug: best-book-review-opening-ever
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the sensory experience of books, particularly their scents, as captured in Nicholson Baker's delightful prose.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Books
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Books
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Pages hold a scent,  
-   Whispers of words, fresh and new,  
-   Thoughts linger like ink.
-  coordinates: [40.7128, -74.0060]
+  Whispers of words, fresh and new,  
+  Thoughts linger like ink.
+coordinates: [40.7128, -74.0060]
+---
 
 Perhaps my title's a bit hyperbolic, but writing today's other smell-related post got me fondly recalling my favorite sentence (and there was good competition) from Nicholson Baker's 1997 essay collection, _The Size of Thoughts_ , which is—with a few diversions—a string of celebrations of commonplace cultural objects, often starting at the point before the starting point: the smell of a fresh book, the friendly rattle of a model airplane kit still in the box
 

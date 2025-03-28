@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Applied semiotics
 slug: applied-semiotics
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This amusing reflection on "American-style Easter" highlights the quirky blend of commercialism and tradition.
 emoji: 🐣
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- 🌍 Culture
-- ❤️ Kindness
-- 🍬 Desserts
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - 🌍 Culture
+  - ❤️ Kindness
+  - 🍬 Desserts
+haiku: |
   Baskets filled with sweets,  
-   Rabbits bring eggs, Jesus smiles,  
-   Pastels chase the chill.
-  coordinates: [39.8283, -98.5795]
+  Rabbits bring eggs, Jesus smiles,  
+  Pastels chase the chill.
+coordinates: [39.8283, -98.5795]
+---
 
 This reminds me of the time I had to explain "American-style Easter" to a Kenyan Christian classmate of mine. Her eyes just got wider and wider, and I felt more and more the fool. "See, we take these baskets, and we fill them with plastic grass and chocolate eggs laid by rabbits. Then we eat a big ham
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Boxes of worship
 slug: boxes-of-worship
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The idea of transforming defunct big-box stores into churches offers a unique and creative reuse of space.
 emoji: 🏬
 tags:
-
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- ⛪ Religion
-- 🏢 Buildings
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - ⛪ Religion
+  - 🏢 Buildings
+  - 🌍 Society
+haiku: |
   Empty shelves now hold  
-   Faith instead of commerce,  
-   New life in old walls.
-  coordinates: [27.8420, -82.7340]
+  Faith instead of commerce,  
+  New life in old walls.
+coordinates: [27.8420, -82.7340]
+---
 
 I'd say the idea of repurposing a defunct big-box store as a church is far more appealing to me than purpose-building churches that look like ... big box stores
 

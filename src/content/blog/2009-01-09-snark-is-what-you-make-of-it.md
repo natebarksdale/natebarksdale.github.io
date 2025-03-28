@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Snark is what you make of it
 slug: snark-is-what-you-make-of-it
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Alan Jacobs reflects on the divisive nature of snark in criticism and its impact on discourse.
 emoji: 🤷‍♂️
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🗣️ Language
-- ⚔️ Enemies
-- ⚖️ Ethics
-- 🌍 Society
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🗣️ Language
+  - ⚔️ Enemies
+  - ⚖️ Ethics
+  - 🌍 Society
+haiku: |
   Language sharp and cold,  
-   Bonds of trust swiftly erode,  
-   Hearts lose, minds uphold.
-  coordinates: [40.7128, -74.0060]
+  Bonds of trust swiftly erode,  
+  Hearts lose, minds uphold.
+coordinates: [40.7128, -74.0060]
+---
 
 Alan Jacobs reviews himself reviewing Adam Sternbergh [reviewing](http://web.archive.org/web/20051231201121/http://www.printthis.clickability.com:80/pt/cpt?action=cpt) David Denby's [_Snark_](http://web.archive.org/web/20250131111013/https://www.amazon.com/Snark-David-Denby/dp/1416599452/)
 

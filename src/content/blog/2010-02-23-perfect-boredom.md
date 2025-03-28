@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: Perfect boredom
 slug: perfect-boredom
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Exploring the intriguing nature of boredom and its potential beauty in a world of peace and familiarity.
 emoji: 🌌
 tags:
-
-- ✨ Wonder
-- 📺 Television
-- 📖 Bible
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌅 Reflection
-- ❤️ Kindness
-- ⚖️ Ethics
-  haiku: |
+  - ✨ Wonder
+  - 📺 Television
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌅 Reflection
+  - ❤️ Kindness
+  - ⚖️ Ethics
+haiku: |
   In quiet moments,  
-   Boredom blooms like soft petals,  
-   Stillness holds its breath.
-  coordinates: [51.5074, -0.1278]
+  Boredom blooms like soft petals,  
+  Stillness holds its breath.
+coordinates: [51.5074, -0.1278]
+---
 
 On of the more facile critiques of the idea of heaven is that, what with all the sitting around on clouds strumming harps to no end, it'll be boring. That's hardly the true picture of the culture-packed-and-meaningful-work-filled New Jerusalem of the Bible's final chapters, but one wonders whether there will be room for boredom in a place without sorrow or pain. What will redeemed bordom look like? Perhaps something like this or, more to the point, something like peace: the lion shall laze with the lamb
 

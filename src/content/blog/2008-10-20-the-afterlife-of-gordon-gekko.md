@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: The afterlife of Gordon Gekko
 slug: the-afterlife-of-gordon-gekko
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflection on the unintended consequences of cultural narratives, particularly in film.
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🌍 Culture
-- 🎭 Miscommunication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 🎭 Miscommunication
+haiku: |
   Greed is not the goal,  
-   Yet Gekko's charm misguides,  
-   Lessons lost in praise.
-  coordinates: [40.7128, -74.0060]
+  Yet Gekko's charm misguides,  
+  Lessons lost in praise.
+coordinates: [40.7128, -74.0060]
+---
 
 We can never really predict what the effects, and interpretations, of our cultural offerings will be in the long run, as the man who cowrote (with Oliver Stone) the iconic 1980s film _Wall Street_ has had ample occasion to discover. Sometimes we're even remembered for the opposite of the point we were trying to convey. Every time I see the phrase "Orwellian" used, I feel a similar sort of empathetic pang for old anti-totalitarian George Orwell
 

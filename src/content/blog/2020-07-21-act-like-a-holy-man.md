@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-07-21
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Act Like a Holy Man
 slug: act-like-a-holy-man
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A new film will celebrate the lives, friendship and insights of two of our time’s most revered spiritual leaders - Desmond Tutu and the 14th Dalai Lama
 emoji: 🕊️
 tags:
-
-- 🇿🇦 South Africa
-- 🦁 Africa
-- 🌀 Templeton
-- ⛪ Religion
-- 🎥 Film
-- 😊 Joy
-  haiku: |
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🎥 Film
+  - 😊 Joy
+haiku: |
   Two souls meet and speak,  
-   Joy blooms from shared suffering,  
-   Peace weaves through their words.
-  coordinates: [32.0532, 76.4]
+  Joy blooms from shared suffering,  
+  Peace weaves through their words.
+coordinates: [32.0532, 76.4]
+---
 
 For the John Templeton Foundation, I wrote about the intertwining journeys of Desmond Tutu and the Dalai Lama as they explore the essence of joy and suffering.
 

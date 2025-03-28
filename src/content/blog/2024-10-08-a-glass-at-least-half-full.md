@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-10-08
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: A Glass at Least Half Full
 slug: a-glass-at-least-half-full
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore how cultures embody optimism through literature and debate whether this outlook is rational or delusional in our latest study review.
 emoji: 🍷
 tags:
-
-- 🌀 Templeton
-- ✍️ Literature
-- 🧘‍♂️ Psychology
-- 🔍 Critique
-  haiku: |
+  - 🌀 Templeton
+  - ✍️ Literature
+  - 🧘‍♂️ Psychology
+  - 🔍 Critique
+haiku: |
   Shadows and light dance,  
-   Nuanced views on optimism,  
-   Mind's eye sees half full.
-  coordinates: [42.377, -71.1167]
+  Nuanced views on optimism,  
+  Mind's eye sees half full.
+coordinates: [42.377, -71.1167]
+---
 
 For the John Templeton Foundation, I wrote about the dance between cynicism and hope in contemporary perceptions of optimism.
 

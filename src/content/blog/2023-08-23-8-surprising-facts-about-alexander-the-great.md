@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-05-13
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Eight Surprising Facts about Alexander the Great
 slug: eight-surprising-facts-about-alexander-the-great
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: “If I were not Alexander, I would be Diogenes.”
 emoji: 🐎
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 📚 Lists
-- 💬 Narratives
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 📚 Lists
+  - 💬 Narratives
+haiku: |
   No worlds to conquer
   India, the outer bound
   Babylon for death.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the History Channel, I wrote about Alexander the Great.
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-01
 modDatetime: 2025-03-10 18:29:18+00:00
@@ -10,18 +9,19 @@ draft: False
 description: An analysis of the cultural dynamics surrounding the decline of S.U.V. sales amidst fluctuating gas prices.
 emoji: 🚗
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ⚖️ Choices
-- ⚠️ Danger
-- 🔍 Uncertainty
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ⚖️ Choices
+  - ⚠️ Danger
+  - 🔍 Uncertainty
+haiku: |
   Gas prices rise high,  
-   S.U.V.s lose their allure,  
-   Cool fades, wheels roll on.
+  S.U.V.s lose their allure,  
+  Cool fades, wheels roll on.
 
 coordinates: [37.0902, -95.7129]
+---
+
 Is persistence in spite of uncoolness a sign that a cultural artifact is genuinely useful?
 
 > Here is the puzzling thing. The apparent cause of death for S.U.V.’s was high gas prices. Doesn’t that mean that with low gas prices S.U.V. sales should come back to life? I can think of a few reasons why that might not be the case:

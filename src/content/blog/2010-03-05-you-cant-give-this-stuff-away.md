@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-05
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: You can’t give this stuff away
 slug: you-cant-give-this-stuff-away
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on the challenges of altruism and trust in giving, as illustrated by two attempts to distribute money.
 emoji: 🎁
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- ❤️ Kindness
-- 🏆 Success
-- 🤝 Altruism
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - ❤️ Kindness
+  - 🏆 Success
+  - 🤝 Altruism
+haiku: |
   Generosity,  
-   Doubt clouds the kind intentions,  
-   Trust slowly unravels.
-  coordinates: [37.7749, -122.4194]
+  Doubt clouds the kind intentions,  
+  Trust slowly unravels.
+coordinates: [37.7749, -122.4194]
+---
 
 I'm not sure this a helpful model for charity per se, but it does feel a bit like a prophetic act. I wonder if our dollar-distributor would have fared much better near the same spot 20 or 50 or 100 years ago. An economist would likely note that what our prophet found out was that most people priced the amount of effort and risk involved in figuring out what was really going on, making a promise to a stranger, and then either carrying it out or reneging on it, at something more than a buck
 

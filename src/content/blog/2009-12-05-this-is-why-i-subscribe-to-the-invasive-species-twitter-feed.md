@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-05
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: This Is Why I Subscribe to the Invasive Species Twitter Feed
 slug: this-is-why-i-subscribe-to-the-invasive-species-twitter-feed
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A fascinating insight into how trained dogs like Ofira can help combat invasive species, along with a reflection on the sensory experiences of labradors in our world.
 emoji: 🐾
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Ecology
-- 🌱 Sustainability
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Ecology
+  - 🌱 Sustainability
+haiku: |
   Sniffing out danger,  
-   Labrador on the hunt,  
-   Nature's allies rise.
-  coordinates: [-16.9203, 145.7750]
+  Labrador on the hunt,  
+  Nature's allies rise.
+coordinates: [-16.9203, 145.7750]
+---
 
 > #### [Dog flies into action against ants](http://www.cairns.com.au/article/2009/11/30/79075_local-news.html)
 >

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: The counter-intuitive comparison of all things
 slug: the-counter-intuitive-comparison-of-all-things
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the concept of cultural appreciation through quirky comparisons in art and everyday joys.
 emoji: 🎨
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Exploration
-- 📝 Writing
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Exploration
+  - 📝 Writing
+haiku: |
   Things great and small clash,  
-   Penguins or heated seats win?  
-   Culture's joy revealed.
-  coordinates: [40.7128, -74.0060]
+  Penguins or heated seats win?  
+  Culture's joy revealed.
+coordinates: [40.7128, -74.0060]
+---
 
 The video, for all its self-knowingly unironic earnestness (parse that!) is a little longwinded, and at times sounds like an unedited section of a Wes Anderson opening act—but I must say it fared exceedingly well with the small test audience I forwarded the link to yesterday. And, as Andy points out in the book, culture making is all about not just creating new stuff, but about careful and thoughtful cultivation and celebration of the good stuff that's already there
 a [kottke.org](http://www.kottke.org/08/10/the-counterintuitive-comparison-of-all-things) post, 29 October 2008

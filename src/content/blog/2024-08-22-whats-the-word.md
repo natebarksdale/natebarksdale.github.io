@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-08-22
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: What’s the Word?
 slug: whats-the-word
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: How gossip evolved from a term of kinship to a tool for social bonding and information sharing, tracing its journey from Shakespeare to evolutionary psychology.
 emoji: 🗣️
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🗣️ Language
-- 🧘‍♂️ Psychology
-- 💬 Communication
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🗣️ Language
+  - 🧘‍♂️ Psychology
+  - 💬 Communication
+haiku: |
   Whispers bind us tight,  
-   Shared stories weave our fabric,  
-   Gossip breathes us life.
-  coordinates: [51.509865, -0.118092]
+  Shared stories weave our fabric,  
+  Gossip breathes us life.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the evolution of gossip from a term of endearment to a pivotal social mechanism.
 

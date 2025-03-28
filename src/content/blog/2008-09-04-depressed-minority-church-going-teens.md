@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-04
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Depressed, minority church-going teens
 slug: depressed-minority-church-going-teens
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: This study highlights the complex relationship between religious participation and adolescent mental health, particularly among minority teens.
 emoji: 🕊️
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ⚕️ Medicine
-- ❤️ Kindness
-- 🌍 Diversity
-- 🙏 Faith
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ⚕️ Medicine
+  - ❤️ Kindness
+  - 🌍 Diversity
+  - 🙏 Faith
+haiku: |
   Tensions in the faith,  
-   Youth seek solace in the light,  
-   Shadows linger close.
-  coordinates: [39.9612, -82.9988]
+  Youth seek solace in the light,  
+  Shadows linger close.
+coordinates: [39.9612, -82.9988]
+---
 
 High church attendance correlates with lower rates of depression—unless, this study suggests, you're an Asian or Latino/a teenager. I'm not convinced that the correlation has to imply causality—could it be that, in certain cultural combinations, depression drives one to youth group, rather than vice versa? But the story does get at the complex cultural tensions: majority/minority, adolescent/adult, church/secular
 

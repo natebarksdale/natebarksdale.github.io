@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: “Blacksmith Shop”, by Czeslaw Milosz
 slug: blacksmith-shop-by-czeslaw-milosz
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on how childhood can connect us to our life's callings, as illustrated in Czeslaw Milosz's evocative poem, "Blacksmith Shop."
 emoji: 🔥
 tags:
-
-- 🌍 Culture-Making.com
-- ⚒️ Blacksmiths
-- ✍️ Poetry
-- 🌍 Culture
-- 🌅 Reflection
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚒️ Blacksmiths
+  - ✍️ Poetry
+  - 🌍 Culture
+  - 🌅 Reflection
+haiku: |
   Iron heated bright,  
-   Childhood's call in the forge,  
-   Life shaped in the flames.
-  coordinates: [52.2297, 21.0122]
+  Childhood's call in the forge,  
+  Life shaped in the flames.
+coordinates: [52.2297, 21.0122]
+---
 
 This was one of the first Milosz poems I heard, and quite possibly the one that hooked me. I like the link between childhood and vocation -- especially in a time and place where childhood is considered to be far removed from what you ought to do when you grow up
 

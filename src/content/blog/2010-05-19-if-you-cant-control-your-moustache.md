@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-19
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: If you can’t control your moustache ..
 slug: if-you-cant-control-your-moustache
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A fascinating collection of proverbs about women and soup from cultures around the world reveals both humorous and thought-provoking insights. Here are some intriguing examples
 emoji: 🍲
 tags:
-
-- 🍷 Europe
-- 🥑 Central America
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🍲 Proverbs
-- 📖 Quotes
-  haiku: |
+  - 🍷 Europe
+  - 🥑 Central America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🍲 Proverbs
+  - 📖 Quotes
+haiku: |
   Wisdom in the bowl,  
-   Flavors shaped by many hands,  
-   Stories served with spice.
-  coordinates: [10.0000, 20.0000]
+  Flavors shaped by many hands,  
+  Stories served with spice.
+coordinates: [10.0000, 20.0000]
+---
 
 From a searchable collection of over 15,000 proverbs about women from cultures around the world. Many of them sexist far beyond the point of gender differentiation, but I suppose that's the point. It's fascinating to enter different metaphors and see the range of proverbs that pop up: these are the first few results from the hundreds of proverbs about women and soup
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-10
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Peopling Pixar
 slug: peopling-pixar
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring Pixar's hiring philosophy, where curiosity trumps charisma.
 emoji: 🤔
 tags:
-
-- 🌍 Culture-Making.com
-- 💼 Business
-- 📖 Articles
-- 🤝 Collaboration
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💼 Business
+  - 📖 Articles
+  - 🤝 Collaboration
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Interested minds spark,  
-   Curiosity shines bright,  
-   Art flows from the heart.
-  coordinates: [37.7749, -122.4194]
+  Curiosity shines bright,  
+  Art flows from the heart.
+coordinates: [37.7749, -122.4194]
+---
 
 Resumes vs. portfolios; cooperation vs. collaboration; interested vs. interesting
 a [kottke.org](http://www.kottke.org/09/02/how-pixar-hires) post, 6 February 2009

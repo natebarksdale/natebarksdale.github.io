@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-10
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: Too much information
 slug: too-much-information
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of how highlighting negative behaviors can inadvertently reinforce them.
 emoji: 🚫
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Warning words can sway,  
-   Common theft becomes the norm,  
-   Obscure the wrong path.
-  coordinates: [35.0545, -100.4471]
+  Common theft becomes the norm,  
+  Obscure the wrong path.
+coordinates: [35.0545, -100.4471]
+---
 
 There's a dark side to expanding the horizons of the possible (or, rather, of the probable)
 

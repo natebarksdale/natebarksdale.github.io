@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-13
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Why loot when you can fake?
 slug: why-loot-when-you-can-fake
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A fascinating shift in the antiques market is explored, highlighting how eBay's influence changed looting dynamics.
 emoji: 🏺
 tags:
-
-- 🌍 Culture-Making.com
-- ⚒️ Blacksmiths
-- ⚖️ Ethics
-- 🌍 Culture
-- 🔍 Discoveries
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚒️ Blacksmiths
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 🔍 Discoveries
+haiku: |
   EBay's market grows,  
-   Fakes divert from ancient plunder,  
-   Hope in crafted hands.
-  coordinates: [34.0522, -118.2437]
+  Fakes divert from ancient plunder,  
+  Hope in crafted hands.
+coordinates: [34.0522, -118.2437]
+---
 
 Archeologists feared that eBay would democratize antiques trafficking, increasing demand and causing more ancient sites to be looted. But things haven't worked out that way ..
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-04-28
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: Mix CD | Celestial Objects
 slug: mix-cd-celestial-objects
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A special custom mix CD celebrating the birthday of a historian of science and astronomy enthusiast features 19 tracks corresponding to the brightest visible celestial objects.
 emoji: 🌌
 tags:
-
-- 💿 Mix CDs
-- 💡 Design
-- 🌌 Astronomy
-- 🎵 Music
-- 🌍 Culture
-  haiku: |
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🌌 Astronomy
+  - 🎵 Music
+  - 🌍 Culture
+haiku: |
   Stars align in songs,  
-   Whispers of the night sky,  
-   History in sound.
-  coordinates: [34.0522, -118.2437]
+  Whispers of the night sky,  
+  History in sound.
+coordinates: [34.0522, -118.2437]
+---
 
 #### Wimbo Zuri Catalog No. 055.1A10-1
 

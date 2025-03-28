@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2015-04-29
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: What was the first animal in space?
 slug: what-was-the-first-animal-in-space
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Discover how fruit flies became the first astronauts, bravely soaring into space in 1947 to unlock secrets of cosmic rays.
 emoji: 🚀
 tags:
-
-- 🇭 History.com
-- 🌌 Astronomy
-- 🧬 Biology
-- 🇺🇸 United States
-  haiku: |
+  - 🇭 History.com
+  - 🌌 Astronomy
+  - 🧬 Biology
+  - 🇺🇸 United States
+haiku: |
   Fruit flies touch the stars,  
-   Silent voyagers in space,  
-   Life drifts, earthbound dreams.
-  coordinates: [31.8024, -106.256]
+  Silent voyagers in space,  
+  Life drifts, earthbound dreams.
+coordinates: [31.8024, -106.256]
+---
 
 For the History Channel, I wrote about the pioneering insects and animals that first ventured into space (not that they had a choice).
 

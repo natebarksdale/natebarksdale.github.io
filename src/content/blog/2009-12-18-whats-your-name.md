@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-18
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:05Z
 title: “What’s your name?”
 slug: whats-your-name
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Reflecting on the struggle of identity and the pressure to conform in the job market.
 emoji: 🏷️
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🗳️ Politics
-- 🌍 Activism
-- ⚖️ Ethics
-- ⚖️ Law
-- 🇺🇸 United States
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🗳️ Politics
+  - 🌍 Activism
+  - ⚖️ Ethics
+  - ⚖️ Law
+  - 🇺🇸 United States
+haiku: |
   Names lost in the fight,  
-   Shadows of history loom,  
-   True selves call for light.
-  coordinates: [40.7128, -74.0060]
+  Shadows of history loom,  
+  True selves call for light.
+coordinates: [40.7128, -74.0060]
+---
 
 This is from a follow-up to Michael Luo's November 30 [article](http://web.archive.org/web/20240305000728/https://www.nytimes.com/2009/12/01/us/01race.html?_r=1) about the racial disparity in unemployment among college graduates. In recent weeks I've been watching the Roots miniseries for the first time, and thinking a lot about naming in particular. The multiple scenes where Kunta Kinte [struggles to keep his own name and identity](http://web.archive.org/web/20171025183243/http://www.a/) make the sometimes-more-subtle question of who gets called what when and by whom impossible to ignore and, in the light of both past and present, troubling (if fascinating) to consider
 

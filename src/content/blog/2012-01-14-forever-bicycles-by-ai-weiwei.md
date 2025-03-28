@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Forever Bicycles, by Ai Weiwei
 slug: forever-bicycles-by-ai-weiwei
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of Ai Weiwei's powerful exhibition "Absent," highlighting his impactful work featuring 1200 bicycles.
 emoji: 🚲
 tags:
-
-- 💡 Design
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🌍 Culture
-- 🚲 Bicycles
-- 🕌 Monuments
-  haiku: |
+  - 💡 Design
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🌍 Culture
+  - 🚲 Bicycles
+  - 🕌 Monuments
+haiku: |
   Bicycles in stacks,  
-   Art that speaks of absence clear,  
-   Freedom held at bay.
-  coordinates: [25.0462, 121.5169]
+  Art that speaks of absence clear,  
+  Freedom held at bay.
+coordinates: [25.0462, 121.5169]
+---
 
 Chinese artist and activist [Ai Weiwei](http://en.wikipedia.org/wiki/Ai_Weiwei) has an exhibition running through the end of this month at the Taipei Fine Art Museum—his first large-scale solo show, apparently, in the Chinese world. The show features a wide range of works in the border zone between sculpture and found object assembly. The knockout piece is undoubtedly this one, a layered vertical labyrinth of 1200 bicycles (sans seats and handlebars). The exhibition, incidentally, is titled\_ Absent because Ai remains under a travel ban in China and won't be able to attend.
 [![image](http://www.culture-making.com/media/foreverbicycles.jpg)]()

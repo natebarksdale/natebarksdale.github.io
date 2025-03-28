@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-18
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Counsel woven into the fabric of real life
 slug: counsel-woven-into-the-fabric-of-real-life
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: An insightful observation on the nature of storytelling and the wisdom it imparts.
 emoji: 🧵
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Storytelling
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Storytelling
+haiku: |
   Stories hold wisdom,  
-   Counsel shared through life's fabric,  
-   Experience speaks true.
-  coordinates: [53.9006, 27.5590]
+  Counsel shared through life's fabric,  
+  Experience speaks true.
+coordinates: [53.9006, 27.5590]
+---
 
 You can read most of Benjamin's essay at [Google Books](http://books.google.com/books?id=A4tRaJK85n8C&lpg=PA143&dq=walter%20benjamin%20%22the%20storyteller%22&pg=PA145#v=onepage&q=walter%20benjamin%20%22the%20storyteller%22&f=false). The first few pages are all quite good and require no knowledge whatsoever of that [Nikolai Leskov](http://en.wikipedia.org/wiki/Nikolai_Leskov) fellow
 

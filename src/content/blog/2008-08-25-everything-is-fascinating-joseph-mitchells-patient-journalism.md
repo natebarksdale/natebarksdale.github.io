@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Everything is fascinating - Joseph Mitchell’s patient journalism
 slug: everything-is-fascinating-joseph-mitchells-patient-journalism
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on the enduring legacy of Joseph Mitchell and his unique approach to journalism.
 emoji: 📜
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Articles
-- 🌍 Culture
-- 📰 Media
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Articles
+  - 🌍 Culture
+  - 📰 Media
+haiku: |
   Words that linger still,  
-   City’s ghosts in quiet tales,  
-   Mitchell's pen reveals.
-  coordinates: [40.7128, -74.0060]
+  City’s ghosts in quiet tales,  
+  Mitchell's pen reveals.
+coordinates: [40.7128, -74.0060]
+---
 
 Mitchell strikes me as perhaps the best example of a writer who sees the value not just in investigating what's behind the everyday, but in really pondering things—figuring out, often over quite a long time, just what he makes of the people and places he's writing about. It's interesting to write elegiacally about Mitchell as the type of writer now rarely seen, considering that his own best pieces were also elegiac—writing about things that were overlooked and, often as not, dwindling as the great mid-20th-century rambled on
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-19
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Hot dogs of Latin America
 slug: hot-dogs-of-latin-america
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Here's a fascinating look at how American hot dogs have taken on unique local twists throughout Latin America. The variations in Guatemala and Colombia showcase just how inventive cuisine can be.
 emoji: 🌭
 tags:
-
-- 🥑 Central America
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🇬🇧 London
-- 🌍 Culture
-- 🍔 Fast Food
-- 🍳 Cooking
-  haiku: |
+  - 🥑 Central America
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🇬🇧 London
+  - 🌍 Culture
+  - 🍔 Fast Food
+  - 🍳 Cooking
+haiku: |
   Hot dogs diverse, bold  
-   Condiments build local dreams  
-   Bite of cultures blend
-  coordinates: [15.7835, -90.2308]
+  Condiments build local dreams  
+  Bite of cultures blend
+coordinates: [15.7835, -90.2308]
+---
 
 I love how even standardized American-cum-global cuisine can still go off in its own condiment-slathered local direction wherever it lands. This list makes me simultaneously very hungry and just a little bit queasy
 

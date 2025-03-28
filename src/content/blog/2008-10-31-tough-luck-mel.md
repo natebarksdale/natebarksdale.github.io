@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Tough luck, Mel
 slug: tough-luck-mel
 featured: false
@@ -10,22 +9,22 @@ draft: false
 description: A filmmaker's vision of a Hollywood studio in South Africa clashes with the local Khoi-San community's deep connection to their ancestral land.
 emoji: 🌍
 tags:
-
-- 💡 Design
-- 🇿🇦 South Africa
-- 🇲🇽 Mexico
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- ⚖️ Law
-- ⚖️ Ethics
-- ❤️ Kindness
-- 🙏 Faith
-  haiku: |
+  - 💡 Design
+  - 🇿🇦 South Africa
+  - 🇲🇽 Mexico
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - ❤️ Kindness
+  - 🙏 Faith
+haiku: |
   Sacred ground defended,  
-   Dreams of gold can’t buy our past,  
-   Land of blood and pride.
-  coordinates: [-29.2833, 23.7167]
+  Dreams of gold can’t buy our past,  
+  Land of blood and pride.
+coordinates: [-29.2833, 23.7167]
+---
 
 A fable of conflicting values and the mistaken assumption that Hollywood would have sufficiant cultural clout even in a rugged corner of South Africa—it looks like the forthcoming Biblical film epic _The Lamb_ will have to be staged somewhere else. Best quote from the article not in the excerpt below: "The Rev. Cyril Smith, whose cathedral would have been made into a Mexican village film set, says the consortium miscalculated the level of opposition and the legal status of the land
 

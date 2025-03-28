@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:49Z
 title: We cannot know what to expect
 slug: we-cannot-know-what-to-expect
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Michael Bérubé discusses the evolving expectations of children with Down syndrome in response to Peter Singer's views.
 emoji: 🎻
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Choices
-- ❤️ Kindness
-- 🌍 Diversity
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - ❤️ Kindness
+  - 🌍 Diversity
+haiku: |
   Challenged by limits,  
-   Horizons of hope expand,  
-   Every child can grow.
-  coordinates: [40.0447, -76.3059]
+  Horizons of hope expand,  
+  Every child can grow.
+coordinates: [40.0447, -76.3059]
+---
 
 From an email exchange between blogger-professor Michael Bérubé (the father of a child with Down syndrome) and ethicist Peter Singer (who, in the course of a 1994 argument linking our duty not to kill something with its cognitive ability, rattled off a list of limitations parents of Down's kids must expect: never "to play the guitar, to develop an appreciation of science fiction, to learn a foreign language, to chat with us about the latest Woody Allen movie, or to be a respectable athlete, basketballer or tennis player"). But wait, Bérubé wrote, my son can do most of those things! Singer eventually got in touch to say that he'd been wrong in this particular case, but a couple exceptional individuals shouldn't change our general expectations for people with Down's. Bérubé replies here with some very telling comments about expectations and how they really do make and remake the horizons of the possible
 

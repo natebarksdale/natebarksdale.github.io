@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-01-21
 modDatetime: 2025-03-18 13:56:40+00:00
@@ -10,21 +9,22 @@ draft: False
 description: A New Toolkit for Activists Fighting to Document Repression and Protect Free Expression
 emoji: 🔗
 tags:
-
-- 🌙 Islam
-- 📺 Television
-- 🍷 Europe
-- 🇨🇳 China
-- 🌀 Templeton
-- 🇹🇷 Turkey
-- ✍️ Literature
-- 🌍 Activism
-  haiku: |
+  - 🌙 Islam
+  - 📺 Television
+  - 🍷 Europe
+  - 🇨🇳 China
+  - 🌀 Templeton
+  - 🇹🇷 Turkey
+  - ✍️ Literature
+  - 🌍 Activism
+haiku: |
   Words behind cold bars,  
-   Silenced minds still dream of light,  
-   Ink flows, unbroken.
+  Silenced minds still dream of light,  
+  Ink flows, unbroken.
 
 coordinates: [39.9334, 32.8597]
+---
+
 For the John Templeton Foundation, I wrote about a new toolkit for activists.
 
 > In September of 2016, brothers Mehmet and Ahmet Altan were detained by the Turkish government on the charge of allegedly giving subliminal messages “suggestive” of the coup attempt that had happened three months earlier during a television panel. The Altans, who are both journalists and literary writers, were among many writers and public intellectuals imprisoned or threatened with arrest following the coup attempt. In 2019, Ahmet Altan published a memoir from prison entitled [I Will Never See the World Again](https://bookshop.org/books/i-will-never-see-the-world-again-the-memoir-of-an-imprisoned-writer/9781590519929)_._ In it he writes, “You can imprison me but you cannot keep me here. Because like all writers, I have magic.”

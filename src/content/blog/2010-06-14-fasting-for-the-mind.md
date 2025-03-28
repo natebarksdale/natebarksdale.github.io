@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-14
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Fasting for the mind
 slug: fasting-for-the-mind
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on the balance between exploring new ideas and revisiting the ones we cherish.
 emoji: 📚
 tags:
-
-- ✨ Wonder
-- 📖 Bible
-- 🌍 Culture-Making.com
-- ⏰ Time
-- 📖 Books
-- 🌍 Society
-  haiku: |
+  - ✨ Wonder
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - ⏰ Time
+  - 📖 Books
+  - 🌍 Society
+haiku: |
   Great books yet to read,  
-   Rereading brings new insight,  
-   Minds feast and fast, too.
-  coordinates: [51.5074, -0.1278]
+  Rereading brings new insight,  
+  Minds feast and fast, too.
+coordinates: [51.5074, -0.1278]
+---
 
 Every now and then I wonder whether my time is better spent reading the great books I haven't yet read, or rereading the pretty-good ones that I already have
 

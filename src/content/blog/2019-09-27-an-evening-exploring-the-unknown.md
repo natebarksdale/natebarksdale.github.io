@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-09-27
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: An Evening Exploring the Unknown
 slug: an-evening-exploring-the-unknown
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Astrophysics, Anthropology, and Journalism in Conversation at the Atlantic Festival
 emoji: 🔭
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🧬 Genetics
-- 🔍 Discoveries
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🧬 Genetics
+  - 🔍 Discoveries
+haiku: |
   Science seeks the stars,  
-   Whispers of origins told,  
-   Night unveils our past.
-  coordinates: [38.89511, -77.03637]
+  Whispers of origins told,  
+  Night unveils our past.
+coordinates: [38.89511, -77.03637]
+---
 
 For the John Templeton Foundation, I wrote about an enlightening event that delved into the profound mysteries of science and the universe.
 

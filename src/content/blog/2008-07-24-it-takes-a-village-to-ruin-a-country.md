@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: It takes a village to ruin a country
 slug: it-takes-a-village-to-ruin-a-country
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A chilling account of political power struggles and violent coercion in Zimbabwe under Mugabe's regime.
 emoji: 🪖
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Law
-- 🗳️ Politics
-- 🌍 Society
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Law
+  - 🗳️ Politics
+  - 🌍 Society
+haiku: |
   Power hangs by thread,  
-   Soldiers claim the nation's fate,  
-   Silence speaks in dread.
-  coordinates: [-19.0158, 29.1549]
+  Soldiers claim the nation's fate,  
+  Silence speaks in dread.
+coordinates: [-19.0158, 29.1549]
+---
 
 A story that ran a couple of weeks ago, nearer the high-point of Zimbabwe's government-sponsored pre- and post-presidential-runoff violence, one that still stops me short with its eerie echoing to the concept that culture-making (and -breaking) is done less by individuals than by small groups of committed people. I'm still a little baffled as to why the Post's report wasn't picked up by other outlets—is it just that it doesn't fit into the easy, dominant story-arc for describing Zimbabwe's woes (roughly, "evil strongman issues 500-billion dollar bill")?
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-05-03
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,16 +9,17 @@ draft: False
 description: A widely-used philosophical approach to theology may turn out to be less than perfect.
 emoji: 🤔
 tags:
-
-- 🌀 Templeton
-- ✝️ Christianity
-- ⛪ Religion
-  haiku: |
+  - 🌀 Templeton
+  - ✝️ Christianity
+  - ⛪ Religion
+haiku: |
   Seeking to define God,  
-   Anselm's greatest being thought—  
-   Perfect, beyond reach.
+  Anselm's greatest being thought—  
+  Perfect, beyond reach.
 
 coordinates: [51.2797, 1.0827]
+---
+
 For the John Templeton Foundation, I wrote about Perfect Being Theology.
 
 > Sometimes the best way to discover whether or not a familiar concept really makes sense is to try to explain it to a student. That was the situation that Notre Dame philosopher Jeff Speaks faced a few years ago when he was preparing to teach a large lecture class on philosophical theology. To lay a solid philosophical foundation for a journey through the claims of the Christian church’s Nicene Creed, Speaks wanted to begin with an idea articulated and defended by St. Anselm, an early-12th-century Archbishop of Canterbury, who described God as “a being than which nothing greater can be conceived.”

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-23
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Some classical humor
 slug: some-classical-humor
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Jokes can be tricky to translate, but here's a taste of classical humor from the Philogelos.
 emoji: 😂
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🎭 Comedy
-- 📖 Books
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🎭 Comedy
+  - 📖 Books
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Late Roman laughter,  
-   Barb cuts hair in silence,  
-   Timeless wit persists.
-  coordinates: [41.9028, 12.4964]
+  Barb cuts hair in silence,  
+  Timeless wit persists.
+coordinates: [41.9028, 12.4964]
+---
 
 Jokes are among the hardest things to translate well across time or languages; these are actually some of the funnier (or at least more comprehensible) jokes to be found in the Philogelos. I remember the college classmate who first told me about this late Roman joke book said he'd come to the conclusion that "Late Roman" was pretty good shorthand for "unfunny
 

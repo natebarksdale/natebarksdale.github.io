@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-05-06
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: A History of Coffee in 10 Buzzwords
 slug: a-history-of-coffee-in-10-buzzwords
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Although it was possibly consumed as a food or drink in its native Ethiopian highlands, the evergreen shrub Coffea arabica was first cultivated even earlier.
 emoji: 📝
 tags:
-
-- 🌙 Islam
-- 🦁 Africa
-- 🇭 History.com
-  haiku: |
+  - 🌙 Islam
+  - 🦁 Africa
+  - 🇭 History.com
+haiku: |
   Words flow like water,
   But I had asked for coffee.
   History unravels.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the History Channel, I wrote about Coffee.
 

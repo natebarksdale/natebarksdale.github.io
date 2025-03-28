@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-12-19
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: The History of Christmas Pudding
 slug: the-history-of-christmas-pudding
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Dive into the fiery history of Christmas pudding, from medieval savories to Dickens' festive table centerpiece.
 emoji: 🎄
 tags:
-
-- 🇭 History.com
-- 🍗 Food
-- 🍲 Proverbs
-- 🌍 History
-  haiku: |
+  - 🇭 History.com
+  - 🍗 Food
+  - 🍲 Proverbs
+  - 🌍 History
+haiku: |
   Flames dance on rich pud,  
-   Medieval feast reborn bright,  
-   Winter's warmth aglow.
-  coordinates: [51.5074, -0.1278]
+  Medieval feast reborn bright,  
+  Winter's warmth aglow.
+coordinates: [51.5074, -0.1278]
+---
 
 For the History Channel, I wrote about the evolution of Christmas pudding from medieval sustenance to festive treat.
 

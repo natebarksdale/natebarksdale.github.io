@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-06
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: The pause that refreshes
 slug: the-pause-that-refreshes
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A study reveals that commercial interruptions can enhance enjoyment of TV shows by providing refreshing breaks from the narrative flow.
 emoji: 🍿
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📺 Television
-- 🎬 Hollywood
-- 🎭 Entertainment
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📺 Television
+  - 🎬 Hollywood
+  - 🎭 Entertainment
+  - 📝 Writing
+haiku: |
   Breaks in the story,  
-   Refreshing thoughts re-emerge,  
-   Enjoyment renewed.
-  coordinates: [37.0902, -95.7129]
+  Refreshing thoughts re-emerge,  
+  Enjoyment renewed.
+coordinates: [37.0902, -95.7129]
+---
 
 I'd love to see the same study done with movies, which are narratively stitched together so that they'll work well uninterrupted. In that case the commercials might feel jarring, rather than palate-cleansing as they are between those tasty sitcom morsels. In any case, this would appear to be the same effect that allows fresh fruit in February (see this week's Five Questions) to get in the way of our enjoyment of fresh fruit in season
 

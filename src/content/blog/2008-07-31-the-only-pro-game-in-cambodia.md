@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-31
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: The only pro game in Cambodia
 slug: the-only-pro-game-in-cambodia
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An inspiring look at how disabled sports in Cambodia help restore culture in the wake of conflict.
 emoji: 🏐
 tags:
-
-- 🌍 Culture-Making.com
-- 🇰🇭 Cambodia
-- ❤️ Kindness
-- 🌍 Culture
-- 🏆 Success
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇰🇭 Cambodia
+  - ❤️ Kindness
+  - 🌍 Culture
+  - 🏆 Success
+haiku: |
   Land mine scars still heal,  
-   Warriors rise on the court,  
-   Defying their fate.
-  coordinates: [12.5655, 104.9910]
+  Warriors rise on the court,  
+  Defying their fate.
+coordinates: [12.5655, 104.9910]
+---
 
 An excellent use of disabled sport for culture-restoring. Click through for the pretty-good embedded mini-documentary ... with narration and background music provided/selected by non-Cambodians, which is kind of what you'd expect, though maybe not what you'd ultimately hope
 

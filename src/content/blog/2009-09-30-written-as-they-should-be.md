@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-30
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Written as they should be
 slug: written-as-they-should-be
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: A reflection on the beauty and significance of handwriting in a digital age, inspired by Umberto Eco's thoughts.
 emoji: ✍️
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Books
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Books
+haiku: |
   Letters swirl and dance,  
-   Ink stains tell stories of old,  
-   Craft of the patient.
-  coordinates: [51.5074, -0.1278]
+  Ink stains tell stories of old,  
+  Craft of the patient.
+coordinates: [51.5074, -0.1278]
+---
 
 Here's the best thing about this excerpt: when you click through to the Eco's original article, right now you get this message: "This article has been removed due to web rights expiry." Frail letters indeed! But let's return to penmanship: I'm reminded of [this recent New York Times Op-Art piece](http://www.nytimes.com/interactive/2009/09/04/opinion/20090908_opart.html), a spirited call to supplant the old-style loopiness of the Palmer method of handwriting instruction with a more-legible italic script. Sounds tempting ..
 

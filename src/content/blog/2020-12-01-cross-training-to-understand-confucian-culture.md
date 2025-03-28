@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-12-01
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Cross-Training to Understand Confucian Culture
 slug: cross-training-to-understand-confucian-culture
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A multidisciplinary investigation of ‘How China Became Chinese.’
 emoji: 🀄
 tags:
-
-- 🦠 Biology
-- 💡 Design
-- 🌀 Templeton
-- 🇨🇳 China
-- 🧠 Psychology
-- ⛪ Religion
-  haiku: |
+  - 🦠 Biology
+  - 💡 Design
+  - 🌀 Templeton
+  - 🇨🇳 China
+  - 🧠 Psychology
+  - ⛪ Religion
+haiku: |
   Cross-training minds seek,  
-   Empirical paths unfold,  
-   East meets West in thought.
-  coordinates: [33.882923, -117.886926]
+  Empirical paths unfold,  
+  East meets West in thought.
+coordinates: [33.882923, -117.886926]
+---
 
 For the John Templeton Foundation, I wrote about integrating scientific methods with the study of Confucian culture.
 

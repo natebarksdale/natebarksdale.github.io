@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-04-21
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Five Questions with Jason Marsh
 slug: five-questions-with-jason-marsh
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Jason Marsh of GGSC explores emotional well-being strategies during COVID-19 in a lively Q&A session. Discover how virtues can navigate personal and collective crises.
 emoji: 🎓
 tags:
-
-- 🌀 Templeton
-- 🧠 Psychology
-- 🌍 Health
-- 📰 Magazines
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Psychology
+  - 🌍 Health
+  - 📰 Magazines
+haiku: |
   Bridging divides wide,  
-   Well-being through science shines,  
-   Hope in trying times.
-  coordinates: [37.8715, -122.273]
+  Well-being through science shines,  
+  Hope in trying times.
+coordinates: [37.8715, -122.273]
+---
 
 For the John Templeton Foundation, I wrote a piece delving into how social and emotional well-being can guide us through crises.
 

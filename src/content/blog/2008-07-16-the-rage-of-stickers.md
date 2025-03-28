@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: The rage of stickers
 slug: the-rage-of-stickers
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Alan Jacobs shares intriguing insights on how car personalization correlates with road rage.
 emoji: 🚗
 tags:
-
-- 🌍 Culture-Making.com
-- ⚠️ Danger
-- ⚖️ Choices
-- 🚨 Warnings
-- 🚗 Cars
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚠️ Danger
+  - ⚖️ Choices
+  - 🚨 Warnings
+  - 🚗 Cars
+  - 🌍 Society
+haiku: |
   Stickers on bumpers,  
-   Territory marked with pride,  
-   Rage ignites the drive.
-  coordinates: [39.7392, -104.9903]
+  Territory marked with pride,  
+  Rage ignites the drive.
+coordinates: [39.7392, -104.9903]
+---
 
 a [more than 95 theses](http://web.archive.org/web/20081203121205/http://ayjay.tumblr.com/post/38742661) post by Alan Jacobs
 

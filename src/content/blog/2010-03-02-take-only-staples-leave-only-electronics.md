@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-02
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: Take only staples, leave only electronics
 slug: take-only-staples-leave-only-electronics
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Examining the complex aftermath of the Chile earthquake and the human responses in crisis situations.
 emoji: 🤝
 tags:
-
-- ➗ Mathematics
-- 📺 Television
-- 🧉 South America
-- 🌍 Culture-Making.com
-- ⚖️ Law
-- 🏛️ Government
-- 🕊️ Peace
-  haiku: |
+  - ➗ Mathematics
+  - 📺 Television
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - ⚖️ Law
+  - 🏛️ Government
+  - 🕊️ Peace
+haiku: |
   Cries for water rise,  
-   Law and need find common ground,  
-   Hope in darkest times.
-  coordinates: [-36.5786, -72.0965]
+  Law and need find common ground,  
+  Hope in darkest times.
+coordinates: [-36.5786, -72.0965]
+---
 
 It's hard not to view the coverage of Saturday's devastating earthquake in Chile as a parallel study in aftermaths with Haiti's January quake. I've only had two or three news cycles to observe, but already the the media obsession with looting (is it happening? is it not happening?) seems apparent. The article I read in this morning's paper even left the impression that President Michelle Bachelet's request for outside aid had to do with the looters rather than the massive, widespread destruction. So I was astonished and heartened by the anecdote below, which captures a bit of culture-making in crisis, as the powerful and the powerless come to conflict and, amazingly given the way these things [sometimes turn out](http://www.guardian.co.uk/world/2010/jan/20/haiti-earthquake-teenager-shot-police), negotiate a more helpful solution
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-05-23
 modDatetime: 2025-03-18 21:19:19+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Explore how organisms evolve beyond genetics, delving into forces like epigenetics and cultural behaviors that shape their development and adaptation.
 emoji: 🧬
 tags:
-
-- 🌀 Templeton
-- 🌍 Evolution
-- 🧬 Genetics
-- 🌍 Ecology
-  haiku: |
+  - 🌀 Templeton
+  - 🌍 Evolution
+  - 🧬 Genetics
+  - 🌍 Ecology
+haiku: |
   Genes weave life's fabric,  
-   Beyond DNA, life shapes  
-   Its own paths to thrive.
+  Beyond DNA, life shapes  
+  Its own paths to thrive.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about the expanding horizons of evolution beyond genetic inheritance.
 
 > A bewildering array of forces are at work, including epigenetic inheritance and developmental plasticity, as well as niche construction, microbiome transfer, and cultural behaviors.

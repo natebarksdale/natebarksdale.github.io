@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Didgeridon’t
 slug: didgeridont
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A cultural clash arises when a book for girls includes instructions on playing the didgeridoo, mistaking its sacred significance in Aboriginal traditions.
 emoji: 🎶
 tags:
-
-- 🌍 Culture-Making.com
-- 🇦🇺 Australia
-- 🌍 Indigenous Culture
-- 🤝 Collaboration
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇦🇺 Australia
+  - 🌍 Indigenous Culture
+  - 🤝 Collaboration
+  - ⚖️ Ethics
+haiku: |
   Didgeridoo preached,  
-   Rituals lost to the world,  
-   Voices cry for care.
-  coordinates: [-25.2744, 133.7751]
+  Rituals lost to the world,  
+  Voices cry for care.
+coordinates: [-25.2744, 133.7751]
+---
 
 Girls' empowerment hits a cultural snag down under, when _[The Daring Book for Girls]()_ offers instructions for playing a traditional aboridginal instrument that run counter to ... aboridginal tradition. Once you get into the role (like, I suppose, my own) of gathering interesting and appreciative bits from other cultures, you're going to eventually wind up offending those you're trying to celebrate—and finding out that sometimes they offend you a bit too
 

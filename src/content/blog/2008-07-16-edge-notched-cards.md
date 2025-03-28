@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Edge-notched cards
 slug: edge-notched-cards
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the forgotten art of organizing knowledge through edge-notched cards, a precursor to modern data sorting methods.
 emoji: 📇
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 📚 Archives
-- 📖 Articles
-- ⚙️ Technology
-- 🌍 History
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 📚 Archives
+  - 📖 Articles
+  - ⚙️ Technology
+  - 🌍 History
+haiku: |
   Knowledge on the edge,  
-   Paper whispers of the past,  
-   Sorting through the years.
-  coordinates: [40.7128, -74.0060]
+  Paper whispers of the past,  
+  Sorting through the years.
+coordinates: [40.7128, -74.0060]
+---
 
 That great lover of paper ephemera Nicholson Baker would likely note all the extraneous, but scrutinizable data left on the edges of these cards in their handling and sorting—an unrecorded search history in the sections of card-edge gone dark and felty with repeated sorts
 

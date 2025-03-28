@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Avenida Morelos, Guadalajara, Mexico
 slug: avenida-morelos-guadalajara-mexico
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Check out this colorful shop in central Guadalajara, where the theme is a delightful mystery between flowers, dresses, and butterflies.
 emoji: 🌸
 tags:
-
-- ✨ Wonder
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎨 Art
-- 🌸 Flowers
-  haiku: |
+  - ✨ Wonder
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎨 Art
+  - 🌸 Flowers
+haiku: |
   Vivid colors shine,  
-   A shop of mystery blooms,  
-   Style in every hue.
-  coordinates: [20.6767, -103.3475]
+  A shop of mystery blooms,  
+  Style in every hue.
+coordinates: [20.6767, -103.3475]
+---
 
 Quite a paint job on this shop in central Guadalajara. I'm not sure whether it sells flowers or dresses (or butterflies!)
 [![photo](http://culture-making.com/media/27713637_4ec97d5c24_o.jpg)](http://www.flickr.com/photos/wonderlane/27713637/in/photostream/)

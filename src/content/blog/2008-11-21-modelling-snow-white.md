@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Modelling Snow White
 slug: modelling-snow-white
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A look at the evolution of Snow White, from her original design influenced by a live model to her modern, curvier representation.
 emoji: 👸
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🎨 Aesthetics
-- 🎨 Art
-- 🌍 Culture
-- ✍️ Literature
-- 🌍 Storytelling
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🎨 Aesthetics
+  - 🎨 Art
+  - 🌍 Culture
+  - ✍️ Literature
+  - 🌍 Storytelling
+haiku: |
   From girlhood to queen,  
-   Shapes change with the passing times,  
-   Beauty's tale evolves.
-  coordinates: [34.0522, -118.2437]
+  Shapes change with the passing times,  
+  Beauty's tale evolves.
+coordinates: [34.0522, -118.2437]
+---
 
 Evolution of a cartoon heroine
 

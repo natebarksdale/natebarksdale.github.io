@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-01-17
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Complexity
 slug: complexity
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the stories from our three-part research series on complexity from the Santa Fe Institute, a leader of groundbreaking, multidisciplinary research on complex systems.
 emoji: 🧩
 tags:
-
-- 🦁 Africa
-- 🌀 Templeton
-- ✍️ Translation
-- 🌐 Websites
-  haiku: |
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ✍️ Translation
+  - 🌐 Websites
+haiku: |
   Languages intertwine,  
-   Words bridge gaps across cultures,  
-   Complex threads unite.
-  coordinates: [51.509865, -0.118092]
+  Words bridge gaps across cultures,  
+  Complex threads unite.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the science of complexity.
 

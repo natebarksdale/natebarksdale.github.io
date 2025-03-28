@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Nuevo manuel de la música cubana y africana
 slug: mix-cd-nuevo-manuel-de-la-musica-cubana-y-africana
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A personal exploration of Cuban music through a curated mix of _rumba_ and _son_ spanning over a century.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🎵 Music
-- 🇨🇺 Cuba
-- 🌍 Culture
-- 📖 Books
-- 📝 Writing
-  haiku: |
+  - 💿 Mix CDs
+  - 🎵 Music
+  - 🇨🇺 Cuba
+  - 🌍 Culture
+  - 📖 Books
+  - 📝 Writing
+haiku: |
   Rhythms of the past,  
-   Echoes of vibrant culture,  
-   Dance through history.
-  coordinates: [21.5216, -77.7812]
+  Echoes of vibrant culture,  
+  Dance through history.
+coordinates: [21.5216, -77.7812]
+---
 
 #### Wimbo Zuri Catalog No. 037.1A07-1
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-02
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Food stamps and farmers markets
 slug: food-stamps-and-farmers-markets
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring innovative ways to tackle hunger and obesity among food stamp recipients through incentives that promote fresh produce.
 emoji: 🥦
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Health
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Health
+haiku: |
   Fresh food for the poor,  
-   Double the value for health,  
-   A market's heartbeat.
-  coordinates: [36.7783, -119.4179]
+  Double the value for health,  
+  A market's heartbeat.
+coordinates: [36.7783, -119.4179]
+---
 
 Here's a way of fighting hunger and obesity at the same time, by incentivising (or perhaps just enabling) healthier food choices for those on public assistance. But I wonder how many people who'd like to take advantage of such a program would actually have a farmer's market they could easily get to? And there's the issue that, if you're poor and your job, time, and home situations are less stable, canned goods and fast food may be (as noted [earlier](http://www.culture-making.com/post/the_food_here_is_awful/)) a better fit for your short-term needs
 

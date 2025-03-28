@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-07-02
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: It creates no wealth or goods
 slug: it-creates-no-wealth-or-goods
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the complexities of play, work, and art through Roger Caillois' insights on the nature of leisure and productivity.
 emoji: 🎭
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Play is pure and free,  
-   Blurring lines of toil and art,  
-   Joy in every note.
-  coordinates: [48.8566, 2.3522]
+  Blurring lines of toil and art,  
+  Joy in every note.
+coordinates: [48.8566, 2.3522]
+---
 
 I was reading, of all things, an [essay](http://web.archive.org/web/20180729204321/http://mediacommons.futureofthebook.org:80/content/cultivated-play-farmville) on the political philosophy of the Facebook game Farmville, and was struck a line from the famous French theorist of [play](https://www.google.com/search?q=%22play%22%20en.wikipedia.org)). Roger Callois goes on to argue for the importance of play (as a means of joy and escape) after first establishing its impracticality. The play–work–art distinction (and overlap) is interesting to ponder. When I play my guitar am I practicing (work), creating (art), or simply amusing myself (play). A little of all three, and you can't always tell which is which
 

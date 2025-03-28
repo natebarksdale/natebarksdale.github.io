@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-06
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Auto-Tune and the cyborg embrace
 slug: auto-tune-and-the-cyborg-embrace
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Embracing the artifice of Auto-Tune can lead to innovative musical expressions, making it a fascinating tool in modern production.
 emoji: 🎤
 tags:
-
-- 🌍 Culture-Making.com
-- 🎵 Music
-- ⚖️ Choices
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - ⚖️ Choices
+  - 🌍 Culture
+haiku: |
   Voices merge with machines,  
-   Artifice becomes art’s heart,  
-   Beauty in the blend.
-  coordinates: [51.5074, -0.1278]
+  Artifice becomes art’s heart,  
+  Beauty in the blend.
+coordinates: [51.5074, -0.1278]
+---
 
 I think the growing global popularity of more overt uses of Auto-Tune in music production is actually a good thing, at least to a point, in that it isn't using the computerized pitch correction to create a perfect but still "real" version of a pop performance (as real as the women on the covers of glossy magazines); instead, it's embracing the artificiality of the process to create something new. A few years back, I heard a great song by a British musician, whose name escapes me alas, who had trained his voice to mimic the Auto-Tune effect naturally. And why not? It sounded cool
 

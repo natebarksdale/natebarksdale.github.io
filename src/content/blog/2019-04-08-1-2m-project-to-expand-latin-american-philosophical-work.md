@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-04-08
 modDatetime: 2025-03-17 18:07:03+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Developing inroads for Latin American philosophers in a new and global interdisciplinary conversation
 emoji: 📚
 tags:
-
-- 🧉 South America
-- 🌀 Templeton
-- 🌍 Culture
-- 📊 Research
-- ⚖️ Ethics
-  haiku: |
+  - 🧉 South America
+  - 🌀 Templeton
+  - 🌍 Culture
+  - 📊 Research
+  - ⚖️ Ethics
+haiku: |
   Latin minds converge,  
-   Exploring deep free will paths,  
-   Bogotá awakes.
+  Exploring deep free will paths,  
+  Bogotá awakes.
 
 coordinates: [4.711, -74.0721]
+---
+
 For the John Templeton Foundation, I wrote about the endeavors to enhance philosophical discussions in Latin America.
 
 > A new $1.2 million grant from the John Templeton Foundation aims to accelerate Latin American philosophical work on free will, agency, and responsibility by supporting a series of seminars and fellowships in the region.

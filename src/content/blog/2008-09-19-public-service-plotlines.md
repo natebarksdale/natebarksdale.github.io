@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-19
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: Public service plotlines
 slug: public-service-plotlines
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This study reveals insights into how television programs like Grey's Anatomy can effectively enhance public awareness about healthcare.
 emoji: 📺
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Health
-- 📺 Television
-- ⚕️ Medicine
-- 📖 Articles
-- ❤️ Charity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Health
+  - 📺 Television
+  - ⚕️ Medicine
+  - 📖 Articles
+  - ❤️ Charity
+haiku: |
   TV's healing tales,  
-   Knowledge blooms in viewers' hearts,  
-   Hope through fiction's light.
-  coordinates: [37.7749, -122.4194]
+  Knowledge blooms in viewers' hearts,  
+  Hope through fiction's light.
+coordinates: [37.7749, -122.4194]
+---
 
 Public health researchers worked with TV scriptwriters to see if viewers do, in fact, learn anything lasting about healthcare from watching Grey's Anatomy. A good portion of them do—good news for public health crusaders and advertisers alike
 

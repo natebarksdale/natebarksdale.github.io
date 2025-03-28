@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-03-24
 modDatetime: 2025-03-24
@@ -10,20 +9,20 @@ draft: True
 description: In 1909 T.J. Cobden-Sanderson laboriously destroyed the renowned typeface he had helped create for the Doves Press, lest it ever be used in machanized reproduction. The destruction didn't take, though, and these words are set in Doves Type. Here's why I chose it (with fear and trembling) for my own dredged-up, AI-reinvigorated online project.
 emoji: 🌉
 tags:
-
-- 💡 Design
-- 📖 Bible
-- 🍷 Europe
-- 🇬🇧 London
-- ⚙️ Engineering
-- 🏛️ Architecture
-- 🏢 Buildings
-- 🏗️ Construction
-  haiku: |
+  - 💡 Design
+  - 📖 Bible
+  - 🍷 Europe
+  - 🇬🇧 London
+  - ⚙️ Engineering
+  - 🏛️ Architecture
+  - 🏢 Buildings
+  - 🏗️ Construction
+haiku: |
   Old bridge starts to sway,
   River flows beneath the weight,
   Timeless, fragile span.
-  coordinates: [51.4905, -0.2332]
+coordinates: [51.4905, -0.2332]
+---
 
 ## A Colophin of Sorts
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-10-08
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Who Were the First Women to Win Nobel Prizes?
 slug: who-were-the-first-women-to-win-nobel-prizes
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Explore the pioneering women who shattered Nobel Prize ceilings, from Marie Curie's double win to trailblazers in peace, literature, and medicine.
 emoji: 🏆
 tags:
-
-- 🧪 Chemistry
-- ⚛️ Physics
-- 🍷 Europe
-- 🇫🇷 France
-- 🇭 History.com
-- ⚕️ Medicine
-- ✍️ Literature
-- 🕊️ Peace
-  haiku: |
+  - 🧪 Chemistry
+  - ⚛️ Physics
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🇭 History.com
+  - ⚕️ Medicine
+  - ✍️ Literature
+  - 🕊️ Peace
+haiku: |
   Curie's light, elements born,  
-   Peaceful words shape Nobel dreams,  
-   Science, peace, prose transform.
-  coordinates: [48.8566, 2.3522]
+  Peaceful words shape Nobel dreams,  
+  Science, peace, prose transform.
+coordinates: [48.8566, 2.3522]
+---
 
 For the History Channel, I wrote about the pioneering women awarded Nobel Prizes.
 

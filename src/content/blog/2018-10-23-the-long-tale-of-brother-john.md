@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-10-23
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: The Long Tale of ‘Brother John’
 slug: the-long-tale-of-brother-john
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A monk, an umbrella, an essay — and many changed lives
 emoji: 📜
 tags:
-
-- 🌀 Templeton
-- ✍️ Literature
-- ✝️ Christianity
-- ❤️ Resilience
-- 🌟 Inspiration
-  haiku: |
+  - 🌀 Templeton
+  - ✍️ Literature
+  - ✝️ Christianity
+  - ❤️ Resilience
+  - 🌟 Inspiration
+haiku: |
   Wounded skydiver seeks,  
-   Monk’s silent wisdom at dawn,  
-   Purpose blooms in pain.
-  coordinates: [33.1433, -79.8037]
+  Monk’s silent wisdom at dawn,  
+  Purpose blooms in pain.
+coordinates: [33.1433, -79.8037]
+---
 
 For the John Templeton Foundation, I wrote an intriguing exploration into the transformative power of purpose through personal crisis.
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-10-22
 modDatetime: 2025-03-18 14:32:16+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Giving without expecting repayment is not only more common than previously thought, it may also be more crucial for cultures to survive and flourish
 emoji: 🤝
 tags:
-
-- ✨ Wonder
-- 🦁 Africa
-- 🌀 Templeton
-- 🤝 Collaboration
-- 🧠 Psychology
-- 🌍 Africa
-  haiku: |
+  - ✨ Wonder
+  - 🦁 Africa
+  - 🌀 Templeton
+  - 🤝 Collaboration
+  - 🧠 Psychology
+  - 🌍 Africa
+haiku: |
   Osotua binds deep,  
-   Generosity flows wide,  
-   Cooperation blooms.
+  Generosity flows wide,  
+  Cooperation blooms.
 
 coordinates: [1.2921, 36.8219]
+---
+
 For the John Templeton Foundation, I wrote about exploring the roots of generosity through the lens of need-based relationships among the Maasai.
 
 > Among the Maasai people of southern Kenya and northern Tanzania, there is a special category of friendship known as _osotua,_ from the word that means “umbilical cord.” _Osotua_ relationships grow out of a sort of platonic courtship and, once formalized, bind people in mutual obligation to help one another in times of need. _Osotua_ is what anthropologists call a “need-based” rather than “debt-based” system of transfer: one gives or receives help based on the relationship, not on the ability to eventually settle the debt.

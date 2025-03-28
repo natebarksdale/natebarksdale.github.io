@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Daydream believing
 slug: daydream-believing
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring the nuances of daydreaming and its relationship with creativity.
 emoji: 💭
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 🌍 Consciousness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 🌍 Consciousness
+haiku: |
   Dreams drift in our minds,  
-   Catch the spark before it fades,  
-   Insight blooms with thought.
-  coordinates: [42.3601, -71.0589]
+  Catch the spark before it fades,  
+  Insight blooms with thought.
+coordinates: [42.3601, -71.0589]
+---
 
 It's not enough to daydream—you evidently have to catch yourself in the process for the creativity to stick. Imagination is all about proposing things that don't exist. But even our flights of fancy nonetheless must take place within our cultural frameworks of the possible, the impossbile, the not-quite-possible-yet
 

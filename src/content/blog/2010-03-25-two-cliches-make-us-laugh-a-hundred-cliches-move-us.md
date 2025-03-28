@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-25
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:07Z
 title: Two clichés make us laugh. A hundred clichés move us
 slug: two-cliches-make-us-laugh-a-hundred-cliches-move-us
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Eco explores how _Casablanca_ transcends clichés to unveil narrative power and emotional depth.
 emoji: 🎬
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- 🎥 Film
-- ✨ Beauty
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - 🎥 Film
+  - ✨ Beauty
+haiku: |
   In clichés we find,  
-   Depths of thought and feeling,  
-   Life in frames of light.
-  coordinates: [34.0522, -118.2437]
+  Depths of thought and feeling,  
+  Life in frames of light.
+coordinates: [34.0522, -118.2437]
+---
 
 I love that in French, a cliché is also a photo negative—that is to say, the cliché is the original
 

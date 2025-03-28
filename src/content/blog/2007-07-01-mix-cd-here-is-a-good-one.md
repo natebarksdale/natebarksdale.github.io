@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-07-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Here Is a Good One
 slug: mix-cd-here-is-a-good-one
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A captivating mix of hip-hop, indie pop, and eclectic sound clips, inspired by an old advertising card for a roll-top oak desk.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🎵 Music
-- 🎨 Art
-- 📝 Writing
-- 🌐 Blogging
-- ⚒️ Blacksmiths
-  haiku: |
+  - 💿 Mix CDs
+  - 🎵 Music
+  - 🎨 Art
+  - 📝 Writing
+  - 🌐 Blogging
+  - ⚒️ Blacksmiths
+haiku: |
   Sounds from the past,  
-   Beats blend with memories bright,  
-   Art in every note.
-  coordinates: [35.2271, -80.8431]
+  Beats blend with memories bright,  
+  Art in every note.
+coordinates: [35.2271, -80.8431]
+---
 
 #### Wimbo Zuri Catalog No. 035.1A07-1
 

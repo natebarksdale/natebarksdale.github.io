@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: Blacksmith demonstration
 slug: blacksmith-demonstration
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: I appreciate the tension between violence and artful precision in this photograph.
 emoji: ⚒️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚒️ Blacksmiths
-- 🌀 Complexity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚒️ Blacksmiths
+  - 🌀 Complexity
+haiku: |
   Forged in fire's glow,  
-   Boundaries shaped with purpose,  
-   Grace in metal's form.
-  coordinates: [38.8895, -77.0369]
+  Boundaries shaped with purpose,  
+  Grace in metal's form.
+coordinates: [38.8895, -77.0369]
+---
 
 I love the tension between violence and artful precision in this photo -- and the way that the rod (chisel?) sits nestled in the center of the center of the scroll. And, of course, the more general idea of making life's necessary boundaries a bit more thoughtful, more graceful
 [![photo](http://culture-making.com/media/2548087053_b251b9ef18_b.jpg)](http://flickr.com/photos/smithsonian/2548087053/)

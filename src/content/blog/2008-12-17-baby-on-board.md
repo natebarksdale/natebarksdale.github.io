@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-17
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Baby on board
 slug: baby-on-board
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A compelling exploration of how innovative engineering methods can overcome the challenges of delivering effective medical equipment in the developing world.
 emoji: 🚑
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- ♻️ Repurposing
-- ⚖️ Choices
-- 🌍 Development
-- 🌍 Health
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - ♻️ Repurposing
+  - ⚖️ Choices
+  - 🌍 Development
+  - 🌍 Health
+haiku: |
   Incubators lost,  
-   Car parts save fragile new lives,  
-   Hope in harsh places.
-  coordinates: [-15.7835, -47.9292]
+  Car parts save fragile new lives,  
+  Hope in harsh places.
+coordinates: [-15.7835, -47.9292]
+---
 
 Here's an innovative approach to creating lifesaving medical equipment that can work well (and be repaired) in conditions often found in the developing world. The article, I suppose in _New York Times_ fashion, complicates the issue with quotes from doubtful experts who have their own, largely behavioral programs for reducing infant mortality. It's heartbreaking that it's presented as a one-or-the-other sort of choice
 

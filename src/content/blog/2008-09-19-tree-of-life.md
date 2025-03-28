@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-19
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Tree of life
 slug: tree-of-life
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: From Vijaysree Venkataraman, a reflection on the journey of the moringa tree and its potential in addressing malnutrition across cultures.
 emoji: 🌳
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- 🌍 Culture
-- 🌍 Health
-- 🌱 Sustainability
-- ❤️ Kindness
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - 🌍 Culture
+  - 🌍 Health
+  - 🌱 Sustainability
+  - ❤️ Kindness
+haiku: |
   Miracle tree blooms,  
-   Leaves hold life-saving secrets,  
-   Cultures intertwine.
-  coordinates: [10.0, 8.0]
+  Leaves hold life-saving secrets,  
+  Cultures intertwine.
+coordinates: [10.0, 8.0]
+---
 
 What's interesting here—aside from the story itself, which sounds hopeful indeed—is the way the moringa tree is being passed between different (though surprisingly overlapping) cultural worlds: Africa and Asia and America, rich and poor, traditional and modern, folk and scientific. My ears prick up at the words that accompany (often in necessary quotation-marks) these handoffs: "discovered," "miracle," "awaits validation
 

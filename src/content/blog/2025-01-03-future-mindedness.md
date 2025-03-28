@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-01-03
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:19Z
 title: Future-Mindedness
 slug: future-mindedness
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: The past, present and future of thinking about the future.
 emoji: 🔮
 tags:
-
-- 💡 Design
-- 🌀 Templeton
-- ✍️ Translation
-  haiku: |
+  - 💡 Design
+  - 🌀 Templeton
+  - ✍️ Translation
+haiku: |
   Future will be past
   Prospection opens the door
   We only walk through
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the intriguing concept of how we perceive and prepare for the future.
 

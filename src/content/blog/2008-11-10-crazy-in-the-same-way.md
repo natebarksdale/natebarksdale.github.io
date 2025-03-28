@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-10
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Crazy in the same way?
 slug: crazy-in-the-same-way
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: This analysis dives into how psychotic delusions are influenced by the cultural context of their times, reflecting societal anxieties and technologies.
 emoji: 🪞
 tags:
-
-- 📺 Television
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Culture
-- 🧠 Psychology
-- ✍️ Literature
-  haiku: |
+  - 📺 Television
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Culture
+  - 🧠 Psychology
+  - ✍️ Literature
+haiku: |
   Minds shaped by the times,  
-   Delusions of the ages,  
-   Reflections of fears.
-  coordinates: [46.0511, 14.5051]
+  Delusions of the ages,  
+  Reflections of fears.
+coordinates: [46.0511, 14.5051]
+---
 
 This reminds me of a very fascinating/disturbing piece, "[A New Way to Be Mad](http://www.theatlantic.com/doc/200012/madness)," that ran in the Atlantic a few years back. When I think about these instances of disease (or description of disease) as a deeply cultural phenomenon, the phrase that invariably springs to mind is, "The Spirit of the Age." It seems apt
 "[The Evolution of Delusions](http://web.archive.org/web/20111018054007/http://www.veryshortlist.com/science/daily.cfm/review/761/Other_print_publication/psychopathology-of-schizophrenia/?tp)," the [VSL Science](http://web.archive.org/web/20111018054007/http://www.veryshortlist.com/science/daily.cfm/review/761/Other_print_publication/psychopathology-of-schizophrenia/?tp) post for 5 November 2008

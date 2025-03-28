@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-05-17
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Bridging gaps through an interfaith investigation into the problems and possibilities of randomness
 emoji: 🎲
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- ⛪ Religion
-- 🙏 Faith
-- ✝️ Christianity
-- ✡️ Judaism
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🙏 Faith
+  - ✝️ Christianity
+  - ✡️ Judaism
+haiku: |
   Dice cast in the skies,  
-   Randomness meets divine eyes,  
-   Faith questions the hows.
+  Randomness meets divine eyes,  
+  Faith questions the hows.
 
 coordinates: [42.9634, -85.6681]
+---
+
 For the John Templeton Foundation, I wrote about exploring the intersection of divine foresight and random events in Abrahamic traditions.
 
 > Does God play dice with the universe? Although Einstein famously denounced the possibility, he was not making a theological claim. He was rather voicing his frustration with the apparent implications of quantum theory, which seemed to upend the notion of determinism in physics according to which knowing every detail about a system’s present state allows one to know what will happen to it in the future.

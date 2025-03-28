@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-05
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: Who was that masked man?
 slug: who-was-that-masked-man
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: A reflection on the social impact of masks during the swine flu outbreak.
 emoji: 😷
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🧘‍♂️ Psychology
-- 💬 Communication
-- 😷 Masks
-- 🌍 Health
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🧘‍♂️ Psychology
+  - 💬 Communication
+  - 😷 Masks
+  - 🌍 Health
+haiku: |
   In masks, faces hid,  
-   Conversations stifled slow,  
-   Smiles lost in the air.
-  coordinates: [19.4326, -99.1332]
+  Conversations stifled slow,  
+  Smiles lost in the air.
+coordinates: [19.4326, -99.1332]
+---
 
 Masks are an abiding human fascination, offering the possibility of transformation, anonymity, aggression, or protection. Or, in the case of the current swine flu outbreak, something more akin to pseudo-protection. The government-issued surgical masks in Mexico City make going out in public without as much fear possible, but perhaps at the cost of easier communication. I once asked a surgeon friend of mine whether he thought communication might work better in the OR if the medical team wore transparent surgical masks. He said he didn't think so—though I couldn't see his face at the time, so who knows?
 

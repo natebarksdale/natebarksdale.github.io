@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-17
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: The epic of the universe, the ballad they sing in the streets
 slug: the-epic-of-the-universe-the-ballad-they-sing-in-the-streets
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A beautiful reflection on the interplay of life and eternity from Marilynne Robinson's _Gilead_.
 emoji: 🌌
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- ⚰️ Cemeteries
-- 🌌 Dystopias
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - ⚰️ Cemeteries
+  - 🌌 Dystopias
+haiku: |
   Eyes wide in wonder,  
-   Mortality's sweet embrace,  
-   Eternity sings.
-  coordinates: [40.6050, -91.1986]
+  Mortality's sweet embrace,  
+  Eternity sings.
+coordinates: [40.6050, -91.1986]
+---
 
 A lovely passage on the here and hereafter from the novel that's currently (and belatedly, given the strength of my friends' recommendations) on my bedside table
 

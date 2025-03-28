@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: A sofa revolution
 slug: a-sofa-revolution
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A story of neighbors taking matters into their own hands to improve their community by slowing down traffic in Delft.
 emoji: 🚦
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Activism
-- ⚖️ Law
-- ⚙️ Technology
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Activism
+  - ⚖️ Law
+  - ⚙️ Technology
+haiku: |
   Sofas in the street,  
-   Slowing cars with clever plans,  
-   Neighbors change their world.
-  coordinates: [52.0116, 4.3572]
+  Slowing cars with clever plans,  
+  Neighbors change their world.
+coordinates: [52.0116, 4.3572]
+---
 
 Actually, the throw-the-furniture-in-the-streets model of social protest has a long history, especially in Europe, where narrow streets make barricades easier to set up. Also when "changing the world" means changing your neighborhood, the chances of success are generally better
 

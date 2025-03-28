@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-07-19
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,18 +9,19 @@ draft: False
 description: A new theory offers insight into an evolutionary puzzle
 emoji: 🔬
 tags:
-
-- 🦠 Biology
-- 🌀 Templeton
-- 🧬 Biology
-- 🌍 Evolution
-- ⚕️ Medicine
-  haiku: |
+  - 🦠 Biology
+  - 🌀 Templeton
+  - 🧬 Biology
+  - 🌍 Evolution
+  - ⚕️ Medicine
+haiku: |
   Ancient cells evolve,  
-   Decidual secrets told,  
-   Life's fabric unfolds.
+  Decidual secrets told,  
+  Life's fabric unfolds.
 
 coordinates: [41.3163, -72.9223]
+---
+
 For the John Templeton Foundation, I wrote about the emergence and evolution of new cell types.
 
 > Of the many things that differentiate a human from a kangaroo or an opossum, one of the more subtle is the decidual cell, which is found in the lining of the womb of placental mammals but not in marsupials. Unlike most of the cell types in our bodies, decidual cells are of relatively recent origin, having first appeared between 100 and 200 million years ago. Their relatively late evolutionary arrival, along with their uniqueness to certain types of mammals makes decidual cells an ideal candidate for investigating the ways that new cell types appear and evolve.

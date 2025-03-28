@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-26
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: The Web before the Web was the Web
 slug: the-web-before-the-web-was-the-web
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the parallels between urban life and online communities, this excerpt draws intriguing comparisons between the vibrancy of New York City and the Internet.
 emoji: 🌐
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌍 Culture
-- 🌐 Blogging
-- 🚉 Transportation
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌍 Culture
+  - 🌐 Blogging
+  - 🚉 Transportation
+haiku: |
   Streets filled with stories,  
-   A dance of souls intertwined,  
-   City meets the web.
-  coordinates: [40.7128, -74.0060]
+  A dance of souls intertwined,  
+  City meets the web.
+coordinates: [40.7128, -74.0060]
+---
 
 The best of the Internet bears some similarities with the best of cities, though I suppose we could say the same about the worst and in-between as well—e.g., "Is Web community a myth?
 

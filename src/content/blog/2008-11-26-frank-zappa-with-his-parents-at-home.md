@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-26
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Frank Zappa with his parents at home
 slug: frank-zappa-with-his-parents-at-home
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: As Thanksgiving nears, we reflect on the home and the importance of those who inspire our creative journeys.
 emoji: 🦃
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌟 Inspiration
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌟 Inspiration
+  - 📝 Writing
+haiku: |
   Family gathers 'round,  
-   Creativity blossoms,  
-   Gratitude abounds.
-  coordinates: [34.0522, -118.2437]
+  Creativity blossoms,  
+  Gratitude abounds.
+coordinates: [34.0522, -118.2437]
+---
 
 As Thanksgiving approaches, here's to family and home and all those who, in whatever manner, make possible the good weird work of cultural creativity
 [![photo](http://culture-making.com/media/c.jpg)](http://images.google.com/hosted/life/l?q=zappa+source:life&imgurl=ff002c907b64a1ff)

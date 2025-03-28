@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: Community kitchens in Lima, Peru
 slug: community-kitchens-in-lima-peru
 featured: false
@@ -10,20 +9,21 @@ draft: false
 description: Women in Peru unite through community kitchens, not only to feed those in need but also to empower themselves and demand change.
 emoji: 🍲
 tags:
-
-- 🧉 South America
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Society
-- ❤️ Charity
-- 🍴 Cuisine
-- 🤝 Altruism
-  haiku: |
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - ❤️ Charity
+  - 🍴 Cuisine
+  - 🤝 Altruism
+haiku: |
   Steaming pots unite,  
-   Women gather, strength in hands,  
-   Voices rise for change.
+  Women gather, strength in hands,  
+  Voices rise for change.
 
 coordinates: [-12.0464, -77.0428]
+---
+
 This reminds me of the community ovens that I've heard about in North Africa and Lebanon, where women make their dough at home and then drop it off to be baked. Though I think the savings there is mostly one of fuel and avoided kitchen heat
 
 > Steam rises into air thick with the scent of garlic as women prepare lunch for 120 of Peru’s neediest.

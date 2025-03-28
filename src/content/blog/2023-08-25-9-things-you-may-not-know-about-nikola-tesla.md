@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-09-09
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Nine Things You May Not Know About Nikola Tesla
 slug: nine-things-you-may-not-know-about-nikola-tesla
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Discover nine surprising facets of Nikola Tesla's life, from mystical visions to fierce conflicts with Edison.
 emoji: ⚡
 tags:
-
-- 💡 Design
-- 🍷 Europe
-- 🇭 History.com
-- ⚙️ Engineering
-- 🧠 Genius
-- 🇺🇸 United States
-  haiku: |
+  - 💡 Design
+  - 🍷 Europe
+  - 🇭 History.com
+  - ⚙️ Engineering
+  - 🧠 Genius
+  - 🇺🇸 United States
+haiku: |
   Visions of flame dance,  
-   Tesla's mind sparks, unfettered—  
-   Light battles darkness.
-  coordinates: [40.7128, -74.006]
+  Tesla's mind sparks, unfettered—  
+  Light battles darkness.
+coordinates: [40.7128, -74.006]
+---
 
 For the History Channel, I wrote about some of the lesser-known aspects of Nikola Tesla's life and work.
 

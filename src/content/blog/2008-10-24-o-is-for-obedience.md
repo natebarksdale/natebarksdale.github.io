@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: O is for obedience
 slug: o-is-for-obedience
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of obedience as a creative act, inspired by a story from the Desert Fathers.
 emoji: 😇
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ❤️ Love
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ❤️ Love
+  - 📝 Writing
+haiku: |
   Silent in the cell,  
-   A letter waits, yet he comes,  
-   Love’s call answered first.
-  coordinates: [29.1478, 31.2530]
+  A letter waits, yet he comes,  
+  Love’s call answered first.
+coordinates: [29.1478, 31.2530]
+---
 
 Simply coming when you're asked to seems, at first glance, a bit removed (perhaps even antithetical) to the idea of cultural creativity and cultivation. Though this memorable anecdote from the Desert Fathers recasts obedience as an astonishing, and I'd say creative act—a creative discipline, at least
 

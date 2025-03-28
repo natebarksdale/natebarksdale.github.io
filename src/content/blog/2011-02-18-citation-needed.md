@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-02-18
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Citation Needed
 slug: citation-needed
 featured: false
@@ -10,23 +9,23 @@ draft: false
 description: Reflecting on the quirks and community-driven nature of Wikipedia's content and editing processes.
 emoji: 📖
 tags:
-
-- ✨ Wonder
-- 💡 Design
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🧉 South America
-- 🦁 Africa
-- 🌍 History
-- 🌍 Culture
-- 🌐 Blogging
-- 🪑 Chairs
-- ⚙️ Technology
-  haiku: |
+  - ✨ Wonder
+  - 💡 Design
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌍 History
+  - 🌍 Culture
+  - 🌐 Blogging
+  - 🪑 Chairs
+  - ⚙️ Technology
+haiku: |
   A web of stories,  
-   Errors weave human voices,  
-   Facts and tales entwined.
-  coordinates: [-14.0024, 34.7451]
+  Errors weave human voices,  
+  Facts and tales entwined.
+coordinates: [-14.0024, 34.7451]
+---
 
 [![](@assets/images/wikipedia.jpg)](@assets/images/wikipedia.jpg)
 wikipedia

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-01
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: If it seems wordish, use it
 slug: if-it-seems-wordish-use-it
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The creativity of language invites us to embrace innovative word usage without apology.
 emoji: 🌈
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🗣️ Language
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🗣️ Language
+  - 🌍 Culture
+haiku: |
   Language is a tool,  
-   New words bloom like wildflowers,  
-   Speak without limits.
-  coordinates: [42.3601, -71.0589]
+  New words bloom like wildflowers,  
+  Speak without limits.
+coordinates: [42.3601, -71.0589]
+---
 
 Oddly, I've never been too enthused by the "there oughta be a word for X" genre (_Sniglets_ , etc.). But I am a huge fan of new words that actually get used, even if they annoy the traditionalists at first. Part of glory of language is the freedom it gives us to come up witn entirely new, yet comprehensible combinations of words and word-parts
 

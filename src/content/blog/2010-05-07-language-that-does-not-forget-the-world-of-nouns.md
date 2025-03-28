@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-07
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: Language that does not forget the world of nouns
 slug: language-that-does-not-forget-the-world-of-nouns
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Sven Birkerts reflects on the enduring value of novels in a digital age where concentration is a challenge to be fought for.
 emoji: 📚
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📝 Writing
-- 🌍 Society
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📝 Writing
+  - 🌍 Society
+haiku: |
   In words we find truth,  
-   A battle for focus lost,  
-   Language holds us close.
-  coordinates: [42.3601, -71.0589]
+  A battle for focus lost,  
+  Language holds us close.
+coordinates: [42.3601, -71.0589]
+---
 
 What are novels for, in the age of Google and neuropsychology and what not else? Sven Birkerts takes a long reflective stab at the question. His conclusions are tentative but nonetheless resonant: "Concentration is no longer a given; it has to be strategized, fought for. But when it is achieved it can yield experiences that are more rewarding for being singular and hard-won
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-20
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: Our riches have buried our treasures
 slug: our-riches-have-buried-our-treasures
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: In times of economic struggle, we may discover the true value of relationships and gratitude.
 emoji: 🌱
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 💰 Commerce
-- 🌍 Culture
-- 🛋️ Furniture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 💰 Commerce
+  - 🌍 Culture
+  - 🛋️ Furniture
+haiku: |
   In loss, we find love,  
-   Time spent with those we cherish,  
-   Grateful hearts emerge.
-  coordinates: [37.0902, -95.7129]
+  Time spent with those we cherish,  
+  Grateful hearts emerge.
+coordinates: [37.0902, -95.7129]
+---
 
 What the recession is making possible for many Americans
 

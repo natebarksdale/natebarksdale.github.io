@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-10-08
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: Rediscovering the Greek Revolution’s Roots in Classical Liberalism
 slug: rediscovering-the-greek-revolutions-roots-in-classical-liberalism
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the classical liberal roots of the Greek Revolution as KEFiM illuminates the ideals that shaped modern Greece through a dynamic bicentennial campaign.
 emoji: 📜
 tags:
-
-- 🍷 Europe
-- 🌀 Templeton
-- 🌍 History
-- ✍️ Translation
-  haiku: |
+  - 🍷 Europe
+  - 🌀 Templeton
+  - 🌍 History
+  - ✍️ Translation
+haiku: |
   Bicentennial light,  
-   Ideals of freedom reborn,  
-   Greece awakens proud.
-  coordinates: [37.9838, 23.7275]
+  Ideals of freedom reborn,  
+  Greece awakens proud.
+coordinates: [37.9838, 23.7275]
+---
 
 For the John Templeton Foundation, I wrote about classical liberalism's influence on the Greek Revolution.
 

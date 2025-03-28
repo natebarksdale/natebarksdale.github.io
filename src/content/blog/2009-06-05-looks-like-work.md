@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-05
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: Looks like work
 slug: looks-like-work
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of the creative challenges filmmakers face in portraying everyday digital interactions dramatically.
 emoji: 🎬
 tags:
-
-- 🌍 Culture-Making.com
-- 🎥 Film
-- 🖋️ Commentary
-- 🌍 Society
-- 🌀 Complexity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎥 Film
+  - 🖋️ Commentary
+  - 🌍 Society
+  - 🌀 Complexity
+haiku: |
   Typing in silence,  
-   Actions blend into one scene,  
-   Drama lost in clicks.
-  coordinates: [40.7128, -74.0060]
+  Actions blend into one scene,  
+  Drama lost in clicks.
+coordinates: [40.7128, -74.0060]
+---
 
 An astute, amusing overview of the various visual storytelling strategies and workarounds filmmakers have come up with to handle visually boring hi-tech interactions. It seems odd having to coax 24's drama out of actors going mano-a-mano with a speakerphone, but much cinematic dialogue, at least when cutting from one face to another, has always been filmed in a one-sided way, and spliced together only afterwards
 

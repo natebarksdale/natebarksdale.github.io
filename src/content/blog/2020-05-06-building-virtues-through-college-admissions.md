@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-05-06
 modDatetime: 2025-03-18 21:19:22+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Explore how Harvard's initiative reshapes college admissions by prioritizing ethical character and creating tailored tools for assessing student virtues.
 emoji: 🎓
 tags:
-
-- 🌀 Templeton
-- 🧘‍♂️ Psychology
-- 🥗 Virtue
-- 📚 College
-  haiku: |
+  - 🌀 Templeton
+  - 🧘‍♂️ Psychology
+  - 🥗 Virtue
+  - 📚 College
+haiku: |
   Virtues shape the youth,  
-   Colleges seek deeper truths,  
-   Character's new root.
+  Colleges seek deeper truths,  
+  Character's new root.
 
 coordinates: [42.377, -71.1167]
+---
+
 For the John Templeton Foundation, I wrote about reshaping the ethos of college admissions to emphasize character and virtue.
 
 > In 2016 Harvard’s Making Caring Common project published [Turning the Tide](https://mcc.gse.harvard.edu/reports/turning-the-tide-college-admissions), a report endorsed by 200 colleges that called for a refocusing of the college admissions process to reduce achievement pressure, promote equity and access for economically disadvantaged students, and send strong signals to young people about the importance of ethical engagement. “High school students have been hearing that what’s important is high numbers of AP courses, or being a good athlete,” says psychologist and Making Caring Common faculty director Richard Weissbourd. “They’re not hearing loudly that ethical character is important.” But while Turning the Tide and its 2019 [follow-up report](https://mcc.gse.harvard.edu/reports/turning-the-tide-2-parents-high-schools-college-admissions)’s call for action provided a good first step towards change, Weissbourd and his colleagues realized that many colleges’ well-intentioned steps towards reframing the values of college admissions were still falling short. “Many schools could do a better job drawing on the science of character, defining what these traits are, and preparing reviewers to really assess those traits and virtues,” Weissbourd says.

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Secular praise songs from Western Kenya
 slug: secular-praise-songs-from-western-kenya
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: A fascinating exploration of The Kawere Boys, a popular Benga group from Kenya, showcasing the interwoven relationships between artist and patron through music in Luo culture.
 emoji: 🎶
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🇿🇦 South Africa
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎵 Music
-- 🎤 Performances
-- 📝 Writing
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎵 Music
+  - 🎤 Performances
+  - 📝 Writing
+haiku: |
   Praise sung in Benga,  
-   Names and bonds come alive here,  
-   Threads of history.
-  coordinates: [-0.3666, 35.2833]
+  Names and bonds come alive here,  
+  Threads of history.
+coordinates: [-0.3666, 35.2833]
+---
 
 This is from a really wonderful blog (my [tax dollars at work](http://web.archive.org/web/20091119141211/http://www.voanews.com/english/Africa/blog/)!) that posts decades-old African pop music, accompanied by lengthy history and commentary. Here's the brief background: "The Kawere Boys were formed by Cheplin Ngode Kotula in Kericho, Kenya in 1974, and over the next four years became one of the more popular Benga groups in Luo land. ... These recordings were not only popular throughout Luo land, but also sold well in Tanzania, Malawi, South Africa, Nigeria, Cameroun, and West Africa." It's fascinating and heartening to learn these tales of cultural spread that bypass the usual centers of power (Europe, the U.S., heck, even Nairobi). Also—fascinating relationship between artist and patron: the patron doesn't just make the song possible, he is the song's subject
 

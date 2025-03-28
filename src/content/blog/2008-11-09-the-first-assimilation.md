@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-09
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: The first assimilation
 slug: the-first-assimilation
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of cultural adaptation among Central American immigrants in LA, highlighting the complexities of identity and belonging.
 emoji: 🌎
 tags:
-
-- ✨ Wonder
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+haiku: |
   Lost in two cultures,  
-   A silent mask worn with pride,  
-   Seeking a safe home.
-  coordinates: [34.0522, -118.2437]
+  A silent mask worn with pride,  
+  Seeking a safe home.
+coordinates: [34.0522, -118.2437]
+---
 
 A cultural adaption strategy for those who find themselves doubly in the minority (although, in parts of LA I suppose people of Mexican ancestry may qualify, at least in terms of numbers, for majority-culture status)
 

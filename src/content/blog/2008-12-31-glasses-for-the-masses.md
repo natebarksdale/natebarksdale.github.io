@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-31
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Glasses for the masses
 slug: glasses-for-the-masses
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Addressing global vision disparities with innovative, user-adjustable glasses.
 emoji: 🥽
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Development
-- 🌍 Health
-- 🔧 Machinery
-- 💡 Innovation
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Development
+  - 🌍 Health
+  - 🔧 Machinery
+  - 💡 Innovation
+haiku: |
   Adjustable sight,  
-   Empowering those in need,  
-   Vision for the world.
-  coordinates: [20.5937, 78.9629]
+  Empowering those in need,  
+  Vision for the world.
+coordinates: [20.5937, 78.9629]
+---
 
 In the US there is one optometrist for every 8,700 people, in sub-Saharan Africa the ratio is 1:1,000,000. One way to address the disparity: make cheap glasses that can be calibrated by their users
 

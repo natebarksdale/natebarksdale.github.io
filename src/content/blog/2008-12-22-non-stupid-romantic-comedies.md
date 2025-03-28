@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Non-stupid romantic comedies
 slug: non-stupid-romantic-comedies
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on the enduring charm of romantic comedies amid a sea of mediocrity.
 emoji: 🎬
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎥 Film
-- ❤️ Love
-- 📝 Writing
-- 🌆 Utopia
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎥 Film
+  - ❤️ Love
+  - 📝 Writing
+  - 🌆 Utopia
+haiku: |
   Amidst the laughter,  
-   Gems in romantic tales shine,  
-   Love's art, not rubbish.
-  coordinates: [55.9533, -3.1883]
+  Gems in romantic tales shine,  
+  Love's art, not rubbish.
+coordinates: [55.9533, -3.1883]
+---
 
 I love the 95% rule of thumb: so inherently unverifiable, yet so pleasing!
 a [Tomorrow Museum](http://web.archive.org/web/20100116065527/http://tomorrowmuseum.com/2008/12/19/non-stupid-romantic-comedies/) aside by Joanne, 19 December 2008

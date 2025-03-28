@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2003-03-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: A star in the East- The enduring myth of Prester John
 slug: a-star-in-the-east-the-enduring-myth-of-prester-john
 featured: false
@@ -10,23 +9,23 @@ draft: false
 description: The legend of Prester John serves as a lens through which we examine medieval European dreams of Christian power in distant lands.
 emoji: 🗺️
 tags:
-
-- ✨ Wonder
-- 🌙 Islam
-- ✡️ Judaism
-- 🍷 Europe
-- 🧉 South America
-- 🦁 Africa
-- 🇫🇷 France
-- 🇨🇳 China
-- 🌍 Exploration
-- 📍 Travel
-- 🖼️ Artifacts
-  haiku: |
+  - ✨ Wonder
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 🍷 Europe
+  - 🧉 South America
+  - 🦁 Africa
+  - 🇫🇷 France
+  - 🇨🇳 China
+  - 🌍 Exploration
+  - 📍 Travel
+  - 🖼️ Artifacts
+haiku: |
   Legends of a king,  
-   Lost in time and mystery,  
-   Faith and dreams converge.
-  coordinates: [15.5000, 24.0000]
+  Lost in time and mystery,  
+  Faith and dreams converge.
+coordinates: [15.5000, 24.0000]
+---
 
 ![](@assets/images/waldseemuller1_530.jpg)
 [wikipedia](http://en.wikipedia.org/wiki/Waldseemüller_map)
@@ -48,8 +47,7 @@ Which brings us to Sir John Mandeville, a fourteenth-century English knight who 
 > Now there's no critique like self-critique, and it would hardly be fair to pronounce upon medieval Europeans' reasons for telling and retelling the Prester John legend without considering why, more than 500 years later, I have decided to do the same. The short answer is probably the same one my ancestors would have given, if they'd had the words—it's a cool story. It's news from an exotic foreign realm, full of astounding creatures and untold treasures. For me the exoticism is one of time more than place, the marvels not Cyclopes or fountains of youth but curious spellynges and the strange details that filter down through the centuries
 > But the other reason I'm so taken with the myth of Prester John is that I too have spent much of my life longing for a distant Christian king. I've yearned to discover fellow believers in unexpected places of power and influence. I've done this partly for reasons rooted in the faith: Christianity is by its own definition a message that needs to be shared. But I think I've sought to find, or to create, my own Prester John less for evangelical reasons than simply to affirm my own tastes and desires. I want to see Christian pop stars and politicians because, despite my misgivings about the world and its temptations, I find creativity, physical beauty, fame, and power to be pretty darn attractive. And what better way to sanction these attractions than to sanctify them, to imagine that there might be Christians at the center of all that gold and glitter? In high school I listened to the pop group Erasure and hoped against hope that when Andy Bell sang, "God is love / God is war / TV preacher tell me more / Father help me am I pure / Pure as pure as heaven?" it was a sign he was on the verge of getting saved. And though Erasure's next album didn't turn up on the shelves of my local Christian bookstore, I renewed my hope with a new song's lyric that went, "I can see the old Cathedral, but I have to play it down." Maybe Bell _was_ on my team, just undercover—which was, in a way, even more exciting. It took still another album, _Abba-esque_ , before I was finally and thoroughly convinced that Erasure were more interested in cross—dressing than in crossing over to Christian music. In and after college, as tends to happen, my quest put on more sophisticated airs, as I debated the merits of various movies my friends and I suspected of being crypto-Christian in message: _The Shawshank Redemption, Contact,_ and of course _The Matrix._ I've spent hours surfing the Web in an attempt to figure out just where _Fight Club_ director David Fincher stands, faith-wise. And after a particularly moving viewing of The Color of Paradise at the local art cinema, I spent the next week trying to convince myself that the film's Iranian director, Majid Majidi, might be a Christian. This, for me, was the easier philosophical leap than considering that a Muslim filmmaker might have something to teach me about God. I thought that my concerns for the state of a pop singer's soul, my rejoicing when I saw a film that presented a message of grace to a secular audience, were signs that I was rejecting the superficiality of popular culture in favor of spiritual depth. Perhaps I was. But I think those concerns also revealed my need to mediate between the God I love and the stuff I like. As with most fantasies, I've found that the search for true believers in unexpected and exciting places is usually far more exciting than the discovery. Once you've cornered your elusive, praying prey, they generally turn out to be disappointingly human. They swear or smoke, are sometimes depressed or divorced. And even the grace—given few who wield both fame and orthodox Christian faith wind up astounding us, not with how much they can do, but with how ineffectual they sometimes seem. Unlike the gilded bed of a certain priest-king from the East, the trappings of fame do not, as best I can tell, make for easier sleep, nor do they drive away temptation. The lure of worldly Christian success, whether I desire it for myself or for others, is strongest when the object of my dreams is just out of reach, just over the horizon. It's much easier to dream of Christians in positions of power and influence than to realize that they're already there, and just aren't as impressive as I'd imagined. The myth of Prester John persisted precisely because he couldn't be found. And, in fact, once Europeans did discover a Christian king who answered to that name, they quickly lost interest.
 > So back to our story. After the collapse of the Mongol empire, Prester John's coordinates became more and more erratic. A map published in 1375 places him in the East Indies. One from 1407 has him in the Caucasus mountains. But by the end of the fifteenth century, more and more accounts placed the priest-king in Africa, somewhere near the source of the Nile. In 1487 King João of Portugal sent two explorers, Affonso de Paiva and Pedro da Covilhão, to find Prester John and, while they were at it, learn what they could about the geographies of, and opportunities for trade with, both Africa and India. Neither made it back to Portugal, though Pedro did manage to post from Cairo an encouraging letter to the king detailing the Indian ocean trade in spices and luxury items. He then disappeared into the African interior
-> ![](@assets/images/pj_ethiopia_530.jpg)
-> [wikipedia](http://en.wikipedia.org/wiki/File:Prester_John_map.jpg)
+> ![](@assets/images/pj_ethiopia_530.jpg) > [wikipedia](http://en.wikipedia.org/wiki/File:Prester_John_map.jpg)
 > In 1498 Vasco de Gama, on his famous voyage around Africa to India, put in at Mozambique and was told by Arab traders that Prester John resided somewhere inland. Twenty years later another group of Portuguese reached the court of Lebna Dengel, the Christian king of Ethiopia, and decided he must be the priest-king of legend. Being a man of many titles, Lebna Dengel happily agreed to take on one more, and thus, after all those centuries, Prester John was finally crowned. Attendant at John's court—surprisingly or not, depending on how you look at it—was old Pedro da Covilhão, long assumed dead. He had been welcomed into Ethiopia but forbidden to leave, so he'd married, settled down, and made the best of it. For some reason, the exit restriction was not extended to the new arrivals, so the expedition's chaplain, Father Francisco Alvares, made it home to tell the Western world the long-awaited news of Prester John and his kingdom of mud huts. But by then, Europe's attention was elsewhere. The new object of European desire and fantasy was, of course, that distended blotch on the left-hand side of Martin Waldseemüller's famous map: the New World. All the old legends of pygmies and Amazons, golden cities and rivers flowing from paradise quickly found new lodgings in Amerigo's lands. The priest-king faded from view, though it would be longer still before European culture finally exorcised the temptation to write, when confronted with a source of exotic wonder or a blank space on the map, "Here be Christians." For instance: in 1805 the Lewis and Clark expedition, bound overland from the Mississippi to the Pacific, kept a watchful eye for a legendary tribe of white-skinned, Welsh-speaking Indians, descendants of a colony founded in 1070 by a Welsh prince named Madoc. And in 1827 a New Englander named Joseph Smith laid down the precepts of an entire religion—Mormonism—which grew from the theory that the great civilizations of pre-Colombian America had been Jewish, and then Christian. And so it goes.
 > A few years ago, I spent a pleasant afternoon on ahilltop near the South Indian city of Chennai. At the crest is a small church, the altar of which signifies the exact spot where one of Jesus' disciples, the apostle Thomas, was martyred in 78 A.D. There's a stone cross said to have been carved by Thomas, and, above the altar, a lovely portrait attributed to Saint Luke, painted in a style one usually associates with later centuries. I'm not sure how much of what I saw that day would pass the scrutiny of modern scholars, or even that of the man who refused to believe in Christ's resurrection until he placed a finger in his wounded side
 > But there have been communities of Christians there and in the neighboring state of Kerala, if not since the first century then at least since the sixth, when missionaries from the Syrian church arrived. Much the same can be said for nearly all of the realms inhabited by Prester John during his 500 years of fame. Coptic missionaries started churches in Ethiopia and Nubia by the fifth century. The Nestorians traveled as far as China by the seventh century, where they seem to have briefly enjoyed the favor of the Tang dynasty. So I stood on Saint Thomas Mount, in the slanting sunlight, wondering just where the proper boundary lies between playing the skeptic and being open to wonder. The answer of course is that I don't know, and even if I did, tomorrow the map might well be redrawn. What amazes me about the stories of Prester John is not how false they proved to be, but how true. There were Christians, and even Christian kings, in Africa and Asia. Therwas even a great Eastern city, Constantinople, ruled by a Christian patriarch and filled with wealth said to be unmatched anywhere in the world.

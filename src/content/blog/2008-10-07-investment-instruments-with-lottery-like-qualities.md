@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Investment instruments with lottery-like qualities
 slug: investment-instruments-with-lottery-like-qualities
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of the impact of lottery marketing on low-income individuals and potential alternatives.
 emoji: 🎲
 tags:
-
-- 🌍 Culture-Making.com
-- 🗳️ Politics
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🗳️ Politics
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   Dreams wrapped in paper,  
-   Chance calls to the desperate,  
-   Hope masked as a loss.
-  coordinates: [37.0902, -95.7129]
+  Chance calls to the desperate,  
+  Hope masked as a loss.
+coordinates: [37.0902, -95.7129]
+---
 
 Ah, the two-week gap between when this post was written and this week's [financial scariness](http://web.archive.org/web/20100109044345/http://www.thisamericanlife.org/Radio_Episode.aspx?episode=365)
 

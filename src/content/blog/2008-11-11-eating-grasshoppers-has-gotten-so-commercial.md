@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-11
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Eating grasshoppers has gotten so commercial
 slug: eating-grasshoppers-has-gotten-so-commercial
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Here's an intriguing look at the changing dynamics of the Ugandan grasshopper harvest and its cultural significance.
 emoji: 🦗
 tags:
-
-- 🦠 Biology
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 💼 Capitalism
-- 🌱 Sustainability
-  haiku: |
+  - 🦠 Biology
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 💼 Capitalism
+  - 🌱 Sustainability
+haiku: |
   Fried in their own fat,  
-   Once a shared harvest joy,  
-   Now greed takes its toll.
-  coordinates: [1.3733, 32.2903]
+  Once a shared harvest joy,  
+  Now greed takes its toll.
+coordinates: [1.3733, 32.2903]
+---
 
 Here's some bracing local culture—and cultural change—for you. I first heard about the festive Ugandan grasshopper harvest and consumption from a just-returned biologist who'd done some fieldwork there. He reported that the hoppers, fried in their own fat, tasted like popcorn shrimp. In any case, here's a recent update from a blogger in Kampala
 

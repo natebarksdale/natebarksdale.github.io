@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-13
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: Painting with Adam’s palette
 slug: painting-with-adams-palette
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: From Vivian Guroian, reflections on the divine nature of gardening.
 emoji: 🌸
 tags:
-
-- 🌍 Culture-Making.com
-- 🌸 Flowers
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌸 Flowers
+haiku: |
   In Eden's garden,  
-   Cultivating joy and peace,  
-   Souls bloom in the light.
-  coordinates: [38.4694, -77.9995]
+  Cultivating joy and peace,  
+  Souls bloom in the light.
+coordinates: [38.4694, -77.9995]
+---
 
 Some floral thoughts for the Easter season
 

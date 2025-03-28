@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-01-04
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Yearning to know the end of the story
 slug: yearning-to-know-the-end-of-the-story
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the intertwined nature of identity and destiny through the lens of prognostication.
 emoji: 🔮
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- 🌍 Identity
-- 🌍 Storytelling
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 🌍 Identity
+  - 🌍 Storytelling
+  - 📝 Writing
+haiku: |
   Future's secrets call,  
-   In death's embrace, truth unfolds,  
-   Who am I, we seek?
-  coordinates: [37.0902, -95.7129]
+  In death's embrace, truth unfolds,  
+  Who am I, we seek?
+coordinates: [37.0902, -95.7129]
+---
 
 Of course my take on the need to know the story's outcome is a little more Narnia than Oedipus Rex. But both, I think, apply
 

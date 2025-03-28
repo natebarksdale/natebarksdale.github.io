@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-08-22
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: How Canned Food Revolutionized The Way We Eat
 slug: how-canned-food-revolutionized-the-way-we-eat
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore how a 1795 French innovation contest sparked the canned food revolution, forever changing our culinary landscape.
 emoji: 🥫
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 🇫🇷 France
-- 🍗 Food
-- ⚙️ Engineering
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 🇫🇷 France
+  - 🍗 Food
+  - ⚙️ Engineering
+haiku: |
   Cans seal nourishment,  
-   Battles rage, soldiers sustain,  
-   France's bounty stored.
-  coordinates: [46.2276, 2.2137]
+  Battles rage, soldiers sustain,  
+  France's bounty stored.
+coordinates: [46.2276, 2.2137]
+---
 
 For the History Channel, I wrote about the transformative impact of canned food on global diets.
 

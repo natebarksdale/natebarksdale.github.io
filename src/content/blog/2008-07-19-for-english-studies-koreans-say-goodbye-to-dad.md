@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: For English Studies, Koreans Say Goodbye to Dad
 slug: for-english-studies-koreans-say-goodbye-to-dad
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Parents in South Korea are increasingly seeking global opportunities for their children through English fluency, driven by dissatisfaction with the local educational system.
 emoji: 🌍
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Globalization
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Globalization
+  - ⚖️ Choices
+haiku: |
   Young hearts seek new paths,  
-   Words of the world, bright and clear,  
-   Away from the stress.
-  coordinates: [35.9078, 127.7669]
+  Words of the world, bright and clear,  
+  Away from the stress.
+coordinates: [35.9078, 127.7669]
+---
 
 Driven by a shared dissatisfaction with South Korea’s rigid educational system, parents in rapidly expanding numbers are seeking to give their children an edge by helping them become fluent in English while sparing them, and themselves, the stress of South Korea’s notorious educational pressure cooker
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2015-06-09
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: Eight Things You Might Not Know about Booker T. Washington
 slug: eight-things-you-might-not-know-about-booker-t-washington
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: For starters, he chose his own last name.
 emoji: 📚
 tags:
-
-- 📖 Biographies
-- 🌍 History
-- 🇺🇸 United States
-  haiku: |
+  - 📖 Biographies
+  - 🌍 History
+  - 🇺🇸 United States
+haiku: |
   Born to chains, yet rose,  
-   Iron-cutter shapes his name,  
-   Freedom's soil tilled deep.
-  coordinates: [37.1813, -79.8539]
+  Iron-cutter shapes his name,  
+  Freedom's soil tilled deep.
+coordinates: [37.1813, -79.8539]
+---
 
 For the History Channel, I wrote about Booker T. Washington's early life and legacy.
 

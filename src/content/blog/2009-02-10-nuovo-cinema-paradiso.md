@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-10
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Nuovo cinema Paradiso
 slug: nuovo-cinema-paradiso
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A tale of culture preservation as an Italian town intervenes to save a beloved New York video rental store from closure.
 emoji: 📼
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🇮🇹 Italy
-- 🇺🇸 United States
-- 🎥 Film
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🇮🇹 Italy
+  - 🇺🇸 United States
+  - 🎥 Film
+haiku: |
   Film treasures at risk,  
-   Artists unite across seas,  
-   Culture's heart preserved.
-  coordinates: [40.7128, -74.0060]
+  Artists unite across seas,  
+  Culture's heart preserved.
+coordinates: [40.7128, -74.0060]
+---
 
 A very cool, multicontinental tale of artistic culture-keeping: an Italian town run by artists steps in to save, relocate, and reimagine a Netflix-imperiled New York video rental institution
 

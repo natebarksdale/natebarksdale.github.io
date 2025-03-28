@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: The right to a horse
 slug: the-right-to-a-horse
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A thought-provoking perspective from Vint Cerf on the distinction between technology and human rights.
 emoji: 🐴
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Choices
-- ⚙️ Technology
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - ⚙️ Technology
+  - 🌍 Society
+haiku: |
   Technology thrives,  
-   Not a right, but a means,  
-   Life’s core needs endure.
-  coordinates: [37.7749, -122.4194]
+  Not a right, but a means,  
+  Life’s core needs endure.
+coordinates: [37.7749, -122.4194]
+---
 
 One of the key figures in the creation of the Internet suggests we should be careful about enshrining any technology as a human right. That it is tempting to do so says a lot about many technologies' ability to enable incredible (and deeply humanizing) things, but also about their tendency to seem more irresistible and permanent than they really are.
 

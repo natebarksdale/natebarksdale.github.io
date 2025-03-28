@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-09-23
 modDatetime: 2011-09-23
@@ -10,19 +9,19 @@ draft: true
 description: Exploring the intersection of culture and fantasy, this piece delves into Jordan's ambitious plan for a Star Trek-themed park amidst historical and contemporary influences.
 emoji: 🚀
 tags:
-
-- ✨ Wonder
-- 🌙 Islam
-- 🌍 Culture-Making.com
-- 🇾🇪 Yemen
-- 🇯🇴 Jordan
-- 🌍 Culture
-- 🎬 Hollywood
-  haiku: |
+  - ✨ Wonder
+  - 🌙 Islam
+  - 🌍 Culture-Making.com
+  - 🇾🇪 Yemen
+  - 🇯🇴 Jordan
+  - 🌍 Culture
+  - 🎬 Hollywood
+haiku: |
   From desert to stars,  
-   A theme park of wonder shines,  
-   Cultures intertwine.
-  coordinates: [29.5264, 35.0142]
+  A theme park of wonder shines,  
+  Cultures intertwine.
+coordinates: [29.5264, 35.0142]
+---
 
 Amid the tumult of the ongoing, not-particularly-seasonal upheavals of the Arab Spring, a little press release last month caused quite a stir among certain quarters of the Western media and the meme-amplifying online world: a planned $1.5 billion development, backed by the king of Jordan, [to build a Star Trek theme park](http://travel.usatoday.com/destinations/dispatches/post/2011/08/star-trek-theme-park-jordan-king-abdullah/413562/1) at Aqaba on the Red Sea coast
 It's the sort of story we love to pass along. [Eccentric](http://en.wikipedia.org/wiki/Jerudong_Park) [ruler](http://www.dailymail.co.uk/news/article-1292682/Worlds-biggest-tent-Kazakhstan-Norman-Foster-builds-King-Among-Tents.html) of [small](http://en.wikipedia.org/wiki/Ryugyong_Hotel) [nation](http://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace_of_Yamoussoukro) tied to [zany](http://en.wikipedia.org/wiki/Victory_Arch) [development](http://en.wikipedia.org/wiki/Fordl%C3%A2ndia) [ploy](https://www.google.com/search?q=%22ploy%22%20en.wikipedia.org). Even better, [Abdullah II](http://en.wikipedia.org/wiki/Abdullah_II_of_Jordan) is a noted Trekkie (perhaps even to the extent of insisting that the proper name is [Trekker](http://en.wikipedia.org/wiki/Trekkie#Trekkie_vs._Trekker)) who once, during his princely days, finagled a non-speaking appearance on an episode of the TV series _Star Trek: Voyager_. You can [watch it on YouTube](http://www.youtube.com/watch?v=Kmut6FJ1d4M), his royal highness's four seconds of futuristic fame, as he stands aglow in the jumpsuit-unitard-uniform of a Starfleet ensign

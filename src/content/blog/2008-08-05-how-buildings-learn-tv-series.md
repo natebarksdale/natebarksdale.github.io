@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: How Buildings Learn TV series
 slug: how-buildings-learn-tv-series
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A deep exploration of how architecture adapts over time, as illustrated in Stewart Brand's impactful book and documentary series.
 emoji: 🏛️
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ⚙️ Technology
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ⚙️ Technology
+haiku: |
   Structures evolve slow,  
-   Timeless beams tell tales of wood,  
-   Learning through the years.
-  coordinates: [51.7548, -1.2550]
+  Timeless beams tell tales of wood,  
+  Learning through the years.
+coordinates: [51.7548, -1.2550]
+---
 
 Haven't watched the videos yet, but I can vouch for the book, which Andy references enthusiasticly in Chapter 3 of _Culture Making_
 a [kottke.org](http://www.kottke.org/08/08/how-buildings-learn-tv-series) post, 5 July 2008

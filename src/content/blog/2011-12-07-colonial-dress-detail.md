@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Colonial dress, detail
 slug: colonial-dress-detail
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the intersection of art, imperial history, and creativity through Susan Stockwell's unique paper dresses.
 emoji: 📜
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🌍 Culture
-- 📖 Articles
-- 🧵 Textiles
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🌍 Culture
+  - 📖 Articles
+  - 🧵 Textiles
+haiku: |
   Paper garments speak,  
-   Threads of empire intertwined,  
-   Art's rich history.
-  coordinates: [51.509865, -0.118092]
+  Threads of empire intertwined,  
+  Art's rich history.
+coordinates: [51.509865, -0.118092]
+---
 
 UK sculptor Susan Stockwell does wonderful things with maps and money, among other items. Her selection of formally styled, unwearable paper dresses give new meaning to the idea of an empire waist.
 

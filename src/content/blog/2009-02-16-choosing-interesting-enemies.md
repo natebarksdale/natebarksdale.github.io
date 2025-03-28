@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-16
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Choosing interesting enemies
 slug: choosing-interesting-enemies
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Bono reflects on the idea of enemies and internal struggles in the context of U2's music and philosophy.
 emoji: 🪞
 tags:
-
-- 🌍 Culture-Making.com
-- ⚔️ Enemies
-- ♻️ Repurposing
-- ⚖️ Ethics
-- 🌀 Complexity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚔️ Enemies
+  - ♻️ Repurposing
+  - ⚖️ Ethics
+  - 🌀 Complexity
+haiku: |
   Mirror of my soul,  
-   Neighbors shaped by battles fought,  
-   Growth in every foe.
-  coordinates: [53.349805, -6.26031]
+  Neighbors shaped by battles fought,  
+  Growth in every foe.
+coordinates: [53.349805, -6.26031]
+---
 
 For those who are comfortable with the idea of enemies, the question that launched the parable of the Good Samaritan, "Who is my neighbor?" can be incredibly uncomfortable and crucial. For those comfortable with a broad-strokes, "we're all neighbors and it's all good" approach, the question "Who is my enemy?" can, I think, be equally clarifying
 

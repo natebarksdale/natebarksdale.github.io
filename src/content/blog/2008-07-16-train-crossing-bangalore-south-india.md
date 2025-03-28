@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Train crossing, Bangalore, South India
 slug: train-crossing-bangalore-south-india
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Watching this video triggers slight and not unpleasant olfactory memories of my own times in B'lore in the late '90.
 emoji: 🚆
 tags:
-
-- 🌍 Culture-Making.com
-- 🚂 Railroads
-- 🌅 Reflection
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🚂 Railroads
+  - 🌅 Reflection
+haiku: |
   Memories arise,  
-   Late '90s Bangalore calls,  
-   Train journeys whisper.
-  coordinates: [12.9716, 77.5946]
+  Late '90s Bangalore calls,  
+  Train journeys whisper.
+coordinates: [12.9716, 77.5946]
+---
 
 > > Interesting how watching this video triggers slight and not unpleasant olfactory memories of my own times in B'lore in the late '90s
 > >

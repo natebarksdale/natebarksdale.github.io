@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-09-28
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Mix CD | Washingtonic!
 slug: mix-cd-washingtonic
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A unique mix CD celebrating Washington State, featuring diverse tracks and no grunge.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🇺🇸 United States
-- 🌍 Culture
-- 🎵 Music
-- 📖 Articles
-  haiku: |
+  - 💿 Mix CDs
+  - 🇺🇸 United States
+  - 🌍 Culture
+  - 🎵 Music
+  - 📖 Articles
+haiku: |
   Washington's embrace,  
-   Diverse sounds from glen to peak,  
-   Grunge left far behind.
-  coordinates: [47.7511, -120.7401]
+  Diverse sounds from glen to peak,  
+  Grunge left far behind.
+coordinates: [47.7511, -120.7401]
+---
 
 #### Wimbo Zuri Catalog No. 049.1A09-1
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-08-22
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Positive Neuroscience
 slug: positive-neuroscience
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: How our brains are wired for joy, resilience, and well-being.
 emoji: 🧠
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 🧘‍♂️ Psychology
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 🧘‍♂️ Psychology
+haiku: |
   Mind bridges language,
   Neural paths connecting us,
   Science transcends words.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the intersection of psychology and brain science that uplifts human well-being.
 

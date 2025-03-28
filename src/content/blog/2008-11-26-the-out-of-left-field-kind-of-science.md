@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-26
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: The out-of-left-field kind of science
 slug: the-out-of-left-field-kind-of-science
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Robert Tjian reflects on the importance of passion-driven science over large-scale projects in fostering transformative discoveries.
 emoji: 🎨
 tags:
-
-- 🦠 Biology
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 💡 Innovation
-- 💼 Business
-  haiku: |
+  - 🦠 Biology
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 💡 Innovation
+  - 💼 Business
+haiku: |
   Passion fuels the spark,  
-   Small efforts, great discoveries,  
-   Innovation blooms.
-  coordinates: [38.8833, -77.0167]
+  Small efforts, great discoveries,  
+  Innovation blooms.
+coordinates: [38.8833, -77.0167]
+---
 
 The newly-appointed head of the Howard Hughes Medical Institute, the richest privately endowed funding agency in the US, on how in terms of productive scientific creativity, small efforts of passion may contribute more than better-funded and -planned big projects. (Which is not to say, I'd assume, that a given passion project is more likely to succeed; just that the successful project is often one driven by passion)
 

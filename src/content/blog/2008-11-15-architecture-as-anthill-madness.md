@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-15
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Architecture as anthill madness
 slug: architecture-as-anthill-madness
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the enduring artistic fascination with the Tower of Babel, revealing its complex symbolism in architecture and culture.
 emoji: 🏙️
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🌍 Culture
-- 🏛️ Architecture
-- 🌀 Complexity
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🌍 Culture
+  - 🏛️ Architecture
+  - 🌀 Complexity
+haiku: |
   Tower reaches high,  
-   Hubris meets divine thunder,  
-   Echoes through the years.
-  coordinates: [34.4769, 33.2046]
+  Hubris meets divine thunder,  
+  Echoes through the years.
+coordinates: [34.4769, 33.2046]
+---
 
 Artistic echoes of a primordial cultural project gone awry, but to this day remembered, resonant, and perhaps—in the beauty both of our varied tongues and non-disastrous buildings—redeemed
 

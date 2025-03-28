@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-15
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Reflecting on JPMorgan Chase's historic penalty reveals both accountability and the limitations of new financial regulations.
 emoji: 💰
 tags:
-
-- ⚖️ Law
-- ⚖️ Ethics
-- 💰 Commerce
-- 📉 Economics
-- 📈 Regulations
-  haiku: |
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 💰 Commerce
+  - 📉 Economics
+  - 📈 Regulations
+haiku: |
   Chase pays for its sins,  
-   Regulations hold their ground,  
-   Yet risks still abound.
+  Regulations hold their ground,  
+  Yet risks still abound.
 
 coordinates: [40.7128, -74.006]
+---
+
 [![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _My first foray into financial journalism._

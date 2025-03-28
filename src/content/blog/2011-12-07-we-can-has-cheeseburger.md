@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: We can has cheeseburger!
 slug: we-can-has-cheeseburger
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflecting on the complexities behind something as simple as a cheeseburger, Waldo Jaquith explores the implications of our modern food systems.
 emoji: 🍔
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🍔 Fast Food
-- 🌀 Complexity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🍔 Fast Food
+  - 🌀 Complexity
+haiku: |
   Cheeseburger dream,  
-   Cultivated complex art,  
-   Time and space intersect.
-  coordinates: [37.0902, -95.7129]
+  Cultivated complex art,  
+  Time and space intersect.
+coordinates: [37.0902, -95.7129]
+---
 
 It's been a long time since I've posted new items over at Culture Making, but this week I've found myself feeling it may be time again. Besides, "what does a cheeseburger say about the world" is just the sort of question Andy Crouch and I started that blog to investigate (or at least to catalog others' investigations thereupon).
 

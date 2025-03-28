@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Now That’s What I Call Not Music 2!
 slug: now-thats-what-i-call-not-music-2
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of audience reactions to Edgard Varèse's "Hyperprism" and the dichotomy between concept and substance in modern sound compositions.
 emoji: 🎶
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🎭 Entertainment
-- 🎶 Activities
-- 📖 Discussions
-- 🌍 Culture
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🎭 Entertainment
+  - 🎶 Activities
+  - 📖 Discussions
+  - 🌍 Culture
+haiku: |
   Sounds clash and collide,  
-   Laughter in the chaos reigns,  
-   Modernity's cry.
-  coordinates: [39.9526, -75.1652]
+  Laughter in the chaos reigns,  
+  Modernity's cry.
+coordinates: [39.9526, -75.1652]
+---
 
 More adventures in audience reaction to variations on the "noise orchestra," in this case a 1923 work by [Edgard Varèse](http://en.wikipedia.org/wiki/Edgard_Var%C3%A8se), composer and practicioner of what he termed "organized sound." What's interesting to me is how these works seem simultaneously intellectual and anti-intellectual—that is, conceptually daring (breaking down and building up the very idea of what it means to listen, and what listeners are supposed to notice, both in and out of the concert hall) but at the same time not particularly substantial (except perhaps in terms of decibels) once the novelty has worn off
 

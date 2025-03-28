@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Tracking global warming, one garden at a time
 slug: tracking-global-warming-one-garden-at-a-time
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The beauty of citizen science allows gardeners to contribute to our understanding of climate change through careful observation of plant behavior.
 emoji: 🌱
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌱 Sustainability
-- 🌿 Gardens
-- 🌳 Landscapes
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌱 Sustainability
+  - 🌿 Gardens
+  - 🌳 Landscapes
+haiku: |
   Gardens watch the time,  
-   Blooms and seeds mark seasons' change,  
-   Nature holds the clue.
-  coordinates: [41.8781, -87.6298]
+  Blooms and seeds mark seasons' change,  
+  Nature holds the clue.
+coordinates: [41.8781, -87.6298]
+---
 
 The Internet's so great for taking the observational expertise and puttering potential of hobbyists and letting it easily be converted into hopefully useful scientific data ... one wonders what other reserves are waiting to be tapped
 

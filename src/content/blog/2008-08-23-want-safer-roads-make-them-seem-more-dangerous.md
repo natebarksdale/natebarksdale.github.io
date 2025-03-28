@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Want safer roads? Make them seem more dangerous
 slug: want-safer-roads-make-them-seem-more-dangerous
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The transformation of a busy intersection into a safer, more harmonious space showcases the power of human awareness in traffic dynamics.
 emoji: 🚦
 tags:
-
-- 🌍 Culture-Making.com
-- ⚠️ Danger
-- ⚖️ Law
-- ⚙️ Engineering
-- 🌍 Environment
-- 🌆 Urban Spaces
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚠️ Danger
+  - ⚖️ Law
+  - ⚙️ Engineering
+  - 🌍 Environment
+  - 🌆 Urban Spaces
+haiku: |
   Chaos turned to dance,  
-   Signals shared, dangers perceived,  
-   Safety found in trust.
-  coordinates: [53.1966, 6.1188]
+  Signals shared, dangers perceived,  
+  Safety found in trust.
+coordinates: [53.1966, 6.1188]
+---
 
 Note that when there are fewer traffic signs, suddenly there are more driver (and rider) signals -- people apparently become both more aware of their environment and more eager to share that awareness with others
 

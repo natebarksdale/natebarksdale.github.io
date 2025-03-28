@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-11-19
 modDate: 2019-11-19
@@ -10,17 +9,18 @@ draft: False
 description: Helping entrepreneurs grow their enterprises as part of a flourishing business community
 emoji: 📈
 tags:
-
-- 🌀 Templeton
-- 🌍 Southeast Asia
-- 🌱 Entrepreneurship
-- 💼 Jobs
-  haiku: |
+  - 🌀 Templeton
+  - 🌍 Southeast Asia
+  - 🌱 Entrepreneurship
+  - 💼 Jobs
+haiku: |
   Indonesia grows strong,  
-   Entrepreneurs bloom, jobs wake,  
-   Hope spreads with each dawn.
+  Entrepreneurs bloom, jobs wake,  
+  Hope spreads with each dawn.
 
 coordinates: [-0.789275, 113.921327]
+---
+
 modDatetime: 2025-03-17
 For the John Templeton Foundation, I wrote about an initiative supporting Indonesian entrepreneurs to bolster economic growth.
 

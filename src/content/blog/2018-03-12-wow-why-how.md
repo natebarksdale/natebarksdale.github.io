@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:13Z
 title: WOW, WHY, HOW?
 slug: wow-why-how
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Post by post, Orbiter is building an online archive of wonder as it explores the big questions of the natural and social sciences
 emoji: 🖖
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- ⚖️ Ethics
-- ⚙️ Technology
-- ⚖️ Choices
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - ⚖️ Ethics
+  - ⚙️ Technology
+  - ⚖️ Choices
+haiku: |
   Spock explores the stars,  
-   Kirk leaps where questions linger,  
-   McCoy's morals guide.
-  coordinates: [51.509865, -0.118092]
+  Kirk leaps where questions linger,  
+  McCoy's morals guide.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote _Orbiter_ magazine.
 

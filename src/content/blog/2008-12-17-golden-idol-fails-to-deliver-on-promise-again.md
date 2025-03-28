@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-17
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Golden idol fails to deliver on promise, again
 slug: golden-idol-fails-to-deliver-on-promise-again
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The Academy of Motion Picture Arts and Sciences has secured a legal victory over the heirs of Mary Pickford regarding the sale of her Oscar statuette.
 emoji: 🏆
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Courtroom
-- ⚖️ Law
-- ⚕️ Medicine
-- 🎭 Entertainment
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Courtroom
+  - ⚖️ Law
+  - ⚕️ Medicine
+  - 🎭 Entertainment
+  - 🌍 Culture
+haiku: |
   Golden Oscar prize,  
-   Heirs must sell at low price,  
-   Court rules in a fight.
-  coordinates: [33.9731, -116.5200]
+  Heirs must sell at low price,  
+  Court rules in a fight.
+coordinates: [33.9731, -116.5200]
+---
 
 For some reason the _LA Times_ has categorized this story under "Science & Medicine." Curiouser and curiouser
 

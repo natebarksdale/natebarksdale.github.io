@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: The one and only celery soda
 slug: the-one-and-only-celery-soda
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring the unique and somewhat obscure world of Cel-Ray soda, a celery-flavored drink with a rich, albeit foggy, history.
 emoji: 🥒
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Cel-Ray in the glass,  
-   Celery fizz, niche delight,  
-   Sipped in quiet bars.
-  coordinates: [40.7128, -74.0060]
+  Celery fizz, niche delight,  
+  Sipped in quiet bars.
+coordinates: [40.7128, -74.0060]
+---
 
 For me Cel-Ray actually seems more plausible than some of the other regional North American soft drinks I've heard about. I remember a college friend once returning from Montreal with some sort of pine-based soda, which did seem like a bit too much (but no doubt has its fans)
 

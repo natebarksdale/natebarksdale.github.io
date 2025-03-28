@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-30
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Miss Piggy Lee
 slug: miss-piggy-lee
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A deep dive into the origins of Miss Piggy and the art of puppetry from Bonnie Erickson.
 emoji: 🎭
 tags:
-
-- 📺 Television
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🎭 Entertainment
-- 🌍 Culture
-  haiku: |
+  - 📺 Television
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🎭 Entertainment
+  - 🌍 Culture
+haiku: |
   Creating a world,  
-   Miss Piggy's charm shines brightly,  
-   Puppetry's embrace.
-  coordinates: [46.8052, -100.7837]
+  Miss Piggy's charm shines brightly,  
+  Puppetry's embrace.
+coordinates: [46.8052, -100.7837]
+---
 
 On world-making and Muppet origins
 

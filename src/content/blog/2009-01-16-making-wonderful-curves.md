@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-16
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Making wonderful curves
 slug: making-wonderful-curves
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A testament to community resilience and transformation through art in North Philadelphia.
 emoji: 🎨
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ❤️ Kindness
-- ❤️ Resilience
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ❤️ Kindness
+  - ❤️ Resilience
+haiku: |
   Abandoned lots bloom,  
-   Art and hope intertwine,  
-   Souls united here.
-  coordinates: [39.9866, -75.1454]
+  Art and hope intertwine,  
+  Souls united here.
+coordinates: [39.9866, -75.1454]
+---
 
 Inspired in part by reading Gandhi, Martin Luther King, and Nelson Mandela, an artist has created a fruitful long-term creative partnership with the residents of an inner-city neighborhood in North Philadelphia
 

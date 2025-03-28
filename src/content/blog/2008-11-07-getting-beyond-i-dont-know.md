@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-07
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Getting beyond “I don’t know”
 slug: getting-beyond-i-dont-know
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Megan White shares her passion for addressing social justice through the ZanaAfrica initiative, aimed at providing sustainable solutions for health and education challenges faced by girls in Kenya.
 emoji: 🌍
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- ❤️ Charity
-- 💧 Rituals
-- ⚕️ Medicine
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - ❤️ Charity
+  - 💧 Rituals
+  - ⚕️ Medicine
+haiku: |
   Girls miss school days,  
-   Poverty halts their dreams,  
-   Hope blooms with each pad.
-  coordinates: [-1.286389, 36.817223]
+  Poverty halts their dreams,  
+  Hope blooms with each pad.
+coordinates: [-1.286389, 36.817223]
+---
 
 Earlier today in Kenya, my friend Megan hosted the Nairobi launch party for her new non-profit, [ZanaAfrica](http://www.zanaafrica.org/), which (in development-speak) focuses on "simple, sustainable business solutions to solve complex health and social problems throughout Africa to alleviate poverty." Or, to quote the page of _Culture Making_ where Andy mentions Megan's work: "So where are we called to create culture? At the intersection of grace and cross. Where do we find our work and play bearing awe-inspiring fruit—and, at the same time, find ourselves able to identify with Christ on the cross? That intersection is where we are called to dig into the dirt, cultivate, and create
 

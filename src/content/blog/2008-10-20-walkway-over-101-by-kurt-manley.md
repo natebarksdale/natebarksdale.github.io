@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Walkway over 101, by Kurt Manley
 slug: walkway-over-101-by-kurt-manley
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: I appreciate the striking contrasts found in the relationship between civilization and nature.
 emoji: 🌉
 tags:
-
-- 🌍 Culture-Making.com
-- 🌌 Dystopias
-- ⚠️ Danger
-- 🌍 Environment
-- 🌳 Wilderness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌌 Dystopias
+  - ⚠️ Danger
+  - 🌍 Environment
+  - 🌳 Wilderness
+haiku: |
   Bridges span the void,  
-   Where nature meets the bright lights,  
-   Balance found in fear.
-  coordinates: [34.055, -118.255]
+  Where nature meets the bright lights,  
+  Balance found in fear.
+coordinates: [34.055, -118.255]
+---
 
 I like the jarring contrast and interplay between civilization and wilderness, darkness and light, danger and safety
 [![photo](http://culture-making.com/media/walkway-over-101.jpg)](http://www.filemagazine.com/thecollection/archives/2008/08/untitled_487.html)

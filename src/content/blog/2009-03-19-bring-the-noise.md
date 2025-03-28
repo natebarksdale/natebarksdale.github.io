@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Bring the noise
 slug: bring-the-noise
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the cultural significance of sound preferences, Stanford music professor Jonathan Berger discusses how MP3s resonate with modern listeners, revealing a fascinating shift in musical appreciation.
 emoji: 🎶
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎵 Music
-- 🌀 Complexity
-- 🔍 Discoveries
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎵 Music
+  - 🌀 Complexity
+  - 🔍 Discoveries
+haiku: |
   Sizzle fills the air,  
-   Digital warmth connects us,  
-   Sound evolves with time.
-  coordinates: [37.4275, -122.1697]
+  Digital warmth connects us,  
+  Sound evolves with time.
+coordinates: [37.4275, -122.1697]
+---
 
 Will the crunchy sonic artifacts of the MP3 audio compression process become as beloved as the warm crackle of vinyl records or the lulling hiss of magnetic tape? For some listeners, it already is
 

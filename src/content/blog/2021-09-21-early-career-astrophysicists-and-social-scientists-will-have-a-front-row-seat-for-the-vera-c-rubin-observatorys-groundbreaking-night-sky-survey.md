@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-09-21
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Early-Career Astrophysicists and Social Scientists Will Have a Front-Row Seat for the Vera C. Rubin Observatory’s Groundbreaking Night Sky Survey
 slug: early-career-astrophysicists-and-social-scientists-will-have-a-front-row-seat-for-the-vera-c-rubin-observatorys-groundbreaking-night-sky-survey
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Early-career scientists gain unprecedented access to the stars with the Vera C. Rubin Observatory’s groundbreaking sky survey.
 emoji: 🔭
 tags:
-
-- ⚛️ Physics
-- 🧉 South America
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🔍 Discoveries
-- ⚙️ Engineering
-  haiku: |
+  - ⚛️ Physics
+  - 🧉 South America
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🔍 Discoveries
+  - ⚙️ Engineering
+haiku: |
   Night sky canvas wide,  
-   Stars whisper in code, secrets  
-   New minds will decode.
-  coordinates: [-30.2407, -70.7369]
+  Stars whisper in code, secrets  
+  New minds will decode.
+coordinates: [-30.2407, -70.7369]
+---
 
 For the John Templeton Foundation, I got to learn a bit about the forthcoming Vera Rubin Observatory.
 

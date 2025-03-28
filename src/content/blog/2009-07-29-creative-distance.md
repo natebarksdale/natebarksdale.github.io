@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-29
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: Creative distance
 slug: creative-distance
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring how psychological distance can enhance creativity reveals insights about our imaginative processes.
 emoji: 🌌
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- ♻️ Repurposing
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - ♻️ Repurposing
+haiku: |
   Step back to reflect,  
-   Farther thoughts bring new insight,  
-   Minds expand the scope.
-  coordinates: [39.1658, -86.5269]
+  Farther thoughts bring new insight,  
+  Minds expand the scope.
+coordinates: [39.1658, -86.5269]
+---
 
 Students apparently score better on a test of creative thinking if they're told the questions were written 2000 miles away. Evidently the increased psychological distance expands the horizons of the possible. I wonder how different that is from, say, a painter stepping back to survey her work from afar before diving back in with the brushes
 

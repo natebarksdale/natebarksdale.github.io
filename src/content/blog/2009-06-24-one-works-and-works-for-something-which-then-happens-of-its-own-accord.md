@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-24
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: One works and works for something, which then happens of its own accord
 slug: one-works-and-works-for-something-which-then-happens-of-its-own-accord
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Reflecting on the nature of political transformation and the interplay of effort and grace, Weschler captures the essence of spontaneous uprising in his writings.
 emoji: 🌊
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 📖 Lawrence Weschler
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🌍 Society
-- ✍️ Literature
-- 🔍 Discoveries
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🌍 Society
+  - ✍️ Literature
+  - 🔍 Discoveries
+haiku: |
   Labor builds the path,  
-   Yet change springs forth unbidden,  
-   Grace flows, work prepares.
-  coordinates: [54.3520, 18.6466]
+  Yet change springs forth unbidden,  
+  Grace flows, work prepares.
+coordinates: [54.3520, 18.6466]
+---
 
 Following the news out of Iran, I keep coming back to Lawrence Weschler's writing about the 1980 Solidarty uprising in Poland, perhaps the best summation I've seen of the difference between necessary and sufficient conditions, and of the nature of, as Bonhoeffer put it, costly grace
 

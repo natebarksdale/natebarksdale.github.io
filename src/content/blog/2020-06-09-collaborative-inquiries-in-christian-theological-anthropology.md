@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-06-09
 modDatetime: 2025-03-17 15:44:52+00:00
@@ -9,18 +8,19 @@ draft: False
 description: A new project will foster interdisciplinary work — informed by both science and theology — on what it means to be human
 emoji: 🔍
 tags:
-
-- 🦠 Biology
-- 🌀 Templeton
-- ✝️ Christianity
-- 🧠 Psychology
-- 🧬 Biology
-  haiku: |
+  - 🦠 Biology
+  - 🌀 Templeton
+  - ✝️ Christianity
+  - 🧠 Psychology
+  - 🧬 Biology
+haiku: |
   Science meets faith's gaze,  
-   Exploring human essence,  
-   New light on old truths.
+  Exploring human essence,  
+  New light on old truths.
 
 coordinates: [41.7056, -86.2353]
+---
+
 slug: collaborative-inquiries-in-christian-theological-anthropology
 For the John Templeton Foundation, I wrote about how new scientific insights are reshaping theological discussions on human nature.
 

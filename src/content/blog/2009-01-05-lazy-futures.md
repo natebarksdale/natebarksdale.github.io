@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Lazy futures
 slug: lazy-futures
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A critical look at the limitations of dystopian fiction's vision for the future, questioning its lack of hope and action.
 emoji: 🌧️
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌌 Dystopias
-- 🌍 Society
-- 🌍 Culture
-- 🔍 Critique
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌌 Dystopias
+  - 🌍 Society
+  - 🌍 Culture
+  - 🔍 Critique
+haiku: |
   Shadows in the dark,  
-   Futures bleak without the light,  
-   Hope's whisper unheard.
-  coordinates: [37.7749, -122.4194]
+  Futures bleak without the light,  
+  Hope's whisper unheard.
+coordinates: [37.7749, -122.4194]
+---
 
 I wonder, how much does the same critique apply to Lazy Utopias and—more crucially for many religious folk—Lazy Apocalypses?
 

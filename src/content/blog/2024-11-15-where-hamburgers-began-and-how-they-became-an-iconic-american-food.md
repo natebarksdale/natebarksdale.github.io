@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-08-29
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Where Hamburgers Began—and How They Became an Iconic American Food
 slug: where-hamburgers-began-and-how-they-became-an-iconic-american-food
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Discover the hamburger's journey from ancient Mesopotamia to American icon, tracing its roots through centuries of history and culture.
 emoji: 🍔
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 🍔 Fast Food
-- 🇺🇸 United States
-- 🍗 Food
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 🍔 Fast Food
+  - 🇺🇸 United States
+  - 🍗 Food
+haiku: |
   Ancient cattle roam,  
-   Hamburg sows the seeds of trade,  
-   Buns embrace the beef.
-  coordinates: [53.5511, 9.9937]
+  Hamburg sows the seeds of trade,  
+  Buns embrace the beef.
+coordinates: [53.5511, 9.9937]
+---
 
 For the History Channel, I wrote about the intriguing evolution of the hamburger from simple origins to a symbol of American culture.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Never mind the propaganda, let’s dance!
 slug: never-mind-the-propaganda-lets-dance
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: An exploration of the vibrant musical culture of Kinshasa and the phenomenon of libanga in Congolese music.
 emoji: 🎶
 tags:
-
-- 📺 Television
-- 🍷 Europe
-- 🦁 Africa
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🗳️ Politics
-- ❤️ Kindness
-  haiku: |
+  - 📺 Television
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🗳️ Politics
+  - ❤️ Kindness
+haiku: |
   Vibrant rhythms flow,  
-   Kinshasa's joy unfolds,  
-   In chaos, we dance.
-  coordinates: [-4.441, 15.266]
+  Kinshasa's joy unfolds,  
+  In chaos, we dance.
+coordinates: [-4.441, 15.266]
+---
 
 Sometimes the medium does transcend the message. My friend [Koranteng](http://koranteng.blogspot.com/2005/04/strange-bedfellows-and-journalistic.html) notes that the dictatorship of Mobutu Sese Seko stands out among evil regimes for having produced a body of self-serving propaganda that people actually liked, even outside the country and after the fact: lots of very excellent _sokous_ tunes. From the dispatch below, it sounds like the national tradition of ignoring the lyrics is alive and well
 

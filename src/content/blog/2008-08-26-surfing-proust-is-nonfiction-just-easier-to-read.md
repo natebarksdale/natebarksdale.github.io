@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Surfing Proust - Is nonfiction just easier to read?
 slug: surfing-proust-is-nonfiction-just-easier-to-read
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Caroline Langston reflects on the nature of reading in the digital age and shares her insights on the changing landscape of how we engage with literature.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Articles
-- 📖 Books
-- 🌍 Culture
-- ✍️ Literature
-- 📱 Distraction
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Articles
+  - 📖 Books
+  - 🌍 Culture
+  - ✍️ Literature
+  - 📱 Distraction
+haiku: |
   Skimming through the prose,  
-   Depth lost in digital tide,  
-   Thoughts dance on the page.
-  coordinates: [38.8951, -77.0364]
+  Depth lost in digital tide,  
+  Thoughts dance on the page.
+coordinates: [38.8951, -77.0364]
+---
 
 A response to Nicholas Carr's [_Atlantic Monthly_ article](http://www.theatlantic.com/doc/200807/google) about the ways in which easy outside access to information might be changing (and weakening) the ways we think, remember, and process information. (Kevin Kelly had his own fascinating retort to Carr's article [here](http://www.theatlantic.com/doc/200807/google).)
 

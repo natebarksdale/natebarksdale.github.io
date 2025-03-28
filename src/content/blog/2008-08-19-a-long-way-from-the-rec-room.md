@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: A long way from the rec room
 slug: a-long-way-from-the-rec-room
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A humorous take on the chaotic nature of doubles table tennis from Robert Weintraub.
 emoji: 🏓
 tags:
-
-- 🌍 Culture-Making.com
-- 🎯 Focus
-- 🎭 Entertainment
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎯 Focus
+  - 🎭 Entertainment
+  - 🌍 Culture
+haiku: |
   Four players collide,  
-   Chaos reigns at the table,  
-   Doubles joy and pain.
-  coordinates: [3.139, 101.6869]
+  Chaos reigns at the table,  
+  Doubles joy and pain.
+coordinates: [3.139, 101.6869]
+---
 
 I've been so mesmerized by the online coverage of archery and weightlifting (no joke!) that I've yet to delve much into the table tennis archive at [nbcolympics.com](http://web.archive.org/web/20091103013321/http://www.nbcolympics.com/tabletennis/index.html) Though the action's a bit too quick to show up well on my broadband, alas
 

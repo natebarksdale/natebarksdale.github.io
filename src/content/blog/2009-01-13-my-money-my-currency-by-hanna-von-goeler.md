@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-13
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: My Money, My Currency, by Hanna von Goeler
 slug: my-money-my-currency-by-hanna-von-goeler
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A look at Hanna von Goeler's artistic exploration of currency through painting and humorous imagery.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 📝 Writing
-- 🌐 Blogging
-- 💡 Innovation
-- 💰 Commerce
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 📝 Writing
+  - 🌐 Blogging
+  - 💡 Innovation
+  - 💰 Commerce
+haiku: |
   Paints dance on paper,  
-   Laughing notes with playful eyes,  
-   Money tells a tale.
-  coordinates: [40.7128, -74.0060]
+  Laughing notes with playful eyes,  
+  Money tells a tale.
+coordinates: [40.7128, -74.0060]
+---
 
 A lovely take on painting as an editor's art. Her other currency work, which I like a little less, features added imagery that falls more along the line of [this sort](http://www.flickr.com/photos/dep/3148766572/) of humerous currency de/re-facing
 [![image](http://culture-making.com/media/Hanna+von+Goeler+currency.jpg)](http://www.hannavongoeler.com/Artist.asp?ArtistID=15679&Akey=K6CELP9C)

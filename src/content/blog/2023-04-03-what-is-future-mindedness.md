@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-04-03
 modDatetime: 2025-03-18 21:19:19+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Prospection, a blend of memory and imagination, shapes our decisions and survival strategies through "mental time travel."
 emoji: 🔮
 tags:
-
-- 🌀 Templeton
-- ⏰ Time
-- 🧠 Psychology
-- 🔍 Discoveries
-  haiku: |
+  - 🌀 Templeton
+  - ⏰ Time
+  - 🧠 Psychology
+  - 🔍 Discoveries
+haiku: |
   Future minds wander,  
-   Memory's path leads ahead—  
-   Silent thoughts take flight.
+  Memory's path leads ahead—  
+  Silent thoughts take flight.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about prospection.
 
 > It’s something that so many organisms do that it’s been described as a core organizing principle of animal and human behavior. Countless animals use prospection to adapt their behavior to their environments, allowing them to improve their chances of finding food or a mate, and to avoid danger. It’s also something humans seem to be especially good at: thinking about the future helps us make decisions, set and achieve goals, and cultivate cooperation and generosity.

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-12-15
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: The joys and perils of overlapping reading
 slug: the-joys-and-perils-of-overlapping-reading
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on the complexities of reading and the intertwining influences of contrasting narratives, the author shares a personal struggle with parallel reading of profound figures.
 emoji: 📚
 tags:
-
-- ✨ Wonder
-- 🦠 Biology
-- 📖 Bible
-- ✍️ Literature
-- 🌍 Culture
-- ❤️ Kindness
-  haiku: |
+  - ✨ Wonder
+  - 🦠 Biology
+  - 📖 Bible
+  - ✍️ Literature
+  - 🌍 Culture
+  - ❤️ Kindness
+haiku: |
   Shifting through pages,  
-   Gandhi meets Hitler's rage,  
-   Chaos in the mind.
-  coordinates: [37.0902, -95.7129]
+  Gandhi meets Hitler's rage,  
+  Chaos in the mind.
+coordinates: [37.0902, -95.7129]
+---
 
 ![](http://farm5.static.flickr.com/4062/4474421855_4b20643258_z.jpg)
 cc [Shutterhacks](http://www.flickr.com/photos/shutterhacks/4474421855/)/flickr

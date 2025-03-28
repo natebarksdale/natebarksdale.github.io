@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-14
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Unix, five hundred years on
 slug: unix-five-hundred-years-on
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on the enduring nature of cultural creations and the unexpected permanence of what was once deemed temporary.
 emoji: ⏳
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ⚙️ Technology
-- 💡 Innovation
-- 📝 Writing
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ⚙️ Technology
+  - 💡 Innovation
+  - 📝 Writing
+  - 💬 Communication
+haiku: |
   From past to present,  
-   We create with humble hands,  
-   Time's whispers endure.
-  coordinates: [37.7749, -122.4194]
+  We create with humble hands,  
+  Time's whispers endure.
+coordinates: [37.7749, -122.4194]
+---
 
 We simply can't know which of our cultural offerings will be lasting, and which will quickly fade away. I think, actually, there's something good to be found in that tension, allowing us to work and create with foresight, care and seriousness, but also with a humble lightness, a willingness to let go
 

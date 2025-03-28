@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Poverty Is Not Economics, by John Kofi Ayree
 slug: poverty-is-not-economics-by-john-kofi-ayree
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This artwork by John Kofi Aryee offers a powerful commentary on the misconceptions about poverty and economics.
 emoji: 🎨
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- 🎨 Art
-- 🖼️ Artifacts
-- ❤️ Charity
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - 🎨 Art
+  - 🖼️ Artifacts
+  - ❤️ Charity
+haiku: |
   Brush strokes tell a truth,  
-   Poverty's misunderstood,  
-   Rich in spirit, bright.
-  coordinates: [5.6037, -0.1870]
+  Poverty's misunderstood,  
+  Rich in spirit, bright.
+coordinates: [5.6037, -0.1870]
+---
 
 Sometimes buses say the darndest things, especially in Africa (and throughout the developing world). John Kofi Ayree is self-taught painter from western Ghana, based currently at the National Museum in Accra. This painting is from the collection of some good friends of mine
 [![image](http://culture-making.com/media/3204166211_e0f5500299_b.jpg)](http://flickr.com/photos/koranteng/3204166211/)

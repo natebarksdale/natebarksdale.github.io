@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-07-06
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Anthropologists are sometimes ill-equipped to interpret the religious motivations of their subjects. A new initiative is trying to change that.
 emoji: 🤔
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌀 Templeton
-- ✝️ Christianity
-- 🌍 Culture
-- 🙏 Faith
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 🙏 Faith
+haiku: |
   Mountains cradle faith,  
-   New beliefs transform old ways,  
-   Theology seeks.
+  New beliefs transform old ways,  
+  Theology seeks.
 
 coordinates: [-5.416667, 143.083333]
+---
+
 For the John Templeton Foundation, I wrote about the intriguing intersection of theology and cultural anthropology.
 
 > Beginning in the late 1970s, the Urapmin people, a traditional hunter-gatherer society who live in an isolated valley in the western mountains of Papua New Guinea, converted en masse to Christianity. As they proceeded to internalize and practice their newly acquired faith, they began to systematically abandon cultural practices now seen as incompatible with their new convictions. When anthropologist Joel Robbins arrived in the 1990s to do fieldwork among the Urapmin, he found them in a cultural situation his own training had not prepared him to interpret.

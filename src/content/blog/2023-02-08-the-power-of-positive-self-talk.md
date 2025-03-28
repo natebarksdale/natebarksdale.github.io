@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-02-08
 modDatetime: 2025-03-19 14:32:38+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Discover how Ethan Kross applies groundbreaking psychology to transform middle school education with the power of positive self-talk.
 emoji: 🧠
 tags:
-
-- 🌀 Templeton
-- 🧘‍♂️ Psychology
-- 🏫 Education
-- 🧠 Psychology
-  haiku: |
+  - 🌀 Templeton
+  - 🧘‍♂️ Psychology
+  - 🏫 Education
+  - 🧠 Psychology
+haiku: |
   Words shape our own minds,  
-   Whispered strength in class echoes,  
-   Calm amid the storm.
+  Whispered strength in class echoes,  
+  Calm amid the storm.
 
 coordinates: [42.280826, -83.743038]
+---
+
 For the John Templeton Foundation, I interviewed Ethan Kross about positive self-talk.
 
 > _How did you get interested in the psychology of introspection?_

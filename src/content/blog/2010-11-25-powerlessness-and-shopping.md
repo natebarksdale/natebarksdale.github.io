@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-11-25
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Powerlessness and shopping
 slug: powerlessness-and-shopping
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the interplay of powerlessness and consumer behavior, this post discusses how feelings of inadequacy can drive excessive spending on status symbols.
 emoji: 💰
 tags:
-
-- 🌍 Culture-Making.com
-- 💰 Commerce
-- 🧠 Psychology
-- 🗳️ Politics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💰 Commerce
+  - 🧠 Psychology
+  - 🗳️ Politics
+haiku: |
   In shadows they spend,  
-   Seeking worth in shiny things,  
-   Symbols of their worth.
-  coordinates: [41.9028, -87.6278]
+  Seeking worth in shiny things,  
+  Symbols of their worth.
+coordinates: [41.9028, -87.6278]
+---
 
 Powerlessness and consumption can seem a bit at odds. There is, though, significant distinction to be made between feeling and being powerless
 a [Jezebel](https://www.google.com/search?q=%22Jezebel%22%20feeds.gawker.com) post by SadieStein, 27 June 2008 :: first posted here 27 June 2008

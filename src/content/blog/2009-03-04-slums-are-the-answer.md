@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Slums are the answer
 slug: slums-are-the-answer
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Insights into community resilience found in the world's squatter cities.
 emoji: 🏘️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌍 Development
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌍 Development
+haiku: |
   Cities born of need,  
-   Strength found in shared hardship,  
-   Hope in every street.
-  coordinates: [20.5937, 78.9629]
+  Strength found in shared hardship,  
+  Hope in every street.
+coordinates: [20.5937, 78.9629]
+---
 
 Lessons in community-making from the world's dominant builders
 

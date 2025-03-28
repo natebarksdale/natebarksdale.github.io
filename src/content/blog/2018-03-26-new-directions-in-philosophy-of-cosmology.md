@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-03-26
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:13Z
 title: New Directions in Philosophy of Cosmology
 slug: new-directions-in-philosophy-of-cosmology
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: In the wild world of string theory, quantum gravity, and multiple universes, should the standard scientific methodology still apply?
 emoji: 🌌
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🔍 Critique
-- ⚖️ Ethics
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🔍 Critique
+  - ⚖️ Ethics
+haiku: |
   Stars whisper in codes,  
-   Philosophers parse the sky—  
-   Science seeks the truth.
-  coordinates: [51.509865, -0.118092]
+  Philosophers parse the sky—  
+  Science seeks the truth.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the evolving challenges and philosophical implications in the field of cosmology.
 

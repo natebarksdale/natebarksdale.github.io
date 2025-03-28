@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-06
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: I’m crushing your addiction!
 slug: im-crushing-your-addiction
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A study reveals the impact of virtual reality on reducing tobacco addiction through a unique method of physically engaging with simulated cigarettes.
 emoji: 💻
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 💬 Communication
+haiku: |
   Virtual smokes crushed,  
-   Waving goodbye to the haze,  
-   Freedom in the grasp.
-  coordinates: [40.7128, -74.0060]
+  Waving goodbye to the haze,  
+  Freedom in the grasp.
+coordinates: [40.7128, -74.0060]
+---
 
 A fascinating study that gets at at the power of gestures, postures, and practice, even when it's only at the level of visualization. I want to see a follow-up study as to the effects of crushing real vs. virtual smokes
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-10-21
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Social Hostility Towards Religion Declined in 2019, According to Recent Research
 slug: social-hostility-towards-religion-declined-in-2019-according-to-recent-research
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A Decline in Terrorism Led the Reduction, while Government Hostility Remained Steady
 emoji: 📉
 tags:
-
-- 🌙 Islam
-- 🌀 Templeton
-- ⛪ Religion
-- 🌍 Society
-- 📊 Research
-  haiku: |
+  - 🌙 Islam
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌍 Society
+  - 📊 Research
+haiku: |
   Hostility wanes,  
-   Fewer shadows in the night,  
-   Peace blooms tenderly.
-  coordinates: [7.8731, 80.7718]
+  Fewer shadows in the night,  
+  Peace blooms tenderly.
+coordinates: [7.8731, 80.7718]
+---
 
 For the John Templeton Foundation, I wrote about the decline in global religious hostilities reflected in recent research findings.
 

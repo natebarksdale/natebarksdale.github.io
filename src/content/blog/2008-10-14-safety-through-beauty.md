@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Safety through beauty
 slug: safety-through-beauty
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Women's Design Service critiques the reliance on surveillance and enforcement in urban safety, advocating for more inviting public spaces.
 emoji: 🌸
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ✨ Beauty
-- ♻️ Repurposing
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ✨ Beauty
+  - ♻️ Repurposing
+haiku: |
   Bright parks seek to bloom,  
-   Smiling faces linger near,  
-   Safety in the light.
-  coordinates: [51.5074, -0.1278]
+  Smiling faces linger near,  
+  Safety in the light.
+coordinates: [51.5074, -0.1278]
+---
 
 UK group Women's Design Service offers a critique of and alternative to technology- and enforcement-centered approaches to safety in public spaces: fewer barren plazas, more friendly uniformed ... toilet attendants
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-13
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Child-proof
 slug: child-proof
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on the evolving landscape of childhood freedoms in America, Michael Chabon explores the impact of modern fears on the imagination of our children.
 emoji: 🌿
 tags:
-
-- 🚲 Bicycles
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Development
-- ⚠️ Danger
-  haiku: |
+  - 🚲 Bicycles
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Development
+  - ⚠️ Danger
+haiku: |
   In lost green spaces,  
-   Children roam with wild delight,  
-   Dreams now fenced away.
-  coordinates: [37.7749, -122.4194]
+  Children roam with wild delight,  
+  Dreams now fenced away.
+coordinates: [37.7749, -122.4194]
+---
 
 I go back and forth as to whether Wilderness is the best way to describe the freedoms granted to kids by conscientious parents in the American cultural mainstream just a decade or two ago. Wilderness, the wild place where one finds one's self literally be-wildered, has many affinities with the adventures, explorations, and dangers of a more free-range childhood. But it was not a wilderness in the sense that when you were out there, you were truly alone, and could not depend on anyone to hear and come if you called for help. (A scenerio ironically more likely these days when all the local kids are being shuttled to their activities in cars)
 

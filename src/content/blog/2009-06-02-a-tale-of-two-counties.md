@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-02
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: A tale of two counties
 slug: a-tale-of-two-counties
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A conversation between two friends exploring the complexities of local culture and its impact on community health in small-town Kansas.
 emoji: 🌾
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- ⚖️ Law
-- ❤️ Kindness
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - ⚖️ Law
+  - ❤️ Kindness
+  - 📝 Writing
+haiku: |
   Towns flourish with care,  
-   Words weave a vibrant culture,  
-   Healing through respect.
-  coordinates: [38.5000, -97.5000]
+  Words weave a vibrant culture,  
+  Healing through respect.
+coordinates: [38.5000, -97.5000]
+---
 
 This is an anonymized excerpt from a chat two good friends of mine found themselves having the other night, which touches on the utter importance of local cultures, and the mysterious matter of what makes the difference between those that are helpful and those that aren't. R. is a native Kansan physician, educated on the coasts but now working at a clinic in a sub-1000-population town in her home state; D. is a law student. (See also Atul Gawande's inevitably fascinating [New Yorker piece](http://www.newyorker.com/reporting/2009/06/01/090601fa_fact_gawande) about how differences in local medical culture make healthcare in some places less effective and much more costly.)
 

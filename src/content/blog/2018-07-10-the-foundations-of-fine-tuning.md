@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-07-10
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Philosophy, physics, and the implications of an unlikely universe
 emoji: 🎲
 tags:
-
-- ⚛️ Physics
-- 💡 Design
-- 🌀 Templeton
-- 🔍 Uncertainty
-- 🌌 Astronomy
-- 🧠 Psychology
-  haiku: |
+  - ⚛️ Physics
+  - 💡 Design
+  - 🌀 Templeton
+  - 🔍 Uncertainty
+  - 🌌 Astronomy
+  - 🧠 Psychology
+haiku: |
   Royal flushes won,  
-   Universes finely tuned,  
-   Chance or design speaks?
+  Universes finely tuned,  
+  Chance or design speaks?
 
 coordinates: [34.0224, -118.2851]
+---
+
 For the John Templeton Foundation, I wrote about the implications of seemingly impossible cosmic coincidences.
 
 > A woman enters a casino, sits down at a high-stakes poker table, and draws a royal flush. She cashes in her winnings, walks to the casino next door, and does the same thing. Then she goes to a third casino and draws a third royal flush. What is a dispassionate observer to make of this scenario? Is it merely a highly improbable occurrence (although no more improbable — just more lucrative — than drawing the same losing hand three times over)? Casinos may believe that in general one person in a thousand is a cheater while the rest play with random hands. But the fact of our player’s lucky streak should significantly shift the likelihood that the alternative ‘cheater’ hypothesis is correct.

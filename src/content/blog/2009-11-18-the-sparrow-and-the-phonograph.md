@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-18
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: The sparrow and the phonograph
 slug: the-sparrow-and-the-phonograph
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An insightful warning from John Philip Sousa about the impact of mechanical music on American musical artistry.
 emoji: 🎼
 tags:
-
-- 🚲 Bicycles
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 📖 Articles
-- 🌍 Culture
-- ⚖️ Ethics
-  haiku: |
+  - 🚲 Bicycles
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 📖 Articles
+  - 🌍 Culture
+  - ⚖️ Ethics
+haiku: |
   Machines play our tunes,  
-   Artisans fade away,  
-   Songs lost in the noise.
-  coordinates: [37.0902, -95.7129]
+  Artisans fade away,  
+  Songs lost in the noise.
+coordinates: [37.0902, -95.7129]
+---
 
 It was hard to decide which part of this article to excerpt: the hilarious bombast of the opening or the all-too-prescient middle sections about the waning of everyday amateur musicianship in an age of recorded performance: "And what is the result? The child becomes indifferent to practice, for when music can be heard in the homes without the labor of study and close application, and without the slow process of acquiring a technic, it will be simply a question of time when the amateur disappears entirely, and with him a host of vocal and instrumental teachers, who will be without field or calling." Nah, I'll go with the opening. This is, after all, the guy whose fortunes rose on mass-music-publishing, who recoiled and reinvented the tuba so that you could march with it
 

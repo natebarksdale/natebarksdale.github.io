@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2001-09-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Decolonizing Harry
 slug: decolonizing-harry
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Reflecting on the complexities of class, race, and intentional community living, the author's journey delves into the struggles of pursuing simplicity and the unintended consequences of well-meaning ideals.
 emoji: 🌍
 tags:
-
-- ➗ Mathematics
-- 🌙 Islam
-- 📖 Bible
-- 🌍 Society
-- ✝️ Christianity
-- ❤️ Kindness
-- ❤️ Forgiveness
-- ❤️ Charity
-  haiku: |
+  - ➗ Mathematics
+  - 🌙 Islam
+  - 📖 Bible
+  - 🌍 Society
+  - ✝️ Christianity
+  - ❤️ Kindness
+  - ❤️ Forgiveness
+  - ❤️ Charity
+haiku: |
   Seeking common ground,  
-   Tensions of class and race rise,  
-   Paths of grace entwined.
-  coordinates: [12.9716, 77.5946]
+  Tensions of class and race rise,  
+  Paths of grace entwined.
+coordinates: [12.9716, 77.5946]
+---
 
 ![](@assets/images/pennies.jpg)
 cc [r-z](http://www.flickr.com/photos/r-z/384866837/)/flickr

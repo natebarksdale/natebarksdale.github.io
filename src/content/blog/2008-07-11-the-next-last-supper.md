@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A thought-provoking interpretation of Leonardo's Last Supper explores its themes through modern technology and artistic expression.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🖼️ Artifacts
-- 🌍 Culture
-- 🖋️ Commentary
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🖼️ Artifacts
+  - 🌍 Culture
+  - 🖋️ Commentary
+haiku: |
   Classic faces shift,  
-   Shadows cast in modern light,  
-   Past and present clash.
-  coordinates: [45.4642, 9.1900]
+  Shadows cast in modern light,  
+  Past and present clash.
+coordinates: [45.4642, 9.1900]
+---
 
 A British director's remix of Leonardo's Last Supper. I suppose you'd have to see it to really judge, but it sounds (ah, metaphor) fascinating
 

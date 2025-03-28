@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-03
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Moby Dick, a book about computers
 slug: moby-dick-a-book-about-computers
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: Exploring the whimsical errors in Google Books' categorizations reveals unexpected connections in literature.
 emoji: 📚
 tags:
-
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- ⚙️ Technology
-- 📖 Books
-- 🌍 Society
-- 📝 Writing
-  haiku: |
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - ⚙️ Technology
+  - 📖 Books
+  - 🌍 Society
+  - 📝 Writing
+haiku: |
   Misplaced titles shine,  
-   History’s quirks unfold fast,  
-   Serendipity.
-  coordinates: [37.0902, -95.7129]
+  History’s quirks unfold fast,  
+  Serendipity.
+coordinates: [37.0902, -95.7129]
+---
 
 I'm just slightly torn about this expose of machine-miscategorizations in many titles on Google Books. On the one hand, of course the errors ought to be fixed, and the folks at Google are certainly on the case. Honestly, though, I find the pattern of mistakes to be not just charming, but possibility-expanding: miscategorizing Jane Eyre in "Architecture" or "Antiques & Collectibles" offers up a bit of the bookstore-browsing serendipity that we were worried would be lost once the direct-search online catalog took over. If nothing else the mistakes have got me pondering: [what sort of book about web browsers](http://books.google.com/books) would Sigmund Freud have written?
 

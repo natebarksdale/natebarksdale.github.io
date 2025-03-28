@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-11-21
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: The History of Pumpkin Pie
 slug: the-history-of-pumpkin-pie
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Discover the rich history of pumpkin pie, a staple that dates back to 5,500 B.C. and symbolizes American tradition and celebration.
 emoji: 🥧
 tags:
-
-- 🍷 Europe
-- 🥑 Central America
-- 🇫🇷 France
-- 🇭 History.com
-- 🍗 Food
-- 🍬 Desserts
-- 🌍 History
-- 🇺🇸 United States
-  haiku: |
+  - 🍷 Europe
+  - 🥑 Central America
+  - 🇫🇷 France
+  - 🇭 History.com
+  - 🍗 Food
+  - 🍬 Desserts
+  - 🌍 History
+  - 🇺🇸 United States
+haiku: |
   Ancient gourds whisper,  
-   Orange custard graces fall—  
-   Thanksgiving's heart swells.
-  coordinates: [14.6349, -90.5069]
+  Orange custard graces fall—  
+  Thanksgiving's heart swells.
+coordinates: [14.6349, -90.5069]
+---
 
 For the History Channel, I wrote about pumpkin pie in American culture.
 

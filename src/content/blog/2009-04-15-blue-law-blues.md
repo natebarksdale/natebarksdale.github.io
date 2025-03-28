@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-15
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: Blue law blues
 slug: blue-law-blues
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: From Kat Long's exploration of the unintended consequences of New York City's attempts to regulate vice and morality.
 emoji: 🚫
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Law
-- ⚖️ Ethics
-- ⚖️ Choices
-- 🌍 Society
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - 🌍 Society
+  - 🌍 Culture
+haiku: |
   Laws against temptations,  
-   Breeding grounds for hidden acts—  
-   Freedom finds a way.
-  coordinates: [40.7128, -74.0060]
+  Breeding grounds for hidden acts—  
+  Freedom finds a way.
+coordinates: [40.7128, -74.0060]
+---
 
 A litany of unintended consequences from New York City's historical efforts to keep its citizens from temptation, from a review of Kat Long's [The Forbidden Apple: A Century of Sex & Sin in New York City](https://www.google.com/search?q=%22The%20Forbidden%20Apple%3A%20A%20Century%20of%20Sex%20%26%20Sin%20in%20New%20York%20City%22%20amazon.com). Obviously there are many kinds of legislated moral-hazard-reduction that can be quite effective—it's not like a city's maintaining convenient public trash cans just drives litterers underground—but "how might this go horribly wrong?" is always a good question for planners to ask themselves, even if you never fully know the answer until you try it
 

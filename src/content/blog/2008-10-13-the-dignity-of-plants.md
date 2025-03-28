@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-13
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: The dignity of plants
 slug: the-dignity-of-plants
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: An exploration of the ethical considerations surrounding genetic modification and the dignity of plants in Switzerland.
 emoji: 🌱
 tags:
-
-- 🧬 Genetics
-- 🦠 Biology
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌱 Sustainability
-- 🌍 Ecology
-- ⚖️ Ethics
-- ⚖️ Choices
-- ⚕️ Medicine
-  haiku: |
+  - 🧬 Genetics
+  - 🦠 Biology
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌱 Sustainability
+  - 🌍 Ecology
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - ⚕️ Medicine
+haiku: |
   Whispers in the leaves,  
-   Dignity in the green world,  
-   Life's bonds intertwine.
-  coordinates: [46.8182, 8.2275]
+  Dignity in the green world,  
+  Life's bonds intertwine.
+coordinates: [46.8182, 8.2275]
+---
 
 I think this is getting at something important, though perhaps from the wrong angle. I feel like the dignity of plants (and, I think more usefully, that of landscapes and ecosystems) can only have meaning when you approach it with a view towards relationships: creation/creator, creation/cultivator. The relationship, not the plant, is what has or can be denied dignity. Two other notes: I don't think the "interference with the plant's ability to reproduce" is a great litmus test in any case, since most domesticated plants have lost the ability to make it without human help (and we with their help). And finally, fittingly, it's worth remembering that Switzerland was the setting for Mary Shelly's _Frankenstein_ , that great and terrible tale of a creator's failure to love his creature
 

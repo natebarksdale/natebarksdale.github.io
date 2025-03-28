@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Productive mind games
 slug: productive-mind-games
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Insights into creative behavioral economics strategies to encourage healthier choices and better decision-making.
 emoji: 💰
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- 🌍 Society
-- 💼 Business
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 🌍 Society
+  - 💼 Business
+haiku: |
   Change through small steps,  
-   Incentives guide our choices,  
-   Healthier futures.
-  coordinates: [8.4860, 125.6400]
+  Incentives guide our choices,  
+  Healthier futures.
+coordinates: [8.4860, 125.6400]
+---
 
 More news from the exciting (really!) field of Behavioral Economics
 

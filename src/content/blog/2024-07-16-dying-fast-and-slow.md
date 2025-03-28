@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-07-16
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Dying Fast and Slow
 slug: dying-fast-and-slow
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore the borders of life and death as scientists debate the intricate dance of dying cells at a groundbreaking NIH workshop.
 emoji: 💀
 tags:
-
-- 🦠 Biology
-- 🌀 Templeton
-- 🌠 Mortality
-- 🧠 Neuroscience
-- 📊 Research
-  haiku: |
+  - 🦠 Biology
+  - 🌀 Templeton
+  - 🌠 Mortality
+  - 🧠 Neuroscience
+  - 📊 Research
+haiku: |
   Cells linger, life wanes,  
-   Twilight whispers, death's slow dance,  
-   Mysteries remain.
-  coordinates: [39.0004, -77.0997]
+  Twilight whispers, death's slow dance,  
+  Mysteries remain.
+coordinates: [39.0004, -77.0997]
+---
 
 For the John Templeton Foundation, I wrote about what we do (and don't) know about what happens as we die.
 

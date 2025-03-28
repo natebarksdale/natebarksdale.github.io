@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Mix CD | October Surprise
 slug: mix-cd-october-surprise
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A nostalgic mix created during the vibrant atmosphere of the 2008 elections, capturing the spirit of the moment through music.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🎵 Music
-- 🎉 Celebration
-- 🗳️ Politics
-- 📝 Writing
-- 🌀 Complexity
-  haiku: |
+  - 💿 Mix CDs
+  - 🎵 Music
+  - 🎉 Celebration
+  - 🗳️ Politics
+  - 📝 Writing
+  - 🌀 Complexity
+haiku: |
   Tunes of a moment,  
-   Friendships in harmony,  
-   Change in the air.
-  coordinates: [38.8833, -77.0167]
+  Friendships in harmony,  
+  Change in the air.
+coordinates: [38.8833, -77.0167]
+---
 
 #### Wimbo Zuri Catalog No. 041.1A08-1
 

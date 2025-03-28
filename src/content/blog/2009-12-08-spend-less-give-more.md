@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-08
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Spend less, give more
 slug: spend-less-give-more
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring a meaningful approach to the holiday season that emphasizes giving, creativity, and community rather than consumption.
 emoji: 🎁
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- ⚖️ Choices
-- 🌍 Culture
-- 🌞 Leisure
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 🌞 Leisure
+haiku: |
   Gifts of time we share,  
-   Choosing joy over the rush,  
-   Heartfelt bonds we build.
-  coordinates: [37.0902, -95.7129]
+  Choosing joy over the rush,  
+  Heartfelt bonds we build.
+coordinates: [37.0902, -95.7129]
+---
 
 [Advent Conspiracy](http://www.adventconspiracy.org/) hardly falls into the too-pious trap described in the previous excerpt. In fact, they skillfully deploy the language of consumerism—website, youtube, dvds, books half off today!—to spur conversations about choices we can make to affirm Christmas as a celebration of creation as well as consumption—and to promote projects to bring clean water to those who lack it. I find the venue of this post, by my good friend Jonathan, especially pleasing. Maybe I don't need that [$400 flashlight](http://web.archive.org/web/20100903141328/http://www.wired.com:80/reviews/product/pr_wishlist2) after all
 

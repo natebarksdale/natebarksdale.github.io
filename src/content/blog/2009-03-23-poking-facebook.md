@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Poking Facebook
 slug: poking-facebook
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The ease of social networking creates challenges for self-reinvention.
 emoji: 🌐
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- 🌍 Identity
-- 📝 Writing
-- 🗳️ Politics
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - 🌍 Identity
+  - 📝 Writing
+  - 🗳️ Politics
+haiku: |
   Tethered to the past,  
-   In a world of sharing views,  
-   Can I start anew?
-  coordinates: [37.7749, -122.4194]
+  In a world of sharing views,  
+  Can I start anew?
+coordinates: [37.7749, -122.4194]
+---
 
 Is the ease of social networking (where maintaining a given relationship is the default rather than a continual, active, and at least mildly costly choice) a threat to the actual possibility of self-reinvention—or, perhaps, just to the idea of truly being able to make a break with our old selves?
 

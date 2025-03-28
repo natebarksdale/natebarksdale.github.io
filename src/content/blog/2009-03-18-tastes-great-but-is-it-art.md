@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-18
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Tastes great, but is it art?
 slug: tastes-great-but-is-it-art
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the debate on whether cooking can be classified as an art form raises intriguing questions about aesthetic experiences and cultural significance.
 emoji: 🍽️
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🌍 Culture
-- 🎨 Art
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🌍 Culture
+  - 🎨 Art
+haiku: |
   Meals as art today,  
-   Taste, texture, and beauty blend,  
-   Cultures on display.
-  coordinates: [48.8584, 2.2945]
+  Taste, texture, and beauty blend,  
+  Cultures on display.
+coordinates: [48.8584, 2.2945]
+---
 
 Fun and important questions about the aesthetics of food (and, for that matter, the aesthetics of aesthetics). At the end of the day it's all culture, though
 

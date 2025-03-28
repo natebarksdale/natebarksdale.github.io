@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-21
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: The world is their crib sheet
 slug: the-world-is-their-crib-sheet
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A Sydney school is innovating exams by allowing online resources and collaboration to better reflect real-world information access.
 emoji: 📱
 tags:
-
-- 🌍 Culture-Making.com
-- 🇦🇺 Australia
-- 🏫 Education
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇦🇺 Australia
+  - 🏫 Education
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   In exams, unite,  
-   Knowledge flows from every source,  
-   We learn to connect.
-  coordinates: [-33.8587, 151.1024]
+  Knowledge flows from every source,  
+  We learn to connect.
+coordinates: [-33.8587, 151.1024]
+---
 
 Making exams more like real life -- or how real life ought to be (source citations included)
 

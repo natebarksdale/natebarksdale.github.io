@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-05-23
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Extended Evolutionary Synthesis
 slug: extended-evolutionary-synthesis
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Evolution has evolved since Darwin, and an emerging new synthesis expands our understanding of what it is and how it functions.
 emoji: 🧬
 tags:
-
-- 🧬 Genetics
-- 🦠 Biology
-- 🌀 Templeton
-- 🌍 Evolution
-- ✍️ Translation
-  haiku: |
+  - 🧬 Genetics
+  - 🦠 Biology
+  - 🌀 Templeton
+  - 🌍 Evolution
+  - ✍️ Translation
+haiku: |
   Language bridges span,  
-   Evolving thoughts intertwine,  
-   Insight blooms anew.
-  coordinates: [51.509865, -0.118092]
+  Evolving thoughts intertwine,  
+  Insight blooms anew.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the Extended Evolutionary Synthesis.
 

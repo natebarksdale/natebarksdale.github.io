@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-16
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Musilanguage
 slug: musilanguage
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Exploring the blend of music and language, Sigur Rós captivates with their unique soundscapes and inventiveness.
 emoji: 🎶
 tags:
-
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎵 Music
-- ✍️ Literature
-- 📖 Articles
-- 🗣️ Language
-  haiku: |
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎵 Music
+  - ✍️ Literature
+  - 📖 Articles
+  - 🗣️ Language
+haiku: |
   Notes dance in the air,  
-   Meaning found in sound alone,  
-   Hearts whisper through chords.
-  coordinates: [64.1355, -21.8954]
+  Meaning found in sound alone,  
+  Hearts whisper through chords.
+coordinates: [64.1355, -21.8954]
+---
 
 News out of Iceland that doesn't deal with bank failures or the plummeting krona! OK, news might be a stretch, but we could all stand to hear some more Hopelandic these days
 

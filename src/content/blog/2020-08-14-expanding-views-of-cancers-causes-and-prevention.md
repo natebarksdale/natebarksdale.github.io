@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-08-14
 modDatetime: 2025-03-17
@@ -10,18 +9,19 @@ draft: False
 description: A blood test for early-stage cancer holds promise for treating the many cancers caused by the accumulated “bad luck” of multicellular living
 emoji: 🔬
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- 🎗️ Cancer
-- 🧬 Genetics
-- 📊 Research
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - 🎗️ Cancer
+  - 🧬 Genetics
+  - 📊 Research
+haiku: |
   Cells divide, mutate—  
-   Fate’s lottery of cancer,  
-   Beyond mere risks laid.
+  Fate’s lottery of cancer,  
+  Beyond mere risks laid.
 
 coordinates: [39.3289, -76.6208]
+---
+
 For the John Templeton Foundation, I wrote about the intriguing role of random mutations in cancer development.
 
 > Few people make it through life without being directly or indirectly touched by cancer. The disease is the second-leading cause of death globally, causing about one in six deaths. Over the past century researchers have identified many behavioral, environmental, and genetic risk factors that increase the likelihood an individual will get certain kinds of cancer, but an element of randomness remains when it comes to individual outcomes: some lifelong smokers never get lung cancer, and some people can come down with cancers even in the absence of known risks. For many researchers, areas of unpredictability in cancer have driven the search for unknown environmental or genetic factors. But a few years ago, Cristian Tomasetti, a professor of oncology at Johns Hopkins, began to wonder whether an underappreciated cause of cancer happens even without the influence of carcinogens or cancer-causing genes: the infinitesimal and inevitable random mutations that occur during normal cell division.

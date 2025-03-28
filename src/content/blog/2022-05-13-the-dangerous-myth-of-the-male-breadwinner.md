@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2022-05-13
 modDatetime: 2025-03-18 21:19:23+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Explore how the myth of the male breadwinner, backed by historical and academic narratives, shaped societal views on family roles and gender dynamics.
 emoji: 👨
 tags:
-
-- 🌀 Templeton
-- 🌍 Society
-- � Family
-- ✝️ Christianity
-  haiku: |
+  - 🌀 Templeton
+  - 🌍 Society
+  - � Family
+  - ✝️ Christianity
+haiku: |
   Hunters in the past,  
-   Men claimed the meat, myths were cast,  
-   Breadwinners recast.
+  Men claimed the meat, myths were cast,  
+  Breadwinners recast.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about the outdated notion of the male as the sole provider.
 
 > In 1968 anthropologists Richard Lee and Irvan Devore published [Man the Hunter](https://archive.org/details/ManTheHunter), an influential book that grew out of a symposium the authors had hosted about the ethnography of hunter-gatherers. Subtitled “The first intensive survey of a single, crucial stage of human development—man’s once universal hunting way of life,” _Man the Hunter_ promoted the view that humans evolved in hunting-centric groups centered on men’s ability to acquire food for women and children. In it one contributor noted that hunting “gives men a distinctive and important subsistence role and was presumably the principal factor that created the nuclear family.”

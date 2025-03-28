@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-12-16
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Eight Things You May Not Know About Henry VIII
 slug: eight-things-you-may-not-know-about-henry-viii
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Defender of the faith? Yes. Of his wives? Not so much.
 emoji: 👑
 tags:
-
-- 🇭 History.com
-- ⛪ Religion
-- ✝️ Christianity
-- 🌍 History
-  haiku: |
+  - 🇭 History.com
+  - ⛪ Religion
+  - ✝️ Christianity
+  - 🌍 History
+haiku: |
   King defends his faith,  
-   Cleaves church for a new crown’s love,  
-   Yellow gowns hide grief.
-  coordinates: [51.509865, -0.118092]
+  Cleaves church for a new crown’s love,  
+  Yellow gowns hide grief.
+coordinates: [51.509865, -0.118092]
+---
 
 For the History Channel, I wrote about Henry VIII's complex life and legacy.
 

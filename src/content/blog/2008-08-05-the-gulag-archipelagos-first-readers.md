@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: The Gulag Archipelago’s first readers
 slug: the-gulag-archipelagos-first-readers
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The tangible experience of reading _Gulag Archipelago_ resonates deeply in the memories of its first readers.
 emoji: 📖
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Books
-- 🌍 History
-- 🔄 Repetition
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Books
+  - 🌍 History
+  - 🔄 Repetition
+haiku: |
   Ink on fragile page,  
-   Stories of pain shared in dusk,  
-   Echoes of the past.
-  coordinates: [56.0405, 38.9747]
+  Stories of pain shared in dusk,  
+  Echoes of the past.
+coordinates: [56.0405, 38.9747]
+---
 
 I'm always fascinated by discussions (or really just acknowledgements) of the thing-ness of books, that, apart from being texts, they're objects with a feel and smell and a personal, cultural, individual history to them
 

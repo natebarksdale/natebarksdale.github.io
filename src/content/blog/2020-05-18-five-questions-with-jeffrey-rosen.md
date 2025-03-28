@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-05-18
 modDatetime: 2025-03-17
@@ -10,17 +9,17 @@ draft: False
 description: Explore how the National Constitution Center embraces remote education and reaches new audiences, as Jeffrey Rosen discusses constitutional challenges during COVID-19.
 emoji: 📝
 tags:
-
-- 🏛️ Government
-- 🏫 Education
-- 🌐 Digital
-- 📖 Articles
-- 🌀 Templeton
-  haiku: |
+  - 🏛️ Government
+  - 🏫 Education
+  - 🌐 Digital
+  - 📖 Articles
+  - 🌀 Templeton
+haiku: |
   The Constitution
   Born in Philadelphia
   Now in all places.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about Jeffrey Rosen's insights into constitutional challenges during the COVID-19 era.
 

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-03-26
 modDatetime: 2025-03-17
@@ -10,17 +9,18 @@ draft: False
 description: When testing is not enough…helping students define their purpose
 emoji: 🎓
 tags:
-
-- 🌀 Templeton
-- 🏫 Education
-- 🧠 Psychology
-- 🤝 Collaboration
-  haiku: |
+  - 🌀 Templeton
+  - 🏫 Education
+  - 🧠 Psychology
+  - 🤝 Collaboration
+haiku: |
   Students find their path,  
-   Voices guide their noble quest,  
-   Purpose blooms in youth.
+  Voices guide their noble quest,  
+  Purpose blooms in youth.
 
 coordinates: [40.5008, -74.4474]
+---
+
 For the John Templeton Foundation, I wrote about a unique approach to helping middle schoolers cultivate a sense of purpose.
 
 > How can students take control of their education and their future? In recent decades a great deal of educational policy has focused on student test results as the key measure of whether schools are succeeding. For struggling schools, though, the push to improve lagging test scores can sideline certain interventions that have the potential to help their neediest students. Maurice Elias, a professor of psychology and the director of the Social-Emotional Learning Lab at Rutgers University, thinks that there’s a better way to prepare at-risk students for success.

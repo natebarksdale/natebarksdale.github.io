@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Twenty years of unintended consequences
 slug: twenty-years-of-unintended-consequences
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A humorous exchange highlighting the unexpected impact of Homer Simpson's actions on culture.
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- 🎭 Comedy
-- 📝 Writing
-- 🎥 Film
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - 🎭 Comedy
+  - 📝 Writing
+  - 🎥 Film
+haiku: |
   Dad's unexpected fame,  
-   Artists in family glow,  
-   Culture's gentle jest.
-  coordinates: [34.0522, -118.2437]
+  Artists in family glow,  
+  Culture's gentle jest.
+coordinates: [34.0522, -118.2437]
+---
 
 Bart: Dad, you were great!  
 Lisa: And you contributed to our culture!  

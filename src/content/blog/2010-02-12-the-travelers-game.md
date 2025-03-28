@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-12
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:06Z
 title: The traveler’s game
 slug: the-travelers-game
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on the challenges of experiencing other cultures through time, Lévi-Strauss contemplates the fleeting nature of understanding and perception.
 emoji: 🕰️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ⏰ Time
-- 📝 Writing
-- 🌍 Exploration
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ⏰ Time
+  - 📝 Writing
+  - 🌍 Exploration
+haiku: |
   Time's tapestry spins,  
-   Shadows of the past linger,  
-   Now is all we have.
-  coordinates: [15.7801, -46.8977]
+  Shadows of the past linger,  
+  Now is all we have.
+coordinates: [15.7801, -46.8977]
+---
 
 I loved this gem from the lately-late Claude Lévi-Strauss, about the fruitless yet fascinating mind games the serious, studious traveler often plays, trying to decide what era would be the best time to visit a certain place or certain culture. Lévi-Strauss finds this ultimately depressing, but I suppose there's good news in it as well: that the best time to experience culture is always, conveniently, now
 

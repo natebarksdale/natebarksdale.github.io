@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-03-11
 modDatetime: 2025-03-11 19:54:16+00:00
@@ -8,20 +7,20 @@ slug: back-from-the-grave
 featured: True
 draft: False
 tags:
-
-- 🗣🗣️ Language
-- 🇨🇳 China
-- 🌐 Blogging
-- ➿ What Comes Next\_
-- 🤖 AI
+  - 🗣🗣️ Language
+  - 🇨🇳 China
+  - 🌐 Blogging
+  - ➿ What Comes Next\_
+  - 🤖 AI
   description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
   emoji: ✍️
-  haiku: |
+haiku: |
   Old words find new home,
   Past thoughts revived, take new breath,
   Making culture bloom.
 
 coordinates: [51.509865, -0.118092]
+---
 
 ## When is the past worth saving, and how do we go about it it?
 

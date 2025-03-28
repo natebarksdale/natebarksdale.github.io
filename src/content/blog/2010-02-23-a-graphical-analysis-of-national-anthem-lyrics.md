@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: A graphical analysis of national anthem lyrics
 slug: a-graphical-analysis-of-national-anthem-lyrics
 featured: false
@@ -10,28 +9,28 @@ draft: false
 description: My quest to learn "La Marseillaise" led me to explore the curious and often violent lyrics of national anthems from around the world.
 emoji: 🎶
 tags:
-
-- ✨ Wonder
-- 💡 Design
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🇿🇦 South Africa
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🧉 South America
-- 🦁 Africa
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- ⛪ Religion
-- 🇫🇷 France
-- 🌍 Culture
-- 🖋️ Commentary
-  haiku: |
+  - ✨ Wonder
+  - 💡 Design
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🇿🇦 South Africa
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🧉 South America
+  - 🦁 Africa
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - ⛪ Religion
+  - 🇫🇷 France
+  - 🌍 Culture
+  - 🖋️ Commentary
+haiku: |
   Anthems tell tales,  
-   Blood and glory intertwine,  
-   Nations raise their song.
-  coordinates: [48.8566, 2.3522]
+  Blood and glory intertwine,  
+  Nations raise their song.
+coordinates: [48.8566, 2.3522]
+---
 
 ### With attention to religious expression, Olympic performance, and general bloodthirstiness
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Gilgamesh for apes
 slug: gilgamesh-for-apes
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of the intersection between animal language studies and human literature, highlighting the effort to enrich primate communication through creative translations.
 emoji: 🐒
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌀 Complexity
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌀 Complexity
+  - 🌍 Culture
+haiku: |
   Language beyond bars,  
-   Apes dance words, human stories,  
-   Gilgamesh in signs.
-  coordinates: [41.5932, -93.6128]
+  Apes dance words, human stories,  
+  Gilgamesh in signs.
+coordinates: [41.5932, -93.6128]
+---
 
 I love studies of animal language precisely because, of course, they're generally really just as much about human language and culture. The generous, absurd gesture of translating a Babylonian epic into ape-ish just underscores the point
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-15
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Mental illness and missing stories
 slug: mental-illness-and-missing-stories
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An insightful exploration of how Western ideas of mental illness are shaped by culture and may lack the complexity of their scientific underpinnings.
 emoji: 🧠
 tags:
-
-- 🧪 Chemistry
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Culture
-- 🌀 Complexity
-  haiku: |
+  - 🧪 Chemistry
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Culture
+  - 🌀 Complexity
+haiku: |
   Minds in turmoil rest,  
-   Cultural stories lost,  
-   Science can't replace.
-  coordinates: [40.7128, -74.0060]
+  Cultural stories lost,  
+  Science can't replace.
+coordinates: [40.7128, -74.0060]
+---
 
 Alhough the standard psychiatric diagnostic manual relegates 'culture-bound' illnesses to an exotic appendix at the end of the book, Western conceptions of mental illness are themselves 'culture-bound'—an observation close to my historian-of-science's heart, and one well-explored in both Watters' article and in [this thoughtful commentary](http://neuroanthropology.net/2010/01/10/exporting-american-mental-illness/)
 

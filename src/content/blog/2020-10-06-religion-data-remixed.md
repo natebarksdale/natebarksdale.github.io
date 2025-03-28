@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-10-06
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Religion Data, Remixed
 slug: religion-data-remixed
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Retooling a Key Resource for Research on Religion
 emoji: 📊
 tags:
-
-- 🌀 Templeton
-- ⛪ Religion
-- 🧘‍♂️ Psychology
-- 📊 Research
-  haiku: |
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🧘‍♂️ Psychology
+  - 📊 Research
+haiku: |
   Data's new frontier calls,  
-   Religion, remixed with care,  
-   Insights bloom, shared wide.
-  coordinates: [40.7982, -77.8599]
+  Religion, remixed with care,  
+  Insights bloom, shared wide.
+coordinates: [40.7982, -77.8599]
+---
 
 For the John Templeton Foundation, I wrote about the ambitious overhaul of a major religious data archive.
 

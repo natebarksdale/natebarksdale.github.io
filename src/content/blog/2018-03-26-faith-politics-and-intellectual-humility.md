@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-03-26
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Faith, Politics, and Intellectual Humility
 slug: faith-politics-and-intellectual-humility
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A public symposium on the prospects for civil discussion
 emoji: 🤝
 tags:
-
-- 🌀 Templeton
-- 🙏 Faith
-- 🗳️ Politics
-- 💬 Communication
-  haiku: |
+  - 🌀 Templeton
+  - 🙏 Faith
+  - 🗳️ Politics
+  - 💬 Communication
+haiku: |
   Dialogues of deep faith,  
-   Bridging divides with humble words,  
-   Politics renewed.
-  coordinates: [41.7658, -72.6734]
+  Bridging divides with humble words,  
+  Politics renewed.
+coordinates: [41.7658, -72.6734]
+---
 
 For the John Templeton Foundation, I wrote about fostering dialogue in an era where faith and politics often collide.
 

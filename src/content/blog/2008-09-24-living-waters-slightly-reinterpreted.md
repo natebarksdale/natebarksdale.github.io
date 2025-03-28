@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-24
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Living waters (slightly) reinterpreted
 slug: living-waters-slightly-reinterpreted
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of how Jewish feminists have reinterpreted the mikveh, transforming what was once seen as a symbol of patriarchal oppression into a celebration of women's connection to tradition and spirituality.
 emoji: 💧
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ✡️ Judaism
-- ❤️ Kindness
-- 💧 Rituals
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ✡️ Judaism
+  - ❤️ Kindness
+  - 💧 Rituals
+  - 🌍 Culture
+haiku: |
   Water's healing flow,  
-   From silence to strength we rise,  
-   Embrace our journey.
-  coordinates: [40.7128, -74.0060]
+  From silence to strength we rise,  
+  Embrace our journey.
+coordinates: [40.7128, -74.0060]
+---
 
 An example of a deep cultural practice that seems to be—like many deep cultural practices, actually—able to make a rich and creative rebound from rejection and critique
 

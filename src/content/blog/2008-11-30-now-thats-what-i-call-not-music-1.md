@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-30
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Now That’s What I Call Not Music 1!
 slug: now-thats-what-i-call-not-music-1
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A vivid account of the tumultuous reaction to the first public performance of the noise orchestra in Milan in 1914.
 emoji: 🎶
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🎵 Music
-- 🎭 Entertainment
-- 📖 Articles
-- 🌍 Culture
-- 🔄 Commitment
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - 🎭 Entertainment
+  - 📖 Articles
+  - 🌍 Culture
+  - 🔄 Commitment
+haiku: |
   Noise breaks the silence,  
-   Fists fly in the chaos,  
-   Art stirs fierce passion.
-  coordinates: [45.4668, 9.1905]
+  Fists fly in the chaos,  
+  Art stirs fierce passion.
+coordinates: [45.4668, 9.1905]
+---
 
 Here's the first of three excerpts about the initial reactions to early-20th-century experiments in avant-garde "noise music." While I think that Andy's comments in _Culture Making_ about John Cage's most (in)famous work—that in the end it amounted to "a provocative but fruitless attempt to cut off the cultural tradition of music"—are certainly worth bearing in mind. Still, there is something thrilling about the passion evident on both sides of this particular audience dispute. In the next excerpts we'll from some of the more thoughtful (and less pugnacious) early listeners
 

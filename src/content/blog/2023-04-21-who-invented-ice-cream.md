@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-04-17
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Who Invented Ice Cream?
 slug: who-invented-ice-cream
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: From ancient China to American tables, uncover the frosty journey of history's favorite frozen delight.
 emoji: 🍦
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 🍬 Desserts
-- 🇨🇳 China
-- 🇮🇹 Italy
-- 🇫🇷 France
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 🍬 Desserts
+  - 🇨🇳 China
+  - 🇮🇹 Italy
+  - 🇫🇷 France
+haiku: |
   Ancient ice, sweet cold,  
-   Nero's honeyed treats unfold,  
-   Journey through ages.
-  coordinates: [34.0, 42.0]
+  Nero's honeyed treats unfold,  
+  Journey through ages.
+coordinates: [34.0, 42.0]
+---
 
 For the History Channel, I wrote about my favorite frozen treat.
 

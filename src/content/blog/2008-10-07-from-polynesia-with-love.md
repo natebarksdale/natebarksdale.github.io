@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: From Polynesia with love
 slug: from-polynesia-with-love
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: As a rugby fan, I find it intriguing to see American football teams embracing the Polynesian haka and fostering multicultural connections.
 emoji: 🏈
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🏈 Football
-- ⛪ Religion
-- 🤝 Collaboration
-- 🤝 Unity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🏈 Football
+  - ⛪ Religion
+  - 🤝 Collaboration
+  - 🤝 Unity
+haiku: |
   Haka on the field,  
-   Cultures blend in strong spirit,  
-   Sports unite us all.
-  coordinates: [32.8371, -97.0813]
+  Cultures blend in strong spirit,  
+  Sports unite us all.
+coordinates: [32.8371, -97.0813]
+---
 
 Rugby fan that I am, I find it odd to think of American football teams performing their own versions of the Polynesian pregame _[haka](http://www.youtube.com/watch?v=83U_Vg1GRvA)_ (here in Oregon I think it was brought over by Hawaiian football recruits). Still, it's a step in the right direction—now they just need to ditch the pads, helmets, and forward passes
 a [kottke.org](http://www.kottke.org/08/10/intimidating-cultural-appropriation) post, 7 October 2008

@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-06-11
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Research fellowships to rebuild bridges between modern science and Islamic thought
 emoji: 🕌
 tags:
-
-- ➗ Mathematics
-- 🌀 Templeton
-- ⛪ Religion
-- 🌙 Islam
-- ⚕️ Medicine
-  haiku: |
+  - ➗ Mathematics
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌙 Islam
+  - ⚕️ Medicine
+haiku: |
   Bridging faith and science,  
-   In Cambridge's halls, thoughts weave,  
-   New leaders perceive.
+  In Cambridge's halls, thoughts weave,  
+  New leaders perceive.
 
 coordinates: [52.2053, 0.1218]
+---
+
 For the John Templeton Foundation, I wrote about the intersection of modern science and traditional Islamic thought.
 
 > Asim Islam holds a graduate degree in medicine from the University of Cambridge and a Ph.D. in mathematics from Royal Holloway, University of London. He wrote his doctoral thesis on analytic number theory and is currently studying quantum field theory at Imperial College London. But he was also interested in what the Islamic philosophical tradition might contribute to his science-infused questions about the nature of human perception and self-awareness.

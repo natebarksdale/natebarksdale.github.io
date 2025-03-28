@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Blogs as ‘Cabinets of Wonder’
 slug: blogs-as-cabinets-of-wonder
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the concept of blogs as modern-day "cabinets of wonder," a fascinating comparison to Renaissance collections of curiosity.
 emoji: 🏺
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌐 Blogging
-- 🌀 Complexity
-- 📖 Discussions
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌐 Blogging
+  - 🌀 Complexity
+  - 📖 Discussions
+haiku: |
   Cabinets of thought,  
-   Wonders shaped by a vision,  
-   Curios on display.
-  coordinates: [40.7128, -74.0060]
+  Wonders shaped by a vision,  
+  Curios on display.
+coordinates: [40.7128, -74.0060]
+---
 
 I'd have to say, all but the very best blogs probably fall way short of the Wunderkammer standard. Certainly the millions of abandoned Blogger accounts don't amount to much in the way of personal taxonomy. Nor does "a style and order specific to his or her own vision" explain the standardized utility of reading posts in plain old reverse chronological order. a [NYTimes.com Ideas blog](http://ideas.blogs.nytimes.com/2008/11/17/blogs-as-cabinets-of-wonder/) post, 17 November 2008
 

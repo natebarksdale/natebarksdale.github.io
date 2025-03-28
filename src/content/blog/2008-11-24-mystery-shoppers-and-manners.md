@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Mystery (shoppers) and manners
 slug: mystery-shoppers-and-manners
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: An exploration of how churches are adopting consumer marketing strategies to improve engagement and feedback.
 emoji: 📊
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Society
+haiku: |
   In pews, eyes are watched,  
-   The sacred meets the profit,  
-   Faithful crowds survey.
-  coordinates: [40.7128, -74.0060]
+  The sacred meets the profit,  
+  Faithful crowds survey.
+coordinates: [40.7128, -74.0060]
+---
 
 Sometimes does it feel like the most noticeable critiques of religion's co-option of consumer marketing techniques are coming from the non-religious? Though eliciting better feedback for the sake of true hospitality strikes me as one of the Church's better co-option options
 "[God Is Watching; So Are Church Consultants](http://ideas.blogs.nytimes.com/2008/10/12/god-is-watching-so-are-church-consultants/)," [NYTimes.com Ideas blog](http://ideas.blogs.nytimes.com/2008/10/12/god-is-watching-so-are-church-consultants/), 12 October 2008

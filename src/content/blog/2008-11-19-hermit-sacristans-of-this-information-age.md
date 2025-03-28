@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Hermit-sacristans of this information age
 slug: hermit-sacristans-of-this-information-age
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of the multifaceted role of hermits in both historical and contemporary cultures.
 emoji: 🕊️
 tags:
-
-- 🌙 Islam
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Culture
-- 🕊️ Peace
-  haiku: |
+  - 🌙 Islam
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Culture
+  - 🕊️ Peace
+haiku: |
   Silent keepers stand,  
-   In the midst of chaos thrive,  
-   Wisdom lights the path.
-  coordinates: [41.9028, 12.4964]
+  In the midst of chaos thrive,  
+  Wisdom lights the path.
+coordinates: [41.9028, 12.4964]
+---
 
 It's easy to think of the hermit as someone who chooses to remove themselves from culture. While I suppose by Andy's definition it's difficult to make a culture of one, few hermits are truly that alone—nor should they be. There is culture-among-hermits, as in even the most removed contemplative orders; but the hermit's place in the larger culture has often been one not of culture-rejecter but culture-keeper
 

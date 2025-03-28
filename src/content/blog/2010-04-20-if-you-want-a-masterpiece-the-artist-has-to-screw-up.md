@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-04-20
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: If you want a masterpiece, the artist has to screw up
 slug: if-you-want-a-masterpiece-the-artist-has-to-screw-up
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Brian Phillips explores the intricate relationship between human error, storytelling, and the aesthetics of soccer, reflecting on the infamous "Hand of God" goal.
 emoji: ⚽
 tags:
-
-- 💡 Design
-- 🧉 South America
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Choices
-- ⚖️ Law
-- ⚒️ Blacksmiths
-- 🔥 Redemption
-  haiku: |
+  - 💡 Design
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - ⚖️ Law
+  - ⚒️ Blacksmiths
+  - 🔥 Redemption
+haiku: |
   Hand of God, a goal,  
-   Chance and fate weave through the game,  
-   Justice lost in dreams.
-  coordinates: [-34.6037, -58.3816]
+  Chance and fate weave through the game,  
+  Justice lost in dreams.
+coordinates: [-34.6037, -58.3816]
+---
 
 One of the defining moments in the last twenty-five years of world soccer is the infamous (or perhaps [glorious](http://news.bbc.co.uk/sport2/hi/football/2396503.stm)) "[Hand of God](http://en.wikipedia.org/wiki/Argentina_v_England_%281986_FIFA_World_Cup_quarter-final%29#.22Hand_of_God.22_goal)" goal, scored by Diego Maradona in the 1986 England–Argentina World Cup quarterfinal (video [here](http://www.youtube.com/watch?v=TBXZx0Ky4gE&feature=player_embedded#!)). The referee didn't see that Maradona had knocked the ball in with his fist, and so the goal stood. But should it have? If you could go back in time and erase all the mistakes, would soccer be better for it?
 

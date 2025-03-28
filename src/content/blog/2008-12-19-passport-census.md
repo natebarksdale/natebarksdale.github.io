@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Passport census
 slug: passport-census
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the representation of American diversity through its passport imagery.
 emoji: 🇺🇸
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Diversity
-- 🇺🇸 United States
-- 🏞️ National Parks
-- 🎨 Art
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Diversity
+  - 🇺🇸 United States
+  - 🏞️ National Parks
+  - 🎨 Art
+haiku: |
   Icons of our land,  
-   A tapestry of life,  
-   In pages we stand.
-  coordinates: [37.0902, -95.7129]
+  A tapestry of life,  
+  In pages we stand.
+coordinates: [37.0902, -95.7129]
+---
 
 Used to be the passport was (or became, with travel) an album of other countries' weird juxtaposed iconography. For now, though, we can get the same without leaving home
 

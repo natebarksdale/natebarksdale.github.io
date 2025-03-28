@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-17
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:06Z
 title: Marginalia
 slug: marginalia
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on Wendell Berry's thoughts about the importance of margins and wildness in our lives.
 emoji: 🌿
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌍 Ecology
-- 🌍 Environment
-- 🌱 Sustainability
-- ✝️ Christianity
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌍 Ecology
+  - 🌍 Environment
+  - 🌱 Sustainability
+  - ✝️ Christianity
+haiku: |
   Yearning for the wild,  
-   Borders where nature abides,  
-   Balance in our lives.
-  coordinates: [37.8402, -84.3021]
+  Borders where nature abides,  
+  Balance in our lives.
+coordinates: [37.8402, -84.3021]
+---
 
 This year I've joined a reading group at my church; last Sunday the book was an old collection of Wendell Berry's influential agrarian essays. My eleven-year-old nephew sat in on our discussion (he'd read a couple of the essays in preparation), and asked a question that gets to the well-worn stumbling block when it comes to Berry's bracing jeremiads: "But what if I want to be a computer programmer and not a farmer?" There are ways of answering that within the text, but not always satisfyingly. For me, the passage I loved most from the book was this one, the grace-note ending to Berry's essay on wilderness
 

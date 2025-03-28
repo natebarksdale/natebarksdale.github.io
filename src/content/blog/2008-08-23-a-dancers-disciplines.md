@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: A dancer’s disciplines
 slug: a-dancers-disciplines
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: In a thought-provoking talk about the contrast between performing art and the discipline behind it, David Taylor explores the dedication required to master a craft. "Folks
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+haiku: |
   Rigorous training,  
-   Craft and art intertwined,  
-   Freedom through the form.
-  coordinates: [36.1627, -86.7816]
+  Craft and art intertwined,  
+  Freedom through the form.
+coordinates: [36.1627, -86.7816]
+---
 
 There's a wide yet tempting gap between copying or consuming (in this case, passively watching) culture and putting in the practice and discipline to genuinely cultivate and create it
 

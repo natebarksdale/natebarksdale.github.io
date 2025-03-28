@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Abu Ali, Shabbos Goy
 slug: abu-ali-shabbos-goy
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A unique interaction between cultures emerges when a Muslim taxi driver helps observant Jews on the Sabbath.
 emoji: 🚕
 tags:
-
-- ✨ Wonder
-- 🌙 Islam
-- ✡️ Judaism
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ❤️ Kindness
-- 🤝 Altruism
-  haiku: |
+  - ✨ Wonder
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ❤️ Kindness
+  - 🤝 Altruism
+haiku: |
   Midnight streets await,  
-   A driver bridges worlds,  
-   Silent prayers shared.
-  coordinates: [31.771959, 35.217018]
+  A driver bridges worlds,  
+  Silent prayers shared.
+coordinates: [31.771959, 35.217018]
+---
 
 A fascinating fable of cultural connection (and not-quite-connection). I wonder if there's a muslim analogue to this need for folks who don't follow your traditions. Maybe something during Ramadan, though no specifics spring to mind ..
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2017-10-10
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: The Illumination Tour
 slug: the-illumination-tour
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: When what seems like “the ultimate curse” becomes “the ultimate state of being.”
 emoji: 🎥
 tags:
-
-- 🧬 Genetics
-- 🌀 Templeton
-- 🏺 Sculpture
-- ❤️ Resilience
-- 🎥 Film
-  haiku: |
+  - 🧬 Genetics
+  - 🌀 Templeton
+  - 🏺 Sculpture
+  - ❤️ Resilience
+  - 🎥 Film
+haiku: |
   Blindness opens paths,  
-   In darkness, Gund finds his light,  
-   Life's full canvas calls.
-  coordinates: [41.4993, -81.6944]
+  In darkness, Gund finds his light,  
+  Life's full canvas calls.
+coordinates: [41.4993, -81.6944]
+---
 
 For the John Templeton Foundation, I wrote an amazing twist to one man's life story.
 

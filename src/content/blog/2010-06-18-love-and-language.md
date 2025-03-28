@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-18
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Love and language
 slug: love-and-language
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Elif Batuman reflects on her journey through love, literature, and the unexpected choices we make.
 emoji: 📚
 tags:
-
-- ✨ Wonder
-- 🦠 Biology
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- ❤️ Love
-  haiku: |
+  - ✨ Wonder
+  - 🦠 Biology
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - ❤️ Love
+haiku: |
   Chasing written dreams,  
-   Language calls with complex heart,  
-   Love guides every choice.
-  coordinates: [41.0082, 28.9784]
+  Language calls with complex heart,  
+  Love guides every choice.
+coordinates: [41.0082, 28.9784]
+---
 
 I just finished Elif Batuman's delightful, erudite, and hopelessly funny memoir of her love of Russian literature as lived out through seven at-times-harrowing years of comp lit grad school. Elif is a college acquaintance and [sometime correspondent](http://web.archive.org/web/20130216092847/http://www.elifbatuman.net:80/2009/01/13/beards-and-other-outerwear/) of mine, so it's always a double treat to see her writing out in the wider world
 

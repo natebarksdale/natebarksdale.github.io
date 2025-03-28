@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Carbonation nation
 slug: carbonation-nation
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of regional names for soft drinks across the U.S., a fascinating look at linguistic diversity.
 emoji: 🥤
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌐 Blogging
-- 🗣️ Language
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌐 Blogging
+  - 🗣️ Language
+haiku: |
   In each region’s tongue,  
-   A fizzy drink’s name diverges,  
-   Culture in a sip.
-  coordinates: [37.0902, -95.7129]
+  A fizzy drink’s name diverges,  
+  Culture in a sip.
+coordinates: [37.0902, -95.7129]
+---
 
 Results of an online survey which got more than 120,000 answers to the question, "What's your local name for a generic soft drink?" Click through for a slightly-less-shrunken version; the yellow varients are "soda"; the blues are "pop"; the reds are (of course) "coke", the greens are "other" (e.g. "dope," "tonic," and of course "soft drink"). I'd love to see an international version of the survey, with my favorite "cooldrink" predominating in India and elsewhere
 [![image](http://culture-making.com/media/total-county.jpg)](http://strangemaps.wordpress.com/2008/08/18/308-the-pop-vs-soda-map/)

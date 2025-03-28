@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: From NASA to McDonald’s
 slug: from-nasa-to-mcdonalds
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: Laurie Anderson reflects on the transformative power of stepping outside one's own identity and experiences.
 emoji: 🌌
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Identity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Identity
+haiku: |
   Escape the confines,  
-   Voices change in shifting worlds,  
-   Discover the new.
-  coordinates: [34.1478, -118.1445]
+  Voices change in shifting worlds,  
+  Discover the new.
+coordinates: [34.1478, -118.1445]
+---
 
 Performance artist Laurie Anderson on the importance of getting outside your own identity. I love her three-tiered description of how she sees the world
 

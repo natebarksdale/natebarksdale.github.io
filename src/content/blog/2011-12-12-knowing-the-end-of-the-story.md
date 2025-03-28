@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-12-12
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Knowing the end of the story
 slug: knowing-the-end-of-the-story
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: From a study on storytelling, it seems that knowing the outcome can enhance the experience of both short stories and mysteries.
 emoji: 📖
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Society
-- 🎭 Irony
-- 🎉 Celebration
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Society
+  - 🎭 Irony
+  - 🎉 Celebration
+haiku: |
   Spoilers reveal all,  
-   Yet joy blooms in each plot twist,  
-   Stories hold their charm.
-  coordinates: [32.8801, -117.2340]
+  Yet joy blooms in each plot twist,  
+  Stories hold their charm.
+coordinates: [32.8801, -117.2340]
+---
 
 Turns out spoilers may not spoil much after all, at least with short stories. I suspect this might even be true of sporting events—I will often enjoy a game more, and certainly in a more relaxed manner, if I already know how it'll turn out. In any case, I've found that the best stories—and the best games—are often those where you can be told ahead how it's going to work out, but the unfolding of plot or play becomes so engrossing that the finish still comes as a (now thrillingly ironic) surprise.
 

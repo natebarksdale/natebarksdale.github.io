@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: “The food here is awful!”
 slug: the-food-here-is-awful
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Sudhir Venkatesh explores the stark contrasts between a millionaire's experiences and those of a local squatter in Chicago's impoverished neighborhoods.
 emoji: 🍗
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌱 Sustainability
+haiku: |
   In streets of struggle,  
-   Choices limited by need,  
-   Hope in cans and wings.
-  coordinates: [41.8781, -87.6298]
+  Choices limited by need,  
+  Hope in cans and wings.
+coordinates: [41.8781, -87.6298]
+---
 
 Sudhir Venkatesh takes a millionaire on a quest for philanthropic education for a weekend in the Chicago ghettos. The challenge -- which really does sound like something out of a youth group "urban plunge" trip -- was to give the same $20 seed capital to the millionaire and Curtis, a local squatter, and see how each would use the money to get through the weekend
 

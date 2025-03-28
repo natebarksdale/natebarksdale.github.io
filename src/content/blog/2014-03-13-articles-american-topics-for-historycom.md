@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-13
 modDatetime: 2025-03-10 21:39:28+00:00
@@ -10,19 +9,20 @@ draft: False
 description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
 emoji: 📜
 tags:
-
-- 🇭 History.com
-- 🌍 History
-- 🇺🇸 United States
-- ⚒️ Blacksmiths
-- ⚙️ Technology
-- ⚖️ Ethics
-  haiku: |
+  - 🇭 History.com
+  - 🌍 History
+  - 🇺🇸 United States
+  - ⚒️ Blacksmiths
+  - ⚙️ Technology
+  - ⚖️ Ethics
+haiku: |
   Battles fought and won,  
-   Legends of the bold and great,  
-   A nation's story.
+  Legends of the bold and great,  
+  A nation's story.
 
 coordinates: [37.0902, -95.7129]
+---
+
 [![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 
 > My American coverage for History.com's online encyclopedia has provided an interesting range of big topics and interesting minor figures

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Eating clay in Haiti
 slug: eating-clay-in-haiti
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A heartbreaking account of how rising food prices have led to the rise of "mud cakes" in Haiti, a troubling yet culturally significant response to hunger.
 emoji: 🍽️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Haiti
-- ❤️ Charity
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Haiti
+  - ❤️ Charity
+  - 🌱 Sustainability
+haiku: |
   In the sun they mold,  
-   Mud cakes mask the hunger pangs,  
-   Survival, not taste.
-  coordinates: [18.5690, -72.3490]
+  Mud cakes mask the hunger pangs,  
+  Survival, not taste.
+coordinates: [18.5690, -72.3490]
+---
 
 On the one hand this is simple—a heartbreaking example of how rising food prices squeeze out the poorest. But something is lost in the cultural translation, I think—or at least, what's being described is a very culturally specific (and culturally creative) response to local hunger, one involving a complex mini-industry of manufacture and distribution that was around before food costs went up and ushered in a grimmer consumer demand
 

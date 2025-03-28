@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-05-18
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Computer simulations may help tease apart why some aspects of our universe are symmetrical — and some aren’t
 emoji: 🌌
 tags:
-
-- ➗ Mathematics
-- ⚛️ Physics
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🌍 Exploration
-- 🌀 Complexity
-  haiku: |
+  - ➗ Mathematics
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🌍 Exploration
+  - 🌀 Complexity
+haiku: |
   Imperfect cosmos swirls,  
-   Symmetries break, life emerges—  
-   Universes dance.
+  Symmetries break, life emerges—  
+  Universes dance.
 
 coordinates: [-33.8688, 150.6643]
+---
+
 For the John Templeton Foundation, I wrote about the nuanced balance of symmetries that shape our universe.
 
 > We live in a perfectly imperfect universe. The latest findings of cosmology tell us that our universe, like a good pancake batter, has matter and energy distributed in a way that is neither too smooth nor too lumpy. Without a high level of uniformity, all would be black holes, but with complete uniformity, the result would be, says cosmologist Luke Barnes, “a perfectly mathematically lovely universe — with no one in it.”

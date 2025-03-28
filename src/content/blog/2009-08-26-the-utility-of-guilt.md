@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-26
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: The utility of guilt
 slug: the-utility-of-guilt
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of guilt's role in shaping morality and behavior in children and adults alike.
 emoji: 😇
 tags:
-
-- ✡️ Judaism
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Choices
-- ❤️ Forgiveness
-- ❤️ Kindness
-  haiku: |
+  - ✡️ Judaism
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - ❤️ Forgiveness
+  - ❤️ Kindness
+haiku: |
   Guilt shapes our spirit,  
-   Guiding us through right and wrong,  
-   A path to atone.
-  coordinates: [41.6611, -91.5302]
+  Guiding us through right and wrong,  
+  A path to atone.
+coordinates: [41.6611, -91.5302]
+---
 
 Guilt's benefits, in ascending order: it keeps us from being sociopaths; reminds us that we shouldn't do bad things and that when we do we should make (or seek) amends; and it may serve as a proxy for self-control, making possible the growth and development befitting a genuine fruit of the spirit
 

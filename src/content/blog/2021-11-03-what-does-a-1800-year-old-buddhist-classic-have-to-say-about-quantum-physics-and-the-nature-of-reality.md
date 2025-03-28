@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-11-03
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: What Does a 1,800-year-old Buddhist Classic Have to Say about Quantum Physics and the Nature of Reality?
 slug: what-does-a-1800-year-old-buddhist-classic-have-to-say-about-quantum-physics-and-the-nature-of-reality
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A renowned physicist discusses the philosophy of emptiness with the Dalai Lama’s doctor
 emoji: 🌀
 tags:
-
-- ⚛️ Physics
-- 🍷 Europe
-- 🌀 Templeton
-- 🔍 Uncertainty
-- 🧠 Neuroscience
-- ⛪ Religion
-  haiku: |
+  - ⚛️ Physics
+  - 🍷 Europe
+  - 🌀 Templeton
+  - 🔍 Uncertainty
+  - 🧠 Neuroscience
+  - ⛪ Religion
+haiku: |
   Ancient thoughts weave through  
-   Quantum realms and Middle Way,  
-   Reality's dance.
-  coordinates: [48.2082, 16.3738]
+  Quantum realms and Middle Way,  
+  Reality's dance.
+coordinates: [48.2082, 16.3738]
+---
 
 For the John Templeton Foundation, I wrote about an engaging dialogue between an Italian physicist and the Dalai Lama's personal physician.
 

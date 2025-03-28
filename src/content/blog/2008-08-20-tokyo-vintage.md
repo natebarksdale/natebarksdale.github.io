@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Tokyo vintage
 slug: tokyo-vintage
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the fascinating interconnection of vintage fashion between Tokyo and Hollywood.
 emoji: 🧥
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🇯🇵 Japan
-- 👕 Clothes
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🇯🇵 Japan
+  - 👕 Clothes
+haiku: |
   From past styles reborn,  
-   Tokyo's treasure troves shine,  
-   Memories in thread.
-  coordinates: [35.6762, 139.6503]
+  Tokyo's treasure troves shine,  
+  Memories in thread.
+coordinates: [35.6762, 139.6503]
+---
 
 I guess the transcontinental vintage clothing trade counts as a form of cultivating culture: pruning, honing, preserving (and, oh yeah, marking up the price). It's nice to know Westerners can go to Tokyo to experience a version of both our near-future (technology-wise) and the not-too-distant past
 

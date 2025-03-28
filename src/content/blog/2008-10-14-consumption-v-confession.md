@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Consumption v. confession
 slug: consumption-v-confession
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of the shifting practices in Catholic confession and the Eucharist.
 emoji: ⛪
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ⚖️ Ethics
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ⚖️ Ethics
+haiku: |
   Sacred vows once held,  
-   Our hearts now seek ease and time,  
-   Work forgotten, grace.
-  coordinates: [40.7128, -74.0060]
+  Our hearts now seek ease and time,  
+  Work forgotten, grace.
+coordinates: [40.7128, -74.0060]
+---
 
 A century ago, it was common for practicing Catholics to only accept the Eucharist once a year, but to go to confession regularly. Now, apparently, it's just the opposite. The reasons behind this are myriad, of course, but at least part of gets at Andy's idea of a posture of cultural consumption supplanting the sorts of disciplines that must be cultivated with diligence and work
 

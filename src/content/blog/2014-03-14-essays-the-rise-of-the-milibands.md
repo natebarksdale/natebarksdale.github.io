@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-14
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Exploring the sibling rivalry of Ed and David Miliband, a tale of ambition and political legacy.
 emoji: ⚔️
 tags:
-
-- 🗣🗣️ Language
-- 🇬🇧 London
-- 🗳️ Elections
-- 🤝 Families
-- 👪 Parents
-  haiku: |
+  - 🗣🗣️ Language
+  - 🇬🇧 London
+  - 🗳️ Elections
+  - 🤝 Families
+  - 👪 Parents
+haiku: |
   Brothers in the fray,  
-   Shadows cast on leadership,  
-   Politics divides.
+  Shadows cast on leadership,  
+  Politics divides.
 
 coordinates: [51.5074, -0.1278]
+---
+
 [![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _In which I write about, naturally, Labour Party Politics. A big shout-out to my fiancee Jeannie Rose, who reviewed tons of YouTube videos to help me nail just the right body language descriptions of the brothers Miliband._

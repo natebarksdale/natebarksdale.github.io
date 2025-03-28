@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Cathedral, by David LaChapelle
 slug: cathedral-by-david-lachapelle
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on LaChapelle's art, where churches become ships with complex narratives.
 emoji: ⛪
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🕌 Monuments
-- 🌍 Culture
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🕌 Monuments
+  - 🌍 Culture
+haiku: |
   A nave like a ship,  
-   Capturing complex stories,  
-   Faith sails through the night.
-  coordinates: [19.4326, -99.1332]
+  Capturing complex stories,  
+  Faith sails through the night.
+coordinates: [19.4326, -99.1332]
+---
 
 As with many of LaChapelle's lavish staged photographic tableaux, this invites multiple (and probably contradictory, not to mention uncomfortable) readings. But I do like this piece: I'm always attracted to the imagery of churches as ships—every catherdal, after all, has its nave
 [![photo](http://culture-making.com/media/MexicoExhibition_SaveTheDate.jpg)](http://www.davidlachapelle.com/home.html)

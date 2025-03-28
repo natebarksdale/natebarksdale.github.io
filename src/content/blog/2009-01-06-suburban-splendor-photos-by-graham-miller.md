@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Suburban Splendor, photos by Graham Miller
 slug: suburban-splendor-photos-by-graham-miller
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: I love how this guy looks like he's stepped right out of the lead in an old-school cinematic Biblical epic.
 emoji: 🎬
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🎥 Film
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🎥 Film
+haiku: |
   Man of ancient grace,  
-   In suburbia he stands,  
-   Epic tales retold.
-  coordinates: [-31.9505, 115.8605]
+  In suburbia he stands,  
+  Epic tales retold.
+coordinates: [-31.9505, 115.8605]
+---
 
 I love how this guy looks like he's stepped right out of the lead in an old-school cinematic Biblical epic
 [![photo](http://culture-making.com/media/1229090867.jpg)](http://www.grahammiller.com.au/?goto=suburban-splendour&thumbs=ok)

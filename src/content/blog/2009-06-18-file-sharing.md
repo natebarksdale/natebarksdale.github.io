@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-18
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:31:59Z
 title: File sharing
 slug: file-sharing
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A fascinating glimpse into exclusive listening parties where music meets community in a cozy setting.
 emoji: 🎧
 tags:
-
-- 🌍 Culture-Making.com
-- 🎵 Music
-- 🌆 Brooklyn
-- 🌍 Society
-- 🌐 Blogging
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - 🌆 Brooklyn
+  - 🌍 Society
+  - 🌐 Blogging
+haiku: |
   In quiet whispers,  
-   Music shared in secret,  
-   Winter's lonely tune.
-  coordinates: [40.6740, -73.9580]
+  Music shared in secret,  
+  Winter's lonely tune.
+coordinates: [40.6740, -73.9580]
+---
 
 What's interesting is that, despite the obvious and lovely social aspects—greeting, eating, conversation—of these listening parties, the listening itself is done with headphones and in quiet, allowing the listener be alone with the music. an [MBV](http://www.mbvmusic.com/exclusive-sufjan-stevens-track/10557) post by Ryan Catbird, 15 June 2009
 

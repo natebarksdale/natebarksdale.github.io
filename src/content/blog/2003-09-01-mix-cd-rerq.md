@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2003-09-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | reRQ
 slug: mix-cd-rerq
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Reflecting on the art of mix-making and its connection to magazine creation.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 💡 Design
-- 🌐 Blogging
-- 🎵 Mix CDs
-- ✍️ Literature
-- 📝 Writing
-- 📖 Articles
-  haiku: |
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🌐 Blogging
+  - 🎵 Mix CDs
+  - ✍️ Literature
+  - 📝 Writing
+  - 📖 Articles
+haiku: |
   Melodies and notes,  
-   A magazine in music,  
-   Creative echoes.
-  coordinates: [38.9072, -77.0369]
+  A magazine in music,  
+  Creative echoes.
+coordinates: [38.9072, -77.0369]
+---
 
 #### Wimbo Zuri Catalog No. 006.1A03-1
 

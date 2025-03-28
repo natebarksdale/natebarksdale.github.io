@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: The root of real honor
 slug: the-root-of-real-honor
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the sacredness of family and honor, drawing from a profound narrative in _Gilead_.
 emoji: 🙏
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Bible
-- ⛪ Religion
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Bible
+  - ⛪ Religion
+  - 🌍 Culture
+haiku: |
   Sacred, honored souls,  
-   Set apart in love's embrace,  
-   Wisdom in kindness.
-  coordinates: [40.5881, -93.6062]
+  Set apart in love's embrace,  
+  Wisdom in kindness.
+coordinates: [40.5881, -93.6062]
+---
 
 My method for remembering which pages of _Gilead_ contained not just great and thoughtful narrative but _Culture Making_ -worthy quotes was this: I remembered a phrase from the Psalm of the particular page's number. So I thought, "you have searched me and you known me," and was thus able to find this quote again. I don't know what I would have done if I'd wanted to excerpt something that came after page 150 ..
 

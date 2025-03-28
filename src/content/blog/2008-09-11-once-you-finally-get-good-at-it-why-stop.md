@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-11
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Once you finally get good at it, why stop?
 slug: once-you-finally-get-good-at-it-why-stop
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of why many architects continue working well into their later years, highlighting the parallels between their professional longevity and the enduring nature of the buildings they create.
 emoji: 🏛️
 tags:
-
-- ✨ Wonder
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- 🏛️ Architecture
-- 📖 Biographies
-- 💡 Innovation
-  haiku: |
+  - ✨ Wonder
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - 🏛️ Architecture
+  - 📖 Biographies
+  - 💡 Innovation
+haiku: |
   Mastery takes time,  
-   Designs from age and wisdom,  
-   Structures stand steadfast.
-  coordinates: [37.0902, -95.7129]
+  Designs from age and wisdom,  
+  Structures stand steadfast.
+coordinates: [37.0902, -95.7129]
+---
 
 I wonder if it's that architects in general tend not to retire, or if it's just the well-known, successful ones? It is comforting that longetivity in architects and longevity in buildings would seem to be such parallel values—though in this age of teardowns, many architects are probably outlasting their own creations
 

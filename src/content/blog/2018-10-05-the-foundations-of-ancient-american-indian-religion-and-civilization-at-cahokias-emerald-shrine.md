@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-10-05
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,17 +9,18 @@ draft: False
 description: A remote religious site offers clues about the birth of a unique North American metropolis
 emoji: 🌾
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- ⛪ Religion
-- 🌍 Indigenous Culture
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌍 Indigenous Culture
+haiku: |
   Ancient city thrives,  
-   Mounds rise where the spirits speak,  
-   Roads link sacred sites.
+  Mounds rise where the spirits speak,  
+  Roads link sacred sites.
 
 coordinates: [38.655, -90.0594]
+---
+
 For the John Templeton Foundation, I wrote about the spiritual and urban landscape of ancient Cahokia.
 
 > A little less than a thousand years ago, groups of Native Americans gathered near the Mississippi River in present-day Illinois to build a settlement of unprecedented size. “It’s an unusual phenomenon — a city in the middle of a continent without cities,” says Tim Pauketat, an archaeologist at the University of Illinois who has spent years studying the site, which was named in modern times for the unrelated Cahokia Indian tribe. According to the latest archaeological findings, Cahokia had three main precincts in an area of around 20 square kilometers, and at its peak was home to as many as 20,000 people. The countryside around the urban center was also heavily populated, with around 40,000 living within 40 kilometers of the city. The most obvious and lasting signs of the Cahokia’s civilization are the remains of more than 200 earthen mounds that served as platforms for many of the city’s buildings.

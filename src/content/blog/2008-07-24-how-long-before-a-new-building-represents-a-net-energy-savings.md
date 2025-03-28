@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: How long before a new building represents a net energy savings?
 slug: how-long-before-a-new-building-represents-a-net-energy-savings
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An embodied-energy argument against teardowns.
 emoji: ♻️
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🛠️ DIY
-- 🏗️ Construction
-- 🌱 Growth
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🛠️ DIY
+  - 🏗️ Construction
+  - 🌱 Growth
+haiku: |
   Old walls hold stories,  
-   Energy locked within them,  
-   New dreams may waste light.
-  coordinates: [37.7749, -122.4194]
+  Energy locked within them,  
+  New dreams may waste light.
+coordinates: [37.7749, -122.4194]
+---
 
 An embodied-energy argument against teardowns. I'd love to see my economist friends take a whack at this idea, factoring in the opportunity costs of spending more money to keep an old building going
 a [kottke.org](http://www.kottke.org/remainder/08/07/16110.html) post, 23 July 2008

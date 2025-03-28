@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-09-23
 modDatetime: 2025-03-17
@@ -10,17 +9,18 @@ draft: False
 description: Paul Davies explores the universe's deepest mysteries, from the origins of the cosmos to the possibility of time travel, in his latest thought-provoking book.
 emoji: 🌌
 tags:
-
-- 🌀 Templeton
-- 🌌 Astronomy
-- 📖 Books
-- 🧠 Psychology
-  haiku: |
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 📖 Books
+  - 🧠 Psychology
+haiku: |
   Cosmic questions loom,  
-   Dark sky whispers ancient tales,  
-   Universe consumes.
+  Dark sky whispers ancient tales,  
+  Universe consumes.
 
 coordinates: [33.424564, -111.928001]
+---
+
 For the John Templeton Foundation, I got to talk to theoretical physicist and cosmologist Paul Davies.
 
 > _You’ve now written more than two dozen books explaining cutting-edge science to the general public. What’s new in the latest one?_

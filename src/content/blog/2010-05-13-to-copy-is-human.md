@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-13
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: To copy is human
 slug: to-copy-is-human
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: This study explores how humans' tendency to overimitate may be key to cultural transmission, distinguishing us from other animals in learning methods.
 emoji: 🧒
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 👦 Imagination
-- 🧠 Psychology
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 👦 Imagination
+  - 🧠 Psychology
+haiku: |
   Children mimic all,  
-   Every step, the dance of life,  
-   Culture softly shapes.
-  coordinates: [-27.4705, 153.0260]
+  Every step, the dance of life,  
+  Culture softly shapes.
+coordinates: [-27.4705, 153.0260]
+---
 
 The author of this study's theory is that this penchant for overimitation may be crucial to humans' ability to create and transmit culture. For us, "it is knowing the way things are done, not what gets done, that is important
 

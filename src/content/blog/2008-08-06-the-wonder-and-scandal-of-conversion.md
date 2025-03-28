@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: The wonder (and scandal) of conversion
 slug: the-wonder-and-scandal-of-conversion
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: An exploration of the complex nature of conversion and identity, illustrated through Jennie Baker's experience with Orthodoxy in England.
 emoji: 🕊️
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ⚖️ Ethics
-- ⚖️ Choices
-- 🌍 Culture
-- 🙏 Faith
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 🙏 Faith
+haiku: |
   In sacred moments,  
-   Foreign feels like coming home,  
-   Deep truths resonate.
-  coordinates: [51.4779, -0.0015]
+  Foreign feels like coming home,  
+  Deep truths resonate.
+coordinates: [51.4779, -0.0015]
+---
 
 Of course, as the second half of the article notes, conversion is not always so easy -- as the passage of recent anti-conversion laws (and an uptick in persecution) in many regions of India make clear. I've always found it interesting how the English-language press in India invariably uses the passive voice to describe it -- "he was converted to Christianity" -- rather than the perky individualist western-style active: "he converted." One can find echoes to this in different attitudes towards western-individualist choises about marriage, career, etc
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-17
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:02Z
 title: The dude uniform
 slug: the-dude-uniform
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Observing the curious fashion choices of Mumbai's men, I couldn't help but notice the striking contrast in style between the genders.
 emoji: 🎭
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌆 Urban Spaces
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌆 Urban Spaces
+haiku: |
   Colors clash and shine,  
-   Men in disco dreams display,  
-   Saris steal the show.
-  coordinates: [19.0760, 72.8777]
+  Men in disco dreams display,  
+  Saris steal the show.
+coordinates: [19.0760, 72.8777]
+---
 
 A funny letter from Mumbai about observing everyday Indian fashion. There's a nice bit about distinguishing saris, but aspects of the male wardrobe bear the brunt of the critique. I find myself concurring but wonder why it's so: perhaps because their outfits are more western-yet-not-quite-western? Or a cultural openness to the exotic feminine but not the exotic masculine? If I had to describe my combined impressions of Bollywood actresses in a word it would be "stunning"; for the actors, the word would probably be "goofy." Clearly there's a lot going on there in terms of my own sense of gender, culture, taste, and prejudice
 

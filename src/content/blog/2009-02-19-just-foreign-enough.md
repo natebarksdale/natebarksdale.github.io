@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-19
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Just foreign enough
 slug: just-foreign-enough
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Exploring the vital role of translation amidst cultural exchange and linguistic nuances.
 emoji: 🌍
 tags:
-
-- ✨ Wonder
-- 📖 Bible
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ✍️ Translation
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - ✨ Wonder
+  - 📖 Bible
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ✍️ Translation
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Between the languages,  
-   Words of distant lands converge,  
-   Stories find their home.
-  coordinates: [38.8951, -77.0364]
+  Words of distant lands converge,  
+  Stories find their home.
+coordinates: [38.8951, -77.0364]
+---
 
 Twenty-five percent of books published each year in Spain are translations; compare that to less than four percent in the USA. Of course, with a rising generation of writers from bilingual and immigrant backgrounds, other cultures are still coming to us and (with shifts in fashion) being read and lauded. But it's not the same thing as true translation, this essayist (herself bilingual) writes
 

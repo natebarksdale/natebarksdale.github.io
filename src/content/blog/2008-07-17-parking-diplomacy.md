@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-17
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Parking diplomacy
 slug: parking-diplomacy
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of creative solutions to the challenges posed by neglected embassy properties.
 emoji: 🚗
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- 🏛️ Government
-- 🚨 Warnings
-- 🛠️ DIY
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - 🏛️ Government
+  - 🚨 Warnings
+  - 🛠️ DIY
+haiku: |
   Abandoned buildings,  
-   Grass cut by eager hands,  
-   Parking perks emerge.
-  coordinates: [38.8951, -77.0364]
+  Grass cut by eager hands,  
+  Parking perks emerge.
+coordinates: [38.8951, -77.0364]
+---
 
 Technically he's leaving his car on African soil. The strange rules of diplomatic privilige and structural neglect
 

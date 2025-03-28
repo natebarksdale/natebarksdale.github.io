@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-02
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: The trouble with interesting
 slug: the-trouble-with-interesting
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Reflecting on Walker Percy's exploration of modern emotions, particularly the shift from genuine feelings to mere interest and boredom.
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🗳️ Politics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🗳️ Politics
+haiku: |
   In a world of sighs,  
-   Boredom glazes over hearts,  
-   Interest is the cure.
-  coordinates: [30.4124, -89.1896]
+  Boredom glazes over hearts,  
+  Interest is the cure.
+coordinates: [30.4124, -89.1896]
+---
 
 Granted, these are the words of Walker Percy's least likable (and most sociopathic) protagonist. But it's the line from _Lancelot_ that spurred me to reread it yet again. I'd actually recalled it a little differently: noting the shift from valuing things based on whether we thought they were good or bad, to whether they are interesting or boring
 

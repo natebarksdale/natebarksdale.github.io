@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-09
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Six days shalt thou offer unmatched prices and customer service
 slug: six-days-shalt-thou-offer-unmatched-prices-and-customer-service
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Fascinating trivia (and not-so-trivia) about one of the iconic advertisers of my video-camera-obsessed early adolescenceH; is not just a camera store; it's a fascinating blend of personal service, community values, and unique business practices.
 emoji: 🕍
 tags:
-
-- ✡️ Judaism
-- 🌍 Culture-Making.com
-- 💼 Business
-- 🗳️ Politics
-- 🖋️ Commentary
-  haiku: |
+  - ✡️ Judaism
+  - 🌍 Culture-Making.com
+  - 💼 Business
+  - 🗳️ Politics
+  - 🖋️ Commentary
+haiku: |
   Closed on the Sabbath,  
-   Weighing value in each choice,  
-   Trust grows in a room.
-  coordinates: [40.7128, -74.0060]
+  Weighing value in each choice,  
+  Trust grows in a room.
+coordinates: [40.7128, -74.0060]
+---
 
 Fascinating trivia (and not-so-trivia) about one of the iconic advertisers of my video-camera-obsessed early adolescence
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Chicken à la Queens
 slug: chicken-a-la-queens
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A halal poultry store in Queens creates unexpected connections among diverse communities.
 emoji: 🐔
 tags:
-
-- 🦠 Biology
-- 🌙 Islam
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Diversity
-  haiku: |
+  - 🦠 Biology
+  - 🌙 Islam
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Diversity
+haiku: |
   Chicken on the shelves,  
-   Cultures blend, flavors unite,  
-   Home in every dish.
-  coordinates: [40.6768, -73.8049]
+  Cultures blend, flavors unite,  
+  Home in every dish.
+coordinates: [40.6768, -73.8049]
+---
 
 A neighborhood halal poultry store inadvertently serves a surprising intersection of communities
 

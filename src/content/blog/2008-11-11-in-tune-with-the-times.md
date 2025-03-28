@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-11
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:47Z
 title: In tune with the times
 slug: in-tune-with-the-times
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: From Barry Gewen's review, a deep exploration of how equal temperament has shaped Western music and its cultural implications.
 emoji: 🎹
 tags:
-
-- ➗ Mathematics
-- 🌍 Culture-Making.com
-- 🎶 Sounds
-- 🌍 Culture
-- 📝 Writing
-- ⚖️ Choices
-  haiku: |
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
+  - 🎶 Sounds
+  - 🌍 Culture
+  - 📝 Writing
+  - ⚖️ Choices
+haiku: |
   Equal keys align,  
-   Harmony feels the strain,  
-   Cultures intertwine.
-  coordinates: [40.7128, -74.0060]
+  Harmony feels the strain,  
+  Cultures intertwine.
+coordinates: [40.7128, -74.0060]
+---
 
 Unintended consequences of the [Well-Tempered Clavier](http://en.wikipedia.org/wiki/Well-Tempered_Clavier)
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-20
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Nothing succeeds like failure?
 slug: nothing-succeeds-like-failure
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The persistence of quack medicine highlights the complexities of belief and human psychology in health practices.
 emoji: 🤔
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Culture
-- 🔍 Discoveries
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Culture
+  - 🔍 Discoveries
+  - ⚖️ Ethics
+haiku: |
   Cures that deceive us,  
-   Folk tales weave through science,  
-   Truth lost in the mist.
-  coordinates: [-25.2744, 133.7751]
+  Folk tales weave through science,  
+  Truth lost in the mist.
+coordinates: [-25.2744, 133.7751]
+---
 
 I find this hypothesis to be a little too clean, a bit of wishfully rationalistic sleight of hand that ignores the huge role that psychology, folklore, and culture in general play in forming people's approaches to medicine. Incidentally, [snake oil has gotten a bad rap](http://www.scientificamerican.com/article.cfm?id=snake-oil-salesmen-knew-something), says _Scientific American_. "[Quack Cures Live On by Failing](http://ideas.blogs.nytimes.com/)," the [NYTimes.com Idea of the Day Blog](http://ideas.blogs.nytimes.com/) post for 19 May 2009
 

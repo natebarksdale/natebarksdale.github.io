@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-04
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: An archipelago of churches, one pebble at a time
 slug: an-archipelago-of-churches-one-pebble-at-a-time
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An incredible account of a unique tradition in Montenegro's Bay of Kotor, where devotion and geology intertwine through the art of throwing stones into the sea.
 emoji: ⛪
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Culture
-- 🌍 History
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Culture
+  - 🌍 History
+haiku: |
   Stones by the sunset  
-   Faith builds new land on waves  
-   Rocks of history
-  coordinates: [42.4862, 18.6902]
+  Faith builds new land on waves  
+  Rocks of history
+coordinates: [42.4862, 18.6902]
+---
 
 A great example of long-form culture making, from an island church in Montenegro's [Bay of Kotor](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=kotor&sll=42.367676,19.146423&sspn=0.691981,1.476288&ie=UTF8&hq=&hnear=Kotor,+Montenegro&ll=42.486213,18.690169&spn=0.002698,0.005767&t=h&z=18)
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-19
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: Flinty and grassy with finesse and subtlety
 slug: flinty-and-grassy-with-finesse-and-subtlety
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: From Beth Ann Fennelly, a look at how soil influences our food and our lives through the practice of geophagy.
 emoji: 🌱
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌱 Sustainability
-- 🌾 Agriculture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌱 Sustainability
+  - 🌾 Agriculture
+haiku: |
   Smell of the earth calls,  
-   Flavors in the soil linger,  
-   Nourished by the ground.
-  coordinates: [37.7749, -122.4194]
+  Flavors in the soil linger,  
+  Nourished by the ground.
+coordinates: [37.7749, -122.4194]
+---
 
 From an essay on the culture and history of dirt-eating, often undertaken by pregnant women (presumably craving specific needed minerals), but until recently surprisingly widespread. "In the 1970s, fifty percent of Black women admitted to eating clay, about four times the frequency among white women ..." I like the idea outlined below, of sniffing the soil and then tasting produce grown in it
 

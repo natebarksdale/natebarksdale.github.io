@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-23
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: All the countries that’re fit to print
 slug: all-the-countries-thatre-fit-to-print
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An observation on the media coverage of countries located in the interior of continents.
 emoji: 🌍
 tags:
-
-- 🍷 Europe
-- 🧉 South America
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Globalization
-- 🌍 Society
-- 📰 Media
-  haiku: |
+  - 🍷 Europe
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Globalization
+  - 🌍 Society
+  - 📰 Media
+haiku: |
   Vast lands untold,  
-   In the heart of the world,  
-   Silence echoes wide.
-  coordinates: [-1.0000, 15.0000]
+  In the heart of the world,  
+  Silence echoes wide.
+coordinates: [-1.0000, 15.0000]
+---
 
 With the exception of Mongolia, countries near the interior of their respective continents seem to get a lot less coverage: Paraguay, Hungary, Congo and Niger
 [![image](http://www.culture-making.com/media/080721_nytimes1.jpg)](http://www.verysmallarray.com/?p=527)

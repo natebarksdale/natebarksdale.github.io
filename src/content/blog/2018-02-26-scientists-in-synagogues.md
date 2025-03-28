@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-02-26
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Scientists in Synagogues
 slug: scientists-in-synagogues
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Inviting Jewish congregations to explore awe, curiosity and wonder through the lens of science
 emoji: 🔬
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- ⚙️ Technology
-- ✡️ Judaism
-- ⚖️ Ethics
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - ⚙️ Technology
+  - ✡️ Judaism
+  - ⚖️ Ethics
+haiku: |
   AI blends with faith's light,  
-   Old wisdom meets new queries,  
-   Synagogue hosts thought.
-  coordinates: [42.337041, -71.209221]
+  Old wisdom meets new queries,  
+  Synagogue hosts thought.
+coordinates: [42.337041, -71.209221]
+---
 
 For the John Templeton Foundation, I wrote about the intriguing intersection of modern science and ancient Jewish teachings.
 

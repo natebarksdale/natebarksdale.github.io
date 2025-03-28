@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2015-02-19
 modDatetime: 2025-03-10 21:39:29+00:00
@@ -10,18 +9,18 @@ draft: False
 description: In an exciting update to the History HERE app, I've contributed to the launch of version 3.0, which includes seven new historical tours.
 emoji: 🗺️
 tags:
-
-- 📁 Portfolio
-- 🌍 History
-- 🌆 Cities
-- 🌐 Blogging
-- 📖 Articles
-  haiku: |
+  - 📁 Portfolio
+  - 🌍 History
+  - 🌆 Cities
+  - 🌐 Blogging
+  - 📖 Articles
+haiku: |
   Explore the past  
-   With tours that guide the way  
-   History unveiled
+  With tours that guide the way  
+  History unveiled
 
 coordinates: [37.7749, -122.4194]
+---
 
 ## Sad but true, the History Here app is no longer available or functional. What times we had!
 

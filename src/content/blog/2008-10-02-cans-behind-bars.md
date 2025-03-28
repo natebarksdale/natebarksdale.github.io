@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Cans behind bars
 slug: cans-behind-bars
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Here's a fascinating look into the unique economy of American prisons, where canned mackerel serves as a form of currency.
 emoji: 🐟
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 💰 Commerce
-- ⚖️ Law
-- ⚠️ Danger
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 💰 Commerce
+  - ⚖️ Law
+  - ⚠️ Danger
+haiku: |
   Canned fish as payment,  
-   Barter in a locked-up world,  
-   Value in the can.
-  coordinates: [34.7333, -120.6178]
+  Barter in a locked-up world,  
+  Value in the can.
+coordinates: [34.7333, -120.6178]
+---
 
 A great example of culture-making in America's prisons. Canned mackeral's value as a currency (as opposed to just a means of barter) is apparently that a) it's cheap, and b) few inmates actually want to eat it
 

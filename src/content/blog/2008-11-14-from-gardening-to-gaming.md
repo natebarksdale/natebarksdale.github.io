@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-14
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: From gardening to gaming
 slug: from-gardening-to-gaming
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: This piece contrasts the violent gaming landscape with the nurturing, creative visions of renowned designer Shigeru Miyamoto.
 emoji: 🌱
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ❤️ Kindness
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ❤️ Kindness
+haiku: |
   Nature's soft embrace,  
-   Gaming shifts from fight to grow,  
-   Peace in each new bloom.
-  coordinates: [40.7128, -74.0060]
+  Gaming shifts from fight to grow,  
+  Peace in each new bloom.
+coordinates: [40.7128, -74.0060]
+---
 
 A few weeks ago I enjoyed the New Yorker's [article about video game designer CliffyB](http://www.newyorker.com/reporting/2008/11/03/081103fa_fact_bissell?currentPage=all), presenting his opus "Gears of War" as an intriguing combination of close-second-person shooter violence and an emotionally nuanced backstory (though after actually watching the [Gears of War preview](http://www.youtube.com/watch?v=ccWrbGEFgI8), rather than just reading the prose, had me less intrigued: it's still a pretty steep shooting-to-nuance ratio). Maybe I'd do better investigating the cultivation-games described in this profile of "the Walt Disney of game design," Shigeru Miyamoto
 

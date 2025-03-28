@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-28
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: Plundering tradition for helpful tips
 slug: plundering-tradition-for-helpful-tips
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on how the pursuit of happiness may overshadow the deeper wisdom of ancient traditions.
 emoji: 🍂
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 🌍 Culture
-- 🙏 Mindfulness
-- ⚖️ Ethics
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 🌍 Culture
+  - 🙏 Mindfulness
+  - ⚖️ Ethics
+haiku: |
   Shallow joy pursued,  
-   Wisdom's depths lost to soft thrills,  
-   Flourishing neglected.
-  coordinates: [51.5085, -0.1257]
+  Wisdom's depths lost to soft thrills,  
+  Flourishing neglected.
+coordinates: [51.5085, -0.1257]
+---
 
 Cultures large and small always adopt helpful bits from outside and from what came before. Twas ever thus, so I wonder whether worries like the ones expressed below are a response to a meaningful shift in the way we explore our own and others' traditions, or just expressions of an eternally present, eternally corrective complaint
 

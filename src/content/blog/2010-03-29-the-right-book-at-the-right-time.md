@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-29
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: The right book at the right time
 slug: the-right-book-at-the-right-time
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A fascinating journey unfolds as Tété-Michel Kpomassie escapes a jungle snake cult in Togo and embarks on his dream to experience the icy landscapes of Greenland.
 emoji: 🌍
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 📖 Books
-- 🌍 Exploration
-- 🌍 Culture
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 📖 Books
+  - 🌍 Exploration
+  - 🌍 Culture
+haiku: |
   A dream to escape,  
-   From jungles to icy shores,  
-   Silence of the ice.
-  coordinates: [72.0000, -40.0000]
+  From jungles to icy shores,  
+  Silence of the ice.
+coordinates: [72.0000, -40.0000]
+---
 
 Ah, the life-changing power of the right book at the right time. The reissue of [An African in Greenland](https://www.google.com/search?q=%22An%20African%20in%20Greenland%22%20amazon.com) moves right to the top of my travel writing to-read list. a [Futility Closet](<http://www.futilitycloset.com/2010/03/15/northern-exposure/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+FutilityCloset+(Futility+Closet)&utm_content=Google+Reader>) post by Greg Ross, 15 March 2010
 

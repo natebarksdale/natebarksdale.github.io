@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: The perils of measurement
 slug: the-perils-of-measurement
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the implications of measurement in various contexts, invoking the Heisenberg uncertainty principle.
 emoji: ⚖️
 tags:
-
-- ⚛️ Physics
-- 🌍 Culture-Making.com
-- 🔍 Uncertainty
-- 📊 Statistics
-  haiku: |
+  - ⚛️ Physics
+  - 🌍 Culture-Making.com
+  - 🔍 Uncertainty
+  - 📊 Statistics
+haiku: |
   Knowing brings a cost,  
-   Truth obscured by measurement,  
-   Chaos lies beneath.
-  coordinates: [34.0522, -118.2437]
+  Truth obscured by measurement,  
+  Chaos lies beneath.
+coordinates: [34.0522, -118.2437]
+---
 
 What does measuring something make possible? What does it make impossible? Ah, the ease of trotting out the [Heisenberg uncertainty principle](http://en.wikipedia.org/wiki/Uncertainty_principle) for all sorts of non-quantum physics applications
 [![image](http://culture-making.com/media/decline.jpg)](http://xkcd.com/523/)

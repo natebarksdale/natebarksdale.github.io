@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-08
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Crosstown crosswords
 slug: crosstown-crosswords
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A creative urban project in Lvov, Ukraine turns a blank building face into an interactive crossword puzzle for both locals and visitors.
 emoji: 🧩
 tags:
-
-- 💡 Design
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-- 🎨 Art
-- 🌆 Cities
-  haiku: |
+  - 💡 Design
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+  - 🎨 Art
+  - 🌆 Cities
+haiku: |
   A city’s bright game,  
-   Puzzles glimmer in the night,  
-   Walk, think, solve, delight.
-  coordinates: [49.8397, 24.0297]
+  Puzzles glimmer in the night,  
+  Walk, think, solve, delight.
+coordinates: [49.8397, 24.0297]
+---
 
 A pretty cool use of a blank Ukrainian building face. Though the symmetrical black squares do call to mind a combination of Tetris and Space Invaders—I'm not sure if that's an asset or not
 

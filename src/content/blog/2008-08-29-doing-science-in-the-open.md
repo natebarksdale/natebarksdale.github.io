@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Doing science in the open
 slug: doing-science-in-the-open
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Barry Canton advocates for transparency in science by sharing his research openly online, challenging traditional academic norms.
 emoji: 🌐
 tags:
-
-- 🦠 Biology
-- 🌍 Culture-Making.com
-- 💡 Innovation
-- 🤝 Collaboration
-  haiku: |
+  - 🦠 Biology
+  - 🌍 Culture-Making.com
+  - 💡 Innovation
+  - 🤝 Collaboration
+haiku: |
   Knowledge on display,  
-   Young minds embrace the new ways,  
-   Openness in science.
-  coordinates: [42.3601, -71.0942]
+  Young minds embrace the new ways,  
+  Openness in science.
+coordinates: [42.3601, -71.0942]
+---
 
 A challenge to the culture of peer-reviewed scientific authority (and secrecy). Not surprisingly, the traditionalists don't think this premature openness is such a good idea, partly because of how it might change the way scientists work with (and against!) each other—but perhaps more, due to its potential effects on how "Science" and scientists interact with the broader public
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: Perchers, pinchers, turners, swingers
 slug: perchers-pinchers-turners-swingers
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A delightful exploration of vintage toasters and their innovative designs.
 emoji: 🍞
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- 🍞 Bread
-- 🌍 Culture
-- 🛠️ DIY
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - 🍞 Bread
+  - 🌍 Culture
+  - 🛠️ DIY
+haiku: |
   Bread's dance through heat,  
-   Vintage whirs and clever twists,  
-   Toasted memories rise.
-  coordinates: [37.7749, -122.4194]
+  Vintage whirs and clever twists,  
+  Toasted memories rise.
+coordinates: [37.7749, -122.4194]
+---
 
 A glorious celebration of the toaster in its various vintage forms. The [photo galleries](http://www.toastermuseum.com/scripts/toastercollection/col_character01.html) in particular are worth getting lost in, come breakfast-time
 

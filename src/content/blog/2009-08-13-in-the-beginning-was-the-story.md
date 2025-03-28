@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-13
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: In the beginning was the story
 slug: in-the-beginning-was-the-story
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A profound reflection on the interplay between human and divine storytelling.
 emoji: 📖
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🌍 Africa
-- 🌆 Urban Spaces
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🌍 Africa
+  - 🌆 Urban Spaces
+haiku: |
   In stories we dwell,  
-   Human and divine entwined,  
-   Judgment waits for all.
-  coordinates: [-18.9721, 32.5952]
+  Human and divine entwined,  
+  Judgment waits for all.
+coordinates: [-18.9721, 32.5952]
+---
 
 Ten years ago in Mutare, Zimbabwe, I needed something to read, so I walked into a bookshop and wound up with this. The passage here is only the start of the tour-de-force ending of the opening story in the collection
 

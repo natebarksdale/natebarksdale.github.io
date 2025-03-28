@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-01-14
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,18 +9,19 @@ draft: False
 description: A word-by-word look at how we learn languages — and how we may change them in the process
 emoji: 🧠
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🎨 Creativity
-- 🗣️ Language
-- 🗣️ Words
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🎨 Creativity
+  - 🗣️ Language
+  - 🗣️ Words
+haiku: |
   Words bloom like flowers,  
-   Patterns weave through new lexicons,  
-   Language endlessly grows.
+  Patterns weave through new lexicons,  
+  Language endlessly grows.
 
 coordinates: [51.752, -1.2577]
+---
+
 For the John Templeton Foundation, I wrote about the intriguing ways we form and expand our vocabularies across different languages.
 
 > Imagine you’re in a foreign country, trying to pick up a few words of the local language. You learn that a _bolu_ is a vegetable, a _leki_ is a fox, but a small fox is a _lekiki_. So what would be the word for a small vegetable? Depending on the patterns you notice in your limited vocabulary, you might guess that the right word is _boluki_ or _bolulu._ Janet Pierrehumbert, currently a professor of language modeling at Oxford University, is fascinated by the kind of patterns we notice and apply when learning and forming new words — whether in an artificial language like in the example above, or in any of the more than 6,500 known human languages.

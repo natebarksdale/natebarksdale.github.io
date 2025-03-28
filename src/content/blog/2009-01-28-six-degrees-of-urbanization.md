@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Six degrees of urbanization
 slug: six-degrees-of-urbanization
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring how interconnected human networks can help in finding loved ones, even in unfamiliar cities.
 emoji: 🗺️
 tags:
-
-- ✨ Wonder
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🗣️ Language
-- 🌀 Complexity
-  haiku: |
+  - ✨ Wonder
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🗣️ Language
+  - 🌀 Complexity
+haiku: |
   In search of a friend,  
-   Threads of chance connect us all,  
-   Home found through the crowd.
-  coordinates: [38.6270, -90.1994]
+  Threads of chance connect us all,  
+  Home found through the crowd.
+coordinates: [38.6270, -90.1994]
+---
 
 This would be an interesting challenge: to locate a friend in a new-to-you American city using only conversations with people you meet—neither you or anyone of your informants would be allowed to consult the usual lists, maps, phone books, etc. I wonder if it'd be possible ..
 

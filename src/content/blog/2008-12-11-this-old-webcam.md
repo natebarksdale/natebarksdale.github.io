@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: This old webcam
 slug: this-old-webcam
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring how artisans can share their craft while attracting more work.
 emoji: 🎥
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-- ♻️ Repurposing
-- 🌍 Culture
-- 💡 Innovation
-- 🏛️ Architecture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+  - ♻️ Repurposing
+  - 🌍 Culture
+  - 💡 Innovation
+  - 🏛️ Architecture
+haiku: |
   Knowledge shared with care,  
-   Hands create through minds and hearts,  
-   Secrets bloom in light.
-  coordinates: [38.0, -97.0]
+  Hands create through minds and hearts,  
+  Secrets bloom in light.
+coordinates: [38.0, -97.0]
+---
 
 A fascinating interview on using new technology (internet video) to teach traditional home repair and preservation
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: The omnivore’s daughter’s dilemma
 slug: the-omnivores-daughters-dilemma
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A humorous reflection on the quirks of grocery shopping in Berkeley Bowl from Michael Pollan.
 emoji: 🛒
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🏪 Markets
-- ❤️ Kindness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🏪 Markets
+  - ❤️ Kindness
+haiku: |
   Shelves filled with colors,  
-   Pollan's choice sparks whispers,  
-   Hall monitors watch.
-  coordinates: [37.8539, -122.2730]
+  Pollan's choice sparks whispers,  
+  Hall monitors watch.
+coordinates: [37.8539, -122.2730]
+---
 
 A lovely anecdote (culture-making begins at home!) from a great feature about Berkeley Bowl, a produce-rich Northern California supermarket that sounds a bit like all three sections of the Divine Comedy rolled into one
 

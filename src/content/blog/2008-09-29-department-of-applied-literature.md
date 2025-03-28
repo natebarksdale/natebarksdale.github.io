@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Department of applied literature
 slug: department-of-applied-literature
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A high-end storefront secular church in London reimagines philosophy and literature as tools for daily life.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ✍️ Literature
-- ⛪ Religion
-- ❤️ Love
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ✍️ Literature
+  - ⛪ Religion
+  - ❤️ Love
+haiku: |
   Life’s lessons revealed,  
-   Classics breathe in daily tasks,  
-   Wisdom's new embrace.
-  coordinates: [51.5145, -0.1340]
+  Classics breathe in daily tasks,  
+  Wisdom's new embrace.
+coordinates: [51.5145, -0.1340]
+---
 
 A sort of high-end storefront secular church emerges in London
 

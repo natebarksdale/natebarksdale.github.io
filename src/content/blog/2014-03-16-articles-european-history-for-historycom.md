@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-16
 modDatetime: 2025-03-10 21:39:28+00:00
@@ -10,20 +9,21 @@ draft: False
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 🌍 History
-- 📖 Articles
-- 📜 Ancient Texts
-- ✍️ Literature
-- ⚖️ Choices
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 🌍 History
+  - 📖 Articles
+  - 📜 Ancient Texts
+  - ✍️ Literature
+  - ⚖️ Choices
+haiku: |
   Kings and thinkers rise,  
-   Knowledge sparks a great discourse,  
-   Change across the lands.
+  Knowledge sparks a great discourse,  
+  Change across the lands.
 
 coordinates: [51.1657, 10.4515]
+---
+
 [![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 
 > I had quite a bit of fun writing these pieces on European topics for History.com — who wouldn't like to summarize the Enlightenment in 800 words?

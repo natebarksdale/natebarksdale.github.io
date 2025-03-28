@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-02-01
 modDatetime: 2025-03-10 18:29:24+00:00
@@ -10,20 +9,21 @@ draft: False
 description: A reflection on how our interactions with memories and artifacts shape our experience of beauty and loss, inspired by Proust's poignant insights.
 emoji: 🧤
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- ✍️ Poetry
-- ✝️ Christianity
-- 🌍 Culture
-- 🧠 Psychology
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - ✍️ Poetry
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 🧠 Psychology
+haiku: |
   Whispers of the past,  
-   Old gloves breathe forgotten love,  
-   Tears from faded hues.
+  Old gloves breathe forgotten love,  
+  Tears from faded hues.
 
 coordinates: [48.8566, 2.3522]
+---
+
 This is why the reminder that there's room and honor for the best of human cultural artifacts in the Christian conception of heaven gives me such comfort. One can wonder whether, as our significant human interactions are ever more mediated through data on devices, whether we'll experience fewer Proustian glove-moments in the future or whether (as I suspect) we'll simply be surprised at how a jpeg makes us weep.
 
 > Voluntary memory, the memory of the intellect and the eyes, [gives] us only imprecise facsimiles of the past which no more resemble it than pictures by bad painters resemble the spring…. So we don’t believe that life is beautiful because we don’t recall it, but if we get a whiff of a long-forgotten smell we are suddenly intoxicated, and similarly we think we no longer love the dead, because we don’t remember them, but if by chance we come across an old glove we burst into tears.

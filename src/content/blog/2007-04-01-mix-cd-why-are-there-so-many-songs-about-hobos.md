@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-04-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Why Are There So Many Songs about Hobos?
 slug: mix-cd-why-are-there-so-many-songs-about-hobos
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring the complex role of the hobo in American musical culture, I reflect on their portrayal as either a figure to be pitied or envied, ultimately leading to my own hobo-inspired creation, "Hobo Lingo."
 emoji: 🚂
 tags:
-
-- 💿 Mix CDs
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 💿 Mix CDs
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Roaming through the night,  
-   Stories sung of wanderers,  
-   Freedom's bittersweet.
-  coordinates: [37.0902, -95.7129]
+  Stories sung of wanderers,  
+  Freedom's bittersweet.
+coordinates: [37.0902, -95.7129]
+---
 
 #### Wimbo Zuri Catalog No. 032.1A07-1
 

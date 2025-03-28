@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-11-04
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Ten (Allegedly) Mad Monarchs
 slug: ten-allegedly-mad-monarchs
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore the outlandish tales of ten monarchs whose reigns teetered on the edge of madness, from Nebuchadnezzar's wild descent to Caligula's bizarre decrees.
 emoji: 👑
 tags:
-
-- 🇭 History.com
-- 📜 Ancient Texts
-- 👑 Fame
-- ✝️ Christianity
-- ✡️ Judaism
-  haiku: |
+  - 🇭 History.com
+  - 📜 Ancient Texts
+  - 👑 Fame
+  - ✝️ Christianity
+  - ✡️ Judaism
+haiku: |
   Kings lost to madness,  
-   Wild minds rule with cruel hands, dreams  
-   Of power crumble.
-  coordinates: [32.5434, 44.4237]
+  Wild minds rule with cruel hands, dreams  
+  Of power crumble.
+coordinates: [32.5434, 44.4237]
+---
 
 For the History Channel, I wrote about historical rulers whose eccentricities tended towards insanity.
 

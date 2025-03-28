@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-12-03
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: Five Questions with Betül Kaçar
 slug: five-questions-with-betul-kacar
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Join Betül Kaçar as she explores the frontier of astrobiology and ancient DNA, shedding light on life’s cosmic journey and evolutionary constraints.
 emoji: 🔬
 tags:
-
-- 🦠 Biology
-- 🧪 Chemistry
-- 🍷 Europe
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🧬 Genetics
-- 🌍 Evolution
-  haiku: |
+  - 🦠 Biology
+  - 🧪 Chemistry
+  - 🍷 Europe
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🧬 Genetics
+  - 🌍 Evolution
+haiku: |
   Ancient life reborn,  
-   Stars and cells whisper secrets,  
-   Time's dance through DNA.
-  coordinates: [32.2319, -110.9501]
+  Stars and cells whisper secrets,  
+  Time's dance through DNA.
+coordinates: [32.2319, -110.9501]
+---
 
 For the John Templeton Foundation, I wrote about how ancient DNA unlocks secrets of early life forms and evolutionary processes.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-18
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Giorgio de Chirico exhibit, Paris
 slug: giorgio-de-chirico-exhibit-paris
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This photograph beautifully captures the interplay between viewers and art, showcasing the conversation sparked by de Chirico's "La Comedie et la Tragedie."
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🖋️ Commentary
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🖋️ Commentary
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Viewing life’s canvas,  
-   Conversations linger here,  
-   Art breathes with laughter.
-  coordinates: [48.861992, 2.331766]
+  Conversations linger here,  
+  Art breathes with laughter.
+coordinates: [48.861992, 2.331766]
+---
 
 Matching the figures in the painting with the figures watching it must be a standard museum-photographer's device, but I do love how this photo captures not just the art and not just the art-observers, but the art-observers in conversation: saying, What do you make of this painting? or maybe, What about lunch?
 [![photo](http://culture-making.com/media/{A3DE8EF8-ED16-45B7-835A-D5B59B75BE47}Picture.jpg)](http://www.faz.net/s/RubEBED639C476B407798B1CE808F1F6632/Doc~E42E88446A7524658BF812CC08007B818~ATpl~Ecommon~Scontent.html?rss_feuilleton)

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-04-17
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Who Invented the Flush Toilet?
 slug: who-invented-the-flush-toilet
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the flush toilet's journey from ancient sanitation innovation to modern necessity, tracing its evolution through history and technology.
 emoji: 🚽
 tags:
-
-- 🇭 History.com
-- 🌍 History
-- ⚙️ Engineering
-- 🌊 Water
-  haiku: |
+  - 🇭 History.com
+  - 🌍 History
+  - ⚙️ Engineering
+  - 🌊 Water
+haiku: |
   Ancient waters flow,  
-   Elizabeth's secret throne,  
-   Revolution flushes.
-  coordinates: [31.1048, 71.6911]
+  Elizabeth's secret throne,  
+  Revolution flushes.
+coordinates: [31.1048, 71.6911]
+---
 
 For the History Channel, I wrote about the intriguing origins and evolution of modern sanitation systems.
 

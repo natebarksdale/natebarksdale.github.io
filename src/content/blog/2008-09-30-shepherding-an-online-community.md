@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-30
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Shepherding an online community
 slug: shepherding-an-online-community
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A thoughtful exploration of the necessity for moderation in online communities.
 emoji: 🤝
 tags:
-
-- 🌍 Culture-Making.com
-- 🗣️ Language
-- 🌍 Society
-- ⚖️ Ethics
-- 🌐 Blogging
-- 🔍 Accountability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🗣️ Language
+  - 🌍 Society
+  - ⚖️ Ethics
+  - 🌐 Blogging
+  - 🔍 Accountability
+haiku: |
   Voices rise and clash,  
-   Anonymity breeds strife,  
-   Kindness lights the way.
-  coordinates: [37.7749, -122.4194]
+  Anonymity breeds strife,  
+  Kindness lights the way.
+coordinates: [37.7749, -122.4194]
+---
 
 A great profile of the day-to-day thoughtfulness required of the folks in charge of Flickr's online community-building
 

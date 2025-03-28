@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-14
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:31:59Z
 title: A reading language
 slug: a-reading-language
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Kerala's near-100% literacy has fostered a rich culture of literature and reading, creating a vibrant community of writers and readers.
 emoji: 📚
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📖 Books
-- 🌱 Growth
-- 📝 Writing
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📖 Books
+  - 🌱 Growth
+  - 📝 Writing
+haiku: |
   In Kerala's light,  
-   Words flow, stories take flight,  
-   Knowledge ignites minds.
-  coordinates: [8.7528, 76.7072]
+  Words flow, stories take flight,  
+  Knowledge ignites minds.
+coordinates: [8.7528, 76.7072]
+---
 
 What does a culture with near-100% literacy in its local language make possible? A vibrant community of writers, readers, and loads and loads of books. Welcome to Kerala
 

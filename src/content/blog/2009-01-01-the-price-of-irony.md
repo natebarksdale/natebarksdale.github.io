@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:51Z
 title: The price of irony
 slug: the-price-of-irony
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A thought-provoking exploration of the nature of irony and its impact on moral reasoning.
 emoji: 🤔
 tags:
-
-- 🌍 Culture-Making.com
-- 🎭 Irony
-- 💬 Communication
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎭 Irony
+  - 💬 Communication
+  - 🌍 Society
+haiku: |
   Cynical shadows,  
-   Skepticism runs rampant,  
-   Reason's light dimmed low.
-  coordinates: [40.7128, -74.0060]
+  Skepticism runs rampant,  
+  Reason's light dimmed low.
+coordinates: [40.7128, -74.0060]
+---
 
 > Like sentiment, which has been called unearned emotion, the new irony is a form of unearned skepticism. It creates nothing of its own but waits to ambush moral purpose, to play havoc with common sense, to deny reason its moment
 >

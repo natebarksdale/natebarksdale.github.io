@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Cheese and ashes
 slug: cheese-and-ashes
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on a memorable cheese experience shared with a friend, especially highlighting Morbier's unique features and flavor.
 emoji: 🧀
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🇫🇷 France
-- 🌱 Sustainability
-- 🌿 Gardens
-- 😊 Joy
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🇫🇷 France
+  - 🌱 Sustainability
+  - 🌿 Gardens
+  - 😊 Joy
+haiku: |
   Morbier's ash divides,  
-   Creamy richness lingers on,  
-   Taste of our shared time.
-  coordinates: [47.3442, 6.0666]
+  Creamy richness lingers on,  
+  Taste of our shared time.
+coordinates: [47.3442, 6.0666]
+---
 
 Last month when Andy was in town we took hearty advantage of the chance for some (for us) rare face-to-face meeting and eating. He arrived at my doorstep, cheeses in hand. And yes, they were well-cultured to a wedge. The one that's stuck with me was the Morbier, as much for its resonant ash-stripe branding as the flavor (which was, of course, quite fine). Penitence never tasted so good
 

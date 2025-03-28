@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2022-03-08
 modDatetime: 2025-03-18 21:19:23+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Explore how "Never Have I Ever" blends humor with the complexities of Hindu identity in modern America, through the eyes of its vibrant protagonist, Devi.
 emoji: 🕌
 tags:
-
-- 🧪 Chemistry
-- 🌀 Templeton
-- ⛪ Religion
-- 📺 Television
-- 👦 Teenagers
-  haiku: |
+  - 🧪 Chemistry
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 📺 Television
+  - 👦 Teenagers
+haiku: |
   Devi prays to gods,  
-   Suburban altars gleam bright,  
-   Cultural threads weave.
+  Suburban altars gleam bright,  
+  Cultural threads weave.
 
 coordinates: [34.1826, -118.4396]
+---
+
 For the John Templeton Foundation, I wrote about the intersection of religious identity and personal spirituality.
 
 > The shot opens the interior of a suburban home: a framed picture of the elephant-headed Lord Ganesh. The camera pans down to a small altar with images of other deities (Lakshmi, Shiva, Hanuman) and ceremonial objects. A teenager’s voice intones: “Hey Gods, it’s Devi Vishwakumar, your favorite Hindu girl in the San Fernando Valley. What’s a-poppin?”

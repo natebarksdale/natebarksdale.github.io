@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-08
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Attacking consumerism in the wrong place
 slug: attacking-consumerism-in-the-wrong-place
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A humorous take on defending Christmas consumption against its critics.
 emoji: 🎄
 tags:
-
-- 🌍 Culture-Making.com
-- ❤️ Love
-- ❤️ Kindness
-- 🎉 Celebration
-- 🌍 Activism
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ❤️ Love
+  - ❤️ Kindness
+  - 🎉 Celebration
+  - 🌍 Activism
+haiku: |
   Love costs us something,  
-   Christmas brings us together,  
-   Joy wrapped in packages.
-  coordinates: [38.0, -97.0]
+  Christmas brings us together,  
+  Joy wrapped in packages.
+coordinates: [38.0, -97.0]
+---
 
 From a funny, oddly Grinch-like defense of Christmas consumption against its sometimes-too-pious critics
 

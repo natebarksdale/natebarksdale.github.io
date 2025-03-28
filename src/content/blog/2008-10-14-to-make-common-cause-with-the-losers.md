@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:45Z
 title: To make common cause with the losers
 slug: to-make-common-cause-with-the-losers
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of the concept of "the long defeat" and its significance in meaningful work, as interpreted by Paul Farmer and captured in Tracy Kidder's narrative.
 emoji: 🏔️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🌍 Haiti
-- ❤️ Charity
-- 🤝 Altruism
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🌍 Haiti
+  - ❤️ Charity
+  - 🤝 Altruism
+haiku: |
   In struggles we rise,  
-   Finding hope in small victories,  
-   Long defeat we fight.
-  coordinates: [18.9714, -72.2852]
+  Finding hope in small victories,  
+  Long defeat we fight.
+coordinates: [18.9714, -72.2852]
+---
 
 Wonderful commentary on a quote from Tracy Kidder's book [Mountains Beyond Mountains](https://www.google.com/search?q=%22Mountains%20Beyond%20Mountains%22%20amazon.com), about doctor and anthropologist Paul Farmer and the organization he founded, [Partners in Health](http://web.archive.org/web/20091013125707/http://www.pih.org/home.html), which works in Haiti and half a dozen other countries to provide "a preferential option for the poor in health care
 

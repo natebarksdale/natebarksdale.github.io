@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-25
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:04Z
 title: The list doesn’t destroy culture, it creates it
 slug: the-list-doesnt-destroy-culture-it-creates-it
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the importance of lists in shaping culture and understanding the infinite, inspired by Umberto Eco's insights.
 emoji: 📜
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-- 📚 Archives
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+  - 📚 Archives
+haiku: |
   In lists we define,  
-   The infinite within,  
-   Order from chaos.
-  coordinates: [41.9028, 12.4964]
+  The infinite within,  
+  Order from chaos.
+coordinates: [41.9028, 12.4964]
+---
 
 Food for thought when one is tempted to skip over the more boring sections of, say, the Book of Numbers
 

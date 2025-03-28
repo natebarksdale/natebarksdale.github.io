@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-06-08
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: Religious art for nonbelievers
 slug: religious-art-for-nonbelievers
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In exploring the significance of religious imagery in art for nonbelievers, Aaron Rosen delves into how these symbols reveal deeper truths about existence.
 emoji: 🎨
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ✨ Beauty
-- 🌀 Complexity
-- 👥 Emotions
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ✨ Beauty
+  - 🌀 Complexity
+  - 👥 Emotions
+haiku: |
   Colors of the soul,  
-   Art whispers of the divine,  
-   A silent embrace.
-  coordinates: [41.9028, 12.4964]
+  Art whispers of the divine,  
+  A silent embrace.
+coordinates: [41.9028, 12.4964]
+---
 
 A fascinating essay about what religious imagery in art can offer to nonbelievers—both art-makers and art-viewers. The religious person in me is genuinely amazed and humbled, but also wants to counter (probably unhelpfully), "No, that is not miracle enough! There's more!
 

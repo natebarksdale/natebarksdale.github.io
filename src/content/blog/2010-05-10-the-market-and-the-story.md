@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A fascinating exploration of the disconnect between automated trading algorithms and the narrative-driven explanations provided by the financial press.
 emoji: 🤖
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⚖️ Algorithms
-- ⚖️ Choices
-- 🌍 Society
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⚖️ Algorithms
+  - ⚖️ Choices
+  - 🌍 Society
+  - 🌍 Culture
+haiku: |
   Machines trade with speed,  
-   Stories crafted post hoc  
-   Truth lost in the noise.
-  coordinates: [37.7749, -122.4194]
+  Stories crafted post hoc  
+  Truth lost in the noise.
+coordinates: [37.7749, -122.4194]
+---
 
 I'm fascinated, more than troubled, by the interplay between the narrative impulse and theoretically rational pursuits. It's why I love science (and the history of science) — you find some data, propose a story to fit it, then find some more and see if the story holds. Of course with the stock market, things move at a pace such that the half-life of a story is often rather short
 

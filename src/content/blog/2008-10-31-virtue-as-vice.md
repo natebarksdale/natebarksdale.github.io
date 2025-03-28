@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Virtue as vice
 slug: virtue-as-vice
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on how our perceptions of virtue often intertwine with cultural tastes, highlighting the complexities of our choices and environmental impact.
 emoji: 🍃
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🌍 Environment
-- ❤️ Kindness
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🌍 Environment
+  - ❤️ Kindness
+  - 🌱 Sustainability
+haiku: |
   Sins masked by virtue,  
-   Taste guides the moral compass,  
-   Nature pays the price.
-  coordinates: [37.0902, -95.7129]
+  Taste guides the moral compass,  
+  Nature pays the price.
+coordinates: [37.0902, -95.7129]
+---
 
 A sobering Hallows' Eve thought ... virtue and taste are both, in their ways, deep-seated cultural elements, and not as easy to separate as we might assume. And it's all too easy for taste to lead and define virtue, rather than the other way round
 

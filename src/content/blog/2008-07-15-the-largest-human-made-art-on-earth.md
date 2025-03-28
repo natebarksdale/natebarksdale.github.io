@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: The Largest Human-Made Art on Earth
 slug: the-largest-human-made-art-on-earth
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of Jim Denevan's massive ephemeral art, where creativity meets the vastness of nature.
 emoji: 🌄
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Environment
-- ✨ Beauty
-- 🔄 Commitment
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Environment
+  - ✨ Beauty
+  - 🔄 Commitment
+haiku: |
   A giant's brief trace,  
-   Erased by nature's embrace,  
-   Echoes in the sand.
-  coordinates: [39.3433, -116.7800]
+  Erased by nature's embrace,  
+  Echoes in the sand.
+coordinates: [39.3433, -116.7800]
+---
 
 Ephemeral, large-scale art by artist Jim Denevan
 

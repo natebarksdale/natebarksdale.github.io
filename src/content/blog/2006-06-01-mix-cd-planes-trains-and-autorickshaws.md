@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2006-06-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Planes, Trains and Autorickshaws
 slug: mix-cd-planes-trains-and-autorickshaws
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A nostalgic reflection on creating a mix to celebrate the friendships and memories made during a trip to India, filled with inside jokes and cherished music.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🌍 Society
-- 🌍 Culture
-- ✍️ Literature
-- 🎶 Activities
-  haiku: |
+  - 💿 Mix CDs
+  - 🌍 Society
+  - 🌍 Culture
+  - ✍️ Literature
+  - 🎶 Activities
+haiku: |
   Sounds of laughter soar,  
-   In India's warm embrace,  
-   Bonds through every note.
-  coordinates: [28.6139, 77.2090]
+  In India's warm embrace,  
+  Bonds through every note.
+coordinates: [28.6139, 77.2090]
+---
 
 #### Wimbo Zuri Catalog No. 026.1A06-1
 

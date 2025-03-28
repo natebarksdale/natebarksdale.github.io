@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-23
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: The Lucca Choirbook
 slug: the-lucca-choirbook
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An astonishing tale of cultural recycling and musical rediscovery, all thanks to musicologists like Reinhard Strohm.
 emoji: 📜
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🌍 Culture
-- 📖 Books
-- 📜 Ancient Texts
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🌍 Culture
+  - 📖 Books
+  - 📜 Ancient Texts
+haiku: |
   Pages from the past,  
-   Music's journey intertwined,  
-   Lost notes brought to light.
-  coordinates: [43.8402, 10.5042]
+  Music's journey intertwined,  
+  Lost notes brought to light.
+coordinates: [43.8402, 10.5042]
+---
 
 An astonishing tale of cultural recycling, rediscovery, and recovery. All I can say is, praise be for musicologists!
 promo for _[The Lucca Choirbook](https://www.google.com/search?q=%22The%20Lucca%20Choirbook%22%20amazon.com)_ (2009), edited by Reinhard Strohm, [University of Chicago Press](https://www.google.com/search?q=%22University%20of%20Chicago%20Press%22%20press.uchicago.edu) :: thanks Myke!

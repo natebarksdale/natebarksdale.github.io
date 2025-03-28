@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-16
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Paving the home
 slug: paving-the-home
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This piece highlights the transformative impact of cement floors and paved streets on health, economic stability, and quality of life in Mexico.
 emoji: 🏡
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🌍 Development
-- 🌍 Health
-- ⚕️ Medicine
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🌍 Development
+  - 🌍 Health
+  - ⚕️ Medicine
+haiku: |
   From dirt to strong floors,  
-   Health blooms in every corner,  
-   Paths pave brighter tomorrows.
-  coordinates: [25.4167, -100.9758]
+  Health blooms in every corner,  
+  Paths pave brighter tomorrows.
+coordinates: [25.4167, -100.9758]
+---
 
 Cement floors and the horizons of the possible.
 

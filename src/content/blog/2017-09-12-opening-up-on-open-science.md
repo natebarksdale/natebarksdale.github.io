@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2017-09-12
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Interview | Opening Up on Open Science
 slug: interview-opening-up-on-open-science
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: The director of the Center for Open Science speaks with Templeton.org about the “reproducibility crisis” and his organization’s plans to help scientific research stay true to its values.
 emoji: 🔍
 tags:
-
-- 🌀 Templeton
-- 🧘‍♂️ Psychology
-- 📊 Research
-- 🔍 Accountability
-  haiku: |
+  - 🌀 Templeton
+  - 🧘‍♂️ Psychology
+  - 📊 Research
+  - 🔍 Accountability
+haiku: |
   Data shared openly,  
-   Science strides toward clarity,  
-   Truth in sunlight grows.
-  coordinates: [38.0336, -78.508]
+  Science strides toward clarity,  
+  Truth in sunlight grows.
+coordinates: [38.0336, -78.508]
+---
 
 For the John Templeton Foundation, I wrote about the transformative impact of open data practices on scientific research.
 

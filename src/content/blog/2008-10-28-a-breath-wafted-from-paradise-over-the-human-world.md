@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: A breath wafted from Paradise over the human world
 slug: a-breath-wafted-from-paradise-over-the-human-world
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of how spices from foreign lands captivated the imagination of Medieval Europeans.
 emoji: 🌍
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌶️ Spices
-- 🌍 Culture
-- 📖 Books
-- 📚 Archives
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌶️ Spices
+  - 🌍 Culture
+  - 📖 Books
+  - 📚 Archives
+haiku: |
   Spices from afar,  
-   Whispers of a lost Eden,  
-   Flavors shape the world.
-  coordinates: [0.0000, 100.0000]
+  Whispers of a lost Eden,  
+  Flavors shape the world.
+coordinates: [0.0000, 100.0000]
+---
 
 My favorite social historian writes on the place of spices—and the importance not just of their rarity but of their foreign-ness—in the culture of Medieval Europe
 

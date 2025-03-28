@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2006-12-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Triple Frontera
 slug: mix-cd-triple-frontera
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Celebrating the diverse identities and cultural richness of the Triple Frontera region in South America.
 emoji: 🌍
 tags:
-
-- 💿 Mix CDs
-- 🗣🗣️ Language
-- 🧉 South America
-- 🌍 Identity
-  haiku: |
+  - 💿 Mix CDs
+  - 🗣🗣️ Language
+  - 🧉 South America
+  - 🌍 Identity
+haiku: |
   Three borders unite,  
-   Languages blend like rivers,  
-   A tapestry formed.
-  coordinates: [-25.2631, -54.2640]
+  Languages blend like rivers,  
+  A tapestry formed.
+coordinates: [-25.2631, -54.2640]
+---
 
 #### Wimbo Zuri Catalog No. 030.1A06-1
 

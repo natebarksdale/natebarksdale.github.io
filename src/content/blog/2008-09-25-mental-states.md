@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Mental states
 slug: mental-states
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: This article delves into the intriguing link between regional personality traits and various societal outcomes in the United States.
 emoji: 🗺️
 tags:
-
-- ➗ Mathematics
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🧠 Psychology
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - ➗ Mathematics
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🧠 Psychology
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   States with their quirks,  
-   Crime rates and math minds emerge,  
-   Culture's pulse revealed.
-  coordinates: [37.0902, -95.7129]
+  Crime rates and math minds emerge,  
+  Culture's pulse revealed.
+coordinates: [37.0902, -95.7129]
+---
 
 Like many popular-press articles about psychological studies (fuzziness squared!), these conclusions about regional culture are fascinating but probably worth taking with a grain of salt. The interactive graphics that go with the article are definitely worth a click
 

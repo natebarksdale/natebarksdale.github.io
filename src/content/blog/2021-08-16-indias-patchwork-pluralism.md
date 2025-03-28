@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-08-16
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: India’s Patchwork Pluralism
 slug: indias-patchwork-pluralism
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A groundbreaking nationwide survey explores what Indians believe about their own and their fellow citizens’ religious faiths
 emoji: 🧩
 tags:
-
-- 💡 Design
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🌍 Society
-- ⛪ Religion
-- 🗳️ Politics
-  haiku: |
+  - 💡 Design
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🌍 Society
+  - ⛪ Religion
+  - 🗳️ Politics
+haiku: |
   India's quilt of faiths,  
-   Tolerance weaves through tight seams,  
-   Plural voices bloom.
-  coordinates: [20.5937, 78.9629]
+  Tolerance weaves through tight seams,  
+  Plural voices bloom.
+coordinates: [20.5937, 78.9629]
+---
 
 For the John Templeton Foundation, I wrote about a landmark survey on India's unique approach to religious pluralism.
 

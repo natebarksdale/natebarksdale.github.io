@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Little India, Singapore
 slug: little-india-singapore
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An observation on the juxtaposition of historical figures and modern conveniences, inspired by thoughts on culture and everyday items.
 emoji: 🎒
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🏙️ Migration
-- 🏪 Markets
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🏙️ Migration
+  - 🏪 Markets
+haiku: |
   Watercolors pack,  
-   Through parks and ancient cities,  
-   Adventure awaits.
-  coordinates: [1.3038, 103.8550]
+  Through parks and ancient cities,  
+  Adventure awaits.
+coordinates: [1.3038, 103.8550]
+---
 
 It is, after all, [backpacks week](http://www.culture-making.com/five_questions/backpacks) at Culture Making. I don't think of the Prince of Wales as being much of a backpacker (except in the sense of toting your watercolors across the deer park). But then again I don't much think of Braveheart when I want to check my email, either
 [![photo](http://culture-making.com/media/2820252134_93e7055158_o.jpg)](http://www.flickr.com/photos/adforce1/2820252134/)

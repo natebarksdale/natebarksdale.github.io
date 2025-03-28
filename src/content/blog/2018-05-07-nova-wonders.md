@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-05-07
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: NOVA Wonders
 slug: nova-wonders
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A storied series provides a cutting-edge take on a set of age-old questions
 emoji: 🌌
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- 🌌 Astronomy
-- 📺 Television
-- 🔍 Discoveries
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 📺 Television
+  - 🔍 Discoveries
+haiku: |
   Stars whisper secrets,  
-   Universe vast, questions deep—  
-   NOVA seeks, we wonder.
-  coordinates: [42.3581, -71.0636]
+  Universe vast, questions deep—  
+  NOVA seeks, we wonder.
+coordinates: [42.3581, -71.0636]
+---
 
 For the John Templeton Foundation, I wrote about the new _NOVA Wonders_ series.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Stuff white people like - writing
 slug: stuff-white-people-like-writing
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: This post discusses the racial breakdown of under-35 artists and writers, highlighting the challenges and representation of writers of color.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Diversity
-- ✍️ Literature
-- 🗣️ Language
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Diversity
+  - ✍️ Literature
+  - 🗣️ Language
+haiku: |
   Art with few voices,  
-   Colors blend yet stay apart,  
-   A challenge remains.
-  coordinates: [40.7128, -74.0060]
+  Colors blend yet stay apart,  
+  A challenge remains.
+coordinates: [40.7128, -74.0060]
+---
 
 A question-behind-the-question is, what's the racial breakdown of the audiences of all those under-35 artists and writers? Does willingness to cross cultural boundries in our art appreciation vary by medium?
 

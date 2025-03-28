@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-16
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: garbage is spiritual
 slug: garbage-is-spiritual
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A.R. Ammons reflects on the spiritual significance of garbage and its role in our lives.
 emoji: 🗑️
 tags:
-
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🌀 Complexity
-- 🌍 Environment
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🌀 Complexity
+  - 🌍 Environment
+haiku: |
   Piles of distraction,  
-   Stinking truths of our lives grow,  
-   Beauty in the mess.
-  coordinates: [40.7128, -74.0060]
+  Stinking truths of our lives grow,  
+  Beauty in the mess.
+coordinates: [40.7128, -74.0060]
+---
 
 garbage has to be the poem of our time because  
 garbage is spiritual, believable enough

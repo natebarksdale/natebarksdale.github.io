@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-11-13
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Bad Education
 slug: bad-education
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: How self-discipline impacts educational outcomes and why it may favor girls over boys in school performance. But is it always an asset?
 emoji: 📚
 tags:
-
-- 🌀 Templeton
-- 🏫 Education
-- 🧘‍♂️ Psychology
-- 📊 Research
-  haiku: |
+  - 🌀 Templeton
+  - 🏫 Education
+  - 🧘‍♂️ Psychology
+  - 📊 Research
+haiku: |
   Girls outshine in class,  
-   Self-discipline marks their path,  
-   Boys equal, yet grasp.
-  coordinates: [37.0902, -95.7129]
+  Self-discipline marks their path,  
+  Boys equal, yet grasp.
+coordinates: [37.0902, -95.7129]
+---
 
 For the John Templeton Foundation, I wrote about the role of self-discipline in educational disparities between genders.
 

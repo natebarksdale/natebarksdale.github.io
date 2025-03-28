@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-08-27
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: Learning with L’Arche
 slug: learning-with-larche
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The groundbreaking community centered on people with intellectual disabilities will examine how to foster humility and compassionate love
 emoji: 🌉
 tags:
-
-- 🍷 Europe
-- 🌀 Templeton
-- 🇫🇷 France
-- ❤️ Kindness
-- ❤️ Love
-  haiku: |
+  - 🍷 Europe
+  - 🌀 Templeton
+  - 🇫🇷 France
+  - ❤️ Kindness
+  - ❤️ Love
+haiku: |
   In a house of friends,  
-   Bridges built on humble hearts,  
-   Change blooms from kindness.
-  coordinates: [49.1738, 3.2843]
+  Bridges built on humble hearts,  
+  Change blooms from kindness.
+coordinates: [49.1738, 3.2843]
+---
 
 For the John Templeton Foundation, I wrote about the profound lessons of community and inclusion within the L’Arche network.
 

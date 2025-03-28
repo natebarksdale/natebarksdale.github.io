@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Global Street Food installation, by Mike Meiré
 slug: global-street-food-installation-by-mike-meire
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A glimpse into the diverse world of street food vendor setups captured by Mike Meiré, highlighting their cultural significance and the absence of the vendors themselves. Geolocation coordinates
 emoji: 🌍
 tags:
-
-- 💡 Design
-- 🧉 South America
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌞 Leisure
-  haiku: |
+  - 💡 Design
+  - 🧉 South America
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌞 Leisure
+haiku: |
   Stalls line the streets,  
-   Each dish tells a story lost,  
-   Souls of vendors missed.
-  coordinates: [23.6345, -102.5528]
+  Each dish tells a story lost,  
+  Souls of vendors missed.
+coordinates: [23.6345, -102.5528]
+---
 
 A display of street vendor setups from around the world. They're fascinating, but also a little sad and empty, here in the white box, stripped of their cultural context and—more importantly—the vendors themselves
 [![photo](http://culture-making.com/media/mike10.jpg)](http://www.designboom.com/weblog/cat/8/view/5236/imm-cologne-09-global-street-food-by-mike-meire.html)

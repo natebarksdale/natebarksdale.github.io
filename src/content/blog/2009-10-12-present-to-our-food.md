@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Present to our food
 slug: present-to-our-food
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: In this reflection on mindfulness and cultural connections to food, the importance of being present while eating is highlighted through wise teachings and personal anecdotes.
 emoji: 🍵
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌱 Sustainability
-- 🙏 Mindfulness
-- 🌍 Culture
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌱 Sustainability
+  - 🙏 Mindfulness
+  - 🌍 Culture
+haiku: |
   Prayers for our meals,  
-   Mindfully we share the dawn,  
-   Tea warms the stillness.
-  coordinates: [40.7128, -74.0060]
+  Mindfully we share the dawn,  
+  Tea warms the stillness.
+coordinates: [40.7128, -74.0060]
+---
 
 Michael Pollan asked readers to submit their favorite dietary rules and rules of thumb; of the 2,500 responses he received, he selected his top 20 for an [interactive feature](http://www.nytimes.com/interactive/2009/10/11/magazine/20091011-foodrules.html). The whole list is great, but the other one that stuck out for its similar emphasis on the importance of not just the food but the culture we create around it in our daily eating was this: "You don't get fat on food you pray over
 

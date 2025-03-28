@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-04-19
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: Save what matters least
 slug: save-what-matters-least
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on the value of what we choose to preserve, Kevin Kelly explores the significance of collecting the overlooked artifacts of our time.
 emoji: 🗝️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 📚 Preservation
-- ⏰ Time
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 📚 Preservation
+  - ⏰ Time
+  - 🌍 Culture
+haiku: |
   Hidden treasures lie,  
-   In what we throw away now,  
-   Future's secrets wait.
-  coordinates: [37.6213, -122.3925]
+  In what we throw away now,  
+  Future's secrets wait.
+coordinates: [37.6213, -122.3925]
+---
 
 Nobody knows which cultural artifacts will wind up enduring, but by endeavoring to observe, collect and save what nobody else is preserving, I think we can both offer a richer gift for posterity and arrive at greater, celebratory insight into the stuff around us here and now
 

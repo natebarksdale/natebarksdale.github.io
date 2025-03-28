@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Leaving Las Vegas
 slug: leaving-las-vegas
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the complex factors contributing to suicide risk in Las Vegas.
 emoji: 💔
 tags:
-
-- 🌍 Culture-Making.com
-- 🧠 Psychology
-- 🌍 Society
-- 🇺🇸 United States
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🧠 Psychology
+  - 🌍 Society
+  - 🇺🇸 United States
+haiku: |
   Bright lights, lost souls here,  
-   A city without solace,  
-   Escape brings some peace.
-  coordinates: [36.1699, -115.1398]
+  A city without solace,  
+  Escape brings some peace.
+coordinates: [36.1699, -115.1398]
+---
 
 Both long-term residents and visitors to Las Vegas are at significantly greater risk of suicide. Why might this be? Perhaps a combination of 'gambler's dispair' and the fact that suicide is, in its way, contagious. But the researchers also suggest that Las Vegas' is—or perhaps was—one of the fastest-growing metropolitain areas in the US. Lots of new residents equals not a lot of strong social networks. The good news: rates have been going down in recent years; and for a quick-fix, well, you can always go somewhere else
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Chicken stock
 slug: chicken-stock
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A reflection on how the Campbell Soup Co. stood out during a market downturn, highlighting a shift in American values.
 emoji: 🍲
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🌍 Society
+haiku: |
   Soup in the market,  
-   A sign of simpler times,  
-   Basics over greed.
-  coordinates: [40.7580, -74.0059]
+  A sign of simpler times,  
+  Basics over greed.
+coordinates: [40.7580, -74.0059]
+---
 
 Andy Warhol—who along with being a painter of soup cans was a volunteer at soup kitchens—would doubtless be pleased
 

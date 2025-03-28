@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Chesterton on mixing it up
 slug: chesterton-on-mixing-it-up
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: On the clever chaos a young journalist might create.
 emoji: ✉️
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Articles
-- 📖 Biographies
-- 😮 Emotions
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Articles
+  - 📖 Biographies
+  - 😮 Emotions
+haiku: |
   Ink and faith collide,  
-   Letters switched in the night,  
-   Truth in jest resides.
-  coordinates: [51.5074, -0.1278]
+  Letters switched in the night,  
+  Truth in jest resides.
+coordinates: [51.5074, -0.1278]
+---
 
 > I have a notion that the real advice I could give to a young journalist, now that I myself am an old journalist, is simply this: to write an article for the _Sporting Times_ and another for the _Church Times_ and put them into the wrong envelopes
 >

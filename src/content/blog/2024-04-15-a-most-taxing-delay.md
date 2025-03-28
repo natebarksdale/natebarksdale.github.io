@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-04-15
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: A Most Taxing Delay
 slug: a-most-taxing-delay
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Why, oh why, do we wait? Tax procrastination and its costly psychological underpinnings.
 emoji: ⏳
 tags:
-
-- 🌀 Templeton
-- ⏰ Time
-- 🧘‍♂️ Psychology
-- 🇺🇸 United States
-  haiku: |
+  - 🌀 Templeton
+  - ⏰ Time
+  - 🧘‍♂️ Psychology
+  - 🇺🇸 United States
+haiku: |
   Last-minute filers wait,  
-   Self-defeat in each delay,  
-   Costs rise, refunds late.
-  coordinates: [40.7128, -74.006]
+  Self-defeat in each delay,  
+  Costs rise, refunds late.
+coordinates: [40.7128, -74.006]
+---
 
 For the John Templeton Foundation, I wrote about the intriguing psychology behind why we postpone filing our taxes.
 

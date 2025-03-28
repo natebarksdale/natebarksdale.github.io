@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2001-07-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Theme-park theodicies
 slug: theme-park-theodicies
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: George Saunders' _Pastoralia_ explores the absurdities and deeper truths of modern life through the lens of tragicomedy. Here, a young boy's struggle for identity and acceptance ultimately leads to profound questions about love and worth.
 emoji: 🤔
 tags:
-
-- 📺 Television
-- ✍️ Literature
-- 🌍 Culture
-- 🌀 Complexity
-- ❤️ Kindness
-  haiku: |
+  - 📺 Television
+  - ✍️ Literature
+  - 🌍 Culture
+  - 🌀 Complexity
+  - ❤️ Kindness
+haiku: |
   Voices lost in thought,  
-   Searching for truth in shadows,  
-   Life’s harsh paradox.
-  coordinates: [41.8781, -87.6298]
+  Searching for truth in shadows,  
+  Life’s harsh paradox.
+coordinates: [41.8781, -87.6298]
+---
 
 [![](@assets/images/wheel.jpg)](@assets/images/wheel.jpg)
 cc [Neal Fowler](http://www.flickr.com/photos/31878512@N06/3445672346/)/flickr

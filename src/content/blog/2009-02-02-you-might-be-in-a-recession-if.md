@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:54Z
 title: You might be in a recession if …
 slug: you-might-be-in-a-recession-if
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A look at how economic downturns can shift pop culture trends, as people prioritize savings over celebrity interests.
 emoji: 📉
 tags:
-
-- 🌍 Culture-Making.com
-- 💰 Commerce
-- 📉 Economics
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💰 Commerce
+  - 📉 Economics
+  - 🌍 Society
+haiku: |
   Search for coupons grows,  
-   Britney's fame on the decline,  
-   Times of change unfold.
-  coordinates: [40.7128, -74.0060]
+  Britney's fame on the decline,  
+  Times of change unfold.
+coordinates: [40.7128, -74.0060]
+---
 
 Reassuring news for [this site](http://web.archive.org/web/20111012074853/http://www.fabu.com/brand/britneyspears) at least
 A [NYTimes.com Freakonomics Blog](http://freakonomics.blogs.nytimes.com/2009/01/29/sign-o-the-times/) post by Justin Wolfers, 29 January 2009

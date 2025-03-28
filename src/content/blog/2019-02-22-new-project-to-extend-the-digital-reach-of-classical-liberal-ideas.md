@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-02-22
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:14Z
 title: New Project to Extend the Digital Reach of Classical Liberal Ideas
 slug: new-project-to-extend-the-digital-reach-of-classical-liberal-ideas
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Explore how a new project is revolutionizing PPE education with cutting-edge digital content on core topics like market failure and public choice.
 emoji: 🎓
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🌐 Digital
-- 📊 Research
-- 🏫 Education
-- ⚖️ Ethics
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🌐 Digital
+  - 📊 Research
+  - 🏫 Education
+  - ⚖️ Ethics
+haiku: |
   Ideas weave through minds,  
-   Expanding thoughts like branches,  
-   Roots in deep knowledge.
-  coordinates: [51.752, -1.2577]
+  Expanding thoughts like branches,  
+  Roots in deep knowledge.
+coordinates: [51.752, -1.2577]
+---
 
 For the John Templeton Foundation, I wrote about modernizing the philosophical and economic discourse for today's students.
 

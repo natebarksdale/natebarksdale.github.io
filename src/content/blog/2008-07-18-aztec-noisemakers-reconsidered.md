@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Aztec ‘noisemakers’ reconsidered
 slug: aztec-noisemakers-reconsidered
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the intricate sounds of pre-Columbian instruments and their revival in modern research.
 emoji: 🎶
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🎶 Sounds
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🎶 Sounds
+haiku: |
   Ancient echoes rise,  
-   Whispers of lost melodies,  
-   History in tune.
-  coordinates: [19.4326, -99.1332]
+  Whispers of lost melodies,  
+  History in tune.
+coordinates: [19.4326, -99.1332]
+---
 
 You gotta love the sort of patience required for endeavors like this
 

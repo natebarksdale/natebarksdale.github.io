@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-30
 modDatetime: 2025-03-10 21:39:27+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Reflecting on the whimsical experience of living with a couch, found in the trash, that became a focal point for creativity and nostalgia during college years.
 emoji: 🛋️
 tags:
-
-- 📺 Television
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🏚️ Abandonment
-- 🗑️ Garbage
-  haiku: |
+  - 📺 Television
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🏚️ Abandonment
+  - 🗑️ Garbage
+haiku: |
   From trash to treasure,  
-   Couch carries memories bright,  
-   Friends in every frame.
+  Couch carries memories bright,  
+  Friends in every frame.
 
 coordinates: [42.377, -72.5199]
+---
+
 During my last two years of college, I lived with two roommates, and we furnished our rooms pretty much exclusively with things we found in the trash. We were none of us poor, but we were all quite cheap, and for two years running the luck of the draw had placed us in our dormitory's "garbage entryway," a dingy, be-dumpstered archway where the garbage and castoffs of our entire 800-resident undergraduate house was left pending weekly pickup
 The downside of this was, of course, the occasional smell and gloom brought on by the persistent shadows and the huge wrought iron gate locked every day but trash day. But the upside made it almost worth it: if anything good was being thrown out, we would know about it, and, given need and space, would give it a second chance at college life
 [![](@assets/images/gatsby1_350.jpg)](@assets/images/gatsby1_350.jpg)

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Rich objects
 slug: rich-objects
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Exploring the profound connection between children and their interaction with cultural artifacts, as highlighted in Sherry Turkle's reflections on the power of objects in science education.
 emoji: 🎨
 tags:
-
-- ⚛️ Physics
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - ⚛️ Physics
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Objects attract minds,  
-   Young hearts entwined with the quest,  
-   Science as romance.
-  coordinates: [42.3601, -71.0942]
+  Young hearts entwined with the quest,  
+  Science as romance.
+coordinates: [42.3601, -71.0942]
+---
 
 On cultural artifacts, the science of child development, and the child's development of science
 

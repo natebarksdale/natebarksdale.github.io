@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-12-28
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Mix CD | Wisconsionable!
 slug: mix-cd-wisconsionable
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This mix, set within the context of Wisconsin, navigates the challenging landscape of musical influences while keeping dairy mentions at bay. From the **50 States!** series of CDs, it showcases a variety of artists while including a nod to Liberace's significant contribution to pop music from the state.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🇺🇸 United States
-- 🎶 Activities
-- 🌍 Culture
-- 📀 CDs
-  haiku: |
+  - 💿 Mix CDs
+  - 🇺🇸 United States
+  - 🎶 Activities
+  - 🌍 Culture
+  - 📀 CDs
+haiku: |
   Wisconsin's sweet tunes,  
-   Liberace graces all,  
-   In harmony's light.
-  coordinates: [43.7845, -88.7879]
+  Liberace graces all,  
+  In harmony's light.
+coordinates: [43.7845, -88.7879]
+---
 
 #### Wimbo Zuri Catalog No. 055.1A10-1
 

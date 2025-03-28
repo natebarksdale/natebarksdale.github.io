@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-02-28
 modDatetime: 2025-03-17T21:39:14Z
@@ -10,20 +9,20 @@ draft: true
 description: Celebrating the art of personalized music curation through Wimbo Zuri, where each mix tells a unique story through beloved songs.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 💡 Design
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🎵 Music
-- 🌍 Culture
-- 🎉 Celebration
-- 🌍 Society
-  haiku: |
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - 🌍 Culture
+  - 🎉 Celebration
+  - 🌍 Society
+haiku: |
   Melodies unite,  
-   Customized songs for you,  
-   Heartfelt gifts of sound.
-  coordinates: [34.0522, -118.2437]
+  Customized songs for you,  
+  Heartfelt gifts of sound.
+coordinates: [34.0522, -118.2437]
+---
 
 [![](@assets/images/birdsongs_3d.jpg)](@assets/images/birdsongs_3d.jpg) Since 2005 I have been curating and designing custom mix CDs under the Wimbo Zuri imprint. Wimbo Zuri—which means "Beautiful Song" in Swahili—offers music lovers who want to commission a special, personalized gift for their significant others, family members, or friends. A typical Wimbo Zuri mix includes songs selected for their musical, lyrical, cultural, and historic quality. A typical mix features songs spanning several decades, in several languages, joined together by a common theme. [![](http://web.archive.org/web/20191001134420/@assets/images/WA_260.jpg)](@assets/images/WA_530.jpg)[![](@assets/images/entomology_260.jpg)](@assets/images/entomology_530.jpg) I already have [several past projects]() to offer up as examples or even for sale as-is:
 

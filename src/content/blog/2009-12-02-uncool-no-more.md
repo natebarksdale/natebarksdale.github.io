@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-02
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Uncool no more
 slug: uncool-no-more
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the evolving landscape of cultural influences and what it means to be "cool" in a world of diverse options.
 emoji: 🌍
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🔥 Energy
-- 📝 Writing
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🔥 Energy
+  - 📝 Writing
+haiku: |
   In stylistic flux,  
-   Old and new intertwine,  
-   Art shapes our thinking.
-  coordinates: [51.5074, -0.1278]
+  Old and new intertwine,  
+  Art shapes our thinking.
+coordinates: [51.5074, -0.1278]
+---
 
 Changes in the ease of access to different cultural sources are definitely shifting what it means for something to be cool or uncool—especially, of course, for those with some amount of cultural power. I often wonder, though, whether this is a forward or a lateral shift. True, the old and the foreign can now be hip, but—if my own music tastes offer judgment—it just means that the new and mainstream are just correspondingly less interesting. (See also Jody Rosen's takedown of NPR's taste in black music, the "[Dead-Old-Retro-Foreign Matrix](http://web.archive.org/web/20110510185209/http://www.slate.com:80/blogs/blogs/browbeat/archive/2009/10/12/the-dorf-matrix-towards-a-theory-of-npr-s-taste-in-black-music.aspx)") An age of cherry-picking might provide for a lot of desserts and clever mixed drinks, but not, alas, much meat
 

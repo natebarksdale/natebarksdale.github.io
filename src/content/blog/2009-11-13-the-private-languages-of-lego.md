@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-13
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: The private languages of Lego
 slug: the-private-languages-of-lego
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the unique vocabulary developed by children during Lego play and the importance of naming in their imaginative worlds.
 emoji: 🧩
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🗣️ Language
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🗣️ Language
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Children building dreams,  
-   Clippy bits and handy words,  
-   Lego worlds take shape.
-  coordinates: [39.9526, -75.1652]
+  Clippy bits and handy words,  
+  Lego worlds take shape.
+coordinates: [39.9526, -75.1652]
+---
 
 I recall having a strong sense of Lego nomenclature as well, though I'm hazy on the details. I should go out to the storage bins in the garage to root around and see if the touch of plastic can retrieve any specific terms. Meanwhile, Language Log's Geoff Pullum [sums up](http://languagelog.ldc.upenn.edu/nll/?p=1874) this delightful article well: "It's about the deep-seatedness of children's need to have names for all the things they deal with — and the lack of any necessity for there to be pre-existing names in the language they happen to have learned
 

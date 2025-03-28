@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Wallpaper
 slug: wallpaper
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A fascinating look at how a gas station in Adrian, Texas transformed restroom graffiti into a positive and creative community expression.
 emoji: 📝
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🎨 Graffiti
-- 🌍 Culture
-- 🛠️ DIY
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🎨 Graffiti
+  - 🌍 Culture
+  - 🛠️ DIY
+haiku: |
   Thoughts on paper shared,  
-   Restroom walls tell stories true,  
-   Laughter, pain, and more.
-  coordinates: [35.3783, -102.4522]
+  Restroom walls tell stories true,  
+  Laughter, pain, and more.
+coordinates: [35.3783, -102.4522]
+---
 
 Graffiti (whether the restroom kind or others) sits on this weird junction between creation and vandalism, between anonymity and community. In this particular case, something undertaken primarily to reduce business expenses wound up making a space not just for alternative cultural expression, but for better—and self-improving—forms of community: "the clerk also told me that the men had cleaned up their language quite a bit in five years. The tone of their scribbles had changed from gross and inappropriate to polite and sincere
 

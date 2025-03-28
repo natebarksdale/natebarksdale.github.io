@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Network ≠ community
 slug: network-community
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the nuanced impact of recommender systems on cultural diversity and individual experiences.
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Algorithms
-- 🌍 Culture
-- 🌀 Complexity
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Algorithms
+  - 🌍 Culture
+  - 🌀 Complexity
+  - 💬 Communication
+haiku: |
   Algorithms filter,  
-   Our choices narrow, yet wide—  
-   Culture's pulse within.
-  coordinates: [37.7749, -122.4194]
+  Our choices narrow, yet wide—  
+  Culture's pulse within.
+coordinates: [37.7749, -122.4194]
+---
 
 Do ever-more-accurate computerized recommendation engines make culture more diverse or just more diverse-seeming? Do they bring people together or just seem to? As with most cool things once you think about them a bit more, it depends
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-24
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: Sinatra songs and the Salve Regina
 slug: sinatra-songs-and-the-salve-regina
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A sublime cultural moment captured in Walker Percy’s reflection on Christmas, blending the everyday with the transcendent.
 emoji: 🎄
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ❤️ Love
-- 🎶 Activities
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ❤️ Love
+  - 🎶 Activities
+haiku: |
   On a cold night sky,  
-   Turkey smokes, blessings abound,  
-   Dance beneath the stars.
-  coordinates: [30.4150, -89.0909]
+  Turkey smokes, blessings abound,  
+  Dance beneath the stars.
+coordinates: [30.4150, -89.0909]
+---
 
 This bit from the close of Walker Percy's novel is about as good an example I can recall of a sort of sublime cultural layering—the lovely, humble juxtaposition of the transcendent and the everyday, of fallenness and grace, and of taking our cues from the best of all that culture has to offer
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2017-11-20
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Getting to the Right Question — and Beyond
 slug: getting-to-the-right-question-and-beyond
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Can a creative technique that works for third-graders help grad students launch their research careers?
 emoji: 🤔
 tags:
-
-- ✨ Wonder
-- 🌀 Templeton
-- 🏫 Education
-- 🔍 Discoveries
-- 📊 Research
-  haiku: |
+  - ✨ Wonder
+  - 🌀 Templeton
+  - 🏫 Education
+  - 🔍 Discoveries
+  - 📊 Research
+haiku: |
   Questions bloom in minds,  
-   Teachers guide the curious—  
-   Knowledge roots grow deep.
-  coordinates: [42.3736, -71.1097]
+  Teachers guide the curious—  
+  Knowledge roots grow deep.
+coordinates: [42.3736, -71.1097]
+---
 
 For the John Templeton Foundation, I wrote about enhancing educational methods through the strategic use of questioning.
 

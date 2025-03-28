@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Containing multitudes
 slug: containing-multitudes
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Zadie Smith reflects on the contrasting expectations for artists and politicians in her essay "Speaking in Tongues."
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - ⚖️ Choices
+haiku: |
   Voices intertwine,  
-   Allegiances divide,  
-   Truth in shades of gray.
-  coordinates: [51.5074, -0.1278]
+  Allegiances divide,  
+  Truth in shades of gray.
+coordinates: [51.5074, -0.1278]
+---
 
 From a long reflection on what it means for a single writer, artist, president, to speak with multiple voices, accents, allegiances
 

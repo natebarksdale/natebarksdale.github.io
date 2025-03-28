@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-22
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Drinking less, online
 slug: drinking-less-online
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This exploration highlights a novel approach to temperance and addiction through a self-help program that emphasizes moderated drinking over complete abstinence.
 emoji: 🍷
 tags:
-
-- 🌍 Culture-Making.com
-- 💼 Business
-- 💡 Innovation
-- ⚕️ Medicine
-- 🔄 Commitment
-- ❤️ Kindness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💼 Business
+  - 💡 Innovation
+  - ⚕️ Medicine
+  - 🔄 Commitment
+  - ❤️ Kindness
+haiku: |
   Drink within limits,  
-   A path to balance found,  
-   Wellness in the glass.
-  coordinates: [52.3738, 4.8909]
+  A path to balance found,  
+  Wellness in the glass.
+coordinates: [52.3738, 4.8909]
+---
 
 Here's a very different approach to temperance and addiction, one likely at least as controversial to the 12-step community as the successful Italian drug rehab facility that [runs a very nice winery](http://www.theatlantic.com/doc/200609/wine-therapy): the goal of the self-help program is to get people's drinking down to what the Dutch government regards as low-risk levels: "Dutch guidelines in terms of American drinks would mean: less than 15 drinks per week and no more than five in a row for men; and for women, no more than 10 drinks per week and no more than three in a row
 

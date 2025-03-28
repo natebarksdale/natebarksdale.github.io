@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-07
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Your church home on the range
 slug: your-church-home-on-the-range
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Cowboy churches blend country charm with spiritual devotion, creating a unique worship experience.
 emoji: 🤠
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Culture
+haiku: |
   In barns souls gather,  
-   Country tunes fill the night air,  
-   Faith on dusty trails.
-  coordinates: [39.7833, -89.6500]
+  Country tunes fill the night air,  
+  Faith on dusty trails.
+coordinates: [39.7833, -89.6500]
+---
 
 Well since the first setting for worshiping Jesus involved a stable and a manger, why not?
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-15
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: Even better than the real thing
 slug: even-better-than-the-real-thing
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of how modern techniques of reproduction, as seen in Cameron Moll's Colosseo project, transform the concept of authenticity in art.
 emoji: 🎨
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 📖 Articles
-- 🎨 Art
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 📖 Articles
+  - 🎨 Art
+haiku: |
   Letters form a tale,  
-   Crafting time's precious echoes,  
-   Art from labor's grace.
-  coordinates: [41.8902, 12.4923]
+  Crafting time's precious echoes,  
+  Art from labor's grace.
+coordinates: [41.8902, 12.4923]
+---
 
 Some lovely, [Walter Benjamin-infused](http://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction) thoughts on Cameron Moll's print/video project [Colosseo](http://colosseotype.com/), a hand-printed illustration (created, paradoxically, using graphic design software) of the Roman Colosseum constructed out of tiny delicate typographic elements
 

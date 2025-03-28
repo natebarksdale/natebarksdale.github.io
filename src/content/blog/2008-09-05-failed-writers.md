@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Failed writers
 slug: failed-writers
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Remembering Robert Giroux and his insightful exchange with T. S. Eliot on the nature of writers and editors.
 emoji: ✍️
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🔍 Critique
-- 📖 Biographies
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🔍 Critique
+  - 📖 Biographies
+haiku: |
   Great editors write,  
-   Both creators of their world,  
-   Words linger through time.
-  coordinates: [40.7128, -74.0060]
+  Both creators of their world,  
+  Words linger through time.
+coordinates: [40.7128, -74.0060]
+---
 
 A closing zinger from the obituary of Robert Giroux, editor and publisher of many of my favorite writers (Thomas Merton, Walker Percy, Flannery O'Conner, to name a few)
 

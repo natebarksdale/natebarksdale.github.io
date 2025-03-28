@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-13
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: The new old cartography
 slug: the-new-old-cartography
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the evolution and interpretation of maps through history, contrasting medieval perspectives with modern cartography.
 emoji: 🗺️
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Articles
-- 📖 Discussions
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Articles
+  - 📖 Discussions
+haiku: |
   Cartography shines,  
-   Past and present intertwine,  
-   Worlds seen through distinct eyes.
-  coordinates: [40.7128, -74.0060]
+  Past and present intertwine,  
+  Worlds seen through distinct eyes.
+coordinates: [40.7128, -74.0060]
+---
 
 A nice review of some of the notable maps of the just-completed year, with a little bit of map history (carefully omitting much, as any good map should) as an intro
 a [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2009/01/12/mapmaker-make-me-a-map/) post, 12 January 2009

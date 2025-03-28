@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-10-06
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Is One of Biology’s Perennial Themes Ready For a Fresh Look? Alan Love on the Science of Purpose.
 slug: is-one-of-biologys-perennial-themes-ready-for-a-fresh-look-alan-love-on-the-science-of-purpose
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: University of Minnesota philosopher Alan Love studies the interplay between philosophy and biology.
 emoji: 🔬
 tags:
-
-- 🦠 Biology
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🧬 Biology
-- 🌍 Evolution
-- 🧠 Psychology
-  haiku: |
+  - 🦠 Biology
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🧬 Biology
+  - 🌍 Evolution
+  - 🧠 Psychology
+haiku: |
   Purpose in nature,  
-   Teeth not foreseeing their use,  
-   Evolution's dance.
-  coordinates: [51.509865, -0.118092]
+  Teeth not foreseeing their use,  
+  Evolution's dance.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I interviewed physicist and biologist Alan Love.
 

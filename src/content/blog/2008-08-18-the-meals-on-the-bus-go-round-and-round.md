@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-18
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: The meals on the bus go round and round
 slug: the-meals-on-the-bus-go-round-and-round
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A delightful exploration of Ecuador's vibrant bus culture and the unique culinary experiences found along the way.
 emoji: 🍧
 tags:
-
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-  haiku: |
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+haiku: |
   Buses rolling by,  
-   Vendors bring flavors alive,  
-   Taste of the journey.
-  coordinates: [-1.2921, -78.5678]
+  Vendors bring flavors alive,  
+  Taste of the journey.
+coordinates: [-1.2921, -78.5678]
+---
 
 A great example of making the most of a captive audience (and somewhat lax boarding and vending rules). I recall similar parades (but with beggars and musicians included) on Indian trains and -- do I remember right? -- New York subways
 

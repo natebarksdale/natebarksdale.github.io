@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-04-12
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: Tree gender and pollen counts
 slug: tree-gender-and-pollen-counts
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the unintended consequences of urban landscaping choices on seasonal allergies and pollen distribution.
 emoji: 🌳
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Ecology
-- 🌍 Environment
-- 🌳 Landscapes
-- 🌱 Sustainability
-- ⚕️ Medicine
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Ecology
+  - 🌍 Environment
+  - 🌳 Landscapes
+  - 🌱 Sustainability
+  - ⚕️ Medicine
+haiku: |
   Male trees dominate,  
-   Pollen clouds fill the city,  
-   Allergies arise.
-  coordinates: [37.7749, -122.4194]
+  Pollen clouds fill the city,  
+  Allergies arise.
+coordinates: [37.7749, -122.4194]
+---
 
 Are seasonal allergies getting worse because we're planting too many male trees? The "holes" in the pollen map are also rather interesting. I'm assuming they reflect a lack of data rather than a lack of pollen
 

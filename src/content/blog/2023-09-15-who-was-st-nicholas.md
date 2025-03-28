@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-12-22
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Who Was St. Nicholas?
 slug: who-was-st-nicholas
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore the origins of St. Nicholas, from a miracle-working saint to the inspiration behind Santa Claus.
 emoji: 🎅
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- ✝️ Christianity
-- 🎁 Gifts
-- 🇳🇱 Netherlands
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - ✝️ Christianity
+  - 🎁 Gifts
+  - 🇳🇱 Netherlands
+haiku: |
   Saint saves through the storm,  
-   Gifts borne on December winds,  
-   Sinterklaas whispers.
-  coordinates: [36.5484, 30.5489]
+  Gifts borne on December winds,  
+  Sinterklaas whispers.
+coordinates: [36.5484, 30.5489]
+---
 
 For the History Channel, I wrote about the legacy and myths surrounding St. Nicholas.
 

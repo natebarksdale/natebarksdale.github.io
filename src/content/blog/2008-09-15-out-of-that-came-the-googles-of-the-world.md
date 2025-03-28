@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-15
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: Out of that came the Googles of the world ..
 slug: out-of-that-came-the-googles-of-the-world
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: The Whole Earth Catalog ignited a cultural shift, blending creativity, small-scale entrepreneurship, and a new vision for commerce.
 emoji: 🌍
 tags:
-
-- 📖 Bible
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 💼 Business
-- ⚙️ Technology
-- 🌱 Sustainability
-- 📖 Books
-  haiku: |
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 💼 Business
+  - ⚙️ Technology
+  - 🌱 Sustainability
+  - 📖 Books
+haiku: |
   From pages it grew,  
-   Small dreams sparked into the vast,  
-   Cultures intertwine.
-  coordinates: [37.4419, -122.1430]
+  Small dreams sparked into the vast,  
+  Cultures intertwine.
+coordinates: [37.4419, -122.1430]
+---
 
 Forty years old, but only four years in publication, the Whole Earth Catalog—and, more to point, the community of its creators and early followers—certainly ranks as one of the more surprising and far-reaching centers of culture-making in recent decades. Not that there isn't ample room for hyperbole in the "oral history" format (which itself seems so ... Whole-Earthy)
 

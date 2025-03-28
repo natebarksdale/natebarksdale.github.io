@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Texting in cuneiform
 slug: texting-in-cuneiform
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflecting on the tactile experience of ancient cuneiform tablets, this piece explores their significance in understanding life in Nebuchadnezzar's Babylon.
 emoji: 📜
 tags:
-
-- 📖 Bible
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Clay holds the whispers,  
-   Scribes with stylus etching truth,  
-   Time's voice in cuneiform.
-  coordinates: [32.5433, 44.4208]
+  Scribes with stylus etching truth,  
+  Time's voice in cuneiform.
+coordinates: [32.5433, 44.4208]
+---
 
 I blogged earlier about the [Tower of Babel](http://www.culture-making.com/tag/babel) associations in this museum exhibition; here, though, I was drawn to the tactile, portabile nature of all those stylus-embossed notes and epics and receipts—in the case of this image, a record of a gold delivery by the chief eunuch of Nebuchadnezzar II
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Tony Hairdressing for Men
 slug: tony-hairdressing-for-men
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Here's a glimpse into a stylish establishment in Westminster
 emoji: 🧑
 tags:
-
-- 🌍 Culture-Making.com
-- 🇬🇧 London
-- 🌆 Urban Spaces
-- 🛋️ Furniture
-- 💡 Design
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇬🇧 London
+  - 🌆 Urban Spaces
+  - 🛋️ Furniture
+  - 💡 Design
+haiku: |
   Tony's chair awaits,  
-   Sharp scissors dance with style,  
-   Men groom with great care.
-  coordinates: [51.5132, -0.1319]
+  Sharp scissors dance with style,  
+  Men groom with great care.
+coordinates: [51.5132, -0.1319]
+---
 
 I'm not sure if the Tony is meant as adjective or proper noun. Perhaps both
 [![photo](http://culture-making.com/media/31nE0ng73is1lrqax2CaMhCBo1_500.jpg)](http://londonshopfronts.tumblr.com/post/70851937/tony-hairdressing-for-men-dean-street-w1)

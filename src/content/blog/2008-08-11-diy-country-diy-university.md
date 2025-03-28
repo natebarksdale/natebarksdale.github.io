@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: DIY country, DIY university
 slug: diy-country-diy-university
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: An insightful look at Somaliland, a breakaway republic that thrives amidst challenges, highlighting its democratic aspirations and return of former refugees.
 emoji: 🎓
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Development
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Development
+haiku: |
   From strife, hope blooms bright,  
-   Leaders rise with dreams in sight,  
-   Homeward paths ignite.
-  coordinates: [9.5598, 44.1378]
+  Leaders rise with dreams in sight,  
+  Homeward paths ignite.
+coordinates: [9.5598, 44.1378]
+---
 
 Another example of "if it isn't a colored nation-box on the world map, it doesn't exist" syndrome: a breakaway republic that's much less a basket case than the mother country. And some former refugees who are indeed making something of that corner of the world
 

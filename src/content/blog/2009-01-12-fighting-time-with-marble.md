@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Fighting time with marble
 slug: fighting-time-with-marble
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the timeless struggle against oblivion and the enduring power of art.
 emoji: 🪨
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 🌍 History
-- ⏰ Time
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 🌍 History
+  - ⏰ Time
+haiku: |
   Stone and time collide,  
-   Words etched in quiet grace,  
-   We all fade to dust.
-  coordinates: [36.5887, -121.8777]
+  Words etched in quiet grace,  
+  We all fade to dust.
+coordinates: [36.5887, -121.8777]
+---
 
 "To the Stone-Cutters," by Robinson Jeffers (1887–1962) :: via [wood s lot](https://www.google.com/search?q=%22wood%20s%20lot%22%20page2rss.com)
 

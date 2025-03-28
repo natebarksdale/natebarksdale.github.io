@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Cezanne’s dream team
 slug: cezannes-dream-team
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Malcolm Gladwell explores the concept of late bloomers and the vital support systems behind their success in his article. "But for Zola, Cézanne would have remained an unhappy banker’s son in Provence; but for Pissarro, he would never have learned how to paint..."
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎨 Art
-- ❤️ Kindness
-- 🤝 Collaboration
-- 📖 Articles
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎨 Art
+  - ❤️ Kindness
+  - 🤝 Collaboration
+  - 📖 Articles
+haiku: |
   Late blooms take root slow,  
-   Supported by many hands,  
-   Dreams through others' grace.
-  coordinates: [43.2670, 5.4213]
+  Supported by many hands,  
+  Dreams through others' grace.
+coordinates: [43.2670, 5.4213]
+---
 
 I've seen this article cited in a number of blogs this past week; generally the take-away seems to be what Gladwell starts with, that some artists (or writers, or whatever) do their best work seemingly right out of the blocks, while others are comparably late bloomers. What's perhaps most interesting in terms of culture-making, though, is the article's later sections, which deal with just what sort of necessary conditions allow for the emergence of a late bloomer. Such success is, indeed, "highly contingent," which I think you can take two ways: on the one hand, to despair a bit about the difficulty of any artistic or cultural greatness to ever get off the ground; but on the other, to rejoice that for every Cezanne who we know about, there must be scores we never will, going about their business in our midst
 

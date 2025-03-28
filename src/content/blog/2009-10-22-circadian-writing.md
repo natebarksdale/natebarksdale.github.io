@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-22
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: Circadian writing
 slug: circadian-writing
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The similarities between email and letter-writing reveal more about communication patterns than universal truths about human correspondence.
 emoji: ✉️
 tags:
-
-- ➗ Mathematics
-- 🌍 Culture-Making.com
-- 📖 Articles
-- 📝 Writing
-- ⚖️ Choices
-- 🌍 Culture
-  haiku: |
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
+  - 📖 Articles
+  - 📝 Writing
+  - ⚖️ Choices
+  - 🌍 Culture
+haiku: |
   Words across the years,  
-   Cycles of thought intertwine,  
-   Time’s lettered echoes.
-  coordinates: [40.7831, -73.9712]
+  Cycles of thought intertwine,  
+  Time’s lettered echoes.
+coordinates: [40.7831, -73.9712]
+---
 
 The hook for this article write-up—that patterns of email-writing are similar to older patterns of letter-writing—somehow seems less surprising than they make it out to be. The original Science study on which it is based is humbly titled "[On Universality in Human Correspondence Activity](http://web.archive.org/web/20091017153204/http://www.sciencemag.org/cgi/content/abstract/325/5948/1696)." Um, how exactly does showing that literate people in Western culture today correspond like famous literate people in Western culture did a few decades or centuries ago tell us that much about "Universality"? If the communiques of Tang Dynasty scholars, Inca string-knotters, and Roman emperors were all shown to look like my outbox, then I'd be a bit more universally impressed
 

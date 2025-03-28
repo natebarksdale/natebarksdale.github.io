@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-16
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: A tool which will unleash the fullest in someone else
 slug: a-tool-which-will-unleash-the-fullest-in-someone-else
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: In a thought-provoking exploration, Kevin Kelly argues for the moral obligation to embrace technology for the sake of expanding possibilities for ourselves and others.
 emoji: 🌍
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚙️ Technology
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚙️ Technology
+  - 🌍 Society
+haiku: |
   Expanding choices,  
-   Tech unveils potential paths,  
-   Unselfish futures.
-  coordinates: [39.8283, -98.5795]
+  Tech unveils potential paths,  
+  Unselfish futures.
+coordinates: [39.8283, -98.5795]
+---
 
 Is technology a moral obligation?
 

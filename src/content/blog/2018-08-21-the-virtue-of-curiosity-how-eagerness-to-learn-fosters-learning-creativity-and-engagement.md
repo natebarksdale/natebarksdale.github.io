@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-08-21
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,17 +9,18 @@ draft: False
 description: A quartet of researchers are using computer games and brain scans to measure — and manipulate — our desire to know.
 emoji: 🤔
 tags:
-
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 🎨 Creativity
-- 🔍 Discoveries
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 🎨 Creativity
+  - 🔍 Discoveries
+haiku: |
   Curiosity leads,  
-   Impulse blooms into knowing,  
-   Creativity's seed.
+  Impulse blooms into knowing,  
+  Creativity's seed.
 
 coordinates: [40.8075, -73.9626]
+---
+
 For the John Templeton Foundation, I wrote about the role curiosity plays in enhancing our learning, creativity, and overall engagement.
 
 > Daphna Shohamy, a professor of neuroscience at Columbia University, came to the study of curiosity through an appropriately roundabout way. A few years ago she was working with Caroline Marvin, a researcher at her lab, investigating the neural basis of impulsivity. “We were thinking about all the ways in which people act impulsively,” Shohamy says, “trying to understand the intersection between impulsivity and learning — is impulsivity a _problem_ with learning, or is it _crucial_ to learning?” If it was the latter, they realized, they were really talking about curiosity, the subjective impulse to _know_.

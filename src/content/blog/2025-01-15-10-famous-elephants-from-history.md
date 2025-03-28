@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-08-14
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:19Z
 title: Ten Famous Elephants From History
 slug: ten-famous-elephants-from-history
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Explore the colossal impact of 10 historic elephants, from war behemoths to symbols of regal diplomacy.
 emoji: 🐘
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🇭 History.com
-- 🐘 Elephants
-- 🌍 History
-- 🇮🇹 Italy
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇭 History.com
+  - 🐘 Elephants
+  - 🌍 History
+  - 🇮🇹 Italy
+haiku: |
   Ancient giants march,  
-   Clad in war's heavy shadows,  
-   Echoes of empire.
-  coordinates: [32.9283, 73.5754]
+  Clad in war's heavy shadows,  
+  Echoes of empire.
+coordinates: [32.9283, 73.5754]
+---
 
 For the History Channel, I wrote about the enduring impact of elephants throughout history.
 

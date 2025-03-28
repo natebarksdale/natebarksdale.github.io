@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-08
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: Significant objects
 slug: significant-objects
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An exploration of how invented narratives can transform thrift store finds into valuable treasures.
 emoji: 🏷️
 tags:
-
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🌍 Society
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🌍 Society
+  - 🌍 Culture
+haiku: |
   Thrifted tales unfold,  
-   Worthless finds gain life anew,  
-   Stories lift their worth.
-  coordinates: [40.7128, -74.0060]
+  Worthless finds gain life anew,  
+  Stories lift their worth.
+coordinates: [40.7128, -74.0060]
+---
 
 A fascinating exploration of the the intersecting values of thing-ness and story-ness: thrift store junk given invented backstories and resold. At the [Significant Objects](http://significantobjects.com/) website they've got detailed analysis of just [what sort of narrative strategy](http://significantobjects.com/2010/02/04/which-exposition-strategy-adds-the-most-value/) seems to yeild the greatest increase in value at auction
 

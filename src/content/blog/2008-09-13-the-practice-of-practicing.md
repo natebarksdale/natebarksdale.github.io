@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:41Z
 title: The practice of practicing
 slug: the-practice-of-practicing
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: From Mark Slutsky, a reflection on rekindling a childhood dream of becoming a pianist.
 emoji: 🎹
 tags:
-
-- 🌍 Culture-Making.com
-- 🎶 Activities
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎶 Activities
+haiku: |
   Dreams of piano,  
-   Scales played with weary hands,  
-   New tunes start to bloom.
-  coordinates: [40.7128, -74.0060]
+  Scales played with weary hands,  
+  New tunes start to bloom.
+coordinates: [40.7128, -74.0060]
+---
 
 From a series where GOOD Magazine asked four grownups what they'd always wanted to learn to do, then sent them to lessons
 

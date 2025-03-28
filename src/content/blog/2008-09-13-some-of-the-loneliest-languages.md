@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Some of the loneliest languages
 slug: some-of-the-loneliest-languages
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Dispatches from the world of endangered languages, highlighting the plight of those struggling to survive.
 emoji: 🌍
 tags:
-
-- 🗣🗣️ Language
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+haiku: |
   Voices near fading,  
-   Elders hold the final words,  
-   Sun's children whisper.
-  coordinates: [35.2992, -97.4577]
+  Elders hold the final words,  
+  Sun's children whisper.
+coordinates: [35.2992, -97.4577]
+---
 
 Dispatches from (but not in) dying tongues. The author's book [1000 Languages](http://web.archive.org/web/20231225210631/https://www.amazon.com/One-Thousand-Languages-Living-Endangered/dp/0520255607) is presumably much more inclusive but, if the lone Amazon.com reviewer's to believed, heavier on anecdote than thoroughness and fact-checking, alas
 

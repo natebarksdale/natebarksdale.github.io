@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-12
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:47Z
 title: The mind is also a landscape
 slug: the-mind-is-also-a-landscape
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the harmonious relationship between walking, thought, and the world around us, inspired by Rebecca Solnit's reflections.
 emoji: 🚶
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Exploration
-- 🌅 Reflection
-- 📝 Writing
-- 🚶 Walking
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Exploration
+  - 🌅 Reflection
+  - 📝 Writing
+  - 🚶 Walking
+haiku: |
   Steps through thoughts align,  
-   Mind and world in harmony,  
-   Paths create ideas.
-  coordinates: [37.7749, -122.4194]
+  Mind and world in harmony,  
+  Paths create ideas.
+coordinates: [37.7749, -122.4194]
+---
 
 From Rebecca Solnit's wonderfully peripatetic book-length meditation on walking. A few years back I was struck by what exactly it might mean that at the time my favorite writer was Walker Percy and my favorite photographer was Walker Evans
 

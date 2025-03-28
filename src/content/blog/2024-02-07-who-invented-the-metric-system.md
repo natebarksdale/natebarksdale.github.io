@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-07-16
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Who invented the metric system?
 slug: who-invented-the-metric-system
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Discover how French revolutionaries standardized measurements and gave us the metric system, simplifying everything from science to daily life.
 emoji: 📏
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🇭 History.com
-- 🇫🇷 France
-- 🌍 History
-- 🔍 Logic
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇭 History.com
+  - 🇫🇷 France
+  - 🌍 History
+  - 🔍 Logic
+haiku: |
   Meters map the Earth,  
-   Logic roots in nature’s laws,  
-   New measures take hold.
-  coordinates: [48.8566, 2.3522]
+  Logic roots in nature’s laws,  
+  New measures take hold.
+coordinates: [48.8566, 2.3522]
+---
 
 For the History Channel, I wrote about the origins and universal impact of the metric system.
 

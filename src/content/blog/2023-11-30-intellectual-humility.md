@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-11-30
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Intellectual Humility
 slug: intellectual-humility
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Psychologists and philosophers are working to tease apart the ways we respond to new ideas and information — and the possible benefits of intellectual humility.
 emoji: 🤔
 tags:
-
-- 🌀 Templeton
-- ✍️ Translation
-- 🌍 Culture
-- 🌐 Websites
-  haiku: |
+  - 🌀 Templeton
+  - ✍️ Translation
+  - 🌍 Culture
+  - 🌐 Websites
+haiku: |
   Pages bridge minds wide,  
-   Thoughts in two tongues blend and flow,  
-   Wisdom unconfined.
-  coordinates: [51.509865, -0.118092]
+  Thoughts in two tongues blend and flow,  
+  Wisdom unconfined.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about intellectual humility.
 

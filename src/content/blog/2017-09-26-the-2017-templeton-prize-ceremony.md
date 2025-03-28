@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2017-09-26
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: The 2017 Templeton Prize Ceremony
 slug: the-2017-templeton-prize-ceremony
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: Celebrating the philosophical achievements of Alvin Plantinga
 emoji: 📝
 tags:
-
-- 🌀 Templeton
-- 📊 Ethics
-  haiku: |
+  - 🌀 Templeton
+  - 📊 Ethics
+haiku: |
   Prize comes to Chicago
   To fete Alvin Plantinga
   Dinosaurs astound
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the 2017 Templeton Prize Ceremony.
 

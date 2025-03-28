@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: “Red Earth,” by Erika Larsen
 slug: red-earth-by-erika-larsen
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: An exploration of child hunters and their deep connection to nature and tradition.
 emoji: 🦌
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Society
+haiku: |
   In nature's embrace,  
-   Young hunters learn their way,  
-   Tradition takes flight.
-  coordinates: [44.6000, -111.6000]
+  Young hunters learn their way,  
+  Tradition takes flight.
+coordinates: [44.6000, -111.6000]
+---
 
 From Larsen's series of photos of child hunters. She writes, "[f]or them, the thrill is learning to follow their instincts and being immersed in nature. All these children have something in common, they are at home in nature." And yet hunting is, as ever, a deeply cultural activity, full of specialized equipment, specific rituals, and purposeful tradition
 [![photo](http://culture-making.com/media/erikalarsen_Red-Earth.jpg)](http://www.wipnyc.org/blog/erika-larsen.html)

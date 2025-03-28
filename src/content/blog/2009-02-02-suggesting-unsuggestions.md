@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Suggesting unsuggestions
 slug: suggesting-unsuggestions
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of the value of seeking out diverse reading experiences rather than sticking to familiar genres and preferences.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 🌍 Culture
-- ⚙️ Technology
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 🌍 Culture
+  - ⚙️ Technology
+  - 📝 Writing
+haiku: |
   Read beyond your scope,  
-   Find joy in the unknown paths,  
-   Expand your white space.
-  coordinates: [51.5085, -0.1257]
+  Find joy in the unknown paths,  
+  Expand your white space.
+coordinates: [51.5085, -0.1257]
+---
 
 Librarything's [Unsuggester](http://www.librarything.com/unsuggester/) tells us, based on millions of user-datapoints, that readers of C.S. Lewis's _Mere Christianity_ are very unlikely to have read Christine Feehan's vampire novels, and that readers of just about any work of contemporary literary fiction (my latest try was A.S. Byatt's _Possession_) have not, apparently, been plumbing the breadths of recent Christian devotional writing. (For some reason I can't get it to return any unsuggestions for _Culture Making_. Could it be that that book's readers really will read anything? Let's hope.)
 

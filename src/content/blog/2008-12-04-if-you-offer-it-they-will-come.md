@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-04
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: If you offer it, they will come
 slug: if-you-offer-it-they-will-come
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on the resurgence of literary interest, John Parker examines the appeal of classic literature amidst modern cultural critiques.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 📖 Books
-- 🌍 Culture
-- 🌍 Society
-- 🌍 Identity
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 📖 Books
+  - 🌍 Culture
+  - 🌍 Society
+  - 🌍 Identity
+haiku: |
   Good books still hold sway,  
-   Classics find new readers,  
-   Demand sparks delight.
-  coordinates: [37.7749, -122.4194]
+  Classics find new readers,  
+  Demand sparks delight.
+coordinates: [37.7749, -122.4194]
+---
 
 The article also includes the important qualification that cultural offerings still have to be good—indeed, the goodness of _Kim_ or _Anna Karenina_ is a necessary but not sufficient condition
 

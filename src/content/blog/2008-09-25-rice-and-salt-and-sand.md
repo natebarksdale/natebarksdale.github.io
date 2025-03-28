@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Rice and salt and sand
 slug: rice-and-salt-and-sand
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Joygun Nessa skillfully crafts puffed rice using a traditional Bangladeshi technique, highlighting the delicate balance of fire, rice, and timing.
 emoji: 🍚
 tags:
-
-- 🌍 Culture-Making.com
-- 🇦🇺 Australia
-- 🌾 Agriculture
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇦🇺 Australia
+  - 🌾 Agriculture
+  - 🌍 Culture
+haiku: |
   Muri puffs with care,  
-   Sand and rice dance in the heat,  
-   Tradition lives on.
-  coordinates: [23.685, 90.3563]
+  Sand and rice dance in the heat,  
+  Tradition lives on.
+coordinates: [23.685, 90.3563]
+---
 
 I just learned recently that Kellogg's Rice Krispies cereal is sold in Australia under the name [Rice Bubbles](http://web.archive.org/web/20081001212756/http://www.kelloggs.com.au:80/Brand.asp?BrandID=26)—which reminded me of this description I'd read a while ago of a traditional Bangladeshi technique for making puffed rice
 

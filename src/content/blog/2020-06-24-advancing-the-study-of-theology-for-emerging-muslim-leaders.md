@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-06-24
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Advancing the Study of Theology for Emerging Muslim Leaders
 slug: advancing-the-study-of-theology-for-emerging-muslim-leaders
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Scholars Are Building a New Academic Program Encompassing Advanced Islamic Theology and Contemporary Thought
 emoji: 🕌
 tags:
-
-- 🌀 Templeton
-- 🌙 Islam
-- ⛪ Religion
-- 🏫 Education
-  haiku: |
+  - 🌀 Templeton
+  - 🌙 Islam
+  - ⛪ Religion
+  - 🏫 Education
+haiku: |
   New seeds in old soil,  
-   Scholars bridge faith and reason,  
-   Light grows, deep roots coil.
-  coordinates: [34.096676, -117.719778]
+  Scholars bridge faith and reason,  
+  Light grows, deep roots coil.
+coordinates: [34.096676, -117.719778]
+---
 
 For the John Templeton Foundation, I wrote about a new initiative enhancing theological education among upcoming Muslim leaders.
 

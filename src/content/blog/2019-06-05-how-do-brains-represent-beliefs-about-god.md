@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-06-05
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: How Do Brains Represent Beliefs About God?
 slug: how-do-brains-represent-beliefs-about-god
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore how brains visualize God versus other figures through cutting-edge neuroimaging and machine learning techniques.
 emoji: 🧠
 tags:
-
-- 🌀 Templeton
-- 🧠 Neuroscience
-- ⛪ Religion
-- ⚖️ Algorithms
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - ⛪ Religion
+  - ⚖️ Algorithms
+haiku: |
   Brains light up with faith,  
-   God's image traced by new tech,  
-   Beliefs mapped like stars.
-  coordinates: [38.9076, -77.0723]
+  God's image traced by new tech,  
+  Beliefs mapped like stars.
+coordinates: [38.9076, -77.0723]
+---
 
 For the John Templeton Foundation, I wrote about groundbreaking research into how human brains map their beliefs about the divine.
 

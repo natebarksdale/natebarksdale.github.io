@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-03-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Hold On
 slug: mix-cd-hold-on
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: For a while, I've been interested in the ways that repeating a word over and over can change it—sometimes it loses meaning, becoming a simple babble of repeated sounds. In other cases, the repetition increases the strength and depth of the word.
 emoji: 🎵
 tags:
-
-- 💿 Mix CDs
-- ✨ Wonder
-- 🎶 Activities
-- 🎵 Music
-- 📖 Discussions
-- ❤️ Kindness
-  haiku: |
+  - 💿 Mix CDs
+  - ✨ Wonder
+  - 🎶 Activities
+  - 🎵 Music
+  - 📖 Discussions
+  - ❤️ Kindness
+haiku: |
   Words echo through time,  
-   Holding on to fleeting dreams,  
-   Strength in each refrain.
-  coordinates: [34.0522, -118.2437]
+  Holding on to fleeting dreams,  
+  Strength in each refrain.
+coordinates: [34.0522, -118.2437]
+---
 
 #### Wimbo Zuri Catalog No. 040.1A08-1
 

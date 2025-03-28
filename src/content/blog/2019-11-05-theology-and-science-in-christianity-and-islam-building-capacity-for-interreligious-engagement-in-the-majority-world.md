@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-11-05
 modDatetime: 2025-03-18 21:19:22+00:00
@@ -10,19 +9,20 @@ draft: False
 description: How do you get 10,000 books into the hands of students and scholars in dozens of countries? Logistics, logistics, logistics.
 emoji: 📚
 tags:
-
-- ➗ Mathematics
-- 🌀 Templeton
-- ⛪ Religion
-- 🌙 Islam
-- ✝️ Christianity
-- 📖 Books
-  haiku: |
+  - ➗ Mathematics
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌙 Islam
+  - ✝️ Christianity
+  - 📖 Books
+haiku: |
   Books traverse the globe,  
-   Bridging faiths with shared wisdom,  
-   Knowledge lights new paths.
+  Bridging faiths with shared wisdom,  
+  Knowledge lights new paths.
 
 coordinates: [42.9634, -85.6681]
+---
+
 For the John Templeton Foundation, I wrote about a unique effort to bring theological knowledge where it's needed most.
 
 > The stories of science and theology can be told, at least in part, as the story of the grand movement of books. Throughout the Judeo-Christian and Islamic worlds, key texts such as scriptures, metaphysical treatises, or mathematical proofs were carried from their points of origin to distant centers of learning where they were copied, translated, and used as the basis for more scholarship — and ultimately more books.

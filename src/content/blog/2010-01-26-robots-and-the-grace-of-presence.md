@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-26
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: Robots and the grace of presence
 slug: robots-and-the-grace-of-presence
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring the surprising reactions people have to humanoid robots, the uncanny feeling seems to fade in person, revealing a more approachable side of robotics.
 emoji: 🤖
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+haiku: |
   Robots face to face,  
-   Uncanny fades, grace emerges,  
-   Connection prevails.
-  coordinates: [34.6937, 135.5023]
+  Uncanny fades, grace emerges,  
+  Connection prevails.
+coordinates: [34.6937, 135.5023]
+---
 
 Humanoid robots often look creepy, but in person the uncanniness quickly fades and—in admittedly weird human-to-machine way—offers an opening for grace: "in person, most robots, particularly ones designed to interact with humans, are simply not scary. They're bumbling and a little helpless. Like a pet or a child, you cut them slack
 

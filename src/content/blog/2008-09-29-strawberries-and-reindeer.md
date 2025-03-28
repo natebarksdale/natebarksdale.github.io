@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Strawberries and reindeer
 slug: strawberries-and-reindeer
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of the profound significance of cooking in human culture.
 emoji: 🍳
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🍳 Cooking
-- 🌱 Sustainability
-- 📖 Books
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🍳 Cooking
+  - 🌱 Sustainability
+  - 📖 Books
+  - 🌍 Culture
+haiku: |
   From fire’s embrace,  
-   We shape worlds with simple hands—  
-   Meals bridge hearts and minds.
-  coordinates: [20.5937, 78.9629]
+  We shape worlds with simple hands—  
+  Meals bridge hearts and minds.
+coordinates: [20.5937, 78.9629]
+---
 
 From an interstitial essay in a wonderful book of portraits and reportage examining what foods "typical" families from around the world eat in the course of a week
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-05
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Another one bites the dust
 slug: another-one-bites-the-dust
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Dirt-eating is a peculiar practice that connects nutrition, soil health, and cultural history.
 emoji: 🌱
 tags:
-
-- 📖 Bible
-- 🌍 Culture-Making.com
-- 🌍 Ecology
-- 🌍 Environment
-- 📖 Articles
-  haiku: |
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - 🌍 Ecology
+  - 🌍 Environment
+  - 📖 Articles
+haiku: |
   Tasting the earth's heart,  
-   Secrets of soil unfold,  
-   Life's mix, pure and bold.
-  coordinates: [37.0902, -95.7129]
+  Secrets of soil unfold,  
+  Life's mix, pure and bold.
+coordinates: [37.0902, -95.7129]
+---
 
 Dirt-eating is fascinating and, one must admit, kind of disturbing. It calls to mind strange associations—of little kids who experience the world by putting it in their mouth; of the pregnant heroine in Barbara Kingsolver's _[The Poisonwood Bible](https://www.google.com/search?q=%22The%20Poisonwood%20Bible%22%20amazon.com)_ who craves dirt for its needed nutrients; of parrots [flocking at clay banks](http://junglebirdseatclay.blogspot.com/) for their own dietary supplement, of the American slaves described in historien Eugene Genovese's _[Roll Jordan Roll](https://www.google.com/search?q=%22Roll%20Jordan%20Roll%22%20amazon.com)_ , who swallowed dirt in response to their dire conditions—and, more happily, of the farmer sampling his soil to discern how best to tend it
 

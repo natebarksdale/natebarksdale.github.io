@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-11
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: “Your logo saves lives!”
 slug: your-logo-saves-lives
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In a surprising turn of events, a logo designed for Mercy Corps has proven to be crucial for identifying aid in crisis situations.
 emoji: 🆘
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🚨 Warnings
-- 🌀 Complexity
-- 🌍 Society
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🚨 Warnings
+  - 🌀 Complexity
+  - 🌍 Society
+haiku: |
   Logo brings us hope,  
-   Distinguishing the friend,  
-   Saving lives through art.
-  coordinates: [35.682839, 139.759455]
+  Distinguishing the friend,  
+  Saving lives through art.
+coordinates: [35.682839, 139.759455]
+---
 
 You design a logo and hand it over to the client and, through them, to the wider world—and like any cultural offering, people make of it what they will, ignoring many of the details you anguished over but (at least in rare cases like this one) responding to, and recreating, the things it contains that matter most
 

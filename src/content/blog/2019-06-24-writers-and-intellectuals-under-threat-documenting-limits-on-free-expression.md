@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-06-24
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: Writers and Intellectuals Under Threat - Documenting Limits on Free Expression
 slug: writers-and-intellectuals-under-threat-documenting-limits-on-free-expression
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore how modern tech curtails free speech and a new PEN America project tracking threats against global intellectuals.
 emoji: 🔒
 tags:
-
-- 🌀 Templeton
-- ✍️ Literature
-- 🌐 Internet
-- ⚖️ Law
-  haiku: |
+  - 🌀 Templeton
+  - ✍️ Literature
+  - 🌐 Internet
+  - ⚖️ Law
+haiku: |
   Voices dimmed by fear,
   Silent pens bleed unseen truths,
   Shadows curb the light.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the evolving challenges to free expression impacting writers and intellectuals globally.
 

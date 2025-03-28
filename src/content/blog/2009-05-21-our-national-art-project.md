@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-21
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:58Z
 title: Our national art project
 slug: our-national-art-project
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the relationship between great art and the greatness of a nation.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 📝 Writing
-- 🎨 Art
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 📝 Writing
+  - 🎨 Art
+haiku: |
   Great art inspires us,  
-   Nations rise through creativity,  
-   Beauty shapes our world.
-  coordinates: [38.8833, -77.0167]
+  Nations rise through creativity,  
+  Beauty shapes our world.
+coordinates: [38.8833, -77.0167]
+---
 
 Honestly I find myself wanting to just remove the nation from the equation entirely: Great Art Makes (and Deserves!) Great Art. A tautology, but one whose causality I can wholeheartedly affirm
 

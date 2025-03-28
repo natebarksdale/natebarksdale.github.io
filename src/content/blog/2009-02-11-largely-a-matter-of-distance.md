@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-11
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:54Z
 title: Largely a matter of distance
 slug: largely-a-matter-of-distance
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the dark journeys we undertake, as illustrated through history and myth.
 emoji: 🌌
 tags:
-
-- 🌍 Culture-Making.com
-- 🌅 Reflection
-- 🌌 Dystopias
-- 🌍 Consciousness
-- 🌄 Dreams
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌅 Reflection
+  - 🌌 Dystopias
+  - 🌍 Consciousness
+  - 🌄 Dreams
+haiku: |
   In darkness we run,  
-   Seeking light beyond the pain,  
-   Stars whisper our fears.
-  coordinates: [34.0522, -118.2437]
+  Seeking light beyond the pain,  
+  Stars whisper our fears.
+coordinates: [34.0522, -118.2437]
+---
 
 The sort of reflection that a quiet evening bike ride makes possible—try that in your car!
 

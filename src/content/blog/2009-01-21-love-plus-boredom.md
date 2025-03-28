@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-21
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Love plus boredom
 slug: love-plus-boredom
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on connection and creativity sparked during mundane moments in life.
 emoji: 💌
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌆 Urban Spaces
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌆 Urban Spaces
+  - 📝 Writing
+haiku: |
   A bus driver writes,  
-   Daily notes from afar,  
-   Love through simple lines.
-  coordinates: [40.7128, -74.0060]
+  Daily notes from afar,  
+  Love through simple lines.
+coordinates: [40.7128, -74.0060]
+---
 
 What having to wait through thousands and thousands of red lights can make possible
 a [Fed by Birds](http://web.archive.org/web/20140813200427/http://www.fedbybirds.com/2009/01/please_respond_to_my_enquiries.html) post, 17 January 2009

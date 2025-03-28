@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-11-03
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: What is the world’s oldest democracy?
 slug: what-is-the-worlds-oldest-democracy
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore the roots and debates surrounding the world’s oldest democracies, from ancient Athens to Viking-led parliaments.
 emoji: 🏛️
 tags:
-
-- 🍷 Europe
-- 🇭 History.com
-- 🌍 History
-- 🗳️ Politics
-- ⚖️ Law
-  haiku: |
+  - 🍷 Europe
+  - 🇭 History.com
+  - 🌍 History
+  - 🗳️ Politics
+  - ⚖️ Law
+haiku: |
   Ancient voices claim,
   Isles echo with age-old laws,
   Democracy's roots.
-  coordinates: [64.9631, -19.0208]
+coordinates: [64.9631, -19.0208]
+---
 
 For the History Channel, I wrote about the challenges of identifying the world's earliest democracy.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: You had me at 'hello'
 slug: you-had-me-at-hello
 featured: false
@@ -10,22 +9,22 @@ draft: false
 description: An exploration of how the word "hello" transcended technology and culture through the evolution of telephonic communication.
 emoji: 📞
 tags:
-
-- 🌙 Islam
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🧉 South America
-- 🇫🇷 France
-- 🇨🇳 China
-- 📱 Social Networks
-- 🗣️ Language
-- 🌍 Diversity
-- 🌍 Culture
-  haiku: |
+  - 🌙 Islam
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🧉 South America
+  - 🇫🇷 France
+  - 🇨🇳 China
+  - 📱 Social Networks
+  - 🗣️ Language
+  - 🌍 Diversity
+  - 🌍 Culture
+haiku: |
   Words cross the wires,  
-   Hello connects the world wide,  
-   Sounds of friendship bloom.
-  coordinates: [37.7749, -122.4194]
+  Hello connects the world wide,  
+  Sounds of friendship bloom.
+coordinates: [37.7749, -122.4194]
+---
 
 [![Telephone Booths](@assets/images/telephones.jpg)](@assets/images/telephones.jpg)
 image cc [Richard Stowey](http://www.flickr.com/photos/richardstowey/)/flickr

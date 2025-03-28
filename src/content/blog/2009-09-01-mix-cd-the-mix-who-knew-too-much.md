@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-01
 modDatetime: 2025-03-10 21:39:27+00:00
@@ -10,17 +9,17 @@ draft: False
 description: A creative exploration that challenges the balance between Alfred Hitchcock's cinematic themes and the musical landscape, while incorporating visual elements inspired by his iconic style.
 emoji: 🎥
 tags:
-
-- 💿 Mix CDs
-- 💡 Design
-- 🎬 Hollywood
-- 🎭 Entertainment
-- 🌀 Complexity
-  haiku: |
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🎬 Hollywood
+  - 🎭 Entertainment
+  - 🌀 Complexity
+haiku: |
   Shadows on the screen,  
-   Twists and turns in every frame,  
-   Susp
-  coordinates: [51.509865, -0.118092]
+  Twists and turns in every frame,  
+  Susp
+coordinates: [51.509865, -0.118092]
+---
 
 #### Wimbo Zuri Catalog No. 048.1A09-1
 

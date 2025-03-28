@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-07
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: The blurry border between having a dream and losing one’s mind
 slug: the-blurry-border-between-having-a-dream-and-losing-ones-mind
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the intertwining of dream and madness in Herzog's "Fitzcarraldo."
 emoji: 🎭
 tags:
-
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🎥 Film
-- 🌄 Dreams
-- 🌀 Complexity
-  haiku: |
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🎥 Film
+  - 🌄 Dreams
+  - 🌀 Complexity
+haiku: |
   Grand dreams in the wild,  
-   A ship raised by hopeful hands,  
-   Madness meets beauty.
-  coordinates: [-5.0, -74.5]
+  A ship raised by hopeful hands,  
+  Madness meets beauty.
+coordinates: [-5.0, -74.5]
+---
 
 Whenever you hear a story about how the making of a film wound up eerily paralleling the onscreen action, you can pretty much be sure the film in question is not a romantic comedy. Unlike the more famous example of Francis Ford Coppala's [Appocalypse Now](http://en.wikipedia.org/wiki/Apocalypse_now), Werner Herzog's [Fitzcarraldo](http://en.wikipedia.org/wiki/Fitzcarraldo), despite its even more harrowing circumstances of production, manages to impossibly push through to something approximating real bliss and beauty, if not quite sanity
 

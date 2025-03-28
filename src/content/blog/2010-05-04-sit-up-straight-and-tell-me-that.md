@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-04
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: Sit up straight and tell me that!
 slug: sit-up-straight-and-tell-me-that
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Research shows that sitting up straight can enhance self-confidence and influence how we perceive our own qualifications.
 emoji: 🧘
 tags:
-
-- 🌍 Culture-Making.com
-- 🧠 Psychology
-- ⚖️ Choices
-- ❤️ Resilience
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🧠 Psychology
+  - ⚖️ Choices
+  - ❤️ Resilience
+haiku: |
   Straight spine, clear thought,  
-   Confidence is born anew,  
-   Body shapes the mind.
-  coordinates: [40.4220, -82.4850]
+  Confidence is born anew,  
+  Body shapes the mind.
+coordinates: [40.4220, -82.4850]
+---
 
 Self-praise—and self-critique—became more strident when research subjects were asked to sit up straight. Posture inspires confidence, even when you're the only one in the room
 

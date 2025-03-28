@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-31
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: Politics, yes. Quote-sourcing? Maybe not
 slug: politics-yes-quote-sourcing-maybe-not
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the roots of the saying "All politics is local" and its history, as well as its connection to culture-making.
 emoji: 📜
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🗳️ Politics
-- 📖 Quotes
-- 📝 Writing
-- 📰 Media
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🗳️ Politics
+  - 📖 Quotes
+  - 📝 Writing
+  - 📰 Media
+haiku: |
   Local words resound,  
-   Echoes of a time before,  
-   Culture in our hands.
-  coordinates: [39.6414, -77.1196]
+  Echoes of a time before,  
+  Culture in our hands.
+coordinates: [39.6414, -77.1196]
+---
 
 Andy makes quite a bit of hay with the Tip O'Neill quote in Chapter 15 -- though I doubt even the editor of the Yale Dictionary of Quotations would be able to find a prior instance of the phrase "all culture-making is local
 

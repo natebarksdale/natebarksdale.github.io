@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-21
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: On a human plane
 slug: on-a-human-plane
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A Spanish novelist explores our relationship with airplanes, urging us to view them more personally, akin to how we interact with living beings or ships.
 emoji: 🛩️
 tags:
-
-- 🌍 Culture-Making.com
-- ✈️ Aviation
-- 🌍 Culture
-- 🔍 Discoveries
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✈️ Aviation
+  - 🌍 Culture
+  - 🔍 Discoveries
+haiku: |
   Steel birds in the sky,  
-   Tamed with love and respect,  
-   Yet cold as the stars.
-  coordinates: [40.4168, -3.7038]
+  Tamed with love and respect,  
+  Yet cold as the stars.
+coordinates: [40.4168, -3.7038]
+---
 
 A Spanish novelist's prescription for his fear of flying: learn to love airplanes as individuals. The humanizing touch is hardly absent from the history of flight: think of Howard Hawks' classic film [_Only Angels Have Wings_](http://www.youtube.com/watch?v=ZXRyZe-vsJ8&feature=player_embedded) or all those pin-up models [painted onto the noses](http://images.google.com/images?hl=en&client=firefox-a&rls=org.mozilla%3Aen-US%3Aofficial&um=1&sa=1&q=wwii+bomber+nose+art&aq=f&oq=&aqi=g1&start=0) of WWII bombers. And it lives on in the work of a few contemporary writers—[William Langewiesche](http://en.wikipedia.org/wiki/William_Langewiesche) in particular—even in the serial-number world of today's commercial aviation
 

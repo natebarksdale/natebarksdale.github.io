@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-09
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Garbage barges vs. vertical farms
 slug: garbage-barges-vs-vertical-farms
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring why urban environments may not be ideal for high-tech food production despite their many advantages.
 emoji: 🌆
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Environment
-- 🌆 Cities
-- 🚉 Transportation
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Environment
+  - 🌆 Cities
+  - 🚉 Transportation
+  - ⚖️ Choices
+haiku: |
   Urban farms so high,  
-   Land scarce, people packed tighter,  
-   Efficiency lost.
-  coordinates: [40.7128, -74.0060]
+  Land scarce, people packed tighter,  
+  Efficiency lost.
+coordinates: [40.7128, -74.0060]
+---
 
 Why cities might not be the best place for large-scale, hi-tech food production -- food-miles notwithstanding
 

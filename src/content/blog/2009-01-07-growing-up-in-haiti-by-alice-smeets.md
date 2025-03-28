@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Growing up in Haiti, by Alice Smeets
 slug: growing-up-in-haiti-by-alice-smeets
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A poignant reflection on the powerful photography of children in Haiti by Alice Smeets.
 emoji: 📸
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Haiti
-- ❤️ Kindness
-- ✍️ Literature
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Haiti
+  - ❤️ Kindness
+  - ✍️ Literature
+haiku: |
   Faces tell stories,  
-   Laughter mingles with sorrow,  
-   Hope in each heartbeat.
-  coordinates: [18.9712, -72.2852]
+  Laughter mingles with sorrow,  
+  Hope in each heartbeat.
+coordinates: [18.9712, -72.2852]
+---
 
 This photograph was named Unicef's Photo of the Year for 2008. A friend of mine currently working as a journalist in Haiti posted the link and a very apt description: "Some of these photos of children in Haiti, by 21-year-old Belgian Alice Smeets, are wry. Most are wrenching. All are amazing." I second that
 [![photo](http://culture-making.com/media/slideshow001.jpg)](http://www.alicesmeets.com/gal_haiti.htm)

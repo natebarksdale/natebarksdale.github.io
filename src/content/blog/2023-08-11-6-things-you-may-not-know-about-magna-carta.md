@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-06-15
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Six Things You May Not Know About Magna Carta
 slug: six-things-you-may-not-know-about-magna-carta
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Discover six intriguing aspects of Magna Carta, a charter that shaped modern democracy, forged under duress and rich historical negotiation.
 emoji: 📜
 tags:
-
-- 🇭 History.com
-- 🌍 History
-- ⛪ Religion
-- ⚖️ Law
-  haiku: |
+  - 🇭 History.com
+  - 🌍 History
+  - ⛪ Religion
+  - ⚖️ Law
+haiku: |
   King's heavy hand bound,  
-   Barons force a fairer creed,  
-   Freedom's roots take hold.
-  coordinates: [51.1789, -1.8262]
+  Barons force a fairer creed,  
+  Freedom's roots take hold.
+coordinates: [51.1789, -1.8262]
+---
 
 For the History Channel, I wrote an engaging exploration into the lesser-known aspects of Magna Carta's history and influence.
 

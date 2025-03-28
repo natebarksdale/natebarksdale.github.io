@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: The claims we make on nature and beauty
 slug: the-claims-we-make-on-nature-and-beauty
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An insightful critique by Rebecca Solnit on the intersection of beauty, nature, and politics in sports, particularly during the Olympics.
 emoji: 🌍
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Environment
-- 🌍 Culture
-- 🎨 Art
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Environment
+  - 🌍 Culture
+  - 🎨 Art
+haiku: |
   Bodies in motion,  
-   Nature's grace, politics claim,  
-   Beauty masked by gains.
-  coordinates: [37.0902, -95.7129]
+  Nature's grace, politics claim,  
+  Beauty masked by gains.
+coordinates: [37.0902, -95.7129]
+---
 
 An Olympic critique by one of the most insightful current writers about the confluence of art, nature, and technology
 

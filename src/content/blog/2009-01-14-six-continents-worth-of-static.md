@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-14
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Six continents’ worth of static
 slug: six-continents-worth-of-static
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: An exploration of the chaotic and diverse world of satellite TV in Jordan.
 emoji: 📺
 tags:
-
-- 🌙 Islam
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Globalization
-- 🌍 Identity
-- 🕌 Monuments
-  haiku: |
+  - 🌙 Islam
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Globalization
+  - 🌍 Identity
+  - 🕌 Monuments
+haiku: |
   Channels intertwine,  
-   Voices of the world converge,  
-   Friends lost in translation.
-  coordinates: [30.5852, 36.2384]
+  Voices of the world converge,  
+  Friends lost in translation.
+coordinates: [30.5852, 36.2384]
+---
 
 On watching satellite TV in Jordan (or anywhere else, basically, that isn't here)
 

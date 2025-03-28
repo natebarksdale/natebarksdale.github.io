@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-10-05
 modDatetime: 2025-03-18 17:28:43+00:00
@@ -10,20 +9,21 @@ draft: False
 description: Claiming supernatural power for their members and wielding lasting economic influence, secret societies may represent a key stage in human institution-building
 emoji: 🕊️
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🦁 Africa
-- 🌀 Templeton
-- ⛪ Religion
-- 🌍 Culture
-- 👶 Children
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌍 Culture
+  - 👶 Children
+haiku: |
   Child with crane wings lies,  
-   Secret rites shape ancient tribes,  
-   Whispers shape the bones.
+  Secret rites shape ancient tribes,  
+  Whispers shape the bones.
 
 coordinates: [58.5953, 25.0136]
+---
+
 For the John Templeton Foundation, I wrote about the role secret societies might have played in shaping early human societies.
 
 > Several thousand years ago in what is now Estonia, a child was buried with a flute made from a bird’s bone and with crane wings placed in his or her hands. Too young to have likely been a shaman or initiate, the child — whose elaborately arranged grave was excavated by archaeologists in the 1970s — was probably a member of a secret society, says Brian Hayden, an anthropologist at Simon Fraser University in British Columbia. In anthropological parlance, secret societies are a type of elite quasi-religious organization seen time and again in cultures that are on the transition point from small, kinship-based egalitarian hunter-gatherer bands into more complex and hierarchical societies.

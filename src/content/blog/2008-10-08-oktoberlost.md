@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-08
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Oktoberlost
 slug: oktoberlost
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A glimpse into the lively chaos of Munich's Oktoberfest, adorned by its amusing lost and found treasures.
 emoji: 🍻
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🍺 Beer
-- ⏰ Time
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🍺 Beer
+  - ⏰ Time
+haiku: |
   Revelers abound,  
-   Lost treasures paint the fest,  
-   Cheers and laughter blend.
-  coordinates: [48.1371, 11.5754]
+  Lost treasures paint the fest,  
+  Cheers and laughter blend.
+coordinates: [48.1371, 11.5754]
+---
 
 Insight into the cultural world of Munich's Oktoberfest, via its lost and found ([here](http://web.archive.org/web/20081210172641/http://www.oktoberfest.de:80/de/01/content/041002fundbuero/)'s the official site in German, in case you're missing anything). By my book, the best-ever Munich beer-binge description (which involves its own bit of lost-and found) can be found in Patrick Leigh Fermor's exquisite travel book [A Time of Gifts](http://books.google.com/books?id=eNHlV7iiEssC&printsec=frontcover&dq=a+time+of+gifts&ei=lBDtSJ7UIoWYsgPZ6IzmBg&sig=ACfU3U2mYgipxYCeKUEd9uGxh7DZ8DLMXQ#PPA103,M1)—the link will drop you right at the start of Fermor's Hofbrauhaus set-piece
 

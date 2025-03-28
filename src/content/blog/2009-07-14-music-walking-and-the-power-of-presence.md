@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-14
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Music, walking, and the power of presence
 slug: music-walking-and-the-power-of-presence
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the profound connection between movement, music, and empathy in Parkinson's disease.
 emoji: 🎶
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- 🎶 Activities
-- ❤️ Kindness
-- 🌀 Complexity
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - 🎶 Activities
+  - ❤️ Kindness
+  - 🌀 Complexity
+  - 💬 Communication
+haiku: |
   In rhythm we walk,  
-   Shared steps spark a journey's  
-   Power in the notes.
-  coordinates: [40.7128, -74.0060]
+  Shared steps spark a journey's  
+  Power in the notes.
+coordinates: [40.7128, -74.0060]
+---
 
 One of the paradoxes of Parkinson's disease is that it seems to build up in its sufferers both an extraordinary need to act, and a simultaneous blocking of action. Medications, like the L-DOPA made famous in Oliver Sacks' 1969 account _Awakenings_ , can get many such patients 'unstuck' (though it's more harrowingly complex than just that). But sometimes the unblocking can be brought on by seemingly far subtler treatments: by music, by the visual cues of another person's normal gestures
 

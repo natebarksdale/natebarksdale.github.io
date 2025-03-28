@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-09-24
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Harnessing the power of paradox to unravel how the first forms of life may have developed.
 emoji: 🧪
 tags:
-
-- 🧪 Chemistry
-- 🌀 Templeton
-- 🧬 Biology
-- 🔍 Logic
-  haiku: |
+  - 🧪 Chemistry
+  - 🌀 Templeton
+  - 🧬 Biology
+  - 🔍 Logic
+haiku: |
   Paradoxes spark thought,  
-   Ancient RNA whispers,  
-   Life stirs from chaos.
+  Ancient RNA whispers,  
+  Life stirs from chaos.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about the origins of life and the chemical conundrums that puzzle today's scientists.
 
 > The philosopher Søren Kierkegaard famously referred to paradoxes as “grandiose thoughts in embryo.” When a paradox creates a logical roadblock in a given line of thinking, Kierkegaard saw that it could hold the potential for a profound breakthrough.

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-04-28
-modDatetime: 2025-03-28T14:39:25Z
+modDatetime: 2025-03-28T15:32:08Z
 title: The Garifuna Mass
 slug: the-garifuna-mass
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: New York City's linguistic tapestry showcases endangered languages thriving in unexpected places.
 emoji: 🌍
 tags:
-
-- 🗣🗣️ Language
-- 🥑 Central America
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🇺🇸 United States
-- 🌍 Diversity
-- 🗣️ Language
-- 🏛️ Churches
-  haiku: |
+  - 🗣🗣️ Language
+  - 🥑 Central America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🇺🇸 United States
+  - 🌍 Diversity
+  - 🗣️ Language
+  - 🏛️ Churches
+haiku: |
   Lost tongues find refuge,  
-   In the city's embrace,  
-   Cultures intertwine.
-  coordinates: [40.7128, -74.0060]
+  In the city's embrace,  
+  Cultures intertwine.
+coordinates: [40.7128, -74.0060]
+---
 
 New York City, this article says, is the most linguistically diverse city in the world. In a few cases it's easier to find speakers of endangered languages there than in the languages' home regions
 

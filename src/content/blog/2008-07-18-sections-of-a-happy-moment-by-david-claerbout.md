@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-18
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Sections of a Happy Moment, by David Claerbout
 slug: sections-of-a-happy-moment-by-david-claerbout
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: I love how the game and social, inter-generational connection emerges in spite of a not-that-hospitable brutalist urban setting.
 emoji: 🎮
 tags:
-
-- 🌍 Culture-Making.com
-- 🌆 Urban Spaces
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌆 Urban Spaces
+  - 🌍 Society
+haiku: |
   Amidst concrete walls,  
-   Laughter weaves through the chaos,  
-   Connections take flight.
-  coordinates: [51.2217, 4.3997]
+  Laughter weaves through the chaos,  
+  Connections take flight.
+coordinates: [51.2217, 4.3997]
+---
 
 I love how the game and social, inter-generational connection emerges in spite of a not-that-hospitable brutalist urban setting.
 [![photo](http://www.culture-making.com/media/photoespana_7.jpg)](http://www.lensculture.com/photoespana.html)

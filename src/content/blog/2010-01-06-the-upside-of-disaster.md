@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-06
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: The upside of disaster
 slug: the-upside-of-disaster
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: Solnit explores the surprising joy that emerges from the rubble of disasters, revealing deep desires for community and connection.
 emoji: 🌈
 tags:
-
-- ➗ Mathematics
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Society
-- ❤️ Resilience
-- ⚠️ Danger
-- 🌅 Reflection
-  haiku: |
+  - ➗ Mathematics
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - ❤️ Resilience
+  - ⚠️ Danger
+  - 🌅 Reflection
+haiku: |
   From the chaos, light,  
-   Desires bloom in the ruins,  
-   Hope rises from ash.
-  coordinates: [29.9511, -90.0715]
+  Desires bloom in the ruins,  
+  Hope rises from ash.
+coordinates: [29.9511, -90.0715]
+---
 
 I'm currently reading Rebecca Solnit's thoughtful and astonishing book about the human aftermath of disasters. She argues forcefully against the Hobbesian notion that disaster rips back the veneer of society to expose animal panic and animal selfishness, recounting story after story of post-disaster culture-making of the best kind: selfless, creative, effective, and even joyful. Disaster is horrible, and in its aftermath not everyone behaves nobly, but it also breaks through what Walker Percy called the "everydayness" of life, making it possible to see things and people anew
 

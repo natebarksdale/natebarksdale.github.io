@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: Grand ideas first,  obstacles later
 slug: grand-ideas-first-obstacles-later
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A critical reflection on the narrative of world-changing meetings and the potential consequences of scientific endeavors, particularly referencing CERN's impact on our understanding of the universe.
 emoji: 🌌
 tags:
-
-- ⚛️ Physics
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌍 Culture
-- ⚙️ Technology
-  haiku: |
+  - ⚛️ Physics
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌍 Culture
+  - ⚙️ Technology
+haiku: |
   Ideas intertwine,  
-   In gatherings, worlds transform,  
-   Futures born from hopes.
-  coordinates: [46.6034, 6.1529]
+  In gatherings, worlds transform,  
+  Futures born from hopes.
+coordinates: [46.6034, 6.1529]
+---
 
 I'm vaguely disappointed to see Nature jumping on the "Changed the world" bandwagon—not least because their essay series is basically world-changing as reported by the (self-reported) world-changers. In my perfect (changed!) world we'd have counter-narratives by people who attended other, equally-important-seeming meetings at roughly the same time. I should note, though, that if CERN's now-operational Large Hadron Collider defies the physicists' consensus and does wind up spawning a black hole that sucks up the entire planet—well then I'll tip my extremely dense, extremely small hat to CERN's founders as world-changers indeed
 

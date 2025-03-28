@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-05-22
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: What Counts As Religious Experience?
 slug: what-counts-as-religious-experience
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A new survey framework aims to give researchers better tools to compare extraordinary human experiences.
 emoji: 🕊️
 tags:
-
-- 🌀 Templeton
-- ⛪ Religion
-- 🧘‍♂️ Psychology
-- 🇺🇸 United States
-  haiku: |
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🧘‍♂️ Psychology
+  - 🇺🇸 United States
+haiku: |
   Mystic or madness,  
-   Crossing cultures, minds explore—  
-   Sacred depths unveiled.
-  coordinates: [34.414, -119.8489]
+  Crossing cultures, minds explore—  
+  Sacred depths unveiled.
+coordinates: [34.414, -119.8489]
+---
 
 For the John Templeton Foundation, I wrote about the intricate ways we define and study religious experiences.
 

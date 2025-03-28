@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-28
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: Not all thumbs
 slug: not-all-thumbs
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: This study reveals how counting gestures differ across cultures, particularly between Germans and Canadians.
 emoji: ✋
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- 🌍 Culture
-- 👋 Greetings
-- 🗣️ Language
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - 🌍 Culture
+  - 👋 Greetings
+  - 🗣️ Language
+haiku: |
   Different cultures,  
-   Counting fingers tell a tale,  
-   Gestures bridge the gaps.
-  coordinates: [49.2827, -123.1207]
+  Counting fingers tell a tale,  
+  Gestures bridge the gaps.
+coordinates: [49.2827, -123.1207]
+---
 
 This is from a study published in the [Journal of Cross-Cultural Psychology](http://web.archive.org/web/20100402053950/http://jcc.sagepub.com:80/current.dtl). How do I love a journal with a title like that? Let me count the ways ..
 

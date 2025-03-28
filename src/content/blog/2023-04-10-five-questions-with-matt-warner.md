@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-04-10
 modDatetime: 2025-03-20 14:57:36+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Matt Warner, president of Atlas Network, talks about promoting global freedom and human flourishing.
 emoji: 🌍
 tags:
-
-- 🌀 Templeton
-- 🌍 Globalization
-- 💼 Leadership
-- 📚 Archives
-  haiku: |
+  - 🌀 Templeton
+  - 🌍 Globalization
+  - 💼 Leadership
+  - 📚 Archives
+haiku: |
   Ideas bridge the world,  
-   Free markets bloom, barriers fall,  
-   Freedom's roots grow deep.
+  Free markets bloom, barriers fall,  
+  Freedom's roots grow deep.
 
 coordinates: [38.89511, -77.03637]
+---
+
 For the John Templeton Foundation, I interviewed Matt Warner, the president of Atlas Network, about global freedom and human flourishing.
 
 > _How did you first get interested in entrepreneurship and development?_

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Culture-making, underwater edition!
 slug: culture-making-underwater-edition
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the fascinating behavior of dolphins who use sponges as tools reveals insights into their unique culture and social dynamics.
 emoji: 🐬
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🐬 Dolphins
-- ⏰ Time
-- ♻️ Repurposing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🐬 Dolphins
+  - ⏰ Time
+  - ♻️ Repurposing
+haiku: |
   Dolphins seek and find,  
-   Sponges shield in deep waters,  
-   Nature's clever minds.
-  coordinates: [-25.5, 113.5]
+  Sponges shield in deep waters,  
+  Nature's clever minds.
+coordinates: [-25.5, 113.5]
+---
 
 What happens when you team what are arguably the cutest marine vertebrate and invertebrate, respectively? A fascinating, not to mention fun-to-read-about example of non-human culture-making and -keeping
 

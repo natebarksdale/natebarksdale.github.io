@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-21
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: To arrr is human
 slug: to-arrr-is-human
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Exploring our fascination with pirates reveals deeper existential themes about boundaries and identity.
 emoji: ☠️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - ⚖️ Ethics
+haiku: |
   Boundless ocean's edge,  
-   Rebels dance with chance and fate,  
-   Life's daring embrace.
-  coordinates: [23.6345, -88.2391]
+  Rebels dance with chance and fate,  
+  Life's daring embrace.
+coordinates: [23.6345, -88.2391]
+---
 
 Why are pirates not just fascinating but downright charming, at least in the abstract? Why is it so tempting to think that the solution to our culture's embarrassing pirate fetish is to rename what we call piracy as something different: "software bootleggers"; "Somali ship-jackers"? Why is the idea of "[International Talk Like an Armed Robber Day](http://www.talklikeapirate.com/)" unthinkable? Put another way, why did the Jolly Roger fly from the flagpole at Apple Computer's headquarters while inside they were creating the first Macintosh? Why is the best way to get kids to attend an after-school program to hide its classrooms in the back of a [pirate supply store](http://www.826valencia.org/store/)?
 

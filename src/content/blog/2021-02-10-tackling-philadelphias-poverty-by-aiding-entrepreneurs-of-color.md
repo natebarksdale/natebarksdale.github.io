@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2021-02-10
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: Tackling Philadelphia’s Poverty by Aiding Entrepreneurs of Color
 slug: tackling-philadelphias-poverty-by-aiding-entrepreneurs-of-color
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: New program to connect dozens of new businesses with capital and resources while building best practices for further growth
 emoji: 🌱
 tags:
-
-- 🌀 Templeton
-- 🌱 Entrepreneurship
-- 💼 Funding
-- 🌆 Cities
-  haiku: |
+  - 🌀 Templeton
+  - 🌱 Entrepreneurship
+  - 💼 Funding
+  - 🌆 Cities
+haiku: |
   New seeds in Philly bloom,  
-   Colorful dreams weave through streets,  
-   Hope cuts through deep gloom.
-  coordinates: [39.9526, -75.1652]
+  Colorful dreams weave through streets,  
+  Hope cuts through deep gloom.
+coordinates: [39.9526, -75.1652]
+---
 
 For the John Templeton Foundation, I wrote about an initiative aiming to empower Philadelphia's minority entrepreneurs.
 

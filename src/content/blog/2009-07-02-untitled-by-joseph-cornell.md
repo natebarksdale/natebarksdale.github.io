@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-02
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Untitled, by Joseph Cornell
 slug: untitled-by-joseph-cornell
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the art of Joseph Cornell through the lens of Octavio Paz's poetry.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Poetry
-- 🌍 Culture
-- 🎨 Art
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Poetry
+  - 🌍 Culture
+  - 🎨 Art
+  - 📝 Writing
+haiku: |
   Names slip through the cracks,  
-   Visions trapped in quiet frames,  
-   Stars whisper in wood.
-  coordinates: [40.7128, -74.0060]
+  Visions trapped in quiet frames,  
+  Stars whisper in wood.
+coordinates: [40.7128, -74.0060]
+---
 
 This morning's reading: an Octavio Paz poem, translated by Elizabeth Bishop. '[Objects & Apparitions, For Joseph Cornell](http://www.poesia-inter.net/op15021uk.htm).' Here's a pair of stanzas to whet the appetite:
 '"One has to commit a painting," said Degas,  

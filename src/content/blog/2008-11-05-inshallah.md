@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-05
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Inshallah
 slug: inshallah
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring how Islamic banking's principles help it thrive during financial crises.
 emoji: 🕌
 tags:
-
-- 🌙 Islam
-- 🌍 Culture-Making.com
-- ⚖️ Law
-- ⚖️ Ethics
-- 🇺🇸 United States
-- 🇨🇦 Canada
-  haiku: |
+  - 🌙 Islam
+  - 🌍 Culture-Making.com
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 🇺🇸 United States
+  - 🇨🇦 Canada
+haiku: |
   Sharia’s embrace guards,  
-   Risk held at bay, profits grow,  
-   Crisis whispers low.
-  coordinates: [24.7136, 46.6753]
+  Risk held at bay, profits grow,  
+  Crisis whispers low.
+coordinates: [24.7136, 46.6753]
+---
 
 "[In Meltdown, Islamic Banks Are Doing O.K.](http://ideas.blogs.nytimes.com/2008/10/31/in-meltdown-islamic-banks-are-doing-ok/)," a [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/10/31/in-meltdown-islamic-banks-are-doing-ok/) post, 31 October, 2008
 

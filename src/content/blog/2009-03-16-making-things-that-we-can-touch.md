@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-16
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Making things that we can touch
 slug: making-things-that-we-can-touch
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the intersection between technology, human interaction, and the essence of physical experience.
 emoji: 🌍
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- ⚙️ Technology
-- 🌍 Culture
-- 💡 Innovation
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - ⚙️ Technology
+  - 🌍 Culture
+  - 💡 Innovation
+haiku: |
   Technology calls,  
-   Yet we crave the physical,  
-   Humanity first.
-  coordinates: [42.3601, -71.0942]
+  Yet we crave the physical,  
+  Humanity first.
+coordinates: [42.3601, -71.0942]
+---
 
 The [demo video](http://web.archive.org/web/20111129080928/http://www.ted.com:80/index.php/talks/pattie_maes_demos_the_sixth_sense.html) that goes with this interview is the usual sort of awkward/amazing combo that I've come to expect from the MIT Media Lab's works in progress. As for the interview, I think I just enjoyed that the people inventing sci-fi type tools aren't always inspired by sci-fi itself. Finally, at a more meta-level, I wonder if something like the TED lectures would be possible without the streak of overstating the importance of everything—the portentous, too-loud theme music at the start of the videos nearly keeps me from watching, but many of my fellow viewers must love it
 

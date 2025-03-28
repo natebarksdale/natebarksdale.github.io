@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Cuba’s generation y
 slug: cubas-generation-y
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: An exploration of how naming in Cuba serves as an act of creative resistance against political and cultural constraints.
 emoji: 🆕
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Identity
-- 🇨🇺 Cuba
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Identity
+  - 🇨🇺 Cuba
+haiku: |
   Names born from struggle,  
-   Y's weave stories of the past,  
-   Roots in every sound.
-  coordinates: [23.1136, -82.3666]
+  Y's weave stories of the past,  
+  Roots in every sound.
+coordinates: [23.1136, -82.3666]
+---
 
 Naming can be an act of creative resistance. But, in the Cuban examples here ("Yampier, Yankiel. Yordenis, Yulieski"), this involves resistance to: the new strictures of communism? the old ones of Spanish and "white" domination of the isle? I wonder how much this parallels African-American traditions of bestowing ever-innovative names. (Or the majority-culture tradition of thinking that Jarell and Moesha sound odd but Logan and Madison don't). The article doesn't really get at my own theory for the increase of y-names: Cuba has quite a few towns and districts that start with y and even more that contain that letter -- atypical for Spanish-speaking lands; I think in many cases those y's are rooted in indigenous or early-colonial place-names. So it's not like Cubans had to go to Angola or Moscow to find inspiration for their y's
 

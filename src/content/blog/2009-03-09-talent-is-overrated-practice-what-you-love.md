@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-09
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Talent is overrated, practice what you love
 slug: talent-is-overrated-practice-what-you-love
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the role of practice and passion in developing talent, as illustrated by young musicians and insights from Anders Ericsson's research.
 emoji: 🎶
 tags:
-
-- ➗ Mathematics
-- 🌍 Culture-Making.com
-- 🗣️ Language
-- 💪 Difficulty
-- ⚖️ Choices
-- 🌍 Culture
-  haiku: |
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
+  - 🗣️ Language
+  - 💪 Difficulty
+  - ⚖️ Choices
+  - 🌍 Culture
+haiku: |
   Skills born from hard work,  
-   Passion fuels the journey,  
-   Talent’s flame ignites.
-  coordinates: [40.7128, -74.0060]
+  Passion fuels the journey,  
+  Talent’s flame ignites.
+coordinates: [40.7128, -74.0060]
+---
 
 I'm loving the typography here, and all the other idiosyncrasies (the over-adornment of the band name, the separate "when" and "time" categories, the image of 9–14-year-olds dragging their own drums and pianos to the audition). And as Stephen Dubner points out, any young group with the organizational skills to book a New York room for two weekend days running has a decent chance they'll stick with the enterprise until they're actually good
 

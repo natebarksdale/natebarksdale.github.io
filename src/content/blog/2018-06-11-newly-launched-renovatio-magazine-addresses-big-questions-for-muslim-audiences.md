@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-06-11
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: Newly-launched Renovatio magazine addresses big questions for Muslim audiences
 slug: newly-launched-renovatio-magazine-addresses-big-questions-for-muslim-audiences
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: With articles and events tied to its second issue, Renovatio magazine is hitting its stride
 emoji: 🕌
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- 🌙 Islam
-- 📰 Magazines
-- 📚 Publications
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🌙 Islam
+  - 📰 Magazines
+  - 📚 Publications
+haiku: |
   Ideas blossom wide,  
-   Plural thoughts under one sky,  
-   Monoculture hides.
-  coordinates: [37.8716, -122.2727]
+  Plural thoughts under one sky,  
+  Monoculture hides.
+coordinates: [37.8716, -122.2727]
+---
 
 For the John Templeton Foundation, I wrote about _Renovatio_.
 

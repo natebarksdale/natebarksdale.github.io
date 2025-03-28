@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-11-05
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: The Neuroscience of Self-Determination
 slug: the-neuroscience-of-self-determination
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An ambitious new project aims to expand the scientific understanding of human autonomy
 emoji: 🧠
 tags:
-
-- 💡 Design
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 🧘‍♂️ Psychology
-- ⚖️ Choices
-  haiku: |
+  - 💡 Design
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 🧘‍♂️ Psychology
+  - ⚖️ Choices
+haiku: |
   Minds map, choose, control,  
-   Autonomous depths explored,  
-   Human power grows.
-  coordinates: [40.343, -74.6514]
+  Autonomous depths explored,  
+  Human power grows.
+coordinates: [40.343, -74.6514]
+---
 
 For the John Templeton Foundation, I wrote about a groundbreaking project examining complexities of human autonomy and decision-making.
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-12-08
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Class, power, and empathy
 slug: class-power-and-empathy
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A study reveals how social class influences emotional recognition abilities.
 emoji: 🧠
 tags:
-
-- 🌍 Culture-Making.com
-- 🤝 Families
-- ⚖️ Ethics
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🤝 Families
+  - ⚖️ Ethics
+  - ⚖️ Choices
+haiku: |
   Eyes that fail to see,  
-   Emotions hidden by walls,  
-   Power shapes our hearts.
-  coordinates: [37.7749, -122.4194]
+  Emotions hidden by walls,  
+  Power shapes our hearts.
+coordinates: [37.7749, -122.4194]
+---
 
 This is a fascinating study on class and empathy. This summary explains the finding—that people with less education (their proxy for class) did better at recognizing others' emotions—in terms of peer relationships (judging when and how to ask your friends for help), but it seems like they have a lot to do with power dynamics as well (judging how to avoid negative attention from those who have power over you)
 

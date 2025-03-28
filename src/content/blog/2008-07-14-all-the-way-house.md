@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:34Z
 title: All-the-way House
 slug: all-the-way-house
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A look at Children of the Night, a unique shelter providing care and opportunities for former child prostitutes.
 emoji: 🏠
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- ❤️ Charity
-- ❤️ Kindness
-- 🛋️ Furniture
-- ⚕️ Medicine
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - ❤️ Charity
+  - ❤️ Kindness
+  - 🛋️ Furniture
+  - ⚕️ Medicine
+haiku: |
   A safe haven found,  
-   Dreams nurtured with love and care,  
-   Hope blooms from despair.
-  coordinates: [34.0522, -118.2437]
+  Dreams nurtured with love and care,  
+  Hope blooms from despair.
+coordinates: [34.0522, -118.2437]
+---
 
 A Hollywood take on aftercare—and a pretty inspring one at that
 

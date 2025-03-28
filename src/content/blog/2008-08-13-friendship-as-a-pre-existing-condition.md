@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-13
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Friendship as a pre-existing condition
 slug: friendship-as-a-pre-existing-condition
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the intersection of friendship and law, particularly in caregiving and gifts.
 emoji: 🤝
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⚖️ Law
-- ⚖️ Ethics
-- 🤝 Altruism
-- 📝 Writing
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 🤝 Altruism
+  - 📝 Writing
+haiku: |
   Friends offer their help,  
-   Laws intrude on kindness shown,  
-   Trust wanes in the care.
-  coordinates: [37.7749, -122.4194]
+  Laws intrude on kindness shown,  
+  Trust wanes in the care.
+coordinates: [37.7749, -122.4194]
+---
 
 What happens when the sphere of government gets involved with the very different sphere of personal friendship: sometimes the same laws that aim to protect the weak from being taken advantage of may make it harder to get help from some of those best positioned to offer it
 

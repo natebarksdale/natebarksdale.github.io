@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-09-08
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Why can’t we eat spaghetti too?
 slug: why-cant-we-eat-spaghetti-too
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Diving into Rachel Laudan's critique of the simplistic notions surrounding traditional and modern food practices.
 emoji: 🌍
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- ⚖️ Choices
-- 📖 Discussions
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - ⚖️ Choices
+  - 📖 Discussions
+haiku: |
   Tradition's façade,  
-   Choice blooms in the market's heart,  
-   Spaghetti is fine.
-  coordinates: [23.6345, -102.5528]
+  Choice blooms in the market's heart,  
+  Spaghetti is fine.
+coordinates: [23.6345, -102.5528]
+---
 
 Earlier this summer, I posted an [earlier excerpt](http://www.culture-making.com/post/the_daily_grind) of culinary anthropologist Rachel Laudan's defense of the Bimbo-ization of Mexican bread. Here, she makes a wider historical, cultural, and sociological critique of certain ersatz-traditionalist beliefs of the foodie set
 

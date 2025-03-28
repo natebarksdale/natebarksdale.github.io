@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Shipping the fridge
 slug: shipping-the-fridge
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the once-thriving railroads and their efficient transport of goods in America.
 emoji: 🚂
 tags:
-
-- ⚛️ Physics
-- 🌍 Culture-Making.com
-- 🚂 Railroads
-- ⚙️ Technology
-- 🌱 Sustainability
-  haiku: |
+  - ⚛️ Physics
+  - 🌍 Culture-Making.com
+  - 🚂 Railroads
+  - ⚙️ Technology
+  - 🌱 Sustainability
+haiku: |
   Steel wheels on the move,  
-   Fresh fruits and fridges delivered,  
-   A vanished rhythm.
-  coordinates: [37.0902, -95.7129]
+  Fresh fruits and fridges delivered,  
+  A vanished rhythm.
+coordinates: [37.0902, -95.7129]
+---
 
 Today, the nation’s rail network is just 94,942 miles, less than half of what it was in 1970. Pity that, as there are a lot of things trains did faster, cheaper, and more cleanly than the trucks that by and large replaced them
 

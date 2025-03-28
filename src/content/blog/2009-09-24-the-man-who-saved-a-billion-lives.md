@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-24
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: The man who saved a billion lives
 slug: the-man-who-saved-a-billion-lives
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An insightful tribute to Norman Borlaug and his revolutionary contributions to agriculture.
 emoji: 🌾
 tags:
-
-- 🌍 Culture-Making.com
-- 🌱 Sustainability
-- 🌱 Growth
-- 🌍 Health
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌱 Sustainability
+  - 🌱 Growth
+  - 🌍 Health
+  - ⚖️ Ethics
+haiku: |
   Plants grow tall and strong,  
-   Yielding life from earth's surface,  
-   Change through knowledge springs.
-  coordinates: [23.6345, -102.5528]
+  Yielding life from earth's surface,  
+  Change through knowledge springs.
+coordinates: [23.6345, -102.5528]
+---
 
 A fascinating detail from one of the many good, inspiring, and challenging obituaries of the Green Revolution's pioneering crop scientist, Norman Borlaug. The Economist's obit is also [full of lovely details](http://www.economist.com/obituary/displaystory.cfm?story_id=14446742)
 

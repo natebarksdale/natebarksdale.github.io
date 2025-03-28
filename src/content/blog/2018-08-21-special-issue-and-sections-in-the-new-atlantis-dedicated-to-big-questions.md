@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-08-21
 modDatetime: 2025-03-18 17:28:42+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Slowing down the discourse on the meanings of today’s fast-paced technological and scientific change.
 emoji: 🔬
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- ⚖️ Ethics
-- ⚙️ Technology
-- 🌍 Evolution
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - ⚖️ Ethics
+  - ⚙️ Technology
+  - 🌍 Evolution
+haiku: |
   In cosmos' vastness,  
-   Science probes deep, ethics stir—  
-   New truths, timeless quest.
+  Science probes deep, ethics stir—  
+  New truths, timeless quest.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about the profound inquiries into science and ethics featured in _The New Atlantis._
 
 > Are we alone in the cosmos, and if so, how should we think of ourselves? What do the insights of evolutionary theory mean for ethics? Is the so-called replication crisis a sign that modern science is self-correcting or that it has dangerously lost its way? How does the evolving theory of information in physics change the way we understand ourselves and the world? In a world dominated by Twitter conversations, addressing big questions in ways that require more than 280 characters is difficult. Tackling them requires careful, deliberate reflection, multiple vantage points, and an approach that aims to be both of-the-moment and timeless.

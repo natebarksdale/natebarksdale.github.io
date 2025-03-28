@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-03
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: You don’t have to be Russian, but it helps
 slug: you-dont-have-to-be-russian-but-it-helps
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the rich tradition of holy fools in both Western and Eastern Christianity, particularly highlighting the unique manifestations in Russia.
 emoji: 🤪
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- 🌍 Culture
-- 🌀 Complexity
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 🌀 Complexity
+haiku: |
   Fools dance with the wise,  
-   Laughing at the world’s chaos,  
-   Piety revealed.
-  coordinates: [55.7558, 37.6173]
+  Laughing at the world’s chaos,  
+  Piety revealed.
+coordinates: [55.7558, 37.6173]
+---
 
 I have to say from the examples I find the Western version of the holy fool a bit more attractive than the more common (and more exceedingly counter-cultural) Eastern counterpart. But holy foolishness is certainly a posture of culture-making, mixing elements condemnation and creation
 

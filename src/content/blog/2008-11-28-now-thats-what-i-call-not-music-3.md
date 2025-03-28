@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-28
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Now That’s What I Call Not Music 3!
 slug: now-thats-what-i-call-not-music-3
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: William Carlos Williams reflects on George Antheil's "Ballet Mechanique" and its impact on experiencing the noise of life.
 emoji: 🎶
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🎵 Music
-- 🎨 Art
-- 🌌 Dystopias
-- ⚔️ Enemies
-- 🌍 Culture
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - 🎨 Art
+  - 🌌 Dystopias
+  - ⚔️ Enemies
+  - 🌍 Culture
+haiku: |
   Noise turned to music,  
-   Subway’s sweet serenade sings,  
-   Life’s rhythms embraced.
-  coordinates: [40.7769, -73.9814]
+  Subway’s sweet serenade sings,  
+  Life’s rhythms embraced.
+coordinates: [40.7769, -73.9814]
+---
 
 To end this little series about reactions to early 20th-century avant garde music, I found this lovely apologea from the poet William Carlos Williams, about George Antheil's "[Ballet Mechanique](http://en.wikipedia.org/wiki/Ballet_m%C3%A9canique)"—whose orchestration called for "16 player pianos (or pianolas) in four parts, 2 regular pianos, 3 xylophones, at least 7 electric bells, 3 propellers, siren, 4 bass drums, and 1 tam-tam." (Here's a video of a modern performance by a [robot orchestra](http://www.youtube.com/watch?v=Eo0H8ztju78)). Williams' enthusiasm gets at the idea that valuable art should not (or not only) be an escape from the world but something that equips us to dive back in and make something new of our old surroundings. I'm still not convinced that the "Ballet Mechanique" effect would work more than once or twice for a given listener, but what a once or twice!
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-31
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: My Astronomical Romance
 slug: my-astronomical-romance
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A fascinating exploration of how the aesthetics of Hubble Space Telescope images reflect cultural choices, blending art and science to inspire a sense of wonder about the cosmos.
 emoji: 🎨
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌌 Astronomy
-- 🎨 Aesthetics
-- ⚖️ Choices
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌌 Astronomy
+  - 🎨 Aesthetics
+  - ⚖️ Choices
+  - 🌍 Culture
+haiku: |
   Cosmic hues unfold,  
-   Art in the vastness whispers,  
-   Eyes of wonder gaze.
-  coordinates: [41.7886, -87.6014]
+  Art in the vastness whispers,  
+  Eyes of wonder gaze.
+coordinates: [41.7886, -87.6014]
+---
 
 I saw this telescope image of the Horsehead Nebula (1500 light years from Earth) and the first thing I thought was: Elvis! Better than the second thing, which was: Blagojavich! Or the third: Andrew Jackson! But the fourth thing was a snippet-observation I recalled from somewhere, pointing out how the image processing and selection of all of those drop-dead amazing images we get from the Hubble Space Telescope is less about the raw truth of what's out there than about the very cultural choices and traditions that guide our observer's eye
 

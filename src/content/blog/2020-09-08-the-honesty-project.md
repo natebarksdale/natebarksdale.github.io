@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-09-08
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: The Honesty Project
 slug: the-honesty-project
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A new three-year project to investigate the science and philosophy of an understudied virtue.
 emoji: 🔍
 tags:
-
-- 🌀 Templeton
-- 📊 Research
-- 🧠 Psychology
-- 🥗 Virtue
-  haiku: |
+  - 🌀 Templeton
+  - 📊 Research
+  - 🧠 Psychology
+  - 🥗 Virtue
+haiku: |
   Honesty explored,  
-   Deep truths sought in silent bonds,  
-   Light through shadows cast.
-  coordinates: [36.135129, -80.278458]
+  Deep truths sought in silent bonds,  
+  Light through shadows cast.
+coordinates: [36.135129, -80.278458]
+---
 
 For the John Templeton Foundation, I wrote about a groundbreaking initiative exploring the complex landscape of honesty.
 

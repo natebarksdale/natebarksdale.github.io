@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: An unstoppable commitment to storytelling
 slug: an-unstoppable-commitment-to-storytelling
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on why Salman Rushdie's _Midnight's Children_ remains a monumental literary achievement.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- 🌍 Storytelling
-- 😊 Joy
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - 🌍 Storytelling
+  - 😊 Joy
+haiku: |
   Pages full of dreams,  
-   Stories whirl like hurricanes,  
-   Timeless, wild, profound.
-  coordinates: [20.5937, 78.9629]
+  Stories whirl like hurricanes,  
+  Timeless, wild, profound.
+coordinates: [20.5937, 78.9629]
+---
 
 A bit of why one of my favorite books is, well, one of my favorite books
 

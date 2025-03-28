@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-10
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Butterfly in the sky, I could go twice as high
 slug: butterfly-in-the-sky-i-could-go-twice-as-high
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflecting on the impact of _Reading Rainbow_, a beloved show that fostered a love of reading in children, its cancellation marks a shift in educational programming priorities.
 emoji: 📚
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 💿 Nostalgia
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 💿 Nostalgia
+haiku: |
   Reading sparks joy deep,  
-   Love for books blooms in hearts,  
-   Lessons in each page.
-  coordinates: [38.8833, -77.0167]
+  Love for books blooms in hearts,  
+  Lessons in each page.
+coordinates: [38.8833, -77.0167]
+---
 
 My mother, a longtime public school librarian, is a big fan of Reading Rainbow, but when I broke the news to her that the show had been cancelled after a 26-year run, she wasn't as sad as, say, I was. "I don't think it's such a big deal; they can still show kids the reruns." So my sadness is probably a significant bit of gen-x nostalgia. But don't take my word for it ..
 

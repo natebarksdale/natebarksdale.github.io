@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Visitors and collectors
 slug: visitors-and-collectors
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: From a new study, insights into the parallels between viewing and purchasing art, revealing that both experiences can provide similar satisfactions.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   Art's allure unfolds,  
-   Viewing and buying entwined,  
-   Beauty shared, embraced.
-  coordinates: [37.2044, -83.2613]
+  Viewing and buying entwined,  
+  Beauty shared, embraced.
+coordinates: [37.2044, -83.2613]
+---
 
 Scanning this article's headline, I thought it might be outlining the triumph of art-appreciation over art-consumption, though the study makes clear that visitors and collectors are both consumers, getting different, if parallel satisfactions from art
 

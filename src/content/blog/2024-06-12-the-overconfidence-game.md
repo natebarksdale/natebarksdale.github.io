@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-06-12
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: The Overconfidence Game
 slug: the-overconfidence-game
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the Dunning-Kruger effect's latest revelations as experts and non-experts test their limits of self-awareness in new, illuminating experiments.
 emoji: 🎭
 tags:
-
-- 🌀 Templeton
-- 🧘‍♂️ Psychology
-- 📊 Research
-- 📈 Confidence
-  haiku: |
+  - 🌀 Templeton
+  - 🧘‍♂️ Psychology
+  - 📊 Research
+  - 📈 Confidence
+haiku: |
   Blind to our own gaps,  
-   Hubris blooms in shadowed minds,  
-   Wisdom's light obscured.
-  coordinates: [51.509865, -0.118092]
+  Hubris blooms in shadowed minds,  
+  Wisdom's light obscured.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the dynamics of overconfidence and self-awareness.
 

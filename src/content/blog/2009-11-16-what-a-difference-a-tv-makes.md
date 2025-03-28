@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-16
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:03Z
 title: What a difference a TV makes
 slug: what-a-difference-a-tv-makes
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Television's impact on women's roles and fertility is profound, as shown in studies from India and Brazil.
 emoji: 📺
 tags:
-
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Society
-- 📺 Television
-- ⚖️ Choices
-  haiku: |
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Society
+  - 📺 Television
+  - ⚖️ Choices
+haiku: |
   Screens bring new visions,  
-   Women rise, choices expand,  
-   Change flows through the land.
-  coordinates: [20.5937, 78.9629]
+  Women rise, choices expand,  
+  Change flows through the land.
+coordinates: [20.5937, 78.9629]
+---
 
 Introducing television to an area can shift the horizons of the possible radically and quickly, especially for women. It's worth noting that both the positive and negative consequences recorded in this study were by and large unintended and unforeseen
 

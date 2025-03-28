@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: Necessity > custom > obligation > institution
 slug: necessity-custom-obligation-institution
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Luis Soriano's inspiring journey to bring books and education to impoverished communities in Colombia is a testament to the impact one individual can have.
 emoji: 📚
 tags:
-
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌍 Culture
-- ❤️ Charity
-- 📖 Books
-  haiku: |
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌍 Culture
+  - ❤️ Charity
+  - 📖 Books
+haiku: |
   Books on burro's backs,  
-   Through the sun, he brings them hope,  
-   Knowledge blooms in hands.
-  coordinates: [10.2206, -74.7340]
+  Through the sun, he brings them hope,  
+  Knowledge blooms in hands.
+coordinates: [10.2206, -74.7340]
+---
 
 One man's dedicated quest to alter the horizons of the possible in his home region. I like his description of how the project (or how he and his neighbors saw it) changed over time
 

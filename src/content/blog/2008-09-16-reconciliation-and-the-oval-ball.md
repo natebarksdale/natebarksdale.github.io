@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: Reconciliation and the oval ball
 slug: reconciliation-and-the-oval-ball
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A reflection on Nelson Mandela's clever adaptation to the challenges of prison life through his unexpected engagement with rugby.
 emoji: 🤝
 tags:
-
-- 🇿🇦 South Africa
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ❤️ Forgiveness
-- ❤️ Kindness
-- 🌍 Society
-- ⛪ Religion
-  haiku: |
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ❤️ Forgiveness
+  - ❤️ Kindness
+  - 🌍 Society
+  - ⛪ Religion
+haiku: |
   In prison's shadow,  
-   Rugby bridges hearts and minds,  
-   Hope in a jersey.
-  coordinates: [-34.0530, 18.4572]
+  Rugby bridges hearts and minds,  
+  Hope in a jersey.
+coordinates: [-34.0530, 18.4572]
+---
 
 One of my favorite Nelson Mandela moments was his brilliant conciliatory gesture when South Africa won the first post-Apartheid Rugby World Cup—donning a Springboks jersey (a symbol par excellance of Afrikaner cultural pride) and coming onto the field to join in the celebrations. I didn't remember the story below, which gets at the beginnings of Mandela's canny and graceful relation to the game
 

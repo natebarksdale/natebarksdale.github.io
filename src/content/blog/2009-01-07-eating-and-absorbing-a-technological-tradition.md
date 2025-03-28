@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Eating and absorbing a technological tradition
 slug: eating-and-absorbing-a-technological-tradition
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: This excerpt from Francesca Bray highlights how cultural objects and practices can embody profound meanings through the technologies involved in their production, particularly in the context of Japan's agricultural traditions.
 emoji: 🍚
 tags:
-
-- 📺 Television
-- 🍷 Europe
-- 🇫🇷 France
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Identity
-- ⚙️ Technology
-- ♻️ Repurposing
-  haiku: |
+  - 📺 Television
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Identity
+  - ⚙️ Technology
+  - ♻️ Repurposing
+haiku: |
   Tradition in grain,  
-   Harmony with the past lives,  
-   Simple, pure and true.
-  coordinates: [36.2048, 138.2529]
+  Harmony with the past lives,  
+  Simple, pure and true.
+coordinates: [36.2048, 138.2529]
+---
 
 Sometimes cultural objects—homespun cloth in Independence-era India, the predominance (in spite of pressure to import cheaper international varities) of locally-grown rice in postwar Japan—take their most profound meanings not so much from the object itself as from the technology (actual or implied) that is used to produce the object
 

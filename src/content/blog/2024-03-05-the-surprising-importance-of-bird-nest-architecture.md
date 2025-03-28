@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-03-05
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: The Surprising Importance of Bird Nest Architecture
 slug: the-surprising-importance-of-bird-nest-architecture
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Explore how birds' nest designs reveal an evolutionary arms race driven by the cunning strategies of brood parasites like cuckoos.
 emoji: 🐦
 tags:
-
-- 🦠 Biology
-- 💡 Design
-- 🌀 Templeton
-- 🌍 Ecology
-- 🧬 Biology
-- 🌧️ Nature
-  haiku: |
+  - 🦠 Biology
+  - 💡 Design
+  - 🌀 Templeton
+  - 🌍 Ecology
+  - 🧬 Biology
+  - 🌧️ Nature
+haiku: |
   Cuckoo deceives, hides  
-   In nests not its own, a ruse—  
-   Nature's crafty play
-  coordinates: [51.509865, -0.118092]
+  In nests not its own, a ruse—  
+  Nature's crafty play
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the intricate and deceptive world of bird nest parasitism.
 

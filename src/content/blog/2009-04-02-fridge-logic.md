@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-02
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Fridge logic
 slug: fridge-logic
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of TV-writer jargon that highlights the intricacies of scriptwriting with a humorous touch.
 emoji: 🎬
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🎭 Entertainment
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🎭 Entertainment
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Words weave through the screen,  
-   Humor and logic collide,  
-   Stories take their flight.
-  coordinates: [34.0522, -118.2437]
+  Humor and logic collide,  
+  Stories take their flight.
+coordinates: [34.0522, -118.2437]
+---
 
 From a collection of tv-writer jargon. The good bit: it's cool to learn the names for all the specific dramatic and comedic turns that typical plots take. The bad news: once you start recognizing them in the wild, you can never really go back. Rob Long's brief and very funny podcast [Martini Shot](http://www.kcrw.com/etc/programs/ma) is another excellent source for this kind of stuff (as well as reflections on Hollywood, entertainment, and the writing life, by which he means the doing-anything-but-writing life)
 

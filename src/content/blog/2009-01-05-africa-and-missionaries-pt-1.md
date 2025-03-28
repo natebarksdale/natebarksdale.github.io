@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:51Z
 title: Africa and missionaries, pt. 1
 slug: africa-and-missionaries-pt-1
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: In reflecting on Matthew Parris's insights, I find myself both appreciative of his observations and critical of his reasoning regarding faith's impact in Africa.
 emoji: ✝️
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ❤️ Charity
-- ❤️ Kindness
-- 🌍 Africa
-- 🤝 Altruism
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ❤️ Charity
+  - ❤️ Kindness
+  - 🌍 Africa
+  - 🤝 Altruism
+haiku: |
   Hearts transformed by grace,  
-   Healing hands and hopeful minds,  
-   Change through love's embrace.
-  coordinates: [-2.0, 21.0]
+  Healing hands and hopeful minds,  
+  Change through love's embrace.
+coordinates: [-2.0, 21.0]
+---
 
 Reading this, I find my usual lines of agreement and objection a bit confounded: heartened by his admiration and conclusions but offended by his logic, which sweeps and oversimplifies to say the least
 

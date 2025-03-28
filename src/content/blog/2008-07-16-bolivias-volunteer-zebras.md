@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Bolivia’s volunteer zebras
 slug: bolivias-volunteer-zebras
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A creative approach to addressing urban traffic safety issues can be seen in La Paz, Bolivia, where volunteers dressed as zebras help pedestrians cross the busy streets.
 emoji: 🦓
 tags:
-
-- 📺 Television
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🇧🇴 Bolivia
-- ⚠️ Danger
-- 🚦 Public Safety
-- 🤝 Altruism
-  haiku: |
+  - 📺 Television
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🇧🇴 Bolivia
+  - ⚠️ Danger
+  - 🚦 Public Safety
+  - 🤝 Altruism
+haiku: |
   Stripes on the street,  
-   Zebras dance through city lights,  
-   Cars stop, laughter peaks.
-  coordinates: [-16.5000, -68.1193]
+  Zebras dance through city lights,  
+  Cars stop, laughter peaks.
+coordinates: [-16.5000, -68.1193]
+---
 
 A fun quick way to address (or at least bring attention to) a public safety concern. It does seem like the zebra costumes' restricted vision might be a problem. Also ironic given that real-life zebras' stripes function as camouflage ..
 

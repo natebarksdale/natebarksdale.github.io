@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-25
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: ¡Tamales oaxaqueños!
 slug: tamales-oaxaquenos
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: You can hear it from blocks away, the unmistakable call of tamale vendors echoing through Mexico City.
 emoji: 🌽
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🌍 Culture-Making.com
-- 🍔 Fast Food
-- 🍴 Cuisine
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
+  - 🍔 Fast Food
+  - 🍴 Cuisine
+haiku: |
   Singsong from afar,  
-   Tamales in the cool night,  
-   Urban lullaby.
-  coordinates: [19.4326, -99.1332]
+  Tamales in the cool night,  
+  Urban lullaby.
+coordinates: [19.4326, -99.1332]
+---
 
 The sonic signature of a cultural (and culinary) world
 

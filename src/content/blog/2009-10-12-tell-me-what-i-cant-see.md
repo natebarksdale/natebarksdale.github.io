@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2025-03-28T14:39:21Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Tell me what I can’t see
 slug: tell-me-what-i-cant-see
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A father reflects on how radio enhances his son's understanding of NFL games compared to television.
 emoji: 📻
 tags:
-
-- 🌍 Culture-Making.com
-- 📺 Television
-- 🏈 Football
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📺 Television
+  - 🏈 Football
+haiku: |
   Radio's clear voice,  
-   Unfolds the game with detail,  
-   Vision meets its match.
-  coordinates: [42.3601, -71.0589]
+  Unfolds the game with detail,  
+  Vision meets its match.
+coordinates: [42.3601, -71.0589]
+---
 
 It's interesting but not surprising that radio can wind up beating television as a medium for the clear explanation of a sporting event. In Marshall McLuhan's [famous dichotomy](http://en.wikipedia.org/wiki/Marshall_McLuhan#.22Hot.22_and_.22cool.22_media), radio (along with movies and books) is a "hot" medium, becoming easily immersive by focusing on a single sense, whereas television is a "cool" one, providing multiple simultaneous streams of input that takes much more concentration and skill to take in and understand
 

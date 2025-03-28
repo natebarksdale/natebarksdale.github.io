@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-04
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: So many different kinds of lines
 slug: so-many-different-kinds-of-lines
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This exhibition beautifully showcases the informal yet profound artistic expressions of the Middle Ages.
 emoji: 🎨
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Ink flows on parchment,  
-   Humble strokes of elegance,  
-   Time's whispers captured.
-  coordinates: [40.7794, -73.9632]
+  Humble strokes of elegance,  
+  Time's whispers captured.
+coordinates: [40.7794, -73.9632]
+---
 
 This sounds like a fantastic exhibition. I love the more casual draftsmanship of this detail from one of the drawings on display at the Met's [Pen and Parchement blog](http://blog.metmuseum.org/penandparchment/): the [Evangelist Mathew](http://blog.metmuseum.org/penandparchment/wp-content/uploads/2009/05/90af17vr6_49d.jpg), from the 11th-century Arenberg Gospels
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:48Z
 title: Frickin’ awesome!
 slug: frickin-awesome
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A reflective look at the balance between cultural giving and more pressing humanitarian needs from Allison Schrager.
 emoji: 🎨
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- ❤️ Kindness
-- 🏛️ Museums
-- 🌍 Culture
-- 🌍 Society
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - ❤️ Kindness
+  - 🏛️ Museums
+  - 🌍 Culture
+  - 🌍 Society
+haiku: |
   Art on Fifth Avenue,  
-   Pleasures dance alongside pain,  
-   Generosity.
-  coordinates: [40.7712, -73.9755]
+  Pleasures dance alongside pain,  
+  Generosity.
+coordinates: [40.7712, -73.9755]
+---
 
 Not all charities are created equal—or offer equal benefits to the giver. I suppose it feels a little depressing to read this sort of blunt analysis, but calling it what is is probably a good first step in both considering less-self-interested realms of generosity and service—and in recognizing and celebrating the goodness and possibility, such as they are, of cultural places and spaces like the Frick museum
 

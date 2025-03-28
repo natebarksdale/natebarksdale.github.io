@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Best. Toys. Ever?
 slug: best-toys-ever
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Reflecting on the timeless joy of play, Jonathan Liu highlights the simplicity and creativity that come with Dirt as a toy.
 emoji: 🌍
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌱 Sustainability
-- 🧼 Cleanliness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌱 Sustainability
+  - 🧼 Cleanliness
+haiku: |
   Children in the dirt,  
-   Imagination takes flight,  
-   Life's simple playground.
-  coordinates: [37.7749, -122.4194]
+  Imagination takes flight,  
+  Life's simple playground.
+coordinates: [37.7749, -122.4194]
+---
 
 My old friend Jonathan continues lovingly subverting Wired.com's tech-toy-heavy Geekdad blog from the inside out. The five best toys of all time? Lego doesn't even make the list. Try Stick, Box, String, Cardboard Tube, and Dirt. The most enthralling toys are often the ones you can make the most of, ones that open up imaginative possibilities rather than limiting them
 

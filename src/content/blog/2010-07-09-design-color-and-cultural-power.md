@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-07-09
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Design, color, and cultural power
 slug: design-color-and-cultural-power
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: A Portuguese communication designer reflects on the cultural richness of her students in Mozambique and their misconceptions about design practices.
 emoji: 🎨
 tags:
-
-- 💡 Design
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🎨 Aesthetics
-- 🌍 Culture
-- ✍️ Literature
-- ⚙️ Technology
-- ⚖️ Ethics
-  haiku: |
+  - 💡 Design
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🎨 Aesthetics
+  - 🌍 Culture
+  - ✍️ Literature
+  - ⚙️ Technology
+  - ⚖️ Ethics
+haiku: |
   Local knowledge shines,  
-   Connect the past with present,  
-   Colors tell our tales.
-  coordinates: [-25.9667, 32.5833]
+  Connect the past with present,  
+  Colors tell our tales.
+coordinates: [-25.9667, 32.5833]
+---
 
 A fascinating long interview with a Portuguese communication designer who has taught design courses and workshops in Maputo, Mozambique. In situations like the ones she describes with her students, there's always the risk and temptation (for both teacher and students) of straying from helpful cultural empowerment to a sort of patronizing teacher-as-messiah role. I like the exchange below because she doesn't say "And to think nobody had ever told them that their local cultural knowledge had value!" but rather, "Of course they knew it had value in their everyday lives; my job was simply to help them extend that value into the specific practices we were studying
 

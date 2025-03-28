@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: Nabokov on the translator’s art
 slug: nabokov-on-the-translators-art
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the complexities of translation through Nabokov's vivid metaphor.
 emoji: 🌳
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ✍️ Translation
-- 🌍 Culture
-- 🌀 Complexity
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ✍️ Translation
+  - 🌍 Culture
+  - 🌀 Complexity
+haiku: |
   Shadows weave through time,  
-   An oak's shadow mirrored bright,  
-   Words dance, hearts connect.
-  coordinates: [48.8534, 2.3488]
+  An oak's shadow mirrored bright,  
+  Words dance, hearts connect.
+coordinates: [48.8534, 2.3488]
+---
 
 One of my favorite passages from Vladimir Nabokov's novel _[Bend Sinister](http://books.google.com/books?ei=HbVGSfLJOoKGkASgkpi3Dw&id=0LIuSUeNxCMC&dq=bend+sinister&q=oak&pgis=1#search_anchor)_ , about the near impossibility of translating metaphor and experience across languages, cultures, and time—and the mindboggling wonder that it sometimes can be done
 

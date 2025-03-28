@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-27
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: OK, and now can we get one with the torn shirt? Thanks!
 slug: ok-and-now-can-we-get-one-with-the-torn-shirt-thanks
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The portrayal of poverty in media often lacks depth and dignity; this project aims to reveal a fuller picture of individuals' lives.
 emoji: 📸
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- 🌍 Culture
-- ❤️ Charity
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - 🌍 Culture
+  - ❤️ Charity
+haiku: |
   Two sides of a life,  
-   Dignified, yet struggling,  
-   Stories left untold.
-  coordinates: [-13.5000, 34.0000]
+  Dignified, yet struggling,  
+  Stories left untold.
+coordinates: [-13.5000, 34.0000]
+---
 
 Frustrated with the way he saw poor people depicted in typical journalism and fundraising campaigns, a Canadian volunteer with Engineers Without Borders is photographing low-income rural Malawians he knows both as they'd typically be seen by the West, and as they prefer to see themselves. Evidently one difficulty in making the "poor" photos is getting his subjects to keep a straight face
 

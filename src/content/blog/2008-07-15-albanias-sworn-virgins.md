@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Albania’s sworn virgins
 slug: albanias-sworn-virgins
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of gender roles and social necessity in traditional Albanian culture through the practice of sworn virgins.
 emoji: ⚔️
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Society
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Society
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   Bound by circumstance,  
-   Women don men's lives to thrive,  
-   Strength in silence, pride.
-  coordinates: [42.6667, 19.8333]
+  Women don men's lives to thrive,  
+  Strength in silence, pride.
+coordinates: [42.6667, 19.8333]
+---
 
 Interesting example of gender fluidity in a very traditional culture. (Well, perhaps fluidity is too fluid a term)
 

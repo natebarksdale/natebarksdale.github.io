@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-12-04
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Deploying new tools in the search for planets capable of harboring life
 emoji: 🔭
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- 🌌 Astronomy
-- 🔍 Discoveries
-- ⚙️ Technology
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🌌 Astronomy
+  - 🔍 Discoveries
+  - ⚙️ Technology
+haiku: |
   Kepler's quest now done,  
-   Red dwarfs hold the secret keys,  
-   New worlds whisper life.
+  Red dwarfs hold the secret keys,  
+  New worlds whisper life.
 
 coordinates: [42.378, -71.116]
+---
+
 For the John Templeton Foundation, I wrote about the innovative quest to uncover habitable planets around M-type stars.
 
 > On October 30, 2018, after its maneuvering fuel was finished, the Kepler Space Telescope retired. This date marked the end of its nine-year mission, during which it aided the discovery of 2,662 exoplanets. (The first confirmed exoplanet was discovered only in 1992.) “Kepler broke open the galactic treasure chest of smaller earth-size planets and we learned how common they were,” says David Charbonneau, a professor of astronomy at Harvard University and an expert in planetary discovery. “We now know that exoplanets are incredibly common, that most if not all stars have planets — it’s sort of an inevitable part of making a star. But the actual stars that Kepler looked at were very far away, so it was good for getting population statistics but not actually for providing the very best targets that we could go and study in detail.”

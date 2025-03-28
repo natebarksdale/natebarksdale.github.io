@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-09-22
 modDatetime: 2025-03-17
@@ -10,17 +9,18 @@ draft: False
 description: A new project will help gauge how students feel realizing the limits of their understanding — and ways they can positively respond
 emoji: 🎓
 tags:
-
-- 🌀 Templeton
-- 🧠 Psychology
-- 🥗 Virtue
-- 🏫 Education
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Psychology
+  - 🥗 Virtue
+  - 🏫 Education
+haiku: |
   Embrace the unknown,  
-   In classrooms, humility—  
-   Seeds of growth take root.
+  In classrooms, humility—  
+  Seeds of growth take root.
 
 coordinates: [39.9522, -75.1932]
+---
+
 For the John Templeton Foundation, I wrote about the exploration of fostering intellectual humility in educational settings.
 
 > Much of the goal of education is about getting students to _know_ things — to be informed discussion participants or well-prepared test-takers. But for education to be successful, and for students to flourish in the classroom and beyond, it can be equally important to show students productive ways of _not knowing._ Intellectual humility, which might be defined as recognizing the limits of one’s knowledge and being open to learning from others, has emerged as one of the central virtues of the new social science of character.

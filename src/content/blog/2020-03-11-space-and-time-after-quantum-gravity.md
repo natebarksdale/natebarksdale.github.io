@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-03-11
 modDatetime: 2025-03-18 21:19:22+00:00
@@ -10,20 +9,21 @@ draft: False
 description: String theory, quantum loop gravity, and the philosophy of describing the indescribable
 emoji: 🌌
 tags:
-
-- ➗ Mathematics
-- ⚛️ Physics
-- 🍷 Europe
-- 🌀 Templeton
-- ⏰ Time
-- 🌌 Astronomy
-- 🌀 Complexity
-  haiku: |
+  - ➗ Mathematics
+  - ⚛️ Physics
+  - 🍷 Europe
+  - 🌀 Templeton
+  - ⏰ Time
+  - 🌌 Astronomy
+  - 🌀 Complexity
+haiku: |
   Quantum threads weave space,  
-   Beyond time’s firm grasp they float,  
-   New cosmos whispers.
+  Beyond time’s firm grasp they float,  
+  New cosmos whispers.
 
 coordinates: [41.8708, -87.6505]
+---
+
 For the John Templeton Foundation, I wrote about the challenging quest to reconcile our classical understanding of space and time with the principles of quantum gravity.
 
 > It is difficult to imagine a world without space and time. If something exists, Aristotle said, then it must exist _somewhere._ Our entire understanding of causality relies on the notion that some things happen before other things. So how do you talk about whether anything preceded the beginning of time? Despite these difficulties, physicists and philosophers are starting to work out how to think — conceptually, mathematically, and scientifically — about the mind-bending implications of quantum gravity, a set of hypotheses that attempt to bridge the chasm between seemingly incompatible physical descriptions of the universe at its largest scales (in general relativity) and at its smallest (in quantum field theory).

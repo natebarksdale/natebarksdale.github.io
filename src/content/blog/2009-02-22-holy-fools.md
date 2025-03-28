@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-22
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Holy fools
 slug: holy-fools
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A whimsical celebration of vocation unfolds in a church sanctuary, where clowns honor the laughter and legacy of their craft.
 emoji: 🤡
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- ❤️ Kindness
-- 😂 Humor
-- 🎭 Comedy
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - ❤️ Kindness
+  - 😂 Humor
+  - 🎭 Comedy
+haiku: |
   Laughter fills the air,  
-   Clowns in solemn reverence,  
-   Joy amidst the tears.
-  coordinates: [51.509865, -0.118092]
+  Clowns in solemn reverence,  
+  Joy amidst the tears.
+coordinates: [51.509865, -0.118092]
+---
 
 What better place than a church sanctuary to celebrate the serious matter of vocation?
 

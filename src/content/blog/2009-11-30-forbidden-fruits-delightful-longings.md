@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Forbidden fruits, delightful longings
 slug: forbidden-fruits-delightful-longings
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A longing for the elusive mangosteen explores its history and the bittersweet nature of desire.
 emoji: 🍈
 tags:
-
-- ✨ Wonder
-- 💡 Design
-- 🗣🗣️ Language
-- 🍷 Europe
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- 🌍 Southeast Asia
-  haiku: |
+  - ✨ Wonder
+  - 💡 Design
+  - 🗣🗣️ Language
+  - 🍷 Europe
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - 🌍 Southeast Asia
+haiku: |
   Forbidden fruit waits,  
-   Sweetness wrapped in purple skin,  
-   Longing tastes like zest.
-  coordinates: [1.4901, 103.7463]
+  Sweetness wrapped in purple skin,  
+  Longing tastes like zest.
+coordinates: [1.4901, 103.7463]
+---
 
 [![](@assets/images/mangosteen.jpg)](@assets/images/mangosteen.jpg)
 cc [lusikkolbaskin](http://www.flickr.com/photos/noshit-mag/)/flickr

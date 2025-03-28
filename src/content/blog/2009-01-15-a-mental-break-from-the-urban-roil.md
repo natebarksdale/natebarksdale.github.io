@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-15
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: A mental break from the urban roil
 slug: a-mental-break-from-the-urban-roil
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the cognitive toll of urban life and the healing power of nature.
 emoji: 🌳
 tags:
-
-- 🌍 Culture-Making.com
-- 🌆 Cities
-- 🧠 Psychology
-- 🌍 Environment
-- 🌿 Gardens
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌆 Cities
+  - 🧠 Psychology
+  - 🌍 Environment
+  - 🌿 Gardens
+haiku: |
   Urban chaos reigns,  
-   Minds fogged in concrete jungles,  
-   Nature's balm restores.
-  coordinates: [51.5074, -0.1278]
+  Minds fogged in concrete jungles,  
+  Nature's balm restores.
+coordinates: [51.5074, -0.1278]
+---
 
 When I first read the first paragraphs of this, I thought: hmm, this doesn't bode well for the urban, cosmopolitan New Jerusalem described in Revelation 22. But going further, I recalled: "On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations." So that, research suggests, should help even things out
 

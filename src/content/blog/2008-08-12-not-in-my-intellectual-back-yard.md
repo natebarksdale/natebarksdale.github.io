@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-12
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Not in my intellectual back yard
 slug: not-in-my-intellectual-back-yard
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This piece explores how excessive intellectual property rights can stifle creativity and innovation in various fields.
 emoji: 🎭
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Algorithms
-- ⚖️ Choices
-- 🌍 Culture
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Algorithms
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 🌍 Society
+haiku: |
   Ownership constricts,  
-   Creation choke on itself,  
-   Freedom found in shares.
-  coordinates: [37.0902, -95.7129]
+  Creation choke on itself,  
+  Freedom found in shares.
+coordinates: [37.0902, -95.7129]
+---
 
 Why an overzealous approach to intellectual property my hamper both cultural creation and cultivation
 

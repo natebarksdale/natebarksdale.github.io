@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-02-19
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:06Z
 title: The crying-on-the-inside kind of news
 slug: the-crying-on-the-inside-kind-of-news
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: I can't help thinking about the fascinating blend of humor and seriousness in Mexican media, particularly with Brozo the clown delivering news and critiques.
 emoji: 🤡
 tags:
-
-- 📺 Television
-- 🇲🇽 Mexico
-- 🌍 Culture-Making.com
-- 🎭 Comedy
-- 🗳️ Politics
-- ⚖️ Courtroom
-  haiku: |
+  - 📺 Television
+  - 🇲🇽 Mexico
+  - 🌍 Culture-Making.com
+  - 🎭 Comedy
+  - 🗳️ Politics
+  - ⚖️ Courtroom
+haiku: |
   Green hair, red nose laughs,  
-   Revealing truths, bold and brash,  
-   Power faced with jest.
-  coordinates: [23.6345, -102.5528]
+  Revealing truths, bold and brash,  
+  Power faced with jest.
+coordinates: [23.6345, -102.5528]
+---
 
 I can't help thinking of The Simpsons when I read about at this—a pleasing combo of [Kent Brockman](http://en.wikipedia.org/wiki/Kent_Brockman), [Krusty the Clown](http://en.wikipedia.org/wiki/Krusty_the_Clown), and [Bumblebee Man](http://en.wikipedia.org/wiki/List_of_media_personalities_in_The_Simpsons#Bumblebee_Man). It makes me think of court jesters and maskers using disguises and buffonery to criticize the powerful and get away with it
 

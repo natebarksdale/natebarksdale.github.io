@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: The MagnifiCat (srsly)
 slug: the-magnificat-srsly
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the cultural implications of the LOLCat Bible Translation Project, considering its balance between humor and reverence.
 emoji: 😺
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ✍️ Translation
-- 📖 Bible
-- 🌍 Culture
-- 🙏 Faith
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ✍️ Translation
+  - 📖 Bible
+  - 🌍 Culture
+  - 🙏 Faith
+haiku: |
   Sacred text transformed,  
-   Humor in reverence found,  
-   Laughter meets the Word.
-  coordinates: [31.9686, -99.9018]
+  Humor in reverence found,  
+  Laughter meets the Word.
+coordinates: [31.9686, -99.9018]
+---
 
 So: what exactly are the cultural meanings and implications of the collective internet effort to paraphrase the entire Bible in the language of [LOLCats](http://en.wikipedia.org/wiki/Lolcat)? Bad taste bordering on sacrilege? A mockery of the care and exceeding effort of the many people working to make the Bible available to every person in their mother tongue? Or something that in its way might actually border on the reverent? Certainly we see the collective efforts of lots of people contemplating the meaning of verse after verse, even if only at first to look for hilarious potential misspellings and mysterious cheezburger refrains
 

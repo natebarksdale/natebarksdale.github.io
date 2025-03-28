@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2022-02-21
 modDatetime: 2025-03-18 21:19:23+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Explore how James M. Buchanan's public choice theory intersects with Madison's constitutional ideals, highlighting tensions in America's founding principles.
 emoji: 📜
 tags:
-
-- 🌀 Templeton
-- 📊 Research
-- 🏛️ Government
-- ⚖️ Law
-  haiku: |
+  - 🌀 Templeton
+  - 📊 Research
+  - 🏛️ Government
+  - ⚖️ Law
+haiku: |
   Rules bind the rulers,  
-   Tension between ideals, real;  
-   Each voice weighs the same.
+  Tension between ideals, real;  
+  Each voice weighs the same.
 
 coordinates: [38.9072, -77.0369]
+---
+
 For the John Templeton Foundation, I wrote about the balance between governmental power and individual rights.
 
 > “If men were angels,” James Madison famously wrote in the [Federalist 51](https://avalon.law.yale.edu/18th_century/fed51.asp)_,_ “no government would be necessary.” But governments were human institutions from top to bottom, Madison said, so “the great difficulty lies in this: you must first enable the government to control the governed; and in next place oblige it to control itself.”

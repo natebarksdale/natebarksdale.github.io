@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-09-28
 modDatetime: 2025-03-17
@@ -10,19 +9,20 @@ draft: False
 description: Relive the unique 2020 Templeton Prize ceremony, where an almost empty auditorium hosted a global audience celebrating the 50th laureate.
 emoji: 🏆
 tags:
-
-- 🧬 Genetics
-- 🏆 Awards
-- 🎉 Celebration
-- 🌐 Digital
-- 💵 Philanthropy
-- 🙏 Faith
-  haiku: |
+  - 🧬 Genetics
+  - 🏆 Awards
+  - 🎉 Celebration
+  - 🌐 Digital
+  - 💵 Philanthropy
+  - 🙏 Faith
+haiku: |
   Empty seats abound,
   Global viewers gather near,
   Prize shines through the screen.
 
 coordinates: [51.509865, -0.118092]
+---
+
 For the John Templeton Foundation, I wrote about 2020 Templeton Prize ceremony.
 
 > The 670-seat Frank Kavli Auditorium at the National Academy of Sciences in Washington, D.C. was nearly empty on the night of September 24, but the audience for the awarding of the 50th Templeton Prize laureate was perhaps the largest it has ever been, with thousands of viewers registering to watch from across the country and around the world. The people on stage wore cloth face coverings and there were disclaimers — “all crew members were tested, masked and required to maintain social distancing” — at the beginning of the video segments. For honoree Dr. Francis Collins, the former leader of the Human Genome Project and current director of the National Institutes of Health, the safety measures were both a necessary precaution and an appropriate symbol of the extraordinary role he has been called on to play in fighting the COVID-19 pandemic.

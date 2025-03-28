@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-08
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Valuing what’s easiest to measure
 slug: valuing-whats-easiest-to-measure
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on the importance of perseverance and discipline over innate talent in achieving success.
 emoji: 💪
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- 💪 Difficulty
-- 💡 Intelligence
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 💪 Difficulty
+  - 💡 Intelligence
+  - 🌍 Society
+haiku: |
   Grit and hard work shine,  
-   Talents fade in struggle’s face,  
-   Perseverance wins.
-  coordinates: [41.8781, -87.6298]
+  Talents fade in struggle’s face,  
+  Perseverance wins.
+coordinates: [41.8781, -87.6298]
+---
 
 Perseverance and discipline likely matter more than intelligence and innate talent when it comes to being successful in one's endeavors. And—according to the study cited at the end of the article—praising children for their hard work rather than their innate skill yields significant improvements in test results; kids praised for their talents actually start doing worse when they encounter significant challenges
 

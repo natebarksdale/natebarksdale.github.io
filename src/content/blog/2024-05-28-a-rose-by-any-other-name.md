@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-05-28
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: A Rose By Any Other Name
 slug: a-rose-by-any-other-name
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore how a groundbreaking study using paint chips reveals universal patterns in how cultures distinguish colors.
 emoji: 🎨
 tags:
-
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🎨 Colors
-- 📊 Surveys
-- 🌍 Culture
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🎨 Colors
+  - 📊 Surveys
+  - 🌍 Culture
+haiku: |
   Colors span the globe,  
-   Linguists chart the hues we name,  
-   Patterns emerge, clear.
-  coordinates: [37.8716, -122.2727]
+  Linguists chart the hues we name,  
+  Patterns emerge, clear.
+coordinates: [37.8716, -122.2727]
+---
 
 For the John Templeton Foundation, I wrote about how our perception of colors (sometimes) transcends cultural boundaries.
 

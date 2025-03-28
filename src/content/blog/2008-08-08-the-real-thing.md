@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: The real thing?
 slug: the-real-thing
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A creative proposal to leverage Coca-Cola's distribution for lifesaving rehydration salts.
 emoji: 🚰
 tags:
-
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🌍 Development
-- ❤️ Charity
-- 💼 Business
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🌍 Development
+  - ❤️ Charity
+  - 💼 Business
+haiku: |
   Coca-Cola's reach,  
-   Lifesaving salts in crates,  
-   Hope in every drink.
-  coordinates: [-1.2921, 36.8219]
+  Lifesaving salts in crates,  
+  Hope in every drink.
+coordinates: [-1.2921, 36.8219]
+---
 
 Here's one of those just-now-roving-across-the-web good ideas that are so simple they just might work. Or, I guess, they could be so simple they won't work after all. Well, here's hoping
 from [ColaLife.org](http://www.colalife.org/), 8 August 2008

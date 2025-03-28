@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-10-06
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Unimportant enough to be criticized
 slug: unimportant-enough-to-be-criticized
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A reflection on Dave Hickey's "Frivolity and Unction," exploring the idea that the perceived importance of art can hinder genuine appreciation and critique.
 emoji: 🎨
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🎨 Art
-- 🌍 Culture
-- 🔍 Critique
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🎨 Art
+  - 🌍 Culture
+  - 🔍 Critique
+haiku: |
   Importance belied,  
-   Frivolous art reveals truth,  
-   Life's meaning unfolds.
-  coordinates: [36.7783, -119.4179]
+  Frivolous art reveals truth,  
+  Life's meaning unfolds.
+coordinates: [36.7783, -119.4179]
+---
 
 Reflections on critic Dave Hickey's essay "Frivolity and Unction," from his book [Air Guitar](https://www.google.com/search?q=%22Air%20Guitar%22%20amazon.com), about what's gained and lost by considering a work of art to be "important." If perceived importance (or, in a parallel that comes up later in this article, percieved holiness) keeps us from fully taking in and making something of a cultural artifact, then the unimportant and the unsanctified might have an advantage. But I wonder whether we can hope for a concept of importance, and of holiness, that doesn't shut out but rather welcomes in
 

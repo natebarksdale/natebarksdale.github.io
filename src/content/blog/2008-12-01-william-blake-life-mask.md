@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: William Blake, life mask
 slug: william-blake-life-mask
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the enduring legacy and artistry of William Blake through his life mask.
 emoji: 🖌️
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 📖 Biographies
-- 🌍 History
-- 📚 Preservation
-- 🖼️ Artifacts
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 📖 Biographies
+  - 🌍 History
+  - 📚 Preservation
+  - 🖼️ Artifacts
+haiku: |
   Blake’s hand, deft and bold,  
-   Shapes of fear and symmetry,  
-   Time’s whispers unfold.
-  coordinates: [51.5133, -0.0880]
+  Shapes of fear and symmetry,  
+  Time’s whispers unfold.
+coordinates: [51.5133, -0.0880]
+---
 
 What immortal hand or eye / could frame thy fearful symmetry?
 [![photo](http://culture-making.com/media/william_blake.jpg)](http://www.creativereview.co.uk/crblog/the-somnambulists/)

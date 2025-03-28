@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-18
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: The not-great, the good, and the awesome
 slug: the-not-great-the-good-and-the-awesome
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Sometimes humility can lead to underestimating potential.
 emoji: 📈
 tags:
-
-- 🌍 Culture-Making.com
-- 💼 Business
-- ⚖️ Choices
-- 🤝 Collaboration
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 💼 Business
+  - ⚖️ Choices
+  - 🤝 Collaboration
+  - 🌍 Society
+haiku: |
   Ambitions should soar,  
-   Balance in expectations,  
-   Investors will see.
-  coordinates: [34.0522, -118.2437]
+  Balance in expectations,  
+  Investors will see.
+coordinates: [34.0522, -118.2437]
+---
 
 It's always a little uncomfortable calling others to join you in doing the impossible (or the not-yet-possible) ... but sometimes humility can be self-fulfilling
 

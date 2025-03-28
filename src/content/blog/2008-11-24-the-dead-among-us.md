@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-28T14:39:09Z
+modDatetime: 2025-03-28T15:31:48Z
 title: The dead among us
 slug: the-dead-among-us
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A reflection on how North America lacks the same cultural coexistence with the dead that can be found in European cities, particularly regarding London’s plague pits.
 emoji: 🪦
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ⚰️ Cemeteries
-- 🇬🇧 London
-- 🌍 History
-- 🕊️ Memorials
-- ⚕️ Medicine
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ⚰️ Cemeteries
+  - 🇬🇧 London
+  - 🌍 History
+  - 🕊️ Memorials
+  - ⚕️ Medicine
+haiku: |
   Forgotten remains,  
-   Escalators through the past,  
-   Heritage of death.
-  coordinates: [51.5074, -0.1278]
+  Escalators through the past,  
+  Heritage of death.
+coordinates: [51.5074, -0.1278]
+---
 
 I don't know if there's any city in North America that has its own catacombs, at least in the European sense. My impression is that our old urban graves tend to be dealt with as a rarity: something to be either quietly obliterated, whisked away to pathology departments, or turned into permanent [memorials](http://web.archive.org/web/20120913081458/http://www.africanburialground.gov/ABG_Main.htm). But those measures don't seem like the same sort of cultural coexistance with the dead in number as described in this book review. I find the idea of taking an escalator up through the former site of a plague-pit to be particularly exciting
 

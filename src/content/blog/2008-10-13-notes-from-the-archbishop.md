@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-13
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Notes from the Archbishop
 slug: notes-from-the-archbishop
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: The Archbishop of Canterbury dives into the complexities of Dostoyevsky, merging literary critique and theology.
 emoji: 📚
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- ✝️ Christianity
-- 🌍 Culture
-- 📝 Writing
-- 📖 Books
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - ✝️ Christianity
+  - 🌍 Culture
+  - 📝 Writing
+  - 📖 Books
+haiku: |
   Dostoyevsky's mind,  
-   Faith and doubt intertwined,  
-   Guide through shadows bright.
-  coordinates: [51.3784, -1.9954]
+  Faith and doubt intertwined,  
+  Guide through shadows bright.
+coordinates: [51.3784, -1.9954]
+---
 
 [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/10/12/notes-from-the-archbishop/), 12 October 2008
 

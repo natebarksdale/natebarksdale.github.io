@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:55Z
 title: It comes from sacrifice
 slug: it-comes-from-sacrifice
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This piece explores the profound connection between forgiveness and the strength of Western values.
 emoji: ✝️
 tags:
-
-- 🌍 Culture-Making.com
-- ❤️ Forgiveness
-- ✝️ Christianity
-- ⚖️ Ethics
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ❤️ Forgiveness
+  - ✝️ Christianity
+  - ⚖️ Ethics
+  - 🌍 Culture
+haiku: |
   In forgiveness, strength,  
-   Sacrificing what we hold,  
-   Peace can be our path.
-  coordinates: [37.0902, -95.7129]
+  Sacrificing what we hold,  
+  Peace can be our path.
+coordinates: [37.0902, -95.7129]
+---
 
 The full title of this essay is "Forgiveness and Irony: What makes the West strong." I have to say I'm far less comfortable with the subtitle—there's quite a bit of us versus them in this piece, and for me the generalizations ring truer (or less complicated) on the us side of things
 

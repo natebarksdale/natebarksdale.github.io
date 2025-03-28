@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-03-17
 modDatetime: 2025-03-10 21:39:29+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.
 emoji: 🔧
 tags:
-
-- 🌍 Environment
-- ⚙️ Engineering
-- 💡 Innovation
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Environment
+  - ⚙️ Engineering
+  - 💡 Innovation
+  - 🌱 Sustainability
+haiku: |
   From sawmills he came,  
-   Nature's heart he would defend,  
-   Wilderness his home.
+  Nature's heart he would defend,  
+  Wilderness his home.
 
 coordinates: [43.0747, -89.3833]
+---
+
 [![](@assets/images/ozy.png)](http://www.ozy.com)
 
 > _My investigation of a surprising side of a pioneering environmetnalist._

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-07
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:56Z
 title: The brain, the body, and the world
 slug: the-brain-the-body-and-the-world
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A philosopher challenges the notion that our consciousness is solely determined by our brains.
 emoji: 🧠
 tags:
-
-- 🌍 Culture-Making.com
-- 🧠 Psychology
-- 🌍 Consciousness
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🧠 Psychology
+  - 🌍 Consciousness
+  - ⚖️ Choices
+haiku: |
   Brains shape our thoughts,  
-   Yet the world's dance defines us,  
-   Together we dream.
-  coordinates: [37.7749, -122.4194]
+  Yet the world's dance defines us,  
+  Together we dream.
+coordinates: [37.7749, -122.4194]
+---
 
 A philosopher takes aim at neuroscientific gnosticism: context is key, and what we make of the world is an important part of who we are, even if it isn't the final word
 

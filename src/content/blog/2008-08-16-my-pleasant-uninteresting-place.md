@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: My pleasant uninteresting place
 slug: my-pleasant-uninteresting-place
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: In the reflections on a tranquil life, Walker Percy captures the essence of his surroundings in Covington.
 emoji: 🌲
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🇨🇳 China
-- 🌆 Urban Spaces
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🇨🇳 China
+  - 🌆 Urban Spaces
+haiku: |
   In quiet waters,  
-   Frogs croon beneath piney sky,  
-   Time gently drifts by.
-  coordinates: [30.4050, -90.1000]
+  Frogs croon beneath piney sky,  
+  Time gently drifts by.
+coordinates: [30.4050, -90.1000]
+---
 
 Sometimes appreciating the excellent and appreciating the local are one and the same thing; at other times they're separate quantities. But I'd argue, deep in the shadow of Percy, that both appreciations are, in their moment, good indeed
 

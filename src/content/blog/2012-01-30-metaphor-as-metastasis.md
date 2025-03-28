@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-30
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Metaphor as metastasis
 slug: metaphor-as-metastasis
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A thought-provoking exploration of the language and metaphors we use to discuss economic growth and regulation.
 emoji: 🦠
 tags:
-
-- 🗣🗣️ Language
-- 📖 Lawrence Weschler
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- 🌍 Society
-  haiku: |
+  - 🗣🗣️ Language
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - 🌍 Society
+haiku: |
   Growth's perilous rise,  
-   Metaphors shape our concerns,  
-   Taming the tumor.
-  coordinates: [34.0522, -118.2437]
+  Metaphors shape our concerns,  
+  Taming the tumor.
+coordinates: [34.0522, -118.2437]
+---
 
 An op-ed worth reading, if only for the opening epigraph (and, come to think of it, the essential closing verb in the quotation below).
 

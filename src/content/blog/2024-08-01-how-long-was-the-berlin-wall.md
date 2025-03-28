@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-11-05
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: How Long Was the Berlin Wall?
 slug: how-long-was-the-berlin-wall
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Explore the history and impact of the Berlin Wall, a stark Cold War symbol that split a city and its people for three decades.
 emoji: 🧱
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🇭 History.com
-- 🌍 History
-- 🌎 Borders
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🇭 History.com
+  - 🌍 History
+  - 🌎 Borders
+haiku: |
   Wall splits heart of Berlin,  
-   Echoes of Cold War, silent cries,  
-   Stone scars linger deep.
-  coordinates: [52.5163, 13.3777]
+  Echoes of Cold War, silent cries,  
+  Stone scars linger deep.
+coordinates: [52.5163, 13.3777]
+---
 
 For the History Channel, I wrote about the physical and ideological barriers that epitomized the Berlin Wall's history.
 

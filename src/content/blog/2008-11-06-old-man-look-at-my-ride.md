@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Old man, look at my ride
 slug: old-man-look-at-my-ride
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Meet the mechanic blending green innovation with American muscle.
 emoji: 🚗
 tags:
-
-- 🌍 Culture-Making.com
-- 🇰🇭 Cambodia
-- ⚙️ Engineering
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇰🇭 Cambodia
+  - ⚙️ Engineering
+  - 🌱 Sustainability
+haiku: |
   Engines roar with might,  
-   Green dreams fuel heavy hearts,  
-   Power meets the earth.
-  coordinates: [39.0997, -94.5786]
+  Green dreams fuel heavy hearts,  
+  Power meets the earth.
+coordinates: [39.0997, -94.5786]
+---
 
 Here's one Kansas mechanic-savant's technique for bridging the red/blue state stereotypes: huge cars with great mileage
 

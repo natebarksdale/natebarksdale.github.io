@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-28T14:39:01Z
+modDatetime: 2025-03-28T15:31:39Z
 title: More than playgrounds
 slug: more-than-playgrounds
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A glimpse into how outdoor classrooms are transforming student behavior in Boston’s schoolyards. “[The kids] sort of recognize this as kind of a special place. They’re quieter, more orderly,” Ms. Whittemore said.
 emoji: 🌱
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌱 Sustainability
-- 🌳 Landscapes
-- 🌞 Leisure
-- 🇺🇸 United States
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌱 Sustainability
+  - 🌳 Landscapes
+  - 🌞 Leisure
+  - 🇺🇸 United States
+haiku: |
   Children learn and play,  
-   Nature blooms in schoolyards bright,  
-   Joyful hearts unite.
-  coordinates: [42.3314, -71.1044]
+  Nature blooms in schoolyards bright,  
+  Joyful hearts unite.
+coordinates: [42.3314, -71.1044]
+---
 
 The Boston Schoolyard Initiative aims to transform the city's largely paved-over schoolyards into something more suitable for play -- and for learning. I love the teacher's observation about the kids' behavior in their new outdoor classroom
 

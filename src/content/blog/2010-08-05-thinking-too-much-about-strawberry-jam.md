@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-08-05
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Thinking too much about strawberry jam
 slug: thinking-too-much-about-strawberry-jam
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A fascinating exploration of how overthinking can distort our preferences, as seen in a jam taste test.
 emoji: 🍓
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Taste buds' first instinct,  
-   Overthought yields strange results,  
-   Trust your gut, they say.
-  coordinates: [37.7749, -122.4194]
+  Overthought yields strange results,  
+  Trust your gut, they say.
+coordinates: [37.7749, -122.4194]
+---
 
 Scientists recreated a Consumer Reports study in which students were asked to rate strawberry jams. The initial results mirrored the findings of the magazine's taste experts. In the next phase of the experiment, things got stranger ..
 

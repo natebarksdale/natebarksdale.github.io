@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-26
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: What do 80 texts a day add up to?
 slug: what-do-80-texts-a-day-add-up-to
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A look into how texting affects the development of teenage autonomy, with insights from psychologist Sherry Turkle.
 emoji: 📱
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- ⚙️ Technology
-- 🌍 Society
-- 🧠 Psychology
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - ⚙️ Technology
+  - 🌍 Society
+  - 🧠 Psychology
+haiku: |
   Texts between the two,  
-   Adolescence lost in screens,  
-   Choices from afar.
-  coordinates: [42.3601, -71.0589]
+  Adolescence lost in screens,  
+  Choices from afar.
+coordinates: [42.3601, -71.0589]
+---
 
 I found this detail more surprising than the 80-text-messages-a-day average for teens: they're sending a lot of those texts ... to their parents?
 

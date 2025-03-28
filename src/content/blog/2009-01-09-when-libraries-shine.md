@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: When libraries shine
 slug: when-libraries-shine
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: The impact of the recession highlights the essential role of libraries as community hubs for learning and support.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Articles
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Articles
+haiku: |
   In tough times they shine,  
-   Libraries hold knowledge dear,  
-   Hope in every book.
-  coordinates: [42.3601, -71.0589]
+  Libraries hold knowledge dear,  
+  Hope in every book.
+coordinates: [42.3601, -71.0589]
+---
 
 One of the community benefits of the recession—provided there's funding for the libraries to stay open
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: One hand, one heart, two tongues
 slug: one-hand-one-heart-two-tongues
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A discussion on the bilingual revival of _West Side Story_ and its efforts to redress cultural biases.
 emoji: 🎭
 tags:
-
-- 🧉 South America
-- 🌍 Culture-Making.com
-- 🎭 Entertainment
-- 🌍 Culture
-- ✍️ Literature
-- 🌆 Urban Spaces
-  haiku: |
+  - 🧉 South America
+  - 🌍 Culture-Making.com
+  - 🎭 Entertainment
+  - 🌍 Culture
+  - ✍️ Literature
+  - 🌆 Urban Spaces
+haiku: |
   Sharks rise, Jets can’t hide,  
-   Bilingual dreams collide,  
-   Old tales redefined.
-  coordinates: [40.7295, -73.9817]
+  Bilingual dreams collide,  
+  Old tales redefined.
+coordinates: [40.7295, -73.9817]
+---
 
 A revival of _West Side Story_ , directed by the 90-year-old author of the 1957 musical's book, aims to redress the original's anti-Puerto Rican bias (or just plain inaccuracy). I hope at least one of the gangs will hold on to the dorky-cool ballet swagger. But even if not, it'd be worth it to hear the songs in Spanish
 

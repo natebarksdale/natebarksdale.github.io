@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-08-19
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:01Z
 title: What I attend to
 slug: what-i-attend-to
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: This week I've been experimenting with speed-reading and its impact on my attention and enjoyment of literature.
 emoji: 📚
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 🧘‍♂️ Psychology
-- 🌀 Complexity
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 🧘‍♂️ Psychology
+  - 🌀 Complexity
+haiku: |
   Turning pages fast,  
-   Mind engaged in silent space,  
-   Lost in worlds of words.
-  coordinates: [34.0522, -118.2437]
+  Mind engaged in silent space,  
+  Lost in worlds of words.
+coordinates: [34.0522, -118.2437]
+---
 
 This week I've been experimenting with a simple speed-reading technique, inspired by [this how-to](http://www.fourhourworkweek.com/blog/2009/07/30/speed-reading-and-accelerated-learning/). It's definitely increased my page-count. As for comprehension and enjoyment, the jury's still out, but I'm hopeful. The novelty of the technique (basically starting and stopping each line a few words in, relying on your peripheral vision to pick up the rest) does make me attend to what I'm reading much more: there's less room for my mind to wander
 

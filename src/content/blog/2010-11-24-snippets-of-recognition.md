@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-11-24
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Snippets of recognition
 slug: snippets-of-recognition
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: It's intriguing how quickly we form opinions based on brief experiences, especially in music.
 emoji: 🎶
 tags:
-
-- 🌍 Culture-Making.com
-- 🎵 Music
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   Sound shapes our judgment,  
-   In mere moments we define,  
-   Music's heart unveiled.
-  coordinates: [42.0511, -87.6742]
+  In mere moments we define,  
+  Music's heart unveiled.
+coordinates: [42.0511, -87.6742]
+---
 
 It's fascinating how little it takes to identify the whole by its parts and—usefully but also troublingly—form opinions that are not that easy to alter as additional info rolls in
 

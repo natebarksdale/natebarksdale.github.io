@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-10
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: All sorts of humanity mixed up in it
 slug: all-sorts-of-humanity-mixed-up-in-it
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Derived from the emotional and ethical turbulence present in modern medicine, this piece explores how bioethics is intertwined with real-life dilemmas faced by healthcare professionals.
 emoji: 💉
 tags:
-
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- ⚖️ Ethics
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - ⚖️ Ethics
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Life and ethics clash,  
-   Choices shape our human fate,  
-   Healing hearts or not.
-  coordinates: [34.0522, -118.2437]
+  Choices shape our human fate,  
+  Healing hearts or not.
+coordinates: [34.0522, -118.2437]
+---
 
 Applied bioethics finds a new home in prime time
 

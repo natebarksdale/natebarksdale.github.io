@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-08
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Outdoor bookcases in Bonn, Germany
 slug: outdoor-bookcases-in-bonn-germany
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In this post, Daniel Hamermesh reflects on the unique forms of community trust observed in Germany compared to the United States, particularly regarding public sharing initiatives like outdoor lending libraries.
 emoji: 📚
 tags:
-
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Society
-- 🇺🇸 United States
-- 📖 Books
-  haiku: |
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Society
+  - 🇺🇸 United States
+  - 📖 Books
+haiku: |
   Books shared in the park,  
-   Trust blossoms in open air,  
-   A thriving exchange.
-  coordinates: [38.8833, -77.0167]
+  Trust blossoms in open air,  
+  A thriving exchange.
+coordinates: [38.8833, -77.0167]
+---
 
 Of course we can (and should) also ask, what forms of community trust do we have here in the States that you wouldn't expect to see elsewhere? a [Freakonomics](http://freakonomics.blogs.nytimes.com/2008/09/05/you-cant-have-outdoor-bookshelves-in-every-city/) post by Daniel Hamermesh, 5 September 2008
 

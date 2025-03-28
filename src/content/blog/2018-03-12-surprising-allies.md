@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-03-12
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Surprising Allies
 slug: surprising-allies
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A new book dispels myths about scientists and people of faith
 emoji: 🤝
 tags:
-
-- 🌀 Templeton
-- ⛪ Religion
-- 🧠 Psychology
-- ⚙️ Technology
-  haiku: |
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🧠 Psychology
+  - ⚙️ Technology
+haiku: |
   Science, faith entwined,  
-   Seeking truth, dispelling myths—  
-   Harmony unfolds.
-  coordinates: [29.7174, -95.4018]
+  Seeking truth, dispelling myths—  
+  Harmony unfolds.
+coordinates: [29.7174, -95.4018]
+---
 
 For the John Templeton Foundation, I wrote about how misconceptions between science and faith are more complex than a simple conflict.
 

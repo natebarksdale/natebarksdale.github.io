@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Sandbag challenge
 slug: sandbag-challenge
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Researchers examined how professional engineers outperformed volunteers in building effective sandbag dikes, highlighting the importance of expertise in flood prevention.
 emoji: ⛑️
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⚙️ Engineering
-- ⚒️ Blacksmiths
-- 🌍 Environment
-- ⛪ Religion
-- ⚖️ Ethics
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⚙️ Engineering
+  - ⚒️ Blacksmiths
+  - 🌍 Environment
+  - ⛪ Religion
+  - ⚖️ Ethics
+haiku: |
   Sandbags stacked with care,  
-   Skilled hands rise to hold the tide,  
-   Knowledge builds the wall.
-  coordinates: [49.8951, -97.1384]
+  Skilled hands rise to hold the tide,  
+  Knowledge builds the wall.
+coordinates: [49.8951, -97.1384]
+---
 
 I wonder whether they could even out the results by getting the engineers to write some new sandbagging directions?
 

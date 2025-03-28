@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:39Z
 title: Chain mosques
 slug: chain-mosques
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Exploring how the rise of multi-site mosque chains mirrors the fast-food model, emphasizing accessibility and modern amenities for worshippers.
 emoji: 🍔
 tags:
-
-- 🌙 Islam
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Culture
-- ⚖️ Ethics
-- 🕌 Mosques
-  haiku: |
+  - 🌙 Islam
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Culture
+  - ⚖️ Ethics
+  - 🕌 Mosques
+haiku: |
   Modern houses rise,  
-   Echoes of faith and purpose,  
-   Streams of prayer flow free.
-  coordinates: [28.5383, -81.3792]
+  Echoes of faith and purpose,  
+  Streams of prayer flow free.
+coordinates: [28.5383, -81.3792]
+---
 
 Apart from size (and, I guess, the Central Florida location), the parallel really is more McDonald's than Megachurch -- which makes sense when religious devotion has more in common with regular meals (i.e. several times a day) than a once-a-week banquet. One could argue that this is just a form of cultural copying, though I suspect that it's more akin to using the language of fast-food marketing to reclaim a function that mosques have had, in other contexts, for centuries
 an [Utne Reader](http://www.utne.com/2008-07-24/Spirituality/Rise-of-the-Mega-Mosque.aspx?blogid=28) post by Bennett Gordon, 24 July 2008 :: via [Culture Log](http://culturelog.tumblr.com/)

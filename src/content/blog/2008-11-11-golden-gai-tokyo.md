@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-11
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Golden Gai, Tokyo
 slug: golden-gai-tokyo
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the vibrant and historical charm of Golden Gai in Tokyo, where yakuza once ran the bars, captured beautifully in this brush pen drawing.
 emoji: 🍶
 tags:
-
-- 🌍 Culture-Making.com
-- 🇯🇵 Japan
-- ⚔️ Enemies
-- 🌀 Complexity
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇯🇵 Japan
+  - ⚔️ Enemies
+  - 🌀 Complexity
+  - 🌍 Culture
+haiku: |
   Neon lights flicker,  
-   Yakuza's whispers linger,  
-   Golden nights unfold.
-  coordinates: [35.6938, 139.7035]
+  Yakuza's whispers linger,  
+  Golden nights unfold.
+coordinates: [35.6938, 139.7035]
+---
 
 I love the crazy interplay of the wires in this brush pen drawing. From the sketcher's note: "This is a place in Tokyo called Goruden Gai (Golden town) where you'll find lots of little bars etc that used to be run by yakuza after WWII
 [![image](http://culture-making.com/media/2998073089_ddcd51719b_o.jpg)](http://www.urbansketchers.com/2008/11/golden-gai-tokyo.html)

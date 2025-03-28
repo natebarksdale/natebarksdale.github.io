@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-14
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: A year of… books
 slug: a-year-of-books
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: A reflection on people who dedicate a year to a unique challenge and then document their experiences in a book.
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- 📖 Books
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📖 Books
+  - 🌍 Society
+haiku: |
   A year of stories,  
-   Tales spun from trials and paths,  
-   Words shape our journey.
-  coordinates: [40.7128, -74.0060]
+  Tales spun from trials and paths,  
+  Words shape our journey.
+coordinates: [40.7128, -74.0060]
+---
 
 Someone should spend a year reading all these books, and then write a book about it
 a [kottke.org](http://www.kottke.org/08/08/a-year-of-books) post, 8 August 2008

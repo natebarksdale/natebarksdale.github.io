@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-12-15
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Rethinking one’s own position as a creator
 slug: rethinking-ones-own-position-as-a-creator
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Brian Eno explores the idea of composers as gardeners, nurturing music rather than controlling it.
 emoji: 🌱
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Creativity
-- 🌱 Growth
-- 🌍 Culture
-- 🎶 Activities
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Creativity
+  - 🌱 Growth
+  - 🌍 Culture
+  - 🎶 Activities
+haiku: |
   Seeds of sound take root,  
-   Surprises bloom in the mind,  
-   All share in the song.
-  coordinates: [51.5072, -0.1276]
+  Surprises bloom in the mind,  
+  All share in the song.
+coordinates: [51.5072, -0.1276]
+---
 
 Is a composer like an architect, directing every detail of the music, from its structure to its finish? That, says Brian Eno, is the traditional view (never mind my architect friends' complaints about the impossibility of getting builders to fully follow the blueprints). As you might guess, Eno prefers another approach, less about wresting control than laying a groundwork and then seeing what grows.
 

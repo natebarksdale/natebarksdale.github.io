@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:42Z
 title: First, hide the router!
 slug: first-hide-the-router
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In a world where technology can distract, Jeff VanderMeer shares a personal strategy to create uninterrupted writing time.
 emoji: 🕰️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-- ⚠️ Danger
-- ✍️ Literature
-- 💡 Innovation
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+  - ⚠️ Danger
+  - ✍️ Literature
+  - 💡 Innovation
+  - 🌍 Society
+haiku: |
   Router hidden well,  
-   Time flows through unbroken thought,  
-   Novel's heart beats strong.
-  coordinates: [30.3322, -97.7431]
+  Time flows through unbroken thought,  
+  Novel's heart beats strong.
+coordinates: [30.3322, -97.7431]
+---
 
 Technology makes many things possible, but often with a costly trade-off. Here's one novelist's attempt to compensate—I like how it's a very community-based solution, rooted in relationship and trust
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: Where have all the dancers gone?
 slug: where-have-all-the-dancers-gone
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the decline of communal dancing and the rise of televised performances in our culture.
 emoji: 📺
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🎥 Film
-- 🌍 Culture
-- 🌞 Leisure
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🎥 Film
+  - 🌍 Culture
+  - 🌞 Leisure
+haiku: |
   Dancing in the past,  
-   Now we watch from the sidelines,  
-   Joy lost in viewing.
-  coordinates: [42.3601, -71.0589]
+  Now we watch from the sidelines,  
+  Joy lost in viewing.
+coordinates: [42.3601, -71.0589]
+---
 
 I suppose the counterargument would be that people are dancing less for other reasons (economy? body image? lack of time?), and that the rise of televised dance is a way of filling the cultural gap
 

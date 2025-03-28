@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-08-28
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Connexcellent!
 slug: mix-cd-connexcellent
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A unique mix celebrating Connecticut, featuring songs and artists that pay homage to the Nutmeg State.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🦁 Africa
-- 🇨🇦 Canada
-- 🌆 Connecticut
-- 🎵 Music
-- 🌍 Culture
-  haiku: |
+  - 💿 Mix CDs
+  - 🦁 Africa
+  - 🇨🇦 Canada
+  - 🌆 Connecticut
+  - 🎵 Music
+  - 🌍 Culture
+haiku: |
   Sounds from the Nutmeg,  
-   Melodies of warm friendship,  
-   Echoes of New Haven.
-  coordinates: [41.3083, -72.9279]
+  Melodies of warm friendship,  
+  Echoes of New Haven.
+coordinates: [41.3083, -72.9279]
+---
 
 #### Catalog No. 036.1C07-1
 

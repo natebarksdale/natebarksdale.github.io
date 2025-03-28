@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-16
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Ecstatically between the pillows and the books
 slug: ecstatically-between-the-pillows-and-the-books
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In this excerpt from David Foster Wallace's _The Pale King_, the author explores the intertwining of childhood ecstasy and maternal love through evocative imagery and a sense of magic in the everyday.
 emoji: 🌈
 tags:
-
-- 🦠 Biology
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌅 Reflection
-- ✨ Beauty
-- 🌞 Summer
-  haiku: |
+  - 🦠 Biology
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌅 Reflection
+  - ✨ Beauty
+  - 🌞 Summer
+haiku: |
   Voices call with light,  
-   Ecstasy in springtime,  
-   Magic feels so near.
-  coordinates: [38.6270, -90.1994]
+  Ecstasy in springtime,  
+  Magic feels so near.
+coordinates: [38.6270, -90.1994]
+---
 
 This is from a short story taken from David Foster Wallace's posthumous novel in progress, _The Pale King_. The whole story, an exploration of childlike faith, is worth reading and rereading—indeed, the emotion I most strongly associate with reading David Foster Wallace's work is a (generally somewhat frustrated) impulse to reread. But in this case the impulse comes gladly and with a touch of, and a feel for, grace
 

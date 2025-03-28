@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-23
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Choose and lose
 slug: choose-and-lose
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the taxing nature of making decisions and the creative process behind commitment.
 emoji: 🧠
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- 🌀 Complexity
-- 🔍 Uncertainty
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 🌀 Complexity
+  - 🔍 Uncertainty
+haiku: |
   Decisions weigh heavy,  
-   Paths diverge in thought's embrace,  
-   Focus to create.
-  coordinates: [40.7128, -74.0060]
+  Paths diverge in thought's embrace,  
+  Focus to create.
+coordinates: [40.7128, -74.0060]
+---
 
 Insight into the hard work of creativity -- not just coming up with or considering myriad possibilitys, but deciding which is the one worth pursuing and pruning away the rest
 

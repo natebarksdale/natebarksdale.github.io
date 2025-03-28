@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2019-09-10
-modDatetime: 2025-03-28T14:39:31Z
+modDatetime: 2025-03-28T15:32:15Z
 title: Exploring the Big Questions with Aeon
 slug: exploring-the-big-questions-with-aeon
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A new two-year project will fund dozens of essays and longform pieces published in one of the most innovative and engaging journals of science and thought.
 emoji: 🌌
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 🧬 Genetics
-- 🌍 Evolution
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 🧬 Genetics
+  - 🌍 Evolution
+haiku: |
   Ideas weave through time,  
-   Cosmos and mind intertwine,  
-   Knowledge blooms, unfurled.
-  coordinates: [37.8136, 144.9631]
+  Cosmos and mind intertwine,  
+  Knowledge blooms, unfurled.
+coordinates: [37.8136, 144.9631]
+---
 
 For the John Templeton Foundation, I wrote about _Aeon_ magazine.
 

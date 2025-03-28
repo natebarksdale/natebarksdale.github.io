@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-01-25
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:12Z
 title: City Silhouettes by Jasper James
 slug: city-silhouettes-by-jasper-james
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Beijing-based photographer Jasper James captures the striking juxtaposition of humans and urban landscapes in his reflections series.
 emoji: 🏙️
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌆 Cities
-- 🎨 Art
-- 🌍 Culture
-- 🖼️ Artifacts
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌆 Cities
+  - 🎨 Art
+  - 🌍 Culture
+  - 🖼️ Artifacts
+haiku: |
   Reflections collide,  
-   Giants tread on tiny streets,  
-   Life in balance sways.
-  coordinates: [39.9042, 116.4074]
+  Giants tread on tiny streets,  
+  Life in balance sways.
+coordinates: [39.9042, 116.4074]
+---
 
 Beijing-based photographer [Jasper James](http://www.jasperjames.co.uk/) has a wonderful series of portraits of people reflected against cityscapes. The images are all composed in camera—no compositing or Photoshopping beyond simple contrast adjustments. The result—giant humans superimposed on tiny buildings—inverts the usual urban experience, where the buildings dwarf each individual.
 [![image](http://culture-making.com/media/8_silhouettes004.jpg)](http://www.jasperjames.co.uk/project/people-and-places-2/)

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2024-04-24
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:18Z
 title: Forgiveness
 slug: forgiveness
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring the science of forgiveness.
 emoji: 🕊️
 tags:
-
-- ➗ Mathematics
-- 🍷 Europe
-- 🇿🇦 South Africa
-- 🦁 Africa
-- 🌀 Templeton
-- ❤️ Forgiveness
-  haiku: |
+  - ➗ Mathematics
+  - 🍷 Europe
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ❤️ Forgiveness
+haiku: |
   Former enemies
   Eat at one table.
   So much more to learn.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about the transformative power of forgiveness.
 

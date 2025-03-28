@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-04-19
 modDatetime: 2025-03-10 21:39:28+00:00
@@ -10,22 +9,23 @@ draft: False
 description: Exploring the juxtaposition of creative discipline and artistic representation in a global context.
 emoji: 🌍
 tags:
-
-- ✨ Wonder
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎨 Creativity
-- 📝 Writing
-- ⏰ Time
-- 🌀 Complexity
-  haiku: |
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎨 Creativity
+  - 📝 Writing
+  - ⏰ Time
+  - 🌀 Complexity
+haiku: |
   Faces from afar,  
-   Drawn with intent and haste,  
-   Cultures intertwine.
+  Drawn with intent and haste,  
+  Cultures intertwine.
 
 coordinates: [20.5937, 78.9629]
+---
+
 [![](@assets/images/ManWomanBoyGrid.jpg)](@assets/images/ManWomanBoyGrid.jpg)
 Explore the full photo grid [lightables.net](http://web.archive.org/web/20150801220317/http://lightables.net/) (enter user name manwomanboygirl)
 Is there anything more tiresome, and yet oddly compelling, than the sub-sub-genre of blogging wherein one's pedestrian but repeatable creative efforts in a given category are laid out, day after day, as a great cumulative achievement of artistry and time management? See, for instance: [A Photo a Day](http://content.photojojo.com/tutorials/project-365-take-a-photo-a-day/). [A Drawing a Day](http://web.archive.org/web/20250108222647/https://onedrawingaday.com/). [A Heart a Day](http://www.aheartaday.com/). [A Song a Day](http://www.youtube.com/user/therockcookiebottom). [A Dog a Day](http://paintingadogaday.blogspot.com/). [A Startup a Day](http://web.archive.org/web/20241225163105/https://astartupaday.com/). [A Collection a Day](http://collectionaday2010.blogspot.com/). Et cetera

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2020-10-20
-modDatetime: 2025-03-28T14:39:32Z
+modDatetime: 2025-03-28T15:32:16Z
 title: How to Develop a Belief Network
 slug: how-to-develop-a-belief-network
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Studying the development and diversity of religious cognition and behavior.
 emoji: 🌐
 tags:
-
-- 🇲🇽 Mexico
-- 🥑 Central America
-- 🧉 South America
-- 🦁 Africa
-- 🌀 Templeton
-- ⛪ Religion
-- 🌍 Culture
-- 👶 Children
-  haiku: |
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌍 Culture
+  - 👶 Children
+haiku: |
   Children seek the skies,  
-   Across cultures, beliefs weave,  
-   Science traces roots.
-  coordinates: [33.9737, -117.3281]
+  Across cultures, beliefs weave,  
+  Science traces roots.
+coordinates: [33.9737, -117.3281]
+---
 
 For the John Templeton Foundation, I wrote about a groundbreaking study investigating how children form beliefs about the supernatural.
 

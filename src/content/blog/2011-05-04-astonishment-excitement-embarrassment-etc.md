@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-05-04
 modDatetime: 2011-05-04
@@ -10,18 +9,18 @@ draft: true
 description: A reflection on the evolution of language and the inclusion of new words in the Oxford English Dictionary.
 emoji: 📜
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🌐 Blogging
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🌐 Blogging
+  - 🌍 Culture
+haiku: |
   Words born from the web,  
-   Evolving in the light,  
-   Voices find their place.
-  coordinates: [40.7128, -74.0060]
+  Evolving in the light,  
+  Voices find their place.
+coordinates: [40.7128, -74.0060]
+---
 
 It is, I think you will agree, the rather rare headline that contains a total of eleven exclamation marks. Nonetheless, there it was, on the editorial page of the April 5 _New York Times_ : "[OMG!!! OED!!! LOL!!!!!](https://www.google.com/search?q=%22OMG%21%21%21%20OED%21%21%21%20LOL%21%21%21%21%21%22%20nytimes.com)"--a lighthearted, unsigned opinion celebrating the addition of a pair of Internet- and text-message-boosted Three-Letter Initialisms**1** into the greatest TLI of them all: the [Oxford English Dictionary](http://web.archive.org/web/20110514204610/http://www.oed.com/public/latest/latest-update)
 There were a lot of similar headlines that week, conveying much the same news: that the OED had announced, as they do from time to time, a set of new and revised definitions--part of their lexicographers' never-ending task of making sure the flagship dictionary of the English language remains up to date. Hence, this month, the new inclusion of [_fnarr-fnarr_](https://www.google.com/search?q=%22_fnarr-fnarr_%22%20oxforddictionaries.com), _singledom_ , [_banh mi_](http://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC), _smack-talking_ , _stonewash_ , _tinfoil hat_ , _behavioral economics_ , _wassup_ , _biker_ , _runathon_ , _happy camper_ , _Second Coming_ , [_rumble-de-thumps_](http://en.wikipedia.org/wiki/Rumbledethumps) (along with dozens of other [R-words](http://www.languagehat.com/archives/004192.php)), and as a headliner, _OMG_ : "colloq. (freq. in the language of electronic communications) . . . Expressing astonishment, excitement, embarrassment, etc.: 'oh my God!'
@@ -43,12 +42,10 @@ Indeed, once one Voice has taken the risk, the others just pile on. Hence the _T
 > One of my favorite movies of the 1940s is the Gary Cooper/Barbara Stanwyck screwball comedy [_Ball of Fire_](http://web.archive.org/web/20241127005002/https://www.imdb.com/title/tt0033373/), written by Billy Wilder and directed by Howard Hawks. The IMDB summary runs thusly: "A group of ivory-tower lexicographers realize they need to hear how real people talk, and end up helping a beautiful singer escape from the Mob
 > In a speech that sets the whole plot in motion, Cooper's Professor Bertram Potts seizes upon a workman's dialect and regales his fuddy-duddy colleagues: "Living in this house cut off from the world I've, I've lost touch. And it's inexcusable! That man talked a living language. I embalm some dead phrases." He realizes he needs to get out, "Out to collect new data. To tap the sources of slang, the major sources. The streets, the slums, the theatrical and allied professions. I know it's regrettable, this loss of time, gentlemen, but it must be done!
 > All of which calls to mind what is perhaps my favorite infographic ever, printed in the introduction to Wentworth and Flexner's 1960 [_Dictionary of American Slang_](https://www.google.com/search?q=%22_Dictionary%20of%20American%20Slang_%22%20amazon.com):
-> ![](@assets/images/slang-daisy.jpg)
-> [_Dict. of Am. Sl._](https://www.google.com/search?q=%22_Dict.%20of%20Am.%20Sl._%22%20amazon.com)
+> ![](@assets/images/slang-daisy.jpg) > [_Dict. of Am. Sl._](https://www.google.com/search?q=%22_Dict.%20of%20Am.%20Sl._%22%20amazon.com)
 > I realize it isn't intended to be a Venn diagram, though I like to suspend disbelief and wonder at just what terminology show-biz workers and general teenagers might happen to share
 > But the larger point stands: the sources of slang, high and low, are not just tributaries to the great river of a common language--they _are_ language, right and proper in their contexts, used with all the gusto and rich human messiness that flowed forth from Babel. I understand the sticklers' complaint about certain words not being appropriate for certain contexts, or _just wrong_.**7** But the genius of the OED, as with all references that strive to be both authoritative and inclusive, is that it will, after proper consideration, take any widely-spoken and -printed comer, whatever the pedigree
-> Put another way, with perhaps the most winsome wait-is-that-really-a-word of this month's OED crop: _New words for the dictionary? What's not to ♥?_
-> **Notes** (with apologies)
+> Put another way, with perhaps the most winsome wait-is-that-really-a-word of this month's OED crop: _New words for the dictionary? What's not to ♥?_ > **Notes** (with apologies)
 > 1 Not to be confused (as I did up until the writing of this very essay) with an acronym. The difference is mostly in whether you pronounce the letters individually: NATO is an acronym, UN is an initialism.
 > 2 Which, by the way, they did.
 > 3 [Phonetically, at least.](http://ask.metafilter.com/112923/Its-Meep-Meep-dammit)

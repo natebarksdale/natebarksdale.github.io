@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-23
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: The places we live
 slug: the-places-we-live
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Explore the lives of a billion people living in slums through immersive photography and personal stories.
 emoji: 🌍
 tags:
-
-- 🧉 South America
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🏙️ Population
-- 🏙️ Migration
-- 🗺️ States
-  haiku: |
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🏙️ Population
+  - 🏙️ Migration
+  - 🗺️ States
+haiku: |
   In shadows they thrive,  
-   Homes of hope and struggle soar,  
-   Life's pulse in the dust.
-  coordinates: [-3.139, 73.023]
+  Homes of hope and struggle soar,  
+  Life's pulse in the dust.
+coordinates: [-3.139, 73.023]
+---
 
 the [VSL:Web](http://web.archive.org/web/20111017185433/http://www.veryshortlist.com/web/daily.cfm/review/712/Photograph/the-places-we-live/?tp) post for 23 October 2008
 

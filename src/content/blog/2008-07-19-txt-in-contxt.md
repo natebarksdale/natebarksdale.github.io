@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Txt in contxt
 slug: txt-in-contxt
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on the playful nature of texting and its linguistic creativity, featuring insights from linguistics professor David Crystal.
 emoji: 🎭
 tags:
-
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- 🌍 Culture
-- 💬 Communication
-  haiku: |
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - 🌍 Culture
+  - 💬 Communication
+haiku: |
   Language turns to play,  
-   Texting dances with the words,  
-   Joy in every sway.
-  coordinates: [54.7833, -2.8333]
+  Texting dances with the words,  
+  Joy in every sway.
+coordinates: [54.7833, -2.8333]
+---
 
 I've yet to convert fully to the texting lifestyle (mostly due to cost and thumb dexterity) but I agree that it's an opportunity for linguistic innovation rather than destruction. You have to know the norms to be able to creatively flaunt them
 

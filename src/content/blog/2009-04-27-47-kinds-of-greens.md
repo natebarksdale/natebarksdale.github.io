@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2025-03-28T14:39:16Z
+modDatetime: 2025-03-28T15:31:57Z
 title: Forty-seven kinds of greens
 slug: forty-seven-kinds-of-greens
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Reflecting on the insights of Fran Osseo-Asare about the complexity of African cuisines and the risks of ethnocentrism.
 emoji: 🌍
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 Africa
-- 🌱 Sustainability
-- 🌍 Culture
-- ❤️ Kindness
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 Africa
+  - 🌱 Sustainability
+  - 🌍 Culture
+  - ❤️ Kindness
+haiku: |
   Too many wrong thoughts,  
-   Tastes beyond our borders call,  
-   Food's rich, deep embrace.
-  coordinates: [8.0000, 34.0000]
+  Tastes beyond our borders call,  
+  Food's rich, deep embrace.
+coordinates: [8.0000, 34.0000]
+---
 
 Ironically, this article was written by the mother of one of my very-widely-traveled friends. I especially love the string of starchy verbs in the third paragraph
 

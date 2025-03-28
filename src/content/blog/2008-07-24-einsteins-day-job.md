@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Einstein’s day job
 slug: einsteins-day-job
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Exploring how Einstein's work at the patent office intertwined with his revolutionary theories on time and simultaneity.
 emoji: ⏰
 tags:
-
-- 🍷 Europe
-- 📖 Lawrence Weschler
-- 🌍 Culture-Making.com
-- ⏰ Time
-- 🌍 History
-- ⚙️ Engineering
-  haiku: |
+  - 🍷 Europe
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
+  - ⏰ Time
+  - 🌍 History
+  - ⚙️ Engineering
+haiku: |
   In clocks he found truth,  
-   Time weaving through thought and dreams,  
-   Moments shift in light.
-  coordinates: [46.9480, 7.4474]
+  Time weaving through thought and dreams,  
+  Moments shift in light.
+coordinates: [46.9480, 7.4474]
+---
 
 We like to think that our greatest geniuses, especially those who came up with universal theories, operated at a plane removed from a particular cultural (and workaday) context. But in fact, the specifics always seem to play a role
 

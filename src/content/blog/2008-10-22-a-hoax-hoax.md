@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-22
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:45Z
 title: A hoax hoax
 slug: a-hoax-hoax
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reconsideration of the "War of the Worlds" broadcast reveals that the panic it generated was largely overstated and not nearly as widespread as believed.
 emoji: 📻
 tags:
-
-- 🌍 Culture-Making.com
-- 📺 Broadcasting
-- 📖 Discussions
-- 🗣️ Language
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📺 Broadcasting
+  - 📖 Discussions
+  - 🗣️ Language
+  - 🌍 Culture
+haiku: |
   Echoes in the night,  
-   Fiction weaves fear's tapestry,  
-   Truth fades in the light.
-  coordinates: [40.7128, -74.0060]
+  Fiction weaves fear's tapestry,  
+  Truth fades in the light.
+coordinates: [40.7128, -74.0060]
+---
 
 A famous broadcasting hoax reconsidered: it turns out it wasn't particularly easy to convince a gullible public that aliens were invading; what was easy, though, was to convince a gullible public that lots of other people were taken in by "War of the Worlds
 

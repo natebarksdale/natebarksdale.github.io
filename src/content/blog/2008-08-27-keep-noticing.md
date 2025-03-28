@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Keep noticing!
 slug: keep-noticing
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Cultivating the discipline of noticing can enhance our engagement with the world around us.
 emoji: 👁️
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🌍 Society
-- 📝 Writing
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🌍 Society
+  - 📝 Writing
+haiku: |
   Small details emerge,  
-   Eyes wide to the world around,  
-   Awareness awakens.
-  coordinates: [37.7749, -122.4194]
+  Eyes wide to the world around,  
+  Awareness awakens.
+coordinates: [37.7749, -122.4194]
+---
 
 Two design consultants offer simple ideas for how to cultivate the discipline of noticing—which, of course, is such a foundational skill for our big and small efforts to create and cultivate (and, for that matter, just enjoy) culture
 

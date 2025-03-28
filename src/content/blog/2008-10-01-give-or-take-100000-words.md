@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Give or take 100,000 words
 slug: give-or-take-100000-words
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the complexities of translating literature, especially in the case of Hugo’s "Les Misérables."
 emoji: 📚
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Translation
-- ✍️ Literature
-- 🌍 Culture
-- 📖 Books
-- 📖 Discussions
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Translation
+  - ✍️ Literature
+  - 🌍 Culture
+  - 📖 Books
+  - 📖 Discussions
+haiku: |
   Words stretch and diverge,  
-   Intent lost in the echoes,  
-   Stories shaped by hands.
-  coordinates: [48.845061, 2.336784]
+  Intent lost in the echoes,  
+  Stories shaped by hands.
+coordinates: [48.845061, 2.336784]
+---
 
 Translation is always a more complex business than you'd initially think
 "[The Mountain of ‘Les Mis’](http://ideas.blogs.nytimes.com/2008/09/29/the-mountain-of-les-mis/)," a [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/09/29/the-mountain-of-les-mis/) post, 29 September 2008

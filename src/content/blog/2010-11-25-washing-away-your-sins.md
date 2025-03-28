@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-11-25
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Washing away your sins
 slug: washing-away-your-sins
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This piece explores the powerful connection between metaphors and our physical sensations, particularly regarding morality and cleanliness.
 emoji: 🧼
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚕️ Medicine
-- 🌍 Society
-- 💧 Rituals
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚕️ Medicine
+  - 🌍 Society
+  - 💧 Rituals
+haiku: |
   Moral stains we feel,  
-   Cleansed by water and soap's touch,  
-   Sins washed, guilt remains.
-  coordinates: [40.7608, -111.8910]
+  Cleansed by water and soap's touch,  
+  Sins washed, guilt remains.
+coordinates: [40.7608, -111.8910]
+---
 
 From an interview with Chen-Bo Zhong, who researches the link between abstract concepts and physical feelings—the deep cultural power of metaphor
 

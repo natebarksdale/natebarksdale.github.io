@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:51Z
 title: In search of the Easy Fret
 slug: in-search-of-the-easy-fret
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the impact of Guitar Hero on real guitar manufacturers and the call for easier-to-play instruments.
 emoji: 🎸
 tags:
-
-- 🌍 Culture-Making.com
-- 🎵 Music
-- ⚙️ Technology
-- ⚖️ Choices
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - ⚙️ Technology
+  - ⚖️ Choices
+  - 🌍 Culture
+haiku: |
   Strings bring pain and strain,  
-   Heroes play their plastic chords,  
-   Real rhythm remains.
-  coordinates: [37.7749, -122.4194]
+  Heroes play their plastic chords,  
+  Real rhythm remains.
+coordinates: [37.7749, -122.4194]
+---
 
 I guess the practice-centric "Guitar Servant" was a game concept that never got off the ground
 a [ NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2009/01/06/time-to-guitar-hero-the-guitar/) post, 6 January 2008

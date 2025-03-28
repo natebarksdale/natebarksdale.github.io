@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2022-02-04
 modDatetime: 2025-03-18 21:19:23+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Explore how six East Asian countries shape the future of global religion in a groundbreaking survey revealing trends and transformations.
 emoji: 🔮
 tags:
-
-- 🌀 Templeton
-- ⛪ Religion
-- 📊 Surveys
-- 🌍 Globalization
-  haiku: |
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 📊 Surveys
+  - 🌍 Globalization
+haiku: |
   East Asia's faith mapped,  
-   Surveying souls, beliefs spread—  
-   Futures woven tight.
+  Surveying souls, beliefs spread—  
+  Futures woven tight.
 
 coordinates: [35.0, 105.0]
+---
+
 For the John Templeton Foundation, I wrote about the expansion of an influential survey on religion in East Asia.
 
 > _Six Countries will be Central to the Next Phase of a Groundbreaking Global Survey _

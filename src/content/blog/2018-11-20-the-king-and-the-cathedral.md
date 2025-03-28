@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-11-20
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: The King and the Cathedral
 slug: the-king-and-the-cathedral
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Celebrating King Abdullah II’s call for Muslims — and others — to enact their love of God and neighbor
 emoji: 🏰
 tags:
-
-- 🌀 Templeton
-- ⛪ Religion
-- 🌙 Islam
-- 🇯🇴 Jordan
-- 🇺🇸 United States
-  haiku: |
+  - 🌀 Templeton
+  - ⛪ Religion
+  - 🌙 Islam
+  - 🇯🇴 Jordan
+  - 🇺🇸 United States
+haiku: |
   Stone by stone, dreams rise,  
-   A king builds bridges of faith,  
-   Cathedrals of peace.
-  coordinates: [38.9305, -77.0709]
+  A king builds bridges of faith,  
+  Cathedrals of peace.
+coordinates: [38.9305, -77.0709]
+---
 
 For the John Templeton Foundation, I wrote about Abdullah II's Templeton Prize ceremony.
 

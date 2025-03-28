@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: What are the Japanese up to right now?
 slug: what-are-the-japanese-up-to-right-now
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An intriguing glimpse into the daily routines of the Japanese population, as captured by the census data. "As part of the Japanese census, people were asked to keep a record of what they were doing in 15 minute intervals. The data was publicly released and Jonathan Soma took it and graphed the results so that you can see what many Japanese are up to during the course of a normal day."
 emoji: 🏃
 tags:
-
-- 🌍 Culture-Making.com
-- 🇯🇵 Japan
-- 🌀 Complexity
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇯🇵 Japan
+  - 🌀 Complexity
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Rise with the sunrise,  
-   Water sports for the brave hearts,  
-   Dreams in midday light.
-  coordinates: [35.6762, 139.6503]
+  Water sports for the brave hearts,  
+  Dreams in midday light.
+coordinates: [35.6762, 139.6503]
+---
 
 a [kottke.org](http://www.kottke.org/08/10/what-are-the-japanese-up-to-right-now) post, 20 October 2008
 

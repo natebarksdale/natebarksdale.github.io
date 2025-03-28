@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-05-17
-modDatetime: 2025-03-28T14:39:26Z
+modDatetime: 2025-03-28T15:32:09Z
 title: Even if the hymns are impossible to sing
 slug: even-if-the-hymns-are-impossible-to-sing
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: An exploration of David Foster Wallace's complex relationship with faith and skepticism, revealing his struggles with church and belief.
 emoji: 🙏
 tags:
-
-- ➗ Mathematics
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- 🌀 Complexity
-- 🌍 Identity
-- ❤️ Kindness
-- 📝 Writing
-  haiku: |
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - 🌀 Complexity
+  - 🌍 Identity
+  - ❤️ Kindness
+  - 📝 Writing
+haiku: |
   Searching for the light,  
-   Doubt and faith intertwine,  
-   A soul's quiet fight.
-  coordinates: [39.8283, -98.5795]
+  Doubt and faith intertwine,  
+  A soul's quiet fight.
+coordinates: [39.8283, -98.5795]
+---
 
 This is from a magazine interview that came out in the publicity wake of David Foster Wallace's 1996 ur-novel _Infinite Jest_. Though I'd heard in recent years that DFW was a churchgoer, and read (in the aftermath of his 2008 suicide) that the Apostle Paul was among his favorite writers, those revelations come as a bit of a surprise (followed by a nod of recognition). It adds hope to his tragic aspect, but is, of course, also rather sobering
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: You can call me Al
 slug: you-can-call-me-al
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Reflecting on evolving parental nicknames and the cultural influences behind them.
 emoji: 👶
 tags:
-
-- ✨ Wonder
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🎭 Comedy
-- 🌍 Culture
-- 📖 Discussions
-- 💬 Communication
-  haiku: |
+  - ✨ Wonder
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🎭 Comedy
+  - 🌍 Culture
+  - 📖 Discussions
+  - 💬 Communication
+haiku: |
   Names as fluid tides,  
-   Generations redefining,  
-   Love in every word.
-  coordinates: [42.3601, -71.0589]
+  Generations redefining,  
+  Love in every word.
+coordinates: [42.3601, -71.0589]
+---
 
 I wonder how well these new parental nicknames will age? Also ... it's not clear from the article whether there's any racial diversity in their interview pool, or whether everyone's white. African American and many Latino/a cultures have long had a much more fluid sense of names, nicknames, diminutives, etc. so I doubt they'd be as surprised by this new "trend"
 

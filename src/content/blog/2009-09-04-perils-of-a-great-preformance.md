@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-09-04
-modDatetime: 2025-03-28T14:39:20Z
+modDatetime: 2025-03-28T15:32:02Z
 title: Perils of a great preformance
 slug: perils-of-a-great-preformance
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: In the realm of operatic improvisation, the influence of early recording legends like Enrico Caruso has overshadowed the art of individual expression.
 emoji: 🎤
 tags:
-
-- 🌍 Culture-Making.com
-- 🎵 Music
-- 🎭 Entertainment
-- ⚙️ Technology
-- 📝 Writing
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎵 Music
+  - 🎭 Entertainment
+  - ⚙️ Technology
+  - 📝 Writing
+  - 🌍 Culture
+haiku: |
   Cadenza confined,  
-   Caruso's echo resounds,  
-   Art's freedom in chains.
-  coordinates: [40.7128, -74.0060]
+  Caruso's echo resounds,  
+  Art's freedom in chains.
+coordinates: [40.7128, -74.0060]
+---
 
 We count on our greatest artists to open up the horizons of the possible, showing us what we didn't know could be done. But in the realm of operatic improvisation, a great artist (in conjunction with game-changing technology), has apparently severely reduced the horizons of the possible, or at least of the desirable
 

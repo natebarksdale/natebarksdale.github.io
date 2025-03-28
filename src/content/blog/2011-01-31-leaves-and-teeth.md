@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-28T14:39:28Z
+modDatetime: 2025-03-28T15:32:11Z
 title: Leaves and teeth
 slug: leaves-and-teeth
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This beautiful tiny basket, adorned with shark's teeth, symbolizes Nauru's rich cultural heritage amidst its modern challenges.
 emoji: 🦈
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎨 Art
-- 🌱 Sustainability
-- 🏺 Sculpture
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎨 Art
+  - 🌱 Sustainability
+  - 🏺 Sculpture
+haiku: |
   Tiny basket shines,  
-   Shark's teeth woven, telling  
-   Tales of Nauru's past.
-  coordinates: [-0.5250, 166.9310]
+  Shark's teeth woven, telling  
+  Tales of Nauru's past.
+coordinates: [-0.5250, 166.9310]
+---
 
 This basket is beautiful, tiny (just over three inches tall), and presumably not for everyday use, what with the teeth and all. It comes from the tiny micronesian republic of [Nauru](http://en.wikipedia.org/wiki/Nauru), known more recently as a tiny oasis of environmental devastation, tax-shelter hijinks, internet crime, [etc.](http://www.thisamericanlife.org/radio-archives/episode/253/the-middle-of-nowhere)
 [![photo](http://www.culture-making.com/media/DP145488.jpg)](http://www.metmuseum.org/works_of_art/collection_database/arts_of_africa_oceania_and_the_americas/basket_egadakua/objectview_enlarge.aspx?page=351&sort=0&sortdir=asc&keyword;=&fp=1&dd1=5&dd2=0&vw=1&collID=5&OID=50006983&vT=1&hi=0&ov=0)

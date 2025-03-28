@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-02-08
 modDatetime: 2025-03-18 21:19:20+00:00
@@ -10,18 +9,19 @@ draft: False
 description: Seminary training makes for better theologians and ministers. But does it make them more loving, humble, or resilient?
 emoji: 🙏
 tags:
-
-- 📖 Bible
-- 🌀 Templeton
-- ✝️ Christianity
-- 🧘‍♂️ Psychology
-- 🥗 Virtue
-  haiku: |
+  - 📖 Bible
+  - 🌀 Templeton
+  - ✝️ Christianity
+  - 🧘‍♂️ Psychology
+  - 🥗 Virtue
+haiku: |
   Seminaries mold souls,  
-   Knowledge meets virtue's tough road,  
-   Flaws in the faithful.
+  Knowledge meets virtue's tough road,  
+  Flaws in the faithful.
 
 coordinates: [33.9154, -117.9289]
+---
+
 For the John Templeton Foundation, I wrote about character and spiritual growth in seminary education.
 
 > If you read the mission statements of a dozen North American seminaries, certain commonalities emerge. A composite statement would indicate that seminaries exist “to prepare and equip women and men for Christian ministry.” Much of that preparation can be quantified academically or vocationally — courses completed, papers produced, internships secured. What has traditionally been less easy to measure (and thus less-often measured) has been the development of individual _character_ over the course of their studies.

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-09-30
-modDatetime: 2025-03-28T14:39:30Z
+modDatetime: 2025-03-28T15:32:14Z
 title: Seven Things You May Not Know About the Ming Dynasty
 slug: seven-things-you-may-not-know-about-the-ming-dynasty
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: “Zijin Cheng,” means “Purple Forbidden City,” a colorful reference not to the city’s walls but to the night sky.
 emoji: 🀄
 tags:
-
-- 🇭 History.com
-- 🇨🇳 China
-- 🌍 History
-- ⛪ Religion
-  haiku: |
+  - 🇭 History.com
+  - 🇨🇳 China
+  - 🌍 History
+  - ⛪ Religion
+haiku: |
   From ash rises Ming,
   Bright star guides the emperor,
   Forbidden City glows.
-  coordinates: [39.9168, 116.3833]
+coordinates: [39.9168, 116.3833]
+---
 
 For the History Channel, I wrote about uncovering lesser-known facets of the Ming Dynasty's profound legacy.
 

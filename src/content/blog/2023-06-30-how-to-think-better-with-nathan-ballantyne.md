@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-06-30
 modDatetime: 2025-03-18 21:19:19+00:00
@@ -10,17 +9,18 @@ draft: False
 description: Nathan Ballantyne shares insights on enhancing human judgment.
 emoji: 🤔
 tags:
-
-- 🌀 Templeton
-- 🧠 Psychology
-- 📚 Disciplines
-- 🔍 Logic
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Psychology
+  - 📚 Disciplines
+  - 🔍 Logic
+haiku: |
   Mind's journey unfolds,  
-   Limiting thoughts challenged deep,  
-   Wisdom's path revealed.
+  Limiting thoughts challenged deep,  
+  Wisdom's path revealed.
 
 coordinates: [33.424564, -111.928001]
+---
+
 For the John Templeton Foundation, I had a fascinating chat with philosopher Nathan Ballantyne. I think about his idea of epistemic trespassing a lot.
 
 > _How did you get interested in your field?_

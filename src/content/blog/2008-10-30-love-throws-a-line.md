@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-28T14:39:06Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Love throws a line
 slug: love-throws-a-line
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The impact of technology on our expectations of laundry, contrasting high-tech solutions with simpler alternatives.
 emoji: 🏡
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-- ♻️ Repurposing
-- 🌱 Sustainability
-- 🌍 Environment
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+  - ♻️ Repurposing
+  - 🌱 Sustainability
+  - 🌍 Environment
+  - 📝 Writing
+haiku: |
   High-tech dreams abound,  
-   Yet a simple rope can dry,  
-   Nature's breeze prevails.
-  coordinates: [42.3601, -71.0589]
+  Yet a simple rope can dry,  
+  Nature's breeze prevails.
+coordinates: [42.3601, -71.0589]
+---
 
 The electric dryer hasn't just changed the way most of us dry our laundry; it's also changed the broader cultural expectations of how laundry ought to work: that it should be something we can do without having to figure out what the weather's going to be like, and—here's what makes things difficult for the solution offered below—changed how we feel about seeing our own (and our neighbors') clothes strung out to dry in in semi-public
 

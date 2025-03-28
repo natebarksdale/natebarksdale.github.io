@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: Cell phones and African elections
 slug: cell-phones-and-african-elections
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Cell phones are fostering democracy by ensuring fair elections in Africa.
 emoji: 📱
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-- 🌍 Africa
-- 🔄 Commitment
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+  - 🌍 Africa
+  - 🔄 Commitment
+haiku: |
   Mobile voices rise,  
-   Fairness in counting reigns,  
-   Truth in every call.
-  coordinates: [14.5995, -28.6731]
+  Fairness in counting reigns,  
+  Truth in every call.
+coordinates: [14.5995, -28.6731]
+---
 
 Cell phones are a transformative technology all over the world, but in different ways in different regions. In Africa, the newfound possibility of rapid communication and reporting makes it a lot easier to track—and prevent—election mischief
 

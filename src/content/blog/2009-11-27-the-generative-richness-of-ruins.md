@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-11-27
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: The generative richness of ruins
 slug: the-generative-richness-of-ruins
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Exploring the intertwined nature of creation and destruction, Rebecca Solnit reflects on the cyclical history of San Francisco’s transformations.
 emoji: 🏚️
 tags:
-
-- ➗ Mathematics
-- 🌍 Culture-Making.com
-- 🌀 Complexity
-- ⚠️ Danger
-- 🏛️ Architecture
-- 🌍 History
-- ♻️ Repurposing
-  haiku: |
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
+  - 🌀 Complexity
+  - ⚠️ Danger
+  - 🏛️ Architecture
+  - 🌍 History
+  - ♻️ Repurposing
+haiku: |
   Ruins tell a tale,  
-   Life blooms from what once was lost,  
-   Change weaves through the years.
-  coordinates: [37.7749, -122.4194]
+  Life blooms from what once was lost,  
+  Change weaves through the years.
+coordinates: [37.7749, -122.4194]
+---
 
 This comes from a quietly amazing book of photographs of San Francisco in the aftermath of the 1906 earthquake and fire placed next to images of the same areas today. The destruction enacted by the century-old calamities represents, of course, only a small fraction of the total destructions and creations documented in the photographs, and in Rebecca Solnit's accompanying essay
 

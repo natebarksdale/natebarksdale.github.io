@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-10
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:41Z
 title: That’s progress for you
 slug: thats-progress-for-you
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A look at the evolution of fuel efficiency in cars, highlighting a stark decline in options despite increasing consumer demand.
 emoji: 🚗
 tags:
-
-- 🌍 Culture-Making.com
-- ⚙️ Technology
-- 🌍 Environment
-- 💼 Business
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚙️ Technology
+  - 🌍 Environment
+  - 💼 Business
+haiku: |
   Past roads were greener,  
-   Fewer choices, yet we yearn,  
-   Future must discern.
-  coordinates: [34.0522, -118.2437]
+  Fewer choices, yet we yearn,  
+  Future must discern.
+coordinates: [34.0522, -118.2437]
+---
 
 New automotive technology expands, and simultaneously contracts the horizons of the possible. The place to find more fuel-efficient cars? The future ... and the past
 

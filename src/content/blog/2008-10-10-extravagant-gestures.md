@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-10-10
-modDatetime: 2025-03-28T14:39:05Z
+modDatetime: 2025-03-28T15:31:44Z
 title: Extravagant gestures
 slug: extravagant-gestures
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Annie Dillard reflects on the extravagant gestures of creation and their enduring presence in the world, beautifully illustrating the connection between nature and fire.
 emoji: 🔥
 tags:
-
-- 🌍 Culture-Making.com
-- ✨ Gestures
-- 🌍 Exploration
-- 🌊 Water
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✨ Gestures
+  - 🌍 Exploration
+  - 🌊 Water
+haiku: |
   Fire dances the fields,  
-   Creation's vibrant embrace,  
-   All things spark with life.
-  coordinates: [38.5, -105.5]
+  Creation's vibrant embrace,  
+  All things spark with life.
+coordinates: [38.5, -105.5]
+---
 
 This just sings
 

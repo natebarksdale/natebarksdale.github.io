@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-11-12
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:11Z
 title: The gift that keeps on giving?
 slug: the-gift-that-keeps-on-giving
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: From Zac Mason, a reflection on the unintended consequences of consumer charity in Mali.
 emoji: 🥾
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- 🌍 Globalization
-- 🌍 Development
-- 💰 Commerce
-- 🤝 Altruism
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - 🌍 Globalization
+  - 🌍 Development
+  - 💰 Commerce
+  - 🤝 Altruism
+haiku: |
   Luxuries abound,  
-   While bare feet walk the hard ground,  
-   Hope waits for the shoes.
-  coordinates: [12.6392, -8.0029]
+  While bare feet walk the hard ground,  
+  Hope waits for the shoes.
+coordinates: [12.6392, -8.0029]
+---
 
 More from the annals of unintended consequences ... in this case a long and thoughtful post by a Peace Corps volunteer, considering the "buy one for yourself give one to a poor person" model of consumer charity — and offering some simple changes that companies using that model might make
 

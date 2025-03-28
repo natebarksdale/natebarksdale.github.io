@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-28T14:38:58Z
+modDatetime: 2025-03-28T15:31:36Z
 title: Would I be making a stronger statement with willow?
 slug: would-i-be-making-a-stronger-statement-with-willow
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A comedic take on a beaver grappling with artistic integrity while constructing his dam.
 emoji: 🦫
 tags:
-
-- 🌍 Culture-Making.com
-- 🎨 Creativity
-- 🌍 Ecology
-- 🌳 Landscapes
-- 🌱 Sustainability
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎨 Creativity
+  - 🌍 Ecology
+  - 🌳 Landscapes
+  - 🌱 Sustainability
+haiku: |
   Chewing on ideas,  
-   Aesthetic choices weigh  
-   Build or overthink?
-  coordinates: [40.7128, -74.0060]
+  Aesthetic choices weigh  
+  Build or overthink?
+coordinates: [40.7128, -74.0060]
+---
 
 Real artists ship, dam it!
 

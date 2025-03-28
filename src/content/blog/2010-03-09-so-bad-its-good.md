@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-03-09
-modDatetime: 2025-03-28T14:39:24Z
+modDatetime: 2025-03-28T15:32:07Z
 title: So bad it’s good
 slug: so-bad-its-good
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the unexpected joy found in bad movies, this piece highlights how audiences can connect with flawed filmmaking through shared experiences and creativity.
 emoji: 🎬
 tags:
-
-- 🌍 Culture-Making.com
-- 🎭 Entertainment
-- 🌍 Society
-- 🎥 Film
-- 🌌 Dystopias
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎭 Entertainment
+  - 🌍 Society
+  - 🎥 Film
+  - 🌌 Dystopias
+haiku: |
   Laughter in the dark,  
-   Bad films mirror our own lives,  
-   Joy in failed attempts.
-  coordinates: [41.9611, -87.6671]
+  Bad films mirror our own lives,  
+  Joy in failed attempts.
+coordinates: [41.9611, -87.6671]
+---
 
 Community (and, interestingly, awareness of quality) can and do conspire to redeem some of the most failed cultural offerings. Good movies are just good, but bad ones can be instructive
 

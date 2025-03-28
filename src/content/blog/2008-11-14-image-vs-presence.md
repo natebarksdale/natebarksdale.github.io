@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-14
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Image vs. presence
 slug: image-vs-presence
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A reflection on the complexities of art and perception from Lawrence Weschler's dialogues with David Hockney and Robert Irwin.
 emoji: 🎨
 tags:
-
-- 📖 Lawrence Weschler
-- 🌍 Culture-Making.com
-- 🎨 Art
-- 🌀 Complexity
-- 💬 Communication
-- 🌍 Culture
-- 📖 Discussions
-  haiku: |
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
+  - 🎨 Art
+  - 🌀 Complexity
+  - 💬 Communication
+  - 🌍 Culture
+  - 📖 Discussions
+haiku: |
   Art's essence obscured,  
-   Through lenses we fail to see,  
-   Presence lost in time.
-  coordinates: [34.0522, -118.2437]
+  Through lenses we fail to see,  
+  Presence lost in time.
+coordinates: [34.0522, -118.2437]
+---
 
 One of these days I really must read Walter Benjamin's essay "[The Work of Art in the Age of Mechanical Reproduction](http://en.wikipedia.org/wiki/The_Work_of_Art_in_the_Age_of_Mechanical_Reproduction)." Till then, here's a short piece by Lawrence Weschler, about his 25 years of discussions with two of Los Angeles' most significant artists, Robert Irwin and David Hockney—who have never met, but always seem to want to talk about the other when Weschler drops by for a chat
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-08-28
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Mix CD | Marylanderful!
 slug: mix-cd-marylanderful
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This post celebrates the Maryland bar exam with a unique mix of cultural references and design elements related to Baltimore.
 emoji: 🌸
 tags:
-
-- 💿 Mix CDs
-- 💡 Design
-- 🇺🇸 United States
-- 📖 Articles
-- 🌍 Culture
-- 🎶 Activities
-  haiku: |
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🇺🇸 United States
+  - 📖 Articles
+  - 🌍 Culture
+  - 🎶 Activities
+haiku: |
   Baltimore's shadow,  
-   Black-eyed susans blooming bright,  
-   Melodies of hope.
-  coordinates: [39.2904, -76.6122]
+  Black-eyed susans blooming bright,  
+  Melodies of hope.
+coordinates: [39.2904, -76.6122]
+---
 
 #### Wimbo Zuri Catalog No. 049.1A09-1
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2025-03-28T14:39:08Z
+modDatetime: 2025-03-28T15:31:47Z
 title: Beauty aid
 slug: beauty-aid
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Beauty salons become safe havens for women, creating a vital space for discussions on domestic violence.
 emoji: 💇
 tags:
-
-- 🌍 Culture-Making.com
-- ✨ Beauty
-- ❤️ Kindness
-- 🌍 Society
-- ⚕️ Medicine
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✨ Beauty
+  - ❤️ Kindness
+  - 🌍 Society
+  - ⚕️ Medicine
+haiku: |
   Scissors and comfort,  
-   Secrets whispered in the chair,  
-   Strength in shared stories.
-  coordinates: [40.8509, -73.9345]
+  Secrets whispered in the chair,  
+  Strength in shared stories.
+coordinates: [40.8509, -73.9345]
+---
 
 What does your neighborhood beauty salon make possible? What new forms of culture are created in response?
 

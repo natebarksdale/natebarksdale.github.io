@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-03-10
-modDatetime: 2025-03-28T14:39:34Z
+modDatetime: 2025-03-28T15:32:19Z
 title: Future Selves, Future Others
 slug: future-selves-future-others
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore how our connection to future selves influences decisions today, from Malthus's theories to modern psychological experiments.
 emoji: 🔮
 tags:
-
-- 🌀 Templeton
-- 🧘‍♂️ Psychology
-- ⏰ Time
-- ⚖️ Choices
-  haiku: |
+  - 🌀 Templeton
+  - 🧘‍♂️ Psychology
+  - ⏰ Time
+  - ⚖️ Choices
+haiku: |
   Future self awaits,  
-   Marshmallow test of time's pull,  
-   Gratification delayed.
-  coordinates: [51.509865, -0.118092]
+  Marshmallow test of time's pull,  
+  Gratification delayed.
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about how our connection to future selves influences our decisions today.
 

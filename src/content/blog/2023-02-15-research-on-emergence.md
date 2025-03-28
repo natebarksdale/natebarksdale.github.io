@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-02-15
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Research on Emergence
 slug: research-on-emergence
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Explore the intriguing world of emergence where simple elements form complex systems, a concept transforming our understanding across disciplines.
 emoji: 🔬
 tags:
-
-- 🌀 Templeton
-- 📊 Research
-- 🌍 Globalization
-- ✍️ Translation
-  haiku: |
+  - 🌀 Templeton
+  - 📊 Research
+  - 🌍 Globalization
+  - ✍️ Translation
+haiku: |
   Languages intertwine,
   Ideas bloom across borders,
   Understanding grows.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote about emergence.
 

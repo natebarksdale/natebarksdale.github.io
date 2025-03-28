@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2018-07-06
 modDatetime: 2025-03-18 21:19:21+00:00
@@ -10,19 +9,20 @@ draft: False
 description: Forming connections and framing grand questions on the links between evolutionary inheritance and cultural change
 emoji: 🌐
 tags:
-
-- 🦠 Biology
-- 🗣🗣️ Language
-- 🌀 Templeton
-- 🌍 Culture
-- 🌍 Evolution
-- 🌍 Society
-  haiku: |
+  - 🦠 Biology
+  - 🗣🗣️ Language
+  - 🌀 Templeton
+  - 🌍 Culture
+  - 🌍 Evolution
+  - 🌍 Society
+haiku: |
   Culture shifts, seamless—  
-   Fields merge, seeking common ground,  
-   New society blooms.
+  Fields merge, seeking common ground,  
+  New society blooms.
 
 coordinates: [42.0884, -75.9694]
+---
+
 For the John Templeton Foundation, I wrote about the quest to unify the fragmented study of cultural evolution.
 
 > One of the few constants of human culture is that it is always changing — sometimes quickly, sometimes almost imperceptibly. The study of the ways cultures evolve has also been in flux and was, until recently, deeply fragmented. Psychology, biology, sociology, anthropology, history, economics, archaeology, and other fields have all taken up the topic, but often without common language to talk across disciplines — or a venue for key where conversations can take place.

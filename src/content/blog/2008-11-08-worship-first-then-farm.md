@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-08
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: Worship first, then farm
 slug: worship-first-then-farm
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: This excerpt explores the revolutionary idea that religious structures may have prompted the formation of early Neolithic societies before the advent of agriculture.
 emoji: ⛪
 tags:
-
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 History
-- 🌍 Society
-- 🌍 Culture
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 History
+  - 🌍 Society
+  - 🌍 Culture
+haiku: |
   Stones rise to the sky,  
-   Faith builds the first shelter,  
-   Harvest follows prayer.
-  coordinates: [37.2235, 38.9222]
+  Faith builds the first shelter,  
+  Harvest follows prayer.
+coordinates: [37.2235, 38.9222]
+---
 
 Religion, rather than agriculture, may have been the catalyst for the formation of early neolithic societies, about 11,000 years ago
 

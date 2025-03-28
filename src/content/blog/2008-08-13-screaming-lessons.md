@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-13
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Screaming lessons
 slug: screaming-lessons
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: An insight into the art of vocal cultivation, focusing on the unique craft of screaming taught by vocal coach Melissa Cross in New York.
 emoji: 🎤
 tags:
-
-- 🌍 Culture-Making.com
-- 🎤 Performances
-- 🎵 Music
-- 🌟 Inspiration
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🎤 Performances
+  - 🎵 Music
+  - 🌟 Inspiration
+haiku: |
   In screams find their voice,  
-   Art within the chaos thrives,  
-   Metal hearts unleashed.
-  coordinates: [40.7128, -74.0060]
+  Art within the chaos thrives,  
+  Metal hearts unleashed.
+coordinates: [40.7128, -74.0060]
+---
 
 The hard work of a certain sort of vocal cultivation
 

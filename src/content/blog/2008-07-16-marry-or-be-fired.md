@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Marry or be fired!
 slug: marry-or-be-fired
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: A top-down approach to creating that basic unit of culture making - the family.
 emoji: 💍
 tags:
-
-- 🇿🇦 South Africa
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🏘️ Communities
-- 🤝 Altruism
-- 💼 Employment
-- ⚖️ Ethics
-  haiku: |
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🏘️ Communities
+  - 🤝 Altruism
+  - 💼 Employment
+  - ⚖️ Ethics
+haiku: |
   Forced to tie the knot,  
-   Love as a job requirement,  
-   Culture's heavy hand.
-  coordinates: [30.3753, 58.5973]
+  Love as a job requirement,  
+  Culture's heavy hand.
+coordinates: [30.3753, 58.5973]
+---
 
 A top-down approach to creating that basic unit of culture making: the family
 

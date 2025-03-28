@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-17
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Beautiful litany
 slug: beautiful-litany
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A poignant reflection on time, love, and our overlooked connections, inspired by Wislawa Szymborska's poetry.
 emoji: 🌍
 tags:
-
-- 🌍 Culture-Making.com
-- ⏰ Time
-- ❤️ Forgiveness
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⏰ Time
+  - ❤️ Forgiveness
+  - 📝 Writing
+haiku: |
   Apologies flow,  
-   For moments lost in silence,  
-   Time's weight never wanes.
-  coordinates: [52.4064, 16.9252]
+  For moments lost in silence,  
+  Time's weight never wanes.
+coordinates: [52.4064, 16.9252]
+---
 
 My apologies to time for all the world I overlook each second.
 My apologies to past loves for thinking that the latest is the first.

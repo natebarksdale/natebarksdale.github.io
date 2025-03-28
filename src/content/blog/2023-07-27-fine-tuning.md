@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2023-07-27
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Fine-Tuning and Foundational Questions
 slug: fine-tuning-and-foundational-questions
 featured: false
@@ -10,14 +9,14 @@ draft: false
 description: Is the universe fine-tuned for life? The Foundational Questions Institute (FQXi) reviews the latest research.
 emoji: 🔧
 tags:
-
-- ⚛️ Physics
-- 🌀 Templeton
-  haiku: |
+  - ⚛️ Physics
+  - 🌀 Templeton
+haiku: |
   When the firing squad
   Does its best but never hits
   New ideas are apt.
-  coordinates: [33.7748, 84.2963]
+coordinates: [33.7748, 84.2963]
+---
 
 For the John Templeton Foundation, I wrote about the intricate ways our universe appears finely calibrated for life.
 

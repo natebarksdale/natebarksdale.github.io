@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2017-06-24
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: High school debate turns to the Big Questions
 slug: high-school-debate-turns-to-the-big-questions
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: Does science leave room for free will? High school debaters have some ideas.
 emoji: 🎓
 tags:
-
-- 🌀 Templeton
-- 🧠 Neuroscience
-- 👦 Teenagers
-- ⚖️ Choices
-  haiku: |
+  - 🌀 Templeton
+  - 🧠 Neuroscience
+  - 👦 Teenagers
+  - ⚖️ Choices
+haiku: |
   Debaters converge,  
-   Probing science and free will—  
-   Minds clash, truths unearth.
-  coordinates: [33.5207, -86.8025]
+  Probing science and free will—  
+  Minds clash, truths unearth.
+coordinates: [33.5207, -86.8025]
+---
 
 For the John Templeton Foundation, I wrote about how high school debaters are tackling the profound intersections of science and philosophy.
 

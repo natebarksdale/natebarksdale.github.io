@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-08-25
-modDatetime: 2025-03-28T14:39:27Z
+modDatetime: 2025-03-28T15:32:10Z
 title: Cities, wandering, serendipity and (wait for it) zombies
 slug: cities-wandering-serendipity-and-wait-for-it-zombies
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on how a mobile app can transform urban navigation into a playful adventure while encouraging exploration.
 emoji: 🧟‍♂️
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- 🌍 Exploration
-- 🌀 Complexity
-- 🕵 Identity
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - 🌍 Exploration
+  - 🌀 Complexity
+  - 🕵 Identity
+haiku: |
   Zombies in hot pursuit,  
-   Streets turn to paths unknown,  
-   Adventure awaits.
-  coordinates: [40.7128, -74.0060]
+  Streets turn to paths unknown,  
+  Adventure awaits.
+coordinates: [40.7128, -74.0060]
+---
 
 Cell phones and GPS can easily take the thinking out of urban navigation, obscuring the reality of making our way on our own with the reality of screen and algorithm. Of course we can, in more playful mode, use augmented reality—as with the video game described below—to get ourselves out of our urban ruts. I wonder if a more philosophical GPS system would have, next to the button that says "Take me home", one that says "Get me lost
 

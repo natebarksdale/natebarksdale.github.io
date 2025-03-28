@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-03
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Great wine, but what’s it taste like?
 slug: great-wine-but-whats-it-taste-like
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: A thought-provoking perspective on the complex nature of sensory experiences by Robin Goldstein.
 emoji: 🍷
 tags:
-
-- ✨ Wonder
-- 🧪 Chemistry
-- 🍷 Europe
-- 🌍 Culture-Making.com
-- ⚖️ Choices
-- ⚖️ Ethics
-- 🌍 Culture
-- 🍷 Wine
-- 🎨 Aesthetics
-  haiku: |
+  - ✨ Wonder
+  - 🧪 Chemistry
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
+  - ⚖️ Choices
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 🍷 Wine
+  - 🎨 Aesthetics
+haiku: |
   Elusive senses,  
-   Taste and smell weave memories,  
-   Value in the words.
-  coordinates: [45.5017, -73.5673]
+  Taste and smell weave memories,  
+  Value in the words.
+coordinates: [45.5017, -73.5673]
+---
 
 A great post by my friend Robin Goldstein about the power of word-choice when it comes to signalling the quality of wine. But I wonder: are some sensory experiences (wine, chocolate) really harder to reproduce than others (the color white, a C-major scale), or is it just that we're culturally trained to be more forgiving of poor reproductions in some areas than we are in others? (Or are the two really the same thing?) The famous whites in John Singer Sargent's portraits are anything but white; the overtones and subtleties of a scale played by Yo-Yo Ma are still near-impossible to reproduce (let alone synthesize) with true fidelity
 

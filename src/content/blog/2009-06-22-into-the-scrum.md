@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-22
-modDatetime: 2025-03-28T14:39:18Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Into the scrum
 slug: into-the-scrum
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: From Ethan Zuckerman, a reflection on the power of grassroots blogging and community storytelling.
 emoji: 📝
 tags:
-
-- 🍷 Europe
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 📱 Social Networks
-  haiku: |
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 📱 Social Networks
+haiku: |
   Passion projects thrive,  
-   Grassroots voices shape the world,  
-   Truth in every tale.
-  coordinates: [-1.286389, 36.817223]
+  Grassroots voices shape the world,  
+  Truth in every tale.
+coordinates: [-1.286389, 36.817223]
+---
 
 The world-changing potential of new technologies is often best realized not by people whose initial goal was to change the world, but by those who dove into smaller passion projects, put in their hours and honed their craft without an eye on earth-shattering outcomes
 

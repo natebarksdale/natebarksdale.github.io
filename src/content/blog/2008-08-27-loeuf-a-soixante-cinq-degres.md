@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: L’oeuf à soixante-cinq degrés
 slug: loeuf-a-soixante-cinq-degres
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the exquisite results achieved when cooking eggs at precise temperatures.
 emoji: 🍳
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🌍 Culture-Making.com
-- 🍳 Cooking
-- 🍴 Cuisine
-- 🌱 Sustainability
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
+  - 🍳 Cooking
+  - 🍴 Cuisine
+  - 🌱 Sustainability
+haiku: |
   Perfect temperature,  
-   Custard-white, soft yolk awaits,  
-   Simple joy unfolds.
-  coordinates: [48.8566, 2.3522]
+  Custard-white, soft yolk awaits,  
+  Simple joy unfolds.
+coordinates: [48.8566, 2.3522]
+---
 
 Who needs omelets when you can just cook your eggs properly in the shell?
 

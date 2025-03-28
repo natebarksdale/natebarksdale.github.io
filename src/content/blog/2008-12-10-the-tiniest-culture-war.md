@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-10
-modDatetime: 2025-03-28T14:39:10Z
+modDatetime: 2025-03-28T15:31:49Z
 title: The tiniest culture war
 slug: the-tiniest-culture-war
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: An exploration of the polarized perceptions surrounding nanotechnology and its societal implications.
 emoji: ⚖️
 tags:
-
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Law
-- 🌍 Society
-- 🌍 Culture
-- ⛪ Religion
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Law
+  - 🌍 Society
+  - 🌍 Culture
+  - ⛪ Religion
+haiku: |
   In nanotech's wake,  
-   Views divide like night and day,  
-   Values shape our fears.
-  coordinates: [40.7128, -74.0060]
+  Views divide like night and day,  
+  Values shape our fears.
+coordinates: [40.7128, -74.0060]
+---
 
 The same issue of Nature Nanotechnology has two additional articles about public perceptions of the field's promises and pitfalls, including one that [correlates religious belief with skepticism](http://www.nature.com/nnano/journal/vaop/ncurrent/abs/nnano.2008.361.html) about all things nano—because, [reports the BBC](http://news.bbc.co.uk/2/hi/science/nature/7767192.stm), of its "potential to create life at a nano scale without divine intervention." Which better fits the typical science-journalism narrative than peopling being skeptical because they're worried about, say, economic inequality or justice issues
 

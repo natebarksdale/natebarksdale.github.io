@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2022-11-22
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Gratitude
 slug: gratitude
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Insights and open questions from within the science of gratitude
 emoji: 🙏
 tags:
-
-- 🌀 Templeton
-- 🙏 Gratitude
-- ✍️ Translation
-  haiku: |
+  - 🌀 Templeton
+  - 🙏 Gratitude
+  - ✍️ Translation
+haiku: |
   Languages bridge gaps,
   Grateful for words that connect,
   Unity in text.
-  coordinates: [51.509865, -0.118092]
+coordinates: [51.509865, -0.118092]
+---
 
 For the John Templeton Foundation, I wrote an exploration of the subtle (and not-so-subtle) power of gratitude.
 

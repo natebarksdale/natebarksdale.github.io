@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-04-01
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Invest now in youth prevention!
 slug: invest-now-in-youth-prevention
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of societal attitudes toward youth, featuring unconventional methods to deter teenagers from certain spaces.
 emoji: 🚫
 tags:
-
-- 🌍 Culture-Making.com
-- 🗳️ Politics
-- 🤝 Altruism
-- 🏘️ Communities
-- 🌍 Society
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🗳️ Politics
+  - 🤝 Altruism
+  - 🏘️ Communities
+  - 🌍 Society
+haiku: |
   Pink lights shine on spots,  
-   Youthful laughter fades away,  
-   Future’s cost unknown.
-  coordinates: [52.9711, -1.2743]
+  Youthful laughter fades away,  
+  Future’s cost unknown.
+coordinates: [52.9711, -1.2743]
+---
 
 I should start a reverse-marketing company that will sell strategies to offend and drive away any targeted demographic. Why bother appealing to the ones you want when you can just get rid of the rest? a [Tomorrow Museum](http://web.archive.org/web/20100116082345/http://tomorrowmuseum.com/2009/03/26/architecture-of-shaming-teenagers/) post by Joanne, 26 March 2009
 

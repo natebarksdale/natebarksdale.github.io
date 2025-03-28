@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-28T14:38:59Z
+modDatetime: 2025-03-28T15:31:37Z
 title: ¡Viva Leviticus!
 slug: viva-leviticus
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: The "30-Day Leviticus Challenge" sheds light on the often overlooked significance of the Law for believers today.
 emoji: 📜
 tags:
-
-- 📖 Bible
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- ✝️ Scriptures
-- 🌍 Society
-  haiku: |
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - ✝️ Scriptures
+  - 🌍 Society
+haiku: |
   Laws of ancient days,  
-   Teaching us to live in grace,  
-   Chosen, we embrace.
-  coordinates: [31.0461, 34.8516]
+  Teaching us to live in grace,  
+  Chosen, we embrace.
+coordinates: [31.0461, 34.8516]
+---
 
 My own recent experience with Leviticus -- just reading through it, a page a day -- was less interactive but still astonishingly profound, partly for the utter surprising strangeness of certain passages. These days I'm getting similar thrills out of the more boring sections of 2 Kings, parts of which seem scripted for an Akira Kurusawa samurai epic
 

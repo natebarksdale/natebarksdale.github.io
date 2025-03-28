@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2015-01-15
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:13Z
 title: Articles | Lists, Questions and Culinary Delights
 slug: articles-lists-questions-and-culinary-delights
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Over the past few months, I've been diving into the fun facts and intriguing stories of history for the History Channel's website.
 emoji: 📜
 tags:
-
-- 🍷 Europe
-- 🇫🇷 France
-- 🇭 History.com
-- 🌍 History
-- 🍲 Proverbs
-  haiku: |
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🇭 History.com
+  - 🌍 History
+  - 🍲 Proverbs
+haiku: |
   History unveiled,  
-   Facts, food, and curious minds,  
-   Past whispers to us.
-  coordinates: [38.8833, -77.0167]
+  Facts, food, and curious minds,  
+  Past whispers to us.
+coordinates: [38.8833, -77.0167]
+---
 
 [![The History Channel](@assets/images/history-log.png)](http://www.history.com/topics)
 

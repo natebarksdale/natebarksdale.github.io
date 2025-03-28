@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-28T14:38:57Z
+modDatetime: 2025-03-28T15:31:35Z
 title: Room to Read
 slug: room-to-read
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Room to Read is dedicated to providing education and resources, focusing on building schools, multilingual libraries, and supporting girls' scholarships.
 emoji: 📚
 tags:
-
-- ✨ Wonder
-- 🗣🗣️ Language
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- 📖 Books
-- 🌱 Sustainability
-  haiku: |
+  - ✨ Wonder
+  - 🗣🗣️ Language
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - 📖 Books
+  - 🌱 Sustainability
+haiku: |
   Schools built with purpose,  
-   Pages in every language,  
-   Dreams rise from the text.
-  coordinates: [20.5937, 78.9629]
+  Pages in every language,  
+  Dreams rise from the text.
+coordinates: [20.5937, 78.9629]
+---
 
 I wonder which children's books they wind up having translated into local languages for their libraries ..
 

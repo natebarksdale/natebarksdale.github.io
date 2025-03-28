@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:40Z
 title: The trayless cafeteria
 slug: the-trayless-cafeteria
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: The removal of cafeteria trays at universities aims to reduce food waste and promote sustainability.
 emoji: 🍽️
 tags:
-
-- 🌍 Culture-Making.com
-- ♻️ Repurposing
-- 🌍 Environment
-- 🌱 Sustainability
-- 🛠️ DIY
-- 💡 Innovation
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ♻️ Repurposing
+  - 🌍 Environment
+  - 🌱 Sustainability
+  - 🛠️ DIY
+  - 💡 Innovation
+haiku: |
   Trays gone, choices made,  
-   Less food, less waste, more care,  
-   Green halls, future bright.
-  coordinates: [37.0000, -95.0000]
+  Less food, less waste, more care,  
+  Green halls, future bright.
+coordinates: [37.0000, -95.0000]
+---
 
 Evidently if you can take less food, you waste less food. But the wider ripples—from environmental impact to dishwashing methodology to socialization—emerge when the humble cafeteria tray gets taken away
 

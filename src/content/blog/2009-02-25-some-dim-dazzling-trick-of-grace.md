@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-02-25
-modDatetime: 2025-03-28T14:39:14Z
+modDatetime: 2025-03-28T15:31:55Z
 title: Some dim dazzling trick of grace
 slug: some-dim-dazzling-trick-of-grace
 featured: false
@@ -10,15 +9,15 @@ draft: false
 description: Reflecting on the poignant moments in Walker Percy’s _The Moviegoer_, particularly regarding faith and presence.
 emoji: 🕊️
 tags:
-
-- 🌍 Culture-Making.com
-- ✝️ Christianity
-- 🌅 Reflection
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✝️ Christianity
+  - 🌅 Reflection
+haiku: |
   Watching through the glass,  
-   Ambiguous journeys unfold,  
-   Grace in ashes lost.
-  coordinates: [29.9653, -90.0621]
+  Ambiguous journeys unfold,  
+  Grace in ashes lost.
+coordinates: [29.9653, -90.0621]
+---
 
 Come the start of Lent, I always think of the last paragraphs before the epilogue in Walker Percy's novel _The Moviegoer_ , when the narrator discusses his future as he sits in a parked car, simultaneously keeping watch over the comings and goings from the Ash Wednesday services at the new-built Catholic church across the street
 

@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-12
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Twenty years experience needed
 slug: twenty-years-experience-needed
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: Brian Eno reflects on the deep-rooted theatrical traditions and community spirit of Oberammergau.
 emoji: 🎭
 tags:
-
-- 🌙 Islam
-- ✡️ Judaism
-- 📖 Bible
-- 🌍 Culture-Making.com
-- ⛪ Religion
-- 🌍 Culture
-- 📝 Writing
-  haiku: |
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 📖 Bible
+  - 🌍 Culture-Making.com
+  - ⛪ Religion
+  - 🌍 Culture
+  - 📝 Writing
+haiku: |
   In a village bright,  
-   Generations weave their tales,  
-   Faith through art takes flight.
-  coordinates: [47.5833, 11.1167]
+  Generations weave their tales,  
+  Faith through art takes flight.
+coordinates: [47.5833, 11.1167]
+---
 
 Brian Eno visits Oberammergau, in Upper Bavaria, where the community has put on a Passion Play every 10 years since the early 17th century, a perpetual thanks-offering for the city's delivery from the plague. I didn't know they did additional city-wide plays during the interim years. Good for tourism, no doubt, and once your town's been community-theater-mad for 300+ years, why not?
 

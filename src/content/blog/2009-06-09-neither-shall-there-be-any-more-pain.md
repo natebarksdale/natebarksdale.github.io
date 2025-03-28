@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-06-09
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: Neither shall there be any more pain
 slug: neither-shall-there-be-any-more-pain
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: One of my favorite lunchtime outings in Boston was a walk to the corner of the Public Garden, where the Ether Monument stands, commemorating a pivotal moment in the history of medicine.
 emoji: 🏥
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⚕️ Medicine
-- ⚖️ Ethics
-- ⚖️ Law
-- 🌍 Culture
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⚕️ Medicine
+  - ⚖️ Ethics
+  - ⚖️ Law
+  - 🌍 Culture
+haiku: |
   Ether's quiet grace,  
-   Pain's reign was forever changed,  
-   Life's burden eased now.
-  coordinates: [42.3541, -71.0656]
+  Pain's reign was forever changed,  
+  Life's burden eased now.
+coordinates: [42.3541, -71.0656]
+---
 
 When I worked in downtown Boston one of my favorite lunchtime outings was a walk to the corner of the Public Garden where stands the lovely and oddly orientalist [Ether Monument](http://en.wikipedia.org/wiki/Ether_Monument), commemorating the pioneering demonstration of the surgical anesthetic at the Massachusetts General Hospital in the mid-1840s. Ether had been around and in use for a long time, but had previously been condemned by the medical establishment. Its "discovery" represented a cultural rather than technological innovation—perhaps rendering the monument (and MGH's preserved [Ether Dome](http://en.wikipedia.org/wiki/Ether_Dome) museum) more crucial than it might at first seem. Indeed, its use of Biblical texts from Isaiah ("This also cometh forth from the Lord of Hosts which is wonderful and excellent in working") and Revelation (see title) presumably was intended to undermine the lingering view that dulling physical pain contradicted God's intentions
 

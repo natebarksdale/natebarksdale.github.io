@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-07-23
-modDatetime: 2025-03-28T14:39:19Z
+modDatetime: 2025-03-28T15:32:00Z
 title: Old cities, still kicking
 slug: old-cities-still-kicking
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A critique of the overview of Varanasi's tourist influx, along with a reference to a more reliable list of ancient cities.
 emoji: 🏙️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 History
-- 🌍 Culture
-- 🌍 Exploration
-- 🌆 Cities
-- 🌆 Urban Spaces
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 History
+  - 🌍 Culture
+  - 🌍 Exploration
+  - 🌆 Cities
+  - 🌆 Urban Spaces
+haiku: |
   Old cities whisper,  
-   Time's stories etched in stone,  
-   Cultures intertwine.
-  coordinates: [25.3167, 82.9739]
+  Time's stories etched in stone,  
+  Cultures intertwine.
+coordinates: [25.3167, 82.9739]
+---
 
 The linked post's writeup is a bit too breezy to withstand a lot of scrutiny, alas. For instance, I'd guess that Varanasi can see a million tourists on a single festival weekend, not just annually. [This Wikipedia page](http://en.wikipedia.org/wiki/List_of_cities_by_time_of_continuous_habitation) has a longer and more credible list. a [kottke.org](http://www.kottke.org/09/07/old-cities-still-kicking) post, 22 July 2009
 

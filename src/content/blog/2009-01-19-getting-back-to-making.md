@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Getting back to making
 slug: getting-back-to-making
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Reflecting on the challenges of balancing creation and curation, Gina Trapani shares her journey with Lifehacker and the motivations behind her desire to return to making.
 emoji: 🎨
 tags:
-
-- 🌍 Culture-Making.com
-- 📝 Writing
-- 🌍 Culture
-- 🎨 Creativity
-- ⚖️ Choices
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 📝 Writing
+  - 🌍 Culture
+  - 🎨 Creativity
+  - ⚖️ Choices
+haiku: |
   Crafting with my pen,  
-   Drowning in others' stories,  
-   Time to make my own.
-  coordinates: [40.730610, -73.935242]
+  Drowning in others' stories,  
+  Time to make my own.
+coordinates: [40.730610, -73.935242]
+---
 
 Lifehacker is probably one of my most-read blogs that doesn't translate into many (or any, till now) posts on this site. There's definitely something seductive about wasting one's time reading other people's suggestions about how not to waste time. But now Lifehacker's founder and lead blogger is stepping down to get back to making stuff. Of course (I tell myself) finding and curating good stuff is its own form of culture making, but often it still can feel a level removed
 

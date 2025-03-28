@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-05-27
-modDatetime: 2025-03-28T14:39:17Z
+modDatetime: 2025-03-28T15:31:59Z
 title: Eat when you eat
 slug: eat-when-you-eat
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: This insight by Joshua-Michéle highlights the paradox of digital distraction in our interconnected world.
 emoji: 🧠
 tags:
-
-- 💡 Design
-- 🌍 Culture-Making.com
-- 🌐 Digital
-- 👀 Attention
-- 🎯 Focus
-- 📝 Writing
-  haiku: |
+  - 💡 Design
+  - 🌍 Culture-Making.com
+  - 🌐 Digital
+  - 👀 Attention
+  - 🎯 Focus
+  - 📝 Writing
+haiku: |
   Clicks lead us astray,  
-   Attention is the new gold,  
-   Mindfulness prevails.
-  coordinates: [37.0902, -95.7129]
+  Attention is the new gold,  
+  Mindfulness prevails.
+coordinates: [37.0902, -95.7129]
+---
 
 File under "The Medium is the Message" ..
 

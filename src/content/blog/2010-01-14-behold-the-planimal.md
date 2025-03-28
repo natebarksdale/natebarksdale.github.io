@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-14
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:05Z
 title: Behold, the Planimal!
 slug: behold-the-planimal
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: I'm not sure why, but this news has been the source of untold instant-messaging-expressed joy among certain of my friends this week.
 emoji: 🌱
 tags:
-
-- 🧪 Chemistry
-- 🌍 Culture-Making.com
-- 🌍 Ecology
-- 🍃 Delight
-- ✨ Beauty
-  haiku: |
+  - 🧪 Chemistry
+  - 🌍 Culture-Making.com
+  - 🌍 Ecology
+  - 🍃 Delight
+  - ✨ Beauty
+haiku: |
   Leaf-like slug creeps forth,  
-   Stolen genes, light captured bright,  
-   Nature's strange delight.
-  coordinates: [40.7128, -74.0060]
+  Stolen genes, light captured bright,  
+  Nature's strange delight.
+coordinates: [40.7128, -74.0060]
+---
 
 [Wired Science](http://web.archive.org/web/20140317203544/http://www.wired.com:80/wiredscience/2010/01/green-sea-slug):
 

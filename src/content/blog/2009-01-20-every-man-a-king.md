@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-28T14:39:13Z
+modDatetime: 2025-03-28T15:31:53Z
 title: Every man a king
 slug: every-man-a-king
 featured: false
@@ -10,21 +9,21 @@ draft: false
 description: Wu Tingfang shares a compelling perspective on the title of the American president, advocating for a change to "Emperor" to elevate the position and reflect its true significance.
 emoji: 👑
 tags:
-
-- 🍷 Europe
-- 🧉 South America
-- 🇨🇳 China
-- 🌍 Culture-Making.com
-- ⚖️ Law
-- ⚖️ Ethics
-- 🌍 Culture
-- 📝 Writing
-- 🚂 Railroads
-  haiku: |
+  - 🍷 Europe
+  - 🧉 South America
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
+  - ⚖️ Law
+  - ⚖️ Ethics
+  - 🌍 Culture
+  - 📝 Writing
+  - 🚂 Railroads
+haiku: |
   Titles and power,  
-   President to Emperor,  
-   Culture's blend and clash.
-  coordinates: [37.0902, -95.7129]
+  President to Emperor,  
+  Culture's blend and clash.
+coordinates: [37.0902, -95.7129]
+---
 
 After studying at an Anglican university in Hong Kong and then becoming the first East Asian to be admitted as a barrister in England, [Wu Tingfang](http://en.wikipedia.org/wiki/Wu_Tingfang) served as the Qing Dynasty's minister to the United States, Spain, and Peru around the turn of the last century. His 1914 book comparing American and Chinese cultures is a fascinating, moving, and at times amusing read; it was written in part to counter the era's entrenched discrimination against Chinese immigrants. I particularly enjoyed his bafflement at the Americans' boast of calling their president, simply, "Mr."; he argues (in a playful but serious manner) for a more exalted title
 

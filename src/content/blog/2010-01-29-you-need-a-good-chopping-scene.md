@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-29
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: You need a good chopping scene
 slug: you-need-a-good-chopping-scene
 featured: false
@@ -10,19 +9,19 @@ draft: false
 description: This excerpt explores the cinematic artistry of cooking, particularly the act of chopping, as a means of character representation in film.
 emoji: 🔪
 tags:
-
-- ✨ Wonder
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🍳 Cooking
-- 🌍 Culture
-- 🎭 Entertainment
-- 🍴 Cuisine
-  haiku: |
+  - ✨ Wonder
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🍳 Cooking
+  - 🌍 Culture
+  - 🎭 Entertainment
+  - 🍴 Cuisine
+haiku: |
   Chopping through the air,  
-   Emotions finely sliced raw,  
-   Art and rage combined.
-  coordinates: [37.7749, -122.4194]
+  Emotions finely sliced raw,  
+  Art and rage combined.
+coordinates: [37.7749, -122.4194]
+---
 
 Chopping is also excessively cinematic in that it mimics the very techniques of film production and editing, the precise chopping of continuous reality into 24 images per second, the mini-guillotines used to trim and edit film stock, the terminology of cuts and splices
 

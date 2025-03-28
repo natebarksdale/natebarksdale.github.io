@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-28T14:39:02Z
+modDatetime: 2025-03-28T15:31:41Z
 title: Your neighbor must be everyone
 slug: your-neighbor-must-be-everyone
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: Lake County Sheriff Mark C. Curran Jr. shares his reflections after serving a week in jail to gain empathy and insight into the lives of inmates.
 emoji: 🏢
 tags:
-
-- ✨ Wonder
-- 🌍 Culture-Making.com
-- ⚖️ Ethics
-- ⚖️ Law
-- ⛪ Religion
-- ❤️ Kindness
-  haiku: |
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
+  - ⚖️ Ethics
+  - ⚖️ Law
+  - ⛪ Religion
+  - ❤️ Kindness
+haiku: |
   Behind bars he learns,  
-   Inmate's plight, a sheriff's hope,  
-   Change begins within.
-  coordinates: [42.4012, -88.0302]
+  Inmate's plight, a sheriff's hope,  
+  Change begins within.
+coordinates: [42.4012, -88.0302]
+---
 
 I'd really love to see a follow-up article on this one. Sheriff Curran's week in jail should be over now. I wonder how the experiment in empathy matched up with his hopes beforehand
 

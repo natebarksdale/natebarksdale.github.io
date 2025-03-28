@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2014-10-21
-modDatetime: 2025-03-28T14:39:33Z
+modDatetime: 2025-03-28T15:32:17Z
 title: Six Modern Capitals With Ancient Roots
 slug: six-modern-capitals-with-ancient-roots
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: Explore how six capitals, including Athens and Beirut, have evolved from ancient roots to modern metropolises, blending rich histories with contemporary life.
 emoji: 🏛️
 tags:
-
-- 🌙 Islam
-- 🍷 Europe
-- 🦁 Africa
-- 🇫🇷 France
-- 🇭 History.com
-- 🏛️ Architecture
-- 🌍 History
-- 🇱🇧 Lebanon
-  haiku: |
+  - 🌙 Islam
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇫🇷 France
+  - 🇭 History.com
+  - 🏛️ Architecture
+  - 🌍 History
+  - 🇱🇧 Lebanon
+haiku: |
   Ancient stones whisper,  
-   Cities old as time's own breath,  
-   Roots deep as history.
-  coordinates: [37.9838, 23.7275]
+  Cities old as time's own breath,  
+  Roots deep as history.
+coordinates: [37.9838, 23.7275]
+---
 
 For the History Channel, I wrote about the enduring legacies of cities that have thrived since ancient times.
 

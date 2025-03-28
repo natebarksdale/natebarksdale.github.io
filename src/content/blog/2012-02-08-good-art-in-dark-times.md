@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2012-02-08
-modDatetime: 2025-03-28T14:39:29Z
+modDatetime: 2025-03-28T15:32:12Z
 title: Good art in dark times
 slug: good-art-in-dark-times
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A thought-provoking exploration of the role of fiction in reflecting and transcending the darkness of our times.
 emoji: 🕯️
 tags:
-
-- 🌍 Culture-Making.com
-- ✍️ Literature
-- 🌍 Culture
-- ✨ Beauty
-- ❤️ Kindness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ✍️ Literature
+  - 🌍 Culture
+  - ✨ Beauty
+  - ❤️ Kindness
+haiku: |
   In shadowed moments,  
-   Art finds the flickering light,  
-   Hope amidst the dark.
-  coordinates: [32.7157, -117.1611]
+  Art finds the flickering light,  
+  Hope amidst the dark.
+coordinates: [32.7157, -117.1611]
+---
 
 From a bracing, decade-old conversation between David Foster Wallace and Larry McCaffery an English professor at San Diego State "[perhaps best known for his role in helping to establish science fiction as a major literary genre](http://en.wikipedia.org/wiki/Larry_McCaffery)."
 

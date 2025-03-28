@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-28T14:39:04Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Cultural Relativism - Animal Noises Edition
 slug: cultural-relativism-animal-noises-edition
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: An exploration of how children from different cultures perceive animal sounds, highlighting the fascinating variations in frog sounds.
 emoji: 🐸
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🐸 Frogs
-- 🔄 Commitment
-- 📝 Writing
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🐸 Frogs
+  - 🔄 Commitment
+  - 📝 Writing
+haiku: |
   Frogs croak differently,  
-   Sounds of nature cross borders,  
-   Voices of children.
-  coordinates: [37.0902, -95.7129]
+  Sounds of nature cross borders,  
+  Voices of children.
+coordinates: [37.0902, -95.7129]
+---
 
 a [GOOD](https://www.google.com/search?q=%22GOOD%22%20good.is) post by Andrew Price, 22 September 2008
 

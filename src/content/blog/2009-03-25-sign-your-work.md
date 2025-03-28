@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-03-25
-modDatetime: 2025-03-28T14:39:15Z
+modDatetime: 2025-03-28T15:31:56Z
 title: Sign your work!
 slug: sign-your-work
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Yvonne Froud, a shopkeeper in Joys Green, Gloucestershire, has taken a creative approach to combat littering among local children by marking snack wrappers with their names and encouraging them to take responsibility for their waste.
 emoji: 🗑️
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Environment
-- ⚖️ Ethics
-- ❤️ Kindness
-- ⚠️ Danger
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Environment
+  - ⚖️ Ethics
+  - ❤️ Kindness
+  - ⚠️ Danger
+haiku: |
   Sweet wrappers forgotten,  
-   Names etched on littered ground,  
-   Clean streets, children found.
-  coordinates: [51.7584, -2.5698]
+  Names etched on littered ground,  
+  Clean streets, children found.
+coordinates: [51.7584, -2.5698]
+---
 
 A Gloucestershire, UK shopkeeper has found a partial solution to the tragedy of the commons: de-commodifying the village children's litter. It helps that her community is small enough that she knows most of the kids by name (and that they don't have many other options for their snack food needs when she cuts them off). In this [video clip](http://news.bbc.co.uk/1/hi/england/7953144.stm), she says that the litterers she catches nearly always prefer 10 minutes of trash pickup to a multiday candy ban
 

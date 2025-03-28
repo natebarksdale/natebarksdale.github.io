@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2010-01-22
-modDatetime: 2025-03-28T14:39:23Z
+modDatetime: 2025-03-28T15:32:06Z
 title: Giving itself is a gift
 slug: giving-itself-is-a-gift
 featured: false
@@ -10,16 +9,16 @@ draft: false
 description: A reflection on the dynamics of giving and receiving, exploring the deeper connections formed in times of disaster.
 emoji: 🤝
 tags:
-
-- 🌍 Culture-Making.com
-- ❤️ Charity
-- 🌍 Society
-- 💬 Communication
-  haiku: |
+  - 🌍 Culture-Making.com
+  - ❤️ Charity
+  - 🌍 Society
+  - 💬 Communication
+haiku: |
   In disaster's heart,  
-   Bonds form in shared struggle,  
-   Kindness flows both ways.
-  coordinates: [37.7749, -122.4194]
+  Bonds form in shared struggle,  
+  Kindness flows both ways.
+coordinates: [37.7749, -122.4194]
+---
 
 More lovely words from Rebecca Solnit's meditations on disaster and disaster-response. Also be sure to read the excerpt I posted [last week](http://www.culture-making.com/post/the_upside_of_disaster)
 

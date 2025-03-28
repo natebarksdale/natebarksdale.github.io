@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2025-03-28T14:39:03Z
+modDatetime: 2025-03-28T15:31:43Z
 title: Mobile phones and the flood
 slug: mobile-phones-and-the-flood
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: In the wake of devastating floods, mobile phones have emerged as a vital tool for rescue and communication in Bihar, India.
 emoji: 📱
 tags:
-
-- 🌍 Culture-Making.com
-- 🌍 Society
-- 🌍 Activism
-- 🚨 Emergencies
-- 🚦 Public Safety
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌍 Society
+  - 🌍 Activism
+  - 🚨 Emergencies
+  - 🚦 Public Safety
+haiku: |
   Floodwaters rising,  
-   Voices reach through the chaos,  
-   Phones connect the lost.
-  coordinates: [25.5941, 85.1376]
+  Voices reach through the chaos,  
+  Phones connect the lost.
+coordinates: [25.5941, 85.1376]
+---
 
 An encouraging use of the world's fastest-spreading technology, from India's Bihar state, which has a reputation for backwardness even during non-flood times
 

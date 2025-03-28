@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2007-06-01
-modDatetime: 2025-03-28T14:38:56Z
+modDatetime: 2025-03-28T15:31:34Z
 title: Mix CD | Roxbury Dispensary
 slug: mix-cd-roxbury-dispensary
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A reflection on a friend's relocation and a creative tribute through music.
 emoji: 🎶
 tags:
-
-- 💿 Mix CDs
-- 🇺🇸 United States
-- 📖 Articles
-- 🎶 Activities
-- 🎤 Performances
-  haiku: |
+  - 💿 Mix CDs
+  - 🇺🇸 United States
+  - 📖 Articles
+  - 🎶 Activities
+  - 🎤 Performances
+haiku: |
   Friends cross state lines,  
-   Music weaves through changing roads,  
-   History unfolds.
-  coordinates: [42.3190, -71.0955]
+  Music weaves through changing roads,  
+  History unfolds.
+coordinates: [42.3190, -71.0955]
+---
 
 #### Wimbo Zuri Catalog No. 034.1A07-1
 

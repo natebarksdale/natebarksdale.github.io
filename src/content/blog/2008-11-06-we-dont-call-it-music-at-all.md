@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-28T14:39:07Z
+modDatetime: 2025-03-28T15:31:46Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: A glimpse into Edward Bellamy's vision of musical culture in the year 2000, where professional music is readily accessible at all times.
 emoji: 🎶
 tags:
-
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🌍 Culture
-- 🎵 Music
-- 📖 Books
-  haiku: |
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🌍 Culture
+  - 🎵 Music
+  - 📖 Books
+haiku: |
   Sounds of the future,  
-   Music flows like air we breathe,  
-   Art in every call.
-  coordinates: [42.3601, -71.0589]
+  Music flows like air we breathe,  
+  Art in every call.
+coordinates: [42.3601, -71.0589]
+---
 
 A prescient projection of cultural change, from Edward Bellamy's late-19th-century utopian-futurist novel _[Looking Backward](http://en.wikipedia.org/wiki/Looking_Backward)_. The protagonist is a wealthy Bostonian who accidentally sleeps through the entire 20th century. If you keep on reading, it gets more amusing: in the year 2000, professional music is on tap 24 hours a day, not via recordings but over dedicated phone lines hooked up to performance spaces throughout the city
 

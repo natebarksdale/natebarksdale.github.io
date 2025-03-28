@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-01-15
-modDatetime: 2025-03-28T14:39:12Z
+modDatetime: 2025-03-28T15:31:52Z
 title: Decisive moments
 slug: decisive-moments
 featured: false
@@ -10,20 +9,20 @@ draft: false
 description: An exploration of the critical role a broadcast director plays in conveying the narrative of televised sports.
 emoji: 🎥
 tags:
-
-- ✨ Wonder
-- 📺 Television
-- 🌍 Culture-Making.com
-- 🎥 Film
-- 📖 Articles
-- 📝 Writing
-- ⚖️ Choices
-- 🌍 Society
-  haiku: |
+  - ✨ Wonder
+  - 📺 Television
+  - 🌍 Culture-Making.com
+  - 🎥 Film
+  - 📖 Articles
+  - 📝 Writing
+  - ⚖️ Choices
+  - 🌍 Society
+haiku: |
   Eyes darting, screens fly,  
-   Crafting tales in real-time,  
-   Games unfold through lenses.
-  coordinates: [39.9526, -75.1652]
+  Crafting tales in real-time,  
+  Games unfold through lenses.
+coordinates: [39.9526, -75.1652]
+---
 
 Think of narrative and televised sports and you'll usually call to mind pre-produced soft-focus athlete featurettes, or perhaps the verbal litany of setup and description and trivia from the commentators' box. But the real heart of the story belongs to the broadcast director..
 a [Text Patterns](http://web.archive.org/web/20090123223049/http://culture11.com:80/blogs/textpatterns/2009/01/08/another-kind-of-scanning/) post by Alan Jacobs, [Culture11](https://www.google.com/search?q=%22Culture11%22%20culture11.com) 8 January 2009

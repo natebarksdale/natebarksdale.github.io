@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-12-18
-modDatetime: 2025-03-28T14:39:11Z
+modDatetime: 2025-03-28T15:31:50Z
 title: LOLCat-tharsis
 slug: lolcat-tharsis
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: In a thought-provoking exploration of internet culture, a Psychology Today editor draws an intriguing parallel between LOLcats and the clever dogs in New Yorker cartoons.
 emoji: 🐱
 tags:
-
-- 🌍 Culture-Making.com
-- 🌐 Blogging
-- 📖 Articles
-- 🖋️ Commentary
-- 😎 Coolness
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🌐 Blogging
+  - 📖 Articles
+  - 🖋️ Commentary
+  - 😎 Coolness
+haiku: |
   Clever cats speak truths,  
-   In laughter, depths revealed,  
-   Masks of fur, we see.
-  coordinates: [40.7128, -74.0060]
+  In laughter, depths revealed,  
+  Masks of fur, we see.
+coordinates: [40.7128, -74.0060]
+---
 
 Wait, the dogs in New Yorker cartoons aren't just dogs that have gotten smart by reading the New Yorker?
 "[The Tragedy of the LOLcats](http://ideas.blogs.nytimes.com/2008/11/17/the-tragedy-of-the-lolcats/)," a [NYTimes.com Ideas Blog](http://ideas.blogs.nytimes.com/2008/11/17/the-tragedy-of-the-lolcats/) post, 17 November 2008

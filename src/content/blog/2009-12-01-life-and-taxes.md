@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-28T14:39:22Z
+modDatetime: 2025-03-28T15:32:04Z
 title: Life and taxes
 slug: life-and-taxes
 featured: false
@@ -10,18 +9,18 @@ draft: false
 description: A fascinating exploration of how colonial tax policies have left lasting impacts on governance in Nigeria.
 emoji: 🏛️
 tags:
-
-- 🦁 Africa
-- 🌍 Culture-Making.com
-- 🌍 History
-- ⚖️ Law
-- ⚖️ Choices
-- ⚖️ Ethics
-  haiku: |
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
+  - 🌍 History
+  - ⚖️ Law
+  - ⚖️ Choices
+  - ⚖️ Ethics
+haiku: |
   Polls of the past speak,  
-   Taxes shape the land's today,  
-   History's long gaze.
-  coordinates: [9.167, 7.167]
+  Taxes shape the land's today,  
+  History's long gaze.
+coordinates: [9.167, 7.167]
+---
 
 A fascinating look at the birth and life of policies and institutions, and of their surprising multigenerational effects
 

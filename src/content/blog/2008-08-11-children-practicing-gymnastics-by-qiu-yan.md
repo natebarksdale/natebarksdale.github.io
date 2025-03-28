@@ -1,8 +1,7 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-28T14:39:00Z
+modDatetime: 2025-03-28T15:31:38Z
 title: Children practicing gymnastics, by Qiu Yan
 slug: children-practicing-gymnastics-by-qiu-yan
 featured: false
@@ -10,17 +9,17 @@ draft: false
 description: Exploring the new culture that emerges as children train for the Olympics in China.
 emoji: 🤸
 tags:
-
-- 🌍 Culture-Making.com
-- 🇨🇳 China
-- 🥇 Olympics
-- 🌍 Culture
-- 🎭 Entertainment
-  haiku: |
+  - 🌍 Culture-Making.com
+  - 🇨🇳 China
+  - 🥇 Olympics
+  - 🌍 Culture
+  - 🎭 Entertainment
+haiku: |
   Young dreams take to flight,  
-   In a gym filled with hard work,  
-   Future stars in sight.
-  coordinates: [30.4855, 114.3881]
+  In a gym filled with hard work,  
+  Future stars in sight.
+coordinates: [30.4855, 114.3881]
+---
 
 This image goes well with Mike Hickerson's answer to the question "What new culture is created in response to the Olympics?", over on our [five questions](http://www.culture-making.com/five_questions/) page
 [![photo](http://culture-making.com/media/ChinaGym.jpg)](http://freakonomics.blogs.nytimes.com/2008/08/11/todays-china-communist-millionaires-kissing-contests-and-oh-yes-the-olympics/)
