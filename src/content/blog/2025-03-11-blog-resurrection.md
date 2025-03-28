@@ -2,7 +2,7 @@
 author: Nate Barksdale
 pubDatetime: 2025-03-28
 modDatetime: 2025-03-28
-title: ## When is the past worth saving, and how do we go
+title: Blog Resurrection
 slug: when-is-the-past-worth-saving-and-how-do-we-go
 featured: False
 draft: False
