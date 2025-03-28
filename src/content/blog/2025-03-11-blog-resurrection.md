@@ -18,6 +18,7 @@ haiku: |
   Old words find new home,
   Past thoughts revived, take new breath,
   Making culture bloom.
+
 coordinates: [51.509865, -0.118092]
 ---
 
