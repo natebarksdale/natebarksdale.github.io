@@ -3,7 +3,7 @@ author: Nate Barksdale
 pubDatetime: 2025-03-28
 modDatetime: 2025-03-28
 title: Blog Resurrection
-slug: when-is-the-past-worth-saving-and-how-do-we-go
+slug: blog-resurrection
 featured: False
 draft: False
 tags:
