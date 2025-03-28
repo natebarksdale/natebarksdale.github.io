@@ -18,7 +18,6 @@ haiku: |
   Explore the past  
   With tours that guide the way  
   History unveiled
-
 coordinates: [37.7749, -122.4194]
 ---
 

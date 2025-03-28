@@ -17,7 +17,6 @@ haiku: |
   Ancient tales unfold,  
   Wisdom from Athens' mind,  
   Empires rise and fall.
-
 coordinates: [35.891, 14.5203]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Endure the hard path,  
   Character grows, souls ascend—  
   Suffering ennobles.
-
 coordinates: [34.0224, -118.2851]
 ---
 

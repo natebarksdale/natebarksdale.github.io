@@ -18,7 +18,6 @@ haiku: |
   Evolution's dance,  
   Suffering seeds deep love's bloom,  
   God's mystery veiled.
-
 coordinates: [63.8258, 20.263]
 ---
 

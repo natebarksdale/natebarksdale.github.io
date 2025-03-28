@@ -20,7 +20,6 @@ haiku: |
   Creating with care,  
   Collaborators unite,  
   Culture shapes our world.
-
 coordinates: [37.7749, -122.4194]
 ---
 

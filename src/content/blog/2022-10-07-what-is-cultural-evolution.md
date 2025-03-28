@@ -20,7 +20,6 @@ haiku: |
   Cultures shift and grow,  
   like songbirds' evolving trills—  
   genes weave through our past.
-
 coordinates: [1.2921, 36.8219]
 ---
 

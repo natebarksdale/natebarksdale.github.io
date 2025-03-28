@@ -17,7 +17,6 @@ haiku: |
   Students find their path,  
   Voices guide their noble quest,  
   Purpose blooms in youth.
-
 coordinates: [40.5008, -74.4474]
 ---
 

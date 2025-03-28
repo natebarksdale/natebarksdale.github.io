@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-28T15:31:37Z
+modDatetime: 2025-03-28T15:46:14Z
 title: Community kitchens in Lima, Peru
 slug: community-kitchens-in-lima-peru
 featured: false
@@ -20,7 +20,6 @@ haiku: |
   Steaming pots unite,  
   Women gather, strength in hands,  
   Voices rise for change.
-
 coordinates: [-12.0464, -77.0428]
 ---
 

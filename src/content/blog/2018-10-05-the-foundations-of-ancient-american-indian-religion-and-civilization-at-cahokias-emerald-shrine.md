@@ -17,7 +17,6 @@ haiku: |
   Ancient city thrives,  
   Mounds rise where the spirits speak,  
   Roads link sacred sites.
-
 coordinates: [38.655, -90.0594]
 ---
 

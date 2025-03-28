@@ -17,7 +17,6 @@ haiku: |
   Genes weave life's fabric,  
   Beyond DNA, life shapes  
   Its own paths to thrive.
-
 coordinates: [51.509865, -0.118092]
 ---
 

@@ -19,7 +19,6 @@ haiku: |
   Echoes of the past,  
   Frames of laughter and stillness,  
   Time’s embrace revealed.
-
 coordinates: [40.7128, -74.006]
 ---
 

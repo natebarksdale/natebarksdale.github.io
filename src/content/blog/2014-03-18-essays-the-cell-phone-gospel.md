@@ -15,7 +15,6 @@ haiku: |
   In dusty ruins,  
   A bright screen shines in contrast,  
   Hope in pockets found.
-
 coordinates: [28.6139, 77.209]
 ---
 

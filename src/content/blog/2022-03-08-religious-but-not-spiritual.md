@@ -18,7 +18,6 @@ haiku: |
   Devi prays to gods,  
   Suburban altars gleam bright,  
   Cultural threads weave.
-
 coordinates: [34.1826, -118.4396]
 ---
 

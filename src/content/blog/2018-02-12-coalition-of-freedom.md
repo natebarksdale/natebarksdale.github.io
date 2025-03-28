@@ -17,7 +17,6 @@ haiku: |
   In halls of freedom's past,  
   Voices debate, wisdom casts,  
   Liberty's roots hold fast.
-
 coordinates: [39.9489, -75.15]
 ---
 

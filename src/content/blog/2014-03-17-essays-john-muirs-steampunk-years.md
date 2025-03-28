@@ -17,7 +17,6 @@ haiku: |
   From sawmills he came,  
   Nature's heart he would defend,  
   Wilderness his home.
-
 coordinates: [43.0747, -89.3833]
 ---
 

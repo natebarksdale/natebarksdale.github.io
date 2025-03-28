@@ -19,7 +19,6 @@ haiku: |
   Ancient texts whisper,  
   Unveiling divine secrets,  
   God's nature questioned.
-
 coordinates: [31.7683, 35.2137]
 ---
 

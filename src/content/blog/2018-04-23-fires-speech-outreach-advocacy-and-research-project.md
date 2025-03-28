@@ -17,7 +17,6 @@ haiku: |
   Voices clash, rights claimed,  
   Silenced speech finds its fierce guard,  
   Freedom's flame kindled.
-
 coordinates: [41.525031, -88.081725]
 ---
 

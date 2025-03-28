@@ -17,7 +17,6 @@ haiku: |
   Shadowed ring unveiled,  
   Worlds unite, gaze the cosmos,  
   Science bridges void.
-
 coordinates: [42.378, -71.116]
 ---
 

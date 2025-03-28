@@ -18,7 +18,6 @@ haiku: |
   Gas prices rise high,  
   S.U.V.s lose their allure,  
   Cool fades, wheels roll on.
-
 coordinates: [37.0902, -95.7129]
 ---
 

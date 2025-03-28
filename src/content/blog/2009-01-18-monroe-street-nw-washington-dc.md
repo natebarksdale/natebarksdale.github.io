@@ -17,7 +17,6 @@ haiku: |
   Colors bright and bold,  
   Columbia Heights’ charm shines,  
   Home in harmony.
-
 coordinates: [38.9333, -77.0369]
 ---
 

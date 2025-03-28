@@ -18,7 +18,6 @@ haiku: |
   Tape rewound, life's dance,  
   Molecular paths retread,  
   Nature's deep whispers.
-
 coordinates: [32.2226, -110.9747]
 ---
 

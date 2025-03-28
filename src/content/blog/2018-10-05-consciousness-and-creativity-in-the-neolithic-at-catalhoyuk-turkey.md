@@ -19,7 +19,6 @@ haiku: |
   Ancient walls whisper,  
   Neolithic dreams etched deep—  
   Çatalhöyük sleeps.
-
 coordinates: [37.6671, 32.8314]
 ---
 

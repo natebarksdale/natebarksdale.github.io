@@ -18,7 +18,6 @@ haiku: |
   Flag whispers of change,  
   Pastor’s voice stirs a nation,  
   Autumn ousts the old.
-
 coordinates: [-17.82772, 31.053028]
 ---
 

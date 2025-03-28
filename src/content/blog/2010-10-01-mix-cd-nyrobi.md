@@ -21,7 +21,6 @@ haiku: |
   Beats from far away,  
   City lights and echoes blend,  
   Cultures intertwine.
-
 coordinates: [40.7128, -74.006]
 ---
 

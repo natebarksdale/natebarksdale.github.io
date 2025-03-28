@@ -18,7 +18,6 @@ haiku: |
   Data traces paths,  
   Seeking genius through the mist—  
   Nature or nurture?
-
 coordinates: [51.5074, -0.1278]
 ---
 

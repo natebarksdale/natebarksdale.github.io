@@ -19,7 +19,6 @@ haiku: |
   Hard times stir deep faith,  
   Economic woes meet prayers,  
   Resilience blooms.
-
 coordinates: [38.0336, -78.508]
 ---
 

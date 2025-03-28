@@ -17,7 +17,6 @@ haiku: |
   Faith weaves through lives deep,  
   Happiness, health intertwine—  
   Flourishing souls seek.
-
 coordinates: [42.378, -71.116]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Paradoxes spark thought,  
   Ancient RNA whispers,  
   Life stirs from chaos.
-
 coordinates: [51.509865, -0.118092]
 ---
 

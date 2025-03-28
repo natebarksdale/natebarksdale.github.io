@@ -1,5 +1,4 @@
 ---
-
 author: Nate Barksdale
 pubDatetime: 2025-03-26
 modDatetime: 2025-03-26
@@ -10,16 +9,16 @@ draft: True
 description: Imagine an encyclopedia built only from limericks, each linking to more! Delve into the wonderfully useless concept of Limerickipedia.
 emoji: 🤪
 tags:
-
-- ✨ Wonder
-- ✍️ Poetry
-- 😂 Humor
-- 💡 Innovation
-- 🌐 Internet
-  haiku: |
+  - ✨ Wonder
+  - ✍️ Poetry
+  - 😂 Humor
+  - 💡 Innovation
+  - 🌐 Internet
+haiku: |
   Dishes gleam, thought sparks
   Linked limericks weave a strange web
   Useless, wordy fun
+---
 
 Last night while doing the dishes, a billion-dollar thought flashed before my eyes: what if you had an encyclopedia that was entirely made of limericks! Where each entry had highlighted links that led to further limericks, each with their own limerick links. How wonderful and useless that would be!
 Visions of vibe-coding danced in my head as I scrubbed the pots and loaded the silverware. My initial idea was to prompt Claude to create a sort of back-end script that would start from a seed limerick, identify its nouns, and then go about querying an LLM to generate limericks on those topics. I figured you could let the thing chug away to create a few thousand entries to create a universe that could be navigated by the user until they got bored, which I imagine would be pretty fast.

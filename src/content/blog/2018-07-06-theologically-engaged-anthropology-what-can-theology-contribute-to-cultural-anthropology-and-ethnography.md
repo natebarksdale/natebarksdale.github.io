@@ -19,7 +19,6 @@ haiku: |
   Mountains cradle faith,  
   New beliefs transform old ways,  
   Theology seeks.
-
 coordinates: [-5.416667, 143.083333]
 ---
 

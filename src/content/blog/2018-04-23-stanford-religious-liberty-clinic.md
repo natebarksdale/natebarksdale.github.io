@@ -17,7 +17,6 @@ haiku: |
   Liberty takes root,  
   Lawyers nurture sacred rights,  
   Faith blooms, unconfined.
-
 coordinates: [37.4275, -122.1697]
 ---
 

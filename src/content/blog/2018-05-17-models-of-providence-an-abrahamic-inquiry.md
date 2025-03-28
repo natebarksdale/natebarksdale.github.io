@@ -19,7 +19,6 @@ haiku: |
   Dice cast in the skies,  
   Randomness meets divine eyes,  
   Faith questions the hows.
-
 coordinates: [42.9634, -85.6681]
 ---
 

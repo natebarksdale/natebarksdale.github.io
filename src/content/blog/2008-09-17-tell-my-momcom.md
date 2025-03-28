@@ -19,7 +19,6 @@ haiku: |
   Teens behind the wheel,  
   Feedback improves their skills,  
   Safety comes from love.
-
 coordinates: [37.7749, -122.4194]
 ---
 

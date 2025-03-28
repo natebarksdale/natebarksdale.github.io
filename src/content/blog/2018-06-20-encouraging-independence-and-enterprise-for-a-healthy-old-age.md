@@ -18,7 +18,6 @@ haiku: |
   Aging Britain seeks,  
   Flexible care, best practices—  
   Health freedom beckons.
-
 coordinates: [51.5074, -0.1278]
 ---
 

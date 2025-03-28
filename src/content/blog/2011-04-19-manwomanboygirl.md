@@ -22,7 +22,6 @@ haiku: |
   Faces from afar,  
   Drawn with intent and haste,  
   Cultures intertwine.
-
 coordinates: [20.5937, 78.9629]
 ---
 

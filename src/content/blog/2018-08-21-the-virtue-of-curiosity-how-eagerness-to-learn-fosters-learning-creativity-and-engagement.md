@@ -17,7 +17,6 @@ haiku: |
   Curiosity leads,  
   Impulse blooms into knowing,  
   Creativity's seed.
-
 coordinates: [40.8075, -73.9626]
 ---
 

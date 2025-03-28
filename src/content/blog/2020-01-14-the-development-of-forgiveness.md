@@ -17,7 +17,6 @@ haiku: |
   Mistakes stir guilt's voice,  
   Forgiveness heals, bonds renew,  
   Human grace flows deep.
-
 coordinates: [38.0336, -78.508]
 ---
 

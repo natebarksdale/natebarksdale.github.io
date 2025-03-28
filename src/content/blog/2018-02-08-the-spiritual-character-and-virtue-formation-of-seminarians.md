@@ -18,7 +18,6 @@ haiku: |
   Seminaries mold souls,  
   Knowledge meets virtue's tough road,  
   Flaws in the faithful.
-
 coordinates: [33.9154, -117.9289]
 ---
 

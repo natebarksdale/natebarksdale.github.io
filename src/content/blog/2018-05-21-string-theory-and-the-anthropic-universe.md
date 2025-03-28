@@ -19,7 +19,6 @@ haiku: |
   Cosmic laws align,  
   Infinite universes bloom,  
   Life whispers in void.
-
 coordinates: [51.509865, -0.118092]
 ---
 

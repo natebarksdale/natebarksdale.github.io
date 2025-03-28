@@ -18,7 +18,6 @@ haiku: |
   Eszett stands renewed,  
   Typographers rejoice now,  
   Identity preserved.
-
 coordinates: [51.1657, 10.4515]
 ---
 

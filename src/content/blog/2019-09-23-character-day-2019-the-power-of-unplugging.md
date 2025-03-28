@@ -18,7 +18,6 @@ haiku: |
   Unplug, reconnect,  
   Films spark deep character talks,  
   Worldwide minds unite.
-
 coordinates: [37.7749, -122.4194]
 ---
 

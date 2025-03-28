@@ -19,7 +19,6 @@ haiku: |
   Femme in a man’s world,  
   Commodities whisper bold,  
   Break the glass ceiling.
-
 coordinates: [48.8566, 2.3522]
 ---
 

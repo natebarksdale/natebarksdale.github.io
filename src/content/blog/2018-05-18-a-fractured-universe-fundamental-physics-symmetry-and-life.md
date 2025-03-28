@@ -19,7 +19,6 @@ haiku: |
   Imperfect cosmos swirls,  
   Symmetries break, life emerges—  
   Universes dance.
-
 coordinates: [-33.8688, 150.6643]
 ---
 

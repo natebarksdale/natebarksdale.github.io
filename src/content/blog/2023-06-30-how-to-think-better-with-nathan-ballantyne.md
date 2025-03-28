@@ -17,7 +17,6 @@ haiku: |
   Mind's journey unfolds,  
   Limiting thoughts challenged deep,  
   Wisdom's path revealed.
-
 coordinates: [33.424564, -111.928001]
 ---
 

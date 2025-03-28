@@ -18,7 +18,6 @@ haiku: |
   Cells unite as one,  
   Selfless acts weave strong bonds tight,  
   Nature's dance of trust.
-
 coordinates: [51.509865, -0.118092]
 ---
 

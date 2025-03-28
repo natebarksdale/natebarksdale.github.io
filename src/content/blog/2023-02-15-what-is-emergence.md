@@ -19,7 +19,6 @@ haiku: |
   Simple to complex,
   Galaxies spin, life emerges—
   Nature's deep secrets.
-
 coordinates: [51.509865, -0.118092]
 ---
 

@@ -18,7 +18,6 @@ haiku: |
   Bridging faith and science,  
   In Cambridge's halls, thoughts weave,  
   New leaders perceive.
-
 coordinates: [52.2053, 0.1218]
 ---
 

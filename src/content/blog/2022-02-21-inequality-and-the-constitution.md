@@ -17,7 +17,6 @@ haiku: |
   Rules bind the rulers,  
   Tension between ideals, real;  
   Each voice weighs the same.
-
 coordinates: [38.9072, -77.0369]
 ---
 

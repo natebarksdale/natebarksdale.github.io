@@ -19,7 +19,6 @@ haiku: |
   Fresh logo brings life,  
   Colors dance in harmony,  
   Artistry reflects.
-
 coordinates: [34.0522, -118.2437]
 ---
 

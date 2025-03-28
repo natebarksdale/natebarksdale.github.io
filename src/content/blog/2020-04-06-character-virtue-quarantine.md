@@ -17,7 +17,6 @@ haiku: |
   Pandemic reshapes life,  
   Virtues foster resilience,  
   Growth amid the strife.
-
 coordinates: [51.509865, -0.118092]
 ---
 

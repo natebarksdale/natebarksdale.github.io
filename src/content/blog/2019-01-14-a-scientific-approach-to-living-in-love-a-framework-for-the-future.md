@@ -17,7 +17,6 @@ haiku: |
   Bridging hearts and minds,  
   Emotions weave through science,  
   Love's framework takes shape.
-
 coordinates: [35.9049, -79.0469]
 ---
 

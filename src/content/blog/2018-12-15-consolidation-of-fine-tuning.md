@@ -20,7 +20,6 @@ haiku: |
   Constants finely poised,  
   Universe whispers of life,  
   Depth in each number.
-
 coordinates: [51.752, -1.2577]
 ---
 

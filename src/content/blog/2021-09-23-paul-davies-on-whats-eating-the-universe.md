@@ -17,7 +17,6 @@ haiku: |
   Cosmic questions loom,  
   Dark sky whispers ancient tales,  
   Universe consumes.
-
 coordinates: [33.424564, -111.928001]
 ---
 

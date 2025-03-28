@@ -19,7 +19,6 @@ haiku: |
   Osotua binds deep,  
   Generosity flows wide,  
   Cooperation blooms.
-
 coordinates: [1.2921, 36.8219]
 ---
 

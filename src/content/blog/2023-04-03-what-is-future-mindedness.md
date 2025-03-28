@@ -17,7 +17,6 @@ haiku: |
   Future minds wander,  
   Memory's path leads ahead—  
   Silent thoughts take flight.
-
 coordinates: [51.509865, -0.118092]
 ---
 

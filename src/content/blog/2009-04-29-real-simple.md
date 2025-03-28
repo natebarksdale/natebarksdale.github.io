@@ -19,7 +19,6 @@ haiku: |
   Complexity thrives,  
   Unity’s gentle embrace,  
   Nature’s simple truth.
-
 coordinates: [37.8393, -85.4664]
 ---
 

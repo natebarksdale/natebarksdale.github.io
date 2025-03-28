@@ -19,7 +19,6 @@ haiku: |
   Darwin's legacy blooms,  
   Cultural threads weave through genes,  
   Symphony unfinished.
-
 coordinates: [56.3417, -2.7943]
 ---
 

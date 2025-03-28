@@ -17,7 +17,6 @@ haiku: |
   Philosophic quest starts,  
   Worship's nature pondered deep,  
   Scholars gather thoughts.
-
 coordinates: [31.0461, 34.8516]
 ---
 

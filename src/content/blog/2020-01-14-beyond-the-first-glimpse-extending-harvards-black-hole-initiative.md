@@ -19,7 +19,6 @@ haiku: |
   Light bends in darkness,  
   Universes whisper secrets,  
   Black hole unveiled truths.
-
 coordinates: [42.378, -71.116]
 ---
 

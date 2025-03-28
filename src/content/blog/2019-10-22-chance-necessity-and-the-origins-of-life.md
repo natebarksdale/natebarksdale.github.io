@@ -19,7 +19,6 @@ haiku: |
   Life whispers in depths,  
   Chemical dance sparks being—  
   Stars may hold its breath.
-
 coordinates: [38.9072, -77.0369]
 ---
 

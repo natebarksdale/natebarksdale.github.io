@@ -17,7 +17,6 @@ haiku: |
   Life on the road calls,  
   Heartstring pulls for loved ones' well,  
   Songs of hope endure.
-
 coordinates: [36.9995, -97.3319]
 ---
 

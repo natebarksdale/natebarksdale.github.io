@@ -17,7 +17,6 @@ haiku: |
   Ancestors' smoke curls,  
   Granddaughters bear the weight, unseen—  
   Legacy's burden.
-
 coordinates: [51.4545, -2.5879]
 ---
 

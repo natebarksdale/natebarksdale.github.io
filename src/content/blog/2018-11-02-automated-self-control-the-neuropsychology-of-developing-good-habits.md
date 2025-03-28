@@ -16,7 +16,6 @@ haiku: |
   Habits shape our path,  
   Silent keepers of the will,  
   Change fosters new growth.
-
 coordinates: [34.0224, -118.2851]
 ---
 

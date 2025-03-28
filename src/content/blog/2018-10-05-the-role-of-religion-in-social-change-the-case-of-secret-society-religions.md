@@ -20,7 +20,6 @@ haiku: |
   Child with crane wings lies,  
   Secret rites shape ancient tribes,  
   Whispers shape the bones.
-
 coordinates: [58.5953, 25.0136]
 ---
 

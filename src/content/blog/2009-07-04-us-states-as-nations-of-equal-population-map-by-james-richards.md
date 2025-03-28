@@ -18,7 +18,6 @@ haiku: |
   Flags weave through the map,  
   Nations marked by population,  
   A world in our hands.
-
 coordinates: [37.0902, -95.7129]
 ---
 

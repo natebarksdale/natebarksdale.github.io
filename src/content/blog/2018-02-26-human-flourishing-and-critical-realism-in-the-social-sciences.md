@@ -17,7 +17,6 @@ haiku: |
   Seeking human truths,  
   Science grapples with its soul—  
   Flourish or reduce.
-
 coordinates: [41.3083, -72.9279]
 ---
 

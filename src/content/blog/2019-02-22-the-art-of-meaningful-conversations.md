@@ -18,7 +18,6 @@ haiku: |
   Webcam streams merge thoughts,  
   Deep dialogues bridge the void—  
   Wisdom shared, souls grow.
-
 coordinates: [40.8148, -73.9613]
 ---
 

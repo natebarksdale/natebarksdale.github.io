@@ -20,7 +20,6 @@ haiku: |
   Games guide through chaos,  
   Intuition and science blend,  
   New truths emerge clear.
-
 coordinates: [56.1629, 10.2039]
 ---
 

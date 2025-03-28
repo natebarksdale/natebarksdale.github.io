@@ -21,7 +21,6 @@ haiku: |
   Spirits call at night,  
   Seu Silva's voice joins the waves,  
   Umbanda's soul awakes.
-
 coordinates: [-22.906847, -43.172896]
 ---
 

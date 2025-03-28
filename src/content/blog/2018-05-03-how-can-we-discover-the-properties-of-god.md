@@ -16,7 +16,6 @@ haiku: |
   Seeking to define God,  
   Anselm's greatest being thought—  
   Perfect, beyond reach.
-
 coordinates: [51.2797, 1.0827]
 ---
 

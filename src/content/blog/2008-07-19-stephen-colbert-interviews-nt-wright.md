@@ -17,7 +17,6 @@ haiku: |
   Quick wit in the light,  
   Conversations that ignite,  
   Laughter takes its flight.
-
 coordinates: [40.716, -74.005]
 ---
 

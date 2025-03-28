@@ -19,7 +19,6 @@ haiku: |
   Empty seats abound,
   Global viewers gather near,
   Prize shines through the screen.
-
 coordinates: [51.509865, -0.118092]
 ---
 

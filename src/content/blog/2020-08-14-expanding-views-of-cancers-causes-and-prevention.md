@@ -18,7 +18,6 @@ haiku: |
   Cells divide, mutate—  
   Fate’s lottery of cancer,  
   Beyond mere risks laid.
-
 coordinates: [39.3289, -76.6208]
 ---
 

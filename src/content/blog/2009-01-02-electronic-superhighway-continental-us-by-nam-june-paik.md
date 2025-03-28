@@ -18,7 +18,6 @@ haiku: |
   Bright river's glow shines,  
   A highway of the old world,  
   Merging art and path.
-
 coordinates: [38.627, -90.1994]
 ---
 

@@ -18,7 +18,6 @@ haiku: |
   Cosmic balance poised,  
   Life dances on narrow threads,  
   Stars align for breath.
-
 coordinates: [51.509865, -0.118092]
 ---
 

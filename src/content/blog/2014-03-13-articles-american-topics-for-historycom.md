@@ -19,7 +19,6 @@ haiku: |
   Battles fought and won,  
   Legends of the bold and great,  
   A nation's story.
-
 coordinates: [37.0902, -95.7129]
 ---
 

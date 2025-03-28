@@ -17,7 +17,6 @@ haiku: |
   Balancing beliefs,  
   Curious of unseen flaws,  
   Virtue in thought blooms.
-
 coordinates: [51.509865, -0.118092]
 ---
 

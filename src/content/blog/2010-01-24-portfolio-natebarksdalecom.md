@@ -19,7 +19,6 @@ haiku: |
   Words in a puzzle,  
   From business card to web space,  
   Design interlaces.
-
 coordinates: [34.0522, -118.2437]
 ---
 

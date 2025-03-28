@@ -17,7 +17,6 @@ haiku: |
   East Asia's faith mapped,  
   Surveying souls, beliefs spread—  
   Futures woven tight.
-
 coordinates: [35.0, 105.0]
 ---
 

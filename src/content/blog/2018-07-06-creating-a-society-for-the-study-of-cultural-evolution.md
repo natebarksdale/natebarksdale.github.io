@@ -19,7 +19,6 @@ haiku: |
   Culture shifts, seamless—  
   Fields merge, seeking common ground,  
   New society blooms.
-
 coordinates: [42.0884, -75.9694]
 ---
 

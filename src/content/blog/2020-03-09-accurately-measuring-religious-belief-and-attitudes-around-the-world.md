@@ -20,7 +20,6 @@ haiku: |
   Beliefs hidden deep,  
   Unseen atheists whisper,  
   Truths in shadows leap.
-
 coordinates: [38.031713, -84.495136]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Across six continents,  
   Lives weave through data's vast loom—  
   Human threads flourish.
-
 coordinates: [31.5497, -97.1143]
 ---
 

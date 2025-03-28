@@ -18,7 +18,6 @@ haiku: |
   Pages cut away,  
   Secrets held in silence,  
   Art from both worlds blooms.
-
 coordinates: [41.8781, -87.6298]
 ---
 

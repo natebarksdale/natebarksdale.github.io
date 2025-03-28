@@ -19,7 +19,6 @@ haiku: |
   A sneeze in the night,  
   Horses caught in a strange fate,  
   History unfolds.
-
 coordinates: [43.7, -79.4]
 ---
 

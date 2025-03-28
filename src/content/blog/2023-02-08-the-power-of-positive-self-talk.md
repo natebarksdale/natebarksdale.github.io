@@ -17,7 +17,6 @@ haiku: |
   Words shape our own minds,  
   Whispered strength in class echoes,  
   Calm amid the storm.
-
 coordinates: [42.280826, -83.743038]
 ---
 

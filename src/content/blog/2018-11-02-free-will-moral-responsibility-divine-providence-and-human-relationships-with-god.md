@@ -18,7 +18,6 @@ haiku: |
   Blame cast upon us,  
   Yet shaped by divine hands—  
   Can fault truly lie?
-
 coordinates: [55.9533, -3.1883]
 ---
 

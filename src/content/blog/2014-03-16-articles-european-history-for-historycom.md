@@ -20,7 +20,6 @@ haiku: |
   Kings and thinkers rise,  
   Knowledge sparks a great discourse,  
   Change across the lands.
-
 coordinates: [51.1657, 10.4515]
 ---
 

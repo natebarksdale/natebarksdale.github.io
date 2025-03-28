@@ -18,7 +18,6 @@ haiku: |
   Printing dreams in hands,  
   Filament flows, worlds are shaped,  
   Future waits to form.
-
 coordinates: [40.7255, -73.9934]
 ---
 

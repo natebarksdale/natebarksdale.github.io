@@ -20,7 +20,6 @@ haiku: |
   Whispers of the past,  
   Old gloves breathe forgotten love,  
   Tears from faded hues.
-
 coordinates: [48.8566, 2.3522]
 ---
 

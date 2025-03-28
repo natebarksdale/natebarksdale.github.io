@@ -18,7 +18,6 @@ haiku: |
   Kepler's quest now done,  
   Red dwarfs hold the secret keys,  
   New worlds whisper life.
-
 coordinates: [42.378, -71.116]
 ---
 

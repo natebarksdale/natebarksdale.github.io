@@ -18,7 +18,6 @@ haiku: |
   In cosmos' vastness,  
   Science probes deep, ethics stir—  
   New truths, timeless quest.
-
 coordinates: [51.509865, -0.118092]
 ---
 

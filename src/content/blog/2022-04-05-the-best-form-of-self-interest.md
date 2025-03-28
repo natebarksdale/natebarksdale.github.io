@@ -18,7 +18,6 @@ haiku: |
   Amish hearts forgive,  
   Embrace the gunman's shadow,  
   Grace outshines the grief.
-
 coordinates: [39.997876, -76.063459]
 ---
 

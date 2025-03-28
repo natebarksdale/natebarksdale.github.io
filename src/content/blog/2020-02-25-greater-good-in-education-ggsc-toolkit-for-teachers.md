@@ -17,7 +17,6 @@ haiku: |
   Passion fuels her path,  
   In schools, well-being blooms forth—  
   Seeds of knowledge sown.
-
 coordinates: [37.8715, -122.273]
 ---
 

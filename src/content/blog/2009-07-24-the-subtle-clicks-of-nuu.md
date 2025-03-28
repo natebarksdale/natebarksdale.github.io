@@ -21,7 +21,6 @@ haiku: |
   Sounds of the ancients,  
   Captured in swift images,  
   Voices on the brink.
-
 coordinates: [-30.5595, 22.9375]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Hunters in the past,  
   Men claimed the meat, myths were cast,  
   Breadwinners recast.
-
 coordinates: [51.509865, -0.118092]
 ---
 

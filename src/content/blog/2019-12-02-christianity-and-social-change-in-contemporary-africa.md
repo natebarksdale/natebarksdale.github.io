@@ -20,7 +20,6 @@ haiku: |
   Prayer mountains rise,  
   Voices blend, old and new truths,  
   Africa reshapes.
-
 coordinates: [8.5068, 4.5469]
 ---
 

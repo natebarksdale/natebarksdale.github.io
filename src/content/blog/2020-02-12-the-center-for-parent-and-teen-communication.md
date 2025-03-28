@@ -18,7 +18,6 @@ haiku: |
   Teen spirit blossoms,  
   Guidance with love, not just fears,  
   Growth through dialogue.
-
 coordinates: [39.952583, -75.165222]
 ---
 

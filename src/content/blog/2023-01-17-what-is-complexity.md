@@ -17,7 +17,6 @@ haiku: |
   Systems grow, chaos blooms,  
   Intricate webs spun tightly,  
   Complex truths unfurl.
-
 coordinates: [51.509865, -0.118092]
 ---
 

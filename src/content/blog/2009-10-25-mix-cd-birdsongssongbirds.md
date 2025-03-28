@@ -19,7 +19,6 @@ haiku: |
   Melodies of flight,  
   Nature's voices resonate,  
   Gift of wings and sound.
-
 coordinates: [37.7749, -119.4194]
 ---
 

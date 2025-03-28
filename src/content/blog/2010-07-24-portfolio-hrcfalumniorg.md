@@ -18,7 +18,6 @@ haiku: |
   A website reborn,  
   Alumni’s shared faith and goals,  
   Harvard’s light shines bright.
-
 coordinates: [42.377, -71.1167]
 ---
 

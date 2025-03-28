@@ -19,7 +19,6 @@ haiku: |
   From trash to treasure,  
   Couch carries memories bright,  
   Friends in every frame.
-
 coordinates: [42.377, -72.5199]
 ---
 

@@ -18,7 +18,6 @@ haiku: |
   Music binds the heart,  
   Synchronized beats build bridges,  
   Harmony flows deep.
-
 coordinates: [32.794, 34.9896]
 ---
 

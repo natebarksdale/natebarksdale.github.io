@@ -17,7 +17,6 @@ haiku: |
   Embrace the unknown,  
   In classrooms, humility—  
   Seeds of growth take root.
-
 coordinates: [39.9522, -75.1932]
 ---
 

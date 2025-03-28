@@ -18,7 +18,6 @@ haiku: |
   Words bloom like flowers,  
   Patterns weave through new lexicons,  
   Language endlessly grows.
-
 coordinates: [51.752, -1.2577]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Diverse voices blend,  
   Conflicts weave through unity,  
   Hope dines at one table.
-
 coordinates: [37.0902, -95.7129]
 ---
 

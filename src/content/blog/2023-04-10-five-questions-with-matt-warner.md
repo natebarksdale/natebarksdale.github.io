@@ -17,7 +17,6 @@ haiku: |
   Ideas bridge the world,  
   Free markets bloom, barriers fall,  
   Freedom's roots grow deep.
-
 coordinates: [38.89511, -77.03637]
 ---
 

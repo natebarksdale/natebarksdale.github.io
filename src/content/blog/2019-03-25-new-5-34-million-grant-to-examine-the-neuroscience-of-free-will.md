@@ -17,7 +17,6 @@ haiku: |
   Choices made unseen,  
   Neurons fire before thoughts form—  
   Science seeks the truth.
-
 coordinates: [33.793314, -117.853294]
 ---
 

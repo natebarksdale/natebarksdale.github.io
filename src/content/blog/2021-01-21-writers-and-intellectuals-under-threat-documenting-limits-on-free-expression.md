@@ -21,7 +21,6 @@ haiku: |
   Words behind cold bars,  
   Silenced minds still dream of light,  
   Ink flows, unbroken.
-
 coordinates: [39.9334, 32.8597]
 ---
 

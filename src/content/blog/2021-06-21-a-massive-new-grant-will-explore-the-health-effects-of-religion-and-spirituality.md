@@ -18,7 +18,6 @@ haiku: |
   Lifelong health tracked well,  
   Spirit's role now takes the stage,  
   Insights like soft light.
-
 coordinates: [51.4545, -2.5879]
 ---
 

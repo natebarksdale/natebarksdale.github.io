@@ -18,7 +18,6 @@ haiku: |
   Life's script falls away,  
   She pens truth in shadowed light,  
   Grace amidst the thorns.
-
 coordinates: [36.001426, -78.938229]
 ---
 

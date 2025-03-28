@@ -19,7 +19,6 @@ haiku: |
   Open pages breathe,  
   Communities gather round,  
   Knowledge flows like air.
-
 coordinates: [41.3851, 2.1734]
 ---
 

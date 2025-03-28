@@ -17,7 +17,6 @@ haiku: |
   Virtues shape the youth,  
   Colleges seek deeper truths,  
   Character's new root.
-
 coordinates: [42.377, -71.1167]
 ---
 

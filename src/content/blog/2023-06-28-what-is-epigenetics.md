@@ -19,7 +19,6 @@ haiku: |
   Genes shape not alone,  
   Life's script altered by our past,  
   Echoes through offspring.
-
 coordinates: [51.509865, -0.118092]
 ---
 

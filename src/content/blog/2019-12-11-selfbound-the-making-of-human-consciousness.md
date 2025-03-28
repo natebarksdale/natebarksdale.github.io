@@ -17,7 +17,6 @@ haiku: |
   Clay and mind entwined,  
   Self unfolds through creation,  
   Humanity's dance.
-
 coordinates: [51.752, -1.2577]
 ---
 

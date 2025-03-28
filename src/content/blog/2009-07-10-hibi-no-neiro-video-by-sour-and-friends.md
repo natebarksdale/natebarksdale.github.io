@@ -19,7 +19,6 @@ haiku: |
   Fans from afar join,  
   Dancing with joy in each frame,  
   Global hearts unite.
-
 coordinates: [35.682839, 139.759455]
 ---
 

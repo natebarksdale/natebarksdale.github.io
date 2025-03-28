@@ -17,7 +17,6 @@ haiku: |
   Mirror reflects truth,
   Polished by love’s tender rub,
   Wisdom shines in depths.
-
 coordinates: [32.4279, 53.688]
 ---
 

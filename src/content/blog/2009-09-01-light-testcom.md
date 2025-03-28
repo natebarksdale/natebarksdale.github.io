@@ -18,7 +18,6 @@ haiku: |
   On the roof they pose,  
   Light and color dance in air,  
   Behind, the scene glows.
-
 coordinates: [40.811, -73.9307]
 ---
 

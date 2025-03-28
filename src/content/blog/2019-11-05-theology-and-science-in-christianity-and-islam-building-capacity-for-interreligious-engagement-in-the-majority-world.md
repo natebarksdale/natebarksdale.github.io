@@ -19,7 +19,6 @@ haiku: |
   Books traverse the globe,  
   Bridging faiths with shared wisdom,  
   Knowledge lights new paths.
-
 coordinates: [42.9634, -85.6681]
 ---
 

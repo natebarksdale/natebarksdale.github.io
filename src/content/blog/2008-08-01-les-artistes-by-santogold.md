@@ -19,7 +19,6 @@ haiku: |
   Sacrifices weigh,  
   Artists clash with judgment,  
   Dreams on painted peaks.
-
 coordinates: [34.0522, -118.2437]
 ---
 

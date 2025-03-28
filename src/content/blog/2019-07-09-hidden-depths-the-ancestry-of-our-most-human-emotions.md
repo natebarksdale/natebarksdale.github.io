@@ -18,7 +18,6 @@ haiku: |
   Neanderthal depths,
   Compassion blooms in old bones—
   Humanity's roots.
-
 coordinates: [51.1657, 10.4515]
 ---
 

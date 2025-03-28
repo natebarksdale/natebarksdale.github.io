@@ -12,13 +12,12 @@ tags:
   - 🌐 Blogging
   - ➿ What Comes Next\_
   - 🤖 AI
-  description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
-  emoji: ✍️
+description: Using LLMs to pull thousands of old blog posts back from a grave of mangled database text and rotten links
+emoji: ✍️
 haiku: |
   Old words find new home,
   Past thoughts revived, take new breath,
   Making culture bloom.
-
 coordinates: [51.509865, -0.118092]
 ---
 

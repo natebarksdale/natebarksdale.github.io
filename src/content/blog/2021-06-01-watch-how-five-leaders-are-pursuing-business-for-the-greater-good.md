@@ -17,7 +17,6 @@ haiku: |
   Jar of hope on shelf,  
   Leaders serve, lifting others,  
   Conscious hearts find wealth.
-
 coordinates: [30.2672, -97.7431]
 ---
 

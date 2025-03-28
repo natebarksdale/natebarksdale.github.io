@@ -17,7 +17,6 @@ haiku: |
   Indonesia grows strong,  
   Entrepreneurs bloom, jobs wake,  
   Hope spreads with each dawn.
-
 coordinates: [-0.789275, 113.921327]
 ---
 

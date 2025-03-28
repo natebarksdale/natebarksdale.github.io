@@ -19,7 +19,6 @@ haiku: |
   Quantum threads weave time,  
   Life dances with physics' laws,  
   Mystery unfolds.
-
 coordinates: [51.2424, -0.5895]
 ---
 

@@ -17,7 +17,6 @@ haiku: |
   Silver not in shine,  
   Faces tell untold stories,  
   Almost, but not quite.
-
 coordinates: [56.1304, -106.3468]
 ---
 

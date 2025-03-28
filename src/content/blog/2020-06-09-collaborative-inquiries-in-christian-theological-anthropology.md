@@ -17,7 +17,6 @@ haiku: |
   Science meets faith's gaze,  
   Exploring human essence,  
   New light on old truths.
-
 coordinates: [41.7056, -86.2353]
 ---
 

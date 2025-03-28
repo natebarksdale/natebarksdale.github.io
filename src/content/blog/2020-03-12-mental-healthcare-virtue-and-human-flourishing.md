@@ -17,7 +17,6 @@ haiku: |
   Virtues bloom, minds heal,  
   Gratitude fosters deep growth,  
   Flourishing takes root.
-
 coordinates: [42.3505, -71.1054]
 ---
 

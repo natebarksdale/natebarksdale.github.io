@@ -17,7 +17,6 @@ haiku: |
   Colors dance with words,  
   Heartbreak woven into art,  
   Cityscapes unfold.
-
 coordinates: [41.8781, -87.6298]
 ---
 

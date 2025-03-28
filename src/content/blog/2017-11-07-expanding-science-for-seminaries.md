@@ -17,7 +17,6 @@ haiku: |
   Science meets the divine,  
   Seminaries embrace change,  
   New wisdom takes root.
-
 coordinates: [38.89511, -77.03637]
 ---
 

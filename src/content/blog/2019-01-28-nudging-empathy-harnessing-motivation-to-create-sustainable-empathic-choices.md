@@ -18,7 +18,6 @@ haiku: |
   Empathy's decline,  
   Nurtured hearts renew the bond,  
   Hope in each effort.
-
 coordinates: [40.7982, -77.8599]
 ---
 

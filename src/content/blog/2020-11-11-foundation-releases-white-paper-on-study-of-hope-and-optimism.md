@@ -17,7 +17,6 @@ haiku: |
   Hope, optimism's glow,  
   Surprising paths light the dark,  
   History teaches.
-
 coordinates: [43.658, -79.3793]
 ---
 

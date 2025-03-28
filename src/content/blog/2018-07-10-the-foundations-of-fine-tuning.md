@@ -19,7 +19,6 @@ haiku: |
   Royal flushes won,  
   Universes finely tuned,  
   Chance or design speaks?
-
 coordinates: [34.0224, -118.2851]
 ---
 

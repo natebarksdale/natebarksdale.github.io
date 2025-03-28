@@ -18,7 +18,6 @@ haiku: |
   Brothers in the fray,  
   Shadows cast on leadership,  
   Politics divides.
-
 coordinates: [51.5074, -0.1278]
 ---
 

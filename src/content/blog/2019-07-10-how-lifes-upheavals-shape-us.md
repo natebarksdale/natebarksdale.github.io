@@ -17,7 +17,6 @@ haiku: |
   Life's sharp turns reshape,
   Words trace changes in our souls—
   New paths emerge clear.
-
 coordinates: [42.2808, -83.743]
 ---
 

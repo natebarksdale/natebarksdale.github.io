@@ -18,7 +18,6 @@ haiku: |
   Ancient cells evolve,  
   Decidual secrets told,  
   Life's fabric unfolds.
-
 coordinates: [41.3163, -72.9223]
 ---
 

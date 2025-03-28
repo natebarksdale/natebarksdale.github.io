@@ -18,7 +18,6 @@ haiku: |
   Evil shadows cast,  
   Deep doubts in divine good weave,  
   Philosophers quest.
-
 coordinates: [42.0723, -84.728]
 ---
 

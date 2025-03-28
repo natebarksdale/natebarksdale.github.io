@@ -18,7 +18,6 @@ haiku: |
   Words that inspire thought,  
   A fresh look for their voices,  
   Stories to be told.
-
 coordinates: [40.7128, -74.006]
 ---
 

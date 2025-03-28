@@ -18,7 +18,6 @@ haiku: |
   Trust, yet verify—  
   Complex faith, not just belief,  
   In God’s nature, deep.
-
 coordinates: [42.3355, -71.1685]
 ---
 

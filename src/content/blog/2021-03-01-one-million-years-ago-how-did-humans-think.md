@@ -18,7 +18,6 @@ haiku: |
   Ancient minds ponder,  
   Stone tools beneath starlit skies,  
   Brains evolve, wisdom rises.
-
 coordinates: [51.509865, -0.118092]
 ---
 

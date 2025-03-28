@@ -17,7 +17,6 @@ haiku: |
   Seized homes, lives in shards,  
   Profit shadows justice's light,  
   Poor voices silenced.
-
 coordinates: [39.9526, -75.1652]
 ---
 

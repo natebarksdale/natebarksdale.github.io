@@ -17,7 +17,6 @@ haiku: |
   Mind's ancient whispers,  
   Clash with cold rational light—  
   Beliefs flicker, change.
-
 coordinates: [51.5074, -0.1278]
 ---
 

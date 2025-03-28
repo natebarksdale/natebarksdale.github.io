@@ -18,7 +18,6 @@ haiku: |
   Latin minds converge,  
   Exploring deep free will paths,  
   Bogotá awakes.
-
 coordinates: [4.711, -74.0721]
 ---
 

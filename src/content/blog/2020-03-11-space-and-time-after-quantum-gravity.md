@@ -20,7 +20,6 @@ haiku: |
   Quantum threads weave space,  
   Beyond time’s firm grasp they float,  
   New cosmos whispers.
-
 coordinates: [41.8708, -87.6505]
 ---
 

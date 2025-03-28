@@ -17,7 +17,6 @@ haiku: |
   Minds trace the divine,  
   Beliefs shape life's vast tapestry,  
   Truth veiled in shadows.
-
 coordinates: [51.509865, -0.118092]
 ---
 

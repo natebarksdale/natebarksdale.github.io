@@ -16,7 +16,6 @@ haiku: |
   Shadow ring aglow,  
   Galactic heart captured whole,  
   Science unveils void.
-
 coordinates: [38.89511, -77.03637]
 ---
 

@@ -18,7 +18,6 @@ haiku: |
   In summer's old page,  
   Cousins' whispered vows echo—  
   Leaves of lineage fall.
-
 coordinates: [52.3555, -1.1743]
 ---
 

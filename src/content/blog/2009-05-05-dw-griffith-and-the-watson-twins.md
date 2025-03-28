@@ -18,7 +18,6 @@ haiku: |
   Silent echoes clash,  
   Griffith's vision revives life,  
   Modern tunes take flight.
-
 coordinates: [34.0522, -118.2437]
 ---
 
