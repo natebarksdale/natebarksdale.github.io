@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "Work with Me"
 ---
 
-I'm currently looking for new clients and partners for one-off or long-term projects. If you think I might be a good match for your team or project, get in touch at [info@natebarksdale.xyz](mailto:info@natebarksdale.xyz)
+I'm currently looking for new clients and partners for one-off or long-term projects spanning writing, editing, fact-checking, and exploring AI tools and use cases. If you think I might be a good match for your team or project, get in touch at [info@natebarksdale.xyz](mailto:info@natebarksdale.xyz)
 
 Hi, I'm Nate. I have a decade-plus experience serving clients in the overlapping realms of writing, editing and graphic design. I love working with clients to find the best expression of their vision, and to deliver results that are both excellent and humane.
 
@@ -17,6 +17,8 @@ Key clients have included major media companies, technology and finance startups
 
 I helped oversee the editorial scope of the History Channel’s [Webby-winning](https://winners.webbyawards.com/2015/apps-dapps-and-software/handheld-devices/travel-handheld-devices/159568/history-here) app telling US history through pins on a map (and personally writing up thousands of fascinating sites along the way).I helped develop and maintain the master list of potential sites to feature, and created a ranking algorithm to help the team figure out which places to tackle first.I also work with [History.com](https://www.history.com/) on various fact-checking and editorial projects ranging from podcasts to social media to the book [_This Day in History for Kids_](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/94885-hearst-home-kids-releases-the-history-channel-s-debut-children-s-book.html) and the newly updated [White House tour signage](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/).
 
+See my posts tagged [history.com](/tags/historycom/)
+
 `writing` `fact-checking` `editing` `script review` `editorial project management`
 
 # Eventide Asset Management
@@ -29,6 +31,8 @@ I worked with [Eventide Asset Management](https://www.eventideinvestments.com/) 
 
 I've profiled people and projects investigating the universe's biggest mysteries for [The John Templeton Foundation's website](https://www.templeton.org/about-our-authors).I've loved the challenge of diving deep with experts on topics ranging from Big Bang cosmology to human evolution to philosophy and theology, and finding ways to explain just how fascinating it is for the general reader.
 
+See my posts tagged [Templeton](https://natebarksdale.github.io/tags/templeton/)
+
 `features` `interviews` `blog posts` `study of the day`
 
 # Envoy and Homefront
@@ -38,5 +42,7 @@ I worked on design and prototyping for [Envoy](https://www.crunchbase.com/organi
 `app design` `product design` `figma` `InVision` `html/css` `Adobe Suite`
 
 # Other Writing and Editing
+
+From 2008 to 2012, I worked with my longtime mentor and collaborator Andy Crouch on Culture-Making.com, a link blog he launched in conjunction with his book. I was the lead writer for the site, posting links and commentary several times a week about the true, the beautiful, the interesting relating to human cultural output. The old site is on ice, but I've resurrected the bulk of my posts on this site.
 
 During the golden age of budget travel guides, I spent two years editing an [800-page guidebook to India and Nepa](https://archive.org/details/letsgoindianepal0000bark)l. — I spent a similar span editing (along with Andy Crouch) the award-winning magazine _re:generation quarterly_. I've also written for _[Comment](https://comment.org/contributors/nate-barksdale/)_, _[Books & Culture](https://www.booksandculture.com/articles/2013/sepoct/cell-phone-gospel.html)_, Ozy, and — ages ago — the _[Los Angeles Times](https://www.latimes.com/archives/la-xpm-1992-02-27-vw-4397-story.html)_. I was once interviewed on [Irish public radio](https://www.rte.ie/) as an expert on [drive-thru restaurants](https://www.history.com/news/drive-thru-dining-history-in-n-out-burger).
