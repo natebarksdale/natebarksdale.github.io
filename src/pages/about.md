@@ -10,6 +10,7 @@ Hi, I'm Nate. I have a decade-plus experience serving clients in the overlapping
 - Interdisciplinary writer, editor, and fact-checker, skilled at getting your prose or mine to be informative, concise, factual, and on tone.
 - Design problem-solver skilled at making information elegant, organized and accessible.
 - Researching and experimenting with AI tools to understand what they're good for, where they miss the mark, and how those answers are in flux.
+- See more on my [LinkedIn Page](https://www.linkedin.com/in/nate-barksdale-57674a31/)
 
 Key clients have included major media companies, technology and finance startups, and philanthropic foundations. I have an A.B. from Harvard in the [History of Science](https://histsci.fas.harvard.edu/) (with coursework in physics, computer science and design), and have long been interested in making connections between different disciplines — bridging visuals and text, art and commerce, reason and wonder.
 
