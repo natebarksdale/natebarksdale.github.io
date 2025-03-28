@@ -6,7 +6,7 @@ title: Doves Type
 slug: doves-type
 featured: True
 draft: False
-description: In 1909 T.J. Cobden-Sanderson laboriously destroyed the renowned typeface he had helped create for the Doves Press, lest it ever be used in machanized reproduction. The destruction didn't take, though, and these words are set in Doves Type. Here's why I chose it (with fear and trembling) for my own dredged-up, AI-reinvigorated online project.
+description: In 1909 T.J. Cobden-Sanderson laboriously destroyed the renowned typeface he had helped create for the Doves Press, lest it ever be used in mechanized reproduction. The destruction didn't take, though, and these words are set in Doves Type. Here's why I chose it (with fear and trembling) for my own dredged-up, AI-reinvigorated online project.
 emoji: 🌉
 tags:
   - 💡 Design
@@ -24,10 +24,10 @@ haiku: |
 coordinates: [51.4905, -0.2332]
 ---
 
-## A Colophin of Sorts
+## A Colophon of Sorts
 
-The Hammersmith Bridge crosses the Thames in West London, linking the boroughs of Hammersmith and Fulham and Richmond-upon-Thames. The original span, completed in 1827, was the first suspension bridge over the Thames, was damaged by a boat and replaced in the 1870s with a similar span, which has persisted to the present day as a Grade II-listed structure very much unsuited to the needs of modern vehicular traffic. Often closed for various repairs and strengthenings, it bounces noticably as buses pass over, and during the July 2022 heat wave its chains had to be wrapped in foil and cooled with special air-conditioning to keep them from cracking.
-The bridge was bouncing less, I presume, at the end of 1916, when the printer T.J. Cobden-Sanderson made the first of roughly seventy short walks, from the nearby offices of the Doves Press to the center Hammersmith Bridge, over whose railing he dropped the metal type used to print his press's renowned editions. Typeographer and typeface historian Robert Green writes in his [History of the Doves Type](https://typespec.co.uk/doves-type-history/),
+The Hammersmith Bridge crosses the Thames in West London, linking the boroughs of Hammersmith and Fulham and Richmond-upon-Thames. The original span, completed in 1827, was the first suspension bridge over the Thames, was damaged by a boat and replaced in the 1870s with a similar span, which has persisted to the present day as a Grade II-listed structure very much unsuited to the needs of modern vehicular traffic. Often closed for various repairs and strengthenings, it bounces noticeably as buses pass over, and during the July 2022 heat wave its chains had to be wrapped in foil and cooled with special air-conditioning to keep them from cracking.
+The bridge was bouncing less, I presume, at the end of 1916, when the printer T.J. Cobden-Sanderson made the first of roughly seventy short walks, from the nearby offices of the Doves Press to the center Hammersmith Bridge, over whose railing he dropped the metal type used to print his press's renowned editions. Typographer and typeface historian Robert Green writes in his [History of the Doves Type](https://typespec.co.uk/doves-type-history/),
 
 During its short life early last century, the Doves Press printed and bound some of the finest books ever produced in England and its approach to typography and printing subsequently exerted a major influence over book design in Europe and the United States. Many of Cobden-Sanderson’s ideas would, decades later, find expression or adaptation in both Traditionalist and Modernist circles respectively.
 
@@ -39,17 +39,17 @@ The Doves Press was known for its singular typeface, which was commissioned by C
 
 Drawings were created by Percy Tiffen, photo-reduced by Walker's technicians, and handed to punch-cutter Edward Prince, who carved the letterforms onto steel bars (punches) used to strike matrices (molds) that were then filled with molten lead to cast the individual letters of type used for the printing. The Doves Type was a font in the old sense — not a typeface family containing multiple fonts sizes, weights and styles. One size only — equivalent to 16 point — no italics or small caps. Cobden-Sandersen set it _tight_ too, with 17.25 point leading.
 
-During its short lifespan, the Doves Press produced the Bible, works by Milton and Shakespeare, as well as a catalog of its own works, all set in Doves Type. Although Walker had ceised most involvement with the press a few years after its establishment, he still co-controlled the rights to the use of the font that they had commissioned. This worried Cobden-Sanderson, who feared that his beloved typeface would ever be subject to commercial, mechanized typesetting.
+During its short lifespan, the Doves Press produced the Bible, works by Milton and Shakespeare, as well as a catalog of its own works, all set in Doves Type. Although Walker had ceased most involvement with the press a few years after its establishment, he still co-controlled the rights to the use of the font that they had commissioned. This worried Cobden-Sanderson, who feared that his beloved typeface would ever be subject to commercial, mechanized typesetting.
 
-On February th, 1909, Cobden-Sanderson [wrote in his journal](https://archive.org/details/b30009352_0002/page/138/mode/2up?q=type):
+On February 9th, 1909, Cobden-Sanderson [wrote in his journal](https://archive.org/details/b30009352_0002/page/138/mode/2up?q=type):
 
-It is my wish that the Doves Press type shall never be subjected to the use of a machine other than the human hand, in composition, or to a press pulled otherwise than by the hand and arm of man or woman; and this I will see to in my Will, though, if I forget, I desire taht this which I have written shall operate in its place.
+> It is my wish that the Doves Press type shall never be subjected to the use of a machine other than the human hand, in composition, or to a press pulled otherwise than by the hand and arm of man or woman; and this I will see to in my Will, though, if I forget, I desire taht this which I have written shall operate in its place.
 
 On June 11th, 1911, he wrote in his journal an astonishing expansion of that sentiment, beginning "My Last Will and Testament. _To the Bed of the River Thames, the river on whose banks I have printed all my printed books ..._". This Testament would be repeated, set in Doves Type, in the Doves Press's final catalog of published works, with one important alteration: instead of being in Cobden-Sanderson's voice, it was in the voice of the Doves Press itself:
 
 ![](@assets/images/doves-bequeathed.jpg)
 
-And then he did it. On Good Friday, 1913, Cobden-Sanderson took up his pen for a progrerss update.
+And then he did it. On Good Friday, 1913, Cobden-Sanderson took up his pen for a progress update.
 
 > Yes; yesterday, and the day before, and Tuesday I stood on the bridge at Hammersmith and, looking towards the Press and the sun setting, threw into the Thames below me the matrices from which had been cast the Doves Press Fount of Type, itself to be cast by me, I hope, into the same great river, from the sme place, on the final closure of the Press, in ——?
 
