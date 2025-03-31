@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-11
-modDatetime: 2009-02-11
+modDatetime: 2025-03-31T16:30:22Z
 title: Largely a matter of distance
 slug: largely-a-matter-of-distance
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the dark journeys we undertake, as illustrated through history and myth.
 emoji: 🌌
 tags:
+  - 🌍 Culture-Making.com
   - 🌅 Reflection
   - 🌌 Dystopias
   - 🌍 Consciousness

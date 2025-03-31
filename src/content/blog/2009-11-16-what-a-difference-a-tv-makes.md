@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-16
-modDatetime: 2025-03-17T21:38:59Z
+modDatetime: 2025-03-31T16:30:30Z
 title: What a difference a TV makes
 slug: what-a-difference-a-tv-makes
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Television's impact on women's roles and fertility is profound, as shown in studies from India and Brazil.
 emoji: 📺
 tags:
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Society
   - 📺 Television

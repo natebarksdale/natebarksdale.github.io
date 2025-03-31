@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-17
-modDatetime: 2025-03-17T21:39:10Z
+modDatetime: 2025-03-31T16:30:36Z
 title: Even if the hymns are impossible to sing
 slug: even-if-the-hymns-are-impossible-to-sing
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of David Foster Wallace's complex relationship with faith and skepticism, revealing his struggles with church and belief.
 emoji: 🙏
 tags:
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
   - ✝️ Christianity
   - 🌀 Complexity
   - 🌍 Identity

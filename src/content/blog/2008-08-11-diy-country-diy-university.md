@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-11
-modDatetime: 2025-03-17T21:38:19Z
+modDatetime: 2025-03-31T16:30:08Z
 title: DIY country, DIY university
 slug: diy-country-diy-university
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An insightful look at Somaliland, a breakaway republic that thrives amidst challenges, highlighting its democratic aspirations and return of former refugees.
 emoji: 🎓
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Development
 haiku: |
   From strife, hope blooms bright,  
@@ -22,11 +24,8 @@ Another example of "if it isn't a colored nation-box on the world map, it doesn'
 > Slightly larger than England and Wales, Somaliland has enjoyed relative peace and prosperity and has held democratic elections, with a presidential vote scheduled for next year
 >
 > In a move to lure refugees home, the administration has introduced tax waivers on new investments to fuel more growth
->
 > Despite its poverty, Somaliland and the region offer investment opportunities for those brave enough to return
->
 > Half of Somaliland's cabinet and lawmakers are former refugees who came back mainly from Europe and America. Former refugees have also become small-factory owners or created businesses, for example, in telecommunications
->
 > Ibrahim has even bigger dreams: he wants to fashion future leaders. "We don't have leaders in our country but we have managers. Our aim is to produce visionary leaders in future who can bring back hope and amalgamate our people. There is a huge appetite for such leadership and we hope to be the source," he said
 
 ---

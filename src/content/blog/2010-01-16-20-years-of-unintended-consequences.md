@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2025-03-20T14:57:35Z
+modDatetime: 2025-03-31T16:30:32Z
 title: Twenty years of unintended consequences
 slug: twenty-years-of-unintended-consequences
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A humorous exchange highlighting the unexpected impact of Homer Simpson's actions on culture.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - 🎭 Comedy

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-26
-modDatetime: 2025-03-17T21:38:43Z
+modDatetime: 2025-03-31T16:30:21Z
 title: Fascinating virtues
 slug: fascinating-virtues
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: As a fan of Whit Stillman's films, I appreciate how they explore convention and virtue with a unique perspective.
 emoji: 🎬
 tags:
+  - 📖 Bible
+  - 🌍 Culture-Making.com
   - 🌍 Society
 haiku: |
   Virtue and drama,  

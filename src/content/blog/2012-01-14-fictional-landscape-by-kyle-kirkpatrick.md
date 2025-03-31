@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-17T21:39:15Z
+modDatetime: 2025-03-31T16:30:38Z
 title: fictional landscape, by Kyle Kirkpatrick
 slug: fictional-landscape-by-kyle-kirkpatrick
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Pondering the allure of book-carving that resembles a miniature landscape model.
 emoji: 🏞️
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 📖 Books
   - 🌍 Culture

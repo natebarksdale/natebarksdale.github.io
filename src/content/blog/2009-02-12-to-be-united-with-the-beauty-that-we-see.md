@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-12
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-31T16:30:22Z
 title: To be united with the beauty that we see
 slug: to-be-united-with-the-beauty-that-we-see
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In reflecting on the essence of beauty and our connection to it, C. S. Lewis beautifully articulates a profound longing within the human spirit.
 emoji: 🌌
 tags:
+  - 🌍 Culture-Making.com
   - ✨ Beauty
   - ✝️ Christianity
   - ❤️ Love

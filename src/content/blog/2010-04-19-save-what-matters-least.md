@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-19
-modDatetime: 2025-03-17T21:39:07Z
+modDatetime: 2025-03-31T16:30:34Z
 title: Save what matters least
 slug: save-what-matters-least
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the value of what we choose to preserve, Kevin Kelly explores the significance of collecting the overlooked artifacts of our time.
 emoji: 🗝️
 tags:
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - 📚 Preservation
   - ⏰ Time

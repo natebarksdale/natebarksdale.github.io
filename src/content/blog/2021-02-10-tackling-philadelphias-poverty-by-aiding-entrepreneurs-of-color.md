@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2021-02-10
-modDatetime: 2025-03-17T21:39:21Z
+modDatetime: 2025-03-31T16:30:43Z
 title: Tackling Philadelphia’s Poverty by Aiding Entrepreneurs of Color
 slug: tackling-philadelphias-poverty-by-aiding-entrepreneurs-of-color
 featured: false
@@ -25,5 +25,7 @@ For the John Templeton Foundation, I wrote about an initiative aiming to empower
 > Dozens of new minority-owned businesses in Philadelphia will launch with a targeted boost of strategy and capital over the next 18 months under the Entrepreneurs of Color project, a new initiative by the [United Way of Greater Philadelphia and Southern New Jersey](https://www.unitedforimpact.org) (UWGPSNJ) with $234,000 in funding from the John Templeton Foundation. The grant supports research into best practices that will inform the development of pilot programs. The pilot programs are meant to empower two cohorts of entrepreneurs, connecting them with capital, enlarging their professional networks, and providing education, tools and support as they establish and grow their businesses.
 >
 > Philadelphia holds the distinction of being America’s [poorest big city](http://www.philly.com/philly/news/philadelphia-census-deep-poverty-poorest-big-city-income-survey-20170914.html), with more than 25 percent of its residents living below the poverty line. Poverty disproportionately affects the city’s communities of color: over half of the city’s black residents, and 38 percent of the city’s Hispanic residents currently live in poverty. And while 60 percent of Philadelphians are people of color, only 15 percent of the city’s small business are owned by people of color.
+
+---
 
 [Read more at templeton.org](https://www.templeton.org/news/tackling-philadelphias-poverty-by-aiding-entrepreneurs-of-color)

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-31
-modDatetime: 2025-03-17T21:38:48Z
+modDatetime: 2025-03-31T16:30:23Z
 title: My Astronomical Romance
 slug: my-astronomical-romance
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A fascinating exploration of how the aesthetics of Hubble Space Telescope images reflect cultural choices, blending art and science to inspire a sense of wonder about the cosmos.
 emoji: 🎨
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌌 Astronomy
   - 🎨 Aesthetics
   - ⚖️ Choices

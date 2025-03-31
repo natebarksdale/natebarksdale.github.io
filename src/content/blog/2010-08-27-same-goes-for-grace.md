@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-27
-modDatetime: 2025-03-17T21:39:12Z
+modDatetime: 2025-03-31T16:30:37Z
 title: Same goes for grace?
 slug: same-goes-for-grace
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An insightful look at the nature of discovery and the importance of intention in our explorations.
 emoji: 🔍
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Exploration
   - 🔍 Discoveries
   - 📝 Writing

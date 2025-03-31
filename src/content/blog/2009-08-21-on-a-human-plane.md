@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-21
-modDatetime: 2025-03-17T21:38:56Z
+modDatetime: 2025-03-31T16:30:28Z
 title: On a human plane
 slug: on-a-human-plane
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A Spanish novelist explores our relationship with airplanes, urging us to view them more personally, akin to how we interact with living beings or ships.
 emoji: 🛩️
 tags:
+  - 🌍 Culture-Making.com
   - ✈️ Aviation
   - 🌍 Culture
   - 🔍 Discoveries

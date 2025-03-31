@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-17T21:38:41Z
+modDatetime: 2025-03-31T16:30:19Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: I love this sort of list-making
 emoji: ✨
 tags:
+  - ✨ Wonder
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
 haiku: |

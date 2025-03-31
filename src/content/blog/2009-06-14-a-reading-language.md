@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-14
-modDatetime: 2009-06-14
+modDatetime: 2025-03-31T16:30:26Z
 title: A reading language
 slug: a-reading-language
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Kerala's near-100% literacy has fostered a rich culture of literature and reading, creating a vibrant community of writers and readers.
 emoji: 📚
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📖 Books
   - 🌱 Growth

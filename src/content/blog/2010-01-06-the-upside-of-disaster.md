@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-06
-modDatetime: 2010-01-06
+modDatetime: 2025-03-31T16:30:32Z
 title: The upside of disaster
 slug: the-upside-of-disaster
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: Solnit explores the surprising joy that emerges from the rubble of disasters, revealing deep desires for community and connection.
 emoji: 🌈
 tags:
+  - ➗ Mathematics
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - ❤️ Resilience
   - ⚠️ Danger

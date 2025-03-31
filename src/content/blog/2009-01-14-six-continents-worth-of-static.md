@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-14
-modDatetime: 2009-01-14
+modDatetime: 2025-03-31T16:30:20Z
 title: Six continents’ worth of static
 slug: six-continents-worth-of-static
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: An exploration of the chaotic and diverse world of satellite TV in Jordan.
 emoji: 📺
 tags:
+  - 🌙 Islam
+  - 🗣️ Language
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Globalization
   - 🌍 Identity

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-17T21:38:29Z
+modDatetime: 2025-03-31T16:30:12Z
 title: Naming and being
 slug: naming-and-being
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In exploring the awakening of awareness, this poignant quote from Walker Percy captures the essence of discovery
 emoji: 🌍
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Identity
   - 📝 Writing
 haiku: |

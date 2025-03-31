@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2025-03-17T21:38:17Z
+modDatetime: 2025-03-31T16:30:07Z
 title: Art is not defiled by our efforts
 slug: art-is-not-defiled-by-our-efforts
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A profound reflection by Aleksandr Solzhenitsyn.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
   - 🗣️ Language

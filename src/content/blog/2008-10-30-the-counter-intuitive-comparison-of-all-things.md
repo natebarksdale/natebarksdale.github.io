@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-17T21:38:32Z
+modDatetime: 2025-03-31T16:30:14Z
 title: The counter-intuitive comparison of all things
 slug: the-counter-intuitive-comparison-of-all-things
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the concept of cultural appreciation through quirky comparisons in art and everyday joys.
 emoji: 🎨
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Exploration
   - 📝 Writing
@@ -23,10 +25,7 @@ The video, for all its self-knowingly unironic earnestness (parse that!) is a li
 
 a [kottke.org](http://www.kottke.org/08/10/the-counterintuitive-comparison-of-all-things) post, 29 October 2008
 
----
-
 > The goal of the creators of The Big Chart, The Counter-Intuitive Comparison Institute of North America (CICINA), is to find the single best thing in the world through an NCAA basketball tournament-style bracketing system. [This video explains their plans](http://web.archive.org/web/20090505080403/http://homepage.mac.com:80/clintwynn/thebigchart/thebigchart.html)
 >
 > "Is the Bilbao Guggenheim better than McDonald's french fries?Are penguins better than Miracle Grow? Can anything beat heated seats on a cold November day?
->
 > (via [design observer](http://web.archive.org/web/20250209112527/https://designobserver.com/))

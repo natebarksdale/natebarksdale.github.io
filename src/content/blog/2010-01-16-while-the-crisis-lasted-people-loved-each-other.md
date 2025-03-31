@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-16
-modDatetime: 2010-01-16
+modDatetime: 2025-03-31T16:30:32Z
 title: While the crisis lasted, people loved each other
 slug: while-the-crisis-lasted-people-loved-each-other
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the resilience of humanity during hardship in the wake of the 1906 San Francisco earthquake.
 emoji: 🤝
 tags:
+  - 🌍 Culture-Making.com
   - ❤️ Kindness
   - ❤️ Charity
   - ❤️ Love

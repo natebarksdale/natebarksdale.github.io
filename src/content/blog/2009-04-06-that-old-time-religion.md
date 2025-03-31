@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-06
-modDatetime: 2025-03-17T21:38:48Z
+modDatetime: 2025-03-31T16:30:24Z
 title: That Old-Time Religion
 slug: that-old-time-religion
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Rev. Al Sharpton reflects on the distinctive style of Joshua Nelson and his Kosher Gospel Band, evoking the essence of Mahalia Jackson's music.
 emoji: 🎶
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✝️ Christianity
   - ✝️ Scriptures
   - 🌍 Culture

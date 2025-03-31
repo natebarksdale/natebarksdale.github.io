@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-28
-modDatetime: 2010-01-28
+modDatetime: 2025-03-31T16:30:32Z
 title: Plundering tradition for helpful tips
 slug: plundering-tradition-for-helpful-tips
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on how the pursuit of happiness may overshadow the deeper wisdom of ancient traditions.
 emoji: 🍂
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - 🌍 Culture
   - 🙏 Mindfulness

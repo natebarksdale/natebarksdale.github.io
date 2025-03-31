@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-14
-modDatetime: 2025-03-17T21:39:15Z
+modDatetime: 2025-03-31T16:30:38Z
 title: The right to a horse
 slug: the-right-to-a-horse
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A thought-provoking perspective from Vint Cerf on the distinction between technology and human rights.
 emoji: 🐴
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ⚖️ Choices
   - ⚙️ Technology

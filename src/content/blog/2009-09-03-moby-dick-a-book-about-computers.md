@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-03
-modDatetime: 2009-09-03
+modDatetime: 2025-03-31T16:30:28Z
 title: Moby Dick, a book about computers
 slug: moby-dick-a-book-about-computers
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Exploring the whimsical errors in Google Books' categorizations reveals unexpected connections in literature.
 emoji: 📚
 tags:
+  - 🗣️ Language
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - ⚙️ Technology
   - 📖 Books

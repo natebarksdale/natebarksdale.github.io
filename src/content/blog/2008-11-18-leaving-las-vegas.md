@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-18
-modDatetime: 2008-11-18
+modDatetime: 2025-03-31T16:30:15Z
 title: Leaving Las Vegas
 slug: leaving-las-vegas
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the complex factors contributing to suicide risk in Las Vegas.
 emoji: 💔
 tags:
+  - 🌍 Culture-Making.com
   - 🧠 Psychology
   - 🌍 Society
   - 🇺🇸 United States

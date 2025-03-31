@@ -9,6 +9,7 @@ draft: False
 description: I shared my experience redesigning the HRCF Alumni website to support Harvard campus fellowships.
 emoji: 🎨
 tags:
+  - 📁 Portfolio
   - 🌐 Blogging
   - 🖊️ Editing
   - 📖 Articles
@@ -17,7 +18,6 @@ haiku: |
   A website reborn,  
   Alumni’s shared faith and goals,  
   Harvard’s light shines bright.
-
 coordinates: [42.377, -71.1167]
 ---
 

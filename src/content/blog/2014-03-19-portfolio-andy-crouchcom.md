@@ -9,6 +9,7 @@ draft: False
 description: A visual journey into the work of a nationally-known author, speaker, and editor, focusing on their impactful contributions.
 emoji: 📚
 tags:
+  - 📁 Portfolio
   - 🌐 Blogging
   - 🌐 Digital
   - 📖 Articles
@@ -17,7 +18,6 @@ haiku: |
   Words that inspire thought,  
   A fresh look for their voices,  
   Stories to be told.
-
 coordinates: [40.7128, -74.006]
 ---
 

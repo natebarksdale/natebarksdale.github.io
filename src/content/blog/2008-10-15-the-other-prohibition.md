@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-15
-modDatetime: 2008-10-15
+modDatetime: 2025-03-31T16:30:13Z
 title: The other Prohibition
 slug: the-other-prohibition
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration of the history and complexities of tipping practices in America.
 emoji: 💵
 tags:
+  - 🌍 Culture-Making.com
   - 💰 Commerce
   - ⚖️ Law
   - ⚖️ Ethics

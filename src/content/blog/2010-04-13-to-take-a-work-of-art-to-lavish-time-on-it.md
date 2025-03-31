@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-13
-modDatetime: 2025-03-17T21:39:07Z
+modDatetime: 2025-03-31T16:30:34Z
 title: To take a work of art & to lavish time on it
 slug: to-take-a-work-of-art-to-lavish-time-on-it
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the art of slow viewing and reading in our media-saturated world.
 emoji: 🎥
 tags:
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - 🌍 Culture
   - ❤️ Kindness

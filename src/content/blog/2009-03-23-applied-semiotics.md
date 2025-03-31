@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2009-03-23
+modDatetime: 2025-03-31T16:30:23Z
 title: Applied semiotics
 slug: applied-semiotics
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: This amusing reflection on "American-style Easter" highlights the quirky blend of commercialism and tradition.
 emoji: 🐣
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ✝️ Christianity
   - 🌍 Culture
   - ❤️ Kindness

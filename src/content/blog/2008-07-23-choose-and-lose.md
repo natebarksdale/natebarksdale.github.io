@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-23
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: Choose and lose
 slug: choose-and-lose
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the taxing nature of making decisions and the creative process behind commitment.
 emoji: 🧠
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚖️ Ethics
   - 🌀 Complexity

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2006-09-01
-modDatetime: 2025-03-17T21:38:11Z
+modDatetime: 2025-03-31T16:30:04Z
 title: Mix CD | The Bridegroom Special
 slug: mix-cd-the-bridegroom-special
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: Celebrating love with a joyous mix of multicultural tunes for a wedding celebration.
 emoji: 💍
 tags:
+  - 💿 Mix CDs
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 🍷 Europe
+  - 🇫🇷 France
   - 🎵 Music
   - ❤️ Love
   - 🎉 Celebration

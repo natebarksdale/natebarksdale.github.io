@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-09
-modDatetime: 2025-03-17T21:39:05Z
+modDatetime: 2025-03-31T16:30:33Z
 title: So bad it’s good
 slug: so-bad-its-good
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the unexpected joy found in bad movies, this piece highlights how audiences can connect with flawed filmmaking through shared experiences and creativity.
 emoji: 🎬
 tags:
+  - 🌍 Culture-Making.com
   - 🎭 Entertainment
   - 🌍 Society
   - 🎥 Film

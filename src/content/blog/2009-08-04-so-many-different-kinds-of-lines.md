@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-04
-modDatetime: 2009-08-04
+modDatetime: 2025-03-31T16:30:27Z
 title: So many different kinds of lines
 slug: so-many-different-kinds-of-lines
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: This exhibition beautifully showcases the informal yet profound artistic expressions of the Middle Ages.
 emoji: 🎨
 tags:
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 📝 Writing
   - 🌍 Culture

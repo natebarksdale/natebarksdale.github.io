@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-26
-modDatetime: 2025-03-17T21:38:21Z
+modDatetime: 2025-03-31T16:30:09Z
 title: Surfing Proust - Is nonfiction just easier to read?
 slug: surfing-proust-is-nonfiction-just-easier-to-read
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Caroline Langston reflects on the nature of reading in the digital age and shares her insights on the changing landscape of how we engage with literature.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - 📖 Articles
   - 📖 Books
   - 🌍 Culture

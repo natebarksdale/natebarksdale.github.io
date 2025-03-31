@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-17
-modDatetime: 2025-03-17T21:38:52Z
+modDatetime: 2025-03-31T16:30:26Z
 title: Fashion fasts and feasts
 slug: fashion-fasts-and-feasts
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the concept of sustainable fashion through creativity and an enduring uniform, Sheena Matheiken's Uniform Project champions both style and social impact.
 emoji: 👗
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌱 Sustainability
   - ❤️ Kindness
   - 🌍 Culture

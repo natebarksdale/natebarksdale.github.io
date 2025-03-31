@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-30
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-31T16:30:17Z
 title: Now That’s What I Call Not Music 1!
 slug: now-thats-what-i-call-not-music-1
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A vivid account of the tumultuous reaction to the first public performance of the noise orchestra in Milan in 1914.
 emoji: 🎶
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 🎭 Entertainment
   - 📖 Articles

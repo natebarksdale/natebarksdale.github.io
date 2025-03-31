@@ -9,6 +9,7 @@ draft: False
 description: In an exciting update to the History HERE app, I've contributed to the launch of version 3.0, which includes seven new historical tours.
 emoji: 🗺️
 tags:
+  - 📁 Portfolio
   - 🌍 History
   - 🌆 Cities
   - 🌐 Blogging
@@ -17,7 +18,6 @@ haiku: |
   Explore the past  
   With tours that guide the way  
   History unveiled
-
 coordinates: [37.7749, -122.4194]
 ---
 

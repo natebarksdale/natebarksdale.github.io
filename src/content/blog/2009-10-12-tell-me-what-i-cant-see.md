@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-12
-modDatetime: 2025-03-17T21:38:58Z
+modDatetime: 2025-03-31T16:30:29Z
 title: Tell me what I can’t see
 slug: tell-me-what-i-cant-see
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A father reflects on how radio enhances his son's understanding of NFL games compared to television.
 emoji: 📻
 tags:
+  - 🌍 Culture-Making.com
   - 📺 Television
   - 🏈 Football
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2008-09-25
+modDatetime: 2025-03-31T16:30:11Z
 title: Mental states
 slug: mental-states
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: This article delves into the intriguing link between regional personality traits and various societal outcomes in the United States.
 emoji: 🗺️
 tags:
+  - ➗ Mathematics
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🧠 Psychology
   - ⚖️ Choices

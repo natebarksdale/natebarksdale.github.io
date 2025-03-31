@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-17
-modDatetime: 2010-02-17
+modDatetime: 2025-03-31T16:30:33Z
 title: Marginalia
 slug: marginalia
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on Wendell Berry's thoughts about the importance of margins and wildness in our lives.
 emoji: 🌿
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌍 Ecology
   - 🌍 Environment
   - 🌱 Sustainability

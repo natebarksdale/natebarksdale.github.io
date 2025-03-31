@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-05
-modDatetime: 2025-03-17T21:39:05Z
+modDatetime: 2025-03-31T16:30:33Z
 title: You can’t give this stuff away
 slug: you-cant-give-this-stuff-away
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the challenges of altruism and trust in giving, as illustrated by two attempts to distribute money.
 emoji: 🎁
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ❤️ Charity
   - ❤️ Kindness
   - 🏆 Success

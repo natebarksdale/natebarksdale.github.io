@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-16
-modDatetime: 2025-03-17T21:38:52Z
+modDatetime: 2025-03-31T16:30:26Z
 title: Making makes you care
 slug: making-makes-you-care
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Louis Menand reflects on the value of creating over merely consuming in the context of university creative writing programs.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - ✨ Beauty
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-31
-modDatetime: 2025-03-17T21:38:23Z
+modDatetime: 2025-03-31T16:30:10Z
 title: A pleasant nonplace
 slug: a-pleasant-nonplace
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration of finding peace in an unremarkable life amidst turbulent times.
 emoji: 🌲
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🇨🇳 China
   - 🌅 Reflection

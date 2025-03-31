@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-09
-modDatetime: 2009-06-09
+modDatetime: 2025-03-31T16:30:26Z
 title: Neither shall there be any more pain
 slug: neither-shall-there-be-any-more-pain
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: One of my favorite lunchtime outings in Boston was a walk to the corner of the Public Garden, where the Ether Monument stands, commemorating a pivotal moment in the history of medicine.
 emoji: 🏥
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - ⚖️ Ethics
   - ⚖️ Law

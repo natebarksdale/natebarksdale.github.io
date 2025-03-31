@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-09
-modDatetime: 2025-03-17T21:38:42Z
+modDatetime: 2025-03-31T16:30:20Z
 title: When libraries shine
 slug: when-libraries-shine
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: The impact of the recession highlights the essential role of libraries as community hubs for learning and support.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - 📖 Articles
 haiku: |
   In tough times they shine,  
@@ -22,7 +23,6 @@ One of the community benefits of the recession—provided there's funding for th
 > The Boston Public Library is no different. New library cards are up 32.7 percent from July to November of 2008, compared with the same period in 2007. Visits are up 13 percent, from 1.4 million visits to 1.6 million. Checkouts of books, CDs, and DVDs are up 7.2 percent overall over the last fiscal year. More telling is that checkouts have soared between 27 percent and 37 percent at the Egleston Square, Fields Corner, Jamaica Plain, and Orient Heights branches
 >
 > New BPL president Amy Ryan said a baby story program at the Copley library has grown from fluctuating between 60 and 80 families to well over 100. Monthly visits to a free Internet homework tutoring service have doubled from 300 to 600. She said anecdotal reports indicate a spike in people using branch libraries to research new careers or returning to school. This is despite the BPL probably facing cuts, too
->
 > "Libraries are unfortunately used to this," Ryan said. "But the essential role of the library cannot be duplicated in anybody's home, when you consider the combination of manuals, books, and librarian expertise," Ryan said. "In down economic times, families aren't going out to spend a lot of money on books and movies. This is when the branches can shine as a community gathering place and at a time when people are seeking answers to life improvement
 
 ---

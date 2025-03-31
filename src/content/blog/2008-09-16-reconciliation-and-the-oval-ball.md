@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-16
-modDatetime: 2025-03-17T21:38:25Z
+modDatetime: 2025-03-31T16:30:10Z
 title: Reconciliation and the oval ball
 slug: reconciliation-and-the-oval-ball
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A reflection on Nelson Mandela's clever adaptation to the challenges of prison life through his unexpected engagement with rugby.
 emoji: 🤝
 tags:
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ❤️ Forgiveness
   - ❤️ Kindness
   - 🌍 Society

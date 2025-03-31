@@ -9,6 +9,9 @@ draft: False
 description: A heartfelt gift for a passionate birdwatcher, this 60th birthday compilation includes 60 songs celebrating various bird species and offers a unique auditory experience of the avian world.
 emoji: 🐦
 tags:
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🗣️ Language
   - 🌍 Ecology
   - 🎶 Activities
   - 🎵 Music
@@ -16,7 +19,6 @@ haiku: |
   Melodies of flight,  
   Nature's voices resonate,  
   Gift of wings and sound.
-
 coordinates: [37.7749, -119.4194]
 ---
 

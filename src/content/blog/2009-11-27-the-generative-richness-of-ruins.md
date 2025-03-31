@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-27
-modDatetime: 2009-11-27
+modDatetime: 2025-03-31T16:30:30Z
 title: The generative richness of ruins
 slug: the-generative-richness-of-ruins
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the intertwined nature of creation and destruction, Rebecca Solnit reflects on the cyclical history of San Francisco’s transformations.
 emoji: 🏚️
 tags:
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - ⚠️ Danger
   - 🏛️ Architecture

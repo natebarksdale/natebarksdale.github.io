@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-01
-modDatetime: 2025-03-17T21:38:23Z
+modDatetime: 2025-03-31T16:30:10Z
 title: If it seems wordish, use it
 slug: if-it-seems-wordish-use-it
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: The creativity of language invites us to embrace innovative word usage without apology.
 emoji: 🌈
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🗣️ Language
   - 🌍 Culture
@@ -24,7 +26,6 @@ Oddly, I've never been too enthused by the "there oughta be a word for X" genre 
 > Part of the joy and pleasure of English is its boundless creativity: I can describe a new machine as bicyclish, I can say that I’m vitamining myself to stave off a cold, I can complain that someone is the smilingest person I’ve ever seen, and I can decide, out of the blue, that fetch is now the word I want to use to mean “cool.” By the same token, readers and listeners can decide to adopt or ignore any of these uses or forms
 >
 > So, please, leave off the “not a real word” apologia. A far better (and dare I say, funner) technique is to jump in with both feet and use whatever word strikes your fancy. Instead of being defensive, demand that any who dare to quibble over your use prove that your word is, in fact, not a word
->
 > In short, if it seems wordish, use it. No apologies necessary
 
 ---

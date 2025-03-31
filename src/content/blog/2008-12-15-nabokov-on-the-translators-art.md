@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-15
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Nabokov on the translator’s art
 slug: nabokov-on-the-translators-art
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An exploration of the complexities of translation through Nabokov's vivid metaphor.
 emoji: 🌳
 tags:
+  - ✨ Wonder
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Translation
   - 🌍 Culture
   - 🌀 Complexity

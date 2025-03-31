@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-17T21:38:18Z
+modDatetime: 2025-03-31T16:30:07Z
 title: The Gulag Archipelago’s first readers
 slug: the-gulag-archipelagos-first-readers
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: The tangible experience of reading _Gulag Archipelago_ resonates deeply in the memories of its first readers.
 emoji: 📖
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📖 Books
   - 🌍 History

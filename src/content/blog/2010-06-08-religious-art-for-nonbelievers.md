@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-08
-modDatetime: 2025-03-17T21:39:10Z
+modDatetime: 2025-03-31T16:30:36Z
 title: Religious art for nonbelievers
 slug: religious-art-for-nonbelievers
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: In exploring the significance of religious imagery in art for nonbelievers, Aaron Rosen delves into how these symbols reveal deeper truths about existence.
 emoji: 🎨
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ✨ Beauty
   - 🌀 Complexity

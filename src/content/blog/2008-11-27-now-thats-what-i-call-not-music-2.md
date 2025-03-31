@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-31T16:30:16Z
 title: Now That’s What I Call Not Music 2!
 slug: now-thats-what-i-call-not-music-2
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of audience reactions to Edgard Varèse's "Hyperprism" and the dichotomy between concept and substance in modern sound compositions.
 emoji: 🎶
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 🎭 Entertainment
   - 🎶 Activities
   - 📖 Discussions

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-17T21:39:00Z
+modDatetime: 2025-03-31T16:30:30Z
 title: Wait till evening
 slug: wait-till-evening
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A contemplative reflection by Henry David Thoreau on understanding our actions and their outcomes.
 emoji: 🌾
 tags:
+  - 🌍 Culture-Making.com
   - 🌅 Reflection
   - 📖 Quotes
   - 🌍 Society

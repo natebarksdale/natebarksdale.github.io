@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-15
-modDatetime: 2025-03-17T21:39:02Z
+modDatetime: 2025-03-31T16:30:32Z
 title: Mental illness and missing stories
 slug: mental-illness-and-missing-stories
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An insightful exploration of how Western ideas of mental illness are shaped by culture and may lack the complexity of their scientific underpinnings.
 emoji: 🧠
 tags:
+  - 🧪 Chemistry
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - 🌍 Culture
   - 🌀 Complexity

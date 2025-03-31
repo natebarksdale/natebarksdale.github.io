@@ -9,6 +9,11 @@ draft: False
 description: An exploration of the connections between Africa and New York through music, including a unique take on Babatunde Olatunji's "Akiwowo."
 emoji: 🎶
 tags:
+  - 💿 Mix CDs
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇫🇷 France
   - 🌍 Culture
   - 🇺🇸 United States
   - 🎶 Activities
@@ -16,7 +21,6 @@ haiku: |
   Beats from far away,  
   City lights and echoes blend,  
   Cultures intertwine.
-
 coordinates: [40.7128, -74.006]
 ---
 

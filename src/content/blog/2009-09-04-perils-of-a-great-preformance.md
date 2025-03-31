@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-04
-modDatetime: 2009-09-04
+modDatetime: 2025-03-31T16:30:28Z
 title: Perils of a great preformance
 slug: perils-of-a-great-preformance
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In the realm of operatic improvisation, the influence of early recording legends like Enrico Caruso has overshadowed the art of individual expression.
 emoji: 🎤
 tags:
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 🎭 Entertainment
   - ⚙️ Technology

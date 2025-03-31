@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-08
-modDatetime: 2010-09-08
+modDatetime: 2025-03-31T16:30:37Z
 title: Why can’t we eat spaghetti too?
 slug: why-cant-we-eat-spaghetti-too
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Diving into Rachel Laudan's critique of the simplistic notions surrounding traditional and modern food practices.
 emoji: 🌍
 tags:
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ⚖️ Choices
   - 📖 Discussions

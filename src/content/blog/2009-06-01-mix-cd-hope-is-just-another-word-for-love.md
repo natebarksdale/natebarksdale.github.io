@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-01
-modDatetime: 2025-03-17T21:38:51Z
+modDatetime: 2025-03-31T16:30:26Z
 title: Mix CD | Hope Is Just Another Word for Love
 slug: mix-cd-hope-is-just-another-word-for-love
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A mix CD of uplifting songs designed to inspire and support walkers participating in the Avon Walk for Breast Cancer.
 emoji: 🎶
 tags:
+  - 💿 Mix CDs
+  - 💡 Design
   - ❤️ Charity
   - 🎶 Activities
   - 🎵 Music

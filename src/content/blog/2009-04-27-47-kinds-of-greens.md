@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2025-03-20T14:57:34Z
+modDatetime: 2025-03-31T16:30:24Z
 title: Forty-seven kinds of greens
 slug: forty-seven-kinds-of-greens
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on the insights of Fran Osseo-Asare about the complexity of African cuisines and the risks of ethnocentrism.
 emoji: 🌍
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Africa
   - 🌱 Sustainability
   - 🌍 Culture

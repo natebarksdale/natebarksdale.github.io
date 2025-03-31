@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-23
-modDatetime: 2009-11-23
+modDatetime: 2025-03-31T16:30:30Z
 title: Ahoy, I love you, won’t you tell me your name
 slug: ahoy-i-love-you-wont-you-tell-me-your-name
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Discover the fascinating history behind the word "hello" and its profound connection to the invention of the telephone.
 emoji: 📞
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📖 Articles
   - 📱 Social Networks

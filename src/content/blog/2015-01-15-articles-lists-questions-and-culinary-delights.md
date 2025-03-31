@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2015-01-15
-modDatetime: 2025-03-17T21:39:17Z
+modDatetime: 2025-03-31T16:30:39Z
 title: Articles | Lists, Questions and Culinary Delights
 slug: articles-lists-questions-and-culinary-delights
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Over the past few months, I've been diving into the fun facts and intriguing stories of history for the History Channel's website.
 emoji: 📜
 tags:
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🇭 History.com
   - 🌍 History
   - 🍲 Proverbs
 haiku: |
@@ -33,7 +36,7 @@ coordinates: [38.8833, -77.0167]
 > - [6 Things You May Not Know about the Magna Carta](http://www.history.com/news/history-lists/6-things-you-might-not-know-about-the-magna-carta)
 > - [8 Surprising Facts about Alexander the Great](http://www.history.com/news/history-lists/eight-surprising-facts-about-alexander-the-great)
 > - [A History of Coffee in 10 Buzzwords](http://www.history.com/news/history-lists/a-history-of-coffee-in-10-buzzwords)
-
+>
 > ## Culinary History
 >
 > - [Champagne: A Brief and Bubbly History](http://www.history.com/news/hungry-history/champagne-a-brief-and-bubbly-history)
@@ -45,7 +48,7 @@ coordinates: [38.8833, -77.0167]
 > - [What it Says on the Tin: A Brief History of Canned Food](http://www.history.com/news/hungry-history/what-it-says-on-the-tin-a-brief-history-of-canned-food)
 > - [Snow in Summer: A Global History of Frozen Treats](http://www.history.com/news/hungry-history/snow-in-summer-a-global-history-of-ice-cream-and-other-frozen-treats)
 > - [Fries with That? A Brief History of Drive-Thru Dining](http://www.history.com/news/hungry-history/fries-with-that-a-brief-history-of-drive-thru-dining)
-
+>
 > ## Short-form Q&A;
 >
 > - [What Is the World's Oldest Democracy? ](http://www.history.com/news/ask-history/what-is-the-worlds-oldest-democracy)It depends

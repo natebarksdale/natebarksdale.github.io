@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-28
-modDatetime: 2009-05-28
+modDatetime: 2025-03-31T16:30:25Z
 title: A Gestures and postures triple-header
 slug: a-gestures-and-postures-triple-header
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring psychological interventions that boost academic performance and creativity through simple yet profound actions.
 emoji: 🧠
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚖️ Ethics
   - 🧠 Psychology

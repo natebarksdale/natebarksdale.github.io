@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-17
-modDatetime: 2025-03-18T20:45:57Z
+modDatetime: 2025-03-31T16:30:22Z
 title: Speechless and renewed
 slug: speechless-and-renewed
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the dual nature of poetry's impact, highlighting both its limitations and its profound significance.
 emoji: ✍️
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Poetry
   - 🌍 Society
   - 💬 Communication
@@ -16,7 +17,6 @@ haiku: |
   No lyric ever
   Stopped a tank, and yet, yet, it
   Is unlimited.
-
 coordinates: [53.349805, -6.26031]
 ---
 

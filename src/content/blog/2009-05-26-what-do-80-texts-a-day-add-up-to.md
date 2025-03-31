@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-26
-modDatetime: 2009-05-26
+modDatetime: 2025-03-31T16:30:25Z
 title: What do 80 texts a day add up to?
 slug: what-do-80-texts-a-day-add-up-to
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A look into how texting affects the development of teenage autonomy, with insights from psychologist Sherry Turkle.
 emoji: 📱
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚖️ Ethics
   - ⚙️ Technology

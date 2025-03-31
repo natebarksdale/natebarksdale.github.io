@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2008-10-21
+modDatetime: 2025-03-31T16:30:13Z
 title: Give me a telenovela and I’ll give you a nation
 slug: give-me-a-telenovela-and-ill-give-you-a-nation
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of how telenovelas serve as both cultural mirrors and therapeutic narratives for countries, highlighting their unique emotional resonance and production values.
 emoji: 🎭
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📺 Television
   - 🤝 Collaboration

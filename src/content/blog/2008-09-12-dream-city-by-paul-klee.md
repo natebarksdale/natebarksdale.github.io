@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-12
-modDatetime: 2025-03-17T21:38:25Z
+modDatetime: 2025-03-31T16:30:10Z
 title: Dream City, by Paul Klee
 slug: dream-city-by-paul-klee
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on Klee's vision of a timeless cityscape.
 emoji: 🏙️
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌆 Cities
   - 🎨 Art
   - 🌍 Culture
@@ -21,7 +23,4 @@ coordinates: [45.0703, 7.6869]
 ---
 
 I suppose this fails the true measure of eternal urbanism (which needs neither moon nor sun), but I'll take Klee's terrestrial vision as a bit of a down payment. [![image](http://culture-making.com/media/KleeDreamCity.jpg)](http://ayjay.tumblr.com/post/49770813/paul-klee-dream-city-1921)
-
----
-
 "Dream City" (1921), watercolor and oil, by Paul Klee, in a private collection, Turin, Italy :: via [more than 95 theses](http://web.archive.org/web/20111012074557/http://ayjay.tumblr.com/post/49770813/paul-klee-dream-city-1921)

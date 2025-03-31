@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Best. Toys. Ever?
 slug: best-toys-ever
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the timeless joy of play, Jonathan Liu highlights the simplicity and creativity that come with Dirt as a toy.
 emoji: 🌍
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌱 Sustainability
   - 🧼 Cleanliness
@@ -24,7 +25,6 @@ My old friend Jonathan continues lovingly subverting Wired.com's tech-toy-heavy 
 > When I was a kid one of my favorite things to play with was Dirt. At some point I picked up an interest in cleanliness and I have to admit that I’m personally not such a fan of Dirt anymore—many parents (particularly indoor people like me) aren’t so fond if it either. But you can’t argue with success. Dirt has been around longer than any of the other toys on this list, and shows no signs of going away. There’s just no getting rid of it, so you might as well learn to live with it
 >
 > First off, playing with Dirt is actually [good for you](http://web.archive.org/web/20250104094506/https://www.nytimes.com/2009/01/27/health/27brod.html). It’s even sort of edible (in the way that Play-doh and crayons are edible). But some studies have shown that kids who play with Dirt have stronger immune systems than those who don’t. So even if it means doing some more laundry (Dirt is notorious for the stains it causes) it might be worth getting your kids some Dirt
->
 > So what can you do with Dirt? Well, it’s great for digging and piling and making piles. We’ve got a number of outdoor toys in our backyard, but my kids spend most of their time outside just playing with Dirt. Use it with [Stick](https://www.google.com/search?q=%22Stick%22) as a large-format ephemeral art form. (didn’t I tell you how versatile Stick was?) Dirt makes a great play surface for toy trucks and cars. Need something a little gloopier? Just add water and—presto!—you’ve got Mud!
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-17T21:38:14Z
+modDatetime: 2025-03-31T16:30:05Z
 title: Before and after, around the world
 slug: before-and-after-around-the-world
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on humanity's impact on the environment through changing landscapes over time.
 emoji: 🌍
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Environment
   - ⚙️ Technology
   - 🌆 Cities

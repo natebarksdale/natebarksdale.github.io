@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-10
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: All sorts of humanity mixed up in it
 slug: all-sorts-of-humanity-mixed-up-in-it
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Derived from the emotional and ethical turbulence present in modern medicine, this piece explores how bioethics is intertwined with real-life dilemmas faced by healthcare professionals.
 emoji: 💉
 tags:
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - ⚖️ Ethics
   - ⚖️ Choices

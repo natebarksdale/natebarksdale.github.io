@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-18
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-31T16:30:22Z
 title: Your failures are essential
 slug: your-failures-are-essential
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the essential lessons learned from artistic failures and the journey towards creating impactful art.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - ❤️ Resilience
   - 📖 Books

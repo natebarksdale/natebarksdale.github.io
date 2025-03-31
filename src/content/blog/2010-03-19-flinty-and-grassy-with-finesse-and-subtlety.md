@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-19
-modDatetime: 2025-03-17T21:39:06Z
+modDatetime: 2025-03-31T16:30:34Z
 title: Flinty and grassy with finesse and subtlety
 slug: flinty-and-grassy-with-finesse-and-subtlety
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: From Beth Ann Fennelly, a look at how soil influences our food and our lives through the practice of geophagy.
 emoji: 🌱
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌱 Sustainability
   - 🌾 Agriculture

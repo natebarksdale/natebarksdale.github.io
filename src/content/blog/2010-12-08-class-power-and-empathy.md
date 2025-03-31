@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-08
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:37Z
 title: Class, power, and empathy
 slug: class-power-and-empathy
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A study reveals how social class influences emotional recognition abilities.
 emoji: 🧠
 tags:
+  - 🌍 Culture-Making.com
   - 🤝 Families
   - ⚖️ Ethics
   - ⚖️ Choices

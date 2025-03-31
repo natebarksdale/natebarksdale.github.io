@@ -9,6 +9,7 @@ draft: False
 description: I recently created a vibrant WordPress banner and logotype for my friend Christy Tennant's website, showcasing her creative spirit.
 emoji: 🎨
 tags:
+  - 📁 Portfolio
   - 🌐 Blogging
   - ⚙️ Technology
   - 🎨 Creativity
@@ -18,7 +19,6 @@ haiku: |
   Fresh logo brings life,  
   Colors dance in harmony,  
   Artistry reflects.
-
 coordinates: [34.0522, -118.2437]
 ---
 

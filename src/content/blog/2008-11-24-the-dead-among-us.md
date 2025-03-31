@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2008-11-24
+modDatetime: 2025-03-31T16:30:16Z
 title: The dead among us
 slug: the-dead-among-us
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on how North America lacks the same cultural coexistence with the dead that can be found in European cities, particularly regarding London’s plague pits.
 emoji: 🪦
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - ⚰️ Cemeteries
   - 🇬🇧 London
   - 🌍 History

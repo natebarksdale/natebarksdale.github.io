@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-13
-modDatetime: 2025-03-17T21:38:49Z
+modDatetime: 2025-03-31T16:30:24Z
 title: Painting with Adam’s palette
 slug: painting-with-adams-palette
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: From Vivian Guroian, reflections on the divine nature of gardening.
 emoji: 🌸
 tags:
+  - 🌍 Culture-Making.com
   - 🌸 Flowers
 haiku: |
   In Eden's garden,  

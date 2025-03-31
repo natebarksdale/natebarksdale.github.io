@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2025-03-17T21:38:25Z
+modDatetime: 2025-03-31T16:30:10Z
 title: Some of the loneliest languages
 slug: some-of-the-loneliest-languages
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Dispatches from the world of endangered languages, highlighting the plight of those struggling to survive.
 emoji: 🌍
 tags:
+  - 🗣️ Language
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - 🌍 Culture
 haiku: |
   Voices near fading,  

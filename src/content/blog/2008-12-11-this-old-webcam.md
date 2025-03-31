@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2008-12-11
+modDatetime: 2025-03-31T16:30:18Z
 title: This old webcam
 slug: this-old-webcam
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring how artisans can share their craft while attracting more work.
 emoji: 🎥
 tags:
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - ♻️ Repurposing
   - 🌍 Culture

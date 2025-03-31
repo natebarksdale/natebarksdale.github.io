@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-30
-modDatetime: 2025-03-17T21:38:58Z
+modDatetime: 2025-03-31T16:30:29Z
 title: One thing that’s dangerous for an artist
 slug: one-thing-thats-dangerous-for-an-artist
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Federico Fellini shares his thoughts on the dangers of total freedom for artists.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - ⚠️ Danger
   - ⚖️ Choices
   - 💬 Communication

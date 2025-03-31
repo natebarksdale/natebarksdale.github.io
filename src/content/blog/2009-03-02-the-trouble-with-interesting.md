@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-02
-modDatetime: 2025-03-17T21:38:46Z
+modDatetime: 2025-03-31T16:30:23Z
 title: The trouble with interesting
 slug: the-trouble-with-interesting
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on Walker Percy's exploration of modern emotions, particularly the shift from genuine feelings to mere interest and boredom.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - 🗳️ Politics
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-17T21:38:14Z
+modDatetime: 2025-03-31T16:30:05Z
 title: The Butterfly Effect effect
 slug: the-butterfly-effect-effect
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A nice parable of unintended consequences.
 emoji: 🦋
 tags:
+  - ➗ Mathematics
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
 haiku: |
   Butterfly whispers,  

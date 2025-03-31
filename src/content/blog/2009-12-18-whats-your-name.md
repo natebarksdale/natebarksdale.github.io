@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-18
-modDatetime: 2009-12-18
+modDatetime: 2025-03-31T16:30:31Z
 title: “What’s your name?”
 slug: whats-your-name
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on the struggle of identity and the pressure to conform in the job market.
 emoji: 🏷️
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🗳️ Politics
   - 🌍 Activism
   - ⚖️ Ethics

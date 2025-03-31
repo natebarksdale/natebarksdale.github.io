@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-27
-modDatetime: 2009-07-27
+modDatetime: 2025-03-31T16:30:27Z
 title: Parking is such sweet sorrow
 slug: parking-is-such-sweet-sorrow
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A thought-provoking examination of how infrastructure shapes cultural expectations, particularly in the case of Disney Hall and its parking garage's financial burdens.
 emoji: 🎭
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🚗 Cars
   - ⚙️ Engineering
   - ⚒️ Blacksmiths

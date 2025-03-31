@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-26
-modDatetime: 2009-08-26
+modDatetime: 2025-03-31T16:30:28Z
 title: The utility of guilt
 slug: the-utility-of-guilt
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of guilt's role in shaping morality and behavior in children and adults alike.
 emoji: 😇
 tags:
+  - ✡️ Judaism
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ⚖️ Choices
   - ❤️ Forgiveness

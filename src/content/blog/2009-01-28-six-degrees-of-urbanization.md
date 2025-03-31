@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-28
-modDatetime: 2025-03-17T21:38:43Z
+modDatetime: 2025-03-31T16:30:21Z
 title: Six degrees of urbanization
 slug: six-degrees-of-urbanization
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Exploring how interconnected human networks can help in finding loved ones, even in unfamiliar cities.
 emoji: 🗺️
 tags:
+  - ✨ Wonder
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🗣️ Language
   - 🌀 Complexity
 haiku: |

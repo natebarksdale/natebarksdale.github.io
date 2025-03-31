@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-06
-modDatetime: 2025-03-17T21:38:53Z
+modDatetime: 2025-03-31T16:30:26Z
 title: The power of weakness
 slug: the-power-of-weakness
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: From Xavier Le Pichon, a reflection on the strength found in fragility and human connection.
 emoji: 🌱
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ❤️ Kindness
   - ❤️ Love
   - 💧 Rituals

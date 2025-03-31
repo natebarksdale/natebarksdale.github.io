@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-17T21:38:39Z
+modDatetime: 2025-03-31T16:30:18Z
 title: The MagnifiCat (srsly)
 slug: the-magnificat-srsly
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of the cultural implications of the LOLCat Bible Translation Project, considering its balance between humor and reverence.
 emoji: 😺
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Translation
   - 📖 Bible
   - 🌍 Culture
@@ -25,7 +27,4 @@ So: what exactly are the cultural meanings and implications of the collective in
 > ![image](http://culture-making.com/media/OHAIMARY_210.jpg)
 >
 > Mary sed "Ceiling Cat is laik a big deal, Mai I is happy about Ceiling Cat… bcz he kepted me in maind an now evribodi knowz i can haz cheezburgr. Thank u Ceiling Cat, u iz cool. U iz niec to evribodi. Xcept peeplz who doant dizrv it LOL. U haz pwned teh r00lrz whiel stil bein niec to teh n00bz. U givd cookies to teh hungri whiel u tolded teh rich "Niec trai." U wuz niec to Israel an to all Abraham's famili liek u promist
-
----
-
-Luke 1:46–56, [LOLCat Bible Translation Project](http://www.lolcatbible.com/index.php?title=Luke_1#46) :: thanks Christine!
+> Luke 1:46–56, [LOLCat Bible Translation Project](http://www.lolcatbible.com/index.php?title=Luke_1#46) :: thanks Christine!

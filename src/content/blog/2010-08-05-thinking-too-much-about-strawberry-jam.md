@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-05
-modDatetime: 2025-03-17T21:39:12Z
+modDatetime: 2025-03-31T16:30:37Z
 title: Thinking too much about strawberry jam
 slug: thinking-too-much-about-strawberry-jam
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A fascinating exploration of how overthinking can distort our preferences, as seen in a jam taste test.
 emoji: 🍓
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - 🌍 Society
 haiku: |

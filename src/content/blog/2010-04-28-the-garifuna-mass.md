@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-28
-modDatetime: 2010-04-28
+modDatetime: 2025-03-31T16:30:35Z
 title: The Garifuna Mass
 slug: the-garifuna-mass
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: New York City's linguistic tapestry showcases endangered languages thriving in unexpected places.
 emoji: 🌍
 tags:
+  - 🗣️ Language
+  - 🥑 Central America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🇺🇸 United States
   - 🌍 Diversity
   - 🗣️ Language

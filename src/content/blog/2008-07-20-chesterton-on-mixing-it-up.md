@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-20
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: Chesterton on mixing it up
 slug: chesterton-on-mixing-it-up
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: On the clever chaos a young journalist might create.
 emoji: ✉️
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📖 Articles
   - 📖 Biographies

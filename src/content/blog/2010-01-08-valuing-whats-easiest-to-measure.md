@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-08
-modDatetime: 2010-01-08
+modDatetime: 2025-03-31T16:30:32Z
 title: Valuing what’s easiest to measure
 slug: valuing-whats-easiest-to-measure
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the importance of perseverance and discipline over innate talent in achieving success.
 emoji: 💪
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚖️ Ethics
   - 💪 Difficulty

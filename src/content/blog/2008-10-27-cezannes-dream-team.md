@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-17T21:38:32Z
+modDatetime: 2025-03-31T16:30:14Z
 title: Cezanne’s dream team
 slug: cezannes-dream-team
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Malcolm Gladwell explores the concept of late bloomers and the vital support systems behind their success in his article. "But for Zola, Cézanne would have remained an unhappy banker’s son in Provence; but for Pissarro, he would never have learned how to paint..."
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🎨 Art
   - ❤️ Kindness

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-17T21:38:33Z
+modDatetime: 2025-03-31T16:30:15Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A glimpse into Edward Bellamy's vision of musical culture in the year 2000, where professional music is readily accessible at all times.
 emoji: 🎶
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🎵 Music
   - 📖 Books
@@ -24,21 +26,13 @@ A prescient projection of cultural change, from Edward Bellamy's late-19th-centu
 > ‘Are you fond of music, Mr. West?’ Edith asked
 >
 > I assured her that it was half of life, according to my notion
->
 > ‘I ought to apologize for inquiring,’ she said
->
 > ‘It is not a question that we ask one another nowadays; but I have read that in your day, even among the cultured class, there were some who did not care for music.’
->
 > ‘You must remember, in excuse,’ I said, ‘that we had some rather absurd kinds of music.’
->
 > ‘Yes,’ she said, ‘I know that; I am afraid I should not have fancied it all myself. Would you like to hear some of ours now, Mr. West?’
->
 > ‘Nothing would delight me so much as to listen to you,’ I said
->
 > ‘To me!’ she exclaimed, laughing. ‘Did you think I was going to play or sing to you?’
->
 > ‘I hoped so, certainly,’ I replied
->
 > Seeing that I was a little abashed, she subdued her merriment and explained. ‘Of course, we all sing nowadays as a matter of course in the training of the voice, and some learn to play instruments for their private amusement; but the professional music is so much grander and more perfect than any performance of ours, and so easily commanded when we wish to hear it, that we don’t think of calling our singing or playing music at all.
 
 ---

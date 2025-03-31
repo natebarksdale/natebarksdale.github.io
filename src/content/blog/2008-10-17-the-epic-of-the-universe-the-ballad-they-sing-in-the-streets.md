@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-17
-modDatetime: 2025-03-17T21:38:31Z
+modDatetime: 2025-03-31T16:30:13Z
 title: The epic of the universe, the ballad they sing in the streets
 slug: the-epic-of-the-universe-the-ballad-they-sing-in-the-streets
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A beautiful reflection on the interplay of life and eternity from Marilynne Robinson's _Gilead_.
 emoji: 🌌
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - ⚰️ Cemeteries
   - 🌌 Dystopias

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-27
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Power and love
 slug: power-and-love
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the interplay of power and love, Martin Luther King, Jr. provides profound insights on justice and humanity.
 emoji: ⚖️
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ❤️ Love
   - 🤝 Altruism

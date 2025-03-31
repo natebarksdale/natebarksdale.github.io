@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-07
-modDatetime: 2025-03-17T21:38:55Z
+modDatetime: 2025-03-31T16:30:27Z
 title: The blurry border between having a dream and losing one’s mind
 slug: the-blurry-border-between-having-a-dream-and-losing-ones-mind
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the intertwining of dream and madness in Herzog's "Fitzcarraldo."
 emoji: 🎭
 tags:
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - 🎥 Film
   - 🌄 Dreams
   - 🌀 Complexity

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-18
-modDatetime: 2010-06-18
+modDatetime: 2025-03-31T16:30:36Z
 title: Love and language
 slug: love-and-language
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: Elif Batuman reflects on her journey through love, literature, and the unexpected choices we make.
 emoji: 📚
 tags:
+  - ✨ Wonder
+  - 🦠 Biology
+  - 🗣️ Language
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - ❤️ Love

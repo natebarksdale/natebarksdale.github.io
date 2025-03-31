@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-28
-modDatetime: 2025-03-17T21:39:11Z
+modDatetime: 2025-03-31T16:30:36Z
 title: Salvaje de Corazon
 slug: salvaje-de-corazon
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A chilling reminder of the unintended consequences our cultural creations can have.
 emoji: 📚
 tags:
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - ⚔️ Enemies
   - 🌀 Complexity
   - ✝️ Christianity

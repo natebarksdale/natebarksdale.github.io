@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-14
-modDatetime: 2009-07-14
+modDatetime: 2025-03-31T16:30:27Z
 title: Music, walking, and the power of presence
 slug: music-walking-and-the-power-of-presence
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the profound connection between movement, music, and empathy in Parkinson's disease.
 emoji: 🎶
 tags:
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - 🎶 Activities
   - ❤️ Kindness

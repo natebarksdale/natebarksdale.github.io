@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2025-03-17T21:38:46Z
+modDatetime: 2025-03-31T16:30:23Z
 title: Community you can smell
 slug: community-you-can-smell
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the essence of true community beyond virtual connections.
 emoji: 👃
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 📰 Media
   - 📱 Social Networks

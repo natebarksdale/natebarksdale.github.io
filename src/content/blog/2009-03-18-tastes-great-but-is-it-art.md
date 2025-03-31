@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-18
-modDatetime: 2009-03-18
+modDatetime: 2025-03-31T16:30:23Z
 title: Tastes great, but is it art?
 slug: tastes-great-but-is-it-art
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the debate on whether cooking can be classified as an art form raises intriguing questions about aesthetic experiences and cultural significance.
 emoji: 🍽️
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - 🌍 Culture
   - 🎨 Art

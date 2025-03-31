@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: Einstein’s day job
 slug: einsteins-day-job
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Exploring how Einstein's work at the patent office intertwined with his revolutionary theories on time and simultaneity.
 emoji: ⏰
 tags:
+  - 🍷 Europe
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
   - ⏰ Time
   - 🌍 History
   - ⚙️ Engineering

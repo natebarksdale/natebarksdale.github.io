@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-15
-modDatetime: 2009-04-15
+modDatetime: 2025-03-31T16:30:24Z
 title: Blue law blues
 slug: blue-law-blues
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: From Kat Long's exploration of the unintended consequences of New York City's attempts to regulate vice and morality.
 emoji: 🚫
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Law
   - ⚖️ Ethics
   - ⚖️ Choices

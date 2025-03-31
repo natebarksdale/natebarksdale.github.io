@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-25
-modDatetime: 2025-03-18T21:04:50Z
+modDatetime: 2025-03-31T16:30:37Z
 title: Cities, wandering, serendipity and (wait for it) zombies
 slug: cities-wandering-serendipity-and-wait-for-it-zombies
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on how a mobile app can transform urban navigation into a playful adventure while encouraging exploration.
 emoji: 🧟‍♂️
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌍 Exploration
   - 🌀 Complexity
   - 🕵 Identity

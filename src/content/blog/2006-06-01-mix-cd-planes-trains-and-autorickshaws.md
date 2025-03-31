@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2006-06-01
-modDatetime: 2025-03-17T21:38:11Z
+modDatetime: 2025-03-31T16:30:04Z
 title: Mix CD | Planes, Trains and Autorickshaws
 slug: mix-cd-planes-trains-and-autorickshaws
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A nostalgic reflection on creating a mix to celebrate the friendships and memories made during a trip to India, filled with inside jokes and cherished music.
 emoji: 🎶
 tags:
+  - 💿 Mix CDs
   - 🌍 Society
   - 🌍 Culture
   - ✍️ Literature

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Secular praise songs from Western Kenya
 slug: secular-praise-songs-from-western-kenya
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: A fascinating exploration of The Kawere Boys, a popular Benga group from Kenya, showcasing the interwoven relationships between artist and patron through music in Luo culture.
 emoji: 🎶
 tags:
+  - ✨ Wonder
+  - 🍷 Europe
+  - 🇿🇦 South Africa
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🎵 Music
   - 🎤 Performances
@@ -25,7 +30,6 @@ This is from a really wonderful blog (my [tax dollars at work](http://web.archiv
 > ![image](http://culture-making.com/media/pd_africanblog_kaweremuma.jpg)
 >
 > [The Kawere Boys ‘Muma Ben’ (1974) mp3](https://www.google.com/search?q=%22The%20Kawere%20Boys%20%E2%80%98Muma%20Ben%E2%80%99%20%281974%29%20mp3%22%20voanews.com)
->
 > Most of the songs in the Kawere repertoire seem to be praise songs for patrons who had invited the group to perform. These songs can be thought of as pre-internet age social networking. The singer usually starts by introducing himself, goes on to introduce the object of his praise, as well as the patron’s relatives, friends, and neighbors, before explaining the nature of his relationship to the patron in question. For example, in ‘Muma Ben’, the song starts with an introduction of ‘Muma Ben from Saye Konyango’, then introduces Muma Ben’s family, and ends with praise for the hospitality the singer received when he was invited to Muma Ben’s house. If you were to map out all of the relationships outlined in the Kawere Boys singles in our collection, and if you had a deep understanding of Luo culture, you could get a good idea of the social networks the Kawere Boys relied upon for their livelihood
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-17
-modDatetime: 2008-09-17
+modDatetime: 2025-03-31T16:30:11Z
 title: First, hide the router!
 slug: first-hide-the-router
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In a world where technology can distract, Jeff VanderMeer shares a personal strategy to create uninterrupted writing time.
 emoji: 🕰️
 tags:
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - ⚠️ Danger
   - ✍️ Literature

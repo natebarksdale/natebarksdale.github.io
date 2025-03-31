@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-02-08
-modDatetime: 2025-03-17T21:39:16Z
+modDatetime: 2025-03-31T16:30:39Z
 title: Good art in dark times
 slug: good-art-in-dark-times
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A thought-provoking exploration of the role of fiction in reflecting and transcending the darkness of our times.
 emoji: 🕯️
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - ✨ Beauty

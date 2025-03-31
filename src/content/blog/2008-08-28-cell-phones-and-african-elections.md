@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-17T21:38:22Z
+modDatetime: 2025-03-31T16:30:09Z
 title: Cell phones and African elections
 slug: cell-phones-and-african-elections
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Cell phones are fostering democracy by ensuring fair elections in Africa.
 emoji: 📱
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - 🌍 Africa
   - 🔄 Commitment
@@ -24,7 +26,6 @@ Cell phones are a transformative technology all over the world, but in different
 > The humble mobile phone is driving a new revolution which some experts hope could bring fairer elections and democracy to some African states. Many African countries have struggled against rigged elections and authoritarian rule since gaining independence last century
 >
 > However, African observers say the growth of simple communication technologies like cell phones are assisting many states to progress towards open and fair elections in increasingly democratic systems. Senegal is one of a number of African countries to hold successful elections by keeping voting and counting in check through independent communication
->
 > Former United Nations Secretary-General Kofi Annan said many African nations now had a “very open society” and the increasing success of elections owed a lot to the existence of mobile phones. “With communication and cell phones, this is where it is difficult to cheat in elections now. You are announced at the district level and cell phones go wild so by the time you go to the capital, if you have changed the figures, they will know and you will be caught out.”
 
 ---

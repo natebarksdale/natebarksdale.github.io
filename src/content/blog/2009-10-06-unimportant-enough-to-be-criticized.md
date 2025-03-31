@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-06
-modDatetime: 2009-10-06
+modDatetime: 2025-03-31T16:30:29Z
 title: Unimportant enough to be criticized
 slug: unimportant-enough-to-be-criticized
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on Dave Hickey's "Frivolity and Unction," exploring the idea that the perceived importance of art can hinder genuine appreciation and critique.
 emoji: 🎨
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🎨 Art
   - 🌍 Culture

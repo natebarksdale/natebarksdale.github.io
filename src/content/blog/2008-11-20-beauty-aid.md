@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2025-03-20T14:57:34Z
+modDatetime: 2025-03-31T16:30:16Z
 title: Beauty aid
 slug: beauty-aid
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Beauty salons become safe havens for women, creating a vital space for discussions on domestic violence.
 emoji: 💇
 tags:
+  - 🌍 Culture-Making.com
   - ✨ Beauty
   - ❤️ Kindness
   - 🌍 Society
@@ -25,9 +26,7 @@ What does your neighborhood beauty salon make possible? What new forms of cultur
 > The police have tried doing outreach to victims by, among other things, setting up domestic violence education tables at community events, only to find that no one wants to be seen near them. But the atmosphere is different in the safety of a beauty salon
 >
 > “The salon may be one of the few places women might be without their abuser around,” said Laurie Magid, a former state prosecutor who is acting United States attorney for the Eastern District of Pennsylvania. “This program really addresses a need. You don’t have a case unless you have a crime reported in the first place and that is the difficult area of domestic violence.”
->
 > While Cut it Out trains stylists offsite, the Washington Heights workshops, conducted in Spanish, take place inside beauty parlors during the hours that clients are served, which not only makes it easier for people to participate, but also enhances the comfort factor.
->
 > “The salon is a place where everyone already feels at home,” said Sharon Kagawa of the [Administration for Children’s Services](http://www.nyc.gov/html/acs/html/home/home.shtml "ACS Web site"), the agency that recruits salons for the program. “So they can be more honest.”
 
 ---

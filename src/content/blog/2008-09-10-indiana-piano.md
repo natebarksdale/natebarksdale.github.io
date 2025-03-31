@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-10
-modDatetime: 2008-09-10
+modDatetime: 2025-03-31T16:30:10Z
 title: Indiana piano
 slug: indiana-piano
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A glimpse into Lexo Toradze's vibrant community of Russian and Georgian pianists in South Bend, Indiana.
 emoji: 🎹
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🇷🇺 Russia
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-17T21:38:37Z
+modDatetime: 2025-03-31T16:30:17Z
 title: We cannot know what to expect
 slug: we-cannot-know-what-to-expect
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Michael Bérubé discusses the evolving expectations of children with Down syndrome in response to Peter Singer's views.
 emoji: 🎻
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ⚖️ Choices
   - ❤️ Kindness

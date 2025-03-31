@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-10
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: Extravagant gestures
 slug: extravagant-gestures
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Annie Dillard reflects on the extravagant gestures of creation and their enduring presence in the world, beautifully illustrating the connection between nature and fire.
 emoji: 🔥
 tags:
+  - 🌍 Culture-Making.com
   - ✨ Gestures
   - 🌍 Exploration
   - 🌊 Water

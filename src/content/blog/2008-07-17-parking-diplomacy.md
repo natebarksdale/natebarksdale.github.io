@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-17
-modDatetime: 2025-03-17T21:38:15Z
+modDatetime: 2025-03-31T16:30:05Z
 title: Parking diplomacy
 slug: parking-diplomacy
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of creative solutions to the challenges posed by neglected embassy properties.
 emoji: 🚗
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Africa
   - 🏛️ Government
   - 🚨 Warnings

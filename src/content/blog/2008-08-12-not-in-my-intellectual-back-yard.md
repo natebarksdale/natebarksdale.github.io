@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-12
-modDatetime: 2008-08-12
+modDatetime: 2025-03-31T16:30:08Z
 title: Not in my intellectual back yard
 slug: not-in-my-intellectual-back-yard
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: This piece explores how excessive intellectual property rights can stifle creativity and innovation in various fields.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Algorithms
   - ⚖️ Choices
   - 🌍 Culture

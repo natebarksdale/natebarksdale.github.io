@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-04
-modDatetime: 2009-03-04
+modDatetime: 2025-03-31T16:30:23Z
 title: Slums are the answer
 slug: slums-are-the-answer
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Insights into community resilience found in the world's squatter cities.
 emoji: 🏘️
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🌍 Development
 haiku: |

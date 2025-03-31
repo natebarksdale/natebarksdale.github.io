@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-06
-modDatetime: 2010-02-06
+modDatetime: 2025-03-31T16:30:33Z
 title: Lego Globe
 slug: lego-globe
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: I wonder if they used red and orange legos for the globe's core?
 emoji: 🌍
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Exploration
   - 🎨 Art

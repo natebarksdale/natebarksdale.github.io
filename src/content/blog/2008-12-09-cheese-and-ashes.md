@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2008-12-09
+modDatetime: 2025-03-31T16:30:18Z
 title: Cheese and ashes
 slug: cheese-and-ashes
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on a memorable cheese experience shared with a friend, especially highlighting Morbier's unique features and flavor.
 emoji: 🧀
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🇫🇷 France
   - 🌱 Sustainability
   - 🌿 Gardens

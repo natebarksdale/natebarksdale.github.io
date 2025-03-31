@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-05
-modDatetime: 2025-03-17T21:38:52Z
+modDatetime: 2025-03-31T16:30:26Z
 title: Looks like work
 slug: looks-like-work
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration of the creative challenges filmmakers face in portraying everyday digital interactions dramatically.
 emoji: 🎬
 tags:
+  - 🌍 Culture-Making.com
   - 🎥 Film
   - 🖋️ Commentary
   - 🌍 Society

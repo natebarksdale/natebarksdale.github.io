@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-17T21:38:28Z
+modDatetime: 2025-03-31T16:30:12Z
 title: Chicken stock
 slug: chicken-stock
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on how the Campbell Soup Co. stood out during a market downturn, highlighting a shift in American values.
 emoji: 🍲
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - 🌍 Society
 haiku: |

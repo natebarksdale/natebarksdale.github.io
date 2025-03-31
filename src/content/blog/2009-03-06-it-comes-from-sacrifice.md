@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-17T21:38:46Z
+modDatetime: 2025-03-31T16:30:23Z
 title: It comes from sacrifice
 slug: it-comes-from-sacrifice
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: This piece explores the profound connection between forgiveness and the strength of Western values.
 emoji: ✝️
 tags:
+  - 🌍 Culture-Making.com
   - ❤️ Forgiveness
   - ✝️ Christianity
   - ⚖️ Ethics

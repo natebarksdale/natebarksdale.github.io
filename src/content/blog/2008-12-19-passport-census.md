@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2008-12-19
+modDatetime: 2025-03-31T16:30:18Z
 title: Passport census
 slug: passport-census
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the representation of American diversity through its passport imagery.
 emoji: 🇺🇸
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Diversity
   - 🇺🇸 United States
   - 🏞️ National Parks

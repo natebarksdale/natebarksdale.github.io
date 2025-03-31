@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-09
-modDatetime: 2025-03-17T21:38:45Z
+modDatetime: 2025-03-31T16:30:22Z
 title: Containing multitudes
 slug: containing-multitudes
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Zadie Smith reflects on the contrasting expectations for artists and politicians in her essay "Speaking in Tongues."
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - ⚖️ Choices

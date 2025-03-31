@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-17T21:38:22Z
+modDatetime: 2025-03-31T16:30:09Z
 title: Keep noticing!
 slug: keep-noticing
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Cultivating the discipline of noticing can enhance our engagement with the world around us.
 emoji: 👁️
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Society
   - 📝 Writing
@@ -24,9 +26,7 @@ Two design consultants offer simple ideas for how to cultivate the discipline of
 > **Soltzberg** : So given that there are all these patterns and themes around us, yet being adept at noticing requires practice, how can people sharpen their noticing “chops?”
 >
 > **Portigal:** I’ve assigned students to routinely maintain a noticing log, either a blog (words with pictures) or a Flickr account (pictures with words). The exercise helps sharpen noticing skills by giving people permission to simply observe and document. There’s never any requirement to suggest a fix; indeed what they observe may not be broken in any way. It just has to arouse their interest, and in documenting it make the details of that interest explicit. Establishing some discipline for this behavior can be very helpful
->
 > **Soltzberg:** Sometimes I do an exercise with workshop groups, which works in a similar way. Everyone takes a turn describing something they saw or experienced between the time they got up and the present moment; something that they haven’t talked about with anyone that day. It could be something unusual or something really mundane—just a quick description with maybe one or two details. People are always surprised when they realize how many things they are actually experiencing but not really noticing. It’s such a simple activity, but people have told me later on that they felt much more awake after doing it
->
 > **Portigal:** That’s a good place to be solving problems from. Well, let’s get out there and keep noticing.
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-22
-modDatetime: 2025-03-17T21:39:17Z
+modDatetime: 2025-03-31T16:30:39Z
 title: Portfolio | CPS
 slug: portfolio-cps
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A showcase of my minimalist design for a prestigious group of art dealers, highlighting simplicity and elegance in online presentation.
 emoji: 🎨
 tags:
+  - 📁 Portfolio
   - 🌐 Blogging
   - ⚙️ Technology
   - 🎨 Art

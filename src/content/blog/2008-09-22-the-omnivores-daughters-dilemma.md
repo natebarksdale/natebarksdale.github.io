@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2025-03-17T21:38:26Z
+modDatetime: 2025-03-31T16:30:11Z
 title: The omnivore’s daughter’s dilemma
 slug: the-omnivores-daughters-dilemma
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A humorous reflection on the quirks of grocery shopping in Berkeley Bowl from Michael Pollan.
 emoji: 🛒
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🏪 Markets
   - ❤️ Kindness

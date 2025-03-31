@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-02
-modDatetime: 2025-03-17T21:39:00Z
+modDatetime: 2025-03-31T16:30:30Z
 title: Uncool no more
 slug: uncool-no-more
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the evolving landscape of cultural influences and what it means to be "cool" in a world of diverse options.
 emoji: 🌍
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🔥 Energy
   - 📝 Writing

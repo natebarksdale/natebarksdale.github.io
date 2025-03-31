@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2008-07-11
+modDatetime: 2025-03-31T16:30:04Z
 title: The corned beef plague
 slug: the-corned-beef-plague
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of obesity trends in the Pacific Islands and beyond.
 emoji: 🍖
 tags:
+  - 🧬 Genetics
+  - 🌍 Culture-Making.com
   - 🇦🇺 Australia
   - 🌍 Health
   - 🍔 Fast Food
@@ -26,7 +28,6 @@ The Pacific Islands affinity for processed, canned meats dates, in large part, t
 > While the report said Australia had overtaken the United States as the fattest nation on the planet, recent U.S. studies show around 34 percent of Americans are overweight or obese.
 >
 > And small Pacific nations top World Health Organization lists, with 94.5 percent of people in tiny Nauru classed as overweight, leading to chronic diabetes problems on the island.
->
 > The Federated States of Micronesia (91.1 percent), the Cook Islands (90.9 percent), Tonga (90.8 percent) and Niue (81.7 percent) rounded out the WHO top five, while the United States came in at number nine, with 74.1 percent overweight or obese
 
 ---

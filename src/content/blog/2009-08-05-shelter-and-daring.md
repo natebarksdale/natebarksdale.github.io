@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-05
-modDatetime: 2025-03-17T21:38:55Z
+modDatetime: 2025-03-31T16:30:27Z
 title: Shelter and daring
 slug: shelter-and-daring
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the brave heart of a sheltered writer's journey.
 emoji: 🦋
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌄 Dreams
   - ❤️ Resilience

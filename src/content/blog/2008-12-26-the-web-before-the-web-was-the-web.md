@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-26
-modDatetime: 2025-03-17T21:38:40Z
+modDatetime: 2025-03-31T16:30:19Z
 title: The Web before the Web was the Web
 slug: the-web-before-the-web-was-the-web
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the parallels between urban life and online communities, this excerpt draws intriguing comparisons between the vibrancy of New York City and the Internet.
 emoji: 🌐
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🌍 Culture
   - 🌐 Blogging

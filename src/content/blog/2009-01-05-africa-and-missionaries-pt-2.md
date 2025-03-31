@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-17T21:38:41Z
+modDatetime: 2025-03-31T16:30:19Z
 title: Africa and missionaries, pt. 2
 slug: africa-and-missionaries-pt-2
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A heartwarming exchange between cultures, showcasing the impact of priests serving in U.S. parishes and their connection to home.
 emoji: ✝️
 tags:
+  - 📖 Bible
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ❤️ Charity
   - 🌍 Society
@@ -24,7 +27,6 @@ From a three-article series that the _New York Times_ ran Christmas week. A love
 > Majestic in a green chasuble, Father Ibemere delivered his homily strolling up and down the aisle. When it was time to distribute the eucharist, he bent down to give communion to a man he knew was too ill to stand.
 >
 > After the Mass, however, one member of the congregation, Virginia Ballard, gestured toward the Nigerian priest and confided in Father Venters, “I can’t understand what he said, but he’s a sweet young man.”
->
 > Mrs. Ballard went on to praise Father Ibemere’s knowledge of the Bible, his capacity to remember the names of congregants, his willingness to teach the Americans about his home in Nigeria. “He is a holy man,” she concluded, “and we are honored to have him.”
 
 ---

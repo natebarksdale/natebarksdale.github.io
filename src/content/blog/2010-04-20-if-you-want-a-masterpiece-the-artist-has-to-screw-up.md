@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-20
-modDatetime: 2025-03-17T21:39:08Z
+modDatetime: 2025-03-31T16:30:34Z
 title: If you want a masterpiece, the artist has to screw up
 slug: if-you-want-a-masterpiece-the-artist-has-to-screw-up
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Brian Phillips explores the intricate relationship between human error, storytelling, and the aesthetics of soccer, reflecting on the infamous "Hand of God" goal.
 emoji: ⚽
 tags:
+  - 💡 Design
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ⚖️ Choices
   - ⚖️ Law

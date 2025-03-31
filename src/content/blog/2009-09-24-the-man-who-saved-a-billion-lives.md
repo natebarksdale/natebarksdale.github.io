@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-09-24
-modDatetime: 2009-09-24
+modDatetime: 2025-03-31T16:30:28Z
 title: The man who saved a billion lives
 slug: the-man-who-saved-a-billion-lives
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An insightful tribute to Norman Borlaug and his revolutionary contributions to agriculture.
 emoji: 🌾
 tags:
+  - 🌍 Culture-Making.com
   - 🌱 Sustainability
   - 🌱 Growth
   - 🌍 Health

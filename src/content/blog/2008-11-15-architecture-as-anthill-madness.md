@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-15
-modDatetime: 2008-11-15
+modDatetime: 2025-03-31T16:30:15Z
 title: Architecture as anthill madness
 slug: architecture-as-anthill-madness
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the enduring artistic fascination with the Tower of Babel, revealing its complex symbolism in architecture and culture.
 emoji: 🏙️
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
   - 🏛️ Architecture

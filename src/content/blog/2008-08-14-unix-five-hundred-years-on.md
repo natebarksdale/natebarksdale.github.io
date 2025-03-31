@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-14
-modDatetime: 2025-03-17T21:38:19Z
+modDatetime: 2025-03-31T16:30:08Z
 title: Unix, five hundred years on
 slug: unix-five-hundred-years-on
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the enduring nature of cultural creations and the unexpected permanence of what was once deemed temporary.
 emoji: ⏳
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ⚙️ Technology
   - 💡 Innovation

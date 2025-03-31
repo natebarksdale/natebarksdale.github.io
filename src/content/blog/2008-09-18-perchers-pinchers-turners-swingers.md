@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2008-09-18
+modDatetime: 2025-03-31T16:30:11Z
 title: Perchers, pinchers, turners, swingers
 slug: perchers-pinchers-turners-swingers
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A delightful exploration of vintage toasters and their innovative designs.
 emoji: 🍞
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - ⚙️ Engineering
   - 🍞 Bread
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2023-11-30
-modDatetime: 2025-03-17T21:38:09Z
+modDatetime: 2025-03-31T16:30:45Z
 title: Intellectual Humility
 slug: intellectual-humility
 featured: false
@@ -25,5 +25,7 @@ For the John Templeton Foundation, I wrote about intellectual humility.
 > Saint Augustine famously called humility the foundation of all other virtues. One variety of humility, intellectual humility, is perhaps the most foundational when it comes to the interests of the John Templeton Foundation.
 >
 > Intellectual humility is a mindset that guides our intellectual conduct. In particular, it involves recognizing and owning our intellectual limitations in the service of pursuing deeper knowledge, truth, and understanding. Such a mindset appears to be valuable in many domains of life — from education to interreligious dialogue to public discourse. It promises to help us avoid headstrong decisions and erroneous opinions, and allows us to engage more constructively with our fellow citizens.
+
+---
 
 [Read more at templeton.org](https://www.templeton.org/discoveries/intellectual-humility)

@@ -9,6 +9,8 @@ draft: False
 description: This post explores an innovative approach to improving teen driving safety by utilizing feedback mechanisms similar to those used in fleet management. "By placing our How’s My Driving sticker on your car, other drivers now have an easy way to provide feedback about your teen’s driving..."
 emoji: 🚗
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🚗 Cars
   - ⚠️ Danger
   - ⚕️ Medicine
@@ -17,7 +19,6 @@ haiku: |
   Teens behind the wheel,  
   Feedback improves their skills,  
   Safety comes from love.
-
 coordinates: [37.7749, -122.4194]
 ---
 

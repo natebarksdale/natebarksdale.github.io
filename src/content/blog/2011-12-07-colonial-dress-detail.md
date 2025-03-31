@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2011-12-07
+modDatetime: 2025-03-31T16:30:38Z
 title: Colonial dress, detail
 slug: colonial-dress-detail
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the intersection of art, imperial history, and creativity through Susan Stockwell's unique paper dresses.
 emoji: 📜
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
   - 📖 Articles

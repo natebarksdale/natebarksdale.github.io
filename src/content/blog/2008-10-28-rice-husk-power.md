@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2008-10-28
+modDatetime: 2025-03-31T16:30:14Z
 title: Rice husk power
 slug: rice-husk-power
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring innovative ways to convert agricultural waste, specifically rice husks, into sustainable energy solutions for rural villages in India.
 emoji: ♻️
 tags:
+  - 🌍 Culture-Making.com
   - ⚙️ Engineering
   - ⚙️ Technology
   - ❤️ Charity

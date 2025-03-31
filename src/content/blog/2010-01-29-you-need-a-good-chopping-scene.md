@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-29
-modDatetime: 2010-01-29
+modDatetime: 2025-03-31T16:30:32Z
 title: You need a good chopping scene
 slug: you-need-a-good-chopping-scene
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: This excerpt explores the cinematic artistry of cooking, particularly the act of chopping, as a means of character representation in film.
 emoji: 🔪
 tags:
+  - ✨ Wonder
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 🍳 Cooking
   - 🌍 Culture
   - 🎭 Entertainment

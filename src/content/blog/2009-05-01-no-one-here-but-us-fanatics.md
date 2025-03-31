@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-01
-modDatetime: 2009-05-01
+modDatetime: 2025-03-31T16:30:25Z
 title: No one here but us fanatics
 slug: no-one-here-but-us-fanatics
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A reflection on the diverse passions and pursuits that enrich our understanding of the world.
 emoji: 🦅
 tags:
+  - ✨ Wonder
+  - 🌙 Islam
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📝 Writing
   - 🎨 Creativity

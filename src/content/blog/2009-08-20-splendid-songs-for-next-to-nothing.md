@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-20
-modDatetime: 2025-03-17T21:38:56Z
+modDatetime: 2025-03-31T16:30:28Z
 title: Splendid songs for (next to) nothing
 slug: splendid-songs-for-next-to-nothing
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Discover incredible music deals this week, including Emmylou Harris's album and free world music samplers.
 emoji: 🎶
 tags:
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 💵 Philanthropy
   - 🌐 Blogging

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2008-11-21
+modDatetime: 2025-03-31T16:30:16Z
 title: Modelling Snow White
 slug: modelling-snow-white
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A look at the evolution of Snow White, from her original design influenced by a live model to her modern, curvier representation.
 emoji: 👸
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🎨 Aesthetics
   - 🎨 Art
   - 🌍 Culture

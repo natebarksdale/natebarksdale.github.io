@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-27
-modDatetime: 2025-03-17T21:39:10Z
+modDatetime: 2025-03-31T16:30:36Z
 title: OK, and now can we get one with the torn shirt? Thanks!
 slug: ok-and-now-can-we-get-one-with-the-torn-shirt-thanks
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: The portrayal of poverty in media often lacks depth and dignity; this project aims to reveal a fuller picture of individuals' lives.
 emoji: 📸
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Africa
   - 🌍 Culture
   - ❤️ Charity

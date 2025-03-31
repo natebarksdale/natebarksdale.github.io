@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-18
-modDatetime: 2025-03-17T21:38:59Z
+modDatetime: 2025-03-31T16:30:30Z
 title: The sparrow and the phonograph
 slug: the-sparrow-and-the-phonograph
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An insightful warning from John Philip Sousa about the impact of mechanical music on American musical artistry.
 emoji: 🎼
 tags:
+  - 🚲 Bicycles
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - 📖 Articles
   - 🌍 Culture
   - ⚖️ Ethics

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-23
-modDatetime: 2025-03-17T21:38:47Z
+modDatetime: 2025-03-31T16:30:23Z
 title: Poking Facebook
 slug: poking-facebook
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: The ease of social networking creates challenges for self-reinvention.
 emoji: 🌐
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - 🌍 Identity
   - 📝 Writing

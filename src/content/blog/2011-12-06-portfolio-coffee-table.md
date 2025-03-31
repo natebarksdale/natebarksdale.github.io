@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-06
-modDatetime: 2025-03-17T21:39:14Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Portfolio | Coffee Table
 slug: portfolio-coffee-table
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: I've been working on special offer ads for my friends at Coffee Table.
 emoji: 📖
 tags:
+  - 📁 Portfolio
   - 🌐 Blogging
   - 💡 Design
   - ⚙️ Technology

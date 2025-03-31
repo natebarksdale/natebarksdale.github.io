@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-17T21:38:15Z
+modDatetime: 2025-03-31T16:30:06Z
 title: For English Studies, Koreans Say Goodbye to Dad
 slug: for-english-studies-koreans-say-goodbye-to-dad
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Parents in South Korea are increasingly seeking global opportunities for their children through English fluency, driven by dissatisfaction with the local educational system.
 emoji: 🌍
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Globalization
   - ⚖️ Choices
 haiku: |

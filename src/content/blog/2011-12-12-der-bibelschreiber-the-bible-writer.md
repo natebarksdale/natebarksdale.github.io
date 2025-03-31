@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-12
-modDatetime: 2011-12-12
+modDatetime: 2025-03-31T16:30:38Z
 title: Der Bibelschreiber (The Bible writer)
 slug: der-bibelschreiber-the-bible-writer
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the intersection of faith and technology, robotlab's work reflects on the roles of writing and progress in human experience.
 emoji: 🤖
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🖋️ Calligraphy
   - 📖 Bible

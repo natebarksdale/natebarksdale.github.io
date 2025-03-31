@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-30
-modDatetime: 2025-03-17T21:38:54Z
+modDatetime: 2025-03-31T16:30:27Z
 title: Portfolio | Word Search
 slug: portfolio-word-search
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: I enjoyed the creative challenge of designing a card centered around a letter grid, complete with a playable word search on the back.
 emoji: 🧩
 tags:
+  - 📁 Portfolio
+  - 💡 Design
   - 🎨 Creativity
   - 📖 Articles
   - 📝 Writing

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-15
-modDatetime: 2008-09-15
+modDatetime: 2025-03-31T16:30:10Z
 title: Out of that came the Googles of the world ..
 slug: out-of-that-came-the-googles-of-the-world
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: The Whole Earth Catalog ignited a cultural shift, blending creativity, small-scale entrepreneurship, and a new vision for commerce.
 emoji: 🌍
 tags:
+  - 📖 Bible
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 💼 Business
   - ⚙️ Technology

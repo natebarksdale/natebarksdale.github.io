@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-12
-modDatetime: 2025-03-20T14:57:34Z
+modDatetime: 2025-03-31T16:30:08Z
 title: Twenty years experience needed
 slug: twenty-years-experience-needed
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Brian Eno reflects on the deep-rooted theatrical traditions and community spirit of Oberammergau.
 emoji: 🎭
 tags:
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 📖 Bible
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - 🌍 Culture
   - 📝 Writing

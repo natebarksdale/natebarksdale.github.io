@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-27
-modDatetime: 2025-03-17T21:38:51Z
+modDatetime: 2025-03-31T16:30:25Z
 title: Eat when you eat
 slug: eat-when-you-eat
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: This insight by Joshua-Michéle highlights the paradox of digital distraction in our interconnected world.
 emoji: 🧠
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌐 Digital
   - 👀 Attention
   - 🎯 Focus

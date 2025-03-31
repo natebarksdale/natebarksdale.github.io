@@ -9,6 +9,7 @@ draft: False
 description: I love the color choices on these two row houses in the capital's Columbia Heights neighborhood.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🇺🇸 United States
   - ⚖️ Choices
   - 🎨 Colors
@@ -16,10 +17,7 @@ haiku: |
   Colors bright and bold,  
   Columbia Heights’ charm shines,  
   Home in harmony.
-
 coordinates: [38.9333, -77.0369]
 ---
 
 I love the color choices on these two row houses, in the capital's Columbia Heights neighborhood
-
----

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2008-10-02
+modDatetime: 2025-03-31T16:30:12Z
 title: Cans behind bars
 slug: cans-behind-bars
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Here's a fascinating look into the unique economy of American prisons, where canned mackerel serves as a form of currency.
 emoji: 🐟
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 💰 Commerce
   - ⚖️ Law
@@ -25,9 +26,7 @@ A great example of culture-making in America's prisons. Canned mackeral's value 
 > When Larry Levine helped prepare divorce papers for a client a few years ago, he got paid in mackerel. Once the case ended, he says, "I had a stack of macks
 >
 > Mr. Levine and his client were prisoners in California's Lompoc Federal Correctional Complex. Like other federal inmates around the country, they found a can of mackerel--the "mack" in prison lingo—was the standard currency
->
 > "It's the coin of the realm," says Mark Bailey, who paid Mr. Levine in fish. Mr. Bailey was serving a two-year tax-fraud sentence in connection with a chain of strip clubs he owned. Mr. Levine was serving a nine-year term for drug dealing. Mr. Levine says he used his macks to get his beard trimmed, his clothes pressed and his shoes shined by other prisoners. "A haircut is two macks," he says, as an expected tip for inmates who work in the prison barber shop
->
 > There's been a mackerel economy in federal prisons since about 2004, former inmates and some prison consultants say. That's when federal prisons prohibited smoking and, by default, the cigarette pack, which was the earlier gold standard
 
 ---

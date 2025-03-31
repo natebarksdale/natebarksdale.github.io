@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-28
-modDatetime: 2025-03-17T21:39:02Z
+modDatetime: 2025-03-31T16:30:31Z
 title: Our year in culture - Books, movies, and music of 2009, part 1
 slug: our-year-in-culture-books-movies-and-music-of-2009-part-1
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: This piece explores personal favorites in film, literature, and music from 2009, weaving together experiences and reflections on art and culture.
 emoji: 🎬
 tags:
+  - 🦁 Africa
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
   - 🎥 Film
   - 📖 Books
   - 🌍 Culture

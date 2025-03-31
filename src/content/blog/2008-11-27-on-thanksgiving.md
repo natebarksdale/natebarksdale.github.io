@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-27
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-31T16:30:16Z
 title: On Thanksgiving
 slug: on-thanksgiving
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Sarah Vowell offers a humorous observation about the irony of Thanksgiving celebrations and American independence.
 emoji: 🦃
 tags:
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - 🌍 Culture
   - 🎉 Celebration

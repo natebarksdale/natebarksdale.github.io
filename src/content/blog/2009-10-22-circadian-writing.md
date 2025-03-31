@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-22
-modDatetime: 2009-10-22
+modDatetime: 2025-03-31T16:30:29Z
 title: Circadian writing
 slug: circadian-writing
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: The similarities between email and letter-writing reveal more about communication patterns than universal truths about human correspondence.
 emoji: ✉️
 tags:
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
   - 📖 Articles
   - 📝 Writing
   - ⚖️ Choices

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-02
-modDatetime: 2025-03-17T21:38:40Z
+modDatetime: 2025-03-31T16:30:19Z
 title: Food stamps and farmers markets
 slug: food-stamps-and-farmers-markets
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring innovative ways to tackle hunger and obesity among food stamp recipients through incentives that promote fresh produce.
 emoji: 🥦
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌍 Health
 haiku: |
   Fresh food for the poor,  
@@ -22,9 +24,7 @@ Here's a way of fighting hunger and obesity at the same time, by incentivising (
 > ![image](http://culture-making.com/media/PH2008122302669_210.jpg)
 >
 > In the 2008 farm bill, Congress allocated $20 million for a pilot program to explore how to create incentives to purchase fruits, vegetables or other healthful foods in order to improve the diets of food stamp recipients and potentially reduce obesity. Several nonprofit groups and foundations are experimenting with similar incentives
->
 > One is the Wholesome Wave Foundation, an organization that works to make locally grown food more widely available. In the spring, it launched a program that doubles the value of food stamps and fruit and vegetable vouchers of low-income mothers and seniors who use them at farmers markets in Connecticut, Massachusetts and California.The Wholesome Wave matching grants were an instant hit at the City Heights market in San Diego. On the first day that matching funds became available, sales using government-issued electronic benefit cards soared by more than 200 percent. In subsequent weeks, the line to receive matching vouchers formed at 7:30 a.m., and the available funds were exhausted by 9:30 a.m., just 30 minutes after the market opened
->
 > “We’re not taking away your benefits because you spend them on Twinkies,” said Michel Nischan, a Connecticut chef and president of Wholesome Wave. “But if you decide you want to spend it on fresh tomatoes, you’ll get double your money.”
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-15
-modDatetime: 2025-03-17T21:38:19Z
+modDatetime: 2025-03-31T16:30:08Z
 title: Naming and photography
 slug: naming-and-photography
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration into the power of context in photography and how simple alterations can create misleading narratives.
 emoji: 🖼️
 tags:
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - ⚖️ Ethics
   - 🌍 Society

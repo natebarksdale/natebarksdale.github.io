@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-28
-modDatetime: 2009-05-28
+modDatetime: 2025-03-31T16:30:25Z
 title: More delicate
 slug: more-delicate
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In this reflection on the artistry of map-making, Elizabeth Bishop highlights the subtlety of colors compared to the work of historians.
 emoji: 🗺️
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Cartography
   - ✍️ Literature
   - 📚 Archives

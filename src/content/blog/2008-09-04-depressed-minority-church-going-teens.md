@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-04
-modDatetime: 2008-09-04
+modDatetime: 2025-03-31T16:30:10Z
 title: Depressed, minority church-going teens
 slug: depressed-minority-church-going-teens
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: This study highlights the complex relationship between religious participation and adolescent mental health, particularly among minority teens.
 emoji: 🕊️
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ⚕️ Medicine
   - ❤️ Kindness
@@ -26,11 +28,8 @@ High church attendance correlates with lower rates of depression—unless, this 
 > One of the few studies to look at the effects of religious participation on the mental health of minorities suggests that for some of them, religion may actually be contributing to adolescent depression. Previous research has shown that teens who are active in religious services are depressed less often because it provides these adolescents with social support and a sense of belonging
 >
 > But new research has found that this does not hold true for all adolescents, particularly for minorities and some females. The study found that white and African-American adolescents generally had fewer symptoms of depressive at high levels of religious participation. But for some Latino and Asian-American adolescents, attending church more often was actually affecting their mood in a negative way
->
 > Asian-American adolescents who reported high levels of participation in their church had the highest number of depressive symptoms among teens of their race
->
 > Likewise, Latino adolescents who were highly active in their church were more depressed than their peers who went to church less often. Females of all races and ethnic groups were also more likely to have symptoms of depression than males overall
->
 > Setting all other factors aside, the results suggest that participating in religion at high levels may be detrimental to some teens because of the tensions they face in balancing the conflicting ideals and customs of their religion with those of mainstream culture, said Richard Petts, co-author of the study, who did the work as a doctoral student in sociology at Ohio State University
 
 ---

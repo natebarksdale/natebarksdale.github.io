@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-13
-modDatetime: 2025-03-17T21:38:25Z
+modDatetime: 2025-03-31T16:30:10Z
 title: The practice of practicing
 slug: the-practice-of-practicing
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: From Mark Slutsky, a reflection on rekindling a childhood dream of becoming a pianist.
 emoji: 🎹
 tags:
+  - 🌍 Culture-Making.com
   - 🎶 Activities
 haiku: |
   Dreams of piano,  

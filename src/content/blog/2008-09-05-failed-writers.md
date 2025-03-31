@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-17T21:38:24Z
+modDatetime: 2025-03-31T16:30:10Z
 title: Failed writers
 slug: failed-writers
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Remembering Robert Giroux and his insightful exchange with T. S. Eliot on the nature of writers and editors.
 emoji: ✍️
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🔍 Critique
   - 📖 Biographies

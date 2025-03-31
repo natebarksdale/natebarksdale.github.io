@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-04
-modDatetime: 2008-12-04
+modDatetime: 2025-03-31T16:30:17Z
 title: If you offer it, they will come
 slug: if-you-offer-it-they-will-come
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the resurgence of literary interest, John Parker examines the appeal of classic literature amidst modern cultural critiques.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📖 Books
   - 🌍 Culture

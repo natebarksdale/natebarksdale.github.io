@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2025-03-17T21:38:25Z
+modDatetime: 2025-03-31T16:30:11Z
 title: Grand ideas first,  obstacles later
 slug: grand-ideas-first-obstacles-later
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: A critical reflection on the narrative of world-changing meetings and the potential consequences of scientific endeavors, particularly referencing CERN's impact on our understanding of the universe.
 emoji: 🌌
 tags:
+  - ⚛️ Physics
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🌍 Culture
   - ⚙️ Technology

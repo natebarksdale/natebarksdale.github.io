@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-19
-modDatetime: 2025-03-17T21:39:04Z
+modDatetime: 2025-03-31T16:30:33Z
 title: The crying-on-the-inside kind of news
 slug: the-crying-on-the-inside-kind-of-news
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: I can't help thinking about the fascinating blend of humor and seriousness in Mexican media, particularly with Brozo the clown delivering news and critiques.
 emoji: 🤡
 tags:
+  - 📺 Television
+  - 🇲🇽 Mexico
+  - 🌍 Culture-Making.com
   - 🎭 Comedy
   - 🗳️ Politics
   - ⚖️ Courtroom

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2008-08-01
+modDatetime: 2025-03-31T16:30:06Z
 title: A sofa revolution
 slug: a-sofa-revolution
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A story of neighbors taking matters into their own hands to improve their community by slowing down traffic in Delft.
 emoji: 🚦
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Activism
   - ⚖️ Law
   - ⚙️ Technology

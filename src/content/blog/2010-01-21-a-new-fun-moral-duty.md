@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-21
-modDatetime: 2025-03-17T21:39:03Z
+modDatetime: 2025-03-31T16:30:32Z
 title: A new (fun) moral duty
 slug: a-new-fun-moral-duty
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the ethics of book-buying and the value of supporting living authors.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - 📖 Books
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-08
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:17Z
 title: On the migration of books
 slug: on-the-migration-of-books
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Orhan Pamuk reflects on the meaningful connection between his reading journey and his father's library, evoking thoughts on the books we cherish and share.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - 📖 Books
   - 🌍 Culture
   - ✍️ Literature

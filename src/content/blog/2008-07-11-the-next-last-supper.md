@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-11
-modDatetime: 2025-03-17T21:38:13Z
+modDatetime: 2025-03-31T16:30:04Z
 title: The next Last Supper
 slug: the-next-last-supper
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A thought-provoking interpretation of Leonardo's Last Supper explores its themes through modern technology and artistic expression.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🖼️ Artifacts
   - 🌍 Culture
@@ -25,7 +26,6 @@ A British director's remix of Leonardo's Last Supper. I suppose you'd have to se
 > To the strains of modern opera, he used cutting-edge technical trickery to make Leonardo’s Christ appear like a three-dimensional hologram while a radiant sun rose and fell over his head. He turned the original colourful image red, grey and black before the artist’s gentle brush strokes were replaced with a chalk outline of the 13 figures, as if Leonardo had drawn a crime scene. Dawn broke, dusk fell and by the end the disciples had been dramatically cast into the shadow of prison-like bars
 >
 > To at least one of the world’s experts on Da Vinci, Greenaway’s work amounted to cultural vandalism. But to others it may have saved The Last Supper’s reputation from The Da Vinci Code, Dan Brown’s blockbuster novel, which frustrated many experts by reducing the painting’s hidden meanings to a plot device
->
 > “It has reconsecrated the painting after Dan Brown deconsecrated it,” said Vittorio Sgarbi, a leading art critic and former head of arts for the Milan local government.
 
 ---

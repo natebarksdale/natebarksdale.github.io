@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-28
-modDatetime: 2025-03-17T21:38:58Z
+modDatetime: 2025-03-31T16:30:29Z
 title: Not all thumbs
 slug: not-all-thumbs
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: This study reveals how counting gestures differ across cultures, particularly between Germans and Canadians.
 emoji: ✋
 tags:
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - 🌍 Culture
   - 👋 Greetings

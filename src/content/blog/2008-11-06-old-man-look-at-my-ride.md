@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-17T21:38:33Z
+modDatetime: 2025-03-31T16:30:15Z
 title: Old man, look at my ride
 slug: old-man-look-at-my-ride
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Meet the mechanic blending green innovation with American muscle.
 emoji: 🚗
 tags:
+  - 🌍 Culture-Making.com
   - 🇰🇭 Cambodia
   - ⚙️ Engineering
   - 🌱 Sustainability

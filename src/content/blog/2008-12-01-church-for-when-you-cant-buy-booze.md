@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-17T21:38:37Z
+modDatetime: 2025-03-31T16:30:17Z
 title: Church - for when you can’t buy booze
 slug: church-for-when-you-cant-buy-booze
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: This study explores the impact of blue laws on religious participation and behavior in society.
 emoji: 📅
 tags:
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ⚖️ Law
   - ❤️ Charity

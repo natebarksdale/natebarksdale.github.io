@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-24
-modDatetime: 2025-03-17T21:38:52Z
+modDatetime: 2025-03-31T16:30:26Z
 title: One works and works for something, which then happens of its own accord
 slug: one-works-and-works-for-something-which-then-happens-of-its-own-accord
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Reflecting on the nature of political transformation and the interplay of effort and grace, Weschler captures the essence of spontaneous uprising in his writings.
 emoji: 🌊
 tags:
+  - ✨ Wonder
+  - 🍷 Europe
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - 🌍 Society
   - ✍️ Literature

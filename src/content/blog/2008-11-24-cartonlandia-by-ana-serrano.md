@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-17T21:38:35Z
+modDatetime: 2025-03-31T16:30:16Z
 title: Cartonlandia, by Ana Serrano
 slug: cartonlandia-by-ana-serrano
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: I adore the vibrant color and unique spatial qualities in the collage-like sculpture by Ana Serrano.
 emoji: 🎨
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - ✨ Beauty
   - 🌍 Culture
@@ -22,11 +24,6 @@ coordinates: [34.0522, -118.2437]
 ---
 
 ![image](http://culture-making.com/media/shapeimage_2_210.jpg)
-
 I love the color and use of flatness and space in this collage-like sculpture by the young L.A. artist Ana Serrano
-
 [![image](http://culture-making.com/media/ana02-1.jpg)](http://www.designboom.com/weblog/cat/10/view/4591/artist-ana-serrano.html)
-
----
-
 [Cartonlandia](https://www.google.com/search?q=%22Cartonlandia%22%20anaserrano.com) (detail), by Ana Serrano, 2008 :: via [designboom](http://www.designboom.com/weblog/cat/10/view/4591/artist-ana-serrano.html)

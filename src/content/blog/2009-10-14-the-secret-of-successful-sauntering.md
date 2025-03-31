@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-14
-modDatetime: 2009-10-14
+modDatetime: 2025-03-31T16:30:29Z
 title: The secret of successful sauntering
 slug: the-secret-of-successful-sauntering
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on the paradox of seeking solitude in nature during the turmoil of war through Thoreau's insights.
 emoji: 🌳
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ❤️ Kindness
 haiku: |

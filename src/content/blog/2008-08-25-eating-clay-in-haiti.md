@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-25
-modDatetime: 2025-03-17T21:38:21Z
+modDatetime: 2025-03-31T16:30:09Z
 title: Eating clay in Haiti
 slug: eating-clay-in-haiti
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A heartbreaking account of how rising food prices have led to the rise of "mud cakes" in Haiti, a troubling yet culturally significant response to hunger.
 emoji: 🍽️
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Haiti
   - ❤️ Charity
   - 🌱 Sustainability

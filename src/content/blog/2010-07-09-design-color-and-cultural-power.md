@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-07-09
-modDatetime: 2010-07-09
+modDatetime: 2025-03-31T16:30:37Z
 title: Design, color, and cultural power
 slug: design-color-and-cultural-power
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A Portuguese communication designer reflects on the cultural richness of her students in Mozambique and their misconceptions about design practices.
 emoji: 🎨
 tags:
+  - 💡 Design
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🎨 Aesthetics
   - 🌍 Culture
   - ✍️ Literature

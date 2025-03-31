@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-24
-modDatetime: 2025-03-17T21:39:04Z
+modDatetime: 2025-03-31T16:30:33Z
 title: Portfolio | StageGrade Logo
 slug: portfolio-stagegrade-logo
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: I had the pleasure of designing the logo for the relaunch of StageGrade, an innovative publishing startup focused on theater reviews. The graphic element creatively incorporates StageGrade's unique bar graph representations of critical reviews, while the scalloped corners subtly nod to vintage theater tickets.
 emoji: 🎭
 tags:
+  - 📁 Portfolio
+  - 💡 Design
   - 🎨 Art
   - 🌐 Blogging
   - 🌟 Inspiration

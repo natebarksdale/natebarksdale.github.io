@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:17Z
 title: Network ≠ community
 slug: network-community
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the nuanced impact of recommender systems on cultural diversity and individual experiences.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Algorithms
   - 🌍 Culture
   - 🌀 Complexity

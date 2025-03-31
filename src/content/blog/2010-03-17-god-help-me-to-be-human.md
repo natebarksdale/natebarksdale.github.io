@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-17
-modDatetime: 2025-03-17T21:39:05Z
+modDatetime: 2025-03-31T16:30:34Z
 title: God help me to be human
 slug: god-help-me-to-be-human
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Richard Rodriguez reflects on César Chávez's vision of courage and suffering for others in the context of Mexican identity and dignity.
 emoji: 💔
 tags:
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - ❤️ Kindness
 haiku: |
   Suffering and grace,  

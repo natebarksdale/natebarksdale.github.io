@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-17T21:38:32Z
+modDatetime: 2025-03-31T16:30:14Z
 title: A breath wafted from Paradise over the human world
 slug: a-breath-wafted-from-paradise-over-the-human-world
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An exploration of how spices from foreign lands captivated the imagination of Medieval Europeans.
 emoji: 🌍
 tags:
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌶️ Spices
   - 🌍 Culture
   - 📖 Books

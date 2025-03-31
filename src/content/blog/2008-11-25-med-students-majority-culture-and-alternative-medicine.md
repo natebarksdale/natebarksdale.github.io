@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-25
-modDatetime: 2008-11-25
+modDatetime: 2025-03-31T16:30:16Z
 title: Med students, majority culture, and alternative medicine
 slug: med-students-majority-culture-and-alternative-medicine
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the contrasting views of non-white medical students on alternative medicine reveals deeper cultural dynamics at play.
 emoji: 🌎
 tags:
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - 🌍 Diversity
   - 🤝 Collaboration

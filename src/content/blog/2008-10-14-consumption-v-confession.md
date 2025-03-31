@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: Consumption v. confession
 slug: consumption-v-confession
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of the shifting practices in Catholic confession and the Eucharist.
 emoji: ⛪
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ⚖️ Ethics
 haiku: |

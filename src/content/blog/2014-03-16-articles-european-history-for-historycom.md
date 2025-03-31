@@ -9,6 +9,8 @@ draft: False
 description: I had quite a bit of fun writing these pieces on European topics for History.com, exploring figures and events that shaped the continent.
 emoji: 📜
 tags:
+  - 🍷 Europe
+  - 🇭 History.com
   - 🌍 History
   - 📖 Articles
   - 📜 Ancient Texts
@@ -18,7 +20,6 @@ haiku: |
   Kings and thinkers rise,  
   Knowledge sparks a great discourse,  
   Change across the lands.
-
 coordinates: [51.1657, 10.4515]
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2008-09-29
+modDatetime: 2025-03-31T16:30:12Z
 title: Strawberries and reindeer
 slug: strawberries-and-reindeer
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An exploration of the profound significance of cooking in human culture.
 emoji: 🍳
 tags:
+  - ✨ Wonder
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - 🍳 Cooking
   - 🌱 Sustainability
   - 📖 Books

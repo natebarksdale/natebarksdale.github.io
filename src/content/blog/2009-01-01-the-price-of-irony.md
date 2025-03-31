@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-17T21:38:40Z
+modDatetime: 2025-03-31T16:30:19Z
 title: The price of irony
 slug: the-price-of-irony
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A thought-provoking exploration of the nature of irony and its impact on moral reasoning.
 emoji: 🤔
 tags:
+  - 🌍 Culture-Making.com
   - 🎭 Irony
   - 💬 Communication
   - 🌍 Society

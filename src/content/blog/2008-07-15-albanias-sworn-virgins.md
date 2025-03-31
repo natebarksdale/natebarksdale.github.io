@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2008-07-15
+modDatetime: 2025-03-31T16:30:04Z
 title: Albania’s sworn virgins
 slug: albanias-sworn-virgins
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of gender roles and social necessity in traditional Albanian culture through the practice of sworn virgins.
 emoji: ⚔️
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Society
   - ⚖️ Choices
@@ -25,7 +27,6 @@ Interesting example of gender fluidity in a very traditional culture. (Well, per
 > The tradition of the sworn virgin can be traced to the Kanun of Leke Dukagjini, a code of conduct that has been passed on orally among the clans of northern Albania for more than five centuries. Under the Kanun, the role of women is severely circumscribed: Take care of children and maintain the home. While a woman’s life is worth half that of a man, a virgin’s value is the same - 12 oxen
 >
 > The sworn virgin was born of social necessity in an agrarian region plagued by war and death. If the patriarch of the family died with no male heirs, unmarried women in the family could find themselves alone and powerless. By taking an oath of virginity, women could take on the role of men as head of the family, carry a weapon, own property and move freely
->
 > They dress like men, adopt a male swagger and spend their lives in the company of other men.
 
 ---

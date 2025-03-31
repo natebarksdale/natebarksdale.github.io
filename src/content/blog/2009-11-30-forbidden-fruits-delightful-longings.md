@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-30
-modDatetime: 2025-03-17T21:39:00Z
+modDatetime: 2025-03-31T16:30:30Z
 title: Forbidden fruits, delightful longings
 slug: forbidden-fruits-delightful-longings
 featured: false
@@ -9,6 +9,12 @@ draft: false
 description: A longing for the elusive mangosteen explores its history and the bittersweet nature of desire.
 emoji: 🍈
 tags:
+  - ✨ Wonder
+  - 💡 Design
+  - 🗣️ Language
+  - 🍷 Europe
+  - 🇨🇳 China
+  - 🌍 Culture-Making.com
   - 🌍 Southeast Asia
 haiku: |
   Forbidden fruit waits,  

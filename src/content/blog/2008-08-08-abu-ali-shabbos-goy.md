@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-17T21:38:18Z
+modDatetime: 2025-03-31T16:30:07Z
 title: Abu Ali, Shabbos Goy
 slug: abu-ali-shabbos-goy
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: A unique interaction between cultures emerges when a Muslim taxi driver helps observant Jews on the Sabbath.
 emoji: 🚕
 tags:
+  - ✨ Wonder
+  - 🌙 Islam
+  - ✡️ Judaism
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ❤️ Kindness
   - 🤝 Altruism
@@ -24,11 +28,8 @@ A fascinating fable of cultural connection (and not-quite-connection). I wonder 
 > Like any archaic tradition, getting non-Jews to help on the Sabbath has evolved over time. Talmudic scholars, Jewish academics and Israeli lawmakers all have wrestled with how to balance religious devotion and modern life
 >
 > In this Jerusalem neighborhood, once the sun sets on Fridays and the streets are cordoned off, the only driver on the roads is Abu Ali, in his white taxi, with a red police light that he puts on the roof and special laminated signs he sticks in the front window so his car isn’t mistakenly attacked
->
 > Since observant Jews can’t ask for help, they use a special code with Abu Ali. If they need the air conditioner turned on, they tell him that it’s hot. If they need a light turned on or a fuse changed, they say that it’s dark
->
 > Abu Ali charges about $10 per visit. If he has to rush a pregnant woman to the hospital — something he said he sometimes has to do three or for times each Sabbath — it costs about $30
->
 > The families aren’t supposed to pay him for his services, so the community set up a box outside the neighborhood synagogue where people can put the money. If Abu Ali has to come collect directly, it costs an extra $5.
 
 ---

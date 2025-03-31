@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-25
-modDatetime: 2025-03-17T21:39:03Z
+modDatetime: 2025-03-31T16:30:32Z
 title: What food books say
 slug: what-food-books-say
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on our complex relationship with food and cookbooks, revealing both knowledge and ignorance throughout history.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - 🍳 Cooking
   - 🌍 Culture
 haiku: |

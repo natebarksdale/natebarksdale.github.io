@@ -50,7 +50,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
   }
 
   :global(#about div.intro-tile p:nth-child(1)) {
-    @apply px-4 py-2 rounded-md my-4;
+    @apply -m-4 px-4 py-2 rounded-md my-4;
     background-color: #fff9dd; /* Warm yellow */
   }
 
@@ -92,6 +92,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
       width: 100%;
       min-height: 300px; /* Increase height for better visibility */
       margin-top: 1.5rem;
+      display: none !important;
     }
 
     :global(#about div.intro-tile .map-container #map-illustration-container) {
@@ -108,7 +109,7 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     /* Each section (h1 + content until next h1) becomes a tile */
     :global(#about div.section-tile) {
-      @apply w-[48%] mb-8 rounded-lg transition-all duration-300;
+      @apply w-[48%] mb-8 text-xl rounded-lg transition-all duration-300;
     }
 
     /* The last tile (full-width) takes the entire row */
@@ -118,7 +119,6 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 
     :global(#about div.section-tile:hover),
     :global(#about div.intro-tile:hover) {
-      @apply bg-gray-50 shadow-md;
     }
 
     /* Style the headings inside tiles - WITHOUT bottom borders */

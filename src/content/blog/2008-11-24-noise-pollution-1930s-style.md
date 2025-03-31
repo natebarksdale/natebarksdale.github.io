@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-31T16:30:16Z
 title: Noise pollution, 1930s-style
 slug: noise-pollution-1930s-style
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A whimsical take on historical aerial advertising through an amusing quote about a police amphibian airplane's chase.
 emoji: 🛩️
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 📺 Broadcasting
   - 🌍 Culture
   - 🛫 Flight

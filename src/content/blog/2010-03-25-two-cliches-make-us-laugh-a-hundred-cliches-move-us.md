@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-25
-modDatetime: 2025-03-17T21:39:06Z
+modDatetime: 2025-03-31T16:30:34Z
 title: Two clichés make us laugh. A hundred clichés move us
 slug: two-cliches-make-us-laugh-a-hundred-cliches-move-us
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Eco explores how _Casablanca_ transcends clichés to unveil narrative power and emotional depth.
 emoji: 🎬
 tags:
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - 🎥 Film

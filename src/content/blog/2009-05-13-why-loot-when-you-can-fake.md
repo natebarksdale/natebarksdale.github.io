@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-13
-modDatetime: 2025-03-17T21:38:50Z
+modDatetime: 2025-03-31T16:30:25Z
 title: Why loot when you can fake?
 slug: why-loot-when-you-can-fake
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A fascinating shift in the antiques market is explored, highlighting how eBay's influence changed looting dynamics.
 emoji: 🏺
 tags:
+  - 🌍 Culture-Making.com
   - ⚒️ Blacksmiths
   - ⚖️ Ethics
   - 🌍 Culture

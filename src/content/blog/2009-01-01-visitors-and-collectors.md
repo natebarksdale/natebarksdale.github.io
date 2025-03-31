@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-17T21:38:40Z
+modDatetime: 2025-03-31T16:30:19Z
 title: Visitors and collectors
 slug: visitors-and-collectors
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: From a new study, insights into the parallels between viewing and purchasing art, revealing that both experiences can provide similar satisfactions.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
   - 📝 Writing
@@ -24,7 +25,6 @@ Scanning this article's headline, I thought it might be outlining the triumph of
 > The experience of purchasing art shares much in common with viewing it in exhibits, according to a new study in the Journal of Consumer Research. Author Yu Chen (Oakland University) shows that visiting a gallery can provide many of the same benefits as buying a painting…
 >
 > The author found that art collectors and visitors to galleries and museums share many desires and values, including otherness, sociality, philanthropy, spirituality, aesthetics, and novelty. How collectors differ from visitors is in their desire for a long-term intimate relationship with the artworks. Visitors want to avoid repetition and dullness, and like the experience of sharing art communally
->
 > Chen also found that the experiences of both art purchasers and art viewers do not always correspond with their expectations. "This contradiction implies that desire and illusions, more than value and perceptions, are the driving forces behind consumption," writes Chen
 
 ---

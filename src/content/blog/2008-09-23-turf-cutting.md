@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-17T21:38:26Z
+modDatetime: 2025-03-31T16:30:11Z
 title: Turf-cutting
 slug: turf-cutting
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the contrasts between the art of turf-cutting and its poetic representation in Seamus Heaney's work.
 emoji: 🍃
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ✍️ Poetry
   - 🌍 Culture
   - 🌍 History
@@ -27,7 +29,4 @@ To drink it, then fell to right away
 Nicking and slicing neatly, heaving sods  
 Over his shoulder, digging down and down  
 For the good turf. Digging
-
----
-
 from "[Cutting Peats](http://www.youtube.com/watch?v=sfzH_WTLulM&feature=related)," by [lyndafiddle](http://www.youtube.com/user/lyndafiddle)/YouTube, 10 July 2007

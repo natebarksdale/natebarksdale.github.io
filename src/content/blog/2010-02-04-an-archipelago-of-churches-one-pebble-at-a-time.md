@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-04
-modDatetime: 2025-03-17T21:39:03Z
+modDatetime: 2025-03-31T16:30:33Z
 title: An archipelago of churches, one pebble at a time
 slug: an-archipelago-of-churches-one-pebble-at-a-time
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An incredible account of a unique tradition in Montenegro's Bay of Kotor, where devotion and geology intertwine through the art of throwing stones into the sea.
 emoji: ⛪
 tags:
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - 🌍 Culture
   - 🌍 History

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-11
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Accept, fuse, rehabilitate
 slug: accept-fuse-rehabilitate
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An insightful reflection from Walt Whitman on creativity and identity.
 emoji: 🔄
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Poetry
   - 🌍 Culture
   - 🤝 Altruism

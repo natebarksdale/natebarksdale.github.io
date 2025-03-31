@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-24
-modDatetime: 2025-03-17T21:38:32Z
+modDatetime: 2025-03-31T16:30:14Z
 title: The root of real honor
 slug: the-root-of-real-honor
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the sacredness of family and honor, drawing from a profound narrative in _Gilead_.
 emoji: 🙏
 tags:
+  - 🌍 Culture-Making.com
   - 📖 Bible
   - ⛪ Religion
   - 🌍 Culture

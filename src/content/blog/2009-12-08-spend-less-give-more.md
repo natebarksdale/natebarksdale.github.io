@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-08
-modDatetime: 2009-12-08
+modDatetime: 2025-03-31T16:30:30Z
 title: Spend less, give more
 slug: spend-less-give-more
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring a meaningful approach to the holiday season that emphasizes giving, creativity, and community rather than consumption.
 emoji: 🎁
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ❤️ Charity
   - ⚖️ Choices
   - 🌍 Culture

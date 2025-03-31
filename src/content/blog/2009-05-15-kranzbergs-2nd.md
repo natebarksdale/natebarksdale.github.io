@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-15
-modDatetime: 2009-05-15
+modDatetime: 2025-03-31T16:30:25Z
 title: Kranzberg’s 2nd
 slug: kranzbergs-2nd
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the profound relationship between invention and necessity.
 emoji: 🔧
 tags:
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - ⚖️ Choices
   - ⚖️ Ethics

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-11
-modDatetime: 2025-03-17T21:39:12Z
+modDatetime: 2025-03-31T16:30:37Z
 title: About complaining
 slug: about-complaining
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: James Murphy reflects on the power of creativity in expressing dissatisfaction.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - 💬 Communication
 haiku: |

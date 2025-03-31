@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-23
-modDatetime: 2025-03-17T21:39:06Z
+modDatetime: 2025-03-31T16:30:34Z
 title: Sublime technologies
 slug: sublime-technologies
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Christine Rosen reflects on the evolution of human awe toward machines from the marvel of the dynamo to the mundanity of modern technology.
 emoji: ⚙️
 tags:
+  - ✨ Wonder
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - 🌍 Culture
   - ⚖️ Ethics

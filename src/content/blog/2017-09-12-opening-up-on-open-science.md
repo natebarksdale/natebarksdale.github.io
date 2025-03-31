@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2017-09-12
-modDatetime: 2025-03-17T21:39:18Z
+modDatetime: 2025-03-31T16:30:39Z
 title: Interview | Opening Up on Open Science
 slug: interview-opening-up-on-open-science
 featured: false
@@ -25,5 +25,7 @@ For the John Templeton Foundation, I wrote about the transformative impact of op
 > **JTF: How did contemporary scientific research arrive at the present-day “crisis of reproducibility”?**
 >
 > **Nosek:** When you survey researchers on scientific values like transparency and reproducibility of research, over 90 percent of people say they embrace those values. And when you ask them how they behave people mostly say that they behave according the norms of science. But when you ask, “How do other people in your field behave?” they say, “Oh, most people don’t behave like that.”
+
+---
 
 [Read more at templeton.org](https://www.templeton.org/news/opening-open-science)

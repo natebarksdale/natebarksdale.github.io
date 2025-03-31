@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-15
-modDatetime: 2025-03-17T21:39:05Z
+modDatetime: 2025-03-31T16:30:33Z
 title: Even better than the real thing
 slug: even-better-than-the-real-thing
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of how modern techniques of reproduction, as seen in Cameron Moll's Colosseo project, transform the concept of authenticity in art.
 emoji: 🎨
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - 📖 Articles
   - 🎨 Art

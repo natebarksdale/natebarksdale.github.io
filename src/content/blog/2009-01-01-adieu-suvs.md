@@ -9,6 +9,7 @@ draft: False
 description: An analysis of the cultural dynamics surrounding the decline of S.U.V. sales amidst fluctuating gas prices.
 emoji: 🚗
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ⚖️ Choices
   - ⚠️ Danger
@@ -17,7 +18,6 @@ haiku: |
   Gas prices rise high,  
   S.U.V.s lose their allure,  
   Cool fades, wheels roll on.
-
 coordinates: [37.0902, -95.7129]
 ---
 

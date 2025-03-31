@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-20
-modDatetime: 2025-03-17T21:38:50Z
+modDatetime: 2025-03-31T16:30:24Z
 title: Our riches have buried our treasures
 slug: our-riches-have-buried-our-treasures
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In times of economic struggle, we may discover the true value of relationships and gratitude.
 emoji: 🌱
 tags:
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - 💰 Commerce
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2008-07-19
+modDatetime: 2025-03-31T16:30:05Z
 title: Alan Jacobs on athiests’ faith in faith
 slug: alan-jacobs-on-athiests-faith-in-faith
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection by Alan Jacobs on the influence of secular life over religious beliefs.
 emoji: 🤔
 tags:
+  - 🌍 Culture-Making.com
   - ✝️ Christianity
   - 🙏 Faith
   - 🌍 Identity

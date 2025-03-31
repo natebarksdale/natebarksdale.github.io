@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-20
-modDatetime: 2025-03-17T21:38:31Z
+modDatetime: 2025-03-31T16:30:13Z
 title: The afterlife of Gordon Gekko
 slug: the-afterlife-of-gordon-gekko
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflection on the unintended consequences of cultural narratives, particularly in film.
 emoji: 🎭
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - 🌍 Culture
   - 🎭 Miscommunication
@@ -24,7 +25,6 @@ We can never really predict what the effects, and interpretations, of our cultur
 > Gekko’s character was written to create an engaging, charming, but deceitful and brutal being. I have nevertheless run into quite a number of younger people, who upon discovering that I co-wrote the film, wax rhapsodic about it . . . but often for the wrong reasons
 >
 > A typical example would be a business executive or a younger studio development person spouting something that goes like this: “The movie changed my life. Once I saw it I knew that I wanted to get into such and such business. I wanted to be like Gordon Gekko.”
->
 > The flattery is disarming and ego-stoking, but then neurons fire and alarm bells go off. “You have succeeded with this movie, but you’ve also failed. You gave these people hope to become greater asses than they may already be.”
 
 ---

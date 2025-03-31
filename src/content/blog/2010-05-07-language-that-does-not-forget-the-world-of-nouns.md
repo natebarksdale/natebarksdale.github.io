@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-07
-modDatetime: 2025-03-17T21:39:09Z
+modDatetime: 2025-03-31T16:30:35Z
 title: Language that does not forget the world of nouns
 slug: language-that-does-not-forget-the-world-of-nouns
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Sven Birkerts reflects on the enduring value of novels in a digital age where concentration is a challenge to be fought for.
 emoji: 📚
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📝 Writing
   - 🌍 Society

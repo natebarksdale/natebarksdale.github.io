@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-10
-modDatetime: 2025-03-17T21:38:49Z
+modDatetime: 2025-03-31T16:30:24Z
 title: Comforts and delights
 slug: comforts-and-delights
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: "I’ll be weighing in there with my thoughts about interesting cultural artifacts."
 emoji: 📖
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📖 Articles
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: Best book review opening ever
 slug: best-book-review-opening-ever
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the sensory experience of books, particularly their scents, as captured in Nicholson Baker's delightful prose.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 📖 Books
   - 📝 Writing

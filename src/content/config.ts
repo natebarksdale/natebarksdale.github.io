@@ -21,9 +21,7 @@ const blog = defineCollection({
         .or(z.string())
         .optional(),
       description: z.string(),
-      coordinates: z
-        .tuple([z.number(), z.number()])
-        .optional(),
+      coordinates: z.tuple([z.number(), z.number()]).optional(),
       canonicalURL: z.string().optional(),
     }),
 });

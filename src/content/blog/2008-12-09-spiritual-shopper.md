@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Spiritual Shopper
 slug: spiritual-shopper
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Kathleen Norris discusses the modern mishmash of religious experiences devoid of communal depth and historical context.
 emoji: 🌀
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - ⛪ Religion
   - ✡️ Judaism
   - 🙏 Faith

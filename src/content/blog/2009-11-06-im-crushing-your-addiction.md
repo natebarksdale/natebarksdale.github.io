@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-06
-modDatetime: 2025-03-17T21:38:59Z
+modDatetime: 2025-03-31T16:30:29Z
 title: I’m crushing your addiction!
 slug: im-crushing-your-addiction
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A study reveals the impact of virtual reality on reducing tobacco addiction through a unique method of physically engaging with simulated cigarettes.
 emoji: 💻
 tags:
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - 💬 Communication
 haiku: |

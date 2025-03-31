@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-15
-modDatetime: 2025-03-17T21:39:15Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Technology is not the enemy (uncoolness is)
 slug: technology-is-not-the-enemy-uncoolness-is
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: An exploration of how technology's role in language preservation is changing perceptions among indigenous communities.
 emoji: 🌍
 tags:
+  - 📺 Television
+  - 🗣️ Language
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - 🌍 Indigenous Culture
   - ⚙️ Technology
   - 💡 Innovation

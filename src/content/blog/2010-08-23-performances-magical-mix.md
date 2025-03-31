@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-23
-modDatetime: 2010-08-23
+modDatetime: 2025-03-31T16:30:37Z
 title: Performance’s magical mix
 slug: performances-magical-mix
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the power of performance and its impact on the audience.
 emoji: 🎶
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - 🎤 Performances
   - 🎭 Entertainment
   - 🎶 Activities

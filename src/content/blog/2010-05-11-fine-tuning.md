@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-11
-modDatetime: 2025-03-17T21:39:09Z
+modDatetime: 2025-03-31T16:30:36Z
 title: Fine tuning
 slug: fine-tuning
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An insightful moment from Indian sitar virtuoso Ravi Shankar's performance, highlighting the audience's appreciation of music.
 emoji: 🎶
 tags:
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 🎤 Performances
   - 🌍 Culture

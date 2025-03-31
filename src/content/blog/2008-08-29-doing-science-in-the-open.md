@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2025-03-17T21:38:23Z
+modDatetime: 2025-03-31T16:30:09Z
 title: Doing science in the open
 slug: doing-science-in-the-open
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Barry Canton advocates for transparency in science by sharing his research openly online, challenging traditional academic norms.
 emoji: 🌐
 tags:
+  - 🦠 Biology
+  - 🌍 Culture-Making.com
   - 💡 Innovation
   - 🤝 Collaboration
 haiku: |
@@ -23,9 +25,7 @@ A challenge to the culture of peer-reviewed scientific authority (and secrecy). 
 > Barry Canton, a 28-year-old biological engineer at the Massachusetts Institute of Technology, has posted raw scientific data, his thesis proposal, and original research ideas on an online website for all to see
 >
 > To young people primed for openness by the confessional existence they live online, that may not seem like a big deal. But in the world of science—where promotions, tenure, and fortune rest on publishing papers in prestigious journals, securing competitive grants, and patenting discoveries—it’s a brazen, potentially self-destructive move. To many scientists, leaving unfinished work and ideas in the open seems as reckless as leaving your debit card and password at a busy ATM machine
->
 > Canton is part of a peaceful insurgency in science that is beginning to pry open an endeavor that still communicates its cutting-edge discoveries in much the same way it has since Ben Franklin was experimenting with lightning. Papers are published in research journals after being reviewed by specialists to ensure that the methods and conclusions are sound, a process that can take many months
->
 > “We’re a generation who expects all information is a Google search away,” Canton said. “Not only is it a Google search away, but it’s also released immediately. As soon as it happens, the video is up on YouTube and on all the blogs. The old model feels kind of crazy when you’re used to this instant information.”
 
 ---

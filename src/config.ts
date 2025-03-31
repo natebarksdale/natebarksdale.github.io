@@ -11,27 +11,27 @@ export interface TagData {
 export const tagDataMap: Record<string, TagData> = {
   templeton: {
     emoji: "🌀",
-    text: "The John Templeton Foundation",
+    text: "Templeton",
     description:
       "The [John Templeton Foundation](https://www.templeton.org) exists to support interdisciplinary research and catalyze conversations that inspire awe and wonder, working to create a world where people are curious about the wonders of the universe, free to pursue lives of meaning and purpose, and motivated by great and selfless love. I've been a frequent contributer to their website and online newsletters since 2017.",
   },
-  historychannel: {
-    emoji: "🇭",
-    text: "The History Channel",
+  "culture-makingcom": {
+    emoji: "🌍",
+    text: "Culture Making",
     description:
-      "I've been writing, editing and fact-checking pieces for The History Channel (largely [History.com](https://www.history.com), but also the History Here app and the occasional project for what goes on TV as well, since 2012.",
+      "From 2008 to 2012, I worked with my longtime mentor and collaborator Andy Crouch on Culture-Making.com, a link blog he launched in conjunction with his book. I was the lead writer for the site, posting links and commentary several times a week about the true, the beautiful, the interesting relating to human cultural output. The old site is on ice, but I’ve resurrected the bulk of my posts on this site.",
   },
-  what_comes_next_: {
+  historycom: {
+    emoji: "🇭",
+    text: "History.com",
+    description:
+      "Since 2012, I've worked with editors, producers and executives at History Channel and History.com on various editorial and fact-checking projects, including bylined encyclopedia articles and behind-the-scenes work on editorial and visual fact-checking for website content and the occasional TV project. My largest single project with History was the (alas, now defunct) History Here app. I began as a copywriter but was soon assigned effective oversight of content strategy and implementation for the full app, writing about thousands of historic points of interest in the U.S. and ranking and assigning thousands more for other writers on the team. The app was twice nominated for a Webby Award, and [won in 2015](https://winners.webbyawards.com/2015/apps-dapps-and-software/handheld-devices/travel-handheld-devices/159568/history-here). ",
+  },
+  "what-comes-next_": {
     emoji: "➿",
     text: "What Comes Next_",
     description:
       "Thoughts on AI, predictive text, technological metaphors, and the string of thought.",
-  },
-  art: {
-    emoji: "🎨",
-    text: "Art",
-    description:
-      "Reflections on visual art, music, literature and other creative expressions across cultures and time periods.",
   },
   // Add more mappings as needed for other tag categories
 };

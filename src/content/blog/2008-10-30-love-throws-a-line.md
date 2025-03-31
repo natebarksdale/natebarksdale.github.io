@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2008-10-30
+modDatetime: 2025-03-31T16:30:14Z
 title: Love throws a line
 slug: love-throws-a-line
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: The impact of technology on our expectations of laundry, contrasting high-tech solutions with simpler alternatives.
 emoji: 🏡
 tags:
+  - 🌍 Culture-Making.com
   - ⚙️ Technology
   - ♻️ Repurposing
   - 🌱 Sustainability

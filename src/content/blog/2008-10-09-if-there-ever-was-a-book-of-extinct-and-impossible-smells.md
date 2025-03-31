@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: If There Ever Was - A Book of Extinct and Impossible Smells
 slug: if-there-ever-was-a-book-of-extinct-and-impossible-smells
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Aroma is creatively underutilized, as Robert Blackson explores through conceptual scent art.
 emoji: 🌍
 tags:
+  - 🧪 Chemistry
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
 haiku: |
@@ -27,7 +31,8 @@ a [Cool Hunting](http://web.archive.org/web/20100201222026/http://www.coolhuntin
 > Robert Blackson is a trailblazer in the nascent field of conceptual scent art. He recently curated an exhibition at the [Reg Vardy Gallery](http://www.regvardygallery.org/) in Sunderland, England, that took viewers through fourteen significant points in time and space using only the olfactory sense
 >
 > The concept, according to Blackson, came from reading Eric Schlosser's "Fast Food Nation." The book mentions how food corporations can use artificial chemicals to engineer smells and tastes that replicate virtually any substance. With this in mind, Blackson tasked perfumers, chemists, botanists and even a NASA scientist to engineer smells that most humans might never experience. Scents created include everything from long extinct plants to the fragrance immediately following an atomic bomb explosion. They even recreated the smell of the surface of the Sun, which scientists approximated by using the scents of seven earth metals heated to their melting point
->
 > "[If There Ever Was](https://www.google.com/search?q=%22If%20There%20Ever%20Was%22%20cornerhouse.org)" is the companion book to the art exhibit. It features paper inserts that correspond to the exhibit smells, all manifested through scratch-and-sniff technology. That way, you can smell the putrid odor of Russian gym socks on the Mir space station without having to leave the comfort of your home. "If There Ever Was" costs $25 in the [Cornerhouse store](https://www.google.com/search?q=%22Cornerhouse%20store%22%20cornerhouse.org)
->
-> via [Fed By Birds](http://web.archive.org/web/20150429050814/http://www.fedbybirds.com:80/2008/08/_i_didnt_make_it.html)
+
+---
+
+via [Fed By Birds](http://web.archive.org/web/20150429050814/http://www.fedbybirds.com:80/2008/08/_i_didnt_make_it.html)

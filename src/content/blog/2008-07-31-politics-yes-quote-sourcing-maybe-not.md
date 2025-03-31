@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-31
-modDatetime: 2008-07-31
+modDatetime: 2025-03-31T16:30:06Z
 title: Politics, yes. Quote-sourcing? Maybe not
 slug: politics-yes-quote-sourcing-maybe-not
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Exploring the roots of the saying "All politics is local" and its history, as well as its connection to culture-making.
 emoji: 📜
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - 🗳️ Politics
   - 📖 Quotes
   - 📝 Writing

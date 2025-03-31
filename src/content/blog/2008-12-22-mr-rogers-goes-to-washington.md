@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2025-03-17T21:38:39Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Mr. Rogers goes to Washington
 slug: mr-rogers-goes-to-washington
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the timeless message of Fred Rogers and the role of art in cultural change.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
   - ⚖️ Ethics
@@ -20,7 +21,4 @@ coordinates: [38.8902, -77.0369]
 ---
 
 I like that what Mr. Rogers brings to this testimony is not fame (it was only 1969 and his show wasn't well-known) but his simple, clear, and guileless message. I'm definitely reminded, too, of Andy's maxim that the best—indeed the only—way to change the culture is to create more of it
-
----
-
 Fred Rogers testifies before a senate committee in 1969, arguing for the importance of funding for PBS :: via [GOOD](http://web.archive.org/web/20241103212625/https://www.good.is:443/?p=14224)

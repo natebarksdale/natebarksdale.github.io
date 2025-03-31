@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-22
-modDatetime: 2009-01-22
+modDatetime: 2025-03-31T16:30:21Z
 title: Shipping the fridge
 slug: shipping-the-fridge
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the once-thriving railroads and their efficient transport of goods in America.
 emoji: 🚂
 tags:
+  - ⚛️ Physics
+  - 🌍 Culture-Making.com
   - 🚂 Railroads
   - ⚙️ Technology
   - 🌱 Sustainability

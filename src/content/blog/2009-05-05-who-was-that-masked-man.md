@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-05
-modDatetime: 2009-05-05
+modDatetime: 2025-03-31T16:30:25Z
 title: Who was that masked man?
 slug: who-was-that-masked-man
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: A reflection on the social impact of masks during the swine flu outbreak.
 emoji: 😷
 tags:
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - ⚕️ Medicine
   - 🧘‍♂️ Psychology
   - 💬 Communication

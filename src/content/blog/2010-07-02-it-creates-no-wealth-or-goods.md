@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-07-02
-modDatetime: 2010-07-02
+modDatetime: 2025-03-31T16:30:36Z
 title: It creates no wealth or goods
 slug: it-creates-no-wealth-or-goods
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Exploring the complexities of play, work, and art through Roger Caillois' insights on the nature of leisure and productivity.
 emoji: 🎭
 tags:
+  - 🍷 Europe
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 📝 Writing
 haiku: |

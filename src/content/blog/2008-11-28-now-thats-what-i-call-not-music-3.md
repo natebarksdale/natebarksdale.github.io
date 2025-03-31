@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-28
-modDatetime: 2025-03-17T21:38:36Z
+modDatetime: 2025-03-31T16:30:17Z
 title: Now That’s What I Call Not Music 3!
 slug: now-thats-what-i-call-not-music-3
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: William Carlos Williams reflects on George Antheil's "Ballet Mechanique" and its impact on experiencing the noise of life.
 emoji: 🎶
 tags:
+  - 📺 Television
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 🎨 Art
   - 🌌 Dystopias

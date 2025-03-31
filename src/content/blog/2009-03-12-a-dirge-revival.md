@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-12
-modDatetime: 2025-03-17T21:38:47Z
+modDatetime: 2025-03-31T16:30:23Z
 title: A dirge revival
 slug: a-dirge-revival
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the cultural decline and potential revival of traditional funeral dirges in the Volta region of northern Ghana.
 emoji: 🎶
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ✝️ Christianity
   - 🎶 Activities
   - ❤️ Resilience

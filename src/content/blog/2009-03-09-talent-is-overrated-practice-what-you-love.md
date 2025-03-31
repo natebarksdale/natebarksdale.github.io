@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-09
-modDatetime: 2025-03-17T21:38:46Z
+modDatetime: 2025-03-31T16:30:23Z
 title: Talent is overrated, practice what you love
 slug: talent-is-overrated-practice-what-you-love
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of the role of practice and passion in developing talent, as illustrated by young musicians and insights from Anders Ericsson's research.
 emoji: 🎶
 tags:
+  - ➗ Mathematics
+  - 🌍 Culture-Making.com
   - 🗣️ Language
   - 💪 Difficulty
   - ⚖️ Choices

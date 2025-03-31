@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-02
-modDatetime: 2025-03-17T21:38:37Z
+modDatetime: 2025-03-31T16:30:17Z
 title: Between common and professional
 slug: between-common-and-professional
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An insightful exploration of the interplay between tradition and innovation in the shaping of North America's landscape by early European settlers.
 emoji: 🌾
 tags:
+  - 💡 Design
+  - 🍷 Europe
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 History
   - 🌍 Identity

@@ -1,12 +1,14 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-03-11
-modDatetime: 2025-03-11 19:54:16+00:00
-title: Back from the Grave
-slug: back-from-the-grave
-featured: True
+pubDatetime: 2025-03-28
+modDatetime: 2025-03-28
+title: Blog Resurrection
+slug: blog-resurrection
+featured: False
 draft: False
 tags:
+  - 📚 Preservation
+  - 📚 Archives
   - 🌐 Blogging
   - ➿ What Comes Next_
   - 🤖 AI
@@ -23,16 +25,15 @@ coordinates: [51.509865, -0.118092]
 ## When is the past worth saving, and how do we go about it it?
 
 I came to this new site with a huge back-catalog of nearly a thousand blog posts, penned articles and the like. The core of it contained posts brought over from my work writing for [Culture Making](https://www.culture-making.com), a blog that launched in conjunction with Andy Crouch's [book of that name](https://www.amazon.com/Culture-Making-Recovering-Creative-Calling/dp/0830837558), and plugged on with daily posts of anything I found resonant with the themes Andy expores in the book.
-
 Culture Making ceased active posting around 2010, and I moved most of the posts over to my personal domain, natebarksdale.com, where I set up a wordpress blog to serve them along with basic portfolio information for [Nate Barksdale Writing + Design](https://natebarksdale.xyz).
 
 Around 2020, a rogue `php` update hobbled that site, but I didn't have capacity to dig into the source code to figure out what had gone wrong. Then in 2020, I somehow missed a domain re-registration and `natebarksdale.com` got swiped by a third party; my bespoke URL now led users to a Chinese-language web hosting page. (A year or two later, the domain's owner reached out to me to offer to sell it back, for $3,000, but I declined. Hence, our current home at <natebarksdale.xyz>).
 
-The Wordpress blog still, technically, existed on its old server, but neither the public-facing portion nor the Wordpress admin panel was accessible. After some poking around I realized I still had access to the blog's database through `PHPMyAdmin`; from there I was able to export a giant blob of a `json` file containing all of the posts from the Wordpress blog (but not the post tags I'd used to categorize -- more on that later).
+The Wordpress blog still, technically, existed on its old server, but neither the public-facing portion nor the Wordpress admin panel was accessible. After some poking around I realized I still had access to the blog's database through PHPMyAdmin; from there I was able to export a giant blob of a json file containing all of the posts from the Wordpress blog (but not the post tags I'd used to categorize -- more on that later).
 
 ## Enter the LLMs
 
-I new I had the content in there somewhere, and that I wanted to break out the posts in `markdown` files (basically lightly formatted plain text) used by my new blog setup. I fired up `ChatGPT` and gave it the following prompt:
+I new I had the content in there somewhere, and that I wanted to break out the posts in `markdown` files (basically lightly formatted plain text) used by my new blog setup. I fired up ChatGPT and gave it the following prompt:
 
 > {ChatGPT}
 >
@@ -61,8 +62,7 @@ I followed the instructions and ... it didn't work. Hence more digging into the 
 5. Skim the LLM's friendly `Ah, I see what the problem is!` and follow further instructions.
 6. Repeat until the error messages stop coming.
 7. Then check to see if the code actually accomplishes what you were asking for
-
-In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
+   In the case of me and my Mac, this involved the dance of error messages for a little while until I was guided to set up a virtual environment that would let me run my script in `python3`. And then, momentously ...
 
 > {ChatGPT}
 >
@@ -79,40 +79,14 @@ Resurrection is a tricky business, and I knew that many of the things I had link
 > {A}
 >
 > ```python
->    		# Process non-image links
->    		md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
->    		for m in re.finditer(md_link_pattern, modified_content):
->    			link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
->    			link_url = raw_link_url.split()[0]
->
->    			if is_link_broken(link_url, filepath):
->    				stripped_url = strip_query_params(link_url)
->    				if stripped_url != link_url and not is_link_broken(stripped_url, filepath):
->    					replacement_url = stripped_url
->    					print(f"Fixed Markdown link in {filename}: {link_url} → {stripped_url}")
->    				else:
->    					wayback_url = check_wayback_link(link_url)
->    					if wayback_url:
->    						replacement_url = wayback_url
->    						print(f"Replaced {link_url} with Wayback Machine link: {wayback_url}")
->    					else:
->    						site_name = extract_site_name(link_url)
->    						search_query = f'"{link_text}" {site_name}' if site_name else f'"{link_text}"'
->    						replacement_url = f"https://www.google.com/search?q={quote(search_query)}"
->    						print(f"Replaced {link_url} with Google search: {replacement_url}")
->
->    				modified_content = modified_content.replace(m.group(0), f"[{link_text}]({replacement_url})")
->    				link_replacements_made = True
->
->    				if modified_content != content_no_pub:
->    					with open(filepath, "w", encoding="utf-8") as f:
->    						f.write(modified_content)
->    					new_filepath = os.path.join(fixed_links_folder, filename)
->    					if os.path.exists(filepath):
->    						os.rename(filepath, new_filepath)
->    						print(f"Moved {filename} to fixed_links folder")
->    				else:
->    					print(f"No broken non-image links fixed in {filename}; file left in place.")
+> # Process non-image links
+> md_link_pattern = r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)'
+> for m in re.finditer(md_link_pattern, modified_content):
+> link_text, raw_link_url = m.group(1).strip(), m.group(2).strip()
+> link_url = raw_link_url.split()[0]
+> if is_link_broken(link_url, filepath):
+> stripped_url = strip_query_params(link_url)
+> [etc]
 > ```
 
 And it worked! Which was a good thing, because something like two-thirds of the links in the old blog materials had rotted out. (Broken image links were another matter — either I removed them entirely, or, in the case of images I had once hosted, found the old files and integrated them into the new site.)
@@ -120,11 +94,8 @@ And it worked! Which was a good thing, because something like two-thirds of the 
 ## LLMs Summoning LLMs
 
 One thing I realized is that AstroBlog needs each Markdown file to contain a description property. Since writing up 900 descriptions didn't seem feasible, my first idea was to just use the first sentence of the blog post. I had the LLM come up with a script for that but quickly realized that that was causing issues (the blog's yaml header format didn't like some of the punctuation and syntax that was getting hoovered up).
-
 Ah, but looking at text and coming up with a plausible summary is just the sort of thing that LLMs excel at, if only I could automate the prompting. I realized I could do just that, using [Simon Willison](https://simonwillison.net)'s [LLM Plugin](https://llm.datasette.io/en/stable/index.html), which gives a command-line interface for LLM requests. Once it's set up (and you've authorized it to a funded LLM account) you can type things like
-
 `llm "Eight hilariously incorrect facts about Martin Van Buren"`
-
 and get a result. In this case, I had ChatGPT help me figure out how to make a Python script that would:
 
 - Read each blog post's content and write me a one-liner description field (required for the header section of the file)

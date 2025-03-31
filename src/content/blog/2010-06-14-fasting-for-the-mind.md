@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-14
-modDatetime: 2025-03-17T21:39:11Z
+modDatetime: 2025-03-31T16:30:36Z
 title: Fasting for the mind
 slug: fasting-for-the-mind
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Reflecting on the balance between exploring new ideas and revisiting the ones we cherish.
 emoji: 📚
 tags:
+  - ✨ Wonder
+  - 📖 Bible
+  - 🌍 Culture-Making.com
   - ⏰ Time
   - 📖 Books
   - 🌍 Society

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-01-26
-modDatetime: 2025-03-17T21:39:16Z
+modDatetime: 2025-03-31T16:30:39Z
 title: The quietest place in the lower forty-eight
 slug: the-quietest-place-in-the-lower-forty-eight
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: This excerpt highlights the profound tranquility of Olympic National Park and its unique auditory experience in nature.
 emoji: 🌲
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌍 Environment
   - 🌅 Reflection
   - 🏞️ National Parks

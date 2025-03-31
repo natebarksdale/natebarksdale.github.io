@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-12
-modDatetime: 2010-02-12
+modDatetime: 2025-03-31T16:30:33Z
 title: The traveler’s game
 slug: the-travelers-game
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the challenges of experiencing other cultures through time, Lévi-Strauss contemplates the fleeting nature of understanding and perception.
 emoji: 🕰️
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ⏰ Time
   - 📝 Writing

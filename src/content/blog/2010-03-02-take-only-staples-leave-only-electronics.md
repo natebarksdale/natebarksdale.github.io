@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-02
-modDatetime: 2010-03-02
+modDatetime: 2025-03-31T16:30:33Z
 title: Take only staples, leave only electronics
 slug: take-only-staples-leave-only-electronics
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Examining the complex aftermath of the Chile earthquake and the human responses in crisis situations.
 emoji: 🤝
 tags:
+  - ➗ Mathematics
+  - 📺 Television
+  - 🧉 South America
+  - 🌍 Culture-Making.com
   - ⚖️ Law
   - 🏛️ Government
   - 🕊️ Peace

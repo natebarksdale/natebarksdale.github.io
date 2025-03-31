@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-25
-modDatetime: 2009-08-25
+modDatetime: 2025-03-31T16:30:28Z
 title: Like a cheer for an invisible parade
 slug: like-a-cheer-for-an-invisible-parade
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Flannery O'Connor offers a whimsical reflection on the peacock's call and the emotions it evokes.
 emoji: 🦚
 tags:
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌅 Reflection
   - ✨ Beauty

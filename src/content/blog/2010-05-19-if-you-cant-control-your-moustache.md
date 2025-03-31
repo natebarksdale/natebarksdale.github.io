@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-19
-modDatetime: 2025-03-17T21:39:10Z
+modDatetime: 2025-03-31T16:30:36Z
 title: If you can’t control your moustache ..
 slug: if-you-cant-control-your-moustache
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: A fascinating collection of proverbs about women and soup from cultures around the world reveals both humorous and thought-provoking insights. Here are some intriguing examples
 emoji: 🍲
 tags:
+  - 🍷 Europe
+  - 🥑 Central America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🍲 Proverbs
   - 📖 Quotes

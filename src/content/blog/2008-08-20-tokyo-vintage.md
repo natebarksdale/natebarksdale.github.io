@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2008-08-20
+modDatetime: 2025-03-31T16:30:09Z
 title: Tokyo vintage
 slug: tokyo-vintage
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the fascinating interconnection of vintage fashion between Tokyo and Hollywood.
 emoji: 🧥
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🇯🇵 Japan
   - 👕 Clothes
@@ -24,7 +25,6 @@ I guess the transcontinental vintage clothing trade counts as a form of cultivat
 > The story about vintage clothes in Tokyo goes like this: A Hollywood actress, after a successful crash diet, sold her size 6 wardrobe to a thrift shop in Santa Monica. Three months later she came to Tokyo to promote her latest movie and one afternoon wandered into one of the city’s landmark vintage clothing shops, called Santa Monica. What should she find there but her own shorts and several party dresses, unobtrusively displayed under a sign that read: “Santa Monica Style.”
 >
 > The story is credible for the simple reason that Tokyo has now reached a point where it’s safe to call it Planet Vintage. Among the 400-plus shops scattered over the city, myths like this abound
->
 > The good news is that it’s not all rumor and folklore - according to a fashion stylist, Keiko Okura, “the quality of Tokyo vintage products are unmatched.”
 
 ---

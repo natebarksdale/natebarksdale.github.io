@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-16
-modDatetime: 2025-03-17T21:38:47Z
+modDatetime: 2025-03-31T16:30:23Z
 title: Making things that we can touch
 slug: making-things-that-we-can-touch
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of the intersection between technology, human interaction, and the essence of physical experience.
 emoji: 🌍
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ⚙️ Engineering
   - ⚙️ Technology
   - 🌍 Culture

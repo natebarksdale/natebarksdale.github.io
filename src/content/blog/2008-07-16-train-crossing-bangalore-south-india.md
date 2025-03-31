@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-17T21:38:15Z
+modDatetime: 2025-03-31T16:30:05Z
 title: Train crossing, Bangalore, South India
 slug: train-crossing-bangalore-south-india
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Watching this video triggers slight and not unpleasant olfactory memories of my own times in B'lore in the late '90.
 emoji: 🚆
 tags:
+  - 🌍 Culture-Making.com
   - 🚂 Railroads
   - 🌅 Reflection
 haiku: |

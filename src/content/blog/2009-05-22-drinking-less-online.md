@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-22
-modDatetime: 2009-05-22
+modDatetime: 2025-03-31T16:30:25Z
 title: Drinking less, online
 slug: drinking-less-online
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: This exploration highlights a novel approach to temperance and addiction through a self-help program that emphasizes moderated drinking over complete abstinence.
 emoji: 🍷
 tags:
+  - 🌍 Culture-Making.com
   - 💼 Business
   - 💡 Innovation
   - ⚕️ Medicine

@@ -9,6 +9,10 @@ draft: true
 description: Celebrating the art of personalized music curation through Wimbo Zuri, where each mix tells a unique story through beloved songs.
 emoji: 🎶
 tags:
+  - 💿 Mix CDs
+  - 💡 Design
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - 🌍 Culture
   - 🎉 Celebration
@@ -28,12 +32,9 @@ coordinates: [34.0522, -118.2437]
 - **Acrostic mixes (perfect for birthdays)** Awesome, carefully selected playlists with secret messages encoded in the first letters of each song
 - **Mixes for Weddings and Other Celebrations**
 - **Science-Based Mixes** We specialize in taxonomy (songs for different kinds of animals and plants—insects, birds, trees). Want a mix of songs about stars, in order of brightness? We've got you covered. Anything else you can imagine? Just ask
-
-[![](@assets/images/hobos2_260.jpg)](@assets/images/hobos2_530.jpg)[![](@assets/images/Hereisagoodone_260.jpg)](@assets/images/Hereisagoodone_530.jpg) Clients can select a governing principle for the album, and then suggest details with special meaning for the gift recipient: languages, artists, themes, names, etc. The product: A beautifully designed CD, with detailed liner notes, and extraordinary music therein. The pricing: Once WZ covers its pass-through costs (mp3s, materials, postage), the album will already be quite a bit more expensive (~$30) than something you would have bought on iTunes (~$15). But we think it's worth it.
-
+  [![](@assets/images/hobos2_260.jpg)](@assets/images/hobos2_530.jpg)[![](@assets/images/Hereisagoodone_260.jpg)](@assets/images/Hereisagoodone_530.jpg) Clients can select a governing principle for the album, and then suggest details with special meaning for the gift recipient: languages, artists, themes, names, etc. The product: A beautifully designed CD, with detailed liner notes, and extraordinary music therein. The pricing: Once WZ covers its pass-through costs (mp3s, materials, postage), the album will already be quite a bit more expensive (~$30) than something you would have bought on iTunes (~$15). But we think it's worth it.
 - Existing album: **$30**
 - Simple design tweak to existing album: **$20**
 - Thorough personalization of existing album: **$70**
 - Totally new, soup-to-nuts personalized album: **$150**
-
-All fees are payable via Paypal. For more info and a quote for your specific project, email me at _wimbozuri @natebarksdale.com_. [![](@assets/images/celestial_260.jpg)](@assets/images/celestial_530.jpg)[![](@assets/images/CT_260.jpg)](@assets/images/CT_530.jpg) [View all the mix CDs in the Wimbo Zuri portfolio.](https://www.natebarksdale.com/?category_name=mix-cds)
+  All fees are payable via Paypal. For more info and a quote for your specific project, email me at _wimbozuri @natebarksdale.com_. [![](@assets/images/celestial_260.jpg)](@assets/images/celestial_530.jpg)[![](@assets/images/CT_260.jpg)](@assets/images/CT_530.jpg) [View all the mix CDs in the Wimbo Zuri portfolio.](https://www.natebarksdale.com/?category_name=mix-cds)

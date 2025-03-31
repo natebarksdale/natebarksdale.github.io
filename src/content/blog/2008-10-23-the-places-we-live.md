@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-23
-modDatetime: 2025-03-17T21:38:31Z
+modDatetime: 2025-03-31T16:30:14Z
 title: The places we live
 slug: the-places-we-live
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Explore the lives of a billion people living in slums through immersive photography and personal stories.
 emoji: 🌍
 tags:
+  - 🧉 South America
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🏙️ Population
   - 🏙️ Migration
@@ -21,8 +24,6 @@ coordinates: [-3.139, 73.023]
 ---
 
 the [VSL:Web](http://web.archive.org/web/20111017185433/http://www.veryshortlist.com/web/daily.cfm/review/712/Photograph/the-places-we-live/?tp) post for 23 October 2008
-
----
 
 > One _billion_ people live in slums. Their numbers are supposed to double over the next quarter-century. So: Who _are_ those people — and what must their lives be like?
 >

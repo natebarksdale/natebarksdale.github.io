@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2008-09-22
+modDatetime: 2025-03-31T16:30:11Z
 title: Mobile phones and the flood
 slug: mobile-phones-and-the-flood
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: In the wake of devastating floods, mobile phones have emerged as a vital tool for rescue and communication in Bihar, India.
 emoji: 📱
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🌍 Activism
   - 🚨 Emergencies

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-14
-modDatetime: 2008-11-14
+modDatetime: 2025-03-31T16:30:15Z
 title: From gardening to gaming
 slug: from-gardening-to-gaming
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: This piece contrasts the violent gaming landscape with the nurturing, creative visions of renowned designer Shigeru Miyamoto.
 emoji: 🌱
 tags:
+  - 💡 Design
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ❤️ Kindness
 haiku: |

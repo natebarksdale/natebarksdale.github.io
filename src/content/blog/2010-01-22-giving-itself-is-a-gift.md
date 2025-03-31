@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-22
-modDatetime: 2025-03-17T21:39:03Z
+modDatetime: 2025-03-31T16:30:32Z
 title: Giving itself is a gift
 slug: giving-itself-is-a-gift
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the dynamics of giving and receiving, exploring the deeper connections formed in times of disaster.
 emoji: 🤝
 tags:
+  - 🌍 Culture-Making.com
   - ❤️ Charity
   - 🌍 Society
   - 💬 Communication

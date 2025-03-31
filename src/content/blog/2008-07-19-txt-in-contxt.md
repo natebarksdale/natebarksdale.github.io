@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-19
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: Txt in contxt
 slug: txt-in-contxt
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the playful nature of texting and its linguistic creativity, featuring insights from linguistics professor David Crystal.
 emoji: 🎭
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - 🌍 Culture
   - 💬 Communication

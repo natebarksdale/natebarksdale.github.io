@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-18
-modDatetime: 2025-03-17T21:38:55Z
+modDatetime: 2025-03-31T16:30:27Z
 title: The not-great, the good, and the awesome
 slug: the-not-great-the-good-and-the-awesome
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Sometimes humility can lead to underestimating potential.
 emoji: 📈
 tags:
+  - 🌍 Culture-Making.com
   - 💼 Business
   - ⚖️ Choices
   - 🤝 Collaboration

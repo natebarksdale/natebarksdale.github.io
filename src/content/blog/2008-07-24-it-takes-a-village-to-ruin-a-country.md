@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-24
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: It takes a village to ruin a country
 slug: it-takes-a-village-to-ruin-a-country
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A chilling account of political power struggles and violent coercion in Zimbabwe under Mugabe's regime.
 emoji: 🪖
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚖️ Law
   - 🗳️ Politics
@@ -25,7 +27,6 @@ A story that ran a couple of weeks ago, nearer the high-point of Zimbabwe's gove
 > President Robert Mugabe summoned his top security officials to a government training center near his rural home in central Zimbabwe on the afternoon of March 30. In a voice barely audible at first, he informed the leaders of the state security apparatus that had enforced his rule for 28 years that he had lost the presidential vote held the previous day
 >
 > Then Mugabe told the gathering he planned to give up power in a televised speech to the nation the next day, according to the written notes of one participant that were corroborated by two other people with direct knowledge of the meeting
->
 > But Zimbabwe’s military chief, Gen. Constantine Chiwenga, responded that the choice was not Mugabe’s alone to make. According to two firsthand accounts of the meeting, Chiwenga told Mugabe his military would take control of the country to keep him in office or the president could contest a runoff election, directed in the field by senior army officers supervising a military-style campaign against the opposition
 
 ---

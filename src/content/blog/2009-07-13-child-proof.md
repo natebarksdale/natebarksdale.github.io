@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-13
-modDatetime: 2025-03-17T21:38:53Z
+modDatetime: 2025-03-31T16:30:27Z
 title: Child-proof
 slug: child-proof
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Reflecting on the evolving landscape of childhood freedoms in America, Michael Chabon explores the impact of modern fears on the imagination of our children.
 emoji: 🌿
 tags:
+  - 🚲 Bicycles
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Development
   - ⚠️ Danger

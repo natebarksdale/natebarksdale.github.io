@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-10
-modDatetime: 2025-03-17T21:39:09Z
+modDatetime: 2025-03-31T16:30:35Z
 title: The market and the story
 slug: the-market-and-the-story
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A fascinating exploration of the disconnect between automated trading algorithms and the narrative-driven explanations provided by the financial press.
 emoji: 🤖
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ⚖️ Algorithms
   - ⚖️ Choices
   - 🌍 Society

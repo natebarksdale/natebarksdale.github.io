@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-04
-modDatetime: 2009-06-04
+modDatetime: 2025-03-31T16:30:26Z
 title: The way the present looks like the past
 slug: the-way-the-present-looks-like-the-past
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Jonathan Lopez reflects on how forgeries intertwine the present with the past.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🖼️ Artifacts
   - 🌀 Complexity

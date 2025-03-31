@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2025-03-17T21:38:23Z
+modDatetime: 2025-03-31T16:30:10Z
 title: Daydream believing
 slug: daydream-believing
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Exploring the nuances of daydreaming and its relationship with creativity.
 emoji: 💭
 tags:
+  - 🌍 Culture-Making.com
   - 🌀 Complexity
   - 🌍 Consciousness
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-10
-modDatetime: 2025-03-17T21:38:52Z
+modDatetime: 2025-03-31T16:30:26Z
 title: Too much information
 slug: too-much-information
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration of how highlighting negative behaviors can inadvertently reinforce them.
 emoji: 🚫
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - ⚖️ Choices
   - 🌍 Society

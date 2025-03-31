@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-03
-modDatetime: 2025-03-17T21:38:29Z
+modDatetime: 2025-03-31T16:30:12Z
 title: Gilgamesh for apes
 slug: gilgamesh-for-apes
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: An exploration of the intersection between animal language studies and human literature, highlighting the effort to enrich primate communication through creative translations.
 emoji: 🐒
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌀 Complexity
   - 🌍 Culture

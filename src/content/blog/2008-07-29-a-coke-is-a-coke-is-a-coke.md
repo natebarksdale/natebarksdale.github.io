@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-29
-modDatetime: 2025-03-17T21:38:16Z
+modDatetime: 2025-03-31T16:30:06Z
 title: A Coke is a Coke is a Coke
 slug: a-coke-is-a-coke-is-a-coke
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Andy Warhol on low-meets-high.
 emoji: 🥤
 tags:
+  - 🌍 Culture-Making.com
   - 🇺🇸 United States
   - 🌀 Complexity
 haiku: |

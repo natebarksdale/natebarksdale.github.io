@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-14
-modDatetime: 2008-11-14
+modDatetime: 2025-03-31T16:30:15Z
 title: Image vs. presence
 slug: image-vs-presence
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A reflection on the complexities of art and perception from Lawrence Weschler's dialogues with David Hockney and Robert Irwin.
 emoji: 🎨
 tags:
+  - 📖 Lawrence Weschler
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌀 Complexity
   - 💬 Communication
@@ -26,7 +28,6 @@ One of these days I really must read Walter Benjamin's essay "[The Work of Art i
 > ![image](http://culture-making.com/media/5374_david_hockney_print_1_210.jpg)
 >
 > “I mean,” Hockney continued, “I’ve observed his progress, though at times that was by no means easy, and for the longest time I felt that his position on the photographing of his work”—a flat prohibition, as it happens (which is one of the principal reasons he was so much less well known among the public at large)—“was pretty preposterous, and somewhat fetishistic.” Irwin for his part accounted for that absolutist injunction by arguing that a photograph could capture everything that the work was not about (which is to say its image) and nothing that it was about (which is to say its presence), so why bother?
->
 > Hockney paused and took a drag on a cigarette before going on to confound me entirely: “The thing is,” he now said, “with time I’ve come to see that Irwin was right about that ban on photographing his work; I wish I’d imposed a similar ban regarding my own from the outset.” (This from an artist whose work was more photographed and more ubiquitously visible in the world than that of just about anybody else, with the possible exception of Andy Warhol!) “I mean, no one can come upon one of my paintings in a museum, say, and simply see _it;_ instead they see the poster in their college dorm or the dentist’s office or the jacket on the book they are reading, all sorts of second-rate mediations getting in the way of experiencing the work as if from scratch.”
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-08
-modDatetime: 2025-03-17T21:39:04Z
+modDatetime: 2025-03-31T16:30:33Z
 title: Significant objects
 slug: significant-objects
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: An exploration of how invented narratives can transform thrift store finds into valuable treasures.
 emoji: 🏷️
 tags:
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - 🌍 Society
   - 🌍 Culture

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-20
-modDatetime: 2008-11-20
+modDatetime: 2025-03-31T16:30:16Z
 title: Boxes of worship
 slug: boxes-of-worship
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: The idea of transforming defunct big-box stores into churches offers a unique and creative reuse of space.
 emoji: 🏬
 tags:
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - ⛪ Religion
   - 🏢 Buildings

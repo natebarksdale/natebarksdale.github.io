@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-17T21:38:32Z
+modDatetime: 2025-03-31T16:30:14Z
 title: Virtue as vice
 slug: virtue-as-vice
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on how our perceptions of virtue often intertwine with cultural tastes, highlighting the complexities of our choices and environmental impact.
 emoji: 🍃
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Ethics
   - 🌍 Environment
   - ❤️ Kindness

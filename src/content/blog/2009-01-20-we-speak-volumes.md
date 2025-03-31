@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-17T21:38:43Z
+modDatetime: 2025-03-31T16:30:20Z
 title: We speak volumes
 slug: we-speak-volumes
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: From Penelope Lively's _Moon Tiger_, a reflection on the nature of language and memory.
 emoji: 📚
 tags:
+  - ✨ Wonder
+  - 📺 Television
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🗣️ Language
   - 🌀 Complexity

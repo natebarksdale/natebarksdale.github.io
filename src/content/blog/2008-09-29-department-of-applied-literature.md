@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2008-09-29
+modDatetime: 2025-03-31T16:30:12Z
 title: Department of applied literature
 slug: department-of-applied-literature
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A high-end storefront secular church in London reimagines philosophy and literature as tools for daily life.
 emoji: 📚
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - ✍️ Literature
   - ⛪ Religion

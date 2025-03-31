@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-07
-modDatetime: 2025-03-17T21:38:48Z
+modDatetime: 2025-03-31T16:30:24Z
 title: The brain, the body, and the world
 slug: the-brain-the-body-and-the-world
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A philosopher challenges the notion that our consciousness is solely determined by our brains.
 emoji: 🧠
 tags:
+  - 🌍 Culture-Making.com
   - 🧠 Psychology
   - 🌍 Consciousness
   - ⚖️ Choices

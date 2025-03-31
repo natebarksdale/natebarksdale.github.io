@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-01
-modDatetime: 2010-11-01
+modDatetime: 2025-03-31T16:30:37Z
 title: Drawing and the telephone
 slug: drawing-and-the-telephone
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: David Hockney shares his delight in creating and sharing digital flower art with his friends.
 emoji: 🌸
 tags:
+  - 🌍 Culture-Making.com
   - 🌸 Flowers
   - 🎨 Art
   - 📝 Writing

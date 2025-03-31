@@ -9,6 +9,8 @@ draft: False
 description: A reflection on the design process of my previous website version, inspired by my word search business card and utilizing the Moveable Type platform.
 emoji: 🧩
 tags:
+  - 📁 Portfolio
+  - 💡 Design
   - 🌐 Blogging
   - 📝 Writing
   - 🎨 Creativity
@@ -17,7 +19,6 @@ haiku: |
   Words in a puzzle,  
   From business card to web space,  
   Design interlaces.
-
 coordinates: [34.0522, -118.2437]
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-02
-modDatetime: 2010-04-02
+modDatetime: 2025-03-31T16:30:34Z
 title: As sherp as muckle needles
 slug: as-sherp-as-muckle-needles
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: Here's a delightful excerpt that showcases the charm of Scots language through a whimsical tale featuring beloved characters from a classic series.
 emoji: 🦁
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - ✍️ Translation
   - 🌍 Culture

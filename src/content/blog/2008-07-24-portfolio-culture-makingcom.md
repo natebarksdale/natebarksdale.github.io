@@ -9,6 +9,8 @@ draft: False
 description: As curator and co-creator of the Culture Making website, I developed the initial site architecture and layout in collaboration with Andy Crouch and Yee Design. Geolocation coordinates
 emoji: 🖥️
 tags:
+  - 📁 Portfolio
+  - 💡 Design
   - 🌍 Culture
   - 🌐 Blogging
   - ⚙️ Technology
@@ -18,7 +20,6 @@ haiku: |
   Creating with care,  
   Collaborators unite,  
   Culture shapes our world.
-
 coordinates: [37.7749, -122.4194]
 ---
 

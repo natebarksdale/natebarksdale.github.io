@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-17T21:38:20Z
+modDatetime: 2025-03-31T16:30:08Z
 title: Cuba’s generation y
 slug: cubas-generation-y
 featured: false
@@ -9,6 +9,11 @@ draft: false
 description: An exploration of how naming in Cuba serves as an act of creative resistance against political and cultural constraints.
 emoji: 🆕
 tags:
+  - ✨ Wonder
+  - 🗣️ Language
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Identity
   - 🇨🇺 Cuba

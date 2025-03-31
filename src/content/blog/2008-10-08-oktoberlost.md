@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-08
-modDatetime: 2025-03-17T21:38:30Z
+modDatetime: 2025-03-31T16:30:13Z
 title: Oktoberlost
 slug: oktoberlost
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A glimpse into the lively chaos of Munich's Oktoberfest, adorned by its amusing lost and found treasures.
 emoji: 🍻
 tags:
+  - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🍺 Beer
   - ⏰ Time
@@ -24,9 +25,7 @@ Insight into the cultural world of Munich's Oktoberfest, via its lost and found 
 > Anyone who has visited the Oktoberfest and seen hundreds of revellers dancing on the wooden tables, holding up their beer glasses and chanting along to DJ Ötzi’s cover version of “Hey! Baby” knows how merry the atmosphere can get.
 >
 > For those who haven’t, a look at the lost and found register evokes the raucous celebrations
->
 > Members of staff found 680 identity cards and passports, 410 wallets, 360 keys, 265 spectacles, 280 mobile phones and 80 cameras, one set of diving goggles, one set of angel’s wings, a superman costume and four wedding rings. A long-haired Dachshund was also found roaming the festival ground, but was later reclaimed by its owner
->
 > “For the first time, no dentures were found,” the Munich city press department said with a mixture of surprise and disappointment. “Is this a sign of demographic change, good dental hygiene or a higher rate of tooth implants?”
 
 ---

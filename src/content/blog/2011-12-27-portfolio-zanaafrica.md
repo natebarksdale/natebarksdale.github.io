@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-27
-modDatetime: 2025-03-17T21:39:15Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Portfolio | ZanaAfrica
 slug: portfolio-zanaafrica
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: Reflecting on a meaningful design journey for ZanaAfrica, a nonprofit focused on impactful messaging.
 emoji: 🌍
 tags:
+  - 📁 Portfolio
+  - 💡 Design
+  - 🦁 Africa
   - 🌍 Activism
   - 🖊️ Editing
   - 📖 Articles

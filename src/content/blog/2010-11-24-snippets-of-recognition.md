@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-24
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:37Z
 title: Snippets of recognition
 slug: snippets-of-recognition
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: It's intriguing how quickly we form opinions based on brief experiences, especially in music.
 emoji: 🎶
 tags:
+  - 🌍 Culture-Making.com
   - 🎵 Music
   - ⚖️ Choices
   - ⚖️ Ethics

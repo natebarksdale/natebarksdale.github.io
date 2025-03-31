@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-17T21:38:38Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Wallpaper
 slug: wallpaper
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: A fascinating look at how a gas station in Adrian, Texas transformed restroom graffiti into a positive and creative community expression.
 emoji: 📝
 tags:
+  - 🗣️ Language
+  - 🌍 Culture-Making.com
   - 🎨 Graffiti
   - 🌍 Culture
   - 🛠️ DIY

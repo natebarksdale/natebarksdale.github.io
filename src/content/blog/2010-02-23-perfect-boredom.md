@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-23
-modDatetime: 2010-02-23
+modDatetime: 2025-03-31T16:30:33Z
 title: Perfect boredom
 slug: perfect-boredom
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: Exploring the intriguing nature of boredom and its potential beauty in a world of peace and familiarity.
 emoji: 🌌
 tags:
+  - ✨ Wonder
+  - 📺 Television
+  - 📖 Bible
+  - 🌍 Culture-Making.com
   - 🌍 Society
   - 🌅 Reflection
   - ❤️ Kindness

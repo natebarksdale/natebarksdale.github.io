@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-17T21:38:42Z
+modDatetime: 2025-03-31T16:30:20Z
 title: Getting back to making
 slug: getting-back-to-making
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: Reflecting on the challenges of balancing creation and curation, Gina Trapani shares her journey with Lifehacker and the motivations behind her desire to return to making.
 emoji: 🎨
 tags:
+  - 🌍 Culture-Making.com
   - 📝 Writing
   - 🌍 Culture
   - 🎨 Creativity

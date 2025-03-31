@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-12-24
-modDatetime: 2025-03-17T21:39:13Z
+modDatetime: 2025-03-31T16:30:38Z
 title: Portfolio | Advent Letter
 slug: portfolio-advent-letter
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: As a proud member of the alumni organization, I am excited to share some reflections on our community from the past year.
 emoji: 🎓
 tags:
+  - 📁 Portfolio
   - 📝 Writing
 haiku: |
   Alumni unite,  

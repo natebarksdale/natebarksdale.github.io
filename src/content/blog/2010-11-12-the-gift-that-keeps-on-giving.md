@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-12
-modDatetime: 2010-11-12
+modDatetime: 2025-03-31T16:30:37Z
 title: The gift that keeps on giving?
 slug: the-gift-that-keeps-on-giving
 featured: false
@@ -9,6 +9,8 @@ draft: false
 description: From Zac Mason, a reflection on the unintended consequences of consumer charity in Mali.
 emoji: 🥾
 tags:
+  - 🦁 Africa
+  - 🌍 Culture-Making.com
   - ❤️ Charity
   - 🌍 Globalization
   - 🌍 Development
@@ -26,11 +28,8 @@ More from the annals of unintended consequences ... in this case a long and thou
 > In particular I remember this one guy Sori Sogoba; Sori is a 22-year-old who farms millet and peanuts and goes to Bamako every cold season to sell phone cards, and he has a wife and three kids who walk around town barefoot. And he has an iPhone. Just about every time I saw him he would always steer the conversation to “My iPhone is better than your dinky Nokia. Your telephone can’t even play [music videos](http://www.youtube.com/watch?v=vIaH35-MLsk)!”
 >
 > “Yeah, but everyone in my family has a pair of shoes.”
->
 > I would try to make the connection between the abundance of unaffordable luxuries and paucity of necessities like shoes and mosquito nets whenever granted the opportunity. And I pissed off a good many people in the process – especially Sori
->
 > He would respond, “Yeah, well, I don’t have to buy them shoes because one day The White People are going to come back and give shoes to the children. My kids don’t have shoes because The White People haven’t come yet!”
->
 > In so many inversions, dozens of Malian parents have told me this same sorry excuse on even more numerous occasions. They would always cite the fact that once upon a time the World Vision gift-givers drove around the village in their big SUV and handed out shoes to a couple dozen children every other year or so from 1988 to 1998. The Time That the White People Came and Gave Shoes to the Children is one of the few legends of Sanadougou lore that is recounted over the teapot on a fairly regular basis, and in accordance with their Messianic creed they had every reason to have faith that one day [The White People ](http://www.youtube.com/watch?v=8j3j9nYgP4w)shall return – with shoes, of course
 
 ---

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2025-03-17T21:38:39Z
+modDatetime: 2025-03-31T16:30:18Z
 title: Dude descending a staircase
 slug: dude-descending-a-staircase
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A fascinating glimpse into the life of artist Marcel Duchamp captured in a multiple exposure image, reminiscent of his iconic work, “Nude Descending a Staircase.”
 emoji: 🕴️
 tags:
+  - 🌍 Culture-Making.com
   - 🎨 Art
   - 🌍 Culture
   - 🌆 Urban Spaces
@@ -21,9 +22,5 @@ coordinates: [40.7812, -73.9665]
 ---
 
 Artist Marcel Duchamp walking down a flight of stairs in a multiple exposure image reminiscent of his famous painting [“Nude Descending a Staircase”](http://en.wikipedia.org/wiki/Nude_Descending_a_Staircase,_No._2)
-
 [![photo](http://culture-making.com/media/duchamp.jpg)](http://bestoflife.tumblr.com/post/65182692/artist-marcel-duchamp-walking-down-a-flight-of)
-
----
-
 photo by Eliot Elisofon, 1952 :: via [The Best of LIFE](http://bestoflife.tumblr.com/post/65182692/artist-marcel-duchamp-walking-down-a-flight-of)

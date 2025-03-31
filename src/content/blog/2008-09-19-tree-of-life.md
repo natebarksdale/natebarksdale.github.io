@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-19
-modDatetime: 2008-09-19
+modDatetime: 2025-03-31T16:30:11Z
 title: Tree of life
 slug: tree-of-life
 featured: false
@@ -9,6 +9,10 @@ draft: false
 description: From Vijaysree Venkataraman, a reflection on the journey of the moringa tree and its potential in addressing malnutrition across cultures.
 emoji: 🌳
 tags:
+  - 🍷 Europe
+  - 🦁 Africa
+  - 🇫🇷 France
+  - 🌍 Culture-Making.com
   - 🌍 Africa
   - 🌍 Culture
   - 🌍 Health

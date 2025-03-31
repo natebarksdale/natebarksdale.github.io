@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-03
-modDatetime: 2025-03-17T21:38:59Z
+modDatetime: 2025-03-31T16:30:29Z
 title: Consuming like it’s 2007
 slug: consuming-like-its-2007
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A reflection on the advantages of embracing two-year-old media and technology for a more fulfilling lifestyle.
 emoji: ⏳
 tags:
+  - 🌍 Culture-Making.com
   - ♻️ Repurposing
   - 🌍 Culture
   - 🌀 Complexity

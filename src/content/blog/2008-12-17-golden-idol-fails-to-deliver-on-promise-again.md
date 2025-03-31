@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-17
-modDatetime: 2008-12-17
+modDatetime: 2025-03-31T16:30:18Z
 title: Golden idol fails to deliver on promise, again
 slug: golden-idol-fails-to-deliver-on-promise-again
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: The Academy of Motion Picture Arts and Sciences has secured a legal victory over the heirs of Mary Pickford regarding the sale of her Oscar statuette.
 emoji: 🏆
 tags:
+  - 🌍 Culture-Making.com
   - ⚖️ Courtroom
   - ⚖️ Law
   - ⚕️ Medicine

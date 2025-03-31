@@ -9,6 +9,8 @@ draft: False
 description: A reflection on how our interactions with memories and artifacts shape our experience of beauty and loss, inspired by Proust's poignant insights.
 emoji: 🧤
 tags:
+  - ✨ Wonder
+  - 🌍 Culture-Making.com
   - ✍️ Literature
   - ✍️ Poetry
   - ✝️ Christianity
@@ -18,7 +20,6 @@ haiku: |
   Whispers of the past,  
   Old gloves breathe forgotten love,  
   Tears from faded hues.
-
 coordinates: [48.8566, 2.3522]
 ---
 

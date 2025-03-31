@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-08
-modDatetime: 2025-03-17T21:39:00Z
+modDatetime: 2025-03-31T16:30:30Z
 title: Attacking consumerism in the wrong place
 slug: attacking-consumerism-in-the-wrong-place
 featured: false
@@ -9,6 +9,7 @@ draft: false
 description: A humorous take on defending Christmas consumption against its critics.
 emoji: 🎄
 tags:
+  - 🌍 Culture-Making.com
   - ❤️ Love
   - ❤️ Kindness
   - 🎉 Celebration

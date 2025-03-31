@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-17
-modDatetime: 2010-06-17
+modDatetime: 2025-03-31T16:30:36Z
 title: The daily grind
 slug: the-daily-grind
 featured: false
@@ -9,6 +9,9 @@ draft: false
 description: An exploration of the impact of maize processing on Mexican culture and women's roles in society.
 emoji: 🌽
 tags:
+  - 🇲🇽 Mexico
+  - 🥑 Central America
+  - 🌍 Culture-Making.com
   - ⚖️ Choices
   - ⚙️ Technology
   - ❤️ Resilience

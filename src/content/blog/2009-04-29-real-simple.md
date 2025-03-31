@@ -9,6 +9,7 @@ draft: False
 description: Exploring Wendell Berry's thoughts on complexity and simplicity reveals the deeper connections we must navigate in life.
 emoji: 🌱
 tags:
+  - 🌍 Culture-Making.com
   - 📖 Quotes
   - 💡 Wisdom
   - 🌅 Reflection
@@ -18,7 +19,6 @@ haiku: |
   Complexity thrives,  
   Unity’s gentle embrace,  
   Nature’s simple truth.
-
 coordinates: [37.8393, -85.4664]
 ---
 
