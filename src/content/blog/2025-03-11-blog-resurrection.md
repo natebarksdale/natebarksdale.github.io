@@ -4,7 +4,7 @@ pubDatetime: 2025-03-28
 modDatetime: 2025-03-28
 title: Blog Resurrection
 slug: blog-resurrection
-featured: False
+featured: True
 draft: False
 tags:
   - 📚 Preservation

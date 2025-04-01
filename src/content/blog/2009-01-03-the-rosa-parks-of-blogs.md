@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-03
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-01T18:04:25Z
 title: The Rosa Parks of blogs
 slug: the-rosa-parks-of-blogs
 featured: false
@@ -14,6 +14,7 @@ tags:
   - 🌍 Culture-Making.com
   - ✍️ Literature
   - 🌍 Culture
+  - 📖 Clichés
 haiku: |
   Cliches come alive,  
   New forms from old ideas,  

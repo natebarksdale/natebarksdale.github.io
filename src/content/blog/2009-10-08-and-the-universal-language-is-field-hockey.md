@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-08
-modDatetime: 2025-03-31T16:30:29Z
+modDatetime: 2025-04-01T18:04:25Z
 title: And the universal language is ... field hockey
 slug: and-the-universal-language-is-field-hockey
 featured: false
@@ -13,6 +13,7 @@ tags:
   - 🌍 Culture-Making.com
   - 🌍 Culture
   - 🌍 Diversity
+  - 📖 Clichés
 haiku: |
   Unity prevails,  
   Disparate hearts combine,  

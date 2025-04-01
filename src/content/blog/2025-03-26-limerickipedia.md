@@ -6,7 +6,7 @@ title: Limerickipedia
 slug: limerickipedia
 featured: False
 draft: False
-description: Imagine an encyclopedia built only from limericks, each linking to more!
+description: I built this — an online encyclopedia where every entry is a limerick. And it's all generated on the fly by LLMs, of course.
 emoji: 🤪
 tags:
   - ✍️ Poetry

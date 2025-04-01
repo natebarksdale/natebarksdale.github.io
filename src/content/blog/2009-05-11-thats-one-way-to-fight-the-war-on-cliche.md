@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-11
-modDatetime: 2025-03-31T16:30:25Z
+modDatetime: 2025-04-01T18:04:25Z
 title: That’s one way to fight the war on cliche
 slug: thats-one-way-to-fight-the-war-on-cliche
 featured: false
@@ -14,6 +14,7 @@ tags:
   - 🌆 Urban Spaces
   - 🌍 Culture
   - 📖 Articles
+  - 📖 Clichés
 haiku: |
   Cardboard Rome stands tall,  
   Built in just a single day,  

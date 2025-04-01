@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-29
-modDatetime: 2025-03-31T16:30:12Z
+modDatetime: 2025-04-01T18:04:25Z
 title: Spanish Catholic schoolgirl crushes
 slug: spanish-catholic-schoolgirl-crushes
 featured: false
@@ -13,6 +13,7 @@ tags:
   - 🌍 Culture-Making.com
   - 🌍 Globalization
   - 🌍 Culture
+  - 📖 Clichés
   - 📝 Writing
 haiku: |
   Old cliches retreat,  

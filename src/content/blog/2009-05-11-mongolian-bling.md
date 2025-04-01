@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-11
-modDatetime: 2025-03-31T16:30:25Z
+modDatetime: 2025-04-01T18:04:25Z
 title: Mongolian Bling
 slug: mongolian-bling
 featured: false
@@ -16,6 +16,7 @@ tags:
   - 🎭 Irony
   - 🎶 Sounds
   - 💡 Innovation
+  - 📖 Clichés
 haiku: |
   East meets West anew,  
   Nomads dance to foreign beats,  

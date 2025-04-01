@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2012-02-08
-modDatetime: 2025-03-31T16:30:39Z
+modDatetime: 2025-04-01T18:04:25Z
 title: Good art in dark times
 slug: good-art-in-dark-times
 featured: false
@@ -14,6 +14,7 @@ tags:
   - 🌍 Culture
   - ✨ Beauty
   - ❤️ Kindness
+  - 📖 Clichés
 haiku: |
   In shadowed moments,  
   Art finds the flickering light,  

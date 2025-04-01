@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-25
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-01T18:04:25Z
 title: Two clichés make us laugh. A hundred clichés move us
 slug: two-cliches-make-us-laugh-a-hundred-cliches-move-us
 featured: false
@@ -16,6 +16,7 @@ tags:
   - 🌍 Culture
   - 🎥 Film
   - ✨ Beauty
+  - 📖 Clichés
 haiku: |
   In clichés we find,  
   Depths of thought and feeling,  
