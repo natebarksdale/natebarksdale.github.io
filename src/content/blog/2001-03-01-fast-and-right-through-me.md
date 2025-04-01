@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-03-01
-modDatetime: 2025-03-31T16:30:03Z
+modDatetime: 2025-04-01T19:01:48Z
 title: Fast and Right through Me
 slug: fast-and-right-through-me
 featured: false
@@ -15,6 +15,7 @@ tags:
   - 📖 Books
   - ❤️ Love
   - 💔 Grief
+  - 🔠 Typography
 haiku: |
   Heart exposed, laid bare,  
   Laughter dances with the pain,  

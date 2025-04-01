@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-01T19:01:48Z
 title: Twenty-six Alphabet Trucks, by Eric Tabuchi
 slug: twenty-six-alphabet-trucks-by-eric-tabuchi
 featured: false
@@ -15,6 +15,7 @@ tags:
   - 📈 Marketing
   - 🗣️ Language
   - 📝 Writing
+  - 🔠 Typography
 haiku: |
   In letters we trust,  
   Captured in the amber light,  

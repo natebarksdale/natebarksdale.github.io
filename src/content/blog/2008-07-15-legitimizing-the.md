@@ -14,6 +14,7 @@ tags:
   - 🌍 Globalization
   - 🗣️ Words
   - 🔍 Discoveries
+  - 🔠 Typography
 haiku: |
   Eszett stands renewed,  
   Typographers rejoice now,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-09
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-01T19:01:49Z
 title: Talent is overrated, practice what you love
 slug: talent-is-overrated-practice-what-you-love
 featured: false
@@ -15,6 +15,7 @@ tags:
   - 💪 Difficulty
   - ⚖️ Choices
   - 🌍 Culture
+  - 🔠 Typography
 haiku: |
   Skills born from hard work,  
   Passion fuels the journey,  

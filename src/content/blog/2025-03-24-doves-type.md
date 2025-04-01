@@ -13,10 +13,7 @@ tags:
   - 📖 Bible
   - 🍷 Europe
   - 🇬🇧 London
-  - ⚙️ Engineering
-  - 🏛️ Architecture
-  - 🏢 Buildings
-  - 🏗️ Construction
+  - 🔠 Typography
 haiku: |
   Old bridge starts to sway,
   River flows beneath the weight,

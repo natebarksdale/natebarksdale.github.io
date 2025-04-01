@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-15
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-01T19:01:49Z
 title: Even better than the real thing
 slug: even-better-than-the-real-thing
 featured: false
@@ -14,6 +14,7 @@ tags:
   - ♻️ Repurposing
   - 📖 Articles
   - 🎨 Art
+  - 🔠 Typography
 haiku: |
   Letters form a tale,  
   Crafting time's precious echoes,  
