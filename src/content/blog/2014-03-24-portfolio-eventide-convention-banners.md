@@ -5,7 +5,7 @@ modDatetime: 2025-03-31T16:30:39Z
 title: Portfolio | Eventide Convention Banners
 slug: portfolio-eventide-convention-banners
 featured: false
-draft: false
+draft: true
 description: I had the opportunity to create these full-height banners for the Eventide Funds booth at a national convention of financial planners. Rarely has a banner so large had so many footnotes, but the finance industry loves (and requires) these things.
 emoji: 📊
 tags:

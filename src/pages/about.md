@@ -22,12 +22,6 @@ See my posts tagged [history.com](/tags/historycom/)
 
 `writing` `fact-checking` `editing` `script review` `editorial project management`
 
-# Eventide
-
-I worked with [Eventide Asset Management](https://www.eventideinvestments.com/) to design and reliably update dozens of excitingly boring quarterly and annual documents quickly, accurately, and on-brand.I created backend task management systems to adapt document design, content and compliance workflows as Eventide has grown from a startup with a few million in assets under management to an established family of mutual funds managing more than $6 billion in clients’ ethical investments.
-
-`web and graphic design` `project management` `workflow` `low-code toolmaking` `html/css/php` `Adobe suite` `website maintenance`
-
 # Templeton
 
 I've profiled people and projects investigating the universe's biggest mysteries for [The John Templeton Foundation's website](https://www.templeton.org/about-our-authors).I've loved the challenge of diving deep with experts on topics ranging from Big Bang cosmology to human evolution to philosophy and theology, and finding ways to explain just how fascinating it is for the general reader.
@@ -35,6 +29,10 @@ I've profiled people and projects investigating the universe's biggest mysteries
 See my posts tagged [Templeton](/tags/templeton/)
 
 `features` `interviews` `blog posts` `study of the day`
+
+# Eventide
+
+Since 2012 I've worked on various projects with [Eventide Asset Management](https://www.eventideinvestments.com/) as an external partner focused on Graphic and Web Design, helping with their mission to offer "Investing that makes the world rejoice®"
 
 # Envoy & Homefront
 
