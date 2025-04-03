@@ -3,19 +3,28 @@ import { Resvg } from "@resvg/resvg-js";
 import { type CollectionEntry } from "astro:content";
 import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
+import fs from "fs";
+import path from "path";
 
 const fetchFonts = async () => {
-  // Regular Font
-  const fontFileRegular = await fetch(
-    "https://www.1001fonts.com/download/font/ibm-plex-mono.regular.ttf"
-  );
-  const fontRegular: ArrayBuffer = await fontFileRegular.arrayBuffer();
+  // Define paths to local font files
+  const fontRegularPath = path.resolve("./public/fonts/Faune-Text_Regular.ttf");
+  const fontBoldPath = path.resolve("./public/fonts/Faune-Display_Black.ttf");
 
-  // Bold Font
-  const fontFileBold = await fetch(
-    "https://www.1001fonts.com/download/font/ibm-plex-mono.bold.ttf"
+  // Read font files
+  const fontRegularBuffer = fs.readFileSync(fontRegularPath);
+  const fontBoldBuffer = fs.readFileSync(fontBoldPath);
+
+  // Convert Buffer to ArrayBuffer
+  const fontRegular = fontRegularBuffer.buffer.slice(
+    fontRegularBuffer.byteOffset,
+    fontRegularBuffer.byteOffset + fontRegularBuffer.byteLength
   );
-  const fontBold: ArrayBuffer = await fontFileBold.arrayBuffer();
+
+  const fontBold = fontBoldBuffer.buffer.slice(
+    fontBoldBuffer.byteOffset,
+    fontBoldBuffer.byteOffset + fontBoldBuffer.byteLength
+  );
 
   return { fontRegular, fontBold };
 };
@@ -28,15 +37,15 @@ const options: SatoriOptions = {
   embedFont: true,
   fonts: [
     {
-      name: "IBM Plex Mono",
+      name: "Faune", // Updated font name to match your font
       data: fontRegular,
       weight: 400,
       style: "normal",
     },
     {
-      name: "IBM Plex Mono",
+      name: "Faune", // Updated font name to match your font
       data: fontBold,
-      weight: 600,
+      weight: 900, // Assuming "Display_Black" is weight 900 or similar
       style: "normal",
     },
   ],
