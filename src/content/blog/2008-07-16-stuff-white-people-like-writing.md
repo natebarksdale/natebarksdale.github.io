@@ -5,7 +5,7 @@ modDatetime: 2025-03-31T16:30:05Z
 title: Stuff white people like - writing
 slug: stuff-white-people-like-writing
 featured: false
-draft: false
+draft: true
 description: This post discusses the racial breakdown of under-35 artists and writers, highlighting the challenges and representation of writers of color.
 emoji: 🎨
 tags:

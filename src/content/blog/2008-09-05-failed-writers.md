@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-05
-modDatetime: 2025-03-31T16:30:10Z
+modDatetime: 2025-04-03T15:34:41Z
 title: Failed writers
 slug: failed-writers
 featured: false
@@ -26,4 +26,4 @@ A closing zinger from the obituary of Robert Giroux, editor and publisher of man
 
 ---
 
-from "Robert Giroux, Publisher, Dies at 94](http://ideas.blogs.nytimes.com/2008/09/26/fewer-than-1-in-5-cancer-trials-published/)," by Christopher Lehmann-Haupt, [NYTimes.com](https://www.google.com/search?q=%22NYTimes.com%22%20nytimes.com), 5 September 2008
+from "[Robert Giroux, Publisher, Dies at 94](https://www.nytimes.com/2008/09/06/books/06giroux.html)," by Christopher Lehmann-Haupt, [NYTimes.com](https://nytimes.com), 5 September 2008

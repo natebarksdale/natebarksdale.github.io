@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-01
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-03T15:34:41Z
 title: Ella Fitzgerald, One Note Samba, 1969
 slug: ella-fitzgerald-one-note-samba-1969
 featured: false
@@ -20,5 +20,4 @@ haiku: |
 coordinates: [34.0522, -118.2437]
 ---
 
-](http://www.lrb.co.uk/v30/n24/camp01_.html)
 A friend asked me to recommend an Ella Fitzgerald recording to play at her wedding. That's a bit of a trick question, as anything sung by Ella, even the inappropriate lyrics, will somehow magically work in that situation. I settled on her version of Johnny Mercer's "Too Marvelous for Words," with its excellent Webster's Dictionary shout-out, but here's a live performance by Ella that's very literally too marvelous for words
