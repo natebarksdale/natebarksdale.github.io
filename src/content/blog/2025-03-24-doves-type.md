@@ -41,19 +41,19 @@ During its short lifespan, the Doves Press produced the Bible, works by Milton a
 
 On February 9th, 1909, Cobden-Sanderson [wrote in his journal](https://archive.org/details/b30009352_0002/page/138/mode/2up?q=type):
 
-> It is my wish that the Doves Press type shall never be subjected to the use of a machine other than the human hand, in composition, or to a press pulled otherwise than by the hand and arm of man or woman; and this I will see to in my Will, though, if I forget, I desire taht this which I have written shall operate in its place.
+> It is my wish that the Doves Press type shall never be subjected to the use of a machine other than the human hand, in composition, or to a press pulled otherwise than by the hand and arm of man or woman; and this I will see to in my Will, though, if I forget, I desire that this which I have written shall operate in its place.
 
 On June 11th, 1911, he wrote in his journal an astonishing expansion of that sentiment, beginning "My Last Will and Testament. _To the Bed of the River Thames, the river on whose banks I have printed all my printed books ..._". This Testament would be repeated, set in Doves Type, in the Doves Press's final catalog of published works, with one important alteration: instead of being in Cobden-Sanderson's voice, it was in the voice of the Doves Press itself:
 
 ![](@assets/images/doves-bequeathed.jpg)
 
-And then he did it. On Good Friday, 1913, Cobden-Sanderson took up his pen for a progress update.
+And then he did it. On Good Friday, 1913, Cobden-Sanderson took up his pen for a progress update:
 
 > Yes; yesterday, and the day before, and Tuesday I stood on the bridge at Hammersmith and, looking towards the Press and the sun setting, threw into the Thames below me the matrices from which had been cast the Doves Press Fount of Type, itself to be cast by me, I hope, into the same great river, from the sme place, on the final closure of the Press, in ——?
 
 With the matrices gone, no new type could be created; the Doves Press could continue using the stock at hand. But in late 1916, Cobden-Sanderson decided it was time to complete the task, making the first of roughly seventy trips to carry the leaden letterforms and drop them into the river. Robert Green writes:
 
-By February 1917, having spent countless evenings clandestinely ‘dedicating and consecrating’ the type to the River Thames, 76 year-old Cobden-Sanderson had thrown more than a ton of lead type over Hammersmith Bridge.
+> By February 1917, having spent countless evenings clandestinely ‘dedicating and consecrating’ the type to the River Thames, 76 year-old Cobden-Sanderson had thrown more than a ton of lead type over Hammersmith Bridge.
 
 The font was gone, except not really. The printed books still existed, of course, and in the ensuing decades, mudlarkers — participants in the particularly Londonian hobby of scouring the banks of the Thames at low tide to see what artifacts (Roman coins, Elizabethan pipestems, unexploded Nazi ordinance) might show up in the muck. Downstream from the Hammersmith Bridge, from time to time little bits of type would be found.
 
@@ -65,12 +65,12 @@ There are at least as many layers of irony, too: Cobden-Sanderson's fear that Do
 
 Similarly, the quixotic commitment involved in the quite literal digital revival of Doves Type involves celebrating an artist's greatest work in a way that makes possible the exact thing (mechanical reproduction outside of his control) that Cobden-Sanderson worked so hard to avoid.
 
-It's a repeat of the lesson that first hit home with me in the story of Philadelphia's [Barnes Foundation](https://www.barnesfoundation.org), as told in the documentary [The Art of the Steal](<https://en.wikipedia.org/wiki/The_Art_of_the_Steal_(2009_film)>): The dead may have their say, but they can't have it for long.
+It's a repeat of the lesson that first hit home with me in the story of Philadelphia's [Barnes Foundation](https://www.barnesfoundation.org), as told in the documentary _[The Art of the Steal](<https://en.wikipedia.org/wiki/The_Art_of_the_Steal_(2009*film)>)*: The dead may have their say, but they can't have it for long.
 
 This past November, I had a chance to spend a few days in London with my eight-year-old son in tow. One night we rode the Tube out to Hammersmith and walked down to the bridge. We stood at the railing and watched the lights dance in the water below, and felt the structure shudder and sway as the buses went by, and imagined Cobden-Sanderson's seventy trips to that spot, to complete his great work. Then we walked a block to the Dove, the storied pub that gave the Doves Press its name, and then a few blocks south to catch a Fulham game at Craven Cottage.
 
-Early this year, when I set in earnest to resurrect my old blog and give it a new form, I thought a lot about the story of Doves Type, and about the other old technologies of printing that have metaphoric echoes in the age of Large Language Models. I decided to license the digital Doves Type for my own new efforts — fully aware that however horrified Cobden-Sanderson might have been about a steam-operated printing press, surely the idea of a Large Language model would have mortified him even more.
+Early this year, when I set in earnest to resurrect my old blog and give it a new form, I thought a lot about the story of Doves Type, and about the other old technologies of printing that have metaphoric echoes in the age of large language models. I decided to license the digital Doves Type for my own new efforts — fully aware that however horrified Cobden-Sanderson might have been about a steam-operated printing press, surely the idea of an LLM would have mortified him even more.
 
-(I even tried feeding Google's Notebook LM the text of Cobden-Sanderson's journal, and telling the AI to create a playable text game where I could visit Cobden-Sanderson in his office at the Doves Press to quiz him about his ideas. Like so many AI things, it worked astonishingly well at first, before quickly collapsing into a pile of cliches and platitudes. I tried to coax the AI Cobden-Sanderson to go with me to take a swim in the Thames, but the game demurred, citing pollution. But yes, "he" was mortified while still being defensive of the amount of mechanical automation that _was_ OK.)
+(I even tried feeding Google's [NotebookLM](https://notebooklm.google) the text of Cobden-Sanderson's journal, and telling the AI to create a playable text game where I could visit Cobden-Sanderson in his office at the Doves Press to quiz him about his ideas. Like so many AI things, it worked astonishingly well at first, before quickly collapsing into a pile of cliches and platitudes. I tried to coax the AI Cobden-Sanderson to go with me to take a swim in the Thames, but the game demurred, citing pollution. But yes, "he" was mortified while still being defensive of the amount of mechanical automation that _was_ OK.)
 
 But anyway, here we are, reading this in Doves Type (_except the italics_, of which there were none in the Doves Press output; I went with a size-matched Garamond for these.) There we have it: creation, destruction, loss, irony, and a question mark (this?) that looks so odd I spent no small amount of time trying to figure out where the computer had cut it off.
