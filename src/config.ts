@@ -37,9 +37,9 @@ export const tagDataMap: Record<string, TagData> = {
 };
 
 export const SITE: Site = {
-  website: "https://natebarksdale.github.io/", // replace this with your deployed domain
+  website: "https://natebarksdale.xyz/", // replace this with your deployed domain
   author: "Nate Barksdale",
-  desc: "Nate Barksdale Writing + Design",
+  desc: "I’m currently looking for new clients and partners for one-off or long-term projects spanning writing, editing, fact-checking, and exploring AI tools and use cases.",
   title: "Nate Barksdale Writing + Design",
   ogImage: "natebarksdale-og.jpg",
   lightAndDarkMode: true,
