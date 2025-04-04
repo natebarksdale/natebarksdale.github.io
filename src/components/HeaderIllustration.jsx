@@ -91,7 +91,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
   const pitch = 0;
 
   // Set up the layers (1 base map layer + text layers)
-  const totalLayers = 6;
+  const totalLayers = 3;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
       createParallaxValue(i, totalLayers)
