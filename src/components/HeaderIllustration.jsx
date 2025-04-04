@@ -83,10 +83,11 @@ const HeaderIllustration = () => {
 
   // Set up the layers and dimensions
   const width = 750;
-  const height = 350;
-  const mapboxToken = "your-mapbox-token"; // Replace with your token
+  const height = 230; // Reduced by about 2/3
+  const mapboxToken =
+    "pk.eyJ1IjoibmF0ZWJhcmtzZGFsZSIsImEiOiJja284MXZmcnAwZmc5MnVwZGh2cW4wc29mIn0.OvkxDSZ-1-8YU4TtyW5siw"; // Actual Mapbox token
   const mwidth = 800;
-  const mheight = 400;
+  const mheight = 280; // Adjusted to maintain aspect ratio
   const zoom = 5;
   const bearing = 0;
   const pitch = 0;
@@ -175,7 +176,7 @@ const HeaderIllustration = () => {
       className="relative w-full"
       style={{
         width: "100%",
-        height: "350px",
+        height: "230px",
         maxWidth: "750px",
         margin: "0 auto",
       }}
