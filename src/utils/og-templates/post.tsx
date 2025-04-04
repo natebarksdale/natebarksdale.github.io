@@ -1,8 +1,6 @@
 import { SITE } from "@config";
-import type { CollectionEntry } from "astro:content";
-import OgIllustration from "./OgIllustration";
 
-export default (post: CollectionEntry<"blog">) => {
+export default () => {
   return (
     <div
       style={{
@@ -12,12 +10,8 @@ export default (post: CollectionEntry<"blog">) => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        position: "relative",
       }}
     >
-      {/* Add the OgIllustration as a background */}
-      <OgIllustration title={post.data.title} />
-
       <div
         style={{
           position: "absolute",
@@ -32,22 +26,19 @@ export default (post: CollectionEntry<"blog">) => {
           margin: "2.5rem",
           width: "88%",
           height: "80%",
-          zIndex: 5, // Ensure it's above the illustration
         }}
       />
 
       <div
         style={{
           border: "4px solid #000",
-          background: "rgba(254, 251, 251, 0.85)", // Add transparency to see the background
+          background: "#fefbfb",
           borderRadius: "4px",
           display: "flex",
           justifyContent: "center",
           margin: "2rem",
           width: "88%",
           height: "80%",
-          position: "relative",
-          zIndex: 10, // Ensure it's above the illustration
         }}
       >
         <div
@@ -60,55 +51,33 @@ export default (post: CollectionEntry<"blog">) => {
             height: "90%",
           }}
         >
-          <p
-            style={{
-              fontSize: 72,
-              fontWeight: "bold",
-              maxHeight: "84%",
-              overflow: "hidden",
-              textShadow: "0 2px 4px rgba(0,0,0,0.2)", // Add text shadow for better visibility
-              display: "flex", // Add explicit display for Satori
-            }}
-          >
-            {post.data.title}
-          </p>
           <div
             style={{
               display: "flex",
-              justifyContent: "space-between",
+              flexDirection: "column",
+              justifyContent: "center",
+              alignItems: "center",
+              height: "90%",
+              maxHeight: "90%",
+              overflow: "hidden",
+              textAlign: "center",
+            }}
+          >
+            <p style={{ fontSize: 72, fontWeight: "bold" }}>{SITE.title}</p>
+            <p style={{ fontSize: 28 }}>{SITE.desc}</p>
+          </div>
+
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "flex-end",
               width: "100%",
               marginBottom: "8px",
               fontSize: 28,
             }}
           >
-            <span style={{ display: "flex" }}>
-              <span
-                style={{
-                  color: "transparent",
-                  display: "flex", // Add explicit display for Satori
-                }}
-              >
-                "
-              </span>
-              <span
-                style={{
-                  overflow: "hidden",
-                  fontWeight: "bold",
-                  display: "flex",
-                }}
-              >
-                {/* {post.data.author} */}
-              </span>
-            </span>
-
-            <span
-              style={{
-                overflow: "hidden",
-                fontWeight: "bold",
-                display: "flex",
-              }}
-            >
-              {SITE.title}
+            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+              {new URL(SITE.website).hostname}
             </span>
           </div>
         </div>

@@ -1,5 +1,4 @@
 import { SITE } from "@config";
-import OgIllustration from "./OgIllustration";
 
 export default () => {
   return (
@@ -11,12 +10,8 @@ export default () => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        position: "relative",
       }}
     >
-      {/* Add the OgIllustration as a background */}
-      <OgIllustration title={SITE.title} />
-
       <div
         style={{
           position: "absolute",
@@ -31,22 +26,19 @@ export default () => {
           margin: "2.5rem",
           width: "88%",
           height: "80%",
-          zIndex: 5, // Ensure it's above the illustration
         }}
       />
 
       <div
         style={{
           border: "4px solid #000",
-          background: "rgba(254, 251, 251, 0.85)", // Add transparency to see the background
+          background: "#fefbfb",
           borderRadius: "4px",
           display: "flex",
           justifyContent: "center",
           margin: "2rem",
           width: "88%",
           height: "80%",
-          position: "relative",
-          zIndex: 10, // Ensure it's above the illustration
         }}
       >
         <div
@@ -71,17 +63,8 @@ export default () => {
               textAlign: "center",
             }}
           >
-            <p
-              style={{
-                fontSize: 72,
-                fontWeight: "bold",
-                textShadow: "0 2px 4px rgba(0,0,0,0.2)", // Add text shadow for better visibility
-                display: "flex", // Add explicit display for Satori
-              }}
-            >
-              {SITE.title}
-            </p>
-            <p style={{ fontSize: 28, display: "flex" }}>{SITE.desc}</p>
+            <p style={{ fontSize: 72, fontWeight: "bold" }}>{SITE.title}</p>
+            <p style={{ fontSize: 28 }}>{SITE.desc}</p>
           </div>
 
           <div
@@ -93,13 +76,7 @@ export default () => {
               fontSize: 28,
             }}
           >
-            <span
-              style={{
-                overflow: "hidden",
-                fontWeight: "bold",
-                display: "flex",
-              }}
-            >
+            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
               {new URL(SITE.website).hostname}
             </span>
           </div>
