@@ -1,7 +1,7 @@
 import React, { useMemo, useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
-const HeaderIllustration = () => {
+const HeaderIllustration = ({ mapboxToken }) => {
   const ref = useRef(null);
   const { scrollYProgress } = useScroll({
     target: ref,
@@ -83,9 +83,7 @@ const HeaderIllustration = () => {
 
   // Set up the layers and dimensions
   const width = 750;
-  const height = 230; // Reduced by about 2/3
-  const mapboxToken =
-    "pk.eyJ1IjoibmF0ZWJhcmtzZGFsZSIsImEiOiJja284MXZmcnAwZmc5MnVwZGh2cW4wc29mIn0.OvkxDSZ-1-8YU4TtyW5siw"; // Actual Mapbox token
+  const height = 230; // Reduced height
   const mwidth = 800;
   const mheight = 280; // Adjusted to maintain aspect ratio
   const zoom = 5;
@@ -154,7 +152,7 @@ const HeaderIllustration = () => {
     });
   }, [width, height]);
 
-  // Create the static map URL
+  // Create the static map URL with mapbox token from props
   const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
 
   // Base layer clip path

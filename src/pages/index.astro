@@ -25,13 +25,14 @@ const archivePosts = getRandomArchivePosts(
 );
 
 const socialCount = SOCIALS.filter(social => social.active).length;
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
 ---
 
 <Layout>
   <Header />
   <main id="main-content">
     <section id="hero">
-      <HeaderIllustration client:load />
+      <HeaderIllustration client:load mapboxToken={mapboxToken} />
       <p>
         <span style="color:rgb(0,0,0,0.25)">¶</span> I've been thinking a lot about,
         and experimenting a lot with, the uses of AI — its promises, possibilities,
