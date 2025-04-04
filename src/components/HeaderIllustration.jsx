@@ -85,8 +85,8 @@ const HeaderIllustration = ({ mapboxToken }) => {
   const width = 750;
   const height = 230; // Reduced height
   const mwidth = 850;
-  const mheight = 300; // Adjusted to maintain aspect ratio
-  const zoom = 5;
+  const mheight = 330; // Adjusted to maintain aspect ratio
+  const zoom = 3;
   const bearing = 0;
   const pitch = 0;
 
