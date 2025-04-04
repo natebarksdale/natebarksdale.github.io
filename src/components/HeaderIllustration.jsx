@@ -1,5 +1,5 @@
-import React, { useMemo, useRef } from "react";
-import { motion, useScroll, useTransform } from "framer-motion";
+import React, { useMemo, useRef, useEffect } from "react";
+import { motion, useScroll, useTransform, animate } from "framer-motion";
 
 const HeaderIllustration = ({ mapboxToken }) => {
   const ref = useRef(null);
@@ -102,6 +102,57 @@ const HeaderIllustration = ({ mapboxToken }) => {
   const sourceText =
     "I've been thinking a lot about and experimenting a lot with the uses of AI Large Language models work in the principle of a predicting the next element in sequence of tokens of words and fragments given what came before what comes next";
 
+  // Create refs for blur states
+  const blurRefs = useRef([]).current;
+  while (blurRefs.length < 5) {
+    blurRefs.push(React.createRef());
+  }
+
+  // Cycle blur animation
+  useEffect(() => {
+    // Start with all layers blurred
+    blurRefs.forEach(ref => {
+      if (ref.current) {
+        ref.current.style.filter = "blur(15px)";
+      }
+    });
+
+    // Create animations for each layer with staggered delays
+    blurRefs.forEach((ref, index) => {
+      const cycleTime = 5 + Math.random() * 5; // Between 5-10 seconds
+      const delay = index * 1.5; // Stagger the starts
+
+      const animate = () => {
+        if (!ref.current) return;
+
+        // Fade in (become focused)
+        setTimeout(() => {
+          if (ref.current) {
+            ref.current.style.transition = "filter 1.5s ease-in-out";
+            ref.current.style.filter = "blur(0px)";
+          }
+        }, delay * 1000);
+
+        // Stay focused for a moment
+        setTimeout(
+          () => {
+            if (ref.current) {
+              ref.current.style.transition = "filter 1.5s ease-in-out";
+              ref.current.style.filter = "blur(15px)";
+            }
+          },
+          (delay + cycleTime * 0.3) * 1000
+        );
+
+        // Repeat the animation
+        setTimeout(() => animate(), cycleTime * 1000);
+      };
+
+      // Start the animation loop
+      animate();
+    });
+  }, []);
+
   // Get characters from the source text for the letter layers
   const letterLayers = useMemo(() => {
     const words = sourceText.replace(/\s+/g, " ").split(" ");
@@ -163,7 +214,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
     opacity: [1, 0, 1],
     transition: {
       repeat: Infinity,
-      duration: 3,
+      duration: 1.2,
       ease: "linear",
     },
   };
@@ -222,7 +273,12 @@ const HeaderIllustration = ({ mapboxToken }) => {
             preserveAspectRatio="xMidYMid meet"
           >
             <g
+              ref={blurRefs[index]}
               transform={`translate(${layer.x}, ${layer.y}) rotate(${layer.rotation})`}
+              style={{
+                filter: "blur(10px)",
+                transition: "filter 1.5s ease-in-out",
+              }}
             >
               <text
                 style={{
