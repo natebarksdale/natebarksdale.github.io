@@ -7,6 +7,7 @@ import LinkButton from "@components/LinkButton.astro";
 import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
 import Socials from "@components/Socials.astro";
+import HeaderIllustration from "@components/HeaderIllustration";
 import getSortedPosts from "@utils/getSortedPosts";
 import getRandomArchivePosts from "@utils/getRandomArchivePosts";
 import { SOCIALS } from "@config";
@@ -30,7 +31,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>What Comes Next_</h1>
+      <HeaderIllustration client:load />
       <p>
         <span style="color:rgb(0,0,0,0.25)">¶</span> I've been thinking a lot about,
         and experimenting a lot with, the uses of AI — its promises, possibilities,
@@ -119,9 +120,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   /* ===== Hero Section ===== */
   #hero {
     @apply pb-6 pt-8;
-  }
-  #hero h1 {
-    @apply my-4 inline-block font-serif text-3xl sm:my-8 sm:text-5xl;
   }
   #hero p {
     @apply font-serif my-2 text-2xl;
