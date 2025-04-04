@@ -113,7 +113,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
     // Start with all layers blurred
     blurRefs.forEach(ref => {
       if (ref.current) {
-        ref.current.style.filter = "blur(15px)";
+        ref.current.style.filter = "blur(50px)";
       }
     });
 
@@ -138,7 +138,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
           () => {
             if (ref.current) {
               ref.current.style.transition = "filter 1.5s ease-in-out";
-              ref.current.style.filter = "blur(15px)";
+              ref.current.style.filter = "blur(25px)";
             }
           },
           (delay + cycleTime * 0.3) * 1000
@@ -276,7 +276,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
               ref={blurRefs[index]}
               transform={`translate(${layer.x}, ${layer.y}) rotate(${layer.rotation})`}
               style={{
-                filter: "blur(10px)",
+                filter: "blur(15px)",
                 transition: "filter 1.5s ease-in-out",
               }}
             >
