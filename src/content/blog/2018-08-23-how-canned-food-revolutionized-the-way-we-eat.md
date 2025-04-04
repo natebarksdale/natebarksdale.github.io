@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-08-22
-modDatetime: 2025-03-31T16:30:40Z
+modDatetime: 2025-04-04T15:51:22Z
 title: How Canned Food Revolutionized The Way We Eat
 slug: how-canned-food-revolutionized-the-way-we-eat
 featured: false
@@ -28,4 +28,5 @@ For the History Channel, I wrote about the transformative impact of canned food 
 from pickling and salting to smoking and drying, humans have been finding ways to make food last longer since prehistoric times. But by the 18th century, an efficient—and truly effective—means of preservation remained elusive.
 
 > In 1795, the French government decided to do something about it. That year, the country was fighting battles in Italy, the Netherlands, Germany and the Caribbean, highlighting the need for a stable source of food for far-flung soldiers and seamen. France's leaders decided to offer a 12,000-franc prize through the Society for the Encouragement of Industry for a breakthrough in the preservation of food.
-> [Read more at history.com](https://www.history.com/news/what-it-says-on-the-tin-a-brief-history-of-canned-food)
+
+[Read more at history.com](https://www.history.com/news/what-it-says-on-the-tin-a-brief-history-of-canned-food)

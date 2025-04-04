@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-07-09
-modDatetime: 2025-03-31T16:30:44Z
+modDatetime: 2025-04-04T15:51:23Z
 title: What is the Longest River in the World?
 slug: what-is-the-longest-river-in-the-world
 featured: false
@@ -27,4 +27,5 @@ For the History Channel, I wrote about the enduring debate over the world's long
 > The longest river in the world, measured from its mouth to its most distant, year-round source, is likely the Amazon, which flows 4,345 miles from the Peruvian Andes through Brazil to the Atlantic Ocean.
 >
 > Until 2007, the title belonged to the Nile, which runs 4,258 miles from the mountains of Burundi to its famed and fertile delta fan, where Egypt meets the Mediterranean Sea. The two lengths are close enough that measuring techniques and philosophies can be quite controversial. In fact, the geographers who crowned the Amazon champion were funded in part by the Brazilian government.
-> [Read more at history.com](https://www.history.com/news/what-is-the-longest-river-in-the-world)
+
+[Read more at history.com](https://www.history.com/news/what-is-the-longest-river-in-the-world)
