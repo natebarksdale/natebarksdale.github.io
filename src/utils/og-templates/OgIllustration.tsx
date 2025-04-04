@@ -160,7 +160,7 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
         />
       </div>
 
-      {/* Text layers */}
+      {/* Text layers represented as colored rectangles instead of SVG text */}
       {letterLayers.map((layer, index) => (
         <div
           key={index}
@@ -172,40 +172,23 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
             display: "flex", // Add explicit display: flex for Satori
           }}
         >
-          <svg
+          <div
             style={{
               position: "absolute",
-              inset: 0,
-              width: "100%",
-              height: "100%",
-              pointerEvents: "none",
+              left: `${(layer.x / width) * 100}%`,
+              top: `${(layer.y / height) * 100}%`,
+              width: `${Math.max(100, layer.text.length * 40 * layer.scale)}px`,
+              height: `${80 * layer.scale}px`,
+              backgroundColor: layer.color,
+              transform: `rotate(${layer.rotation}deg)`,
+              borderRadius: "8px",
+              filter: "blur(15px)",
+              opacity: 0.9,
+              display: "flex", // Add explicit display: flex for Satori
+              justifyContent: "center",
+              alignItems: "center",
             }}
-            viewBox={`0 0 ${width} ${height}`}
-            preserveAspectRatio="xMidYMid meet"
-          >
-            <g
-              transform={`translate(${layer.x}, ${layer.y}) rotate(${layer.rotation})`}
-              style={{
-                filter: "blur(15px)",
-              }}
-            >
-              <text
-                style={{
-                  fill: layer.color,
-                  fontSize: `${Math.min(width, height) * 0.3 * layer.scale}px`,
-                  fontFamily: "Faune",
-                  fontWeight: "bold",
-                  fontStyle: "italic",
-                  opacity: 0.9,
-                  transformOrigin: "center",
-                }}
-                textAnchor="middle"
-                dominantBaseline="middle"
-              >
-                {layer.text}
-              </text>
-            </g>
-          </svg>
+          />
         </div>
       ))}
     </div>
