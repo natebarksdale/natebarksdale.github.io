@@ -163,7 +163,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
     opacity: [1, 0, 1],
     transition: {
       repeat: Infinity,
-      duration: 1.2,
+      duration: 3,
       ease: "linear",
     },
   };
