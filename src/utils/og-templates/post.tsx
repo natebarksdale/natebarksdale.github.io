@@ -1,5 +1,6 @@
 import { SITE } from "@config";
 import type { CollectionEntry } from "astro:content";
+import OgIllustration from "./OgIllustration";
 
 export default (post: CollectionEntry<"blog">) => {
   return (
@@ -11,8 +12,12 @@ export default (post: CollectionEntry<"blog">) => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
+        position: "relative",
       }}
     >
+      {/* Add the OgIllustration as a background */}
+      <OgIllustration title={post.data.title} />
+
       <div
         style={{
           position: "absolute",
@@ -27,19 +32,22 @@ export default (post: CollectionEntry<"blog">) => {
           margin: "2.5rem",
           width: "88%",
           height: "80%",
+          zIndex: 5, // Ensure it's above the illustration
         }}
       />
-      /
+
       <div
         style={{
           border: "4px solid #000",
-          background: "#fefbfb",
+          background: "rgba(254, 251, 251, 0.85)", // Add transparency to see the background
           borderRadius: "4px",
           display: "flex",
           justifyContent: "center",
           margin: "2rem",
           width: "88%",
           height: "80%",
+          position: "relative",
+          zIndex: 10, // Ensure it's above the illustration
         }}
       >
         <div
@@ -58,6 +66,7 @@ export default (post: CollectionEntry<"blog">) => {
               fontWeight: "bold",
               maxHeight: "84%",
               overflow: "hidden",
+              textShadow: "0 2px 4px rgba(0,0,0,0.2)", // Add text shadow for better visibility
             }}
           >
             {post.data.title}
@@ -72,7 +81,6 @@ export default (post: CollectionEntry<"blog">) => {
             }}
           >
             <span>
-              {/* by{" "} */}
               <span
                 style={{
                   color: "transparent",
