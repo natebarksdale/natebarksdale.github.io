@@ -136,6 +136,7 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
         height: "100%",
         zIndex: 0,
         overflow: "hidden",
+        display: "flex", // Add explicit display: flex for Satori
       }}
     >
       {/* Base layer */}
@@ -145,6 +146,7 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
           inset: 0,
           clipPath: baseClipPath,
           zIndex: 1,
+          display: "flex", // Add explicit display: flex for Satori
         }}
       >
         <div
@@ -153,6 +155,7 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
             inset: 0,
             backgroundColor: "#f5e6d3",
             opacity: 0.75,
+            display: "flex", // Add explicit display: flex for Satori
           }}
         />
       </div>
@@ -166,6 +169,7 @@ const OgIllustration = ({ title, width = 1200, height = 630 }) => {
             inset: 0,
             clipPath: layer.clipPath,
             zIndex: index + 2,
+            display: "flex", // Add explicit display: flex for Satori
           }}
         >
           <svg

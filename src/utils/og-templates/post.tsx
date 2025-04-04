@@ -67,6 +67,7 @@ export default (post: CollectionEntry<"blog">) => {
               maxHeight: "84%",
               overflow: "hidden",
               textShadow: "0 2px 4px rgba(0,0,0,0.2)", // Add text shadow for better visibility
+              display: "flex", // Add explicit display for Satori
             }}
           >
             {post.data.title}
@@ -80,20 +81,33 @@ export default (post: CollectionEntry<"blog">) => {
               fontSize: 28,
             }}
           >
-            <span>
+            <span style={{ display: "flex" }}>
               <span
                 style={{
                   color: "transparent",
+                  display: "flex", // Add explicit display for Satori
                 }}
               >
                 "
               </span>
-              <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+              <span
+                style={{
+                  overflow: "hidden",
+                  fontWeight: "bold",
+                  display: "flex",
+                }}
+              >
                 {/* {post.data.author} */}
               </span>
             </span>
 
-            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+            <span
+              style={{
+                overflow: "hidden",
+                fontWeight: "bold",
+                display: "flex",
+              }}
+            >
               {SITE.title}
             </span>
           </div>

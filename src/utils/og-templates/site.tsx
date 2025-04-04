@@ -76,11 +76,12 @@ export default () => {
                 fontSize: 72,
                 fontWeight: "bold",
                 textShadow: "0 2px 4px rgba(0,0,0,0.2)", // Add text shadow for better visibility
+                display: "flex", // Add explicit display for Satori
               }}
             >
               {SITE.title}
             </p>
-            <p style={{ fontSize: 28 }}>{SITE.desc}</p>
+            <p style={{ fontSize: 28, display: "flex" }}>{SITE.desc}</p>
           </div>
 
           <div
@@ -92,7 +93,13 @@ export default () => {
               fontSize: 28,
             }}
           >
-            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+            <span
+              style={{
+                overflow: "hidden",
+                fontWeight: "bold",
+                display: "flex",
+              }}
+            >
               {new URL(SITE.website).hostname}
             </span>
           </div>
