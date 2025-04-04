@@ -84,8 +84,8 @@ const HeaderIllustration = ({ mapboxToken }) => {
   // Set up the layers and dimensions
   const width = 750;
   const height = 230; // Reduced height
-  const mwidth = 800;
-  const mheight = 280; // Adjusted to maintain aspect ratio
+  const mwidth = 850;
+  const mheight = 300; // Adjusted to maintain aspect ratio
   const zoom = 5;
   const bearing = 0;
   const pitch = 0;
@@ -113,13 +113,13 @@ const HeaderIllustration = ({ mapboxToken }) => {
     // Start with all layers blurred
     blurRefs.forEach(ref => {
       if (ref.current) {
-        ref.current.style.filter = "blur(50px)";
+        ref.current.style.filter = "blur(100px)";
       }
     });
 
     // Create animations for each layer with staggered delays
     blurRefs.forEach((ref, index) => {
-      const cycleTime = 5 + Math.random() * 5; // Between 5-10 seconds
+      const cycleTime = 1 + Math.random() * 2; // Between 5-10 seconds
       const delay = index * 1.5; // Stagger the starts
 
       const animate = () => {
@@ -138,7 +138,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
           () => {
             if (ref.current) {
               ref.current.style.transition = "filter 1.5s ease-in-out";
-              ref.current.style.filter = "blur(25px)";
+              ref.current.style.filter = "blur(15px)";
             }
           },
           (delay + cycleTime * 0.3) * 1000
@@ -302,7 +302,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
 
       {/* H1 Layer */}
       <div className="absolute bottom-0 left-0 p-6 z-10">
-        <h1 className="text-white m-0 p-0 text-3xl flex items-center shadow-amber-400">
+        <h1 className="text-white m-0 p-0 text-4xl flex items-center drop-shadow-xl">
           What Comes Next
           <motion.span
             animate={cursorAnimation}

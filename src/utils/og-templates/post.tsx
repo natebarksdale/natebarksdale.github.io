@@ -29,7 +29,7 @@ export default (post: CollectionEntry<"blog">) => {
           height: "80%",
         }}
       />
-
+      /
       <div
         style={{
           border: "4px solid #000",
