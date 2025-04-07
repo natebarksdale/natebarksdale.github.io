@@ -216,13 +216,32 @@ const HeaderIllustration = ({ mapboxToken }) => {
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
 
-  // Define typewriter sequences with corrections/edits
-  const typewriterSequences = [
-    { text: "What Comes Before", delayAfter: 600, deleteChars: 6 },
-    { text: "What Comes Soon", delayAfter: 700, deleteChars: 4 },
-    { text: "What Comes Now", delayAfter: 800, deleteChars: 3 },
-    { text: "What Comes Next", delayAfter: 1000 },
-  ];
+  // Define potential typewriter sequences
+  const potentialSequences = useMemo(
+    () => [
+      { text: "What Comes Before", delayAfter: 600, deleteChars: 6 },
+      { text: "What Comes Soon", delayAfter: 700, deleteChars: 4 },
+      { text: "What Comes Now", delayAfter: 800, deleteChars: 3 },
+      { text: "What Comes First", delayAfter: 500, deleteChars: 5 },
+      { text: "What Comes After", delayAfter: 400, deleteChars: 5 },
+      { text: "What Comes Together", delayAfter: 350, deleteChars: 8 },
+      { text: "What Comes Around", delayAfter: 450, deleteChars: 6 },
+      { text: "What Comes Back", delayAfter: 550, deleteChars: 4 },
+      { text: "What Comes Up", delayAfter: 500, deleteChars: 2 },
+      { text: "What Comes Down", delayAfter: 400, deleteChars: 4 },
+      { text: "What Comes Through", delayAfter: 550, deleteChars: 7 },
+    ],
+    []
+  );
+
+  // Randomly select 3 sequences from the potential options and add the final "Next" sequence
+  const typewriterSequences = useMemo(() => {
+    const shuffled = [...potentialSequences].sort(() => 0.5 - Math.random());
+    const selected = shuffled.slice(0, 3);
+    // Add the final sequence that always remains the same
+    selected.push({ text: "What Comes Next", delayAfter: 1000 });
+    return selected;
+  }, [potentialSequences]);
 
   return (
     <div
