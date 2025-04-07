@@ -10,12 +10,10 @@ const fetchFonts = async () => {
   // Define paths to local font files
   const fontRegularPath = path.resolve("./public/fonts/Faune-Text_Regular.ttf");
   const fontBoldPath = path.resolve("./public/fonts/Faune-Display_Black.ttf");
-  const fontDovesPath = path.resolve("./public/fonts/DovesType-Text.woff");
 
   // Read font files
   const fontRegularBuffer = fs.readFileSync(fontRegularPath);
   const fontBoldBuffer = fs.readFileSync(fontBoldPath);
-  const fontDovesBuffer = fs.readFileSync(fontDovesPath);
 
   // Convert Buffer to ArrayBuffer
   const fontRegular = fontRegularBuffer.buffer.slice(
@@ -28,15 +26,10 @@ const fetchFonts = async () => {
     fontBoldBuffer.byteOffset + fontBoldBuffer.byteLength
   );
 
-  const fontDoves = fontDovesBuffer.buffer.slice(
-    fontDovesBuffer.byteOffset,
-    fontDovesBuffer.byteOffset + fontDovesBuffer.bytelength
-  );
-
-  return { fontRegular, fontBold, fontDoves };
+  return { fontRegular, fontBold };
 };
 
-const { fontRegular, fontBold, fontDoves } = await fetchFonts();
+const { fontRegular, fontBold } = await fetchFonts();
 
 const options: SatoriOptions = {
   width: 1200,
@@ -53,12 +46,6 @@ const options: SatoriOptions = {
       name: "Faune", // Updated font name to match your font
       data: fontBold,
       weight: 900, // Assuming "Display_Black" is weight 900 or similar
-      style: "normal",
-    },
-    {
-      name: "DovesType", // Updated font name to match your font
-      data: fontDoves,
-      weight: 400, // Assuming "Display_Black" is weight 900 or similar
       style: "normal",
     },
   ],
