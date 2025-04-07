@@ -1,5 +1,6 @@
 import React, { useMemo, useRef, useEffect } from "react";
-import { motion, useScroll, useTransform, animate } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
+import TypewriterEffect from "./TypewriterEffect";
 
 const HeaderIllustration = ({ mapboxToken }) => {
   const ref = useRef(null);
@@ -209,15 +210,13 @@ const HeaderIllustration = ({ mapboxToken }) => {
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
 
-  // Cursor animation
-  const cursorAnimation = {
-    opacity: [1, 0, 1],
-    transition: {
-      repeat: Infinity,
-      duration: 3,
-      ease: "linear",
-    },
-  };
+  // Define typewriter sequences with corrections/edits
+  const typewriterSequences = [
+    { text: "What comes", delayAfter: 300 },
+    { text: "What comes soon", delayAfter: 600, deleteChars: 4 },
+    { text: "What comes now", delayAfter: 600, deleteChars: 3 },
+    { text: "What Comes Next", delayAfter: 1000 },
+  ];
 
   return (
     <div
@@ -300,16 +299,13 @@ const HeaderIllustration = ({ mapboxToken }) => {
         </motion.div>
       ))}
 
-      {/* H1 Layer */}
+      {/* H1 Layer with Typewriter Effect */}
       <div className="absolute bottom-0 left-0 p-6 my-3 z-10">
         <h1 className="text-white mx-3 p-0 flex text-3xl! items-center drop-shadow-xl">
-          What Comes Next
-          <motion.span
-            animate={cursorAnimation}
-            style={{ marginLeft: "0.1em" }}
-          >
-            _
-          </motion.span>
+          <TypewriterEffect
+            sequences={typewriterSequences}
+            className="text-white"
+          />
         </h1>
       </div>
     </div>
