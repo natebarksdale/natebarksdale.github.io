@@ -92,7 +92,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
       <motion.span
         className="what-comes-next"
         animate={cursorAnimation}
-        style={{ marginLeft: "0.2em" }}
+        style={{ marginLeft: "0em" }}
       >
         _
       </motion.span>
