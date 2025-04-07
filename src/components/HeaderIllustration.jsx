@@ -233,7 +233,6 @@ const HeaderIllustration = ({ mapboxToken }) => {
         height: "230px",
         maxWidth: "750px",
         margin: "6em auto 16em auto",
-        padding: "3em auto 3em auto",
       }}
     >
       {/* Base map layer */}
@@ -248,7 +247,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
         animate={{ opacity: 1 }}
         transition={{ duration: 1.2 }}
       >
-        <div className="absolute inset-0 bg-[#f5e6d3] opacity-75"></div>
+        <div className="absolute inset-0 bg-[#5d3b10] opacity-75"></div>
         <motion.img
           src={mapUrl}
           alt="Map"
