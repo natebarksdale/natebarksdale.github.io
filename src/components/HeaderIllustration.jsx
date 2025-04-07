@@ -232,7 +232,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
         width: "100%",
         height: "230px",
         maxWidth: "750px",
-        margin: "0 auto",
+        margin: "1em auto 1em auto",
       }}
     >
       {/* Base map layer */}
