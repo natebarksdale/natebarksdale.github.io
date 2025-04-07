@@ -27,7 +27,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
     if (isTyping) {
       // Typing forward
       if (displayText.length < targetText.length) {
-        const randomDelay = Math.floor(Math.random() * 120) + 30; // Random delay between 30-150ms
+        const randomDelay = Math.floor(Math.random() * 180) + 60; // Random delay between 60-240ms
         typingTimeout.current = setTimeout(() => {
           setDisplayText(targetText.substring(0, displayText.length + 1));
         }, randomDelay);
@@ -52,7 +52,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
     } else {
       // Deleting
       if (displayText.length > targetText.length - deleteAfter) {
-        const randomDelay = Math.floor(Math.random() * 60) + 20; // Faster deletion (20-80ms)
+        const randomDelay = Math.floor(Math.random() * 80) + 40; // Faster deletion (20-80ms)
         typingTimeout.current = setTimeout(() => {
           setDisplayText(displayText.substring(0, displayText.length - 1));
         }, randomDelay);
@@ -88,7 +88,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
 
   return (
     <div className={`flex items-center ${className}`}>
-      <span>{displayText}</span>
+      <span className="text-3xl!">{displayText}</span>
       <motion.span animate={cursorAnimation} style={{ marginLeft: "0.1em" }}>
         _
       </motion.span>

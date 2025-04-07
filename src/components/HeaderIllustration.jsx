@@ -212,9 +212,9 @@ const HeaderIllustration = ({ mapboxToken }) => {
 
   // Define typewriter sequences with corrections/edits
   const typewriterSequences = [
-    { text: "What comes", delayAfter: 300 },
-    { text: "What comes soon", delayAfter: 600, deleteChars: 4 },
-    { text: "What comes now", delayAfter: 600, deleteChars: 3 },
+    { text: "What Comes Before", delayAfter: 300, deleteChars: 6 },
+    { text: "What Somes Soon", delayAfter: 600, deleteChars: 4 },
+    { text: "What Comes Now", delayAfter: 600, deleteChars: 3 },
     { text: "What Comes Next", delayAfter: 1000 },
   ];
 
