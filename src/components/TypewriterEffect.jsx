@@ -88,7 +88,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
 
   return (
     <div className={`flex items-center ${className}`}>
-      <span className="text-3xl!">{displayText}</span>
+      <span className="what-comes-next">{displayText}</span>
       <motion.span animate={cursorAnimation} style={{ marginLeft: "0.1em" }}>
         _
       </motion.span>
