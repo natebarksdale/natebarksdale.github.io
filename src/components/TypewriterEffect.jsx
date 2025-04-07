@@ -52,7 +52,7 @@ const TypewriterEffect = ({ sequences = [], loop = false, className = "" }) => {
     } else {
       // Deleting
       if (displayText.length > targetText.length - deleteAfter) {
-        const randomDelay = Math.floor(Math.random() * 80) + 40; // Faster deletion (20-80ms)
+        const randomDelay = Math.floor(Math.random() * 180) + 60;
         typingTimeout.current = setTimeout(() => {
           setDisplayText(displayText.substring(0, displayText.length - 1));
         }, randomDelay);
