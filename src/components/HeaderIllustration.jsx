@@ -111,6 +111,10 @@ const HeaderIllustration = ({ mapboxToken }) => {
 
   // Cycle blur animation
   useEffect(() => {
+    // Preload the map image
+    const img = new Image();
+    img.src = mapUrl;
+
     // Start with all layers blurred
     blurRefs.forEach(ref => {
       if (ref.current) {
@@ -204,8 +208,10 @@ const HeaderIllustration = ({ mapboxToken }) => {
     });
   }, [width, height]);
 
-  // Create the static map URL with mapbox token from props
-  const mapUrl = `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
+  // Create the static map URL with mapbox token from props - with eager loading
+  const mapUrl = useMemo(() => {
+    return `https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/${coordinates[1]},${coordinates[0]},${zoom},${bearing},${pitch}/${mwidth}x${mheight}?access_token=${mapboxToken}`;
+  }, [coordinates, zoom, bearing, pitch, mwidth, mheight, mapboxToken]);
 
   // Base layer clip path
   const baseClipPath = useMemo(() => generateClipPath(0, totalLayers), []);
@@ -245,6 +251,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
         <motion.img
           src={mapUrl}
           alt="Map"
+          loading="eager"
           className="w-full h-full object-cover filter grayscale contrast-150 opacity-10 brightness-200 mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
