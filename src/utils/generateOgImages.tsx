@@ -15,7 +15,7 @@ const fetchFonts = async () => {
   // Read font files
   const fontRegularBuffer = fs.readFileSync(fontRegularPath);
   const fontBoldBuffer = fs.readFileSync(fontBoldPath);
-  const fontDovesBuffer = fs.readFilesSync(fontDovesPath);
+  const fontDovesBuffer = fs.readFileSync(fontDovesPath);
 
   // Convert Buffer to ArrayBuffer
   const fontRegular = fontRegularBuffer.buffer.slice(

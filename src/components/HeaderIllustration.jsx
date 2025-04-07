@@ -92,7 +92,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
   const pitch = 0;
 
   // Set up the layers (1 base map layer + text layers)
-  const totalLayers = 2;
+  const totalLayers = 6;
   const parallaxValues = useMemo(() => {
     return Array.from({ length: totalLayers }, (_, i) =>
       createParallaxValue(i, totalLayers)
@@ -164,7 +164,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
     const selectedWords = [];
 
     // Select 5 random words for our layers
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 3; i++) {
       const randomIndex = Math.floor(Math.random() * words.length);
       selectedWords.push(words[randomIndex]);
     }
