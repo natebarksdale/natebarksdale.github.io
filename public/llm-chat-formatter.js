@@ -283,7 +283,6 @@ function injectLLMChatStyles() {
       blockquote[data-llm] {
         padding: 0 !important;
         margin: 1.5rem 0 !important;
-        // border: 1px solid rgba(0, 0, 0, 0.1) !important;
         border-radius: 0.75rem !important;
         overflow: hidden !important;
         font-family: 'Faune', sans-serif !important;
@@ -469,7 +468,6 @@ function injectLLMChatStyles() {
         border-radius: 8px !important;
         overflow-x: auto !important;
         background-color: rgba(30, 30, 30, 0.05) !important;
-        border: 1px solid rgba(30, 30, 30, 0.1) !important;
         width: 100% !important;
         position: relative !important;
       }
@@ -529,7 +527,6 @@ function injectLLMChatStyles() {
         padding: 2px 8px !important;
         font-size: 11px !important;
         background-color: rgba(255, 255, 255, 0.8) !important;
-        border: 1px solid rgba(0, 0, 0, 0.1) !important;
         border-radius: 4px !important;
         color: rgba(0, 0, 0, 0.7) !important;
         cursor: pointer !important;

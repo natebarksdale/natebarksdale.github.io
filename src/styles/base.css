@@ -634,6 +634,10 @@ blockquote[data-llm] .chat-bubble pre .copy-code {
   display: none;
 }
 
+.what-comes-next {
+  @apply text-5xl;
+}
+
 /* Responsive styling */
 @media screen and (max-width: 640px) {
   blockquote[data-llm] .chat-bubble {
