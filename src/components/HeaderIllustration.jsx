@@ -301,8 +301,8 @@ const HeaderIllustration = ({ mapboxToken }) => {
       ))}
 
       {/* H1 Layer */}
-      <div className="absolute bottom-0 left-0 p-6 z-10">
-        <h1 className="text-white m-0 p-0 flex items-center drop-shadow-xl">
+      <div className="absolute bottom-0 left-0 p-6 my-3 z-10">
+        <h1 className="text-white mx-3 p-0 flex text-3xl! items-center drop-shadow-xl">
           What Comes Next
           <motion.span
             animate={cursorAnimation}
