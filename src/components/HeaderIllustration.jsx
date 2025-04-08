@@ -313,7 +313,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
           src={mapUrl}
           alt="Map"
           loading="eager"
-          className="w-full h-full object-cover filter grayscale contrast-150 opacity-10 brightness-200 mix-blend-hard-light"
+          className="w-full h-full object-cover filter sepia opacity-10 mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}
@@ -369,7 +369,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
 
       {/* H1 Layer with Typewriter Effect */}
       <div className="absolute bottom-0 left-0 p-6 my-3 z-10">
-        <h1 className="text-white mx-2 p-0 flex text-3xl! items-center drop-shadow-xl">
+        <h1 className="text-white mx-2 p-0 flex items-center drop-shadow-xl">
           <TypewriterEffect
             sequences={typewriterSequences}
             className="text-white"
