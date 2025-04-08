@@ -6,7 +6,7 @@ title: HISTORY This Week - The Rise and Fall of Black Wall Street
 slug: history-this-week-the-rise-and-fall-of-black-wall-street
 featured: False
 draft: False
-description: Delve into the history of Tulsa's thriving Black Wall Street and the devastating 1921 race massacre that violently destroyed this community.
+description: The history of Tulsa's thriving Black Wall Street and the devastating 1921 race massacre that violently destroyed this community.
 emoji: 🏚️
 tags:
   - 🔍 Fact-checking

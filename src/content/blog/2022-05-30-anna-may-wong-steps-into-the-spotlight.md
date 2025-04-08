@@ -6,7 +6,7 @@ title: HISTORY This Week - Anna May Wong Steps into the Spotlight
 slug: history-this-week-anna-may-wong-steps-into-the-spotlight
 featured: False
 draft: False
-description: Explore the glamorous yet singular journey of Anna May Wong. Delve into the life of Hollywood's first Chinese American movie star as she shines globally.
+description: Explore the glamorous yet singular journey of Anna May Wong, Hollywood's first Chinese American movie star to shine globally.
 emoji: 🌟
 tags:
   - 🔍 Fact-checking

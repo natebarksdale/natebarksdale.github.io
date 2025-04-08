@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-09-01
-modDatetime: 2025-03-31T16:30:03Z
+modDatetime: 2025-04-08T21:45:48Z
 title: Decolonizing Harry
 slug: decolonizing-harry
 featured: false
 draft: false
-description: Reflecting on the complexities of class, race, and intentional community living, the author's journey delves into the struggles of pursuing simplicity and the unintended consequences of well-meaning ideals.
+description: Reflecting on the complexities of class, race, and intentional community living, and the struggles of pursuing simplicity and the unintended consequences of well-meaning and not-so-well-meaning ideals.
 emoji: 🌍
 tags:
   - ➗ Mathematics

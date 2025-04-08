@@ -6,7 +6,7 @@ title: HISTORY This Week - Could the Challenger Disaster Have Been Prevented?
 slug: history-this-week-could-the-challenger-disaster-have-been-prevented
 featured: False
 draft: False
-description: On a freezing Florida morning, NASA launches Challenger despite engineer warnings. Delve into the critical decisions behind the tragic 1986 disaster.
+description: On a freezing Florida morning, NASA launches Challenger despite engineer warnings. How did it happen, and what happened in the aftermath?
 emoji: 🤔
 tags:
   - 🔍 Fact-checking
@@ -23,7 +23,7 @@ haiku: |
 coordinates: [28.3968, -80.6077]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/03GfGEUt5GlZ7lzjhsCPLF?si=zZn7js3ySZyICCGS0hqoNg) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/03GfGEUt5GlZ7lzjhsCPLF?si=zZn7js3ySZyICCGS0hqoNg) for The History Channel. This involved a bit of tracking down the progress of 1980s cold fronts, when the Space Shuttle's external fuel tank changed color (they realized the white paint wasn't necessary), and how exactly the reusable booster rockets were reused (they were in segments, so different segments were reused at different locations in different boosters). Also, it's instructive and horrifying to dig into transcripts of how good and bad decisions get made, and how institutions then try or fail to self-correct.
 
 > January 28, 1986. It's freezing in Central Florida, a historically cold day. That's bad news for citrus growers, and for NASA, which is scheduled to launch the Space Shuttle Challenger from Cape Canaveral this morning.
 >

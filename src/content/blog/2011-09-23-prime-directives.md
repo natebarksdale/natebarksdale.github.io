@@ -6,7 +6,7 @@ title: Prime Directives
 slug: prime-directives
 featured: false
 draft: true
-description: Exploring the intersection of culture and fantasy, this piece delves into Jordan's ambitious plan for a Star Trek-themed park amidst historical and contemporary influences.
+description: Exploring the intersection of culture and fantasy, we find Jordan's ambitious plan for a Star Trek-themed park.
 emoji: 🚀
 tags:
   - ✨ Wonder

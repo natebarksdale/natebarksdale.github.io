@@ -6,7 +6,7 @@ title: HISTORY This Week - Dividing the Desert
 slug: history-this-week-dividing-the-desert
 featured: False
 draft: False
-description: HISTORY This Week revisits April 25, 1859: A ceremonial pickaxe blow launches the audacious project to divide the desert and link two seas via the Suez Canal.
+description: A ceremonial pickaxe blow launches the audacious project to divide the desert and link two seas via the Suez Canal.
 emoji: 🗺️
 tags:
   - 🔍 Fact-checking

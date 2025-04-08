@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-31T16:30:21Z
+modDatetime: 2025-04-08T21:45:48Z
 title: The noisy, crowded past
 slug: the-noisy-crowded-past
 featured: false
 draft: false
-description: Reflecting on the contrasts of solitude and noise throughout human history, Alan Jacobs delves into the complexities of personal space.
+description: Reflecting on the contrasts of solitude and noise throughout human history, Alan Jacobs looks into the complexities of personal space.
 emoji: 🏞️
 tags:
   - 🍷 Europe

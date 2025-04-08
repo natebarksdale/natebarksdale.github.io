@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-14
-modDatetime: 2025-03-31T16:30:24Z
+modDatetime: 2025-04-08T21:45:48Z
 title: Babel undone
 slug: babel-undone
 featured: false
 draft: false
-description: Reflecting on the evolution of online translation and the effects of language mixing, this piece delves into the transformative journey of a biblical story through many languages.
+description: The transformative journey of a biblical story through many languages.
 emoji: 🌐
 tags:
   - 🌙 Islam

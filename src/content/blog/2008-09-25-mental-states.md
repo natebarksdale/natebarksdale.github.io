@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-04-08T15:19:44Z
+modDatetime: 2025-04-08T21:45:48Z
 title: Mental states
 slug: mental-states
 featured: false
 draft: false
-description: This article delves into the intriguing link between regional personality traits and various societal outcomes in the United States.
+description: The intriguing link between regional personality traits and various societal outcomes in the United States.
 emoji: 🗺️
 tags:
   - ➗ Mathematics

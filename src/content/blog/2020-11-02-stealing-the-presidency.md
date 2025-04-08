@@ -6,7 +6,7 @@ title: HISTORY This Week - Stealing the Presidency
 slug: history-this-week-stealing-the-presidency
 featured: False
 draft: False
-description: Delve into the chaos of the 1876 election! A candidate concedes defeat, but overnight maneuvers snatch the presidency from the apparent winner.
+description: Chaos in the 1876 election! A candidate concedes defeat, but overnight maneuvers snatch the presidency from the apparent winner.
 emoji: ⚖️
 tags:
   - 🔍 Fact-checking

@@ -6,7 +6,7 @@ title: HISTORY This Week - Ethel Rosenberg's Day in Court
 slug: history-this-week-ethel-rosenberg-s-day-in-court
 featured: False
 draft: False
-description: Delve into the tense courtroom drama as Ethel Rosenberg faces espionage charges, awaiting a verdict that seals her and her husband's fate.
+description: Courtroom drama as Ethel Rosenberg faces espionage charges, awaiting a verdict that seals her and her husband's fate.
 emoji: ⚖️
 tags:
   - 🔍 Fact-checking

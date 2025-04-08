@@ -23,7 +23,7 @@ haiku: |
 coordinates: [41.8781, -87.6298]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/5ofcvwaH9KjFJFp2y45I2r?si=nbh0T4uvToS5T1vIrppLEw) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/5ofcvwaH9KjFJFp2y45I2r?si=nbh0T4uvToS5T1vIrppLEw) for The History Channel. Highlights included tracking down a graduate thesis that examined draft disqualifications during World War II.
 
 > February 15, 1935. The American Medical Association, the AMA, is holding an emergency meeting in Chicago. The crisis? The possibility that the federal government is about to pass universal health insurance.
 >

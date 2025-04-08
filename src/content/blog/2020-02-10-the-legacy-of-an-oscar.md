@@ -7,7 +7,7 @@ slug: history-this-week-the-legacy-of-an-oscar
 featured: False
 draft: False
 emoji: 🏆
-description: Delve into Hattie McDaniel's groundbreaking 1940 Oscar win, its complicated legacy, and the fifty-year mystery surrounding the missing award.
+description: Hattie McDaniel's groundbreaking 1940 Oscar win, its complicated legacy, and the fifty-year mystery surrounding the missing award.
 tags:
   - 🔍 Fact-checking
   - 🎙️ Podcasts

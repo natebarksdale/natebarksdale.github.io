@@ -6,7 +6,7 @@ title: HISTORY This Week - Reconstruction I - Secession on Trial
 slug: history-this-week-reconstruction-i-secession-on-trial
 featured: False
 draft: False
-description: Jefferson Davis's capture ignites a crucial question: How do you put secession itself on trial? Delve into Reconstruction's start with HISTORY This Week.
+description: Jefferson Davis's capture ignites a crucial question — How do you put secession itself on trial?
 emoji: ⚖️
 tags:
   - 🔍 Fact-checking
