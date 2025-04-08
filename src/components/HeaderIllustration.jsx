@@ -313,7 +313,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
           src={mapUrl}
           alt="Map"
           loading="eager"
-          className="w-full h-full object-cover filter sepia opacity-10 mix-blend-hard-light"
+          className="w-full h-full object-cover filter grayscale opacity-10 mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}
