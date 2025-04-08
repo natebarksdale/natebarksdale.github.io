@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-29
-modDatetime: 2025-03-31T16:30:06Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Biblioteca Vasconcelos, Mexico City
 slug: biblioteca-vasconcelos-mexico-city
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🇲🇽 Mexico
   - 🥑 Central America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Society
 haiku: |
   Shelves of endless dreams,  

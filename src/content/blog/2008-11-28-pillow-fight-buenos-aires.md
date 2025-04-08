@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-28
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Pillow Fight Buenos Aires
 slug: pillow-fight-buenos-aires
 featured: false
@@ -10,7 +10,6 @@ description: A lively flash mob of teenagers gathers for an epic pillow fight in
 emoji: 🥳
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎉 Celebration
 haiku: |
   Pillows in the air,  

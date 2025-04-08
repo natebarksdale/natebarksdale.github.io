@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-09
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Stone wall, Cuzco, Peru
 slug: stone-wall-cuzco-peru
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✨ Wonder
   - 🧉 South America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏛️ Architecture
   - 🌀 Complexity
   - 🏞️ National Parks

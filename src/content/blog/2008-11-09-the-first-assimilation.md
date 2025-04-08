@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-09
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: The first assimilation
 slug: the-first-assimilation
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🥑 Central America
   - 🧉 South America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
 haiku: |
   Lost in two cultures,  
   A silent mask worn with pride,  

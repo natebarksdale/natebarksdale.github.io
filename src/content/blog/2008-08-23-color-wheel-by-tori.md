@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Color wheel, by Tori
 slug: color-wheel-by-tori
 featured: false
@@ -10,7 +10,6 @@ description: This piece reflects on a simple yet profound way to engage with nat
 emoji: 🌿
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 🌸 Happiness
 haiku: |

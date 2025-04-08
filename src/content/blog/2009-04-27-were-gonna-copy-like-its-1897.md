@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-27
-modDatetime: 2025-03-31T16:30:24Z
+modDatetime: 2025-04-08T15:19:48Z
 title: We’re gonna copy like it’s 1897
 slug: were-gonna-copy-like-its-1897
 featured: false
@@ -10,7 +10,6 @@ description: Music piracy has a long history, as evidenced by this 111-year-old 
 emoji: 🎶
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Articles
   - ⚖️ Law
 haiku: |

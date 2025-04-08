@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-05
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-08T15:19:42Z
 title: How Buildings Learn TV series
 slug: how-buildings-learn-tv-series
 featured: false
@@ -11,7 +11,6 @@ emoji: 🏛️
 tags:
   - 📺 Television
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚙️ Technology
 haiku: |
   Structures evolve slow,  

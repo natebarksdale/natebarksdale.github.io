@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-24
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Food culture and the Last Supper
 slug: food-culture-and-the-last-supper
 featured: false
@@ -10,7 +10,6 @@ description: An intriguing analysis of portion sizes in the iconic Last Supper p
 emoji: 🍽️
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🍞 Bread
 haiku: |
   Tables loaded high,  

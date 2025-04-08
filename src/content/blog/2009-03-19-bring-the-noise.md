@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Bring the noise
 slug: bring-the-noise
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the cultural significance of sound preferences, Stanford 
 emoji: 🎶
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎵 Music
   - 🌀 Complexity
   - 🔍 Discoveries

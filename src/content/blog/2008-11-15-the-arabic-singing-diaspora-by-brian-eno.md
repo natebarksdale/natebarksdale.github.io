@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-15
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: The Arabic Singing Diaspora, by Brian Eno
 slug: the-arabic-singing-diaspora-by-brian-eno
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - 🌙 Islam
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Diversity
   - 🎵 Music
   - 🎨 Art

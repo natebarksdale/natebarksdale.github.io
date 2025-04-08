@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Tokyo vintage
 slug: tokyo-vintage
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the fascinating interconnection of vintage fashion betwee
 emoji: 🧥
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇯🇵 Japan
   - 👕 Clothes
 haiku: |

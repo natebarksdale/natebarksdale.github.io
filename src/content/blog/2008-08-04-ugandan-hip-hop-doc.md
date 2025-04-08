@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-04
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Ugandan hip-hop doc
 slug: ugandan-hip-hop-doc
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✨ Wonder
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
   - 🎵 Music
 haiku: |
   Voices rising strong,  

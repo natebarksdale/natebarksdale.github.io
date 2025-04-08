@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-06
-modDatetime: 2025-03-31T16:30:21Z
+modDatetime: 2025-04-08T15:19:48Z
 title: The pause that refreshes
 slug: the-pause-that-refreshes
 featured: false
@@ -10,7 +10,6 @@ description: A study reveals that commercial interruptions can enhance enjoyment
 emoji: 🍿
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📺 Television
   - 🎬 Hollywood
   - 🎭 Entertainment

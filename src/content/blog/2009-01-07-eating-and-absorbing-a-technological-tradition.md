@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-07
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Eating and absorbing a technological tradition
 slug: eating-and-absorbing-a-technological-tradition
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🇫🇷 France
   - 🇨🇳 China
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - ⚙️ Technology
   - ♻️ Repurposing

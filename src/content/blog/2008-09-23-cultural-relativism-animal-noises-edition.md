@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-31T16:30:11Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Cultural Relativism - Animal Noises Edition
 slug: cultural-relativism-animal-noises-edition
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of how children from different cultures perceive ani
 emoji: 🐸
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🐸 Frogs
   - 🔄 Commitment
   - 📝 Writing

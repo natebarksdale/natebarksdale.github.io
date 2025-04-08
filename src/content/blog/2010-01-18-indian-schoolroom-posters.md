@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-18
-modDatetime: 2025-03-31T16:30:32Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Indian schoolroom posters
 slug: indian-schoolroom-posters
 featured: false
@@ -12,7 +12,6 @@ tags:
   - ✨ Wonder
   - 🗣️ Language
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - 📖 Articles
   - 🖼️ Artifacts

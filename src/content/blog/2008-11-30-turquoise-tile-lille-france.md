@@ -11,7 +11,6 @@ emoji: 🏙️
 tags:
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇫🇷 France
   - 🎨 Art
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-31T16:30:38Z
+modDatetime: 2025-04-08T15:19:51Z
 title: Secular praise songs from Western Kenya
 slug: secular-praise-songs-from-western-kenya
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🇿🇦 South Africa
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎵 Music
   - 🎤 Performances
   - 📝 Writing

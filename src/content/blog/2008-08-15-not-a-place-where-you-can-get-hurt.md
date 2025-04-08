@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-15
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Not a place where you can get hurt
 slug: not-a-place-where-you-can-get-hurt
 featured: false
@@ -10,7 +10,6 @@ description: This passage raises intriguing points about safety and control in t
 emoji: 🎢
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚖️ Law
   - ⚠️ Danger
 haiku: |

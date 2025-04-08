@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-16
-modDatetime: 2025-03-31T16:30:18Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Texting in cuneiform
 slug: texting-in-cuneiform
 featured: false
@@ -11,7 +11,6 @@ emoji: 📜
 tags:
   - 📖 Bible
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
 haiku: |
   Clay holds the whispers,  

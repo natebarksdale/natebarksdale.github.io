@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-01
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Adieu, Polaroids
 slug: adieu-polaroids
 featured: false
@@ -11,7 +11,6 @@ emoji: 📸
 tags:
   - ✨ Wonder
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🖼️ Artifacts
 haiku: |
   Instant moments freeze,  

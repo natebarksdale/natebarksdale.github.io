@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-16
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-08T15:19:49Z
 title: What a difference a TV makes
 slug: what-a-difference-a-tv-makes
 featured: false
@@ -11,7 +11,6 @@ emoji: 📺
 tags:
   - 🧉 South America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Society
   - 📺 Television
   - ⚖️ Choices

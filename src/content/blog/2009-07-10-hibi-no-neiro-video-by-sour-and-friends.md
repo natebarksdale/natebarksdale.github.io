@@ -10,7 +10,6 @@ description: Celebrate Friday with a unique blend of crowdsourced creativity and
 emoji: 🌍
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎵 Music
   - 🌐 Blogging
   - 🇯🇵 Japan

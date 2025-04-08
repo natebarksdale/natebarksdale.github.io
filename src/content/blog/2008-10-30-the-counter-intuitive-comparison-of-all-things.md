@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-30
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: The counter-intuitive comparison of all things
 slug: the-counter-intuitive-comparison-of-all-things
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Exploration
   - 📝 Writing
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-03-31T16:30:21Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Global Street Food installation, by Mike Meiré
 slug: global-street-food-installation-by-mike-meire
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🧉 South America
   - 🇨🇳 China
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌞 Leisure
 haiku: |
   Stalls line the streets,  

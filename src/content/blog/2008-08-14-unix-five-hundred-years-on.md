@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-14
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Unix, five hundred years on
 slug: unix-five-hundred-years-on
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on the enduring nature of cultural creations and the u
 emoji: ⏳
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚙️ Technology
   - 💡 Innovation
   - 📝 Writing

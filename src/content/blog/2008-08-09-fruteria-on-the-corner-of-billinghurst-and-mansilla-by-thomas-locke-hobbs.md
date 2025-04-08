@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-09
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Fruteria on the corner of Billinghurst and Mansilla, by Thomas Locke Hobbs
 slug: fruteria-on-the-corner-of-billinghurst-and-mansilla-by-thomas-locke-hobbs
 featured: false
@@ -11,7 +11,6 @@ emoji: 🍍
 tags:
   - 🧉 South America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ❤️ Kindness
 haiku: |
   Pineapple displayed,  

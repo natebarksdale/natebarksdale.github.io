@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Cell phones and African elections
 slug: cell-phones-and-african-elections
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
   - ⚙️ Technology
-  - 🌍 Africa
   - 🔄 Commitment
 haiku: |
   Mobile voices rise,  

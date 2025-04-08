@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-11
-modDatetime: 2025-03-31T16:30:26Z
+modDatetime: 2025-04-08T15:19:49Z
 title: Verda with Her Yard Art, by Dave Jordano
 slug: verda-with-her-yard-art-by-dave-jordano
 featured: false
@@ -10,7 +10,6 @@ description: I love how the porch's shadow elegantly mirrors the stairs below it
 emoji: 🏡
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - 🌅 Reflection
 haiku: |

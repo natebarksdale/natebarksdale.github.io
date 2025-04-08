@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-19
-modDatetime: 2025-03-31T16:30:20Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Poverty Is Not Economics, by John Kofi Ayree
 slug: poverty-is-not-economics-by-john-kofi-ayree
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
   - 🎨 Art
   - 🖼️ Artifacts
   - ❤️ Charity

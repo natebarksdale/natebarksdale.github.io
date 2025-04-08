@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-14
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Have story, will travel
 slug: have-story-will-travel
 featured: false
@@ -11,7 +11,6 @@ emoji: 🗺️
 tags:
   - ✨ Wonder
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Storytelling
 haiku: |
   Tales wander through time,  

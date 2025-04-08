@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-15
-modDatetime: 2025-03-31T16:30:10Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Tibetans Play Pool
 slug: tibetans-play-pool
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the cultural significance of tables in social gatherings 
 emoji: 🎱
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📍 Travel
   - 🎨 Art
 haiku: |

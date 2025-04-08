@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-15
-modDatetime: 2025-03-31T16:30:04Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Albania’s sworn virgins
 slug: albanias-sworn-virgins
 featured: false
@@ -11,7 +11,6 @@ emoji: ⚔️
 tags:
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Society
   - ⚖️ Choices
   - ⚖️ Ethics

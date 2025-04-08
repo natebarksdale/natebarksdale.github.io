@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-27
-modDatetime: 2025-03-31T16:30:22Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Beehives, cones, hips, and domes
 slug: beehives-cones-hips-and-domes
 featured: false
@@ -11,7 +11,6 @@ emoji: 🗺️
 tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
   - 🌍 Cartography
 haiku: |
   Roofs of many shapes,  

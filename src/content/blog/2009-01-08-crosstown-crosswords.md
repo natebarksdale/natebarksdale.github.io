@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-08
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Crosstown crosswords
 slug: crosstown-crosswords
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 💡 Design
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 🎨 Art
   - 🌆 Cities

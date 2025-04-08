@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-04-17
-modDatetime: 2025-03-31T16:30:24Z
+modDatetime: 2025-04-08T15:19:48Z
 title: The slightly universal language?
 slug: the-slightly-universal-language
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🗣️ Language
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎶 Activities
 haiku: |
   Sounds from distant lands,  

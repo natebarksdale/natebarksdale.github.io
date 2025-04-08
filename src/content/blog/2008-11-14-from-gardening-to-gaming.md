@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-14
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: From gardening to gaming
 slug: from-gardening-to-gaming
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌱
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ❤️ Kindness
 haiku: |
   Nature's soft embrace,  

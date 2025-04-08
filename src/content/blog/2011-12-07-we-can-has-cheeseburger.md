@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-12-07
-modDatetime: 2025-03-31T16:30:38Z
+modDatetime: 2025-04-08T15:19:51Z
 title: We can has cheeseburger!
 slug: we-can-has-cheeseburger
 featured: false
@@ -10,7 +10,6 @@ description: Reflecting on the complexities behind something as simple as a chee
 emoji: 🍔
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🍔 Fast Food
   - 🌀 Complexity
 haiku: |

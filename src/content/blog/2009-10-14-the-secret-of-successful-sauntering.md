@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-14
-modDatetime: 2025-03-31T16:30:29Z
+modDatetime: 2025-04-08T15:19:49Z
 title: The secret of successful sauntering
 slug: the-secret-of-successful-sauntering
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌳
 tags:
   - ✨ Wonder
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ❤️ Kindness
 haiku: |
   In war's shadowed time,  

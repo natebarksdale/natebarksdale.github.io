@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-14
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Eiffel Tower, by Mojca Vilfan
 slug: eiffel-tower-by-mojca-vilfan
 featured: false
@@ -10,7 +10,6 @@ description: This reflection on perspective evokes not only a visual experience 
 emoji: 🌍
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ✝️ Christianity
   - 🏰 Castles
   - 🖼️ Artifacts

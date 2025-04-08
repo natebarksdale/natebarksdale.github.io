@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-06
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Lego Globe
 slug: lego-globe
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - ✨ Wonder
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Exploration
   - 🎨 Art
   - 🌍 Globalization

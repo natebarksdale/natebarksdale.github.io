@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-25
-modDatetime: 2025-03-31T16:30:11Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Mental states
 slug: mental-states
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🇲🇽 Mexico
   - 🥑 Central America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🧠 Psychology
   - ⚖️ Choices
   - ⚖️ Ethics

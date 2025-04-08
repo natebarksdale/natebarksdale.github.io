@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-08
-modDatetime: 2025-04-01T18:04:25Z
+modDatetime: 2025-04-08T15:19:49Z
 title: And the universal language is ... field hockey
 slug: and-the-universal-language-is-field-hockey
 featured: false
@@ -11,7 +11,6 @@ emoji: 🏑
 tags:
   - 🗣️ Language
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Diversity
   - 📖 Clichés
 haiku: |

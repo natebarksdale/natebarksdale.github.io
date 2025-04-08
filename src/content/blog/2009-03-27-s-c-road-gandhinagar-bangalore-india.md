@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-27
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-08T15:19:48Z
 title: S C Road, Gandhinagar, Bangalore, India
 slug: s-c-road-gandhinagar-bangalore-india
 featured: false
@@ -10,7 +10,6 @@ description: A look at the heart of the Kannada Film Industry as fans and produc
 emoji: 🌼
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎥 Film
 haiku: |
   House-Full tonight,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Who’s a good dog?
 slug: whos-a-good-dog
 featured: false
@@ -10,7 +10,6 @@ description: A look into the fascinating and cultural trend of pet names in L.A.
 emoji: 🐕
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Articles
 haiku: |
   Fluffy names abound,  

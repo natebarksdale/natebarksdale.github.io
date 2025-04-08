@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-21
-modDatetime: 2025-03-31T16:30:20Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Love plus boredom
 slug: love-plus-boredom
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on connection and creativity sparked during mundane mo
 emoji: 💌
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌆 Urban Spaces
   - 📝 Writing
 haiku: |

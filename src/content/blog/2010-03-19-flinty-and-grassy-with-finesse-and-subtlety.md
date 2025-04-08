@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-19
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Flinty and grassy with finesse and subtlety
 slug: flinty-and-grassy-with-finesse-and-subtlety
 featured: false
@@ -10,7 +10,6 @@ description: From Beth Ann Fennelly, a look at how soil influences our food and 
 emoji: 🌱
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌱 Sustainability
   - 🌾 Agriculture
 haiku: |

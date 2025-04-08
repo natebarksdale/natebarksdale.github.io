@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-27
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: In praise of street food
 slug: in-praise-of-street-food
 featured: false
@@ -10,7 +10,6 @@ description: Discover how street food reveals the essence of a culture and its p
 emoji: 🍜
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
 haiku: |
   Streets filled with flavors,  

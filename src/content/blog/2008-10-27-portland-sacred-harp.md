@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Portland Sacred Harp
 slug: portland-sacred-harp
 featured: false
@@ -10,7 +10,6 @@ description: I just enjoyed a great segment on Portland Sacred Harp, a community
 emoji: 🎶
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎶 Activities
   - 💃 Dance
 haiku: |

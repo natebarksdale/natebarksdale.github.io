@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - 🦁 Africa
   - 🌀 Templeton
-  - 🌍 Africa
   - 💬 Communication
   - 🏳️ Flags
 haiku: |

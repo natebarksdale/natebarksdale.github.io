@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-13
-modDatetime: 2025-03-31T16:30:36Z
+modDatetime: 2025-04-08T15:19:50Z
 title: To copy is human
 slug: to-copy-is-human
 featured: false
@@ -10,7 +10,6 @@ description: This study explores how humans' tendency to overimitate may be key 
 emoji: 🧒
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 👦 Imagination
   - 🧠 Psychology
 haiku: |

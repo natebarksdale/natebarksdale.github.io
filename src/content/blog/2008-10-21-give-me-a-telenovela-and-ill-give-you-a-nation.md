@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Give me a telenovela and I’ll give you a nation
 slug: give-me-a-telenovela-and-ill-give-you-a-nation
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📺 Television
   - 🤝 Collaboration
   - 🌆 Urban Spaces

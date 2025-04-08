@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-20
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-08T15:19:48Z
 title: These are a few of my favorite German country-western song titles
 slug: these-are-a-few-of-my-favorite-german-country-western-song-titles
 featured: false
@@ -10,7 +10,6 @@ description: A humorous exploration of German Country music and its quirky celeb
 emoji: 🤠
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎵 Music
   - 🎉 Celebration
   - 🌅 Reflection

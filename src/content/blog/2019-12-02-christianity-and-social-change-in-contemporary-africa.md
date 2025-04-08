@@ -14,7 +14,6 @@ tags:
   - 🦁 Africa
   - 🌀 Templeton
   - ✝️ Christianity
-  - 🌍 Africa
   - 💼 Funding
 haiku: |
   Prayer mountains rise,  

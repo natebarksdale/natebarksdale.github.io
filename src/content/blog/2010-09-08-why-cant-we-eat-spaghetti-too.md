@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-09-08
-modDatetime: 2025-03-31T16:30:37Z
+modDatetime: 2025-04-08T15:19:51Z
 title: Why can’t we eat spaghetti too?
 slug: why-cant-we-eat-spaghetti-too
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🇲🇽 Mexico
   - 🥑 Central America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚖️ Choices
   - 📖 Discussions
 haiku: |

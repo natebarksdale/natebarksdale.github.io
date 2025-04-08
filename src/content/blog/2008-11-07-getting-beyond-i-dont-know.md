@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-07
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Getting beyond “I don’t know”
 slug: getting-beyond-i-dont-know
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
   - ❤️ Charity
   - 💧 Rituals
   - ⚕️ Medicine

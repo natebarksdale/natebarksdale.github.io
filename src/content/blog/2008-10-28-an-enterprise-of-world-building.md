@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: An enterprise of world-building
 slug: an-enterprise-of-world-building
 featured: false
@@ -10,7 +10,6 @@ description: Discover the fascinating world of globe manufacturing through this 
 emoji: 🌍
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚙️ Engineering
   - 🛠️ DIY
   - 📖 Articles

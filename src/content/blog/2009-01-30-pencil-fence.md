@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-30
-modDatetime: 2025-03-31T16:30:21Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Pencil fence
 slug: pencil-fence
 featured: false
@@ -11,7 +11,6 @@ emoji: ✏️
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🖼️ Artifacts
   - 🚪 Prison
 haiku: |

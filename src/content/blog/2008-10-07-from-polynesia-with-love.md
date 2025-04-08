@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-07
-modDatetime: 2025-03-31T16:30:12Z
+modDatetime: 2025-04-08T15:19:44Z
 title: From Polynesia with love
 slug: from-polynesia-with-love
 featured: false
@@ -10,7 +10,6 @@ description: As a rugby fan, I find it intriguing to see American football teams
 emoji: 🏈
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏈 Football
   - ⛪ Religion
   - 🤝 Collaboration

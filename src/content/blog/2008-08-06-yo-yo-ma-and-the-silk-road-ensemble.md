@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-06
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Yo-Yo Ma and the Silk Road Ensemble
 slug: yo-yo-ma-and-the-silk-road-ensemble
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🍷 Europe
   - 🇨🇳 China
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎶 Activities
   - 🎤 Performances
   - 🎵 Music

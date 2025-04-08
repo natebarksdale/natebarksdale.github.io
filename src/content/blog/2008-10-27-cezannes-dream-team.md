@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-27
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Cezanne’s dream team
 slug: cezannes-dream-team
 featured: false
@@ -10,7 +10,6 @@ description: Malcolm Gladwell explores the concept of late bloomers and the vita
 emoji: 🎨
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎨 Art
   - ❤️ Kindness
   - 🤝 Collaboration

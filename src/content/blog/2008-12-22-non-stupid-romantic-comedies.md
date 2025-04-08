@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Non-stupid romantic comedies
 slug: non-stupid-romantic-comedies
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on the enduring charm of romantic comedies amid a sea 
 emoji: 🎬
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎥 Film
   - ❤️ Love
   - 📝 Writing

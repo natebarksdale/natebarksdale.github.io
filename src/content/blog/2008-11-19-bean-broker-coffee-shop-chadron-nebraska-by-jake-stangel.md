@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-19
-modDatetime: 2025-03-31T16:30:16Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Bean Broker Coffee Shop, Chadron, Nebraska, by Jake Stangel
 slug: bean-broker-coffee-shop-chadron-nebraska-by-jake-stangel
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🚲 Bicycles
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📍 Travel
 haiku: |
   Coffee brews and chats,  

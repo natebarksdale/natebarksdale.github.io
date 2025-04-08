@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-10
-modDatetime: 2025-03-31T16:30:22Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Nuovo cinema Paradiso
 slug: nuovo-cinema-paradiso
 featured: false
@@ -11,7 +11,6 @@ emoji: 📼
 tags:
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇮🇹 Italy
   - 🇺🇸 United States
   - 🎥 Film

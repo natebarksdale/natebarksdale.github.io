@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Never mind the propaganda, let’s dance!
 slug: never-mind-the-propaganda-lets-dance
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🦁 Africa
   - 🇫🇷 France
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🗳️ Politics
   - ❤️ Kindness
 haiku: |

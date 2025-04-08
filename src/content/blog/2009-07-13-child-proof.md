@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-13
-modDatetime: 2025-03-31T16:30:27Z
+modDatetime: 2025-04-08T15:19:49Z
 title: Child-proof
 slug: child-proof
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌿
 tags:
   - 🚲 Bicycles
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Development
   - ⚠️ Danger
 haiku: |

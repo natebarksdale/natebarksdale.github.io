@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-01
-modDatetime: 2025-03-31T16:30:12Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Super Kingdom by London Fieldworks
 slug: super-kingdom-by-london-fieldworks
 featured: false
@@ -11,7 +11,6 @@ emoji: 🐦
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⛪ Religion
   - 🌅 Reflection
   - ✨ Beauty

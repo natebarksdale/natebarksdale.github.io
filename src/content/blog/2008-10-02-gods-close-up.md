@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-03-31T16:30:12Z
+modDatetime: 2025-04-08T15:19:44Z
 title: God’s Close-Up
 slug: gods-close-up
 featured: false
@@ -10,7 +10,6 @@ description: Reflecting on the beauty and depth of the third episode of "This Am
 emoji: 🎨
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ✍️ Literature
 haiku: |
   Brush strokes tell a tale,  

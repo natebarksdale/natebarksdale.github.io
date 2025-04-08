@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-18
-modDatetime: 2025-03-31T16:30:11Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Fortune cookies come to China
 slug: fortune-cookies-come-to-china
 featured: false
@@ -10,7 +10,6 @@ description: A surprising exploration of fortune cookies, their origins, and the
 emoji: 🥠
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇨🇳 China
   - 📖 Books
   - ✍️ Literature

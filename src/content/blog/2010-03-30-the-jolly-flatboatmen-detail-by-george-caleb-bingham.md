@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-30
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-08T15:19:50Z
 title: The Jolly Flatboatmen (detail), by George Caleb Bingham
 slug: the-jolly-flatboatmen-detail-by-george-caleb-bingham
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on George Caleb Bingham's vibrant portrayal of labor a
 emoji: 🎨
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏛️ Museums
   - 📝 Writing
 haiku: |

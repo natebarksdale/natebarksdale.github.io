@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-11-25
-modDatetime: 2025-03-31T16:30:37Z
+modDatetime: 2025-04-08T15:19:51Z
 title: Petroglyphs
 slug: petroglyphs
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the beauty of ancient rock drawings and their connection 
 emoji: 🏔️
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📜 Ancient Texts
 haiku: |
   Ancient hands did draw,  

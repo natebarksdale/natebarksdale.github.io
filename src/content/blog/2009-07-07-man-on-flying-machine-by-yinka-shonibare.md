@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-07
-modDatetime: 2025-03-31T16:30:27Z
+modDatetime: 2025-04-08T15:19:49Z
 title: Man on Flying Machine, by Yinka Shonibare
 slug: man-on-flying-machine-by-yinka-shonibare
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🍷 Europe
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Diversity
   - 🎨 Art
   - 🌆 Brooklyn

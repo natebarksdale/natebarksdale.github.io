@@ -13,7 +13,6 @@ tags:
   - 🍷 Europe
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎨 Creativity
   - 📝 Writing
   - ⏰ Time

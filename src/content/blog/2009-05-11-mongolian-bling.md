@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-11
-modDatetime: 2025-04-01T18:04:25Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Mongolian Bling
 slug: mongolian-bling
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - 🎭 Irony
   - 🎶 Sounds

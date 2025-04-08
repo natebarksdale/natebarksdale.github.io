@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-24
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Babel bubbles
 slug: babel-bubbles
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🗣️ Language
   - 🇨🇳 China
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - 🌍 Society
   - 🗣️ Language

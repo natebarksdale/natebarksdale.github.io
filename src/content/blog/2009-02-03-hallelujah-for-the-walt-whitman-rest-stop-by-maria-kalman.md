@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-03
-modDatetime: 2025-03-31T16:30:21Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Hallelujah for the Walt Whitman Rest Stop, by Maria Kalman
 slug: hallelujah-for-the-walt-whitman-rest-stop-by-maria-kalman
 featured: false
@@ -10,7 +10,6 @@ description: A glimpse into the cultural reflections captured by Maira Kalman du
 emoji: 🗽
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - ✍️ Poetry
   - 🇺🇸 United States

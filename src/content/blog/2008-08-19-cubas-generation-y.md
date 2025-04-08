@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-19
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Cuba’s generation y
 slug: cubas-generation-y
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🍷 Europe
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Identity
   - 🇨🇺 Cuba
 haiku: |

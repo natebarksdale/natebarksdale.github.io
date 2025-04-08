@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Carbonation nation
 slug: carbonation-nation
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of regional names for soft drinks across the U.S., a
 emoji: 🥤
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌐 Blogging
   - 🗣️ Language
 haiku: |

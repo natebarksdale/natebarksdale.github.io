@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-08
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Oktoberlost
 slug: oktoberlost
 featured: false
@@ -10,7 +10,6 @@ description: A glimpse into the lively chaos of Munich's Oktoberfest, adorned by
 emoji: 🍻
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🍺 Beer
   - ⏰ Time
 haiku: |

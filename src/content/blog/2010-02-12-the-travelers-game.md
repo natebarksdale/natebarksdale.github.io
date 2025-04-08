@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-12
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-08T15:19:50Z
 title: The traveler’s game
 slug: the-travelers-game
 featured: false
@@ -10,7 +10,6 @@ description: Reflecting on the challenges of experiencing other cultures through
 emoji: 🕰️
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⏰ Time
   - 📝 Writing
   - 🌍 Exploration

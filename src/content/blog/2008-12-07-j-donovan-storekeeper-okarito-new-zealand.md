@@ -11,7 +11,6 @@ emoji: 🏞️
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Books
   - 🏞️ National Parks
   - 📍 Travel

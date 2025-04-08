@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-21
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Avenida Morelos, Guadalajara, Mexico
 slug: avenida-morelos-guadalajara-mexico
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🇲🇽 Mexico
   - 🥑 Central America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎨 Art
   - 🌸 Flowers
 haiku: |

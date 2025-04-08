@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-21
-modDatetime: 2025-03-31T16:30:16Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Fine barn, good tragedy
 slug: fine-barn-good-tragedy
 featured: false
@@ -10,7 +10,6 @@ description: Ralph Waldo Emerson reflects on the value of a man who appreciates 
 emoji: 🎭
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎭 Tragedy
   - ✍️ Literature
 haiku: |

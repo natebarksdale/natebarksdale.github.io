@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-22
-modDatetime: 2025-03-31T16:30:11Z
+modDatetime: 2025-04-08T15:19:44Z
 title: The omnivore’s daughter’s dilemma
 slug: the-omnivores-daughters-dilemma
 featured: false
@@ -10,7 +10,6 @@ description: A humorous reflection on the quirks of grocery shopping in Berkeley
 emoji: 🛒
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏪 Markets
   - ❤️ Kindness
 haiku: |

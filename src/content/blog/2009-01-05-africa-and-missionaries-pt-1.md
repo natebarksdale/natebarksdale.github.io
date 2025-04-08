@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-05
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Africa and missionaries, pt. 1
 slug: africa-and-missionaries-pt-1
 featured: false
@@ -14,7 +14,6 @@ tags:
   - ⛪ Religion
   - ❤️ Charity
   - ❤️ Kindness
-  - 🌍 Africa
   - 🤝 Altruism
 haiku: |
   Hearts transformed by grace,  

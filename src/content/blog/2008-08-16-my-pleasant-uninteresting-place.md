@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-16
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: My pleasant uninteresting place
 slug: my-pleasant-uninteresting-place
 featured: false
@@ -10,7 +10,6 @@ description: In the reflections on a tranquil life, Walker Percy captures the es
 emoji: 🌲
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇨🇳 China
   - 🌆 Urban Spaces
 haiku: |

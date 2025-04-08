@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-04
-modDatetime: 2025-03-31T16:30:29Z
+modDatetime: 2025-04-08T15:19:49Z
 title: Wham! It’s delicious
 slug: wham-its-delicious
 featured: false
@@ -10,7 +10,6 @@ description: Inspired by the passionate soda enthusiast, I'm diving into the wor
 emoji: 🍹
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
 haiku: |
   Bubbles dance in glass,  

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-21
-modDatetime: 2025-03-31T16:30:06Z
+modDatetime: 2025-04-08T15:19:42Z
 title: The decline of culture (as a search term)
 slug: the-decline-of-culture-as-a-search-term
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of the trends in public interest toward the concept 
 emoji: 📉
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 🗳️ Politics
   - 🔍 Discoveries

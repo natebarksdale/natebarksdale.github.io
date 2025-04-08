@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-29
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: City and Forest, by Katy Wu
 slug: city-and-forest-by-katy-wu
 featured: false
@@ -10,7 +10,6 @@ description: A young illustrator's work captures the delicate balance between na
 emoji: 🌳
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Environment
   - 🇯🇵 Japan
   - ✨ Beauty

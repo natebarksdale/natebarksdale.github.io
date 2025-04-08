@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-12
-modDatetime: 2025-03-31T16:30:29Z
+modDatetime: 2025-04-08T15:19:49Z
 title: Patience and fortitude
 slug: patience-and-fortitude
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🍷 Europe
   - 🇫🇷 France
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⏰ Time
   - ❤️ Kindness
   - ✨ Beauty

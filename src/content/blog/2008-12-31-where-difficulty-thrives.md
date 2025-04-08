@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-31
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Where difficulty thrives
 slug: where-difficulty-thrives
 featured: false
@@ -10,7 +10,6 @@ description: As a non-gamer, I find it interesting how the challenge of difficul
 emoji: 🎮
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 📖 Books
   - ⚖️ Choices

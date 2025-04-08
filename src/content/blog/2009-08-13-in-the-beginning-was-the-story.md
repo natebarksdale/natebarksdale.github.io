@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-13
-modDatetime: 2025-03-31T16:30:27Z
+modDatetime: 2025-04-08T15:19:49Z
 title: In the beginning was the story
 slug: in-the-beginning-was-the-story
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
   - 📝 Writing
-  - 🌍 Africa
   - 🌆 Urban Spaces
 haiku: |
   In stories we dwell,  

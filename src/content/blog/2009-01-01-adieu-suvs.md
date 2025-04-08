@@ -10,7 +10,6 @@ description: An analysis of the cultural dynamics surrounding the decline of S.U
 emoji: 🚗
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚖️ Choices
   - ⚠️ Danger
   - 🔍 Uncertainty

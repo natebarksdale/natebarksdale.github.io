@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-31
-modDatetime: 2025-03-31T16:30:10Z
+modDatetime: 2025-04-08T15:19:43Z
 title: A pleasant nonplace
 slug: a-pleasant-nonplace
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of finding peace in an unremarkable life amidst turb
 emoji: 🌲
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇨🇳 China
   - 🌅 Reflection
 haiku: |

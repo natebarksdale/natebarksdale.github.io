@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-16
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-08T15:19:50Z
 title: LifeSize by Roland Tiangco
 slug: lifesize-by-roland-tiangco
 featured: false
@@ -10,7 +10,6 @@ description: Here's a fascinating project by Roland Tiangco, inspired by Borges,
 emoji: 📚
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Books
   - 🖼️ Artifacts
   - 📚 Archives

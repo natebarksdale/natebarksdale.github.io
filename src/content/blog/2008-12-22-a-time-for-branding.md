@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-22
-modDatetime: 2025-03-31T16:30:18Z
+modDatetime: 2025-04-08T15:19:46Z
 title: A time for branding
 slug: a-time-for-branding
 featured: false
@@ -11,7 +11,6 @@ emoji: 🕰️
 tags:
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⏰ Time
   - 🎨 Art
   - 📖 Articles

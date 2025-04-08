@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-25
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-08T15:19:50Z
 title: The list doesn’t destroy culture, it creates it
 slug: the-list-doesnt-destroy-culture-it-creates-it
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on the importance of lists in shaping culture and unde
 emoji: 📜
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 📚 Archives
 haiku: |

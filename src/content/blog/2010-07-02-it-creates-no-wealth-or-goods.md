@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-07-02
-modDatetime: 2025-03-31T16:30:36Z
+modDatetime: 2025-04-08T15:19:50Z
 title: It creates no wealth or goods
 slug: it-creates-no-wealth-or-goods
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🍷 Europe
   - 🇫🇷 France
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
 haiku: |
   Play is pure and free,  

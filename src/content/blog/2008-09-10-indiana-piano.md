@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-10
-modDatetime: 2025-03-31T16:30:10Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Indiana piano
 slug: indiana-piano
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎹
 tags:
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🇷🇺 Russia
 haiku: |
   In South Bend they play,  

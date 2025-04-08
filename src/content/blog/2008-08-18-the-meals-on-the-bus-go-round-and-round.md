@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-18
-modDatetime: 2025-03-31T16:30:08Z
+modDatetime: 2025-04-08T15:19:43Z
 title: The meals on the bus go round and round
 slug: the-meals-on-the-bus-go-round-and-round
 featured: false
@@ -11,7 +11,6 @@ emoji: 🍧
 tags:
   - 🧉 South America
   - 🌍 Culture-Making.com
-  - 🌍 Culture
 haiku: |
   Buses rolling by,  
   Vendors bring flavors alive,  

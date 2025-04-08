@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-12
-modDatetime: 2025-03-31T16:30:20Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Rich objects
 slug: rich-objects
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎨
 tags:
   - ⚛️ Physics
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
 haiku: |
   Objects attract minds,  

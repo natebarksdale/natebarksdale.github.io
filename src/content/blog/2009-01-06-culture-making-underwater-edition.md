@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-06
-modDatetime: 2025-03-31T16:30:19Z
+modDatetime: 2025-04-08T15:19:47Z
 title: Culture-making, underwater edition!
 slug: culture-making-underwater-edition
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the fascinating behavior of dolphins who use sponges as t
 emoji: 🐬
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🐬 Dolphins
   - ⏰ Time
   - ♻️ Repurposing

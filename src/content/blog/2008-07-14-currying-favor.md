@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-14
-modDatetime: 2025-03-31T16:30:04Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Currying favor
 slug: currying-favor
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🍷 Europe
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🔄 Commitment
   - 📝 Writing
 haiku: |

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-05
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Medieval helpdesk
 slug: medieval-helpdesk
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎭
 tags:
   - 🗣️ Language
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Books
   - ⚖️ Choices
   - 💡 Innovation

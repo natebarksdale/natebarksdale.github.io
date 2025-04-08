@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-06-09
-modDatetime: 2025-03-31T16:30:36Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Everyday South Africans and their bicycles
 slug: everyday-south-africans-and-their-bicycles
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🇿🇦 South Africa
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🚲 Bicycles
 haiku: |
   Urban tales unfold,  

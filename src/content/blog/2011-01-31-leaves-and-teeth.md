@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-03-31T16:30:38Z
+modDatetime: 2025-04-08T15:19:51Z
 title: Leaves and teeth
 slug: leaves-and-teeth
 featured: false
@@ -11,7 +11,6 @@ emoji: 🦈
 tags:
   - 📺 Television
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎨 Art
   - 🌱 Sustainability
   - 🏺 Sculpture

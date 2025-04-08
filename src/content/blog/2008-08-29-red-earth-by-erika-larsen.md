@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-29
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: “Red Earth,” by Erika Larsen
 slug: red-earth-by-erika-larsen
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of child hunters and their deep connection to nature
 emoji: 🦌
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Society
 haiku: |
   In nature's embrace,  

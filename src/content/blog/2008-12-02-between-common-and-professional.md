@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-02
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Between common and professional
 slug: between-common-and-professional
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 💡 Design
   - 🍷 Europe
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 History
   - 🌍 Identity
   - ⚒️ Blacksmiths

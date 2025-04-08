@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-02
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Uncool no more
 slug: uncool-no-more
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌍
 tags:
   - ✨ Wonder
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🔥 Energy
   - 📝 Writing
 haiku: |

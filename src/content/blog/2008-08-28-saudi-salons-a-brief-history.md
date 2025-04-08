@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-28
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Saudi salons - a brief history
 slug: saudi-salons-a-brief-history
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🌙 Islam
   - 💡 Design
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏫 Education
   - 🎉 Celebration
 haiku: |

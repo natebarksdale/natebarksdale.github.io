@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-06
-modDatetime: 2025-03-31T16:30:12Z
+modDatetime: 2025-04-08T15:19:44Z
 title: Visualizing the Bible
 slug: visualizing-the-bible
 featured: false
@@ -10,7 +10,6 @@ description: An intricate visualization of Biblical cross-references created by 
 emoji: 📖
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 History
   - ✝️ Christianity
   - 📖 Bible

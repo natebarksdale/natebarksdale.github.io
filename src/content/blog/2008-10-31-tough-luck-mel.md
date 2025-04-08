@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-31
-modDatetime: 2025-03-31T16:30:14Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Tough luck, Mel
 slug: tough-luck-mel
 featured: false
@@ -14,7 +14,6 @@ tags:
   - 🇲🇽 Mexico
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
   - ⚖️ Law
   - ⚖️ Ethics
   - ❤️ Kindness

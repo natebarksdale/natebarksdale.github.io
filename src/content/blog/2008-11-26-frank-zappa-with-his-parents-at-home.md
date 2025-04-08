@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-26
-modDatetime: 2025-03-31T16:30:16Z
+modDatetime: 2025-04-08T15:19:46Z
 title: Frank Zappa with his parents at home
 slug: frank-zappa-with-his-parents-at-home
 featured: false
@@ -10,7 +10,6 @@ description: As Thanksgiving nears, we reflect on the home and the importance of
 emoji: 🦃
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌟 Inspiration
   - 📝 Writing
 haiku: |

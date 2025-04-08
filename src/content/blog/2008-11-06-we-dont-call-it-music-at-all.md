@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-06
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: We don’t call it music at all
 slug: we-dont-call-it-music-at-all
 featured: false
@@ -11,7 +11,6 @@ emoji: 🎶
 tags:
   - 📺 Television
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🎵 Music
   - 📖 Books
 haiku: |

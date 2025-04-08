@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-19
-modDatetime: 2025-03-31T16:30:36Z
+modDatetime: 2025-04-08T15:19:50Z
 title: If you can’t control your moustache ..
 slug: if-you-cant-control-your-moustache
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 🥑 Central America
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🍲 Proverbs
   - 📖 Quotes
 haiku: |

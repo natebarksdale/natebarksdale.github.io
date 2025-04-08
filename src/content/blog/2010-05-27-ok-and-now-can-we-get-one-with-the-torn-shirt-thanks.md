@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-05-27
-modDatetime: 2025-03-31T16:30:36Z
+modDatetime: 2025-04-08T15:19:50Z
 title: OK, and now can we get one with the torn shirt? Thanks!
 slug: ok-and-now-can-we-get-one-with-the-torn-shirt-thanks
 featured: false
@@ -11,8 +11,6 @@ emoji: 📸
 tags:
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Africa
-  - 🌍 Culture
   - ❤️ Charity
 haiku: |
   Two sides of a life,  

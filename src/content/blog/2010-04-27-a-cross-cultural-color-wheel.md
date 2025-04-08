@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-04-27
-modDatetime: 2025-03-31T16:30:35Z
+modDatetime: 2025-04-08T15:19:50Z
 title: A cross-cultural color wheel
 slug: a-cross-cultural-color-wheel
 featured: false
@@ -10,7 +10,6 @@ description: This infographic explores the diverse meanings of colors across var
 emoji: 🌈
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ✨ Beauty
   - 🖼️ Artifacts
   - 📖 Discussions

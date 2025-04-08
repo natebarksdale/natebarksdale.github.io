@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-14
-modDatetime: 2025-03-31T16:30:26Z
+modDatetime: 2025-04-08T15:19:49Z
 title: A reading language
 slug: a-reading-language
 featured: false
@@ -11,7 +11,6 @@ emoji: 📚
 tags:
   - 🗣️ Language
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📖 Books
   - 🌱 Growth
   - 📝 Writing

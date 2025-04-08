@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-03
-modDatetime: 2025-03-31T16:30:10Z
+modDatetime: 2025-04-08T15:19:43Z
 title: Little India, Singapore
 slug: little-india-singapore
 featured: false
@@ -10,7 +10,6 @@ description: An observation on the juxtaposition of historical figures and moder
 emoji: 🎒
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🏙️ Migration
   - 🏪 Markets
 haiku: |

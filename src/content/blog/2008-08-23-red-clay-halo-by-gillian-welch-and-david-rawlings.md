@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-23
-modDatetime: 2025-03-31T16:30:09Z
+modDatetime: 2025-04-08T15:19:43Z
 title: “Red Clay Halo,” by Gillian Welch and David Rawlings
 slug: red-clay-halo-by-gillian-welch-and-david-rawlings
 featured: false
@@ -10,7 +10,6 @@ description: An exploration of the interconnectedness of creation and redemption
 emoji: 🌍
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌄 Dreams
   - ❤️ Resilience
   - 🌀 Complexity

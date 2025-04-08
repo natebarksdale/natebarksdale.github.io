@@ -14,7 +14,6 @@ tags:
   - 🌀 Templeton
   - 🤝 Collaboration
   - 🧠 Psychology
-  - 🌍 Africa
 haiku: |
   Osotua binds deep,  
   Generosity flows wide,  

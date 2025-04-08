@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-01-20
-modDatetime: 2025-03-31T16:30:20Z
+modDatetime: 2025-04-08T15:19:47Z
 title: The one and only celery soda
 slug: the-one-and-only-celery-soda
 featured: false
@@ -10,7 +10,6 @@ description: Exploring the unique and somewhat obscure world of Cel-Ray soda, a 
 emoji: 🥒
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
 haiku: |
   Cel-Ray in the glass,  

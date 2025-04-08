@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-16
-modDatetime: 2025-03-31T16:30:05Z
+modDatetime: 2025-04-08T15:19:42Z
 title: Disney’s 10 rules of theme-park design
 slug: disneys-10-rules-of-theme-park-design
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 💡 Design
   - 📖 Bible
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌀 Complexity
   - 🎭 Entertainment
 haiku: |

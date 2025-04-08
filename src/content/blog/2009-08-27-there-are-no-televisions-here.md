@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-27
-modDatetime: 2025-03-31T16:30:28Z
+modDatetime: 2025-04-08T15:19:49Z
 title: There are no televisions here
 slug: there-are-no-televisions-here
 featured: false
@@ -13,7 +13,6 @@ tags:
   - 💡 Design
   - 🗣️ Language
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - ⚒️ Blacksmiths
   - ✍️ Literature
 haiku: |

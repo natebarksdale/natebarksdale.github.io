@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-21
-modDatetime: 2025-03-31T16:30:25Z
+modDatetime: 2025-04-08T15:19:48Z
 title: Our national art project
 slug: our-national-art-project
 featured: false
@@ -10,7 +10,6 @@ description: A reflection on the relationship between great art and the greatnes
 emoji: 🎨
 tags:
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 📝 Writing
   - 🎨 Art
 haiku: |

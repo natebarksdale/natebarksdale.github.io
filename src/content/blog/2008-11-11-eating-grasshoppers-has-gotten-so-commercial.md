@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-11
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-08T15:19:45Z
 title: Eating grasshoppers has gotten so commercial
 slug: eating-grasshoppers-has-gotten-so-commercial
 featured: false
@@ -12,7 +12,6 @@ tags:
   - 🦠 Biology
   - 🦁 Africa
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 💼 Capitalism
   - 🌱 Sustainability
 haiku: |

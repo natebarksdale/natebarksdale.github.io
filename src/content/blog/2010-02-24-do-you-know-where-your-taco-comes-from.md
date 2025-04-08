@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-02-24
-modDatetime: 2025-03-31T16:30:33Z
+modDatetime: 2025-04-08T15:19:50Z
 title: Do you know where your taco comes from?
 slug: do-you-know-where-your-taco-comes-from
 featured: false
@@ -11,7 +11,6 @@ emoji: 🌮
 tags:
   - 🌙 Islam
   - 🌍 Culture-Making.com
-  - 🌍 Culture
   - 🌍 Exploration
 haiku: |
   Tacos on the road,  
