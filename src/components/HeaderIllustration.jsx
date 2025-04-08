@@ -72,22 +72,64 @@ const HeaderIllustration = ({ mapboxToken }) => {
     )`;
   };
 
-  // Random coordinates
+  // Define top 20 urban areas globally with their center coordinates
+  const topUrbanAreas = useMemo(
+    () => [
+      { name: "Tokyo", coords: [35.6762, 139.6503] },
+      { name: "Delhi", coords: [28.7041, 77.1025] },
+      { name: "Shanghai", coords: [31.2304, 121.4737] },
+      { name: "São Paulo", coords: [-23.5505, -46.6333] },
+      { name: "Mexico City", coords: [19.4326, -99.1332] },
+      { name: "Cairo", coords: [30.0444, 31.2357] },
+      { name: "Mumbai", coords: [19.076, 72.8777] },
+      { name: "Beijing", coords: [39.9042, 116.4074] },
+      { name: "Dhaka", coords: [23.8103, 90.4125] },
+      { name: "Osaka", coords: [34.6937, 135.5022] },
+      { name: "New York", coords: [40.7128, -74.006] },
+      { name: "Karachi", coords: [24.8607, 67.0011] },
+      { name: "Buenos Aires", coords: [-34.6037, -58.3816] },
+      { name: "Chongqing", coords: [29.4316, 106.9123] },
+      { name: "Istanbul", coords: [41.0082, 28.9784] },
+      { name: "Kolkata", coords: [22.5726, 88.3639] },
+      { name: "Manila", coords: [14.5995, 120.9842] },
+      { name: "Lagos", coords: [6.5244, 3.3792] },
+      { name: "Rio de Janeiro", coords: [-22.9068, -43.1729] },
+      { name: "Tianjin", coords: [39.3434, 117.3616] },
+      { name: "London", coords: [51.5074, -0.1278] },
+      { name: "Paris", coords: [48.8566, 2.3522] },
+    ],
+    []
+  );
+
+  // Generate random coordinates from one of the top urban areas with slight variation
   const generateRandomCoordinates = () => {
-    // Generate random latitude (-90 to 90) and longitude (-180 to 180)
-    const lat = Math.random() * 180 - 90;
-    const lng = Math.random() * 360 - 180;
-    return [lat, lng];
+    // Select a random urban area
+    const randomCity =
+      topUrbanAreas[Math.floor(Math.random() * topUrbanAreas.length)];
+
+    // Add slight variation (up to ~0.5 mile in any direction)
+    // 0.007 degrees is approximately 0.5 miles at the equator
+    const variation = 0.007;
+    const latVariation = (Math.random() * 2 - 1) * variation;
+    const lngVariation = (Math.random() * 2 - 1) * variation;
+
+    return [
+      randomCity.coords[0] + latVariation,
+      randomCity.coords[1] + lngVariation,
+    ];
   };
 
-  const coordinates = useMemo(() => generateRandomCoordinates(), []);
+  const coordinates = useMemo(
+    () => generateRandomCoordinates(),
+    [topUrbanAreas]
+  );
 
   // Set up the layers and dimensions
   const width = 750;
   const height = 230; // Reduced height
   const mwidth = 850;
   const mheight = 330; // Adjusted to maintain aspect ratio
-  const zoom = 3;
+  const zoom = 15; // Higher zoom to see individual buildings
   const bearing = 0;
   const pitch = 0;
 

@@ -644,6 +644,10 @@ blockquote[data-llm] .chat-bubble pre .copy-code {
     margin: 8px 6px;
     padding: 10px 12px;
   }
+
+  .what-comes-next {
+    @apply text-3xl;
+  }
   
   blockquote[data-llm] .chat-bubble.q-bubble,
   blockquote[data-llm] .chat-bubble.a-bubble {
