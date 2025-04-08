@@ -6,12 +6,8 @@ title: HISTORY This Week - The Chinese Immigrants Who Built America
 slug: history-this-week-the-chinese-immigrants-who-built-america
 featured: False
 draft: False
-haiku: |
-  Tracks cross dusty plains
-  Chinese hands laid down the ties
-  Joining east and west
-
-coordinates: [41.617, -112.55]
+description: The heroes of the completion of the transcontinental railroad.
+emoji: 🚂
 tags:
   - 🔍 Fact-checking
   - 🎙️ Podcasts
@@ -20,6 +16,11 @@ tags:
   - 🇺🇸 United States
   - 🚂 Railroads
   - 🇨🇳 China
+haiku: |
+  Tracks cross dusty plains
+  Chinese hands laid down the ties
+  Joining east and west
+coordinates: [41.617, -112.55]
 ---
 
 I helped fact-check this [podcast](https://open.spotify.com/episode/7IAKptCkkwJbq3V5CfwTcy?si=LLdrSoiiQP6HdDsbdNw1yw) for The History Channel.

@@ -7,6 +7,7 @@ slug: history-this-week-killing-the-gold-standard
 featured: False
 draft: False
 description: It's 1933. FDR gathers advisors late at night. He's about to announce a plan that kills the gold standard and alters US economic history.
+emoji: 💵
 tags:
   - 🔍 Fact-checking
   - 🎙️ Podcasts

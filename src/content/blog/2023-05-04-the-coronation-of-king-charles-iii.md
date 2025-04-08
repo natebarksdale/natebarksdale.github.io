@@ -6,7 +6,7 @@ title: HISTORY This Week - The Coronation of King Charles III
 slug: history-this-week-the-coronation-of-king-charles-iii
 featured: False
 draft: False
-description: Witness history unfold at King Charles III's coronation! Explore nearly 1,000 years of tradition behind Britain's first crowning in 70 years.
+description: The nearly 1,000 years of tradition behind Britain's first crowning in 70 years.
 emoji: 👑
 tags:
   - 🔍 Fact-checking
