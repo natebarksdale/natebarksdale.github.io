@@ -54,7 +54,7 @@ export default (post: CollectionEntry<"blog">) => {
         >
           <p
             style={{
-              fontSize: 72,
+              fontSize: 96,
               fontWeight: "bold",
               maxHeight: "84%",
               overflow: "hidden",
@@ -80,12 +80,16 @@ export default (post: CollectionEntry<"blog">) => {
               >
                 "
               </span>
-              <span style={{ overflow: "hidden", fontWeight: "bold" }}>
-                {post.data.author}
-              </span>
+              <span style={{ overflow: "hidden", fontWeight: "bold" }}></span>
             </span>
 
-            <span style={{ overflow: "hidden", fontWeight: "bold" }}>
+            <span
+              style={{
+                fontSize: 60,
+                overflow: "hidden",
+                fontWeight: "regular",
+              }}
+            >
               {SITE.title}
             </span>
           </div>
