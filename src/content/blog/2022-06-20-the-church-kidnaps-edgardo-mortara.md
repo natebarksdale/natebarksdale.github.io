@@ -6,7 +6,7 @@ title: The Church Kidnaps Edgardo Mortara
 slug: the-church-kidnaps-edgardo-mortara
 featured: False
 draft: False
-description: Discover the shocking 1858 case where papal police kidnap a secretly baptized Jewish boy, Edgardo Mortara, tearing him from his distraught family.
+description: A fascinating, tragic tale.
 emoji: ⛓️
 tags:
   - 🔍 Fact-checking

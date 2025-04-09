@@ -261,17 +261,17 @@ const HeaderIllustration = ({ mapboxToken }) => {
   // Define potential typewriter sequences
   const potentialSequences = useMemo(
     () => [
-      { text: "What Comes Before", delayAfter: 600, deleteChars: 6 },
-      { text: "What Comes Soon", delayAfter: 700, deleteChars: 4 },
-      { text: "What Comes Now", delayAfter: 800, deleteChars: 3 },
-      { text: "What Comes First", delayAfter: 500, deleteChars: 5 },
-      { text: "What Comes After", delayAfter: 400, deleteChars: 5 },
-      { text: "What Comes Together", delayAfter: 350, deleteChars: 8 },
-      { text: "What Comes Around", delayAfter: 450, deleteChars: 6 },
-      { text: "What Comes Back", delayAfter: 550, deleteChars: 4 },
-      { text: "What Comes Up", delayAfter: 500, deleteChars: 2 },
-      { text: "What Comes Down", delayAfter: 400, deleteChars: 4 },
-      { text: "What Comes Through", delayAfter: 550, deleteChars: 7 },
+      { text: "What Comes Before", delayAfter: 600, deleteChars: 5 },
+      { text: "What Comes Soon", delayAfter: 700, deleteChars: 3 },
+      { text: "What Comes Now", delayAfter: 800, deleteChars: 2 },
+      { text: "What Comes First", delayAfter: 500, deleteChars: 4 },
+      { text: "What Comes After", delayAfter: 400, deleteChars: 4 },
+      { text: "What Comes Together", delayAfter: 350, deleteChars: 7 },
+      { text: "What Comes Around", delayAfter: 450, deleteChars: 5 },
+      { text: "What Comes Back", delayAfter: 550, deleteChars: 3 },
+      { text: "What Comes Up", delayAfter: 500, deleteChars: 1 },
+      { text: "What Comes Down", delayAfter: 400, deleteChars: 3 },
+      { text: "What Comes Through", delayAfter: 550, deleteChars: 6 },
     ],
     []
   );
@@ -313,7 +313,7 @@ const HeaderIllustration = ({ mapboxToken }) => {
           src={mapUrl}
           alt="Map"
           loading="eager"
-          className="w-full h-full object-cover filter grayscale opacity-10 mix-blend-hard-light"
+          className="w-full h-full object-cover filter sepia opacity-10 mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}

@@ -6,7 +6,7 @@ title: Hitler Stands Trial
 slug: hitler-stands-trial
 featured: False
 draft: False
-description: Hitler faces treason charges in a Munich courtroom in 1924 after a near-successful coup. Relive the trial that could have ended his meteoric rise.
+description: Hitler faced treason charges in a Munich courtroom in 1924 after a near-successful coup.
 emoji: ⚖️
 tags:
   - 🔍 Fact-checking

@@ -6,7 +6,7 @@ title: A Serial Killer Helps Abolish the Death Penalty
 slug: a-serial-killer-helps-abolish-the-death-penalty
 featured: False
 draft: False
-description: Discover how the horrifying crimes of 1950s London serial killer John Christie unexpectedly played a role in the abolition of the death penalty.
+description: 1950s London serial killer John Christie unexpectedly played a role in ending capital punishment in Britain.
 emoji: ⚖️
 tags:
   - 🔍 Fact-checking
@@ -22,7 +22,7 @@ haiku: |
 coordinates: [51.51, -0.2]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/5FN9oPHjDdnr0rpwDLtyHA?si=HNYkdk50TXCgO2_wGI-vIg) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/5FN9oPHjDdnr0rpwDLtyHA?si=HNYkdk50TXCgO2_wGI-vIg) for The History Channel. In the process, I learned that in the UK you could still get the death penalty for piracy as late as 1998, although nobody did.
 
 > March 20, 1953. A middle-aged man named John Christie packs up a suitcase and leaves his apartment in Notting Hill, London. No one knows where he’s gone. But a few days later, people realize why he left… a new tenant makes an unsettling discovery: bodies, hidden in the walls of the kitchen. Today: the case of serial killer John Christie. Why, decades later, are parts of his story still a mystery? And how did that very mystery play into a big change in the UK – the abolition of the death penalty?
 

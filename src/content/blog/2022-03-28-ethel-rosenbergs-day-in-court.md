@@ -22,7 +22,7 @@ haiku: |
   Death penalty looms
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/5fFhPqCm3GrSRZHqgPrCs3?si=E8ESsbaHRIi0jQZibjfNkw) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/5fFhPqCm3GrSRZHqgPrCs3?si=E8ESsbaHRIi0jQZibjfNkw) for The History Channel. It involved a lot of poring through trial transcripts to see if Ethel's mothering was disparaged _in_ the trial or merely _during_ it.
 
 > March 29, 1951. The world is waiting for the jury’s verdict. Ethel and Julius Rosenberg have been accused of spying for the Soviet Union, conspiring to send atomic secrets to America’s enemy in the Cold War. Ethel and Julius are tried in court together, and after the jury finds both Rosenbergs guilty, they receive the same punishment – the death penalty. But while they were treated the same, these two individuals have very different stories. Today, who was Ethel Rosenberg, the only woman executed for espionage in U.S. history? And why is her guilt still a topic of debate today?
 

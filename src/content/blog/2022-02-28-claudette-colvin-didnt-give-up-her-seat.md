@@ -6,7 +6,7 @@ title: Claudette Colvin Didn't Give Up Her Seat
 slug: claudette-colvin-didn-t-give-up-her-seat
 featured: False
 draft: False
-description: Discover Claudette Colvin, the courageous 15-year-old arrested for refusing to give up her bus seat nine months before Rosa Parks' famous act.
+description: The 15-year-old arrested for refusing to give up her bus seat nine months before Rosa Parks' famous act.
 emoji: ✊
 tags:
   - 🔍 Fact-checking
@@ -23,7 +23,7 @@ haiku: |
 coordinates: [32.3668, -86.3]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/10v5cZ86X1Vhilrkz0lmM5?si=ppf560VWSEC2UAcmnL0KMA) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/10v5cZ86X1Vhilrkz0lmM5?si=ppf560VWSEC2UAcmnL0KMA) for The History Channel. Fun side-trails included figuring out timelines for NAACP strategy-making, and tracking down the obscure new location of a storied barbershop.
 
 > March 2, 1955. Claudette Colvin and her classmates are let out early from school. They hop on a bus heading toward downtown Montgomery and sit in the back section, reserved for Black riders. Before long, there’s a white woman standing in the aisle, expecting them to give up their seats. 15-year-old Colvin refuses, and she’s arrested that day—nine months before an almost identical act of defiance from activist Rosa Parks will ignite the Montgomery bus boycott and the modern Civil Rights movement. Who is Claudette Colvin? And how does her story reveal the broader picture behind a protest that would change the nation?
 
