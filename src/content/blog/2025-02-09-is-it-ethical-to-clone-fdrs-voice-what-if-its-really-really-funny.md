@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-02-19
-modDatetime: 2025-04-09T20:29:30Z
+modDatetime: 2025-04-09T20:34:39Z
 title: Is it ethical to clone FDR's voice? What if it's really, really funny?
 slug: is-it-ethical-to-clone-fdrs-voice-what-if-its-really-really-funny
 featured: false
@@ -34,7 +34,7 @@ I hopped over to the AI model testing ground [huggingface](https://huggingface.c
 I made a [quick snippet sample](/fdr-sample.mp3) of FDR's "Date that will live in infamy" speech to Congress after the Pearl Harbor attacks. And plugged in some generated sample text I got by prompting Claude for bombastic 1930s political eypatch-centric rhetoric.
 
 <audio controls style="width: 100%; max-width: 400px;">
-  <source src={/fdr-eye-patch.wav} type="audio/wav" />
+  <source src="/fdr-eye-patch.wav" type="audio/wav" />
   Your browser does not support the audio element.
 </audio>
 
