@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-02-19
-modDatetime: 2025-04-09T18:45:48Z
+modDatetime: 2025-04-09T19:47:35Z
 title: Is it ethical to clone FDR's voice? What if it's really, really funny?
 slug: is-it-ethical-to-clone-fdrs-voice-what-if-its-really-really-funny
 featured: false
@@ -17,6 +17,7 @@ tags:
   - 🤖 Experiments
   - 🤖 Claude
   - 🎶 Sounds
+  - ➿ What Comes Next_
 haiku: |
   Roosevelt speaks
   Through quantum hallucinations
