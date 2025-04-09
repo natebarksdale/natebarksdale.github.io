@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-02-19
-modDatetime: 2025-04-09T20:34:39Z
+modDatetime: 2025-04-09T21:14:20Z
 title: Is it ethical to clone FDR's voice? What if it's really, really funny?
 slug: is-it-ethical-to-clone-fdrs-voice-what-if-its-really-really-funny
 featured: false
@@ -29,7 +29,7 @@ The other day a college friend — who I have generally considered to be mildly 
 
 If you buy into the theory (which I just made up) that every LLM hallucination is simply a quantum sign of the existence of a parallel universe where the hallucination is true and there's a university writing teacher guffawing right now at the idea of an alt-FDR known for using crutches, then this becomes an irresistible challenge which, frankly, AI is up to quickly meeting.
 
-I hopped over to the AI model testing ground [huggingface](https://huggingface.co), where I found an instance of [a Chinese open-source voice-cloning algorithm](https://huggingface.co/spaces/mrfakename/E2-F5-TTS) which will, based on 15 seconds of sample audio, create what sounds like a very advanced robot trying its darnedest to impersonate the source (and succeeding 95 percent of the time).
+I hopped over to the AI model testing ground [huggingface](https://huggingface.co), where I found an instance of [a Chinese open-source voice-cloning algorithm](https://huggingface.co/spaces/mrfakename/E2-F5-TTS) which will, based on 12 seconds of sample audio, create what sounds like a very advanced robot trying its darnedest to impersonate the source (and succeeding 95 percent of the time).
 
 I made a [quick snippet sample](/fdr-sample.mp3) of FDR's "Date that will live in infamy" speech to Congress after the Pearl Harbor attacks. And plugged in some generated sample text I got by prompting Claude for bombastic 1930s political eypatch-centric rhetoric.
 
