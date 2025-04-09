@@ -155,10 +155,10 @@ const MapIllustration = ({
         <motion.img
           src={mapUrl}
           alt="Map"
-          className="w-full h-full object-cover filter sepia opacity-10  mix-blend-hard-light"
+          className="w-full h-full object-cover filter backdrop-sepia-50 opacity-10  mix-blend-hard-light"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.8 }}
-          transition={{ duration: 1.5 }}
+          animate={{ opacity: 1 }}
+          transition={{ duration: 3 }}
         />
       </motion.div>
 

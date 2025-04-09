@@ -308,14 +308,14 @@ const HeaderIllustration = ({ mapboxToken }) => {
         animate={{ opacity: 1 }}
         transition={{ duration: 1.2 }}
       >
-        <div className="absolute inset-0 bg-[#5d3b10] opacity-75"></div>
+        <div className="absolute inset-0 bg-[#fcebd4] opacity-75"></div>
         <motion.img
           src={mapUrl}
           alt="Map"
           loading="eager"
-          className="w-full h-full object-cover filter sepia opacity-10 mix-blend-hard-light"
+          className="w-full h-full object-cover filter backdrop-sepia-50 opacity-10 mix-blend-hard-light"
           initial={{ opacity: 0 }}
-          animate={{ opacity: 0.8 }}
+          animate={{ opacity: 1 }}
           transition={{ duration: 3 }}
         />
       </motion.div>
