@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-24
-modDatetime: 2025-04-08T15:19:48Z
+modDatetime: 2025-04-09T18:56:57Z
 title: Babel bubbles
 slug: babel-bubbles
 featured: false
@@ -24,4 +24,5 @@ coordinates: [34.0522, -118.2437]
 ---
 
 A lovely (if hardly comprehensive) graph inspired by a question from Language Log reader Yuval Pinter: "When an English speaker doesn't understand a word one says, it's 'Greek to me.' When a Hebrew speaker encounters this difficulty, it 'sounds like Chinese.' I've been told the Korean equivalent is 'sounds like Hebrew.'" [![image](http://culture-making.com/media/greektome.jpg)](http://languagelog.ldc.upenn.edu/nll/?p=1024)
+
 from "[The directed graph of stereotypical incomprehensibility](http://languagelog.ldc.upenn.edu/nll/?p=1024)," by Mark Liberman, [Language Log](http://languagelog.ldc.upenn.edu/nll/?p=1024), 15 January 2009 :: via [Strange Maps](http://strangemaps.wordpress.com/2009/02/26/362-greek-to-me-mapping-mutual-incomprehension/)

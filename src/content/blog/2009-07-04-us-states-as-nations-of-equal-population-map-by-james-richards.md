@@ -22,4 +22,5 @@ coordinates: [37.0902, -95.7129]
 ---
 
 A brilliantly mindbending map-flag mashup. How many flags can you recognize without resorting to this [cheat sheet](http://strangemaps.wordpress.com/2009/06/06/388-us-states-as-countries-of-equal-population/#comment-84411)? Happy July 4 from Culture-Making.com's curators—who are enjoying the holiday, respectively, in "Palestine" and "Montenegro." [![image](http://culture-making.com/media/usstates.jpg)](http://strangemaps.wordpress.com/2009/06/06/388-us-states-as-countries-of-equal-population/)
+
 from [Strange Maps](http://strangemaps.wordpress.com/2009/06/06/388-us-states-as-countries-of-equal-population/), 6 June 2009

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-03-31T16:30:11Z
+modDatetime: 2025-04-09T18:56:56Z
 title: Turf-cutting
 slug: turf-cutting
 featured: false
@@ -29,4 +29,5 @@ To drink it, then fell to right away
 Nicking and slicing neatly, heaving sods  
 Over his shoulder, digging down and down  
 For the good turf. Digging
+
 from "[Cutting Peats](http://www.youtube.com/watch?v=sfzH_WTLulM&feature=related)," by [lyndafiddle](http://www.youtube.com/user/lyndafiddle)/YouTube, 10 July 2007

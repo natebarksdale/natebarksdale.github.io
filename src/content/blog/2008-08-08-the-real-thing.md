@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-08
-modDatetime: 2025-03-31T16:30:07Z
+modDatetime: 2025-04-09T18:56:56Z
 title: The real thing?
 slug: the-real-thing
 featured: false
@@ -22,6 +22,7 @@ coordinates: [-1.2921, 36.8219]
 ---
 
 Here's one of those just-now-roving-across-the-web good ideas that are so simple they just might work. Or, I guess, they could be so simple they won't work after all. Well, here's hoping
+
 from [ColaLife.org](http://www.colalife.org/), 8 August 2008
 
 > Our idea is that Coca-Cola could use their distribution channels (which are amazing in developing countries) to distribute rehydration salts to the people that need them desperately. Maybe by dedicating one compartment in every 10 crates as ‘the life saving’ compartment?
