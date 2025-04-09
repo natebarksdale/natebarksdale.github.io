@@ -16,7 +16,7 @@ Key clients have included major media companies, technology and finance startups
 
 # History
 
-I helped oversee the editorial scope of the History Channel’s [Webby-winning](https://winners.webbyawards.com/2015/apps-dapps-and-software/handheld-devices/travel-handheld-devices/159568/history-here) app telling US history through pins on a map (and personally writing up thousands of fascinating sites along the way).I helped develop and maintain the master list of potential sites to feature, and created a ranking algorithm to help the team figure out which places to tackle first.I also work with [History.com](https://www.history.com/) on various fact-checking and editorial projects ranging from podcasts to social media to the book [_This Day in History for Kids_](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/94885-hearst-home-kids-releases-the-history-channel-s-debut-children-s-book.html) and the newly updated [White House tour signage](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/).
+I helped oversee the editorial scope of the History Channel’s [Webby-winning](https://winners.webbyawards.com/2015/apps-dapps-and-software/handheld-devices/travel-handheld-devices/159568/history-here) app telling US history through pins on a map (and personally writing up thousands of fascinating sites along the way). I helped develop and maintain the master list of potential sites to feature, and created a ranking algorithm to decide which places to tackle first. I also work with [History.com](https://www.history.com/) on various fact-checking and editorial projects ranging from podcasts to social media to the book [_This Day in History for Kids_](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/94885-hearst-home-kids-releases-the-history-channel-s-debut-children-s-book.html) and the newly updated [White House tour signage](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/10/21/first-lady-jill-biden-unveils-enhanced-and-expanded-white-house-tour/).
 
 See my posts tagged [history.com](/tags/historycom/)
 
@@ -24,7 +24,7 @@ See my posts tagged [history.com](/tags/historycom/)
 
 # Templeton
 
-I've profiled people and projects investigating the universe's biggest mysteries for [The John Templeton Foundation's website](https://www.templeton.org/about-our-authors).I've loved the challenge of diving deep with experts on topics ranging from Big Bang cosmology to human evolution to philosophy and theology, and finding ways to explain just how fascinating it is for the general reader.
+I've profiled people and projects investigating the universe's biggest mysteries for [The John Templeton Foundation's website](https://www.templeton.org/about-our-authors). I've loved the challenge of diving deep with experts on topics ranging from Big Bang cosmology to human evolution to philosophy and theology, and finding ways to explain just how fascinating it is for the general reader.
 
 See my posts tagged [Templeton](/tags/templeton/)
 
