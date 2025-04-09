@@ -9,7 +9,7 @@ const MapIllustration = ({
   height = 225, // 4:1 aspect ratio
   mwidth = 950,
   mheight = 275,
-  zoom = 5,
+  zoom = 15,
   bearing = 0,
   pitch = 0,
 }) => {
@@ -155,7 +155,7 @@ const MapIllustration = ({
         <motion.img
           src={mapUrl}
           alt="Map"
-          className="w-full h-full object-cover filter sepia contrast-150 opacity-10 brightness-200 mix-blend-hard-light"
+          className="w-full h-full object-cover filter sepia opacity-10  mix-blend-hard-light"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.8 }}
           transition={{ duration: 1.5 }}
