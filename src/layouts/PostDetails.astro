@@ -21,6 +21,18 @@ export interface Props {
 
 const { post, nextPost, prevPost, sortedPosts } = Astro.props;
 
+const AudioPlayer = ({ src }: { src: string }) => {
+  return (
+    <audio controls style={{ width: "100%", maxWidth: "400px" }}>
+      <source src={src} type="audio/mpeg" />
+      <source src={src} type="audio/wav" />
+      Your browser does not support the audio element.
+    </audio>
+  );
+};
+
+export default AudioPlayer;
+
 const {
   title,
   author,
