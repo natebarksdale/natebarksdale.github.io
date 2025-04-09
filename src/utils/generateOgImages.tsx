@@ -9,7 +9,9 @@ import path from "path";
 const fetchFonts = async () => {
   // Define paths to local font files
   const fontRegularPath = path.resolve("./public/fonts/Faune-Text_Regular.ttf");
-  const fontBoldPath = path.resolve("./public/fonts/Faune-Display_Black.ttf");
+  const fontBoldPath = path.resolve(
+    "./public/fonts/Faune-Display_Bold_Italic.ttf"
+  );
 
   // Read font files
   const fontRegularBuffer = fs.readFileSync(fontRegularPath);
