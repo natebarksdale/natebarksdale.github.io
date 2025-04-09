@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2023-05-04
 modDatetime: 2023-05-04
-title: HISTORY This Week - The Coronation of King Charles III
-slug: history-this-week-the-coronation-of-king-charles-iii
+title: The Coronation of King Charles III
+slug: the-coronation-of-king-charles-iii
 featured: False
 draft: False
 description: The nearly 1,000 years of tradition behind Britain's first crowning in 70 years.

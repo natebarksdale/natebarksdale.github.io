@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-12-28
 modDatetime: 2020-12-28
-title: HISTORY This Week - Best Stories of 2020
-slug: history-this-week-best-stories-of-2020
+title: Best Stories of 2020
+slug: best-stories-of-2020
 featured: False
 draft: False
 description: Explore the top HISTORY This Week podcast stories from 2020. Producers and researchers reveal favorite episodes and behind-the-scenes info.

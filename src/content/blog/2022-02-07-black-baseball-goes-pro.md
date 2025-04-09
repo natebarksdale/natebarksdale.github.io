@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-02-07
 modDatetime: 2022-02-07
-title: HISTORY This Week - Black Baseball Goes Pro
-slug: history-this-week-black-baseball-goes-pro
+title: Black Baseball Goes Pro
+slug: black-baseball-goes-pro
 featured: False
 draft: False
 description: On Feb 13, 1920, Rube Foster leads the charge against exclusion, gathering owners to forge a professional league exclusively for Black baseball players.

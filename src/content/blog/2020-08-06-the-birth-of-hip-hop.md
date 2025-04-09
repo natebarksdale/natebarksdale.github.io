@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-08-06
 modDatetime: 2020-08-06
-title: HISTORY This Week - The Birth of Hip Hop
-slug: history-this-week-the-birth-of-hip-hop
+title: The Birth of Hip Hop
+slug: the-birth-of-hip-hop
 featured: False
 draft: False
 description: Travel back to a legendary Bronx party on August 11, 1973, where DJ Kool Herc's innovative performance ignites the birth of hip hop culture.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-05-23
 modDatetime: 2022-05-23
-title: HISTORY This Week - Reconstruction IV - Voting Rights At Last
-slug: history-this-week-reconstruction-iv-voting-rights-at-last
+title: Reconstruction IV - Voting Rights At Last
+slug: reconstruction-iv-voting-rights-at-last
 featured: False
 draft: False
 description: A century after the 15th Amendment, the Civil Rights movement challenges Congress to finally deliver on the promise of voting rights for all Americans.

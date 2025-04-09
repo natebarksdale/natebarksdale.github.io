@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-11-15
 modDatetime: 2021-11-15
-title: HISTORY This Week - Defying Gravity and Monarchy
-slug: history-this-week-defying-gravity-and-monarchy
+title: Defying Gravity and Monarchy
+slug: defying-gravity-and-monarchy
 featured: False
 draft: False
 description: Defy gravity in 1783 Paris! Relive the tension and triumph of the first human hot air balloon flight, featured on The History Channel's podcast.

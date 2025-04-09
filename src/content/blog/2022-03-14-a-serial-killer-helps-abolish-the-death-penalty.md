@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-03-14
 modDatetime: 2022-03-14
-title: HISTORY This Week - A Serial Killer Helps Abolish the Death Penalty
-slug: history-this-week-a-serial-killer-helps-abolish-the-death-penalty
+title: A Serial Killer Helps Abolish the Death Penalty
+slug: a-serial-killer-helps-abolish-the-death-penalty
 featured: False
 draft: False
 description: Discover how the horrifying crimes of 1950s London serial killer John Christie unexpectedly played a role in the abolition of the death penalty.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2023-06-12
 modDatetime: 2023-06-12
-title: HISTORY This Week - Ma Rainey's Mic Drop
-slug: history-this-week-ma-rainey-s-mic-drop
+title: Ma Rainey's Mic Drop
+slug: ma-rainey-s-mic-drop
 featured: False
 draft: False
 description: Blues legend Ma Rainey turns scandal into song, recording her defiant "Prove It On Me Blues" in 1928 after rumors swirl about a raided party.

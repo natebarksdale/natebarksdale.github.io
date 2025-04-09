@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-06-11
 modDatetime: 2020-06-11
-title: HISTORY This Week - Freedom Summer, 1964
-slug: history-this-week-freedom-summer-1964
+title: Freedom Summer, 1964
+slug: freedom-summer-1964
 featured: False
 draft: False
 description: Freedom Summer, 1964, a pivotal turning point in the Civil Rights Movement. Get insights from fact-checking a History Channel podcast episode.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-02-14
 modDatetime: 2020-02-14
-title: HISTORY This Week - The DNA Debate
-slug: history-this-week-the-dna-debate
+title: The DNA Debate
+slug: the-dna-debate
 featured: False
 draft: False
 description: Dive into the DNA debate. Discover the untold story of Rosalind Franklin and the politics behind one of science's biggest breakthroughs.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-12-06
 modDatetime: 2021-12-06
-title: HISTORY This Week - How Lincoln Almost Lost it All
-slug: history-this-week-how-lincoln-almost-lost-it-all
+title: How Lincoln Almost Lost it All
+slug: how-lincoln-almost-lost-it-all
 featured: False
 draft: False
 description: Union hopes hang on a risky bridge at Fredericksburg in December 1862. Discover how this desperate battle nearly costs Lincoln everything.

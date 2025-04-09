@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-08-09
 modDatetime: 2021-08-09
-title: HISTORY This Week - Pop Music Pirates
-slug: history-this-week-pop-music-pirates
+title: Pop Music Pirates
+slug: pop-music-pirates
 featured: False
 draft: False
 description: Pirate ships blast pop music across 1960s England from the high seas. Explore this rebellious radio history chapter, featured by The History Channel.

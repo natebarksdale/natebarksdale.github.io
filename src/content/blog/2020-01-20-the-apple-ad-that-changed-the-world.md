@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-01-20
 modDatetime: 2020-01-20
-title: HISTORY This Week - The Apple Ad That Changed the World
-slug: history-this-week-the-apple-ad-that-changed-the-world
+title: The Apple Ad That Changed the World
+slug: the-apple-ad-that-changed-the-world
 featured: False
 draft: False
 tags:

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-08-02
 modDatetime: 2021-08-02
-title: HISTORY This Week - The Road Less Traveled
-slug: history-this-week-the-road-less-traveled
+title: The Road Less Traveled
+slug: the-road-less-traveled
 featured: False
 draft: False
 description: Journey back to August 1915 as Robert Frost publishes "The Road Not Taken," forever changing American poetry with its famous diverging roads.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-06-06
 modDatetime: 2022-06-06
-title: HISTORY This Week - Bayard Rustin Marches Free
-slug: history-this-week-bayard-rustin-marches-free
+title: Bayard Rustin Marches Free
+slug: bayard-rustin-marches-free
 featured: False
 draft: False
 description: Pacifist Bayard Rustin marches free this week in 1946. Fresh from prison, his path leads to Gandhi and mentoring Dr. Martin Luther King Jr.

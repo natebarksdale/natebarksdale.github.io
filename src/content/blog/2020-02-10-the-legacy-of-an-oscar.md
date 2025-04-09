@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-02-10
 modDatetime: 2020-02-11
-title: HISTORY This Week - The Legacy of an Oscar
-slug: history-this-week-the-legacy-of-an-oscar
+title: The Legacy of an Oscar
+slug: the-legacy-of-an-oscar
 featured: False
 draft: False
 emoji: 🏆

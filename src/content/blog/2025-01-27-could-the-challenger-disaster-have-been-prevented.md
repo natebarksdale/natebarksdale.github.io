@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2025-01-27
 modDatetime: 2025-01-27
-title: HISTORY This Week - Could the Challenger Disaster Have Been Prevented?
-slug: history-this-week-could-the-challenger-disaster-have-been-prevented
+title: Could the Challenger Disaster Have Been Prevented?
+slug: could-the-challenger-disaster-have-been-prevented
 featured: False
 draft: False
 description: On a freezing Florida morning, NASA launches Challenger despite engineer warnings. How did it happen, and what happened in the aftermath?

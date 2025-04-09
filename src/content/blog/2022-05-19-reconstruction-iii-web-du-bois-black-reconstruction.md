@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-05-19
 modDatetime: 2022-05-19
-title: HISTORY This Week - Reconstruction III - W.E.B. Du Bois' Black Reconstruction
-slug: history-this-week-reconstruction-iii-w-e-b-du-bois-black-reconstruction
+title: Reconstruction III - W.E.B. Du Bois' Black Reconstruction
+slug: reconstruction-iii-w-e-b-du-bois-black-reconstruction
 featured: False
 draft: False
 description: Uncover W.E.B. Du Bois' revolutionary 1935 critique, *Black Reconstruction*, which reframed the post-Civil War era and challenged biased histories.

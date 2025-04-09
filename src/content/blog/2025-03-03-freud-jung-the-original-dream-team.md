@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2025-03-03
 modDatetime: 2025-03-03
-title: HISTORY This Week - Freud & Jung, The Original Dream Team
-slug: history-this-week-freud-jung-the-original-dream-team
+title: Freud & Jung, The Original Dream Team
+slug: freud-jung-the-original-dream-team
 featured: False
 draft: False
-description: I helped fact-check this podcast on Freud, Jung, and the explosive origins of modern psychology.
+description: Talking cures, death wishes, and the fraught origins of modern psychology.
 emoji: 🧠
 tags:
   - 🇭 History.com

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-05-17
 modDatetime: 2021-05-17
-title: HISTORY This Week - Not My Fingerprint
-slug: history-this-week-not-my-fingerprint
+title: Not My Fingerprint
+slug: not-my-fingerprint
 featured: False
 draft: False
 description: A single fingerprint nearly convicts an innocent man. HISTORY This Week revisits Brandon Mayfield's wrongful arrest for the Madrid train bombings.

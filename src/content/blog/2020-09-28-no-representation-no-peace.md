@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-09-28
 modDatetime: 2020-09-28
-title: HISTORY This Week - No Representation, No Peace
-slug: history-this-week-no-representation-no-peace
+title: No Representation, No Peace
+slug: no-representation-no-peace
 featured: False
 draft: False
 description: Explore the 1765 Stamp Act Congress, where colonial delegates first unite against British taxes – a crucial early step toward independence.

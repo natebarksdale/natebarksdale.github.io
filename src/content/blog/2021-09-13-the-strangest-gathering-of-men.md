@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-09-13
 modDatetime: 2021-09-13
-title: HISTORY This Week - The Strangest Gathering of Men
-slug: history-this-week-the-strangest-gathering-of-men
+title: The Strangest Gathering of Men
+slug: the-strangest-gathering-of-men
 featured: False
 draft: False
 description: Explore the 1893 Parliament of World Religions where a Hindu monk holds a Chicago audience spellbound. A truly strange, historic gathering.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2024-12-30
 modDatetime: 2024-12-30
-title: HISTORY This Week - A New Year, A New Cuba
-slug: history-this-week-a-new-year-a-new-cuba
+title: A New Year, A New Cuba
+slug: a-new-year-a-new-cuba
 featured: False
 draft: False
 description: Step into Batista's final New Year's party in 1958 Havana. Feel the anxiety as revolution brews and a new Cuba is about to dawn.

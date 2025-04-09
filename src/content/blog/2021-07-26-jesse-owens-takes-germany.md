@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-07-26
 modDatetime: 2021-07-26
-title: HISTORY This Week - Jesse Owens Takes Germany
-slug: history-this-week-jesse-owens-takes-germany
+title: Jesse Owens Takes Germany
+slug: jesse-owens-takes-germany
 featured: False
 draft: False
 description: Jesse Owens challenges Hitler's Nazi regime at the 1936 Berlin Olympics, running into history and defying racial hatred on the world stage.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-08-23
 modDatetime: 2021-08-23
-title: HISTORY This Week - The True Winnie-the-Pooh
-slug: history-this-week-the-true-winnie-the-pooh
+title: The True Winnie-the-Pooh
+slug: the-true-winnie-the-pooh
 featured: False
 draft: False
 description: Discover the true WWI story behind Winnie-the-Pooh! Learn how a real Canadian bear cub named Winnie inspired A.A. Milne's beloved character.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-11-01
 modDatetime: 2021-11-01
-title: HISTORY This Week - Remember, Remember the 5th of November
-slug: history-this-week-remember-remember-the-5th-of-november
+title: Remember, Remember the 5th of November
+slug: remember-remember-the-5th-of-november
 featured: False
 draft: False
 description: Unravel the mystery of the anonymous tip that foiled the Gunpowder Plot. Revisit the tense search beneath Parliament on November 4th, 1605.

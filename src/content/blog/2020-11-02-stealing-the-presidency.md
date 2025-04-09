@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-11-02
 modDatetime: 2020-11-02
-title: HISTORY This Week - Stealing the Presidency
-slug: history-this-week-stealing-the-presidency
+title: Stealing the Presidency
+slug: stealing-the-presidency
 featured: False
 draft: False
 description: Chaos in the 1876 election! A candidate concedes defeat, but overnight maneuvers snatch the presidency from the apparent winner.

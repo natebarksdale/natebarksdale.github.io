@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-05-03
 modDatetime: 2021-05-03
-title: HISTORY This Week - Mother's Day Mayhem
-slug: history-this-week-mother-s-day-mayhem
+title: Mother's Day Mayhem
+slug: mother-s-day-mayhem
 featured: False
 draft: False
 description: Discover the surprising story of Mother's Day founder Anna Jarvis. See how her promise to honor her mother sparked a lifelong battle against the holiday itself.

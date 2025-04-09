@@ -1,19 +1,17 @@
 ---
 author: Nate Barksdale
-pubDatetime: 2025-04-08
-modDatetime: 2025-04-08
-title: I helped fact-check this [podcast](https//open.sp
-slug: i-helped-fact-check-this-podcast-https-open-sp
+pubDatetime: 2021-08-16
+modDatetime: 2021-08-16
+title: The Man Who Stole the Mona Lisa
+slug: the-man-who-stole-the-mona-lisa
 featured: False
 draft: False
-description: Go behind the scenes as I fact-check a History Channel podcast exploring a bizarre 1911 Paris mystery starting with a discarded doorknob.
+description: The story begins with a discarded doorknob...
 emoji: 🧐
 tags:
   - 🔍 Fact-checking
   - 🇭 History.com
   - 🇫🇷 France
-  - 📺 Broadcasting
-  - 📊 Research
 haiku: |
   White wrap hides the prize
   Shiny doorknob tossed aside

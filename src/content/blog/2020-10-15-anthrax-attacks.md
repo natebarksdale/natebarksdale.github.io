@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-10-15
 modDatetime: 2020-10-15
-title: HISTORY This Week - Anthrax Attacks
-slug: history-this-week-anthrax-attacks
+title: Anthrax Attacks
+slug: anthrax-attacks
 featured: False
 draft: False
 description: Explore the unsettling 2001 Anthrax attacks. A seemingly innocent letter unleashes terror in the U.S. Senate, igniting fear across the nation.

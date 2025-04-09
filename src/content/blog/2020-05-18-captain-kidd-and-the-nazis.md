@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-05-18
 modDatetime: 2020-05-18
-title: HISTORY This Week - Captain Kidd and the Nazis
-slug: history-this-week-captain-kidd-and-the-nazis
+title: Captain Kidd and the Nazis
+slug: captain-kidd-and-the-nazis
 featured: False
 draft: False
 description: Was Captain Kidd truly a pirate? Unravel his controversial execution and discover an unexpected connection involving the Nazis.

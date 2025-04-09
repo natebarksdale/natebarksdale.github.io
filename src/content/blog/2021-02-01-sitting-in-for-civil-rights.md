@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-02-01
 modDatetime: 2021-02-01
-title: HISTORY This Week - Sitting In for Civil Rights
-slug: history-this-week-sitting-in-for-civil-rights
+title: Sitting In for Civil Rights
+slug: sitting-in-for-civil-rights
 featured: False
 draft: False
 description: Explore the Greensboro sit-ins where four brave freshmen challenged segregation at Woolworth's. Hear the story via the HISTORY podcast I fact-checked.

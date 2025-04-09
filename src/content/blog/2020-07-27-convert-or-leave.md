@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2020-07-27
 modDatetime: 2020-07-27
-title: HISTORY This Week - Convert or Leave
-slug: history-this-week-convert-or-leave
+title: Convert or Leave
+slug: convert-or-leave
 featured: False
 draft: False
 description: Go behind the scenes fact-checking The History Channel's 'Convert or Leave' podcast and explore the stark historical choices faced by communities.

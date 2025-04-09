@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-06-20
 modDatetime: 2022-06-20
-title: HISTORY This Week - The Church Kidnaps Edgardo Mortara
-slug: history-this-week-the-church-kidnaps-edgardo-mortara
+title: The Church Kidnaps Edgardo Mortara
+slug: the-church-kidnaps-edgardo-mortara
 featured: False
 draft: False
 description: Discover the shocking 1858 case where papal police kidnap a secretly baptized Jewish boy, Edgardo Mortara, tearing him from his distraught family.

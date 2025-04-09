@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-02-28
 modDatetime: 2022-02-28
-title: HISTORY This Week - Claudette Colvin Didn't Give Up Her Seat
-slug: history-this-week-claudette-colvin-didn-t-give-up-her-seat
+title: Claudette Colvin Didn't Give Up Her Seat
+slug: claudette-colvin-didn-t-give-up-her-seat
 featured: False
 draft: False
 description: Discover Claudette Colvin, the courageous 15-year-old arrested for refusing to give up her bus seat nine months before Rosa Parks' famous act.

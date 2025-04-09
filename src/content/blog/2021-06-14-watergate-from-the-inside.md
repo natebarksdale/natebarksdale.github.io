@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-06-14
 modDatetime: 2021-06-14
-title: HISTORY This Week - Watergate from the Inside
-slug: history-this-week-watergate-from-the-inside
+title: Watergate from the Inside
+slug: watergate-from-the-inside
 featured: False
 draft: False
 description: Step inside the Watergate break-in. Explore why Nixon's team thought they could succeed in this HISTORY podcast episode on the infamous scandal.

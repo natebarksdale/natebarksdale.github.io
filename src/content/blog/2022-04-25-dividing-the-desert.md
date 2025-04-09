@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-04-25
 modDatetime: 2022-04-25
-title: HISTORY This Week - Dividing the Desert
-slug: history-this-week-dividing-the-desert
+title: Dividing the Desert
+slug: dividing-the-desert
 featured: False
 draft: False
 description: A ceremonial pickaxe blow launches the audacious project to divide the desert and link two seas via the Suez Canal.

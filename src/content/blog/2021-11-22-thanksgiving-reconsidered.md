@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-11-22
 modDatetime: 2021-11-22
-title: HISTORY This Week - Thanksgiving Reconsidered
-slug: history-this-week-thanksgiving-reconsidered
+title: Thanksgiving Reconsidered
+slug: thanksgiving-reconsidered
 featured: False
 draft: False
 description: Reconsider Thanksgiving's history by exploring the Wampanoag story and a crucial 1970 protest challenging the traditional narrative.

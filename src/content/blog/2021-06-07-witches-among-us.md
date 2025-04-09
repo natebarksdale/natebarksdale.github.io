@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-06-07
 modDatetime: 2021-06-07
-title: HISTORY This Week - Witches Among Us
-slug: history-this-week-witches-among-us
+title: Witches Among Us
+slug: witches-among-us
 featured: False
 draft: False
 description: Witness the grim 1692 execution of Bridget Bishop in Salem. Discover the chilling history behind the witch trials via the linked, fact-checked podcast.

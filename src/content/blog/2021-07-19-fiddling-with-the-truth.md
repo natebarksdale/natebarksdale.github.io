@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-07-19
 modDatetime: 2021-07-19
-title: HISTORY This Week - Fiddling With the Truth
-slug: history-this-week-fiddling-with-the-truth
+title: Fiddling With the Truth
+slug: fiddling-with-the-truth
 featured: False
 draft: False
 description: Dive into the Great Fire of Rome in 64 AD. Discover the truth behind the enduring myth of Emperor Nero fiddling as his city burned.

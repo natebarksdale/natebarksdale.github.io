@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-10-11
 modDatetime: 2021-10-11
-title: HISTORY This Week - The Sky is Falling
-slug: history-this-week-the-sky-is-falling
+title: The Sky is Falling
+slug: the-sky-is-falling
 featured: False
 draft: False
 description: Learn about the day Mario Molina won the Nobel Prize for proving the sky *was* falling, detailed in a fact-checked History Channel podcast episode.

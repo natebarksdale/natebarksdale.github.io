@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-05-30
 modDatetime: 2022-05-30
-title: HISTORY This Week - Anna May Wong Steps into the Spotlight
-slug: history-this-week-anna-may-wong-steps-into-the-spotlight
+title: Anna May Wong Steps into the Spotlight
+slug: anna-may-wong-steps-into-the-spotlight
 featured: False
 draft: False
 description: Explore the glamorous yet singular journey of Anna May Wong, Hollywood's first Chinese American movie star to shine globally.

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-05-09
 modDatetime: 2022-05-09
-title: HISTORY This Week - Reconstruction I - Secession on Trial
-slug: history-this-week-reconstruction-i-secession-on-trial
+title: Reconstruction I - Secession on Trial
+slug: reconstruction-i-secession-on-trial
 featured: False
 draft: False
 description: Jefferson Davis's capture ignites a crucial question — How do you put secession itself on trial?

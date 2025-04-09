@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2024-11-11
 modDatetime: 2024-11-11
-title: HISTORY This Week - Alexander the Great Finds His Destiny
-slug: history-this-week-alexander-the-great-finds-his-destiny
+title: Alexander the Great Finds His Destiny
+slug: alexander-the-great-finds-his-destiny
 featured: False
 draft: False
-description: Alexander stands triumphant in Egypt, 332 BCE. Discover how the 24-year-old shifts from conqueror to ruler, embracing his unique destiny.
+description: How the 24-year-old king shifted from conqueror to ruler.
 emoji: 👑
 tags:
   - 🔍 Fact-checking
@@ -21,7 +21,7 @@ haiku: |
   Destiny takes hold.
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/3CKazsp3W9wUm3tvcCotOl?si=NHUyVjgoR-GuSBnV5ay4_Q) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/3CKazsp3W9wUm3tvcCotOl?si=NHUyVjgoR-GuSBnV5ay4_Q) for The History Channel. It's always a challenge to wordsmith orienting references to present-day geopolitics without the prose tripping over "in what is now known as Pakistan,"
 
 > November 14, 332 BCE. Alexander the Great has conquered an unprecedented amount of territory in a relatively short amount of time. At just 24 years old, he's in control of Macedonia, much of Greece, and now, a huge part of Egypt.
 >

@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-05-04
 modDatetime: 2021-05-04
-title: HISTORY This Week - The Chinese Immigrants Who Built America
-slug: history-this-week-the-chinese-immigrants-who-built-america
+title: The Chinese Immigrants Who Built America
+slug: the-chinese-immigrants-who-built-america
 featured: False
 draft: False
 description: The heroes of the completion of the transcontinental railroad.

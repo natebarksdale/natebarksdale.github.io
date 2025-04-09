@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2025-02-24
 modDatetime: 2025-02-24
-title: HISTORY This Week - Tesla Electrifies the World
-slug: history-this-week-tesla-electrifies-the-world
+title: Tesla Electrifies the World
+slug: tesla-electrifies-the-world
 featured: False
 draft: False
-description: Nikola Tesla electrifies Philadelphia, shooting sparks and lighting bulbs, offering a dazzling glimpse of the powered world to come.
+description: Nikola Tesla lit up Philadelphia, shooting sparks and lighting bulbs, offering a glimpse of the powered world to come.
 emoji: ⚡
 tags:
   - 🔍 Fact-checking

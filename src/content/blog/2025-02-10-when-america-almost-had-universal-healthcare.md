@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2025-02-10
 modDatetime: 2025-02-10
-title: HISTORY This Week - When America Almost Had Universal Healthcare
-slug: history-this-week-when-america-almost-had-universal-healthcare
+title: When America Almost Had Universal Healthcare
+slug: when-america-almost-had-universal-healthcare
 featured: False
 draft: False
-description: Discover the pivotal 1935 moment when universal healthcare was nearly enacted under FDR, only to face fierce opposition from the AMA.
+description: How universal healthcare was nearly enacted under FDR, only to face fierce opposition from the AMA.
 emoji: 🩺
 tags:
   - 🔍 Fact-checking

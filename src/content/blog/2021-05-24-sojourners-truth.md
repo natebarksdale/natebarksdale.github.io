@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-05-24
 modDatetime: 2021-05-24
-title: HISTORY This Week - Sojourner's Truth
-slug: history-this-week-sojourner-s-truth
+title: Sojourner's Truth
+slug: sojourner-s-truth
 featured: False
 draft: False
 description: In 1851 Akron, Sojourner Truth delivers a powerful speech at the Women's Rights Convention, demanding true inclusion for *all* women.

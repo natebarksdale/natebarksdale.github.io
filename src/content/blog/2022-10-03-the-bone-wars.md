@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2022-10-03
 modDatetime: 2022-10-03
-title: HISTORY This Week - The Bone Wars
-slug: history-this-week-the-bone-wars
+title: The Bone Wars
+slug: the-bone-wars
 featured: False
 draft: False
-description: Explore the intense paleontological feud known as the Bone Wars – a bitter rivalry that unearthed dinosaurs and ignited a national obsession.
+description: A bitter rivalry that unearthed dinosaurs and ignited a national obsession.
 emoji: 🦕
 tags:
   - 🔍 Fact-checking
@@ -22,7 +22,7 @@ haiku: |
   Legacy in stone
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/2duO7uepDmUNOOrzyFbpQs?si=wrUfh7cgQ2iGuAemKCptlA) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/2duO7uepDmUNOOrzyFbpQs?si=wrUfh7cgQ2iGuAemKCptlA) for The History Channel — including when it becomes scientifically OK to refer to a dinosaur as a "sea monster."
 
 > October 4, 1915. President Woodrow Wilson designates Dinosaur National Monument as a national historic site. That’s a big deal, right? There must’ve been a grand ribbon-cutting ceremony, maybe even a parade. But no. In 1915, nobody really cares about dinosaurs. But that is all about to change. And when it does, it is largely because of two paleontologists. Two guys who started off as best friends … until their growing obsession with unearthing and cataloging dinosaur bones would turn them into rivals. Then enemies. How did the competition between a pair of paleontologists lead to unprecedented dinosaur discoveries? And how did their rivalry unhinge them both?
 

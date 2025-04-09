@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-05-30
 modDatetime: 2021-05-30
-title: HISTORY This Week - The Rise and Fall of Black Wall Street
-slug: history-this-week-the-rise-and-fall-of-black-wall-street
+title: The Rise and Fall of Black Wall Street
+slug: the-rise-and-fall-of-black-wall-street
 featured: False
 draft: False
 description: The history of Tulsa's thriving Black Wall Street and the devastating 1921 race massacre that violently destroyed this community.

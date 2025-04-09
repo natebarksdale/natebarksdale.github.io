@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2024-10-21
 modDatetime: 2024-10-21
-title: HISTORY This Week - The Last Regular Day in Pompeii
-slug: history-this-week-the-last-regular-day-in-pompeii
+title: The Last Regular Day in Pompeii
+slug: the-last-regular-day-in-pompeii
 featured: False
 draft: False
-description: Discover Pompeii beyond the villas on its last ordinary day. Experience the bustling lives of everyday people before Vesuvius changes history forever.
+description: People just going about their lives, about to get buried in ash.
 emoji: 🌋
 tags:
   - 🔍 Fact-checking
@@ -22,7 +22,7 @@ haiku: |
 coordinates: [40.7507, 14.486]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/35hD2twQBDVHkvTzMUiKwY?si=L-jujU7wQkevPaXkEasu1g) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/35hD2twQBDVHkvTzMUiKwY?si=L-jujU7wQkevPaXkEasu1g) for The History Channel. It was fun to figure out the best approach to uncertain 18th-century excavation spans when when the ruler in charge stayed the same ... but changed his name (Charles VII of Naples becoming Charles III of Spain).
 
 > October 24, 79 CE. Pompeii is one of the crown jewels of the Roman Empire, a bustling city that serves as a coastal retreat for Rome's elite. But Pompeii also has a large, often overlooked middle-class population. They don't live in Pompeii's massive villas. Instead, they live a typical urban life – shopping at small businesses and haggling with street vendors. They even go to restaurants. And one of these restaurants—still being excavated by archeologists today—may unlock a whole new side to the story of this doomed city.
 >

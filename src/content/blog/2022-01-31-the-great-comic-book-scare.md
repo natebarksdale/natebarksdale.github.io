@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-01-31
 modDatetime: 2022-01-31
-title: HISTORY This Week - The Great Comic Book Scare
-slug: history-this-week-the-great-comic-book-scare
+title: The Great Comic Book Scare
+slug: the-great-comic-book-scare
 featured: False
 draft: False
 description: Explore the Great Comic Book Scare of the 1950s, as figures like Fredric Wertham clash over whether comics truly corrupt America's youth.

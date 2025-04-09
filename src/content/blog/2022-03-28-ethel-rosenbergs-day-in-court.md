@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2022-03-28
 modDatetime: 2022-03-28
-title: HISTORY This Week - Ethel Rosenberg's Day in Court
-slug: history-this-week-ethel-rosenberg-s-day-in-court
+title: Ethel Rosenberg's Day in Court
+slug: ethel-rosenberg-s-day-in-court
 featured: False
 draft: False
 description: Courtroom drama as Ethel Rosenberg faces espionage charges, awaiting a verdict that seals her and her husband's fate.

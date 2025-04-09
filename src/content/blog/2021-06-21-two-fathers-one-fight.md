@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-06-21
 modDatetime: 2021-06-21
-title: HISTORY This Week - Two Fathers, One Fight
-slug: history-this-week-two-fathers-one-fight
+title: Two Fathers, One Fight
+slug: two-fathers-one-fight
 featured: False
 draft: False
 description: Two fathers challenge norms and win adoption rights for gay couples, celebrating their love with a groundbreaking Father’s Day wedding in 1998.

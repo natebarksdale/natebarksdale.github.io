@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-03-22
 modDatetime: 2021-03-22
-title: HISTORY This Week - Surrogacy on the Stand
-slug: history-this-week-surrogacy-on-the-stand
+title: Surrogacy on the Stand
+slug: surrogacy-on-the-stand
 featured: False
 draft: False
 description: Dive into the landmark 1986 Baby M surrogacy case. A mother's change of heart challenges a contract and ignites a complex legal battle.

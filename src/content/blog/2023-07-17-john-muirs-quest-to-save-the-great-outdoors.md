@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2023-07-17
 modDatetime: 2023-07-17
-title: HISTORY This Week - John Muir's Quest to Save the Great Outdoors
-slug: history-this-week-john-muir-s-quest-to-save-the-great-outdoors
+title: John Muir's Quest to Save the Great Outdoors
+slug: john-muir-s-quest-to-save-the-great-outdoors
 featured: False
 draft: False
-description: Witness the Sierra sunrise that sparks John Muir's quest. See how he resolves to save Yosemite's wilderness using only the power of his pen.
+description: The Sierra sunrise that sparked John Muir's quest.
 emoji: 🏞️
 tags:
   - 🔍 Fact-checking

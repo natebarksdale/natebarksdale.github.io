@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2025-01-13
 modDatetime: 2025-01-13
-title: HISTORY This Week - How to Stop an Avalanche? Blow Up a Mountain
-slug: history-this-week-how-to-stop-an-avalanche-blow-up-a-mountain
+title: How to Stop an Avalanche? Blow Up a Mountain
+slug: how-to-stop-an-avalanche-blow-up-a-mountain
 featured: False
 draft: False
 description: Alta, Utah launches its first ski lift in 1939, sparking a need for extreme measures—including explosives—to control deadly avalanches.
@@ -22,7 +22,7 @@ haiku: |
 coordinates: [40.5894, -111.638]
 ---
 
-I helped fact-check this [podcast](https://open.spotify.com/episode/4BawWTweE6jf9HFq97MXIc?si=d0XsNBpUTDaZMNtwm0H90w) for The History Channel.
+I helped fact-check this [podcast](https://open.spotify.com/episode/4BawWTweE6jf9HFq97MXIc?si=d0XsNBpUTDaZMNtwm0H90w) for The History Channel. I spent a surprising amount of time looking through Army field manuals to track down the distinctive markings of a particular French-made howitzer.
 
 > January 15, 1939. It's finally working! After countless mechanical issues, the first operational ski lift in the state of Utah is taking people up the mountain so they can glide down its slopes. Skiing conditions are ideal in the town of Alta, and this lift will allow this relatively new sport to explode in popularity. But as beautiful as Alta is, there's also a looming threat... avalanches.
 >

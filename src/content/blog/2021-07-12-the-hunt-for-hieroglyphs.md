@@ -2,8 +2,8 @@
 author: Nate Barksdale
 pubDatetime: 2021-07-12
 modDatetime: 2021-07-12
-title: HISTORY This Week - The Hunt for Hieroglyphs
-slug: history-this-week-the-hunt-for-hieroglyphs
+title: The Hunt for Hieroglyphs
+slug: the-hunt-for-hieroglyphs
 featured: False
 draft: False
 description: Join the hunt for hieroglyphs! Discover how a stone found by French soldiers in 1799 became the key to unlocking ancient Egypt's secrets.
