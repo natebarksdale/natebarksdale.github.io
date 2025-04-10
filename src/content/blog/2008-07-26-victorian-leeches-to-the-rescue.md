@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-03-31T16:30:06Z
+modDatetime: 2025-04-10T15:04:15Z
 title: Victorian leeches to the rescue!
 slug: victorian-leeches-to-the-rescue
 featured: false
@@ -31,6 +31,8 @@ a [3quarksdaily](https://www.google.com/search?q=%223quarksdaily%22%203quarksdai
 >
 > > When Mehdi Jaffari was told his left carotid artery was so severely blocked he faced the risk of an imminent stroke, he turned the clock back to medieval times
 > >
-> > The 52-year-old counsellor, from Chatswood, bought more than 35 leeches from a Victorian farmer and applied them to his body daily. Within five days, a CT angiogram showed the artery had cleared, stunning staff at Royal North Shore Hospital and his family
-> > Leech therapy, first documented in Greece more than 4000 years ago, is not new in Sydney. More than 50 _Richardsonianus australis_ leeches are kept in a tank at Liverpool Hospital for use on patients who have had skin grafts or severed digits because their saliva contains hirudin, a chemical that acts as a powerful anticoagulant and vasodilator
+> > The 52-year-old counsellor, from Chatswood, bought more than 35 leeches from a Victorian farmer and applied them to his body daily. Within five days, a CT angiogram showed the artery had cleared, stunning staff at Royal North Shore Hospital and his family.
+> >
+> > Leech therapy, first documented in Greece more than 4000 years ago, is not new in Sydney. More than 50 _Richardsonianus australis_ leeches are kept in a tank at Liverpool Hospital for use on patients who have had skin grafts or severed digits because their saliva contains hirudin, a chemical that acts as a powerful anticoagulant and vasodilator.
+> >
 > > More [here](http://www.smh.com.au/news/health/little-suckers-clear-the-path-to-the-brain/2008/07/25/1216492732923.html). [Thanks to Susan Anthony.]
