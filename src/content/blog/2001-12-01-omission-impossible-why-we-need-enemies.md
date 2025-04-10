@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2001-12-01
-modDatetime: 2025-04-10T14:40:05Z
+modDatetime: 2025-04-10T14:51:53Z
 title: Omission impossible - Why we need enemies
 slug: omission-impossible-why-we-need-enemies
 featured: false
@@ -27,7 +27,8 @@ coordinates: [-30.5595, 22.9375]
 ![](@assets/images/enemies.jpg)
 photoshop/[library of congress](https://www.google.com/search?q=%22library%20of%20congress%22%20memory.loc.gov)
 
-> He smiled and nodded: I know why it is better to be shot at on a Sunday afternoon than not be shot at. Because it means maybe there is an enemy after all. If there is no enemy, then I am either mad or living in a madhouse. Peace is only better than war if peace is not hell, too. War being hell makes sense.  
+> He smiled and nodded: I know why it is better to be shot at on a Sunday afternoon than not be shot at. Because it means maybe there is an enemy after all. If there is no enemy, then I am either mad or living in a madhouse. Peace is only better than war if peace is not hell, too. War being hell makes sense.
+>
 > —Walker Percy, _The Second Coming_
 
 Sometimes an enemy can be the best sort of news. In a landscape defined by popular whim, consumer desire, and political spin, the appearance of a real, honest-to-God enemy is nothing short of a miracle: like coming upon something solid in a world of shifting sands. Which is why, despite the blood and bruises, a good, reliable enemy is always worth uncovering. And why it's never really a relief to see a supposed enemy vanish before our eyes. All this could be the beginning of an ironic skewering of one of humanity's basest instincts. People who see enemies as good news are, after all, the very sorts who show up on the evening news torching American flags in foreign capitals or picketing the local gay pride parade with those "God hates fags" posters.

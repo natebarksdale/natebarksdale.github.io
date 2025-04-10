@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-07-17
-modDatetime: 2025-04-10T14:40:06Z
+modDatetime: 2025-04-10T14:51:54Z
 title: Beautiful litany
 slug: beautiful-litany
 featured: false
@@ -25,5 +25,6 @@ coordinates: [52.4064, 16.9252]
 > Forgive me, distant wars, for bringing flowers home.
 > Forgive me, open wounds, for pricking my finger.
 > I apologize for my record of minuets to those who cry from the depths.
-> I apologize to those who wait in railway stations for being asleep today at five a.m.  
+> I apologize to those who wait in railway stations for being asleep today at five a.m.
+>
 > —Wislawa Szymborska, trans. by Stanislaw Baranczak and Clare Cavanaugh, "[Under One Small Star](http://www.poemhunter.com/poem/under-one-small-star/)" (excerpt)

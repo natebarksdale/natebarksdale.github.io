@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-20
-modDatetime: 2025-04-10T14:40:06Z
+modDatetime: 2025-04-10T14:51:54Z
 title: The peril of sainthood
 slug: the-peril-of-sainthood
 featured: false
@@ -20,5 +20,6 @@ haiku: |
 coordinates: [40.7306, -73.9352]
 ---
 
-> Don't call me a saint. I don't want to be dismissed so easily.  
+> Don't call me a saint. I don't want to be dismissed so easily.
+>
 > —Dorothy Day

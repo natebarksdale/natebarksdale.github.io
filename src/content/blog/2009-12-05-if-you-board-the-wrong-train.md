@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-05
-modDatetime: 2025-04-10T14:40:06Z
+modDatetime: 2025-04-10T14:51:54Z
 title: If you board the wrong train ..
 slug: if-you-board-the-wrong-train
 featured: false
@@ -21,5 +21,6 @@ haiku: |
 coordinates: [52.5200, 13.4050]
 ---
 
-> If you board the wrong train, it is no use running along the corridor in the other direction.  
+> If you board the wrong train, it is no use running along the corridor in the other direction.
+>
 > —Dietrich Bonhoeffer

@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-01-09
-modDatetime: 2025-04-09T21:14:20Z
+modDatetime: 2025-04-10T14:51:55Z
 title: In Order to Form a More Tongue-Tied Union
 slug: in-order-to-form-a-more-tongue-tied-union
 featured: false
@@ -24,7 +24,9 @@ coordinates: [38.8895, -77.0353]
 ---
 
 > {Claude}
+>
 > {Q} rewrite the preamble to the U.S. Constitution as a series of difficult tongue twisters
+>
 > {A} We the Particularly Purposeful Perspicacious People,
 > Persistently Pursuing Properly Perfected Principles,
 > Presently Proclaim Perpetual Prosperity's Possibilities.
