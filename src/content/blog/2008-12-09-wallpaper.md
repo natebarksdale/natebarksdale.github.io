@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-31T16:30:18Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Wallpaper
 slug: wallpaper
 featured: false
 draft: false
-description: A fascinating look at how a gas station in Adrian, Texas transformed restroom graffiti into a positive and creative community expression.
+description: How a gas station in Adrian, Texas transformed restroom graffiti into a positive and creative community expression.
 emoji: 📝
 tags:
   - 🗣️ Language

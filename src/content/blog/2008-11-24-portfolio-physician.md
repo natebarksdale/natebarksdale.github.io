@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-24
-modDatetime: 2025-03-31T16:30:16Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Portfolio | Physician
 slug: portfolio-physician
 featured: false
 draft: false
-description: A personal business card showcasing the professional details of a physician, located in the heart of a bustling city. Coordinates
+description: A personal business card showcasing the professional details of a physician, located in the heart of a bustling city.
 emoji: 🩺
 tags:
   - 📁 Portfolio

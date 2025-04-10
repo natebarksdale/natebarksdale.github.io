@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-18
-modDatetime: 2025-03-31T16:30:26Z
+modDatetime: 2025-04-10T17:29:29Z
 title: File sharing
 slug: file-sharing
 featured: false
 draft: false
-description: A fascinating glimpse into exclusive listening parties where music meets community in a cozy setting.
+description: Where music meets community in a cozy setting.
 emoji: 🎧
 tags:
   - 🌍 Culture-Making.com

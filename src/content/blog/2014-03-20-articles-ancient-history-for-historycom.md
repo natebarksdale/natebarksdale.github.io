@@ -6,7 +6,7 @@ title: Articles | Ancient History for History.com
 slug: articles-ancient-history-for-history-com
 featured: False
 draft: False
-description: In 2012, I explored a range of fascinating topics related to ancient civilizations, covering the Greeks, Romans, Egyptians, and Near Eastern cultures. Each piece provides insight into their rich histories and lasting legacies.
+description: Greeks, Romans, Egyptians, and Near Eastern cultures, oh my!
 emoji: 🏛️
 tags:
   - 🦁 Africa

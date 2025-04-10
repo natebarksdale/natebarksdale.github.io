@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-01
-modDatetime: 2025-04-08T15:19:42Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Who’s a good dog?
 slug: whos-a-good-dog
 featured: false
 draft: false
-description: A look into the fascinating and cultural trend of pet names in L.A. County.
+description: Pet names in L.A. County.
 emoji: 🐕
 tags:
   - 🌍 Culture-Making.com

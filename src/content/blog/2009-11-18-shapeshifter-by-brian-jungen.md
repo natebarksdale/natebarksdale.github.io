@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-18
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Shapeshifter, by Brian Jungen
 slug: shapeshifter-by-brian-jungen
 featured: false
 draft: false
-description: A fascinating exploration of modern artifacts reimagined in traditional forms by artist Brian Jungen.
+description: Modern artifacts reimagined in traditional forms by artist Brian Jungen.
 emoji: 🐋
 tags:
   - 🌍 Culture-Making.com

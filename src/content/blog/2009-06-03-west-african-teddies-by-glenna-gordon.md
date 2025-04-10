@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-06-03
-modDatetime: 2025-04-08T15:19:48Z
+modDatetime: 2025-04-10T17:29:29Z
 title: West African teddies, by Glenna Gordon
 slug: west-african-teddies-by-glenna-gordon
 featured: false
 draft: false
-description: A fascinating look at the sentimental value of second-hand stuffed animals, affectionately known as "teddies," in Monrovia, Liberia.
+description: The sentimental value of second-hand stuffed animals in Monrovia, Liberia.
 emoji: 🧸
 tags:
   - 🦁 Africa

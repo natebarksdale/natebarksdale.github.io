@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-06
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Descending like a dove
 slug: descending-like-a-dove
 featured: false
 draft: false
-description: A fascinating visual representation of air traffic over Atlanta resembles the Holy Spirit's descent, prompting reflections on both art and geography.
+description: A visual representation of air traffic over Atlanta resembles the Holy Spirit's descent.
 emoji: ✈️
 tags:
   - 🌍 Culture-Making.com

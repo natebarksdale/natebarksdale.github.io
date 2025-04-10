@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-01-19
-modDatetime: 2025-03-31T16:30:32Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Hot dogs of Latin America
 slug: hot-dogs-of-latin-america
 featured: false
 draft: false
-description: Here's a fascinating look at how American hot dogs have taken on unique local twists throughout Latin America. The variations in Guatemala and Colombia showcase just how inventive cuisine can be.
+description: How American hot dogs have taken on unique local twists in places like Guatemala and Colombia.
 emoji: 🌭
 tags:
   - 🥑 Central America

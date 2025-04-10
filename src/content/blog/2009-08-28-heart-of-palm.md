@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-28
-modDatetime: 2025-03-31T16:30:28Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Heart of palm
 slug: heart-of-palm
 featured: false
 draft: false
-description: This careful schematic cross-section of a palm stem evokes striking similarities to Pacific Northwest art despite the palm’s tropical origins. Based on the content, relevant geolocation coordinates for the Malay Peninsula might be approximately
+description: This careful schematic cross-section of a palm stem evokes striking similarities to Pacific Northwest art despite the palm’s tropical origins.
 emoji: 🌴
 tags:
   - 🧉 South America

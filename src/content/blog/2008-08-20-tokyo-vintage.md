@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-04-08T15:19:43Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Tokyo vintage
 slug: tokyo-vintage
 featured: false
 draft: false
-description: Exploring the fascinating interconnection of vintage fashion between Tokyo and Hollywood.
+description: Vintage fashion linking Tokyo and Hollywood.
 emoji: 🧥
 tags:
   - 🌍 Culture-Making.com

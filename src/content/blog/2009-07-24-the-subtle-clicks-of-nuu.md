@@ -6,7 +6,7 @@ title: The subtle clicks of N|uu
 slug: the-subtle-clicks-of-n-uu
 featured: False
 draft: False
-description: A fascinating exploration of endangered click languages and cutting-edge imaging technology.
+description: Endangered click languages and cutting-edge imaging technology.
 emoji: 🗣️
 tags:
   - ⚛️ Physics

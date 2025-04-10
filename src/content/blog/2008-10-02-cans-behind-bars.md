@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-02
-modDatetime: 2025-04-08T15:19:44Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Cans behind bars
 slug: cans-behind-bars
 featured: false
 draft: false
-description: Here's a fascinating look into the unique economy of American prisons, where canned mackerel serves as a form of currency.
+description: The unique economy of American prisons, where canned mackerel serves as a form of currency.
 emoji: 🐟
 tags:
   - 🌍 Culture-Making.com

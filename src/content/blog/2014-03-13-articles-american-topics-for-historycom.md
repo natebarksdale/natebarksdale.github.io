@@ -6,7 +6,7 @@ title: Articles | American topics for History.com
 slug: articles-american-topics-for-history-com
 featured: False
 draft: False
-description: My American coverage for History.com encompasses a fascinating array of significant events and influential figures.
+description: Capsule bios of Guglielmo Marconi, Lucky Luciano and more.
 emoji: 📜
 tags:
   - 🇭 History.com

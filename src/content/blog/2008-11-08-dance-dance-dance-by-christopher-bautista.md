@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-11-08
-modDatetime: 2025-03-31T16:30:15Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Dance Dance Dance!, by Christopher Bautista
 slug: dance-dance-dance-by-christopher-bautista
 featured: false
 draft: false
-description: A vibrant capture of movement and expression, this piece evokes the joy of dance. "Dance Dance Dance!", photo by Christopher Bautista, 2008. Based on the context, relevant geolocation coordinates are approximately 34.0522° N, 118.2437° W (Los Angeles, California).
+description: A vibrant capture of movement and expression, this piece evokes the joy of dance. "Dance Dance Dance!", photo by Christopher Bautista, 2008.
 emoji: 💃
 tags:
   - 🌍 Culture-Making.com

@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-09
-modDatetime: 2025-03-31T16:30:25Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Six days shalt thou offer unmatched prices and customer service
 slug: six-days-shalt-thou-offer-unmatched-prices-and-customer-service
 featured: false
 draft: false
-description: Fascinating trivia (and not-so-trivia) about one of the iconic advertisers of my video-camera-obsessed early adolescenceH; is not just a camera store; it's a fascinating blend of personal service, community values, and unique business practices.
+description: Fascinating trivia (and not-so-trivia) about one of the iconic advertisers of my video-camera-obsessed early adolescence.
 emoji: 🕍
 tags:
   - ✡️ Judaism

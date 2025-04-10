@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-03
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-10T17:29:29Z
 title: A timeline of food
 slug: a-timeline-of-food
 featured: false
 draft: false
-description: A fascinating look at the timeline of food inventions and when certain dishes first came to be enjoyed.
+description: When certain dishes first came to be enjoyed.
 emoji: 🍽️
 tags:
   - 🌍 Culture-Making.com

@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-13
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Junk Drawer, Chicago IL, by Paho Mann
 slug: junk-drawer-chicago-il-by-paho-mann
 featured: false
 draft: false
-description: A fascinating glimpse into the hidden chaos of everyday life with a photo of a junk drawer in Chicago.
+description: The hidden chaos of everyday life.
 emoji: 🗄️
 tags:
   - 🌍 Culture-Making.com

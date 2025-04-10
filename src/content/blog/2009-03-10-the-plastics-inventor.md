@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-10
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-10T17:29:29Z
 title: The Plastics Inventor
 slug: the-plastics-inventor
 featured: false
 draft: false
-description: A fascinating exploration of how perceptions of plastic have shifted over time, particularly through the lens of Disney's animation in the 1940s.
+description: How perceptions of plastic have shifted over time, particularly through the lens of Disney's animation in the 1940s.
 emoji: 🧪
 tags:
   - ✨ Wonder

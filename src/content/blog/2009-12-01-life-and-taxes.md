@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-01
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Life and taxes
 slug: life-and-taxes
 featured: false
 draft: false
-description: A fascinating exploration of how colonial tax policies have left lasting impacts on governance in Nigeria.
+description: How colonial tax policies have left lasting impacts on governance in Nigeria.
 emoji: 🏛️
 tags:
   - 🦁 Africa

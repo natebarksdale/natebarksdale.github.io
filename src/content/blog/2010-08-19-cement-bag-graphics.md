@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-19
-modDatetime: 2025-04-09T18:56:58Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Cement bag graphics
 slug: cement-bag-graphics
 featured: false
 draft: false
-description: A fascinating exploration of the artistic and cultural significance of cement bag graphics from around the world.
+description: The artistic and cultural significance of cement bag graphics from around the world.
 emoji: 🏗️
 tags:
   - 🌍 Culture-Making.com

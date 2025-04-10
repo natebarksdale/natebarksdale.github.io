@@ -80,7 +80,9 @@ export default (post: CollectionEntry<"blog">) => {
               >
                 "
               </span>
-              <span style={{ overflow: "hidden", fontWeight: "bold" }}></span>
+              <span
+                style={{ overflow: "hidden", fontWeight: "regular" }}
+              ></span>
             </span>
 
             <span

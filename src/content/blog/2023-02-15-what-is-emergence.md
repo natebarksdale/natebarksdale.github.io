@@ -6,7 +6,7 @@ title: What Is Emergence?
 slug: what-is-emergence
 featured: False
 draft: False
-description: Explore the fascinating concept of emergence, where simple elements unfold into complex systems, from galaxies to societies.
+description: Emergence begins where simple elements unfold into complex systems, from galaxies to societies.
 emoji: 🌀
 tags:
   - 🦠 Biology

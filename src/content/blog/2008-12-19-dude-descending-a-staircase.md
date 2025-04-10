@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-19
-modDatetime: 2025-03-31T16:30:18Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Dude descending a staircase
 slug: dude-descending-a-staircase
 featured: false
 draft: false
-description: A fascinating glimpse into the life of artist Marcel Duchamp captured in a multiple exposure image, reminiscent of his iconic work, “Nude Descending a Staircase.”
+description: Marcel Duchamp captured in a multiple exposure image, reminiscent of his iconic work, “Nude Descending a Staircase.”
 emoji: 🕴️
 tags:
   - 🌍 Culture-Making.com

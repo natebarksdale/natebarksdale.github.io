@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-09
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Bringing back the New Deal for writers
 slug: bringing-back-the-new-deal-for-writers
 featured: false
 draft: false
-description: The Federal Writers Project offers a fascinating glimpse into history, highlighting a call to revive such initiatives for modern journalists affected by economic downturns.
+description: The Federal Writers Project  highlights a call to revive such initiatives for modern journalists affected by economic downturns.
 emoji: 📚
 tags:
   - 🌍 Culture-Making.com

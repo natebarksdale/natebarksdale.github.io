@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2011-01-31
-modDatetime: 2025-04-08T15:19:51Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Secular praise songs from Western Kenya
 slug: secular-praise-songs-from-western-kenya
 featured: false
 draft: false
-description: A fascinating exploration of The Kawere Boys, a popular Benga group from Kenya, showcasing the interwoven relationships between artist and patron through music in Luo culture.
+description: The Kawere Boys, a popular Benga group from Kenya, showcase the interwoven relationships between artist and patron through music in Luo culture.
 emoji: 🎶
 tags:
   - ✨ Wonder

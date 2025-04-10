@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-12-05
-modDatetime: 2025-03-31T16:30:17Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Blogs as ‘Cabinets of Wonder’
 slug: blogs-as-cabinets-of-wonder
 featured: false
 draft: false
-description: Exploring the concept of blogs as modern-day "cabinets of wonder," a fascinating comparison to Renaissance collections of curiosity.
+description: Are blogs basically just Renaissance collections of curiosity?
 emoji: 🏺
 tags:
   - ✨ Wonder

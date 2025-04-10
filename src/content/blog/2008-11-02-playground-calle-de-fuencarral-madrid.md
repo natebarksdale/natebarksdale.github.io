@@ -6,7 +6,7 @@ title: Playground, Calle de Fuencarral, Madrid
 slug: playground-calle-de-fuencarral-madrid
 featured: false
 draft: true
-description: Observations on a vibrant urban playground in the heart of Madrid. Coordinates
+description: Observations on a vibrant urban playground in the heart of Madrid.
 emoji: 🛝
 tags:
   - 🍷 Europe

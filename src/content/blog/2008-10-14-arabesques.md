@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-14
-modDatetime: 2025-03-31T16:30:13Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Arabesques
 slug: arabesques
 featured: false
 draft: false
-description: From a lovely French collection of prints, this piece showcases "Arab art from the monuments of Cairo, from the 7th through the 19th centuries," illustrating a vibrant tapestry of designs over the centuries. Geolocation coordinates
+description: From a lovely French collection of prints, this piece showcases "Arab art from the monuments of Cairo, from the 7th through the 19th centuries," illustrating a vibrant tapestry of designs over the centuries.
 emoji: 🎨
 tags:
   - 🌙 Islam

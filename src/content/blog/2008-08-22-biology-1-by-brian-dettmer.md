@@ -2,11 +2,11 @@
 author: Nate Barksdale
 pubDatetime: 2008-08-22
 modDatetime: 2008-08-22
-title: “Biology
+title: Biology
 slug: biology
 featured: False
 draft: False
-description: I find it fascinating to think about the hidden images and stories within the books on my shelves, much like Brian Dettmer's artwork.
+description: On the hidden images and stories within the books on my shelves, much like Brian Dettmer's artwork.
 emoji: 📚
 tags:
   - 🦠 Biology

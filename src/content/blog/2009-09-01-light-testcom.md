@@ -6,7 +6,7 @@ title: light-test.com
 slug: light-test-com
 featured: False
 draft: False
-description: A fascinating glimpse into the behind-the-scenes world of professional photography, showcasing how much work goes into creating stunning images with assistants often taking center stage.
+description: Photography assistants take center stage.
 emoji: 📸
 tags:
   - 🌍 Culture-Making.com

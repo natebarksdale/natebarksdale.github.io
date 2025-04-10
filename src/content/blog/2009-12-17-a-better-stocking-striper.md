@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-12-17
-modDatetime: 2025-04-09T18:56:57Z
+modDatetime: 2025-04-10T17:29:30Z
 title: A better stocking striper
 slug: a-better-stocking-striper
 featured: false
 draft: false
-description: Exploring the whimsical world of vintage patents led me to a fascinating invention that seamlessly blends artistry and technology.
+description: Dispatches from the whimsical world of vintage patents.
 emoji: 🧶
 tags:
   - 🌍 Culture-Making.com

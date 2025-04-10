@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-09-23
-modDatetime: 2025-04-08T15:19:44Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Cultural Relativism - Animal Noises Edition
 slug: cultural-relativism-animal-noises-edition
 featured: false
 draft: false
-description: An exploration of how children from different cultures perceive animal sounds, highlighting the fascinating variations in frog sounds.
+description: An exploration of how children from different cultures perceive animal sounds.
 emoji: 🐸
 tags:
   - 🌍 Culture-Making.com

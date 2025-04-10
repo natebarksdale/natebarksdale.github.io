@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-10-29
-modDatetime: 2025-04-08T15:19:49Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Name that tune
 slug: name-that-tune
 featured: false
 draft: false
-description: An exploration of the fascinating disconnect between popular baby names and the names featured in Billboard Top 5 songs over the decades, showcasing a timeline of cultural evolution in music.
+description: The fascinating disconnect between popular baby names and the names featured in Billboard Top 5 songs over the decades.
 emoji: 🎤
 tags:
   - 🌍 Culture-Making.com

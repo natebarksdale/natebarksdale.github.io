@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-05-06
-modDatetime: 2025-03-31T16:30:25Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Auto-Tune and the cyborg embrace
 slug: auto-tune-and-the-cyborg-embrace
 featured: false
 draft: false
-description: Embracing the artifice of Auto-Tune can lead to innovative musical expressions, making it a fascinating tool in modern production.
+description: Embracing the artifice of Auto-Tune can lead to innovative musical expressions.
 emoji: 🎤
 tags:
   - 🌍 Culture-Making.com

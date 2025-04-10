@@ -6,7 +6,7 @@ title: Portfolio | culture-making.com
 slug: portfolio-culture-making-com
 featured: False
 draft: False
-description: As curator and co-creator of the Culture Making website, I developed the initial site architecture and layout in collaboration with Andy Crouch and Yee Design. Geolocation coordinates
+description: As curator and co-creator of the Culture Making website, I developed the initial site architecture and layout in collaboration with Andy Crouch and Yee Design.
 emoji: 🖥️
 tags:
   - 📁 Portfolio

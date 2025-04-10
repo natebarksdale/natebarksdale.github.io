@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2014-03-21
-modDatetime: 2025-03-31T16:30:39Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Portfolio | Newfound Heights
 slug: portfolio-newfound-heights
 featured: false
 draft: false
-description: Exploring the visual identity and branding for a real estate development firm. Relevant geolocation coordinates
+description: Exploring the visual identity and branding for a real estate development firm.
 emoji: 🏗️
 tags:
   - 📁 Portfolio

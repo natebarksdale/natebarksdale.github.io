@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2024-08-29
-modDatetime: 2025-03-31T16:30:45Z
+modDatetime: 2025-04-10T17:29:30Z
 title: Origins of Life
 slug: origins-of-life
 featured: false
 draft: false
-description: Explore the fascinating theories behind the origins of life, delving into scientific insights and philosophical inquiries that challenge our understanding of existence.
+description: An overview of current theories behind the origins of life.
 emoji: 🌍
 tags:
   - ✨ Wonder

@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-10-28
-modDatetime: 2025-04-09T18:56:56Z
+modDatetime: 2025-04-10T17:29:28Z
 title: An enterprise of world-building
 slug: an-enterprise-of-world-building
 featured: false
 draft: false
-description: Discover the fascinating world of globe manufacturing through this engaging video from the Discovery Channel's how it's made series.
+description: How globes are made.
 emoji: 🌍
 tags:
   - 🌍 Culture-Making.com

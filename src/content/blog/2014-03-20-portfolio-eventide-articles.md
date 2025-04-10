@@ -6,7 +6,7 @@ title: Portfolio | Eventide Articles
 slug: portfolio-eventide-articles
 featured: false
 draft: true
-description: From Alan Jacobs, an observation on original sin. Geolocation coordinates
+description: From Alan Jacobs, an observation on original sin.
 emoji: 📈
 tags:
   - 📁 Portfolio

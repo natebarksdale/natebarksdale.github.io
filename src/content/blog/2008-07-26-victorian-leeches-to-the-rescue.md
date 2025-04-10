@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-07-26
-modDatetime: 2025-04-10T15:04:15Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Victorian leeches to the rescue!
 slug: victorian-leeches-to-the-rescue
 featured: false
 draft: false
-description: A fascinating look at modern uses of ancient leech therapy for serious medical conditions.
+description: The modern uses of an leech ancient therapy for serious medical conditions.
 emoji: 🐍
 tags:
   - 🧪 Chemistry

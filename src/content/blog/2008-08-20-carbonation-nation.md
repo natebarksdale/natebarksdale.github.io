@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2008-08-20
-modDatetime: 2025-04-08T15:19:43Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Carbonation nation
 slug: carbonation-nation
 featured: false
 draft: false
-description: An exploration of regional names for soft drinks across the U.S., a fascinating look at linguistic diversity.
+description: An exploration of regional names for soft drinks across the U.S.
 emoji: 🥤
 tags:
   - 🌍 Culture-Making.com

@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-03-29
-modDatetime: 2025-03-31T16:30:34Z
+modDatetime: 2025-04-10T17:29:30Z
 title: The right book at the right time
 slug: the-right-book-at-the-right-time
 featured: false
 draft: false
-description: A fascinating journey unfolds as Tété-Michel Kpomassie escapes a jungle snake cult in Togo and embarks on his dream to experience the icy landscapes of Greenland.
+description: Tété-Michel Kpomassie escaped a jungle snake cult in Togo to embark on his dream to experience the icy landscapes of Greenland.
 emoji: 🌍
 tags:
   - 🍷 Europe

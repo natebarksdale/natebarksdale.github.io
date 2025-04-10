@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2007-01-23
-modDatetime: 2025-03-31T16:30:04Z
+modDatetime: 2025-04-10T17:29:28Z
 title: Portfolio | Anthropologist
 slug: portfolio-anthropologist
 featured: false
 draft: false
-description: A striking two-sided business card for an anthropologist delving into Latin American geopolitics.
+description: A striking two-sided business card for an anthropologist.
 emoji: 🗺️
 tags:
   - 📁 Portfolio

@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-08-06
-modDatetime: 2025-04-09T18:56:57Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Information, patterns, and wool
 slug: information-patterns-and-wool
 featured: false
 draft: false
-description: This fascinating passage highlights the role of knitting in WWII propaganda and morale-building through the clever design of a British poster.
+description: The role of knitting in WWII propaganda and morale-building.
 emoji: 🧶
 tags:
   - ✨ Wonder

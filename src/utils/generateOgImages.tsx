@@ -41,7 +41,7 @@ const options: SatoriOptions = {
     {
       name: "Faune", // Updated font name to match your font
       data: fontRegular,
-      weight: 200,
+      weight: 100,
       style: "normal",
     },
     {

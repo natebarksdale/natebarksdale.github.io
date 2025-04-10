@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-02-02
-modDatetime: 2025-04-08T15:19:47Z
+modDatetime: 2025-04-10T17:29:29Z
 title: Global Street Food installation, by Mike Meiré
 slug: global-street-food-installation-by-mike-meire
 featured: false
 draft: false
-description: A glimpse into the diverse world of street food vendor setups captured by Mike Meiré, highlighting their cultural significance and the absence of the vendors themselves. Geolocation coordinates
+description: A glimpse into the diverse world of street food vendor setups captured by Mike Meiré, highlighting their cultural significance and the absence of the vendors themselves.
 emoji: 🌍
 tags:
   - 💡 Design
