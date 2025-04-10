@@ -5,7 +5,7 @@ modDatetime: 2025-03-10 21:39:29+00:00
 title: John Muir's Steampunk Years
 slug: john-muir-s-steampunk-years
 featured: False
-draft: False
+draft: True
 description: Delving into the unexpected early life of John Muir, the celebrated environmentalist, who began as an inventor in Wisconsin.
 emoji: 🔧
 tags:

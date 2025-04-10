@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2010-08-27
-modDatetime: 2025-03-31T16:30:37Z
+modDatetime: 2025-04-10T14:40:06Z
 title: Same goes for grace?
 slug: same-goes-for-grace
 featured: false
 draft: false
-description: An insightful look at the nature of discovery and the importance of intention in our explorations.
+description: Quoting Lawrence Block.
 emoji: 🔍
 tags:
   - 🌍 Culture-Making.com
@@ -20,5 +20,5 @@ haiku: |
 coordinates: [40.7128, -74.0060]
 ---
 
-One aspect of serendipity to bear in mind is that you have to be looking for something in order to find something else.  
---Lawrence Block, via [SwissMiss](http://web.archive.org/web/20241102213542/https://www.swiss-miss.com/2010/08/the-accidental-news-explorer.html)
+> One aspect of serendipity to bear in mind is that you have to be looking for something in order to find something else.  
+> —Lawrence Block, via [SwissMiss](http://web.archive.org/web/20241102213542/https://www.swiss-miss.com/2010/08/the-accidental-news-explorer.html)

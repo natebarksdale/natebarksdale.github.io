@@ -5,7 +5,7 @@ modDatetime: 2025-03-18 21:19:20+00:00
 title: Isabele Ealet
 slug: isabele-ealet
 featured: False
-draft: False
+draft: True
 description: Exploring the unexpected rise of a female leader in the male-dominated world of commodity trading.
 emoji: 💰
 tags:

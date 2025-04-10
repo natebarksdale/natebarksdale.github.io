@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-03-19
-modDatetime: 2025-03-31T16:30:23Z
+modDatetime: 2025-04-10T14:40:05Z
 title: All tomorrow’s parties
 slug: all-tomorrows-parties
 featured: false
 draft: false
-description: A reflection on the enduring influence of The Velvet Underground and its impact on aspiring musicians. "The Velvet Underground did not sell many records, but everyone who bought one went out and started a band."
+description: Quoting ... somebody famous.
 emoji: 🎸
 tags:
   - 🌍 Culture-Making.com
@@ -20,5 +20,5 @@ haiku: |
 coordinates: [40.7306, -73.9352]
 ---
 
-The Velvet Underground did not sell many records, but everyone who bought one went out and started a band.  
---Rock-n-roll truism, attributed variously to Lou Reed, Brian Eno, Courtney Love, etc.
+> The Velvet Underground did not sell many records, but everyone who bought one went out and started a band.  
+> —Rock-n-roll truism, attributed variously to Lou Reed, Brian Eno, Courtney Love, etc.

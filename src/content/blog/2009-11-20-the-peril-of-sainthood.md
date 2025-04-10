@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2009-11-20
-modDatetime: 2025-03-31T16:30:30Z
+modDatetime: 2025-04-10T14:40:06Z
 title: The peril of sainthood
 slug: the-peril-of-sainthood
 featured: false
 draft: false
-description: A powerful reminder that complexity lies behind our identities, as Dorothy Day states, "Don't call me a saint. I don't want to be dismissed so easily."
+description: Quoting Dorothy Day.
 emoji: 😇
 tags:
   - 🌍 Culture-Making.com
@@ -20,5 +20,5 @@ haiku: |
 coordinates: [40.7306, -73.9352]
 ---
 
-Don't call me a saint. I don't want to be dismissed so easily.  
---Dorothy Day
+> Don't call me a saint. I don't want to be dismissed so easily.  
+> —Dorothy Day

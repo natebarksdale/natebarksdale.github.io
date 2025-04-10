@@ -5,7 +5,7 @@ modDatetime: 2025-03-18 21:19:20+00:00
 title: The Great Epizootic
 slug: the-great-epizootic
 featured: False
-draft: False
+draft: True
 description: In October 1872, amid moments of change, a peculiar event begins with a horse sneezing near Toronto.
 emoji: 🐴
 tags:

@@ -5,7 +5,7 @@ modDatetime: 2025-03-31T16:30:20Z
 title: Fifth St., Alamedia, California
 slug: fifth-st-alamedia-california
 featured: false
-draft: false
+draft: True
 description: I can't help but appreciate the charming blend of mission style and art nouveau curves in this side-yard, showcasing the friendship between these two houses.
 emoji: 🏡
 tags:

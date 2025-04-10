@@ -5,7 +5,7 @@ modDatetime: 2025-03-31T16:30:19Z
 title: Plazza Mario Cermenati, Lecco, Lombardy, Italy
 slug: plazza-mario-cermenati-lecco-lombardy-italy
 featured: false
-draft: false
+draft: True
 description: Just up the street from the lake, there's a striking gate worth noting.
 emoji: 🚪
 tags:
