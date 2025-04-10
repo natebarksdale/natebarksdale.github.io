@@ -12,7 +12,7 @@ import getSortedPosts from "@utils/getSortedPosts";
 const posts = await getCollection("blog", ({ data }) => !data.draft);
 const sortedPosts = getSortedPosts(posts);
 
-// Enhanced searchList with content
+// Enhanced searchList with content and normalized tags
 const searchList = await Promise.all(
   sortedPosts.map(async ({ data, slug, body }) => {
     // Extract content from the article body - simplified plain text extraction
@@ -24,12 +24,22 @@ const searchList = await Promise.all(
       .replace(/[*_]{1,2}([^*_]+)[*_]{1,2}/g, "$1") // Remove bold/italic markdown
       .slice(0, 10000); // Limit content length for performance
 
+    // Process tags to make them more searchable
+    // If data.tags is an array, join with spaces for better searching
+    const normalizedTags = Array.isArray(data.tags)
+      ? data.tags.map(tag => tag.replace(/^[📖🌍🎨📝⚖️✨]\s*/, "")).join(" ")
+      : "";
+
     return {
       title: data.title,
       description: data.description,
       data,
       slug,
       content: textContent,
+      // Add additional searchable fields
+      normalizedTags,
+      // Include tag text in a searchable format
+      tagText: Array.isArray(data.tags) ? data.tags.join(" ") : "",
     };
   })
 );

@@ -8,7 +8,9 @@ export type SearchItem = {
   description: string;
   data: CollectionEntry<"blog">["data"];
   slug: string;
-  content?: string; // Add content field
+  content?: string; // Content field
+  normalizedTags?: string; // Normalized tags without emoji prefixes
+  tagText?: string; // Original tags joined as a string
 };
 
 interface Props {
@@ -38,14 +40,16 @@ export default function SearchBar({ searchList }: Props) {
         keys: [
           { name: "title", weight: 1.0 }, // Highest priority
           { name: "description", weight: 0.8 }, // High priority
-          { name: "data.tags", weight: 0.7 }, // Medium-high priority
-          { name: "content", weight: 1.0 }, // Highest priority
+          { name: "normalizedTags", weight: 0.9 }, // Higher priority for clean tags
+          { name: "tagText", weight: 0.8 }, // High priority for original tags
+          { name: "data.tags", weight: 0.7 }, // Keep original tag search
+          { name: "content", weight: 0.6 }, // Medium priority for better performance
         ],
         includeMatches: false, // Don't need matches for highlighting
-        minMatchCharLength: 3, // Increased to 3 for stricter matching
-        threshold: 0.2, // Much lower threshold for strict matches
-        distance: 50, // Reduced distance
-        useExtendedSearch: false, // Simpler search
+        minMatchCharLength: 2, // Reduced to 2 to allow shorter search terms
+        threshold: 0.4, // Increased threshold for more lenient matching
+        distance: 100, // Increased distance for better fuzzy matching
+        useExtendedSearch: true, // Enable extended search for better tag matching
       }),
     [searchList]
   );
@@ -70,8 +74,8 @@ export default function SearchBar({ searchList }: Props) {
     let inputResult: Fuse.FuseResult<SearchItem>[] = [];
 
     if (inputVal.length > 1) {
-      // Perform the search
-      inputResult = fuse.search(inputVal);
+      // Perform the search with improved options
+      inputResult = fuse.search(inputVal, { limit: 50 }); // Increased result limit
     }
 
     setSearchResults(inputResult);
