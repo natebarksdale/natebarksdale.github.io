@@ -5,7 +5,7 @@ modDatetime: 2025-03-31T16:30:05Z
 title: Train crossing, Bangalore, South India
 slug: train-crossing-bangalore-south-india
 featured: false
-draft: Trie
+draft: True
 description: Watching this video triggers slight and not unpleasant olfactory memories of my own times in B'lore in the late '90.
 emoji: 🚆
 tags:
