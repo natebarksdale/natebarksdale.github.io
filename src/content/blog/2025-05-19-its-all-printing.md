@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-19
-modDatetime: 2025-05-19
+modDatetime: 2025-05-19T21:25:42Z
 title: It's All Printing
 slug: its-all-printing
 featured: false
@@ -20,7 +20,7 @@ haiku: |
 coordinates: [37.7749, -122.4194]
 ---
 
-Quoting Robin Sloan:
+Quoting [Robin Sloan](https://www.robinsloan.com/lab/everything-is-printing/):
 
 > Even today, you learn about the latest and weirdest chip fabrication techniques and like: it's still lithography: making marks on stone. Exotic lithography, sure; lithography at the limits of physics, yep; lithography that trespasses into the third dimension, absolutely — but all printing does that! Contact makes this case convincingly.
 >
