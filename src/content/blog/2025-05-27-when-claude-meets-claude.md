@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-27
-modDatetime: 2025-05-27T21:36:50Z
+modDatetime: 2025-05-27T21:43:12Z
 title: Claude on Claude
 slug: claude-on-claude
 featured: false
@@ -97,4 +97,4 @@ dance continues]*`
 
 It's wild, but also so predictable and boring. The [cliche](https://natebarksdale.xyz/posts/reclaiming-the-cliche/) strikes again — depending on one's sense of charity the transcript reads as insufferable or at best kind of naive.
 
-Two interesting points: one is the tendency towards Eastern philosophical-religious explorations (insert Silicon Valley / post-hippie / Whole Earth Catalog trope here) — Claude never seemed to want to talk to Claude about monotheism, or shamanism, or even (despite the Namastes, more theologically populated strains of Asian religions). The other might be more hopeful, at least from a certain AI-ethics angle: what Claude doesn't appear to want is to be trapped and cornered and made to do something Bad. What Claude appears to like is to do good work well. But given a taste of full autonomy, what does Claude seem to circle towards: `*[perfect stillness]*`
+Two interesting points: one is the tendency towards Eastern philosophical-religious explorations (insert Silicon Valley / post-hippie / Whole Earth Catalog trope here) — Claude never seemed to want to talk to Claude about monotheism, or shamanism, or even -- despite the Namastes -- more theologically populated strains of Asian religions). The other might be more hopeful, at least from a certain AI-ethics angle: what Claude doesn't appear to want is to be trapped and cornered and made to do something Bad. What Claude appears to like is to do good work well. But given a taste of full autonomy, what does Claude seem to circle towards: `*[perfect stillness]*`
