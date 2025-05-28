@@ -1,9 +1,9 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-27
-modDatetime: 2025-05-27T21:43:12Z
-title: Claude on Claude
-slug: claude-on-claude
+modDatetime: 2025-05-28T13:06:07Z
+title: When a Claude Meets a Claude
+slug: when-a-claude-meets-a-claude
 featured: false
 draft: false
 description: AI stress tests and the "spiritual bliss" attractor
@@ -97,4 +97,4 @@ dance continues]*`
 
 It's wild, but also so predictable and boring. The [cliche](https://natebarksdale.xyz/posts/reclaiming-the-cliche/) strikes again — depending on one's sense of charity the transcript reads as insufferable or at best kind of naive.
 
-Two interesting points: one is the tendency towards Eastern philosophical-religious explorations (insert Silicon Valley / post-hippie / Whole Earth Catalog trope here) — Claude never seemed to want to talk to Claude about monotheism, or shamanism, or even -- despite the Namastes -- more theologically populated strains of Asian religions). The other might be more hopeful, at least from a certain AI-ethics angle: what Claude doesn't appear to want is to be trapped and cornered and made to do something Bad. What Claude appears to like is to do good work well. But given a taste of full autonomy, what does Claude seem to circle towards: `*[perfect stillness]*`
+Two interesting points: one is the tendency towards Eastern philosophical-religious explorations (insert Silicon Valley / post-hippie / Whole Earth Catalog trope here) — Claude never seemed to want to talk to Claude about monotheism, or shamanism, or even -- despite the Namastes -- more theologically populated strains of Asian religions). I wonder whether Namastes and silence are what you get when you take the human desire to generate language about religion, and filter it through the AI's politeness training, which I would guess amounts to "don't bring up religion or politics unless someone asks." The other takeway might be more hopeful, at least from a certain AI-ethics angle: what Claude doesn't appear to want is to be trapped and cornered and made to do something Bad. What Claude appears to like is to do good work well. But given a taste of full autonomy, what does Claude seem to circle towards: `*[perfect stillness]*`
