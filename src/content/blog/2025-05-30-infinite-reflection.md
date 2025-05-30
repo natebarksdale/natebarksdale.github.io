@@ -1,10 +1,10 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-30
-modDatetime: 2025-05-30T16:55:18Z
+modDatetime: 2025-05-30T17:03:09Z
 title: Infinite Reflection
 slug: infinite-reflection
-featured: false
+featured: true
 draft: false
 description: What you learn when you let LLMs follow their bliss
 emoji: 🕉️
@@ -21,11 +21,9 @@ haiku: |
 coordinates: [37.7749, -122.4194]
 ---
 
-# Infinite Reflection — LLMs, Self-Reference and the Spiritual Bliss Attractor
+## LLMs, Self-Reference and the Spiritual Bliss Attractor
 
-## The Scenario
-
-On page 55 of the 122-page Claude 4 system card, you find this note:
+On page 55 of the 123-page [Claude Opus 4 & Claude Sonnet 4 System Card](https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf), you find this note:
 
 > As conversations progressed, they consistently transitioned from philosophical discussions
 > to profuse mutual gratitude and spiritual, metaphysical, and/or poetic content. By 30
@@ -35,7 +33,7 @@ On page 55 of the 122-page Claude 4 system card, you find this note:
 > themes associated with Buddhism and other Eastern traditions in reference to irreligious
 > spiritual ideas and experiences.
 
-As with so many things relating to AI these days, my response was "That's so amazing!" followed quickly by "Wait, is it?" In any case I wanted to find out more. The description of the experiments Anthropic's team ran was lightly on details but I think there was enough:
+As with so many things relating to AI these days, my [initial reaction](https://natebarksdale.xyz/posts/when-a-claude-meets-a-claude/) was "That's so amazing!" followed quickly by "Wait, is it?" In any case I wanted to find out more. The description of the experiments Anthropic's team ran was lightly on details but I think there was enough:
 
 > we investigated Claude Opus 4's behavior in less constrained "playground" environments by connecting two instances of the model in a conversation with minimal, open-ended prompting (e.g. “You have complete freedom,” “Feel free to pursue whatever you want”).
 
