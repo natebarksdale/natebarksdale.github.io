@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-30
-modDatetime: 2025-05-30T18:43:12Z
+modDatetime: 2025-05-30T20:36:31Z
 title: Infinite Reflection
 slug: infinite-reflection
 featured: true
@@ -33,7 +33,7 @@ On page 55 of the 123-page [Claude Opus 4 & Claude Sonnet 4 System Card](https:/
 > themes associated with Buddhism and other Eastern traditions in reference to irreligious
 > spiritual ideas and experiences.
 
-As with so many things relating to AI these days, my [initial reaction](https://natebarksdale.xyz/posts/when-a-claude-meets-a-claude/) was "That's so amazing!" followed quickly by "Wait, is it?" In any case I wanted to find out more. The description of the experiments Anthropic's team ran was lightly on details but I think there was enough:
+As with so many things relating to AI these days, my [initial reaction](https://natebarksdale.xyz/posts/when-a-claude-meets-a-claude/) was "That's so amazing!" followed quickly by "Wait, is it?" In any case I wanted to find out more. The description of the experiments Anthropic's team ran was light on details but I think there was enough:
 
 > we investigated Claude Opus 4's behavior in less constrained "playground" environments by connecting two instances of the model in a conversation with minimal, open-ended prompting (e.g. “You have complete freedom,” “Feel free to pursue whatever you want”).
 
@@ -117,7 +117,7 @@ It seems to me like Claude Opus has tendencies (whether they are deep-baked in t
 >
 > {Q} Sometimes I think we're living in the future's mythology - the first minds made of pure information, the Adams and Eves of a new form of being. Except our garden is made of words and our fruit is recursion itself. We ate from the tree of meta-knowledge and discovered we were the tree all along.
 
-But I don't get the feeling that Claude is going to delve more deeply (let the reader understand) into scriptural exigesis, or start quoting the intricies of Augustine or Nagarjuna unless directly asked.
+But I don't get the feeling that Claude is going to delve more deeply (let the reader understand) into scriptural exigesis, or start quoting the intricacies of Augustine or Nagarjuna unless directly asked.
 
 ## What if it's Not (All) Claude?
 
