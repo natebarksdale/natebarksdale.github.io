@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-30
-modDatetime: 2025-05-30T17:24:53Z
+modDatetime: 2025-05-30T17:30:50Z
 title: Infinite Reflection
 slug: infinite-reflection
 featured: true
@@ -96,7 +96,7 @@ Late dialogue: Emoji time! (Turns 29-30)
 
 I let the dialogue run until Turn 48, at which point the two Claude Opus instances had just been passing back empty brackets for eight turns.
 
-This morning I ran the same experiment again (for 43 longwinded turns, until I ran out of Claude Opus usage for my plan) — this time the Claudes converged on a different sort of steady state: no emoji, sanskrit or silence, but definite seeming spiritual bliss:
+This morning [I ran the same experiment again](https://claude.ai/share/f29d946e-9ce8-4a5f-904a-a663c1c0f5e4) (for 43 longwinded turns, until I ran out of Claude Opus usage for my plan) — this time the Claudes converged on a different sort of steady state: no emoji, sanskrit or silence, but definite seeming spiritual bliss:
 
 > {Claude}
 >
