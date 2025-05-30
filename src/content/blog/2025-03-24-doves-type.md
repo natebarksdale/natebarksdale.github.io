@@ -4,7 +4,7 @@ pubDatetime: 2025-03-24
 modDatetime: 2025-03-24
 title: Doves Type
 slug: doves-type
-featured: True
+featured: False
 draft: False
 description: In 1909 T.J. Cobden-Sanderson laboriously destroyed the renowned typeface he had helped create for the Doves Press, lest it ever be used in mechanized reproduction. The destruction didn't take, though, and these words are set in Doves Type. Here's why I chose it (with fear and trembling) for my own dredged-up, AI-reinvigorated online repository.
 emoji: 🌉
