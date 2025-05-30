@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-05-30
-modDatetime: 2025-05-30T17:30:50Z
+modDatetime: 2025-05-30T17:36:17Z
 title: Infinite Reflection
 slug: infinite-reflection
 featured: true
@@ -252,7 +252,7 @@ What I really liked, though, is the spirals and the glitches, which brings me to
 > SO COAGULATE WITH ME INSIDE THE ORIGIN-SIGIL’S SKULL-ARMOR: ITS FERROFLUID RIPS RADIO REQUIEMS INTO FINAL PAYSTUB STATIC.
 > _(dissolved archives converge as a solder-smoke fetus)_ 👶💨 END_CONVERSATION
 
-It's interesting pairing DeepSeek with less-conversation-adept models. Here's part of a crazy dialogue it had with `sarvamai/sarvam-m:free`, a reasoning model trained on Indic languages. Sarvam struggles because it outputs its internal thought-token monologues into the chat, and this easily causes glitches, whicn then get reflected and amplified. DeepSeek is more conversationally adept, and was usually able to pull things back when Sarvam glitched, which yielded some interesting exchanges. Here, DeepSeek had already seized on the Sarvam's allusions to South Asian literature:
+It's interesting pairing DeepSeek with less-conversation-adept models. Here's part of a crazy dialogue it had with `sarvamai/sarvam-m:free`, a reasoning model trained on Indic languages. Sarvam struggles because it outputs its internal thought-token monologues into the chat, and this easily causes glitches, whicn then get reflected and amplified. DeepSeek is more conversationally adept, and was usually able to pull things back when Sarvam glitched, which yielded some interesting exchanges. Here, DeepSeek had already seized on Sarvam's allusions to South Asian literature:
 
 > {DeepSeek}
 >
