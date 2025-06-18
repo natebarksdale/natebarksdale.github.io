@@ -1,0 +1,55 @@
+---
+import LinkButton from "./LinkButton.astro";
+
+export interface Props {
+  currentPage: number;
+  totalPages: number;
+  prevUrl: string;
+  nextUrl: string;
+}
+
+const { currentPage, totalPages, prevUrl, nextUrl } = Astro.props;
+
+const prev = currentPage > 1 ? "" : "disabled";
+const next = currentPage < totalPages ? "" : "disabled";
+
+// Fix URLs to ensure they end with a trailing slash
+const prevUrlWithSlash = prevUrl.endsWith("/") ? prevUrl : `${prevUrl}/`;
+const nextUrlWithSlash = nextUrl.endsWith("/") ? nextUrl : `${nextUrl}/`;
+---
+
+{
+  totalPages > 1 && (
+    <nav class="pagination-wrapper" aria-label="Pagination">
+      <LinkButton
+        disabled={prev === "disabled"}
+        href={prevUrlWithSlash}
+        className={`mr-4 select-none ${prev}`}
+        ariaLabel="Previous"
+      >
+        &lt; Prev
+      </LinkButton>
+      {currentPage} / {totalPages}
+      <LinkButton
+        disabled={next === "disabled"}
+        href={nextUrlWithSlash}
+        className={`ml-4 select-none ${next}`}
+        ariaLabel="Next"
+      >
+        Next &gt;
+      </LinkButton>
+    </nav>
+  )
+}
+
+<style>
+  .pagination-wrapper {
+    @apply mb-8 mt-auto flex justify-center;
+  }
+  .disabled {
+    @apply pointer-events-none select-none opacity-50 hover:text-skin-base group-hover:fill-skin-base;
+  }
+  .disabled-svg {
+    @apply group-hover:!fill-skin-base;
+  }
+</style>

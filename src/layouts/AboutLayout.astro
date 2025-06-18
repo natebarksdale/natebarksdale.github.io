@@ -1,0 +1,365 @@
+---
+import { SITE } from "@config";
+import Breadcrumbs from "@components/Breadcrumbs.astro";
+import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import Layout from "./Layout.astro";
+import MapIllustrationWrapper from "@components/MapIllustrationWrapper.astro";
+
+export interface Props {
+  frontmatter: {
+    title: string;
+    description?: string;
+  };
+}
+
+const { frontmatter } = Astro.props;
+
+// Get DC coordinates for the work location
+const dcCoordinates = [38.9159, -77.0423]; // 1819 Newton St NW, Washington DC 20010
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
+---
+
+<Layout title={`${frontmatter.title} | ${SITE.title}`}>
+  <Header activeNav="about" />
+  <!-- <Breadcrumbs /> -->
+  <main id="main-content">
+    {/* Hidden MapIllustration to be used in the intro tile */}
+    <div class="relative w-full mb-8">
+      <MapIllustrationWrapper
+        title="Work with Me"
+        coordinates={dcCoordinates}
+        mapboxToken={mapboxToken}
+      />
+    </div>
+    <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
+      <h1 class="text-3xl font-serif sm:text-5xl my-4 sm:my-8 normal-case">
+        {frontmatter.title}
+      </h1>
+      <slot />
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  /* Add styles to match homepage font sizing */
+  :global(#about div.intro-tile p),
+  :global(#about div.intro-tile li) {
+    @apply font-serif my-2 text-2xl;
+  }
+
+  :global(#about div.intro-tile p:nth-child(1)) {
+    @apply -m-4 px-4 py-2 rounded-md my-4;
+    background-color: #fff9dd; /* Warm yellow */
+  }
+
+  /* Create tile layout for sections */
+  :global(#about h1) {
+    @apply font-serif text-xl font-medium mt-8 mb-2;
+  }
+
+  :global(#about div.intro-tile h1) {
+    @apply text-3xl font-semibold;
+  }
+
+  /* Create section tiles with heading and content */
+  @media (min-width: 640px) {
+    :global(#about) {
+      @apply flex flex-wrap justify-between after:content-[''] after:w-[48%];
+    }
+
+    /* First tile (intro) is full-width and has two columns */
+    :global(#about div.intro-tile) {
+      @apply w-full mb-8 rounded-lg transition-all duration-300;
+      /* Change to a single column layout for better map display */
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "heading"
+        "content"
+        "map";
+      gap: 1.5rem;
+    }
+
+    /* Position elements within the intro tile */
+    :global(#about div.intro-tile h1) {
+      grid-area: heading;
+    }
+
+    :global(#about div.intro-tile .map-container) {
+      grid-area: map;
+      width: 100%;
+      min-height: 300px; /* Increase height for better visibility */
+      margin-top: 1.5rem;
+      display: none !important;
+    }
+
+    :global(#about div.intro-tile .map-container #map-illustration-container) {
+      width: 100%;
+      height: 100%;
+    }
+
+    :global(
+        #about div.intro-tile .map-container #map-illustration-container > *
+      ) {
+      width: 100% !important;
+      height: 100% !important;
+    }
+
+    /* Each section (h1 + content until next h1) becomes a tile */
+    :global(#about div.section-tile) {
+      @apply w-[48%] mb-8 text-xl rounded-lg transition-all duration-300;
+    }
+
+    /* The last tile (full-width) takes the entire row */
+    :global(#about div.section-tile.full-width-tile) {
+      @apply w-full;
+    }
+
+    :global(#about div.section-tile:hover),
+    :global(#about div.intro-tile:hover) {
+    }
+
+    /* Style the headings inside tiles - WITHOUT bottom borders */
+    :global(#about div.section-tile h1) {
+      @apply mb-4;
+    }
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 639px) {
+    :global(#about div.intro-tile .map-container) {
+      margin: 1.5rem 0;
+    }
+  }
+
+  /* Animation styles */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  :global(#about div.intro-tile),
+  :global(#about div.section-tile) {
+    animation: fadeIn 0.5s ease-out forwards;
+    opacity: 0;
+  }
+
+  :global(#about div.intro-tile) {
+    animation-delay: 0.1s;
+  }
+  :global(#about div.section-tile:nth-child(2)) {
+    animation-delay: 0.2s;
+  }
+  :global(#about div.section-tile:nth-child(3)) {
+    animation-delay: 0.3s;
+  }
+  :global(#about div.section-tile:nth-child(4)) {
+    animation-delay: 0.4s;
+  }
+  :global(#about div.section-tile:nth-child(5)) {
+    animation-delay: 0.5s;
+  }
+  :global(#about div.section-tile:nth-child(6)) {
+    animation-delay: 0.6s;
+  }
+  :global(#about div.section-tile:nth-child(7)) {
+    animation-delay: 0.7s;
+  }
+  :global(#about div.section-tile:nth-child(8)) {
+    animation-delay: 0.8s;
+  }
+  :global(#about div.section-tile:nth-child(9)) {
+    animation-delay: 0.9s;
+  }
+  :global(#about div.section-tile:nth-child(10)) {
+    animation-delay: 1s;
+  }
+  :global(#about div.section-tile:nth-child(n + 11)) {
+    animation-delay: 1.1s;
+  }
+</style>
+
+<script is:inline>
+  // This script wraps each section (h1 + content until next h1) into a section-tile div
+  function createTileLayout() {
+    const aboutSection = document.getElementById("about");
+    if (!aboutSection) return;
+
+    // Skip if tiles are already created
+    if (aboutSection.querySelector(".intro-tile")) return;
+
+    // Skip the main heading (h1 that's the title)
+    const mainHeading = aboutSection.querySelector("h1");
+    if (!mainHeading) return;
+
+    // Create intro tile first
+    const introTile = document.createElement("div");
+    introTile.className = "intro-tile";
+
+    // Clone the main heading to add to the intro tile
+    const mainHeadingClone = mainHeading.cloneNode(true);
+    introTile.appendChild(mainHeadingClone);
+
+    // Collect elements for intro section (elements until the first section heading)
+    const introElements = [];
+    let nextEl = mainHeading.nextElementSibling;
+
+    while (nextEl && nextEl.tagName !== "H1") {
+      introElements.push(nextEl);
+      nextEl = nextEl.nextElementSibling;
+    }
+
+    // Create a container for the intro content
+    const introContent = document.createElement("div");
+    introContent.className = "intro-content";
+    introContent.style.gridArea = "content";
+
+    // Clone the intro elements and add to intro content
+    introElements.forEach(el => {
+      const clone = el.cloneNode(true);
+      introContent.appendChild(clone);
+    });
+
+    // Add the intro content to the intro tile
+    introTile.appendChild(introContent);
+
+    // Add a map container for the MapIllustration
+    const mapContainer = document.createElement("div");
+    mapContainer.className = "map-container";
+    mapContainer.innerHTML = `
+      <div id="map-illustration-container"></div>
+    `;
+    introTile.appendChild(mapContainer);
+
+    // Elements to remove (now that we've cloned them)
+    const elementsToRemove = [mainHeading, ...introElements];
+
+    // Get all h1 elements after the main heading
+    const headings = Array.from(aboutSection.querySelectorAll("h1")).filter(
+      h => h !== mainHeading
+    );
+    let sectionTiles = [];
+
+    // For each heading, create a section tile with all content until the next heading
+    headings.forEach((heading, index) => {
+      const tile = document.createElement("div");
+      tile.className = "section-tile";
+
+      // Make the last tile full width (add a special class)
+      if (index === headings.length - 1) {
+        tile.classList.add("full-width-tile");
+      }
+
+      // Clone the heading to add to the tile
+      const headingClone = heading.cloneNode(true);
+      tile.appendChild(headingClone);
+
+      // Get all elements between this heading and the next (or end)
+      let nextEl = heading.nextElementSibling;
+      const elementsToRemoveForSection = [heading];
+
+      while (nextEl && nextEl.tagName !== "H1") {
+        const clone = nextEl.cloneNode(true);
+        tile.appendChild(clone);
+
+        elementsToRemoveForSection.push(nextEl);
+        nextEl = nextEl.nextElementSibling;
+      }
+
+      // Add the tile to our collection
+      sectionTiles.push({ tile, elementsToRemove: elementsToRemoveForSection });
+    });
+
+    // Remove all original elements
+    elementsToRemove.forEach(el => el.remove());
+    sectionTiles.forEach(({ elementsToRemove }) => {
+      elementsToRemove.forEach(el => el.remove());
+    });
+
+    // Add the intro tile first, then all section tiles
+    aboutSection.appendChild(introTile);
+    sectionTiles.forEach(({ tile }) => {
+      aboutSection.appendChild(tile);
+    });
+  }
+
+  // Run immediately
+  createTileLayout();
+
+  // Also run on DOM content loaded to ensure it works even if script loads before DOM
+  document.addEventListener("DOMContentLoaded", createTileLayout);
+
+  // Also run when Astro page updates without a full reload
+  document.addEventListener("astro:page-load", createTileLayout);
+
+  function moveMapIllustration() {
+    setTimeout(() => {
+      const mapContainer = document.getElementById(
+        "map-illustration-container"
+      );
+      const originalMap = document.querySelector(
+        '.map-container[data-debug="wrapper-mounted"]'
+      );
+
+      if (mapContainer && originalMap) {
+        // Clone the original map's contents rather than the container itself
+        const mapContent =
+          originalMap.querySelector('[id^="mapbox-container"]') ||
+          originalMap.firstElementChild;
+
+        if (mapContent) {
+          // Clone the content and ensure it has full width
+          const mapClone = mapContent.cloneNode(true);
+          mapClone.style.width = "100%";
+          mapClone.style.height = "100%";
+
+          // Clear and append
+          mapContainer.innerHTML = "";
+          mapContainer.appendChild(mapClone);
+
+          // Add a class to indicate it's been processed
+          mapContainer.classList.add("map-processed");
+        }
+
+        // Hide the original
+        originalMap.closest(".hidden")?.classList.add("hidden-permanent");
+      }
+    }, 200); // Slightly longer delay to ensure elements are rendered
+  }
+
+  // Make sure MapboxGL recalculates size after the map is moved
+  document.addEventListener("astro:page-load", () => {
+    setTimeout(() => {
+      // Force map resize if Mapbox has a resize method
+      const map = document.querySelector(
+        '.map-processed [id^="mapbox-container"]'
+      );
+      if (
+        map &&
+        window.mapboxMap &&
+        typeof window.mapboxMap.resize === "function"
+      ) {
+        window.mapboxMap.resize();
+      }
+    }, 500);
+  });
+
+  // Run the map movement function
+  moveMapIllustration();
+  document.addEventListener("DOMContentLoaded", moveMapIllustration);
+  document.addEventListener("astro:page-load", moveMapIllustration);
+</script>
+
+<style is:global>
+  .hidden-permanent {
+    display: none !important;
+  }
+</style>

@@ -1,0 +1,34 @@
+---
+import { getCollection } from "astro:content";
+import TagPosts from "@layouts/TagPosts.astro";
+import getPostsByTag from "@utils/getPostsByTag";
+import getPagination from "@utils/getPagination";
+import getUniqueTags from "@utils/getUniqueTags";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog");
+
+  const tags = getUniqueTags(posts);
+
+  return tags.map(({ tag, tagName }) => {
+    // Ensure tag is lowercase for consistent URL generation
+    const lowerTag = tag.toLowerCase();
+    return {
+      params: { tag: lowerTag },
+      props: { tag: lowerTag, tagName, posts },
+    };
+  });
+}
+
+const { tag, tagName, posts } = Astro.props;
+
+const postsByTag = getPostsByTag(posts, tag);
+
+const pagination = getPagination({
+  posts: postsByTag,
+  page: 1,
+  isIndex: true,
+});
+---
+
+<TagPosts {...pagination} {tag} {tagName} />

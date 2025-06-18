@@ -1,0 +1,79 @@
+/* Custom Styles - March 2025 */
+
+/* Styling for subheadings (H2, H3, etc.) */
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: rgba(40, 39, 40, 0.6) !important; /* 60% gray, using the text-skin-base color */
+  position: relative;
+}
+
+/* Add pilcrow before subheadings */
+.prose h2::before,
+.prose h3::before,
+.prose h4::before,
+.prose h5::before,
+.prose h6::before {
+  content: "¶ ";
+  display: inline;
+}
+
+/* Style for dates after post content */
+.date-info {
+  margin-top: 2rem;
+  font-style: italic;
+  opacity: 0.8;
+  font-size: 0.9em;
+  text-align: right;
+}
+
+/* Enhanced styling for fancy-underline */
+.fancy-underline,
+.prose p a, .prose blockquote a, .tag-description p a {
+  color:--color-fill;
+  text-decoration: none !important;
+  background: linear-gradient(180deg, rgba(230, 0, 0, 0.2) 0%, rgba(230, 0, 0, 0.2) 75%) !important;
+  background-position: 0 85% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.4em !important;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill) !important;
+}
+
+
+
+/* Style active navigation links */
+
+nav a {
+  text-decoration: none !important;
+  background: linear-gradient(0deg, rgba(230, 0, 0, 0) 0%, rgba(230, 0, 0, 0) 0%) !important;
+  background-position: 0 85% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.4em !important;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill) !important;
+}
+
+#top-nav-wrap a, h2 a, h3 a {background:none;}
+
+
+nav a.active {
+  text-decoration: none !important;
+  background: linear-gradient(0deg, rgba(230, 0, 0, 0.2) 0%, rgba(230, 0, 0, 0.2) 100%) !important;
+  background-position: 0 85% !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 0.4em !important;
+  text-shadow: 
+    0.1em 0 var(--color-fill),
+    -0.1em 0 var(--color-fill),
+    0 0.1em var(--color-fill),
+    0 -0.1em var(--color-fill) !important;
+}

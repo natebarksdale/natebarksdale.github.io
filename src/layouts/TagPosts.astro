@@ -1,0 +1,123 @@
+---
+import { type CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+import Layout from "@layouts/Layout.astro";
+import Main from "@layouts/Main.astro";
+import Header from "@components/Header.astro";
+import Footer from "@components/Footer.astro";
+import Card from "@components/Card";
+import TagMap from "@components/TagMap";
+import Pagination from "@components/Pagination.astro";
+import EmojiHeading from "@components/EmojiHeading.astro";
+import { SITE, tagDataMap } from "@config";
+import { stripEmoji } from "../utils/stripEmoji";
+import { slugifyStr } from "../utils/slugify";
+import { parseMarkdownLinks } from "../utils/parseMarkdownLinks";
+
+export interface Props {
+  currentPage: number;
+  totalPages: number;
+  paginatedPosts: CollectionEntry<"blog">[];
+  tag: string;
+  tagName: string;
+}
+
+const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
+
+// Fetch all posts to create the map data
+const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+
+// Filter posts for the current tag that have coordinates
+const taggedPostsWithCoordinates = allPosts
+  .filter(post => post.data.tags?.includes(tagName) && post.data.coordinates)
+  .map(post => ({
+    type: "Feature",
+    geometry: {
+      type: "Point",
+      coordinates: [post.data.coordinates[1], post.data.coordinates[0]], // [longitude, latitude]
+    },
+    properties: {
+      title: post.data.title,
+      slug: post.slug,
+      haiku: post.data.haiku, // Include the haiku property
+    },
+  }));
+
+// Create GeoJSON data for the map
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_ACCESS_TOKEN;
+const geojson = {
+  type: "FeatureCollection",
+  features: taggedPostsWithCoordinates,
+};
+
+// Should we show the map? Only if we have posts with coordinates
+const showMap = taggedPostsWithCoordinates.length > 0;
+
+// Get the tag info with possible description from the centralized tag data map
+// For server-side rendering, we'll use the consistent tag data
+// Get the plain text version of the tag
+const plainTag = stripEmoji(tag).toLowerCase();
+const tagData = tagDataMap[plainTag] || {};
+---
+
+<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
+  <Header activeNav="tags" />
+  <Main>
+    <EmojiHeading
+      text={tagName}
+      level={1}
+      class="text-2xl font-serif sm:text-3xl mt-1 mb-2"
+      id="tag-title"
+      transition={tag}
+    />
+
+    {/* Show tag description if available */}
+    {
+      tagData.description && (
+        <div class="tag-description mb-6 mt-2">
+          <p
+            class="text-lg font-serif text-gray-700 italic leading-relaxed"
+            set:html={parseMarkdownLinks(tagData.description)}
+          />
+        </div>
+      )
+    }
+
+    {/* Show the map only if we have posts with coordinates */}
+    {
+      showMap && (
+        <div class="my-6">
+          <TagMap
+            client:only="react"
+            geojson={geojson}
+            mapboxToken={mapboxToken}
+          />
+          <p class="text-xs text-center mt-1 text-gray-500">
+            {taggedPostsWithCoordinates.length} post
+            {taggedPostsWithCoordinates.length !== 1 ? "s" : ""} from this tag
+            have locations
+          </p>
+        </div>
+      )
+    }
+
+    <ul class="mt-4">
+      {
+        paginatedPosts.map(({ data, slug }) => (
+          <Card href={`/posts/${slug}/`} frontmatter={data} />
+        ))
+      }
+    </ul>
+  </Main>
+
+  <Pagination
+    {currentPage}
+    {totalPages}
+    prevUrl={`/tags/${slugifyStr(tag)}${
+      currentPage - 1 !== 1 ? "/" + (currentPage - 1) : ""
+    }/`}
+    nextUrl={`/tags/${slugifyStr(tag)}/${currentPage + 1}/`}
+  />
+
+  <Footer noMarginTop={totalPages > 1} />
+</Layout>
