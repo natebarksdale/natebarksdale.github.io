@@ -1,14 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-06-18
-modDatetime: 2025-06-18
+modDatetime: 2025-06-18T16:57:46Z
 title: Who Built the Great Wall of China?
 slug: who-built-the-great-wall-of-china
 featured: false
 draft: false
 description: The most massive symbol of Chinese culture hasn’t always taken the same route, or served the same purpose—and no single person can take the credit.
 emoji: 🏯
-tags:
 tags:
   - 🇨🇳 China
   - 🏗️ Construction

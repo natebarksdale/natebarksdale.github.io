@@ -1,14 +1,13 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-06-18
-modDatetime: 2025-06-18
+modDatetime: 2025-06-18T16:57:46Z
 title: What Countries Have Nuclear Weapons?
 slug: what-countries-have-nuclear-weapons
 featured: false
 draft: false
 description: The first five nations to build atomic bombs became part of the 'Nuclear Club'; others have since gained weapons, despite global treaties.
 emoji: ⚛️
-tags:
 tags:
   - 🇺🇸 United States
   - 🇷🇺 Russia
