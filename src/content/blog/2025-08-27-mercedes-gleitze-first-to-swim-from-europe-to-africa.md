@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-08-27
-modDatetime: 2025-08-27
-title: Mercedes Gleitze: First to Swim from Europe to Africa
+modDatetime: 2025-10-16T13:23:17Z
+title: Mercedes Gleitze
 slug: mercedes-gleitze-first-to-swim-from-europe-to-africa
 featured: false
 draft: false
