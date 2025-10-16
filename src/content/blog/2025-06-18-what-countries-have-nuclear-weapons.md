@@ -1,7 +1,7 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-06-18
-modDatetime: 2025-06-18T16:57:46Z
+modDatetime: 2025-10-16T02:30:58Z
 title: What Countries Have Nuclear Weapons?
 slug: what-countries-have-nuclear-weapons
 featured: false
@@ -21,7 +21,7 @@ haiku: |
 coordinates: [40.7589, -73.9851]
 ---
 
-For the History.com, I wrote the 'Nuclear Club' and how nations join:
+For History.com, I wrote the about 'Nuclear Club' and how nations join:
 
 > On October 6, 2006, North Korea announced it had detonated a nuclear bomb—making it the ninth nation to admit doing so. It wasn’t supposed to be that way. Until 2003, that country had been like all but a handful of countries, bound by the 1968 U.N. Non-Proliferation Treaty (NPT). That treaty allows peaceful nuclear technologies, but limits nuclear weapons to five nations: the United States, the Soviet Union (now Russia), the United Kingdom, France and the People’s Republic of China.
 >
