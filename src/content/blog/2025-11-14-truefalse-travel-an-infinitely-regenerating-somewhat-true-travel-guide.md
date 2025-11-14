@@ -1,8 +1,8 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-11-14
-modDatetime: 2025-11-14
-title: True/False Travel: An Infinitely Regenerating, Somewhat-True Travel Guide
+modDatetime: 2025-11-14T16:15:39Z
+title: True/False Travel - An Infinitely Regenerating, Somewhat-True Travel Guide
 slug: truefalse-travel-an-infinitely-regenerating-somewhat-true-travel-guide
 featured: false
 draft: false
