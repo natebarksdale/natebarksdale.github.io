@@ -1,12 +1,12 @@
 ---
 author: Nate Barksdale
 pubDatetime: 2025-11-14
-modDatetime: 2025-11-14T16:23:16Z
+modDatetime: 2025-11-17T15:52:20Z
 title: True/False Travel
 slug: truefalse-travel-an-infinitely-regenerating-somewhat-true-travel-guide
 featured: true
 draft: false
-description: This experimental travel guide leverages LLMs to create a playful, structured, and endlessly surprising exploration of fictionalized destinations, blending accuracy with creative fabrication.
+description: An experimental travel guide leverages LLMs to create a playful, structured, and surprising exploration of fictionalized destinations, blending accuracy with creative fabrication.
 emoji: 🌐
 tags:
   - 🌐 Blogging
