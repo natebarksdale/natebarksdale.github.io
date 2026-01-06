@@ -145,6 +145,7 @@
     }
 
     .header-divider { color: #ccc; margin: 0 10px; }
+    .short-info { display: none; }
 
     /* Spacer for fixed header */
     .header-spacer { height: 60px; }
@@ -178,7 +179,6 @@
         pointer-events: none;
     }
 
-    /* --- Nate's Tech Section --- */
     #nate-section {
         background-color: var(--bg-warm-grey);
         border-radius: 0;
@@ -186,6 +186,7 @@
         margin: 40px 0;
         overflow: hidden;
         position: relative; /* Context for absolute canvas */
+        font-family: var(--sans);
     }
 
     /* Canvas Background */
@@ -417,7 +418,11 @@
         box-shadow: 0 10px 20px rgba(0,0,0,0.1);
         transition: transform 0.3s ease;
         position: relative;
-        background: #eee;
+        background: var(--bg-cream); /* Match page background to avoid gray flash */
+        -webkit-backface-visibility: hidden; /* Fix for flicker */
+        backface-visibility: hidden;
+        transform: translateZ(0);
+        user-select: none;
     }
 
     .carousel-item img {
@@ -535,7 +540,19 @@
 
     /* --- Mobile Responsiveness --- */
     @media (max-width: 768px) {
-        .sticky-header { font-size: 0.8rem; }
+        .sticky-header { 
+            position: relative; 
+            padding: 10px 0;
+            background: var(--bg-cream);
+            border-bottom: 1px solid #eee;
+        }
+        .header-spacer { display: none; }
+        .brand-text { text-transform: uppercase; }
+        .full-info { display: none; }
+        .short-info { display: inline; }
+
+        .illustration-blob { display: none; }
+        
         h2.section-title { font-size: 2rem; }
         .editorial-dropcap { font-size: 4rem; }
         
@@ -544,10 +561,22 @@
             gap: 20px;
         }
         
+        /* Tighten Technical Department on Mobile */
+        #nate-section { 
+            padding: 30px 20px;
+            line-height: 1.4;
+        }
+        #nate-section h2 { 
+            font-size: 1.6rem !important; 
+            margin-bottom: 0.5rem !important;
+        }
+        #nate-section p { 
+            font-size: 0.95rem; 
+            margin-bottom: 0.8rem;
+        }
+        
         .tech-illustration { order: -1; margin-bottom: 10px; }
         .jeannie-sidebar { width: 100%; margin-top: 30px; }
-
-        #nate-section { padding: 30px 20px; }
         
         .scripture-block {
             font-size: 1.1rem;
@@ -560,8 +589,8 @@
 
 <div class="sticky-header" id="main-header">
     <div class="header-content">
-        <span>The Barksdales</span>
-        <span><span class="header-divider">|</span> 2025 Year in Review <span class="header-divider">|</span> Wash. DC</span>
+        <span class="brand-text">The Barksdales</span>
+        <span class="info-text"><span class="header-divider">|</span> <span class="full-info">2025 Year in Review <span class="header-divider">|</span> Wash. DC</span><span class="short-info">2025</span></span>
     </div>
 </div>
 <div class="header-spacer"></div>
@@ -603,7 +632,7 @@
                 
                 <div id="game-ui" style="margin-top: 2rem; text-align: center; font-family: var(--sans); font-size: 0.75rem; color: var(--accent-slate); opacity: 0.8;">
                     <span id="pilot-status" style="font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;">AI PILOT ENGAGED</span><br>
-                    <span>Tap background to take control</span>
+                    <span id="game-instructions">Tap background to take control</span>
                 </div>
             </div>
         </div>
@@ -869,6 +898,13 @@
         if (!canvas) return;
         const ctx = canvas.getContext('2d');
         const uiStatus = document.getElementById('pilot-status');
+        const uiInstructions = document.getElementById('game-instructions');
+
+        // Detect input type for instructions
+        const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+        if (uiInstructions && !isTouch) {
+            uiInstructions.innerText = "Use ← → keys to move, SPACE to shoot";
+        }
         
         // Colors from CSS variables (approximated)
         const COLORS = {
@@ -1183,9 +1219,10 @@
                 ctx.fillStyle = 'rgba(240, 238, 234, 0.9)'; 
                 ctx.fillRect(0, 0, canvas.width, canvas.height);
                 
-                // Monochrome and Faded Game Over Text
+                // Scale font size to canvas width
+                const fontSize = Math.min(60, Math.floor(canvas.width / 10));
                 ctx.fillStyle = 'rgba(54, 49, 61, 0.4)'; // text-dark but faded
-                ctx.font = '60px "Press Start 2P", cursive'; 
+                ctx.font = `${fontSize}px "Press Start 2P", cursive`; 
                 ctx.textAlign = 'center';
                 ctx.fillText("GAME OVER?", canvas.width/2, canvas.height/2);
             }
