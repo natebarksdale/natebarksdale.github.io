@@ -274,6 +274,10 @@
         .kids-grid {
             grid-template-columns: repeat(3, 1fr); /* Force 3 columns on desktop */
         }
+        .jeannie-sidebar {
+            font-size: 1.25rem;
+            line-height: 1.5;
+        }
     }
 
     .kid-card {
@@ -610,6 +614,38 @@
 
 <div class="container">
 
+    <!-- Quiz Section -->
+    <section id="quiz-section" class="animate-block" style="margin-bottom: 1rem; margin-top: 2rem;">
+        <div style="background: #fff; border: 2px dashed var(--accent-terra); padding: 30px 20px; text-align: center; position: relative; box-shadow: 0 4px 20px rgba(0,0,0,0.03);">
+            <h3 style="font-family: 'Permanent Marker', cursive; color: var(--accent-terra); font-size: 1.8rem; margin-bottom: 0.5rem; margin-top: 0;">Two Truths & A Lie: 2025 Edition</h3>
+            <p style="font-family: var(--serif); font-size: 1.1rem; margin-bottom: 1.5rem; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.4;">
+                Our printed card featured a quiz. All the answers are hidden in the stories below. 
+                <br>Can you spot the <strong>lie</strong> for each family member?
+            </p>
+            
+            <button id="start-quiz-btn" onclick="toggleQuiz()" style="
+                background: var(--accent-slate); 
+                color: #fff; 
+                border: none; 
+                padding: 12px 25px; 
+                font-family: var(--sans); 
+                font-weight: 700; 
+                text-transform: uppercase; 
+                letter-spacing: 0.05em;
+                cursor: pointer; 
+                transition: all 0.2s;
+            " onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='#4a6f84'" onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#5C7F94'">
+                Take the Quiz
+            </button>
+
+            <div id="quiz-content" style="display: none; margin-top: 30px; text-align: left; max-width: 650px; margin-left: auto; margin-right: auto;">
+                <div id="quiz-score" style="text-align: center; margin-bottom: 20px; font-weight: bold; font-family: var(--sans); color: var(--accent-gold); display: none;"></div>
+                <div id="quiz-questions"></div>
+                <div id="quiz-result" style="text-align: center; margin-top: 20px; font-weight: bold; font-family: 'Permanent Marker', cursive; font-size: 1.5rem; color: var(--accent-terra); display: none;"></div>
+            </div>
+        </div>
+    </section>
+
     <section id="intro">
         <div class="animate-block" style="transition-delay: 0.2s;">
             <p class="intro-lead">Well, friends, I’m afraid I have some bad news.</p>
@@ -627,8 +663,8 @@
             <div class="tech-content">
                 <span class="chip-label">// The Technical Department</span>
                 <h2 style="margin-bottom: 1rem; font-family: var(--sans); font-weight: 800; font-style: normal; font-size: 2.2rem;">Nate’s AI + Ethics</h2>
-                <p>If it’s Nate’s humor and wit you’re after, fear not—you can find more on the <a href="https://natebarksdale.xyz/experiments/travel-guide.html#">True/False travel guide</a> he vibe-coded on an airplane ride home from the west coast (where he took Estella for a special visit with grandparents harnessing the magic of AI.</p>
-                <p>Of course it’s not magic, but it’s a potent tool raising ethical and theological questions. Nate enjoyed exploring these at events like a <a href="https://www.harvard.edu/news/event/christian-theology-ai-and-the-future-of-religion">Harvard symposium on Christian Theology & AI</a>. Some of which he muses about on his <a href="https://natebarksdale.xyz">website</a>, while others he holds in tension as he makes intriguing AI-assisted creations.</p>
+                <p>If it’s Nate’s humor and wit you’re after, fear not—you can find more on the <a href="https://natebarksdale.xyz/experiments/travel-guide.html#">True/False travel guide</a> he vibe-coded on an airplane ride home from the west coast (where he took Estella for a special visit with grandparents) harnessing the magic of AI.</p>
+                <p>Of course it’s not magic, but it’s a potent set of tools raising ethical and theological questions, some of which Nate enjoyed exploring at events like a <a href="https://ccg.fas.harvard.edu/conference-pages/christianity-and-ai">Harvard symposium on Christian Theology & AI</a>. Some of which he muses about on his <a href="https://natebarksdale.xyz">website</a>, while others he holds in tension as he makes intriguing AI-assisted creations.</p>
                 
                 <div id="game-ui" style="margin-top: 2rem; text-align: center; font-family: var(--sans); font-size: 0.75rem; color: var(--accent-slate); opacity: 0.8;">
                     <span id="pilot-status" style="font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;">AI PILOT ENGAGED</span><br>
@@ -643,7 +679,7 @@
         <div class="jeannie-flex">
             <div class="jeannie-text">
                 <p>I wrote a lot this year—articles, blog posts, a book proposal—but only one thing about AI: <a href="https://tangible.ink/2025/11/17/what-ai-cant-do/">how AI cannot come after our most important job as humans</a>, to choose to pay honor and attention to each other.</p>
-                <p>Earnest, as promised. The big shift is conceiving of work not as my ‘job,’ but as varied ways I use my gifts in the world. It makes for a thin line between work and play, and ample room for learning through trial and error.</p>
+                <p>Earnest, as promised. The big shift is conceiving of work not as my ‘job,’ but as varied ways I use my gifts in the world. It makes for a thin line between work and play, and ample room for learning through trial and error, which I assume is an excellent example for my children.</p>
                 <p>In the coming days I'm going to be launching a reconfigured suite of websites, getting over my fear of putting my name front and center for the sake of offering clearer places to connect with all that <a href="https://jeannierose.is">jeannierose.is</a>.</p>
                 <p>I’ve been experimenting with creating space for people to grow (spiritual direction, retreats) and have built a law practice primarily serving non-profits as a partner with boutique firm <strong><a href="https://ch-llp.com">Castañeda + Heidelman</a></strong>.</p>
             </div>
@@ -670,7 +706,7 @@
                     <div id="age-chase" class="kid-age"></div>
                 </div>
                 <div class="kid-content">
-                    <p>Highlights: going to soccer games! A few DC United and Washington Spirit Games (go Spirit!). Collecting soccer jerseys (Portugal x 2, AC Milan). Guess you could say I like soccer.</p>
+                    <p>Highlights: going to soccer games! A few DC United and Washington Spirit Games (go Spirit!). Collecting soccer jerseys (Portugal x 2, AC Milan). I'm a bit of a soccer fan.</p>
                     <p>I am obsessed with looking up the most recent DC license plates on this website you have to apply to join. I finally got accepted this fall. I only like Hawaiian and ‘adult’ flavored pizzas, and lament they always feed kids pepperoni.</p>
                 </div>
             </div>
@@ -684,7 +720,7 @@
                     <div id="age-estella" class="kid-age"></div>
                 </div>
                 <div class="kid-content">
-                    <p>I am increasingly independent and mature (pardon while I jump up and down yelling “Harry Potter! Wingardium leviosa!”). I like finding clothes at clothing swaps and styling fun outfits. </p>
+                    <p>I am increasingly independent and mature (pardon while I jump up and down yelling “Harry Potter! <em>Wingardium leviosa!</em>”). I like finding clothes at clothing swaps and in my mom’s closet and styling fun outfits. I’m developing my art skills with online art classes. I’m good at making new friends, like in my second grade class when I didn’t known anyone and made a whole table of new friends.</p>
                     <p>Sometimes I make food for my sister and me, like quesadillas and my specialty, mushy black beans—but you won’t catch me braiding her hair. She’s too wiggly. I learned how to read and ride a bike this year. I’m on a roll, literally.</p>
                 </div>
             </div>
@@ -698,8 +734,8 @@
                     <div id="age-haven" class="kid-age"></div>
                 </div>
                 <div class="kid-content">
-                    <p>I liked watching unlimited Bluey when I broke my leg. My dream is to go in the pool every day. I make an excellent pig noise, played a pig in the nativity, and got three pig stuffies for Christmas.</p>
-                    <p>Guess you could say I’m fond of pigs! I am delightfully stubborn, blissfully ignoring my parents’ verbal instructions—but I’m a deep thinker, ask big questions (Daddy, is God real?), and don’t take no for an answer.</p>
+                    <p>I liked watching unlimited Bluey when I broke my leg. This injury also got me out of hiking more, which I also liked. Mom and Dad even bought me a cast cover so I could still swim at Oma’s. My dream is to go in the pool every day. I make an excellent pig noise, played a pig in the church nativity play, and got three pig stuffies for Christmas. Guess you could say I’m fond of pigs!</p>
+                    <p>I am delightfully stubborn, blissfully ignoring my parents’ verbal instructions—but I’m a deep thinker, ask big questions (<em>Daddy, is God real?</em>), and don’t take no for an answer.</p>
                 </div>
             </div>
         </div>
@@ -730,13 +766,13 @@
 
             <p>The thing is, like Nate holding AI questions in tension, we have also held dual realities this year. Conversations with neighbors tended to follow a pattern: <em>How are you? Fine, you? Fine. Well, actually things are kind of terrible. Yeah same.</em></p>
             
-            <p>Our family has been fine. More than fine, we’ve had wonderful adventures. I got to spend a week in Portugal, and our family took a beautiful trip to Denmark, including a charming pig farm and a jillion cool playgrounds. It was made richer by time spent with friends who introduced us to a wind-powered ship carrying organic wine.</p>
+            <p>Our family has been fine. Much more than fine — we’ve had wonderful adventures, hosted beloved guests, and enjoyed community with our church and neighborhood. Our kids continue to learn and grow. Nate and I get to do interesting work, and we keep finding we have enough. I got to spend a week in Portugal with my mom and siblings, and our family took a beautiful trip to Denmark, including a week on a charming pig farm with an unfortunately unvarnished tour of the actual pig operations, and a jillion cool playgrounds. It was made richer by time spent with Nate’s former coworker Corey and family, who introduced us to, among other things, a a wind-powered ship carrying organic wine which we joined other Danish foodies in helping unload. To our knowledge, despite numerous and earnest attempts, we never successfully pronounced a single Danish word.</p>
             
             <hr style="border-color: rgba(255,255,255,0.1); margin: 40px 0;">
 
-            <p>At the same time, living in Washington DC, we’re aware of, and witness among many we love, ways in which the challenges and changes of this year have been <strong>not fine</strong> for so many. We began the year aching with dear ones caring for vulnerable people worldwide, and have watched others in public service losing jobs, seeing important work destroyed. Even our kids see it, in the way immigration enforcement impacts their school community. There’s a lot in the world to mourn—even as there is much to celebrate.</p>
+            <p>At the same time, living in Washington DC, we’re aware of, and witness among many we love, ways in which the challenges and changes of this year have been <strong>not fine</strong> for so many. We began the year aching with dear ones caring for vulnerable people worldwide in USAID-funded work, and have watched others in our orbit who have devoted their lives to public service losing jobs or seeing important work destroyed. Even our kids see it, in the way immigration enforcement impacts their school community. There’s a lot in the world to mourn—even as there is much to celebrate.</p>
 
-            <h3 style="text-align: center; margin-top: 50px; font-family: var(--sans); letter-spacing: 0.05em;">What do we do with all this?</h3>
+            <h3 style="text-align: center; margin-top: 50px; font-family: var(--sans); letter-spacing: 0.05em;">What do we do with all this? You could do worse than heed this ancient advice:</h3>
 
             <div class="scripture-block animate-block" style="transition-delay: 0.3s">
                 Be joyful in hope, patient in affliction, faithful in prayer. Share with those in need. Practice hospitality. Bless those who persecute you; bless and do not curse. Rejoice with those who rejoice; mourn with those who mourn. . . . Do not be overcome by evil, but overcome evil with good.
@@ -749,6 +785,10 @@
         <span style="color: var(--accent-gold);">To overcoming evil with good!</span><br><br>
         Love,<br>
         <span style="font-family: 'Permanent Marker', cursive; font-size: 2.5rem; color: #fff; margin-top: 10px; display: block;">The Barksdales</span>
+        
+        <div style="margin-top: 60px; font-family: var(--sans); font-size: 0.8rem; opacity: 0.6; line-height: 1.6; max-width: 600px; margin-left: auto; margin-right: auto; font-weight: normal; text-transform: none; letter-spacing: normal;">
+            Text written by Jeannie Rose. Design and coding iterated by Nate using Google's Gemini Pro (mostly because he was out of Claude Code credits for a few hours). Gemini got enthusiastic and made some edits to the text as well, which we had to roll back manually. <em>O brave new world!</em>
+        </div>
     </footer>
 </section>
 
@@ -1290,6 +1330,173 @@
         }
         updateAges();
     })();
+
+    // --- Two Truths and a Lie Quiz ---
+    const quizData = [
+        {
+            subject: "In Denmark we...",
+            options: [
+                { text: "toured an industrial pig farm", isLie: false },
+                { text: "learned how to correctly pronounce smørrebrød", isLie: true }, // Lie
+                { text: "unloaded wine from a pirate ship", isLie: false }
+            ]
+        },
+        {
+            subject: "Chase (8-9) loves...",
+            options: [
+                { text: "pepperoni pizza", isLie: true }, // Lie
+                { text: "collecting soccer jerseys", isLie: false },
+                { text: "looking for high license plate numbers on licenseplates.cc", isLie: false }
+            ]
+        },
+        {
+            subject: "Estella (6-7) learned to...",
+            options: [
+                { text: "ride a bike", isLie: false },
+                { text: "make her own mushy black beans", isLie: false },
+                { text: "braid her sister’s hair", isLie: true } // Lie
+            ]
+        },
+        {
+            subject: "Haven (4-5) is fond of...",
+            options: [
+                { text: "Bluey", isLie: false },
+                { text: "following directions", isLie: true }, // Lie
+                { text: "pigs", isLie: false }
+            ]
+        },
+        {
+            subject: "Jeannie Rose...",
+            options: [
+                { text: "brought in a dozen new clients to her law practice", isLie: false },
+                { text: "ran a half marathon", isLie: true }, // Lie
+                { text: "is a nearly trained spiritual director", isLie: false }
+            ]
+        },
+        {
+            subject: "Nate...",
+            options: [
+                { text: "participated in a conference at Harvard on Christian theology and AI", isLie: false },
+                { text: "vibe-coded True/False Travel, a highly unreliable improvisational travel guide", isLie: false },
+                { text: "has been lobbying the family to get a dog", isLie: true } // Lie
+            ]
+        }
+    ];
+
+    let quizState = {
+        currentQuestion: 0,
+        score: 0,
+        answers: [] 
+    };
+
+    function toggleQuiz() {
+        const btn = document.getElementById('start-quiz-btn');
+        const content = document.getElementById('quiz-content');
+        
+        if (content.style.display === 'none') {
+            content.style.display = 'block';
+            btn.style.display = 'none'; // Hide button once started
+            renderQuiz();
+        }
+    }
+
+    function renderQuiz() {
+        const container = document.getElementById('quiz-questions');
+        const scoreEl = document.getElementById('quiz-score');
+        const resultEl = document.getElementById('quiz-result');
+        
+        if (quizState.currentQuestion >= quizData.length) {
+            // Finished
+            container.innerHTML = '';
+            scoreEl.style.display = 'none';
+            resultEl.style.display = 'block';
+            
+            let msg = "";
+            if (quizState.score === 6) msg = "Perfect Score! You know us too well!";
+            else if (quizState.score >= 4) msg = "Great job! You've been paying attention.";
+            else msg = "Thanks for playing! Read the stories below to find the answers.";
+            
+            resultEl.innerHTML = `${msg}<br><span style="font-family: var(--sans); font-size: 1rem; color: #555;">Final Score: ${quizState.score} / ${quizData.length}</span>`;
+            return;
+        }
+
+        const q = quizData[quizState.currentQuestion];
+        scoreEl.style.display = 'block';
+        scoreEl.innerText = `Question ${quizState.currentQuestion + 1} / ${quizData.length}`;
+
+        let html = `
+            <div style="background: var(--bg-warm-grey); padding: 20px; border-radius: 8px; animation: fadeInUp 0.5s;">
+                <h4 style="margin-top: 0; color: var(--text-dark); font-family: var(--sans); font-weight: 800; font-size: 1.1rem; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 15px;">
+                    ${q.subject}
+                    <span style="display:block; font-weight:normal; font-style:italic; font-size:0.85rem; color:#666; margin-top:5px;">(Find the Lie)</span>
+                </h4>
+                <div style="display: flex; flex-direction: column; gap: 10px;">
+        `;
+
+        q.options.forEach((opt, idx) => {
+            html += `
+                <button onclick="handleAnswer(${idx})" style="
+                    text-align: left;
+                    padding: 12px 15px;
+                    border: 2px solid #fff;
+                    background: #fff;
+                    cursor: pointer;
+                    font-family: var(--serif);
+                    font-size: 1rem;
+                    transition: all 0.2s;
+                    border-radius: 4px;
+                    color: var(--text-dark);
+                " onmouseover="this.style.borderColor='var(--accent-slate)'" onmouseout="this.style.borderColor='#fff'">
+                    ${String.fromCharCode(97 + idx)}) ${opt.text}
+                </button>
+            `;
+        });
+
+        html += `</div></div>`;
+        container.innerHTML = html;
+    }
+
+    window.handleAnswer = function(selectedIdx) {
+        const q = quizData[quizState.currentQuestion];
+        const isLie = q.options[selectedIdx].isLie;
+        
+        const container = document.getElementById('quiz-questions');
+        const buttons = container.querySelectorAll('button');
+        
+        // Show result
+        const feedbackMessages = ["Yeah, that's false!", "You found the lie!", "Lie detected!"];
+        const randomFeedback = feedbackMessages[Math.floor(Math.random() * feedbackMessages.length)];
+
+        buttons.forEach((btn, idx) => {
+            btn.disabled = true;
+            btn.onclick = null; // Prevent double clicks
+            if (q.options[idx].isLie) {
+                btn.style.background = '#d4edda'; // Greenish for the Lie (Correct answer)
+                btn.style.borderColor = '#c3e6cb';
+                if (idx === selectedIdx) {
+                    btn.innerHTML += ` <span style="font-family: 'Noto Emoji', sans-serif;">✅</span> <strong>(${randomFeedback})</strong>`;
+                } else {
+                    btn.innerHTML += ` <span style="font-family: 'Noto Emoji', sans-serif;">👈</span> <strong>(The Lie)</strong>`;
+                }
+            } else {
+                if (idx === selectedIdx) {
+                    btn.style.background = '#f8d7da'; // Reddish for Truth (Wrong answer)
+                    btn.style.borderColor = '#f5c6cb';
+                    btn.innerHTML += ` <span style="font-family: 'Noto Emoji', sans-serif;">❌</span> (Truth)`;
+                }
+            }
+        });
+
+        if (isLie) {
+            quizState.score++;
+        }
+
+        // Next question delay
+        setTimeout(() => {
+            quizState.currentQuestion++;
+            renderQuiz();
+        }, 1500);
+    }
 </script>
 
 </body>
